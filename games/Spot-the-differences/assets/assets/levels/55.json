@@ -1,0 +1,38 @@
+{
+  "resolution": "standard",
+  "image1": "slope_elephants_a.jpg",
+  "image2": "slope_elephants_b.jpg",
+  "differences":
+  [
+    {
+    "x": 229.0,
+    "y": 51.0,
+    "size": 100.0
+    },
+    {
+    "x": 125.0,
+    "y": 286.0,
+    "size": 120.0
+    },
+    {
+    "x": 386.0,
+    "y": 489.0,
+    "size": 90.0
+    },
+    {
+    "x": 727.0,
+    "y": 504.0,
+    "size": 50.0
+    },
+    {
+    "x": 972.0,
+    "y": 493.0,
+    "size": 150.0
+    },
+    {
+    "x": 950.0,
+    "y": 116.0,
+    "size": 50.0
+    }
+  ]
+}

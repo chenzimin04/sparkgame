@@ -1,0 +1,314 @@
+
+XLR8@0.5x.png
+size: 438,134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tackle-Effect-Base
+  rotate: false
+  xy: 165, 87
+  size: 110, 46
+  orig: 110, 46
+  offset: 0, 0
+  index: -1
+Tackle-Effect-Particle
+  rotate: false
+  xy: 180, 13
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+Tackle-Effect-White
+  rotate: false
+  xy: 276, 107
+  size: 86, 26
+  orig: 86, 26
+  offset: 0, 0
+  index: -1
+XLR8-hand-L
+  rotate: true
+  xy: 408, 79
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+XLR8-hand-R
+  rotate: false
+  xy: 340, 32
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+XLR8-hand1-L
+  rotate: true
+  xy: 1, 2
+  size: 19, 74
+  orig: 19, 74
+  offset: 0, 0
+  index: -1
+XLR8-hand1-R
+  rotate: true
+  xy: 364, 108
+  size: 25, 73
+  orig: 25, 73
+  offset: 0, 0
+  index: -1
+XLR8-handfinger1-L
+  rotate: false
+  xy: 419, 20
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+XLR8-handfinger1-R
+  rotate: true
+  xy: 407, 8
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+XLR8-handfinger2-L
+  rotate: false
+  xy: 259, 6
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+XLR8-handfinger2-R
+  rotate: false
+  xy: 407, 19
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+XLR8-head
+  rotate: false
+  xy: 129, 20
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+XLR8-hip
+  rotate: true
+  xy: 205, 2
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+XLR8-hip-light
+  rotate: true
+  xy: 325, 84
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+XLR8-hip1
+  rotate: true
+  xy: 338, 6
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+XLR8-leg-angale-L
+  rotate: true
+  xy: 228, 21
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+XLR8-leg-angale-R
+  rotate: true
+  xy: 309, 65
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+XLR8-leg-nee-L
+  rotate: true
+  xy: 393, 53
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+XLR8-leg-nee-R
+  rotate: false
+  xy: 185, 1
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+XLR8-leg-shorts-L
+  rotate: false
+  xy: 228, 47
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+XLR8-leg-shorts-R
+  rotate: true
+  xy: 76, 3
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+XLR8-leg-thigh-L
+  rotate: true
+  xy: 266, 59
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+XLR8-leg-thigh-R
+  rotate: true
+  xy: 276, 87
+  size: 19, 48
+  orig: 19, 48
+  offset: 0, 0
+  index: -1
+XLR8-legball-L
+  rotate: false
+  xy: 310, 4
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+XLR8-legball-R
+  rotate: false
+  xy: 406, 51
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+XLR8-legball-toe-L
+  rotate: false
+  xy: 406, 33
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+XLR8-legball-toe-R
+  rotate: false
+  xy: 167, 2
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+XLR8-legball-toe1-L
+  rotate: false
+  xy: 294, 11
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+XLR8-legball-toe1-R
+  rotate: false
+  xy: 419, 34
+  size: 11, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+XLR8-mouth
+  rotate: false
+  xy: 271, 6
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+XLR8-mouth-AA
+  rotate: false
+  xy: 310, 32
+  size: 29, 31
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+XLR8-mouth-sad
+  rotate: false
+  xy: 363, 49
+  size: 29, 31
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+XLR8-neck
+  rotate: true
+  xy: 363, 31
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+XLR8-shadow
+  rotate: false
+  xy: 1, 84
+  size: 163, 49
+  orig: 163, 49
+  offset: 0, 0
+  index: -1
+XLR8-spiky1
+  rotate: false
+  xy: 364, 81
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+XLR8-spiky2
+  rotate: false
+  xy: 225, 3
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+XLR8-tail
+  rotate: false
+  xy: 1, 23
+  size: 127, 60
+  orig: 127, 60
+  offset: 0, 0
+  index: -1
+tint-XLR8-back
+  rotate: true
+  xy: 422, 6
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+tint-XLR8-body
+  rotate: false
+  xy: 185, 28
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+tint-XLR8-leg-socks--L
+  rotate: true
+  xy: 271, 28
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+tint-XLR8-leg-socks--R
+  rotate: true
+  xy: 122, 1
+  size: 18, 43
+  orig: 18, 43
+  offset: 0, 0
+  index: -1
+tint-XLR8-shirt-light
+  rotate: false
+  xy: 392, 31
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+tint-XLR8-shoulder-L
+  rotate: true
+  xy: 363, 7
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+tint-XLR8-shoulder-R
+  rotate: false
+  xy: 389, 10
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1

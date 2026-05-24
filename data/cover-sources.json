@@ -1,0 +1,3336 @@
+{
+  "meta": {
+    "version": 1,
+    "updatedAt": "2026-05-23",
+    "description": "Seed review database for cover selection. Start with high-priority games and expand over time."
+  },
+  "reviewQueue": [
+    "find-a-difference",
+    "zoo-boom",
+    "galaxy-attack",
+    "dummies-world-cup",
+    "freekick-football-3d",
+    "parking-fury",
+    "basketball-crazy",
+    "candycrush",
+    "ballsortpuzzle"
+  ],
+  "games": {
+    "basketball-real": {
+      "gamePath": "games/Basketball_REAL/index.html",
+      "current": {
+        "cover": "game1/Basketball_REAL.jpg",
+        "icon": "games/Basketball_REAL/icon.png"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Basketball_REAL.jpg",
+          "usage": [
+            "featured",
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        },
+        {
+          "type": "screenshot",
+          "path": "games/Basketball_REAL/images/cs2.jpg",
+          "usage": [
+            "featured",
+            "shelf"
+          ],
+          "status": "approved"
+        },
+        {
+          "type": "icon",
+          "path": "games/Basketball_REAL/icon.png",
+          "usage": [
+            "random",
+            "icon"
+          ],
+          "status": "approved"
+        }
+      ],
+      "notes": "Clear focal subject. Keep as a good sports reference cover.",
+      "manualUpdatedAt": "2026-05-23T16:46:02.909Z"
+    },
+    "amazing-bubble-breaker": {
+      "gamePath": "games/Amazing-bubble-breaker/index.html",
+      "current": {
+        "cover": "game1/Amazing-bubble-breaker.jpg",
+        "icon": "games/Amazing-bubble-breaker/assets/favicon@2x.png"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Amazing-bubble-breaker.jpg",
+          "usage": [
+            "featured",
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        },
+        {
+          "type": "customCover",
+          "path": "assets/custom-covers/amazing-bubble-breaker.svg",
+          "usage": [
+            "featured",
+            "shelf"
+          ],
+          "status": "approved"
+        },
+        {
+          "type": "icon",
+          "path": "games/Amazing-bubble-breaker/assets/favicon@2x.png",
+          "usage": [
+            "random",
+            "icon"
+          ],
+          "status": "approved"
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.909Z"
+    },
+    "bird-sort-main": {
+      "gamePath": "games/Bird_Sort-main/index.html",
+      "current": {
+        "cover": "game1/Bird_Sort-main.jpg",
+        "icon": "games/Bird_Sort-main/icon.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Bird_Sort-main.jpg",
+          "usage": [
+            "featured",
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        },
+        {
+          "type": "icon",
+          "path": "games/Bird_Sort-main/icon.jpg",
+          "usage": [
+            "featured",
+            "shelf",
+            "random",
+            "icon"
+          ],
+          "status": "approved",
+          "fit": "contain"
+        }
+      ],
+      "notes": "Readable but not very sharp. Keep contain mode for now.",
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "crazy-parking": {
+      "gamePath": "games/crazy_parking/index.html",
+      "current": {
+        "cover": "game1/crazy_parking.jpg",
+        "icon": "games/crazy_parking/icon.png"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/crazy_parking.jpg",
+          "usage": [
+            "featured",
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        },
+        {
+          "type": "icon",
+          "path": "games/crazy_parking/icon.png",
+          "usage": [
+            "featured",
+            "shelf",
+            "random",
+            "icon"
+          ],
+          "status": "approved"
+        },
+        {
+          "type": "rejected",
+          "path": "games/crazy_parking/images/bgmaps-sheet0.png",
+          "reason": "Fragment texture, not a valid cover"
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "ballsortmaster": {
+      "gamePath": "games/BallSortMaster/index.html",
+      "current": {
+        "cover": "game1/BallSortMaster.jpg",
+        "icon": "assets/custom-covers/ball-sort-master.svg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/BallSortMaster.jpg",
+          "usage": [
+            "featured",
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        },
+        {
+          "type": "customCover",
+          "path": "assets/custom-covers/ball-sort-master.svg",
+          "usage": [
+            "featured",
+            "shelf",
+            "random",
+            "icon"
+          ],
+          "status": "approved"
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.909Z"
+    },
+    "galaxy-attack": {
+      "gamePath": "games/Galaxy_Attack/index.html",
+      "current": {
+        "cover": "game1/Galaxy_Attack.jpg",
+        "icon": "games/Galaxy_Attack/res/raw-assets/b7/b7e552f1-45f4-48c3-89c7-d273cc2e5de0.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Galaxy_Attack.jpg",
+          "usage": [
+            "featured",
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        },
+        {
+          "type": "background",
+          "path": "games/Galaxy_Attack/res/raw-assets/b7/b7e552f1-45f4-48c3-89c7-d273cc2e5de0.jpg",
+          "usage": [
+            "featured"
+          ],
+          "status": "review"
+        }
+      ],
+      "notes": "High-priority review item. Current art has mood but weak gameplay readability.",
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "dummies-world-cup": {
+      "gamePath": "games/dummies-world-cup/v1.0.3/index.html",
+      "current": {
+        "cover": "game1/dummies-world-cup.jpg",
+        "icon": "assets/icons/random/dummies-world-cup.svg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/dummies-world-cup.jpg",
+          "usage": [
+            "featured",
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        },
+        {
+          "type": "customCover",
+          "path": "assets/home-covers/dummies-world-cup.svg",
+          "usage": [
+            "featured"
+          ],
+          "status": "review"
+        },
+        {
+          "type": "rejected",
+          "path": "games/dummies-world-cup/v1.0.3/images/coverblack-sheet0.png",
+          "reason": "Black loading-screen feel is too strong"
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "freekick-football-3d": {
+      "gamePath": "games/Freekick_Football_3D/index.html",
+      "current": {
+        "cover": "game1/Freekick_Football_3D.jpg",
+        "icon": "games/Freekick_Football_3D/files/assets/32163892/1/blancoverde.png"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Freekick_Football_3D.jpg",
+          "usage": [
+            "featured",
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        },
+        {
+          "type": "loading",
+          "path": "games/Freekick_Football_3D/files/assets/32163892/1/blancoverde.png",
+          "usage": [
+            "shelf"
+          ],
+          "status": "review"
+        }
+      ],
+      "notes": "Needs a more convincing promo-style source image.",
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "parking-fury": {
+      "gamePath": "games/Parking_Fury/index.html",
+      "current": {
+        "cover": "game1/Parking_Fury.jpg",
+        "icon": "games/Parking_Fury/logo.jpeg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Parking_Fury.jpg",
+          "usage": [
+            "featured",
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        },
+        {
+          "type": "logo",
+          "path": "games/Parking_Fury/logo.jpeg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "review"
+        }
+      ],
+      "notes": "Current source reads like a logo. Replace with real scene art.",
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "find-a-difference": {
+      "gamePath": "games/Find_A_Difference/index.html",
+      "current": {
+        "cover": "game1/Find_A_Difference.jpg",
+        "icon": "assets/icons/random/find-a-difference.svg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Find_A_Difference.jpg",
+          "usage": [
+            "featured",
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        },
+        {
+          "type": "rejected",
+          "path": "games/Find_A_Difference/res/atlas/ui_loading.png",
+          "reason": "Typical loading screen art"
+        }
+      ],
+      "notes": "Must be replaced by manual cover work.",
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "zoo-boom": {
+      "gamePath": "games/Zoo_Boom/index.html",
+      "current": {
+        "cover": "game1/Zoo_Boom.jpg",
+        "icon": "games/Zoo_Boom/bg/water/bg_underwater_background.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Zoo_Boom.jpg",
+          "usage": [
+            "featured",
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        },
+        {
+          "type": "background",
+          "path": "games/Zoo_Boom/bg/water/bg_underwater_background.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "review"
+        }
+      ],
+      "notes": "Background only. Missing a clear subject.",
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "2048-remastered": {
+      "current": {
+        "cover": "game1/2048-remastered.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/2048-remastered.jpg",
+          "usage": [
+            "featured",
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.907Z"
+    },
+    "alien-attack": {
+      "current": {
+        "cover": "game1/alien_attack.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/alien_attack.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.909Z"
+    },
+    "artofdefense": {
+      "current": {
+        "cover": "game1/ArtOfDefense.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/ArtOfDefense.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.909Z"
+    },
+    "ballsortpuzzle": {
+      "current": {
+        "cover": "game1/BallSortPuzzle.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/BallSortPuzzle.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.909Z"
+    },
+    "basket-swooshes": {
+      "current": {
+        "cover": "game1/basket-swooshes.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/basket-swooshes.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.909Z"
+    },
+    "basketball-legends-2020": {
+      "current": {
+        "cover": "game1/basketball-legends-2020.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/basketball-legends-2020.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.909Z"
+    },
+    "basketball-crazy": {
+      "current": {
+        "cover": "game1/Basketball_Crazy.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Basketball_Crazy.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.909Z"
+    },
+    "bear-boom": {
+      "current": {
+        "cover": "game1/Bear_Boom.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Bear_Boom.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "blastify2": {
+      "current": {
+        "cover": "game1/blastify2.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/blastify2.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "blobopera": {
+      "current": {
+        "cover": "game1/BlobOpera.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/BlobOpera.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "blockup-puzzle": {
+      "current": {
+        "cover": "game1/blockup-puzzle.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/blockup-puzzle.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "blumgi-ball": {
+      "current": {
+        "cover": "game1/Blumgi_ball.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Blumgi_ball.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "bubble-up-endless": {
+      "current": {
+        "cover": "game1/bubble-up-endless.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/bubble-up-endless.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "bubble-up": {
+      "current": {
+        "cover": "game1/bubble-up.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/bubble-up.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "buildingahouse": {
+      "current": {
+        "cover": "game1/BuildingAHouse.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/BuildingAHouse.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "bus-driving": {
+      "current": {
+        "cover": "game1/Bus_Driving.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Bus_Driving.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "bus-parking-king": {
+      "current": {
+        "cover": "game1/Bus_Parking_King.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Bus_Parking_King.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "butterfly-shimai": {
+      "current": {
+        "cover": "game1/butterfly-shimai.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/butterfly-shimai.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "candyblast": {
+      "current": {
+        "cover": "game1/CandyBlast.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/CandyBlast.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "candycrush": {
+      "current": {
+        "cover": "game1/candyCrush.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/candyCrush.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "car-out": {
+      "current": {
+        "cover": "game1/car-out.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/car-out.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "christmas-connect": {
+      "current": {
+        "cover": "game1/Christmas_Connect.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Christmas_Connect.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "cocktailsort": {
+      "current": {
+        "cover": "game1/CocktailSort.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/CocktailSort.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "cube-tower": {
+      "current": {
+        "cover": "game1/Cube_Tower.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Cube_Tower.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "dance-battle": {
+      "current": {
+        "cover": "game1/Dance_Battle.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Dance_Battle.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "dd-2k-shoot": {
+      "current": {
+        "cover": "game1/DD-2K-Shoot.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/DD-2K-Shoot.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "dd-blastify": {
+      "current": {
+        "cover": "game1/dd-blastify.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/dd-blastify.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "dd-bottle-flip": {
+      "current": {
+        "cover": "game1/dd-bottle-flip.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/dd-bottle-flip.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "dd-pick-it": {
+      "current": {
+        "cover": "game1/dd-pick-it.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/dd-pick-it.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "dd-sand-sort-puzzle": {
+      "current": {
+        "cover": "game1/dd-sand-sort-puzzle.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/dd-sand-sort-puzzle.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "defendermaster1": {
+      "current": {
+        "cover": "game1/DefenderMaster1.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/DefenderMaster1.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "diamonddungeon": {
+      "current": {
+        "cover": "game1/DiamondDungeon.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/DiamondDungeon.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "differences-find": {
+      "current": {
+        "cover": "game1/Differences_Find.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Differences_Find.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "difference-fun": {
+      "current": {
+        "cover": "game1/Difference_Fun.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Difference_Fun.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "dinosaurs": {
+      "current": {
+        "cover": "game1/Dinosaurs.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Dinosaurs.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "donut-box": {
+      "current": {
+        "cover": "game1/donut-box.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/donut-box.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "drawthedefense": {
+      "current": {
+        "cover": "game1/DrawTheDefense.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/DrawTheDefense.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "dream-home-merge-design": {
+      "current": {
+        "cover": "game1/Dream_Home_Merge_Design.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Dream_Home_Merge_Design.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "endlessseige": {
+      "current": {
+        "cover": "game1/endlessseige.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/endlessseige.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "epic-blocollapse": {
+      "current": {
+        "cover": "game1/Epic_Blocollapse.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Epic_Blocollapse.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "fill-pix": {
+      "current": {
+        "cover": "game1/fill-pix.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/fill-pix.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "filling-lines": {
+      "current": {
+        "cover": "game1/filling-lines.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/filling-lines.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "findthedifferencebest": {
+      "current": {
+        "cover": "game1/FindTheDifferenceBest.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/FindTheDifferenceBest.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "findthedifferencefovere": {
+      "current": {
+        "cover": "game1/FindTheDifferenceFovere.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/FindTheDifferenceFovere.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "find-500-difference": {
+      "current": {
+        "cover": "game1/Find_500_Difference.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Find_500_Difference.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "find-differences": {
+      "current": {
+        "cover": "game1/Find_Differences.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Find_Differences.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "find-difference-2024": {
+      "current": {
+        "cover": "game1/Find_Difference_2024.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Find_Difference_2024.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "food-puzzle": {
+      "current": {
+        "cover": "game1/food-puzzle.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/food-puzzle.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "footballkick3d": {
+      "current": {
+        "cover": "game1/FootballKick3D.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/FootballKick3D.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "forgottentreasure2": {
+      "current": {
+        "cover": "game1/ForgottenTreasure2.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/ForgottenTreasure2.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "free-birds": {
+      "current": {
+        "cover": "game1/free-birds.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/free-birds.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "frontline": {
+      "current": {
+        "cover": "game1/Frontline.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Frontline.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "fruitmas": {
+      "current": {
+        "cover": "game1/fruitmas.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/fruitmas.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "fruitmaster": {
+      "current": {
+        "cover": "game1/FruitMaster.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/FruitMaster.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.910Z"
+    },
+    "fruits-slot-machine": {
+      "current": {
+        "cover": "game1/fruits-slot-machine.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/fruits-slot-machine.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "galaga-assault": {
+      "current": {
+        "cover": "game1/Galaga_Assault.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Galaga_Assault.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "galaxy-war": {
+      "current": {
+        "cover": "game1/Galaxy_War.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Galaxy_War.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "garden-bloom": {
+      "current": {
+        "cover": "game1/garden-bloom.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/garden-bloom.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "germ-war": {
+      "current": {
+        "cover": "game1/Germ_War.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Germ_War.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "goodsortmaster": {
+      "current": {
+        "cover": "game1/GoodSortMaster.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/GoodSortMaster.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "halloween-knife": {
+      "current": {
+        "cover": "game1/halloween-knife.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/halloween-knife.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "happy-connect": {
+      "current": {
+        "cover": "game1/happy-connect.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/happy-connect.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "hexagon-block-sort": {
+      "current": {
+        "cover": "game1/Hexagon_Block_Sort.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Hexagon_Block_Sort.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "jelly-boom": {
+      "current": {
+        "cover": "game1/Jelly_Boom.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Jelly_Boom.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "jewels-blitz-6": {
+      "current": {
+        "cover": "game1/Jewels_Blitz_6.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Jewels_Blitz_6.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "jigsaw-casual": {
+      "current": {
+        "cover": "game1/jigsaw-casual.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/jigsaw-casual.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "kids-alphabet": {
+      "current": {
+        "cover": "game1/kids-alphabet.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/kids-alphabet.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "kids-coloring": {
+      "current": {
+        "cover": "game1/kids-coloring.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/kids-coloring.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "kids-spelling": {
+      "current": {
+        "cover": "game1/kids-spelling.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/kids-spelling.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "king-of-mahjong": {
+      "current": {
+        "cover": "game1/king-of-mahjong.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/king-of-mahjong.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "kitty-jewel-quest": {
+      "current": {
+        "cover": "game1/Kitty_Jewel_Quest.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Kitty_Jewel_Quest.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "la-football": {
+      "current": {
+        "cover": "game1/La_Football.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/La_Football.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "liquidssort": {
+      "current": {
+        "cover": "game1/LiquidsSort.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/LiquidsSort.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "magic-tiles3-online-z": {
+      "current": {
+        "cover": "game1/Magic_Tiles3_Online_Z.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Magic_Tiles3_Online_Z.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "marketsort": {
+      "current": {
+        "cover": "game1/MarketSort.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/MarketSort.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "match-arena": {
+      "current": {
+        "cover": "game1/match-arena.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/match-arena.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "match-shapes": {
+      "current": {
+        "cover": "game1/match-shapes.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/match-shapes.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "memory-match": {
+      "current": {
+        "cover": "game1/memory-match.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/memory-match.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "merge-heroes-fix": {
+      "current": {
+        "cover": "game1/merge-heroes-fix.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/merge-heroes-fix.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "merge-push": {
+      "current": {
+        "cover": "game1/merge-push.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/merge-push.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "mergeattack": {
+      "current": {
+        "cover": "game1/MergeAttack.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/MergeAttack.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "mergefish": {
+      "current": {
+        "cover": "game1/mergefish.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/mergefish.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "merge-battle": {
+      "current": {
+        "cover": "game1/Merge_Battle.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Merge_Battle.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "merge-gun-elite-shooting": {
+      "current": {
+        "cover": "game1/Merge_Gun_Elite_Shooting.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Merge_Gun_Elite_Shooting.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "merge-love": {
+      "current": {
+        "cover": "game1/Merge_love.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Merge_love.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "merge-tanks": {
+      "current": {
+        "cover": "game1/Merge_Tanks.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Merge_Tanks.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "merge-world": {
+      "current": {
+        "cover": "game1/Merge_World.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Merge_World.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "meteorite-shooter": {
+      "current": {
+        "cover": "game1/Meteorite_Shooter.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Meteorite_Shooter.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "monster-duo": {
+      "current": {
+        "cover": "game1/Monster-duo.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Monster-duo.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "motox3m1": {
+      "current": {
+        "cover": "game1/motox3m1.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/motox3m1.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "motox3m2": {
+      "current": {
+        "cover": "game1/motox3m2.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/motox3m2.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "motox3m3": {
+      "current": {
+        "cover": "game1/motox3m3.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/motox3m3.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "motox3m4": {
+      "current": {
+        "cover": "game1/motox3m4.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/motox3m4.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "motox3m5": {
+      "current": {
+        "cover": "game1/motox3m5.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/motox3m5.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "motox3m6": {
+      "current": {
+        "cover": "game1/motox3m6.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/motox3m6.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "movethecar": {
+      "current": {
+        "cover": "game1/MoveTheCar.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/MoveTheCar.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "music-line-3d": {
+      "current": {
+        "cover": "game1/Music_Line_3D.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Music_Line_3D.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "music-surf-christmas": {
+      "current": {
+        "cover": "game1/Music_Surf_Christmas.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Music_Surf_Christmas.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "oceanblastmatch3": {
+      "current": {
+        "cover": "game1/OceanBlastMatch3.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/OceanBlastMatch3.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "ocho": {
+      "current": {
+        "cover": "game1/ocho.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/ocho.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "onet-fruit-classic": {
+      "current": {
+        "cover": "game1/onet-fruit-classic.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/onet-fruit-classic.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "onet-paradise": {
+      "current": {
+        "cover": "game1/onet-paradise.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/onet-paradise.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "onet-world": {
+      "current": {
+        "cover": "game1/onet-world.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/onet-world.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "onet-link": {
+      "current": {
+        "cover": "game1/Onet_Link.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Onet_Link.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "one-connect-main": {
+      "current": {
+        "cover": "game1/One_Connect-main.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/One_Connect-main.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "parking-way": {
+      "current": {
+        "cover": "game1/parking-way.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/parking-way.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "parkingout": {
+      "current": {
+        "cover": "game1/ParkingOut.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/ParkingOut.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "parking-ace-3d": {
+      "current": {
+        "cover": "game1/Parking_Ace_3d.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Parking_Ace_3d.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "parking-slot": {
+      "current": {
+        "cover": "game1/Parking_Slot.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Parking_Slot.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "parkmania": {
+      "current": {
+        "cover": "game1/parkmania.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/parkmania.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "people-onet": {
+      "current": {
+        "cover": "game1/people-onet.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/people-onet.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "perfect-piano-2": {
+      "current": {
+        "cover": "game1/Perfect_Piano_2.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Perfect_Piano_2.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "pianotitle": {
+      "current": {
+        "cover": "game1/PianoTitle.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/PianoTitle.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "piano-fire": {
+      "current": {
+        "cover": "game1/Piano_Fire.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Piano_Fire.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "piano-music-tiles": {
+      "current": {
+        "cover": "game1/Piano_Music_Tiles.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Piano_Music_Tiles.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "pinao-keys": {
+      "current": {
+        "cover": "game1/Pinao_Keys.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Pinao_Keys.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "pixel-match": {
+      "current": {
+        "cover": "game1/pixel-match.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/pixel-match.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "plinko-frenzy": {
+      "current": {
+        "cover": "game1/plinko-frenzy.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/plinko-frenzy.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "pocket-parking": {
+      "current": {
+        "cover": "game1/Pocket_Parking.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Pocket_Parking.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "powerpopblast": {
+      "current": {
+        "cover": "game1/PowerPopBlast.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/PowerPopBlast.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "pretty-tiles": {
+      "current": {
+        "cover": "game1/pretty-tiles.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/pretty-tiles.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "puppy-blast": {
+      "current": {
+        "cover": "game1/Puppy_Blast.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Puppy_Blast.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "quiz-star": {
+      "current": {
+        "cover": "game1/quiz-star.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/quiz-star.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "rope-color-sort-3d": {
+      "current": {
+        "cover": "game1/rope-color-sort-3d.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/rope-color-sort-3d.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "royalcrownblast": {
+      "current": {
+        "cover": "game1/RoyalCrownBlast.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/RoyalCrownBlast.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "scooer-hero": {
+      "current": {
+        "cover": "game1/scooer_hero.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/scooer_hero.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "shapes-puzzle": {
+      "current": {
+        "cover": "game1/shapes-puzzle.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/shapes-puzzle.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "shootero": {
+      "current": {
+        "cover": "game1/Shootero.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Shootero.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "solitaire": {
+      "current": {
+        "cover": "game1/Solitaire.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Solitaire.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "space-attack": {
+      "current": {
+        "cover": "game1/space_attack.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/space_attack.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "space-shooter": {
+      "current": {
+        "cover": "game1/Space_Shooter.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Space_Shooter.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "sport-challenge": {
+      "current": {
+        "cover": "game1/sport-challenge.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/sport-challenge.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "spot-the-differences": {
+      "current": {
+        "cover": "game1/Spot-the-differences.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Spot-the-differences.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "spotdiffers": {
+      "current": {
+        "cover": "game1/SpotDiffers.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/SpotDiffers.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "stacky-clown": {
+      "current": {
+        "cover": "game1/stacky-clown.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/stacky-clown.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "star-boom": {
+      "current": {
+        "cover": "game1/Star_Boom.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Star_Boom.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "stickmerge": {
+      "current": {
+        "cover": "game1/StickMerge.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/StickMerge.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "subway-surfers-tokyo": {
+      "current": {
+        "cover": "game1/subway-surfers-tokyo.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/subway-surfers-tokyo.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "subway-surfers-venice": {
+      "current": {
+        "cover": "game1/subway-surfers-venice.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/subway-surfers-venice.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "subway-surfers-winter-holiday": {
+      "current": {
+        "cover": "game1/subway-surfers-winter-holiday.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/subway-surfers-winter-holiday.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "subway-surfers-zurich": {
+      "current": {
+        "cover": "game1/Subway-Surfers-Zurich.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Subway-Surfers-Zurich.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "subway-surfers-san-francisco": {
+      "current": {
+        "cover": "game1/subway-surfers_san-francisco.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/subway-surfers_san-francisco.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "subwaysurfers-vegas": {
+      "current": {
+        "cover": "game1/SubwaySurfers_vegas.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/SubwaySurfers_vegas.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "subway-surfers-rio": {
+      "current": {
+        "cover": "game1/subway_surfers_rio.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/subway_surfers_rio.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "subway-surfer-hongkong": {
+      "current": {
+        "cover": "game1/Subway_Surfer_Hongkong.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Subway_Surfer_Hongkong.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "subway-surfer-iceisland": {
+      "current": {
+        "cover": "game1/Subway_Surfer_IceIsland.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Subway_Surfer_IceIsland.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "subway-surfer-marrakesh": {
+      "current": {
+        "cover": "game1/Subway_Surfer_Marrakesh.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Subway_Surfer_Marrakesh.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "tetra-blocks": {
+      "current": {
+        "cover": "game1/tetra-blocks.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/tetra-blocks.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "the-pets-rush": {
+      "current": {
+        "cover": "game1/The_Pets_Rush.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/The_Pets_Rush.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "tile-connect": {
+      "current": {
+        "cover": "game1/Tile_Connect.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Tile_Connect.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "tooncup": {
+      "current": {
+        "cover": "game1/tooncup.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/tooncup.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "tower-defense-mingling": {
+      "current": {
+        "cover": "game1/tower-defense-mingling.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/tower-defense-mingling.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "towerdefense": {
+      "current": {
+        "cover": "game1/towerDefense.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/towerDefense.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "towerdefensegalaxy": {
+      "current": {
+        "cover": "game1/TowerDefenseGalaxy.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/TowerDefenseGalaxy.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "towerdefenseyandex": {
+      "current": {
+        "cover": "game1/TowerDefenseYandex.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/TowerDefenseYandex.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "tower-defense-battle": {
+      "current": {
+        "cover": "game1/Tower_Defense_Battle.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/Tower_Defense_Battle.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "two-dots-remastered": {
+      "current": {
+        "cover": "game1/two-dots-remastered.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/two-dots-remastered.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "watersort": {
+      "current": {
+        "cover": "game1/WaterSort.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/WaterSort.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "wooden-slide": {
+      "current": {
+        "cover": "game1/wooden-slide.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/wooden-slide.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "word-clues": {
+      "current": {
+        "cover": "game1/word-clues.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/word-clues.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "word-haven": {
+      "current": {
+        "cover": "game1/word-haven.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/word-haven.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "world-cup-fever": {
+      "current": {
+        "cover": "game1/world-cup-fever.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/world-cup-fever.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "world-puzzle": {
+      "current": {
+        "cover": "game1/world-puzzle.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/world-puzzle.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    },
+    "xmas-tiles": {
+      "current": {
+        "cover": "game1/xmas-tiles.jpg"
+      },
+      "candidates": [
+        {
+          "type": "manualScreenshot",
+          "path": "game1/xmas-tiles.jpg",
+          "usage": [
+            "shelf"
+          ],
+          "status": "approved",
+          "source": "game1",
+          "score": 1000
+        }
+      ],
+      "manualUpdatedAt": "2026-05-23T16:46:02.911Z"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#dff5ff"/><stop offset="1" stop-color="#fff0dd"/></linearGradient></defs>
+  <rect width="640" height="380" fill="url(#bg)"/>
+  <rect x="82" y="94" width="186" height="198" rx="18" fill="#ffffff" stroke="#ffc45a" stroke-width="8"/>
+  <rect x="372" y="94" width="186" height="198" rx="18" fill="#ffffff" stroke="#ffc45a" stroke-width="8"/>
+  <g fill="#7ad35c"><circle cx="146" cy="160" r="18"/><circle cx="436" cy="160" r="18"/></g>
+  <g fill="#ff8e4a"><rect x="176" y="132" width="34" height="56" rx="8"/><rect x="466" y="132" width="34" height="56" rx="8"/></g>
+  <g fill="#67c6ff"><path d="M130 232h82l-16 34h-50Z"/><path d="M420 232h82l-16 34h-50Z"/></g>
+  <circle cx="314" cy="194" r="52" fill="none" stroke="#ff5a54" stroke-width="12"/><path d="M350 230 390 270" stroke="#ff5a54" stroke-width="12" stroke-linecap="round"/>
+  <text x="108" y="74" fill="#3b5574" font-size="54" font-family="Segoe UI, Arial, sans-serif" font-weight="800">FIND A DIFFERENCE</text>
+</svg>

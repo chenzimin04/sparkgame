@@ -1,0 +1,27 @@
+
+skel_tech_plane.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ddd1
+  rotate: false
+  xy: 419, 280
+  size: 160, 180
+  orig: 160, 180
+  offset: 0, 0
+  index: -1
+shan
+  rotate: false
+  xy: 1, 43
+  size: 417, 417
+  orig: 417, 417
+  offset: 0, 0
+  index: -1
+tttt1
+  rotate: true
+  xy: 1, 1
+  size: 41, 173
+  orig: 41, 173
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,151 @@
+{
+	"type": "View",
+	"props": {
+		"width": 725,
+		"height": 210
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"width": 725,
+				"var": "bgImg",
+				"skin": "images/shop/icon_rc_bg_cjbx.png",
+				"rotation": 0,
+				"height": 210
+			},
+			"compId": 3,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 116,
+						"x": 496,
+						"var": "imgNone",
+						"skin": "images/shop/icon_ysq.png"
+					},
+					"compId": 8
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 146,
+						"x": 574,
+						"width": 210,
+						"var": "btnGet",
+						"skin": "images/shop/button_blue.png",
+						"sizeGrid": "38,48,46,53",
+						"label": "label",
+						"height": 87,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 4,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 15,
+								"x": 70,
+								"var": "iconFree",
+								"skin": "images/shop/button_word_mf.png",
+								"label": "label"
+							},
+							"compId": 9,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": -10,
+										"x": 95,
+										"skin": "images/shop/red.png"
+									},
+									"compId": 12
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 13,
+								"x": 40,
+								"var": "iconAd",
+								"skin": "images/shop/button_sp.png",
+								"label": "label"
+							},
+							"compId": 10,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 1,
+										"x": 59,
+										"skin": "images/shop/button_word_mf.png",
+										"label": "label"
+									},
+									"compId": 11
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 16,
+								"x": 41,
+								"var": "iconDaimond",
+								"skin": "images/shop/icon_zy_zs.png",
+								"label": "label"
+							},
+							"compId": 5,
+							"child": [
+								{
+									"type": "Label",
+									"props": {
+										"y": 4,
+										"x": 59,
+										"var": "labDaimond",
+										"text": "300",
+										"stroke": 1,
+										"fontSize": 36,
+										"color": "#ffffff",
+										"bold": true
+									},
+									"compId": 6
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 69,
+						"x": 448,
+						"width": 260,
+						"var": "labWait",
+						"text": "72:23:21后免费开启",
+						"stroke": 1,
+						"rotation": 0,
+						"height": 24,
+						"fontSize": 24,
+						"color": "#0cef15",
+						"bold": true,
+						"align": "center"
+					},
+					"compId": 7
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/shop/icon_rc_bg_cjbx.png",
+		"images/shop/icon_ysq.png",
+		"images/shop/button_blue.png",
+		"images/shop/button_word_mf.png",
+		"images/shop/red.png",
+		"images/shop/button_sp.png",
+		"images/shop/icon_zy_zs.png"
+	],
+	"loadList3D": []
+}

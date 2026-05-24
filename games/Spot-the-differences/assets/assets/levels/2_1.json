@@ -1,0 +1,23 @@
+{
+  "resolution": "standard",
+  "image1": "frog_plushie_a.jpg",
+  "image2": "frog_plushie_b.jpg",
+  "differences":
+  [
+    {
+      "x": 615.0,
+      "y": 161.0,
+      "size": 70.0
+    },
+    {
+      "x": 603.0,
+      "y": 573.0,
+      "size": 70.0
+    },
+    {
+      "x": 412.0,
+      "y": 565.0,
+      "size": 90.0
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+
+Apple.webp
+size: 1032,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Apple-Eye-R-Tight-Close
+  rotate: true
+  xy: 601, 154
+  size: 113, 17
+  orig: 113, 17
+  offset: 0, 0
+  index: -1
+Apple-Eye-White-R
+  rotate: false
+  xy: 414, 4
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+Apple-Eye-White-R-Sad
+  rotate: false
+  xy: 975, 175
+  size: 55, 32
+  orig: 55, 32
+  offset: 0, 0
+  index: -1
+Apple-Eyeball-R
+  rotate: false
+  xy: 783, 3
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+Apple-Eyebrow-Happy
+  rotate: true
+  xy: 523, 140
+  size: 127, 18
+  orig: 127, 18
+  offset: 0, 0
+  index: -1
+Apple-Eyebrow-R
+  rotate: false
+  xy: 297, 7
+  size: 56, 10
+  orig: 56, 10
+  offset: 0, 0
+  index: -1
+Apple-Eyebrow-R-Sad
+  rotate: false
+  xy: 725, 2
+  size: 56, 23
+  orig: 56, 23
+  offset: 0, 0
+  index: -1
+Apple-Eyebrow-Sad1
+  rotate: true
+  xy: 543, 140
+  size: 127, 18
+  orig: 127, 18
+  offset: 0, 0
+  index: -1
+Apple-Face
+  rotate: true
+  xy: 2, 5
+  size: 262, 238
+  orig: 262, 238
+  offset: 0, 0
+  index: -1
+Apple-Hair
+  rotate: false
+  xy: 620, 163
+  size: 25, 104
+  orig: 25, 104
+  offset: 0, 0
+  index: -1
+Apple-L-Palm-Fall
+  rotate: true
+  xy: 875, 86
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+Apple-L-Palm-Fold1
+  rotate: false
+  xy: 908, 13
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+Apple-L-Palm-Idle
+  rotate: true
+  xy: 857, 4
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+Apple-L-Palm-Open
+  rotate: false
+  xy: 696, 105
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+Apple-L-Palm-Open1
+  rotate: false
+  xy: 967, 68
+  size: 57, 42
+  orig: 57, 42
+  offset: 0, 0
+  index: -1
+Apple-L-Shorts
+  rotate: false
+  xy: 820, 106
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+Apple-Leave
+  rotate: false
+  xy: 471, 2
+  size: 95, 88
+  orig: 95, 88
+  offset: 0, 0
+  index: -1
+Apple-Mouth-Excited
+  rotate: true
+  xy: 875, 137
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+Apple-Mouth-Fall
+  rotate: true
+  xy: 661, 98
+  size: 69, 33
+  orig: 69, 33
+  offset: 0, 0
+  index: -1
+Apple-Mouth-Happy
+  rotate: true
+  xy: 568, 4
+  size: 87, 60
+  orig: 87, 60
+  offset: 0, 0
+  index: -1
+Apple-Mouth-Normal
+  rotate: true
+  xy: 757, 27
+  size: 76, 29
+  orig: 76, 29
+  offset: 0, 0
+  index: -1
+Apple-Mouth-Sad
+  rotate: true
+  xy: 725, 27
+  size: 76, 30
+  orig: 76, 30
+  offset: 0, 0
+  index: -1
+Apple-Mouth-Sad1
+  rotate: false
+  xy: 242, 2
+  size: 43, 15
+  orig: 43, 15
+  offset: 0, 0
+  index: -1
+Apple-Mouth-Smile
+  rotate: false
+  xy: 810, 9
+  size: 45, 17
+  orig: 45, 17
+  offset: 0, 0
+  index: -1
+Apple-R-Hand
+  rotate: false
+  xy: 689, 19
+  size: 34, 77
+  orig: 34, 77
+  offset: 0, 0
+  index: -1
+Apple-R-Leg
+  rotate: false
+  xy: 563, 154
+  size: 36, 113
+  orig: 36, 113
+  offset: 0, 0
+  index: -1
+Apple-R-Palm-Fall
+  rotate: true
+  xy: 788, 28
+  size: 75, 32
+  orig: 75, 32
+  offset: 0, 0
+  index: -1
+Apple-R-Palm-Fold
+  rotate: false
+  xy: 908, 64
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+Apple-R-Palm-Fold1
+  rotate: false
+  xy: 953, 13
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+Apple-R-Palm-Idle
+  rotate: true
+  xy: 523, 93
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+Apple-R-Palm-Open
+  rotate: false
+  xy: 758, 105
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+Apple-R-Palm-Open1
+  rotate: true
+  xy: 577, 93
+  size: 59, 44
+  orig: 59, 44
+  offset: 0, 0
+  index: -1
+Apple-R-Palm-Open2
+  rotate: false
+  xy: 975, 112
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+Apple-R-Shoe
+  rotate: true
+  xy: 630, 2
+  size: 90, 57
+  orig: 90, 57
+  offset: 0, 0
+  index: -1
+Apple-R-Shorts
+  rotate: false
+  xy: 822, 43
+  size: 51, 61
+  orig: 51, 61
+  offset: 0, 0
+  index: -1
+Apple-Shadow
+  rotate: false
+  xy: 647, 169
+  size: 326, 98
+  orig: 326, 98
+  offset: 0, 0
+  index: -1
+Effect-Base
+  rotate: true
+  xy: 369, 44
+  size: 223, 95
+  orig: 223, 95
+  offset: 0, 0
+  index: -1
+Effect-Particle
+  rotate: false
+  xy: 287, 5
+  size: 8, 12
+  orig: 10, 14
+  offset: 1, 1
+  index: -1
+Effect-White
+  rotate: true
+  xy: 466, 92
+  size: 175, 55
+  orig: 175, 55
+  offset: 0, 0
+  index: -1
+tint-Apple-Body
+  rotate: true
+  xy: 242, 19
+  size: 248, 125
+  orig: 248, 125
+  offset: 0, 0
+  index: -1
+tint-Apple-L-Shoulder
+  rotate: true
+  xy: 975, 209
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1
+tint-Apple-L-Socks
+  rotate: false
+  xy: 369, 3
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+tint-Apple-R-Shoulder
+  rotate: false
+  xy: 908, 110
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+tint-Apple-R-Socks
+  rotate: false
+  xy: 623, 94
+  size: 36, 67
+  orig: 36, 67
+  offset: 0, 0
+  index: -1

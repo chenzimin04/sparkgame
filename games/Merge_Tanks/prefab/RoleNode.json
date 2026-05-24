@@ -1,0 +1,407 @@
+{
+    "type": "View",
+    "props": {
+        "y": 0,
+        "x": 0,
+        "width": 1360,
+        "presetID": 1,
+        "name": "RoleNode",
+        "isPresetRoot": true,
+        "height": 720
+    },
+    "compId": 534,
+    "child": [{
+        "type": "Image",
+        "props": {
+            "y": 360,
+            "x": 640,
+            "width": 1280,
+            "presetID": 2,
+            "name": "content",
+            "height": 720,
+            "anchorY": 0.5,
+            "anchorX": 0.5
+        },
+        "compId": 1789,
+        "child": [{
+            "type": "Button",
+            "props": {
+                "y": 48,
+                "x": 45,
+                "stateNum": 1,
+                "skin": "resources/prefab/btn_back.png",
+                "presetID": 3,
+                "name": "btn_close"
+            },
+            "compId": 1787
+        }, {
+            "type": "Button",
+            "props": {
+                "y": 136,
+                "x": 112,
+                "stateNum": 2,
+                "skin": "resources/prefab/btn_tank.png",
+                "presetID": 4,
+                "name": "btn_tank"
+            },
+            "compId": 1805
+        }, {
+            "type": "Button",
+            "props": {
+                "y": 289,
+                "x": 112,
+                "stateNum": 2,
+                "skin": "resources/prefab/btn_uav.png",
+                "presetID": 5,
+                "name": "btn_uav"
+            },
+            "compId": 1819
+        }, {
+            "type": "Sprite",
+            "props": {
+                "y": 136,
+                "x": 186,
+                "texture": "resources/prefab/role_left_bg.png",
+                "presetID": 6,
+                "name": "left_bg"
+            },
+            "compId": 1806
+        }, {
+            "type": "List",
+            "props": {
+                "y": 145,
+                "x": 195,
+                "width": 245,
+                "spaceY": 5,
+                "spaceX": 0,
+                "repeatY": 6,
+                "repeatX": 1,
+                "presetID": 7,
+                "name": "ListView",
+                "height": 486
+            },
+            "compId": 1818,
+            "child": [{
+                "type": "Box",
+                "props": {
+                    "y": 0,
+                    "x": 0,
+                    "width": 245,
+                    "runtime": "script/prefab/RoleItem.ts",
+                    "presetID": 8,
+                    "name": "render",
+                    "height": 89
+                },
+                "compId": 1808,
+                "child": [{
+                    "type": "Image",
+                    "props": {
+                        "y": 0,
+                        "x": 0,
+                        "width": 225,
+                        "skin": "resources/prefab/role_item_bg.png",
+                        "presetID": 9,
+                        "name": "item_bg",
+                        "height": 89
+                    },
+                    "compId": 1809
+                }, {
+                    "type": "Sprite",
+                    "props": {
+                        "y": 0,
+                        "x": 0,
+                        "width": 245,
+                        "texture": "resources/prefab/role_item_selected.png",
+                        "presetID": 10,
+                        "name": "selected",
+                        "height": 89
+                    },
+                    "compId": 1820
+                }, {
+                    "type": "Image",
+                    "props": {
+                        "y": 9,
+                        "x": 4,
+                        "width": 80,
+                        "skin": "resources/lobby/tank/1.png",
+                        "presetID": 11,
+                        "name": "icon_tank",
+                        "height": 62
+                    },
+                    "compId": 1821
+                }, {
+                    "type": "Label",
+                    "props": {
+                        "y": 18,
+                        "x": 85,
+                        "width": 127,
+                        "text": "名字",
+                        "strokeColor": "#000000",
+                        "stroke": 2,
+                        "presetID": 12,
+                        "name": "name_label",
+                        "leading": 5,
+                        "height": 51,
+                        "fontSize": 16,
+                        "font": "SimHei",
+                        "color": "#FFFFFF"
+                    },
+                    "compId": 1822
+                }]
+            }]
+        }, {
+            "type": "Sprite",
+            "props": {
+                "y": 131,
+                "x": 871,
+                "texture": "resources/prefab/role_right_bg.png",
+                "presetID": 13,
+                "name": "right_bg"
+            },
+            "compId": 1823
+        }, {
+            "type": "Button",
+            "props": {
+                "y": 615,
+                "x": 925,
+                "stateNum": 1,
+                "skin": "resources/prefab/btn_change.png",
+                "presetID": 14,
+                "name": "btn_use"
+            },
+            "compId": 1824
+        }, {
+            "type": "Sprite",
+            "props": {
+                "y": 131,
+                "x": 525,
+                "width": 194,
+                "texture": "resources/lobby/bullet/bullet_bg.png",
+                "presetID": 15,
+                "name": "bullet_bg",
+                "height": 67
+            },
+            "compId": 1827,
+            "child": [{
+                "type": "Image",
+                "props": {
+                    "y": 5.5,
+                    "x": 7,
+                    "skin": "resources/lobby/bullet/1.png",
+                    "presetID": 16,
+                    "name": "bullet_icon"
+                },
+                "compId": 1828
+            }, {
+                "type": "Label",
+                "props": {
+                    "y": 17,
+                    "x": 63,
+                    "width": 126,
+                    "text": "名字",
+                    "strokeColor": "#000000",
+                    "stroke": 2,
+                    "presetID": 17,
+                    "name": "name_label",
+                    "leading": 5,
+                    "height": 32,
+                    "fontSize": 27,
+                    "font": "SimHei",
+                    "color": "#FFFFFF",
+                    "align": "center"
+                },
+                "compId": 1829
+            }]
+        }, {
+            "type": "Label",
+            "props": {
+                "y": 520,
+                "x": 475,
+                "wordWrap": true,
+                "width": 356,
+                "text": "名字",
+                "strokeColor": "#000000",
+                "stroke": 2,
+                "presetID": 18,
+                "name": "describe_label",
+                "leading": 5,
+                "height": 123,
+                "fontSize": 25,
+                "font": "SimHei",
+                "color": "#FFFFFF"
+            },
+            "compId": 1826
+        }, {
+            "type": "Label",
+            "props": {
+                "y": 681,
+                "x": 27,
+                "wordWrap": false,
+                "width": 100,
+                "text": "UID:000",
+                "presetID": 19,
+                "name": "uid_label",
+                "height": 25,
+                "fontSize": 20,
+                "font": "SimHei",
+                "color": "#FFFFFF"
+            },
+            "compId": 1830
+        }, {
+            "type": "Sprite",
+            "props": {
+                "y": 142,
+                "x": 446,
+                "width": 404,
+                "presetID": 20,
+                "name": "UAV_Node",
+                "height": 539
+            },
+            "compId": 1833,
+            "child": [{
+                "type": "Image",
+                "props": {
+                    "y": 111,
+                    "x": 45,
+                    "skin": "resources/lobby/uav/1.png",
+                    "presetID": 21,
+                    "name": "icon_uav"
+                },
+                "compId": 1831
+            }, {
+                "type": "Button",
+                "props": {
+                    "y": 420,
+                    "x": 90,
+                    "stateNum": 1,
+                    "skin": "resources/prefab/btn_unlock.png",
+                    "presetID": 22,
+                    "name": "btn_unlock"
+                },
+                "compId": 1832
+            }, {
+                "type": "Sprite",
+                "props": {
+                    "y": 384,
+                    "x": 120,
+                    "texture": "resources/prefab/role_gold_bg.png",
+                    "presetID": 23,
+                    "name": "gold_bg"
+                },
+                "compId": 1834,
+                "child": [{
+                    "type": "Image",
+                    "props": {
+                        "y": 4,
+                        "x": 39,
+                        "skin": "resources/prefab/icon_gold_s.png",
+                        "presetID": 24,
+                        "name": "icon_gold"
+                    },
+                    "compId": 1835
+                }, {
+                    "type": "Label",
+                    "props": {
+                        "y": 5,
+                        "x": 71,
+                        "wordWrap": false,
+                        "width": 62,
+                        "text": "000",
+                        "presetID": 25,
+                        "name": "gold_label",
+                        "height": 26,
+                        "fontSize": 25,
+                        "font": "SimHei",
+                        "color": "#FFFFFF"
+                    },
+                    "compId": 1837
+                }]
+            }, {
+                "type": "Button",
+                "props": {
+                    "y": 471,
+                    "x": 479,
+                    "stateNum": 1,
+                    "skin": "resources/prefab/btn_get_fuel.png",
+                    "presetID": 26,
+                    "name": "btn_get_fuel"
+                },
+                "compId": 1838,
+                "child": [{
+                    "type": "Label",
+                    "props": {
+                        "y": 61,
+                        "x": 45,
+                        "wordWrap": false,
+                        "width": 131,
+                        "text": "00:00",
+                        "stroke": 2,
+                        "presetID": 27,
+                        "name": "time_label",
+                        "height": 26,
+                        "fontSize": 25,
+                        "font": "SimHei",
+                        "color": "#FFFFFF",
+                        "align": "center"
+                    },
+                    "compId": 1839
+                }]
+            }, {
+                "type": "Label",
+                "props": {
+                    "y": 274,
+                    "x": 437,
+                    "wordWrap": false,
+                    "width": 194,
+                    "text": "NAME",
+                    "presetID": 28,
+                    "name": "skill_name_label",
+                    "height": 24,
+                    "fontSize": 22,
+                    "font": "SimHei",
+                    "color": "#FFFFFF",
+                    "align": "left"
+                },
+                "compId": 1840
+            }, {
+                "type": "Image",
+                "props": {
+                    "y": 302,
+                    "x": 434,
+                    "skin": "resources/prefab/uav_skill_2001.png",
+                    "presetID": 29,
+                    "name": "skill_icon"
+                },
+                "compId": 1841
+            }]
+        }]
+    }, {
+        "type": "Script",
+        "props": {
+            "uidLabel": "@node:1830",
+            "uavNode": "@node:1833",
+            "uavIcon": "@node:1831",
+            "timeLabel": "@node:1839",
+            "skillNameLabel": "@node:1840",
+            "skillIcon": "@node:1841",
+            "rightBg": "@node:1823",
+            "presetID": 30,
+            "nameLabel": "@node:1829",
+            "listView": "@node:1818",
+            "goldLabel": "@node:1837",
+            "goldIcon": "@node:1835",
+            "describeLabel": "@node:1826",
+            "bulletIcon": "@node:1828",
+            "btnUse": "@node:1824",
+            "btnUnlock": "@node:1832",
+            "btnUAV": "@node:1819",
+            "btnTank": "@node:1805",
+            "btnGetFuel": "@node:1838",
+            "attributePrefab": "@Prefab:prefab/RoleAttributeItem.prefab",
+            "runtime": "script/prefab/RoleNode.ts"
+        },
+        "compId": 1842
+    }],
+    "loadList": ["resources/prefab/btn_back.png", "resources/prefab/btn_tank.png", "resources/prefab/btn_uav.png", "resources/prefab/role_left_bg.png", "resources/prefab/role_item_bg.png", "resources/prefab/role_item_selected.png", "resources/lobby/tank/1.png", "resources/prefab/role_right_bg.png", "resources/prefab/btn_change.png", "resources/lobby/bullet/bullet_bg.png", "resources/lobby/bullet/1.png", "resources/lobby/uav/1.png", "resources/prefab/btn_unlock.png", "resources/prefab/role_gold_bg.png", "resources/prefab/icon_gold_s.png", "resources/prefab/btn_get_fuel.png", "resources/prefab/uav_skill_2001.png", "prefab/RoleAttributeItem.prefab"],
+    "loadList3D": []
+}

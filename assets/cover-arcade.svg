@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090f25"/>
+      <stop offset="1" stop-color="#2a225f"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" fill="url(#bg)"/>
+  <g stroke="#3946a8" stroke-width="4" opacity="0.55">
+    <path d="M0 58H640M0 130H640M0 204H640M0 278H640M0 350H640"/>
+    <path d="M66 0V420M158 0V420M250 0V420M342 0V420M434 0V420M526 0V420"/>
+  </g>
+  <path d="M166 95c-54 0-98 43-98 96 0 52 44 95 98 95 15 0 34-4 46-10V218h-71v-48h126v135c-27 18-62 29-101 29-84 0-151-64-151-143C15 113 82 49 166 49c49 0 90 18 119 48l-33 37c-22-22-48-39-86-39Z" fill="#ffd027"/>
+  <g fill="#59f1dc">
+    <rect x="404" y="95" width="72" height="72" rx="10"/><rect x="404" y="195" width="72" height="72" rx="10"/>
+    <rect x="500" y="145" width="72" height="72" rx="10"/>
+  </g>
+  <text x="316" y="84" fill="#55dfff" font-size="36" font-family="Segoe UI, Arial, sans-serif" font-weight="800">1UP</text>
+  <text x="485" y="84" fill="#55dfff" font-size="36" font-family="Segoe UI, Arial, sans-serif" font-weight="800">HI</text>
+</svg>

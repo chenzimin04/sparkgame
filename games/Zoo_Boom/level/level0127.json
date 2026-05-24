@@ -1,0 +1,22 @@
+ {
+	"size":8,
+	"moves":40,
+	"fill":"up",
+	"add":[			
+		{ "x":0, "y":3, "dx":4, "dy":1, "type":"BOX", "count":true },
+		{ "x":3, "y":0, "dx":1, "dy":3, "type":"BOX", "count":true },
+		
+		{ "x":4, "y":0, "dx":4, "dy":1, "type":"COLOR_EGG", "count":true },
+		{ "x":4, "y":3, "dx":4, "dy":1, "type":"COLOR_EGG", "count":true },		
+		{ "x":4, "y":1, "dx":1, "dy":2, "type":"COLOR_EGG", "count":true },		
+		{ "x":7, "y":1, "dx":1, "dy":2, "type":"COLOR_EGG", "count":true },		
+		{ "x":5, "y":1, "dx":1, "dy":1, "type":"FAT_MULTI", "count":true },
+		
+		{ "x":0, "y":4, "dx":4, "dy":1, "type":"COLOR_EGG", "count":true },
+		{ "x":0, "y":7, "dx":4, "dy":1, "type":"COLOR_EGG", "count":true },		
+		{ "x":0, "y":5, "dx":1, "dy":2, "type":"COLOR_EGG", "count":true },		
+		{ "x":3, "y":5, "dx":1, "dy":2, "type":"COLOR_EGG", "count":true },		
+		{ "x":1, "y":5, "dx":1, "dy":1, "type":"FAT_MULTI", "count":true }
+	],
+	"allowedGemTypes":["GEM_YELLOW","GEM_RED","GEM_PURPLE","GEM_BLUE"]
+ }

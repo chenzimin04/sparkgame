@@ -1,0 +1,338 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 0,
+				"x": 0,
+				"var": "pngBg",
+				"top": 0,
+				"right": 0,
+				"left": 0,
+				"bottom": 0
+			},
+			"compId": 44
+		},
+		{
+			"type": "Image",
+			"props": {
+				"y": 167,
+				"x": 0,
+				"width": 750,
+				"skin": "images/dev/img_btn_blue.png",
+				"sizeGrid": "44,22,51,24",
+				"height": 856
+			},
+			"compId": 3,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 54,
+						"x": 699,
+						"var": "btnClose",
+						"skin": "images/dev/img_btn_gb.png",
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 4
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 30,
+						"x": 175,
+						"width": 400,
+						"var": "labName",
+						"text": "振奋铠甲.传说",
+						"fontSize": 42,
+						"color": "#ffffff",
+						"bold": true,
+						"align": "center"
+					},
+					"compId": 5
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 140,
+						"x": 69,
+						"width": 140,
+						"var": "iconWeapon",
+						"skin": "images/dev/img_btn_yellow.png",
+						"sizeGrid": "44,22,51,24",
+						"rotation": 0,
+						"height": 140
+					},
+					"compId": 7
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 115,
+						"x": 255,
+						"var": "labNum",
+						"text": "数量：0",
+						"fontSize": 34,
+						"color": "#ffffff"
+					},
+					"compId": 49
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 163,
+						"x": 255,
+						"var": "labLv",
+						"text": "等级：1/40",
+						"fontSize": 34,
+						"color": "#ffffff"
+					},
+					"compId": 29
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 212,
+						"x": 255,
+						"var": "labAtk",
+						"text": "攻击力：+359",
+						"fontSize": 34,
+						"color": "#ffffff"
+					},
+					"compId": 30
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 260,
+						"x": 255,
+						"var": "labOther",
+						"text": "暴击率：+3.2%",
+						"fontSize": 34,
+						"color": "#ffffff"
+					},
+					"compId": 31
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 233,
+						"x": 646,
+						"width": 140,
+						"var": "btnDele",
+						"skin": "images/dev/img_btn_blue.png",
+						"sizeGrid": "44,22,51,24",
+						"rotation": 0,
+						"height": 80,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 20,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 23,
+								"x": 35,
+								"text": "分解",
+								"fontSize": 34,
+								"color": "#ffffff",
+								"bold": true
+							},
+							"compId": 21
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 321,
+						"x": 12,
+						"width": 725,
+						"skin": "images/dev/img_btn_blue.png",
+						"sizeGrid": "44,22,51,24",
+						"height": 287
+					},
+					"compId": 11,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 40,
+								"x": 49,
+								"wordWrap": true,
+								"width": 626,
+								"var": "labDesc",
+								"text": "来自阿姆斯特丹的头盔，传说是一件失传已久的宝物，但它充满了诅咒之力。",
+								"leading": 10,
+								"height": 136,
+								"fontSize": 34,
+								"color": "#ffffff",
+								"bold": true
+							},
+							"compId": 32
+						}
+					]
+				},
+				{
+					"type": "Box",
+					"props": {
+						"y": 622,
+						"x": 0,
+						"width": 750,
+						"var": "boxUp",
+						"height": 200
+					},
+					"compId": 45,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 100,
+								"x": 89,
+								"width": 100,
+								"var": "weaponIcon0",
+								"skin": "images/dev/img_btn_blue.png",
+								"sizeGrid": "44,22,51,24",
+								"rotation": 0,
+								"height": 100,
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 36
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 100,
+								"x": 202,
+								"width": 100,
+								"var": "weaponIcon1",
+								"skin": "images/dev/img_btn_blue.png",
+								"sizeGrid": "44,22,51,24",
+								"rotation": 0,
+								"height": 100,
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 37
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 100,
+								"x": 315,
+								"width": 100,
+								"var": "weaponIcon2",
+								"skin": "images/dev/img_btn_blue.png",
+								"sizeGrid": "44,22,51,24",
+								"rotation": 0,
+								"height": 100,
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 38
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 50,
+								"x": 399,
+								"width": 100,
+								"var": "upToIcon",
+								"skin": "images/dev/img_btn_yellow.png",
+								"sizeGrid": "44,22,51,24",
+								"rotation": 0,
+								"height": 100
+							},
+							"compId": 35
+						},
+						{
+							"type": "Label",
+							"props": {
+								"y": 12,
+								"x": 0,
+								"width": 750,
+								"text": "消耗2个相同的装备可以合成更高品质",
+								"fontSize": 28,
+								"color": "#ffffff",
+								"align": "center"
+							},
+							"compId": 39
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 81,
+								"x": 275,
+								"width": 34,
+								"var": "iconGoldCost",
+								"skin": "images/dev/img_btn_gb.png",
+								"height": 34
+							},
+							"compId": 40,
+							"child": [
+								{
+									"type": "Label",
+									"props": {
+										"y": 6,
+										"x": 40,
+										"var": "labGoldCost",
+										"text": "500",
+										"fontSize": 26,
+										"color": "#ffffff",
+										"bold": true
+									},
+									"compId": 41
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 101,
+								"x": 642,
+								"width": 164,
+								"var": "btnUp",
+								"skin": "images/dev/img_btn_yellow.png",
+								"sizeGrid": "44,22,51,24",
+								"rotation": 0,
+								"height": 94,
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 46,
+							"child": [
+								{
+									"type": "Label",
+									"props": {
+										"y": 30,
+										"x": 47,
+										"text": "合成",
+										"fontSize": 34,
+										"color": "#ffffff",
+										"bold": true
+									},
+									"compId": 47
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/dev/img_btn_blue.png",
+		"images/dev/img_btn_gb.png",
+		"images/dev/img_btn_yellow.png"
+	],
+	"loadList3D": []
+}

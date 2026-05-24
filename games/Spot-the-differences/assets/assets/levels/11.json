@@ -1,0 +1,18 @@
+{
+  "resolution": "standard",
+  "image1": "lab_a.jpg",
+  "image2": "lab_b.jpg",
+  "differences":
+  [
+    {
+      "x": 191.0,
+      "y": 400.0,
+      "size": 120.0
+    },
+    {
+      "x": 618.0,
+      "y": 500.0,
+      "size": 150.0
+    }    
+  ]
+}

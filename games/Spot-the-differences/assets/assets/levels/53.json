@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "Castle_vibrant_colour_a.jpg",
+  "image2": "Castle_vibrant_colour_b.jpg",
+  "differences":
+  [
+    {
+    "x": 52.0,
+    "y": 116.0,
+    "size": 130.0
+    },
+    {
+    "x": 19.0,
+    "y": 526.0,
+    "size": 70.0
+    },
+    {
+    "x": 482.0,
+    "y": 169.0,
+    "size": 100.0
+    },
+    {
+    "x": 309.0,
+    "y": 616.0,
+    "size": 100.0
+    },
+    {
+    "x": 778.0,
+    "y": 473.0,
+    "size": 50.0
+    }
+  ]
+}

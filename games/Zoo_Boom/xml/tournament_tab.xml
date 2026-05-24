@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+
+<screen name="uiTournamentTab" template="tTabScreen" label="SID_TOURNAMENT">			
+	<text name="uiTxtCountdown" template="tFontWhite,tFontMedium" y="60" width="100%" height="50" text="SID_TOURNAMENT" halignText="center" valignText="center" />					
+	<list name="uiList" marginBottom="90" marginTop="120" />			
+	
+	<element name="uiNotSignedIn" template="tElement" visible="false">
+		
+		<element width="580" height="250" halign="center" valign="center" y="0" scale="0.75" >
+			<image template="tRays" halign="center" valign="center" scale="6" />
+			<element name="uiRewardConti2" width="180" ratio="1" halign="left" valign="center" animation="wobble" >							
+				<emitter template="tEmitter" range="80" />
+			</element>	
+			<element name="uiRewardConti3" width="150" ratio="1" halign="right" valign="center" animation="wobble" >							
+				<emitter template="tEmitter" range="80" />
+			</element>	
+			<element name="uiRewardConti" width="250" ratio="1" halign="center" animation="wobble" >							
+				<emitter template="tEmitter" range="80" />
+			</element>	
+			
+			<text text="SID_REWARD" width="100%" height="50" halign="center" template="tFontMedium" halignText="center" valignText="center" y="-10" />
+		</element>
+		<text template="tFontMedium" width="100%" height="200" text="SID_SIGN_IN_FOR_FEATURE" valign="center" halignText="center" valignText="center" y="-250" />
+		
+		<button name="uiBtLogin" template="tButton" halign="center" valign="center" label="SID_LOGIN" y="250" />
+	</element>
+	
+	<text name="uiTxtHelp" text="SID_TOURNAMENT_HELP" />	
+</screen>

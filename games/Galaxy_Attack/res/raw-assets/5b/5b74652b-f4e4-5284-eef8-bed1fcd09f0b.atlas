@@ -1,0 +1,69 @@
+
+skel_member_effect.png
+size: 684,683
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
++1
+  rotate: true
+  xy: 628, 441
+  size: 241, 48
+  orig: 241, 48
+  offset: 0, 0
+  index: -1
++2
+  rotate: false
+  xy: 329, 62
+  size: 330, 168
+  orig: 330, 168
+  offset: 0, 0
+  index: -1
++3
+  rotate: false
+  xy: 1, 26
+  size: 246, 113
+  orig: 246, 113
+  offset: 0, 0
+  index: -1
++6
+  rotate: false
+  xy: 1, 140
+  size: 327, 542
+  orig: 327, 542
+  offset: 0, 0
+  index: -1
+001
+  rotate: false
+  xy: 1, 15
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+E_lizi0562
+  rotate: false
+  xy: 628, 342
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+E_lizi0562 - 副本 (2)
+  rotate: true
+  xy: 628, 377
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+b0002
+  rotate: true
+  xy: 248, 58
+  size: 81, 65
+  orig: 81, 65
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 329, 231
+  size: 298, 451
+  orig: 298, 451
+  offset: 0, 0
+  index: -1

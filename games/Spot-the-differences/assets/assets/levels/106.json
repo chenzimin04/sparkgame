@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "gold_bedroom_a.jpg",
+  "image2": "gold_bedroom_b.jpg",
+  "differences":
+  [
+    {
+      "x": 192.0,
+      "y": 367.0,
+      "size": 60.0
+    },
+    {
+      "x": 683.0,
+      "y": 234.0,
+      "size": 110.0
+    },
+    {
+      "x": 563.0,
+      "y": 588.0,
+      "size": 115.0
+    },
+    {
+      "x": 845.0,
+      "y": 593.0,
+      "size": 130.0
+    },
+    {
+      "x": 870.0,
+      "y": 340.0,
+      "size": 120.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#19243d"/>
+      <stop offset="0.55" stop-color="#305f9d"/>
+      <stop offset="1" stop-color="#8dd870"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" fill="url(#bg)"/>
+  <path d="M0 0h640v420H0" fill="none"/>
+  <g transform="translate(110 84)">
+    <rect x="0" y="0" width="418" height="252" rx="22" fill="#e4ecf4"/>
+    <g stroke="#c1cfdb" stroke-width="14">
+      <path d="M0 84h418M0 168h418M104 0v252M209 0v252M314 0v252"/>
+    </g>
+    <g fill="#f7d156">
+      <rect x="22" y="21" width="164" height="58" rx="18"/>
+      <rect x="128" y="105" width="164" height="58" rx="18"/>
+      <rect x="232" y="189" width="164" height="58" rx="18"/>
+    </g>
+    <g fill="#ff6a57">
+      <rect x="233" y="21" width="164" height="58" rx="18"/>
+      <rect x="22" y="105" width="164" height="58" rx="18"/>
+    </g>
+    <g fill="#53c8ff">
+      <rect x="22" y="189" width="164" height="58" rx="18"/>
+    </g>
+  </g>
+  <text x="54" y="88" fill="#ffffff" font-size="58" font-family="Segoe UI, Arial, sans-serif" font-weight="800">MOVE THE CAR</text>
+  <text x="54" y="142" fill="#ffd66d" font-size="34" font-family="Segoe UI, Arial, sans-serif" font-weight="800">CLEAR THE PARKING GRID</text>
+</svg>

@@ -1,0 +1,45 @@
+ {
+	"sizeX":9,
+	"sizeY":9,
+	"stars":{"avg":12, "top":22 },
+	"moves":45,
+	"fill":"up",
+	"add":[		
+		{ "x":0, "y":7, "type":"COLOR_BOX", "count":true, "params":{ "color":"RED" } },
+		{ "x":1, "y":6, "type":"COLOR_BOX", "count":true, "params":{ "color":"RED" } },
+		{ "x":2, "y":5, "type":"COLOR_BOX", "count":true, "params":{ "color":"RED" } },
+		{ "x":3, "y":4, "type":"COLOR_BOX", "count":true, "params":{ "color":"RED" } },
+		{ "x":4, "y":3, "type":"COLOR_BOX", "count":true, "params":{ "color":"RED" } },
+		{ "x":5, "y":2, "type":"COLOR_BOX", "count":true, "params":{ "color":"RED" } },
+		{ "x":6, "y":1, "type":"COLOR_BOX", "count":true, "params":{ "color":"RED" } },
+		
+		{ "x":1, "y":7, "type":"COLOR_BOX", "count":true, "params":{ "color":"GREEN" } },
+		{ "x":2, "y":6, "type":"COLOR_BOX", "count":true, "params":{ "color":"GREEN" } },
+		{ "x":3, "y":5, "type":"COLOR_BOX", "count":true, "params":{ "color":"GREEN" } },
+		{ "x":4, "y":4, "type":"COLOR_BOX", "count":true, "params":{ "color":"GREEN" } },
+		{ "x":5, "y":3, "type":"COLOR_BOX", "count":true, "params":{ "color":"GREEN" } },
+		{ "x":6, "y":2, "type":"COLOR_BOX", "count":true, "params":{ "color":"GREEN" } },
+		{ "x":7, "y":1, "type":"COLOR_BOX", "count":true, "params":{ "color":"GREEN" } },
+		
+		{ "x":2, "y":7, "type":"COLOR_BOX", "count":true, "params":{ "color":"BLUE" } },
+		{ "x":3, "y":6, "type":"COLOR_BOX", "count":true, "params":{ "color":"BLUE" } },
+		{ "x":4, "y":5, "type":"COLOR_BOX", "count":true, "params":{ "color":"BLUE" } },
+		{ "x":5, "y":4, "type":"COLOR_BOX", "count":true, "params":{ "color":"BLUE" } },
+		{ "x":6, "y":3, "type":"COLOR_BOX", "count":true, "params":{ "color":"BLUE" } },
+		{ "x":7, "y":2, "type":"COLOR_BOX", "count":true, "params":{ "color":"BLUE" } },
+		{ "x":8, "y":1, "type":"COLOR_BOX", "count":true, "params":{ "color":"BLUE" } },
+		
+		{ "x":1, "y":1, "dx":1, "dy":1, "type":"BLOB", "count":true }
+	],
+	"allowedGemTypes":["GEM_PURPLE","GEM_GREEN","GEM_RED","GEM_BLUE"],
+	"field":[ 
+		"ooxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxoo"]
+ }

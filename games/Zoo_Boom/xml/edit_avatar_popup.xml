@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+
+<templates>
+
+</templates>
+
+<screen name="uiScreenPopUp" template="tPopUpJenny" label="SID_AVATAR">			
+	<element name="uiContent" >
+		<text text="SID_EDIT_AVATAR_TEXT" template="tElement,tFontMedium" height="200" halignText="center" valignText="center"  marginLeft="50" marginRight="50" />
+		
+		<element width="200" ratio="1" halign="center" valign="center" y="-50" >
+			<image name="uiImgAvatar" template="tElement" image="avatar/ava001.png" />
+			<image template="tElement,tFrame" marginRight="-4" marginBottom="-4" />
+			<button name="uiBtPrevious" image="ui/arrow_white.png" width="150" ratio="1.444" valign="center" halign="leftOf" x="-10" scaleX="-1" />
+			<button name="uiBtNext" image="ui/arrow_white.png" width="150" ratio="1.444" valign="center" halign="rightOf" x="10" />
+		</element>			
+		<button name="uiBtOK" halign="center" valign="bottom" template="tButton" label="SID_OK" />
+	</element>
+</screen>

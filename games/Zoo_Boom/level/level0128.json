@@ -1,0 +1,24 @@
+ {
+	"size":9,
+	"moves":46,
+	"fill":"up",
+	"add":[			
+		{ "x":0, "y":5, "dx":9, "dy":2, "type":"BOX", "params":{"count":2}, "count":true },
+		
+		{ "x":0, "y":2, "dx":1, "dy":1, "type":"FAT_MULTI", "count":true },
+		{ "x":2, "y":0, "dx":1, "dy":1, "type":"FAT_MULTI", "count":true },
+		{ "x":5, "y":0, "dx":1, "dy":1, "type":"FAT_MULTI", "count":true },
+		{ "x":7, "y":2, "dx":1, "dy":1, "type":"FAT_MULTI", "count":true }
+	],
+	"allowedGemTypes":["GEM_YELLOW","GEM_RED","GEM_PURPLE","GEM_BLUE"],
+	"field":[ 		
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"ooooooooo",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx"]
+ }

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+
+<screen name="uiScreenPopUp" template="tPopUp"  height="250" valign="bottom">	
+	<state state="landscape" width="1700" />
+	<state state="portrait" width="1000" />
+	<element name="uiContent" >
+		<text text="SID_UNLOCKED_NEW_THEME" relativeWidth="1" relativeHeight="1" halignText="center" valignText="center" halign="center" valign="center" template="tWhiteFont,tElement,tFontUltra" marginTop="-60" />
+		
+		<!--button name="uiBtOk" template="tButton" y="0" halign="center" valign="bottom" label="SID_OK" /-->	
+	</element>	
+	<button name="uiBtOk" template="tElement" absolute="true" />
+</screen>

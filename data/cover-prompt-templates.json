@@ -1,0 +1,73 @@
+{
+  "globalStyle": {
+    "shelfCover": {
+      "aspectRatio": "16:9",
+      "size": "1536x864",
+      "style": "bright casual mini-game portal cover, clean mobile-web game art, high contrast, simple readable subject, glossy but not noisy, no UI screenshot feel, no loading screen feel, no watermark",
+      "layout": "single clear focal subject, gameplay-inspired environment, strong silhouette, edge-to-edge illustration, safe crop for homepage card"
+    },
+    "randomIcon": {
+      "aspectRatio": "1:1",
+      "size": "1024x1024",
+      "style": "bright square mini-game icon, bold subject, playful color palette, simple readable composition, clean app icon style, no tiny text, no watermark",
+      "layout": "centered focal subject, strong contrast, readable at small size"
+    }
+  },
+  "families": {
+    "sports-ball": {
+      "keywords": ["basketball", "football", "soccer", "kick", "cup", "sports"],
+      "shelfCoverPrompt": "Create a bright arcade sports cover for {{title}}. Show an energetic ball-sport action moment, dynamic character pose or ball trajectory, colorful stadium or arena backdrop, bold lighting, clean commercial mini-game portal style.",
+      "randomIconPrompt": "Create a square icon for {{title}} with one strong sports focal element, such as a player, ball, hoop, goal, or kick impact. Bright arcade style, readable at small size."
+    },
+    "driving-parking": {
+      "keywords": ["parking", "car", "driving", "traffic", "ride", "bus", "truck", "moto", "race"],
+      "shelfCoverPrompt": "Create a bright driving or parking game cover for {{title}}. Show a vehicle in a clear challenge setup with road markings, parking lanes, or traffic obstacles. Clean 3D casual-game feeling, readable composition, vivid colors.",
+      "randomIconPrompt": "Create a square icon for {{title}} featuring one vehicle and a simple parking or road motif. Clean arcade driving style, high contrast, small-size readable."
+    },
+    "bubble-match": {
+      "keywords": ["bubble", "blast", "match", "jewel", "candy", "connect", "onet"],
+      "shelfCoverPrompt": "Create a bright puzzle cover for {{title}}. Show colorful bubble, candy, jewel, or tile gameplay elements exploding or matching in a playful arcade scene. Strong color grouping, polished casual puzzle portal art.",
+      "randomIconPrompt": "Create a square icon for {{title}} with a bold cluster of colorful puzzle pieces, bubbles, candies, or jewels. Clean mini-game icon style."
+    },
+    "sort-merge-logic": {
+      "keywords": ["sort", "merge", "2048", "block", "fill", "lines", "tower", "goods"],
+      "shelfCoverPrompt": "Create a bright logic-puzzle cover for {{title}}. Show clear gameplay pieces such as colored balls, blocks, number tiles, shelves, or sorting containers in an appealing challenge scene. Clean casual game portal art, strong focus, low clutter.",
+      "randomIconPrompt": "Create a square icon for {{title}} using a single strong logic-puzzle motif such as stacked blocks, sorted balls, number tiles, or goods shelves. Readable at small size."
+    },
+    "find-difference": {
+      "keywords": ["difference", "find", "spot"],
+      "shelfCoverPrompt": "Create a bright hidden-difference puzzle cover for {{title}}. Show two playful comparison scenes or one scene with highlighted clue areas, cheerful casual colors, clean puzzle portal composition.",
+      "randomIconPrompt": "Create a square icon for {{title}} with a simple spot-the-difference visual, such as two similar objects with a highlighted mismatch. Bright and readable."
+    },
+    "shooter-action": {
+      "keywords": ["attack", "war", "battle", "shooter", "assault", "alien", "galaxy", "frontline", "defense"],
+      "shelfCoverPrompt": "Create a bright action cover for {{title}}. Show combat, shooting, defense, or space battle energy with one strong focal unit or hero, clear enemy pressure, arcade intensity, but still colorful and portal-friendly.",
+      "randomIconPrompt": "Create a square icon for {{title}} with one strong action focal subject, such as a hero, spaceship, turret, or enemy. Bright arcade action style, readable at small size."
+    },
+    "music-rhythm": {
+      "keywords": ["music", "piano", "tiles", "rhythm"],
+      "shelfCoverPrompt": "Create a bright rhythm-game cover for {{title}}. Show glowing lanes, keys, tiles, or music pulses with vivid neon accents and clean motion. Polished mobile rhythm game look.",
+      "randomIconPrompt": "Create a square icon for {{title}} featuring piano keys, glowing tiles, or rhythm lanes in a bright, clean music-game icon style."
+    },
+    "kids-learning": {
+      "keywords": ["kids", "alphabet", "spelling", "coloring"],
+      "shelfCoverPrompt": "Create a bright educational kids-game cover for {{title}}. Friendly characters, large readable learning objects, cheerful background, clean playful portal art.",
+      "randomIconPrompt": "Create a square icon for {{title}} with one friendly learning object or character. Soft playful kids-game style, highly readable."
+    },
+    "board-card": {
+      "keywords": ["card", "board", "solitaire", "mahjong", "slot"],
+      "shelfCoverPrompt": "Create a polished board-or-card game cover for {{title}}. Show cards, tiles, chips, or tabletop pieces in a crisp casual portal composition with strong readability.",
+      "randomIconPrompt": "Create a square icon for {{title}} using one bold tabletop motif such as cards, mahjong tiles, or chips. Clean and readable."
+    },
+    "adventure-casual": {
+      "keywords": ["adventure", "treasure", "dungeon", "world", "quest", "hero"],
+      "shelfCoverPrompt": "Create a bright casual adventure cover for {{title}}. Show a hero, treasure, dungeon, or map objective with clear atmosphere, bold colors, and mini-game portal polish.",
+      "randomIconPrompt": "Create a square icon for {{title}} featuring one hero or adventure object. Bright readable adventure icon style."
+    },
+    "general-casual": {
+      "keywords": [],
+      "shelfCoverPrompt": "Create a bright casual mini-game cover for {{title}}. Show one strong gameplay-inspired focal subject, colorful clean backdrop, polished portal-game art, readable at card size.",
+      "randomIconPrompt": "Create a square icon for {{title}} with one bold gameplay-inspired focal subject. Bright casual icon style, readable at small size."
+    }
+  }
+}

@@ -1,0 +1,27 @@
+
+skel_celltip.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lan1
+  rotate: false
+  xy: 416, 18
+  size: 189, 191
+  orig: 189, 191
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 1, 1
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 210, 4
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1

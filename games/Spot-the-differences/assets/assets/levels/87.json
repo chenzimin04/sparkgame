@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "crocodile_with_drip_a.jpg",
+  "image2": "crocodile_with_drip_b.jpg",
+  "differences":
+  [
+    {
+      "x": 223.0,
+      "y": 467.0,
+      "size": 60.0
+    },
+    {
+      "x": 515.0,
+      "y": 394.0,
+      "size": 180.0
+    },
+    {
+      "x": 908.0,
+      "y": 576.0,
+      "size": 175.0
+    },
+    {
+      "x": 495.0,
+      "y": 140.0,
+      "size": 100.0
+    },
+    {
+      "x": 436.0,
+      "y": 652.0,
+      "size": 100.0
+    }
+  ]
+}

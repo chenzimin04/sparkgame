@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b2538"/><stop offset="1" stop-color="#404850"/></linearGradient></defs>
+  <rect width="640" height="380" fill="url(#bg)"/>
+  <g fill="#ffffff" opacity=".12"><circle cx="168" cy="192" r="8"/><circle cx="264" cy="162" r="11"/><circle cx="322" cy="220" r="9"/></g>
+  <text x="72" y="96" fill="#ffffff" font-size="68" font-family="Segoe UI, Arial, sans-serif" font-weight="700">BASKETBALL</text>
+  <text x="72" y="164" fill="#dbe8ff" font-size="68" font-family="Segoe UI, Arial, sans-serif" font-weight="700">CRAZY</text>
+  <circle cx="424" cy="188" r="18" fill="#f5952d"/><path d="M419 172c13 12 11 27 0 33M430 172c-14 9-18 22-9 34M408 187h35" stroke="#8c4a1d" stroke-width="2"/>
+  <path d="M530 196c0-46 37-83 83-83" stroke="#89d8ff" stroke-width="10" fill="none"/><path d="M613 196v57" stroke="#89d8ff" stroke-width="8"/><path d="M560 222h53l-8 12h-37z" fill="none" stroke="#89d8ff" stroke-width="8"/>
+</svg>

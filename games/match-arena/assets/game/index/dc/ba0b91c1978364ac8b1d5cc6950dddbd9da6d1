@@ -1,0 +1,1023 @@
+ID,vi-VN
+ad_failed.button,Được
+ad_failed.message,"Hiện tại không có video nào, vui lòng thử lại sau."
+ad_failed.title,Ồ...
+ad_magic.button,Xem
+ad_magic.message,Xem một đoạn clip ngắn để nhận thưởng.
+ad_magic.title,Heo ngọt ngào - Phép thuật đáng yêu
+android_app.button,Cài đặt
+android_app.text.release,Các bạn thân mến! Chúng tôi rất vui thông báo rằng trò chơi của chúng tôi hiện đã có sẵn trên Android. Hãy tải ứng dụng ngay nào!
+android_app.title,Giờ đây trên Android!
+android_update.restart.no,Sau đó
+android_update.restart.text,Cài đặt ngay bây giờ?
+android_update.restart.title,Cập nhật sẵn sàng!
+android_update.restart.yes,Vâng
+avatar_already_changed.button,Được
+avatar_already_changed.message,Ảnh đại diện của bạn đã được thay đổi. Bạn chỉ có thể thay đổi ảnh đại diện của mình MỘT LẦN.
+bookmark.daily,Thách thức
+bookmark.friends,Bạn bè
+bookmark.settings,Cài đặt
+booster_hint.cross,%booster_shop.hint.ingame.cross%
+booster_hint.hammer,%booster_shop.hint.ingame.hammer%
+booster_hint.hand,%booster_shop.hint.ingame.hand%
+booster_shop.buy,Mua #count
+booster_shop.hint.ingame.cross,Sử dụng Rùa Thần để loại bỏ một hàng và một cột các mảnh.
+booster_shop.hint.ingame.hammer,Xóa ô bằng cách đập chúng bằng Cú đấm!
+booster_shop.hint.ingame.hand,Sử dụng Găng tay để hoán đổi bất kỳ các mảnh liên kết nhau nào!
+booster_shop.hint.prelevel.add_bomb,Bắt đầu bất kỳ cấp độ nào với một Bom đã có trên bảng!
+booster_shop.hint.prelevel.add_line,Bắt đầu bất kỳ cấp độ nào với một Đường đã có trên bảng!
+booster_shop.hint.prelevel.add_omni,Bắt đầu bất kỳ cấp độ nào với một Ánh sáng đã có trên bảng!
+booster_shop.hint.prelevel.add_tint,Bắt đầu bất kỳ cấp độ nào với một Paint đã có trên bảng!
+booster_shop.hint.prelevel.double_fly,Nhân đôi tất cả các Bầy đuôi lửa được tạo ra trong cấp độ này!
+booster_shop.title.ingame.cross,Rìu Phép
+booster_shop.title.ingame.hammer,Cú đấm
+booster_shop.title.ingame.hand,Găng tay
+booster_shop.title.prelevel.add_bomb,Bộ kích hoạt Bom
+booster_shop.title.prelevel.add_line,Bộ kích hoạt dòng
+booster_shop.title.prelevel.add_omni,Bột tăng cường Sét
+booster_shop.title.prelevel.add_tint,Bột tăng cường sơn
+booster_shop.title.prelevel.double_fly,Bột trợ cấp động vật bạch tuộc x2
+chest_open.collection_complete,Đã thu thập!
+chest_open.ok,Được
+chest_opening.button,Tuyệt vời!
+chest_opening.reward,Phần thưởng
+conflict_popup.continue,Tiếp tục
+conflict_popup.hint_syncing,Đang đồng bộ hóa...
+conflict_popup.skip,Tiếp tục ngoại tuyến
+credits.art,Thiết kế nghệ thuật
+credits.artists,"Nhiều tình cảm đến bạn bè nghệ sĩ đồ họa
+về những nhân vật hình đại diện đẹp đẽ!"
+credits.gamedesign,Thiết kế trò chơi
+credits.mentions,"Lời cảm ơn đặc biệt
+đến bạn bè của chúng tôi
+"
+credits.programming,Lập trình
+credits.title,Đội chúng tôi!
+daily_help.button,Được
+daily_help.chest,Giải thưởng chính
+daily_help.reward,Phần thưởng một lần
+daily_help.text,"Mỗi ngày, những người chơi thể hiện khả năng và cạnh tranh trên một màn chơi duy nhất.
+
+Người chơi có điểm cao nhất sẽ nhận được giải thưởng của ngày - Một Cung Vàng và Hộp Ngọc!"
+daily_help.title,Thách thức hàng ngày
+daily_reward.button,Tuyệt vời!
+daily_reward.reward,Phần thưởng
+daily_reward.title.place_1,Bạn là người chiến thắng của Thách thức Hàng ngày!
+daily_reward.title.place_generic,"Hoàn thành Thách thức hàng ngày
+Bạn đạt hạng \##place!"
+daily.drag_to_update,Kéo để làm mới
+daily.epic_sunday_ribbon,Thách thức bạn bè
+daily.finishes_in,Thách thức kết thúc trong #time
+daily.finishes_now,Thách thức kết thúc!
+daily.high_score,Điểm cao mới!
+daily.medal_chest_text,Thu thập #amount huy chương!
+daily.next_time,Thách thức hàng ngày sẽ bắt đầu sau #time
+daily.next_time_now,Đã bắt đầu thách thức hàng ngày mới!
+daily.no_yesterday_yet,Bạn không tham gia vào thử thách hàng ngày trước đó.
+daily.play,Chơi
+daily.retry_submit,Thử lại
+daily.rewards_tab,Phần thưởng Thách thức Hàng ngày
+daily.rewards.bubble,"Thu thập sao và huy chương
+để mở rương với bảo vật!"
+daily.score_not_accepted,Kết quả này không được tính vào bảng xếp hạng vì bạn đã hoàn thành chơi sau khi kết thúc Thách Thức Hàng Ngày.
+daily.star_chest_claim,Mở
+daily.star_chest_collected_text,Hãy đến ngày mai để nhận một hộp kho báu khác
+daily.star_chest_text,Hoàn thành 7 thách thức hàng ngày với 3 sao!
+daily.submit_error,Không thể gửi kết quả
+daily.today,Thách thức hàng ngày
+daily.today_mark,Hôm nay
+daily.update_error,Không có kết nối internet
+daily.wait_text,
+daily.watch_replay.button,Xem
+daily.watch_replay.text,Lặp lại trò chơi
+daily.welcome_reward_first,%daily_help.text%
+daily.welcome_text,Vui vẻ! Thách thức hàng ngày đã bắt đầu!
+daily.yesterday,Thang Đua Hôm Qua
+daily.yesterday_updating,Đang lấy kết quả...
+demo.finished.text,"Chúc mừng bạn đã hoàn thành phiên bản dùng thử! Chơi phiên bản đầy đủ miễn phí trên <p class=""ma-link"">PecPoc.com<p class=""demo-hint"">Tiến trình của bạn sẽ không bị mất."
+demo.nag.text,"Phần thưởng miễn phí chỉ có sẵn trong phiên bản đầy đủ. Tiếp tục chơi phiên bản đầy đủ trên <p class=""ma-link"">PecPoc.com<p class=""demo-hint"">Tiến độ của bạn sẽ không bị mất."
+event_ny.next_in_hint,Nhận quà tiếp theo trong: #time
+event_ny.title,Quà Tết
+fake_ad.reward_in,Phần thưởng trong...
+fake_ad.tutorial,"Không có Video nào có sẵn bây giờ...
+Đừng lo, hãy thử một chút ma thuật của Heo nhé!"
+fake_ad.your_ad_here,Quảng cáo của bạn ở đây
+fb_login_failed.message,Không thể kết nối đến Facebook. Thử lại?
+fb_notification.button,Kết nối
+fb_notification.message,Kết nối với Facebook để đồng bộ tiến trình của bạn trực tuyến!
+fb_notification.no_post_hint,Chúng tôi sẽ không bao giờ đăng bài mà không có sự cho phép của bạn.
+fb_notification.title,Lưu tiến độ của bạn
+feedback.failed.button,Tiếp tục
+feedback.failed.message,"Không thể gửi phản hồi.
+Kiểm tra kết nối internet của bạn."
+feedback.failed.title,Ồ...
+feedback.ok.button,Được
+feedback.ok.message,"Chúng tôi đã nhận được phản hồi của bạn.
+Cảm ơn bạn đã giúp chúng tôi cải thiện trò chơi."
+feedback.ok.title,Phản hồi đã được gửi!
+friends_tab.failed_social.button,Kiểm tra
+friends_tab.failed_social.text,Chúng tôi cần kiểm tra kết nối để cập nhật danh sách bạn bè.
+friends_tab.has_fb.button,Mời bạn bè
+friends_tab.has_fb.text,Càng có nhiều bạn bè thì càng nhận được nhiều quà!
+friends_tab.no_fb.button,Kết nối
+friends_tab.no_fb.hint,Chúng tôi sẽ không bao giờ đăng bài mà không có sự cho phép của bạn.
+friends_tab.no_fb.text,Kết nối với Facebook để nhận quà từ bạn bè và theo dõi tiến bộ của họ.
+friends_tab.no_permission.button,Vâng
+friends_tab.no_permission.text,Cho phép truy cập danh sách bạn bè để nhận được nhiều hơn quà?
+friends_tab.no_social.text,Kết nối với các mạng xã hội và nhận quà từ bạn bè và theo dõi tiến bộ của họ.
+friends_tab.no_y8.button,Kết nối
+friends_tab.no_y8.text,Kết nối Y8 và nhận quà từ bạn bè và theo dõi tiến bộ của họ.
+friends_tab.ok_invite_button,Mời bạn bè
+friends_tab.ok_invite_gift_text,Càng có nhiều bạn bè thì càng nhận được nhiều quà!
+friends_tab.ok_invite_text,Càng có nhiều bạn bè thì càng nhận được nhiều quà!
+friends_tab.title,Bạn bè
+friends_tab.vk_friends_permission_button,Vâng
+friends_tab.vk_friends_permission_text,Cho phép truy cập danh sách bạn bè để nhận được nhiều hơn quà?
+friends_tab.vk_invite_button,Mời bạn bè
+friends_tab.vk_invite_text,Càng có nhiều bạn bè thì càng nhận được nhiều quà!
+friends.gift.claim,Mở
+game_results.click_to_continue,Nhấn để tiếp tục
+game_results.tap_to_continue,Nhấn để tiếp tục
+game.click_to_continue,Nhấn để tiếp tục
+game.info.ahead,BẠN ĐANG Ở #fmtnum BƯỚC TRƯỚC
+game.info.behind,BẠN ĐANG #fmtnum BƯỚC SAU
+game.info.goals,Mục tiêu
+game.info.moves,BƯỚC ĐI
+game.info.pause,Tạm dừng
+game.info.undo,HOÀN TÁC
+game.pause.continue,"<font color=""\#408fda"">Tiếp tục trò chơi"
+game.pause.leave_forfeit,"<font color=""\#ff0000"">Kết thúc trò chơi"
+game.pause.leave_safe,Kết thúc trò chơi
+game.pause.title,Tạm dừng
+game.shoutout.their_game_result,Điểm số: #score
+game.shoutout.well_done,Xử lý tốt!
+game.shoutout.your_game_result,Điểm của bạn: #score
+game.tap_to_continue,Nhấn để tiếp tục
+game.tutorial.continue,Tiếp tục
+gamemode.capital.aquarium,CÁ
+gamemode.capital.bird,Chim
+gamemode.capital.bubble,Bong bóng
+gamemode.capital.cats,Mèo con
+gamemode.capital.chocolate,LAVA
+gamemode.capital.diamonds,ĐÁNH VÀNG
+gamemode.capital.ducks,VỊT CON
+gamemode.capital.energy_cube_reciever,KIM CƯƠNG
+gamemode.capital.energycube,NƯỚC SỐI
+gamemode.capital.fishes,CÀ RỐT
+gamemode.capital.flower,Hoa
+gamemode.capital.food,HẠT ĐIỀU
+gamemode.capital.fossils,CÁ HỐI
+gamemode.capital.frog,ẾCH
+gamemode.capital.grass,CÂY CỎ
+gamemode.capital.gum,LỤC BÔNG
+gamemode.capital.honeybee,GIỐNG GẤU
+gamemode.capital.hotlava,LAVA
+gamemode.capital.ice,BĂNG
+gamemode.capital.jam,NĂNG LƯỢNG
+gamemode.capital.jam_reciever,KIM CƯƠNG
+gamemode.capital.pearl,Ngọc Trai
+gamemode.capital.road,Heo con
+gamemode.capital.sausage,CHẢ LỤA
+gamemode.capital.statue,CHÓ
+gamemode.capital.stone,ĐÁ
+gamemode.capital.tasks,ĐƠN HÀNG
+gamemode.capital.tiles,CÂY CỐI
+gamemode.capital.waterfish,CÁ
+gamemode.capital.blooplet,BẢN LINH
+gameresult.adventure.completed_continue,Tiếp tục
+gameresult.adventure.leave,Rời đi
+gameresult.adventure.play_next,Tiếp tục
+gameresult.adventure.retry,Thử lại
+gameresult.boosters,Chọn các Booster
+gameresult.complete.line1,Cấp độ
+gameresult.complete.line2,Hoàn thành!
+gameresult.continue,Tiếp tục
+gameresult.daily.continue,Tiếp tục
+gameresult.daily.leave,Thoát
+gameresult.daily.retry,Chơi
+gameresult.dash,-
+gameresult.forfeit,Bạn đã bỏ cuộc!
+gameresult.map.continue,Tiếp tục
+gameresult.map.retry,Thử lại
+gameresult.pvp.continue,Tiếp tục
+gameresult.pvp.play_another,Cấp độ khác
+gameresult.pvp.play_next,Cấp độ khác
+gameresult.pvp.rematch_lose,Trận đấu lại
+gameresult.pvp.rematch_win_draw,Chơi lại
+gameresult.rematch,Trận đấu lại
+gameresult.rematch_bet,Cược #bet
+gameresult.required_ticket,Cần thiết
+gameresult.retry,Chơi lại
+gameresult.rewards,Phần thưởng
+gameresult.title.completed,"<font color=""\#20ea6d"">Hoàn thành cấp độ!"
+gameresult.title.draw,"<font color=""\#5885B8"">Hòa"
+gameresult.title.lose,"<font color=""\#ff5666"">Bạn đã thua"
+gameresult.title.win,"<font color=""\#20ea6d"">Bạn đã thắng!"
+gameresult.vs,VS
+gameresults.inter_ad_in_large,#count lần chơi đến
+gameresults.inter_ad_in_small,#count lần chơi đến
+gems_shop.title,Cửa hàng Ngọc bội
+global.click_to_continue,Nhấn để tiếp tục
+global.default_player_name,Người chơi
+global.tap_to_continue,Nhấn để tiếp tục
+home.hint_daiy,Thử Thách Hàng Ngày
+home.hint_play_pvp,Bạn vẫn có thể chơi đấu điểm dù bạn đã hết mạng sống!
+home.play,Chơi
+html.loading,Đang tải
+iap_failed.button,Được
+iap_failed.message,Mua hàng thất bại.
+iap_need_facebook.message,Kết nối với Facebook để nạp đá quý.
+iap_pending.button,Được
+iap_pending.message,Mua hàng của bạn đang được xử lý
+intro_screen.another_device,Với Mã
+intro_screen.login_back,Quay lại
+intro_screen.login_button,Đăng nhập
+intro_screen.login_fb,Facebook
+intro_screen.login_ok,Odnoklassniki
+intro_screen.login_singular,Đăng nhập
+intro_screen.login_vk,Vkontakte
+intro_screen.login_with,Đăng nhập bằng
+intro_screen.login_y8,Y8
+intro_screen.login_yandex,Yandex
+intro_screen.new_player,Người chơi mới
+introprofile.accept_avatar,Chọn
+introprofile.accept_name,Tiếp tục
+introprofile.editavatar,Chọn hình đại diện
+introprofile.editname,Nhập tên của bạn
+invite_request.message,Hãy chơi trò chơi ghép 3 tuyệt vời cùng nhau nào!
+invite_request.title,Chọn bạn bè để chơi Skydom cùng nhau
+level_popup.goals,Mục tiêu
+level_popup.play,Chơi
+level_popup.prelevel_boosters,Chọn các Booster
+level_popup.title,Cấp độ #level
+level_popup.title_hard,Khó
+level_popup.title_ultra_hard,Siêu khó
+level_popup.title_very_hard,Rất khó
+link.support,https://Skydom.freshdesk.com/en/support/solutions
+link.support_beta,https://Skydombeta.freshdesk.com/en/support/solutions
+lives_shop.buy_all,Mua 5
+lives_shop.hint,"Bạn cần có mạng sống để
+tiếp tục chơi Adventure."
+lives_shop.recharge,Cuộc đời tiếp theo: #time
+lives_shop.title,Mạng sống
+lives_shop.watch_ad_button,Xem
+lives_shop.watch_ad_text,Miễn phí 1
+load_player.almost_done,Đã gần xong...
+load_player.continue_offline,Tiếp tục ngoại tuyến
+load_player.loading_save,Đang tải dữ liệu người chơi...
+load_player.loading_save_failed,Không thể tải dữ liệu người chơi.
+load_player.loading_save_failed_in,"Không thể tải dữ liệu của người chơi.
+Đang thử lại trong #time...
+"
+load_player.logging_in,Đăng nhập...
+load_player.logging_in_failed,Không thể đăng nhập.
+load_player.logging_in_failed_in,"Không thể đăng nhập.
+Đang thử lại sau #time..."
+load_player.new_player,Tôi là một người chơi mới
+load_player.retry_now,Thử lại ngay
+login_failed.button,Thử lại
+login_failed.title,Không thể kết nối
+magic.click_to_continue,Nhấn để tiếp tục
+magic.reward,Phần thưởng
+magic.tap_to_continue,Nhấn để tiếp tục
+map.gates_coming_soon,"Các cấp độ mới
+sắp ra mắt!"
+match3.level_complete.line1,Tất cả Mục tiêu
+match3.level_complete.line2,Đã đạt được!
+match3.score_pve,#score/#required
+match3.shoutout.1_move,Nước đi cuối cùng!
+match3.shoutout.2_moves,2 nước đi
+match3.shoutout.5_moves,5 bước
+match3.shoutout.no_moves,Không còn nước đi nữa
+match3.shoutout.no_reshuffle,"Không thể xáo trộn lại
+Không có nước đi nào có thể thực hiện được"
+merge.button.mine,Chọn
+merge.button.their,Chọn
+merge.description.account_merge,"Dường như bạn đã chơi Skydom.
+Hãy chọn hồ sơ ưa thích của bạn!
+"
+merge.description.ingame_conflict,%merge.description.login_conflict%
+merge.description.login_conflict,"Bạn đã chơi từ nhiều thiết bị.
+Chọn lưu trữ ưa thích.
+"
+merge.hint.mine,cục bộ
+merge.hint.their,từ máy chủ
+merge.title,Đồng bộ tiến trình
+modal.adblock.button,Được
+modal.adblock.text,Chúng tôi đã nhận thấy bạn đang sử dụng một trình chặn quảng cáo.<br>Vui lòng tắt trình chặn quảng cáo cho trang này để có thể xem video.
+modal.adblock.title,Trình chặn quảng cáo
+modal.error.button,Làm mới
+modal.error.text,"Xin lỗi, đã xảy ra lỗi. Vui lòng làm mới trang."
+modal.error.title,Rất tiếc! Đã xảy ra lỗi...
+modal.fb_login_proxy.button,Tiếp tục
+modal.fb_login_proxy.text,Kết nối với Facebook
+modal.fb_login_proxy.title,
+modal.fb_purchase_proxy.button,Tiếp tục
+modal.fb_purchase_proxy.gems,Ngọc
+modal.first_login_failed.button,Thử lại
+modal.first_login_failed.text,Không thể kết nối đến Skydom lúc này. Vui lòng thử kết nối lại sau.
+modal.first_login_failed.title,Không thể kết nối
+modal.gpu_error.button,Thông tin thêm
+modal.gpu_error.text,Có vẻ như bạn cần bật GPU-Acceleration trong trình duyệt của bạn để chạy trò chơi.
+modal.gpu_error.title,Hmm..
+modal.maintenance.button,Được
+modal.maintenance.text,Sẽ có bảo trì tại<br> <b>#time</b><br> trong vòng 3 giờ.<br>Tính năng lưu trữ và đồng bộ hóa tiến trình sẽ không hoạt động.
+modal.maintenance.title,Bảo trì
+modal.no_hardware_accel_ff.button,Được
+modal.no_hardware_accel_ff.text,"Trình duyệt của bạn báo cáo vấn đề hiệu suất, trò chơi có thể chạy rất chậm!
+
+Để sửa, vui lòng đọc <a target=""_blank""  href=""https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features"">https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features</a>"
+modal.no_hardware_accel_ff.title,Vấn đề hiệu suất
+modal.no_hardware_accel.button,Được
+modal.no_hardware_accel_vk.button,Được
+modal.no_hardware_accel.text,"Trình duyệt của bạn báo cáo vấn đề hiệu năng, trò chơi có thể chạy rất chậm!
+
+Để sửa lỗi, vui lòng đọc <a target=""_blank""  href=""https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm"">https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm</a>
+"
+modal.no_hardware_accel_vk.text,"Trình duyệt của bạn báo cáo vấn đề hiệu suất, trò chơi có thể chạy rất chậm!
+
+Để sửa lỗi, vui lòng đọc <a target=""_blank"" href=""https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery"">https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery</a>
+"
+modal.no_hardware_accel.title,Vấn đề hiệu suất
+modal.no_hardware_accel_vk.title,Vấn đề hiệu suất
+modal.nolocalstorage.button,Được
+modal.nolocalstorage.text,"Có vẻ như trình duyệt của bạn không cho phép chúng tôi lưu trò chơi của bạn. Điều này có thể được gây ra bởi sử dụng chế độ ẩn danh trong trình duyệt của bạn.
+<p>
+Vui lòng đăng nhập để tránh mất tiến trình của bạn!"
+modal.nolocalstorage.title,Chế độ ẩn danh
+modal.oom.button,Thông tin thêm
+modal.oom.text,Dường như không đủ bộ nhớ.
+modal.oom.title,Hmm..
+modal.out_of_sync.button,Làm mới
+modal.out_of_sync.text,Dường như bạn đã mở Skydom trong nhiều cửa sổ trình duyệt.<br>Vui lòng làm mới để tiếp tục chơi trong cửa sổ này.
+modal.out_of_sync.title,Nhiều cửa sổ với Skydom?
+modal.vk_inapp_not_allowed.button,Chuyển đổi
+modal.vk_inapp_not_allowed.text,"Mua hàng chỉ có sẵn tại <a href=""https://m.vk.com/app7409298"" target=""_blank"">m.vk.com</a>"
+modal.vk_inapp_not_allowed.title,
+modal.wasm.button,Thông tin thêm
+modal.wasm.text,Trình duyệt của bạn dường như không hỗ trợ WebAssembly
+modal.wasm.title,Hmm..
+modal.webgl.button,Thông tin thêm
+modal.webgl.text,Trình duyệt của bạn dường như không hỗ trợ WebGL
+modal.webgl.title,Hmm..
+modal.yandexsdk.text,"SDK của Yandex không tải đúng.
+
+Thử lại?"
+modal.yandexsdk.title,Rất tiếc
+modal.yandexsdk.button,Được
+name_already_changed.button,Được
+name_already_changed.message,Tên của bạn đã được thay đổi. Bạn chỉ có thể thay đổi tên MỘT LẦN.
+networks.hint,"Chúng tôi khuyến khích bạn kết nối với các mạng xã hội!
+ - Đừng mất tiến trình của bạn bằng cách lưu trữ nó trong đám mây
+ - Chơi với bạn bè và nhận quà
+ - Chúng tôi không đăng bất kỳ thứ gì mà không có sự cho phép của bạn.
+"
+nickname.default,Người chơi
+nickname.default_friend,Thỏ
+nickname.trainer,Huấn luyện viên #nickname
+nickname.tutorial_001,Huấn luyện viên Anna
+nickname.tutorial_002,Huấn luyện viên Jonny
+nickname.tutorial_003,Huấn luyện viên Polly
+nickname.you,Bạn
+notification.daily_lead_1,👑 #Name đã chiếm lĩnh vị trí đầu bảng trong Thách thức Hàng ngày! Muốn lấy lại vị trí đầu tiên?
+notification.daily_lead_2,👑 #Name đã chiếm lĩnh vị trí dẫn đầu trong Thách Thức Hàng Ngày!
+notification.daily_lead_3,👑 Hôm nay trong Thách thức hàng ngày rất nóng! #Name đã đạt được vị trí đầu tiên của bạn.
+notification.daily_lead_4,👑 #Name đã chiếm lĩnh. Muốn đạt lại vị trí lãnh đạo trong Thách thức?
+notification.daily_lead_5,👑 Dường như #Name vừa vượt qua bạn trong Thách Thức Hàng Ngày.
+notification.daily_lead.meta,"@{""variants"":5}"
+notification.reminder_1,😏 Những đối thủ mới đang chờ đợi người chơi có tiềm năng nhất! 😎
+notification.reminder_10,👸🤴 Ai sẽ là người chiến thắng của Thách thức Hàng ngày hôm nay?
+notification.reminder_11,🙄 Chúng ta quase esqueceu como todos foram esmagados por #PlayerName!
+notification.reminder_12,"💆 Ngày này thích hợp để chơi Skydom, phải không? 💪"
+notification.reminder_13,🙈😬 Có một vài người đàn ông ở đây mơ ước đánh bại bạn. Họ có cơ hội không?
+notification.reminder_14,🐰 Thỏ đã có một món quà cho bạn! 🎁
+notification.reminder_15,"😎 #PlayerName, thời gian để thắng lại rồi! 🕹"
+notification.reminder_16,👾👀 Thời gian để nghỉ ngơi và đi để thắng lợi 🤗
+notification.reminder_17,🌟🌟🌟 Các cấp độ sẽ không hoàn thành chúng mình! Chúng ta chơi nhé? 🥇😉
+notification.reminder_18,"#PlayerName, ai đó muốn thắng bạn. Bạn nghĩ họ có thành công không? 😬😬😬"
+notification.reminder_19,👋 Có phải lúc nghỉ ngơi và thắng một vài lần rồi không? 🤔
+notification.reminder_2,Chưa ai thua đứng với #PlayerName! Cho họ cơ hội nào?
+notification.reminder_20,🦄 Bạn đã gặp Unicorn Nhiệm vụ của chúng tôi chưa?
+notification.reminder_3,🐷 Chú heo ma thuật đang chờ đón! 🐽
+notification.reminder_4,🙈 Chúng ta đã không thấy người chơi Match3 tốt nhất một thời gian! Anh ấy còn ở đây không? 👀
+notification.reminder_5,🏆 Bạn đã thắng trong ngày hôm nay chưa?
+notification.reminder_6,❤️❤️❤️❤️❤️ Tất cả Mạng sống đã được nạp lại! Thời gian để thắng là đây!
+notification.reminder_7,🖐🎟 5 Token đang chờ để được tiêu!
+notification.reminder_8,🐰😍 Thỏ đã tặng bạn một món quà! 🎁
+notification.reminder_9,👑💎 Cuộc thi hàng ngày đã bắt đầu! Ai sẽ nhận được nhẫn và một đống ngọc?
+ny.button_claim,Mở quà
+ny.button_next_in,Quà tặng trong: #time
+ok_login_failed.message,Không thể kết nối đến Odnoklassniki. Thử lại?
+ok.share_tick,Chia sẻ
+out_of_moves.continue_buy_moves,Chơi tiếp #price
+out_of_moves.continue_watch,Xem
+out_of_moves.give_up,Từ bỏ
+out_of_moves.press_to_view,"Nhấn vào đây để 
+xem bảng"
+out_of_moves.title.almost_there,Quá gần rồi...
+out_of_moves.title.regular,Hết lượt đi
+outofgems.button,Cửa hàng
+outofgems.message,Bạn đã hết Gem. Hãy ghé thăm Cửa hàng để mua thêm nhé!
+outofgems.title,Không đủ Ngọc
+page.loading.hint_1,Đang tải...
+page.loading.hint_2,Hiệu ứng đồ họa 💎💎💎
+page.loading.hint_3,"Đừng lo, nó không bị treo lại! 😜"
+page.loading.hint_4,🚀 Trò chơi sẽ được tải về sớm! 🚀
+page.loading.hint_5,Lần tải đầu tiên cần một chút thời gian dài hơn👌
+page.loading.hint_6,🔥 Đã gần như hoàn thành…👾
+page.loading.hint_7,Chỉ còn một chút nhỏ nhỏ 😊
+placeholder.hint_daily,Hoàn thành 10 cấp để mở khóa!
+placeholder.timestring,12 giờ 34 phút 56 giây
+placeholder.title_daily,"Thách thức hàng ngày
+Bị khóa"
+popup_name.accept_name,Tiếp tục
+popup_name.not_now,Không bây giờ
+prelevel_text.002,"Thu thập nhiều <font color=""\#ff5503"">Mảnh Vàng</font> hơn đối thủ của bạn!"
+prelevel_text.004,"Thu thập nhiều <font color=""\#ff8800"">Cà rốt</font> hơn đối thủ của bạn!"
+prelevel_text.006,"Làm sạch nhiều <font color=""\#4499ff"">Băng</font> hơn đối thủ của bạn!"
+promo_reforged.button,Đòi lại!
+promo_reforged.text,"Chúc mừng! Chúng tôi đã phát hành một chế độ game mới - Skydom Reforged! Để kỷ niệm sự ra mắt, chúng tôi tặng bộ Mega Booster miễn phí! Nhận ngay bây giờ?"
+promo_reforged.title,Skydom Reforged!
+rate_us.description,Bạn thích Skydom thế nào?
+rate_us.feedback.cancel,Không bây giờ
+rate_us.feedback.description,Nhập email của bạn nếu bạn muốn nhận được phản hồi.
+rate_us.feedback.email_hint,E-mail
+rate_us.feedback.message_hint,Chúng tôi có thể cải thiện trò chơi này cho bạn không?
+rate_us.feedback.submit,Gửi
+rate_us.star_1,Ghét nó
+rate_us.star_2,Không thích nó
+rate_us.star_3,Được rồi
+rate_us.star_4,Thích nó
+rate_us.star_5,Thích nó
+rate_us.submit,Gửi
+rate_us.write_review.cancel,Không bây giờ
+rate_us.write_review.google_play,Chia sẻ ý kiến của bạn về trò chơi hoặc đánh giá nó trên Google Play!
+rate_us.write_review.submit,Vui lòng!
+rate_us.write_review.yandex,Chia sẻ ý kiến của bạn về trò chơi hoặc đánh giá nó trên Yandex Games!
+rematch_pvp.asks_for_rematch_draw,#name muốn thử lại
+rematch_pvp.asks_for_rematch_player_lose,#name đề nghị trận đấu lại!
+rematch_pvp.asks_for_rematch_player_won,#name muốn đấu lại!
+reward.coins,Tiền xu
+reward.gems,Ngọc
+reward.lives,Mạng sống
+reward.prelevel.add_bomb,Bộ kích hoạt Bom
+reward.prelevel.add_line,Bộ kích hoạt dòng
+reward.prelevel.add_omni,Bột tăng cường Sét
+reward.prelevel.add_tint,Bột tăng cường sơn
+reward.prelevel.double_fly,Bột trợ cấp động vật bạch tuộc x2
+reward.tickets,Token
+reward.undo,Hoàn tác
+search.cannot_connect,Không có kết nối internet
+search.failed,Rất tiếc! Đã xảy ra lỗi...
+search.loading,Đang tải...
+search.playing_with_trainer,Chơi cùng Huấn luyện viên
+search.readying,Đối thủ đã được tìm thấy!
+search.readying_rematch,Sẵn sàng!
+search.rejected,Đối thủ đã bỏ chạy
+search.searching,Đang tìm đối thủ...
+search.vs,VS
+search.waiting_opp,Đang chờ đối thủ...
+settings.change_avatar,Đổi Ảnh Đại Diện
+settings.change_avatar.connect_fb,Kết nối
+settings.change_avatar.continue,Tiếp tục
+settings.change_avatar.title,Chọn hình ảnh hồ sơ mới
+settings.change_avatar.warning,"Lưu ý:
+- Bạn chỉ có thể thay đổi hình ảnh hồ sơ của mình MỘT LẦN
+- Kết nối với Facebook để sử dụng hình ảnh hồ sơ Facebook"
+settings.change_avatar.warning_no_fb,Lưu ý: Bạn chỉ có thể thay đổi hình ảnh hồ sơ của mình MỘT LẦN.
+settings.change_name,Đổi Tên
+settings.change_name.accept_name,Tiếp tục
+settings.change_name.do_not_match,Tên không khớp. Vui lòng thử lại.
+settings.change_name.edit,Nhập tên mới:
+settings.change_name.reenter,Nhập lại tên mới của bạn:
+settings.change_name.same_name,Tên mới khớp với tên hiện tại
+settings.change_name.too_long,Tên này quá dài - giới hạn 15 ký tự
+settings.change_name.too_short,Tên này quá ngắn =)
+settings.change_name.warning,Lưu ý: Bạn chỉ có thể thay đổi tên của mình MỘT LẦN.
+settings.confirm_avatar.cancel,Hủy
+settings.confirm_avatar.change,Thay đổi
+settings.confirm_avatar.title,"Bạn có chắc chắn muốn thay đổi hình ảnh hồ sơ của mình?
+Hình ảnh hồ sơ mới của bạn:
+"
+settings.confirm_avatar.warning,Lưu ý: Bạn chỉ có thể thay đổi hình ảnh hồ sơ của mình MỘT LẦN.
+settings.confirm_name.cancel,Hủy
+settings.confirm_name.change,Xác nhận
+settings.confirm_name.title,Bạn có chắc chắn muốn thay đổi tên của mình? Tên mới của bạn là:
+settings.confirm_name.warning,Lưu ý: Bạn chỉ có thể thay đổi tên của mình MỘT LẦN.
+settings.connect_fb,Kết nối Facebook
+settings.connect_ok,Kết nối Odnoklassniki
+settings.connect_vk,Kết nối VK
+settings.connect_y8,Kết nối Y8
+settings.connect_yandex,Kết nối Yandex
+settings.connected_fb,Facebook
+settings.connected_ok,Odnoklassniki
+settings.connected_vk,VK
+settings.connected_y8,Y8
+settings.connected_yandex,Yandex
+settings.coupon,Mã Khuyến Mãi
+settings.coupon_title,Mã Khuyến Mãi
+settings.coupon.enter,Áp dụng
+settings.coupon.enter_hint,Nhập mã khuyến mãi của bạn ở đây
+settings.coupon.invalid_code,"<font color=""\#e90047"">Mã này không hợp lệ. Vui lòng thử mã khác."
+settings.coupon.missing_code,"<font color=""\#e90047"">Nhập mã khuyến mãi của bạn"
+settings.coupon.ok,Mã đã được nhập thành công!
+settings.credits,Tác giả
+settings.eula,Điều khoản dịch vụ
+settings.fb_hint,Kết nối với Facebook để chơi với bạn bè và đồng bộ tiến trình của bạn.
+settings.general,CHUNG
+settings.generate_key,Tạo mã
+settings.invite_friends,Mời bạn bè
+settings.language,Ngôn ngữ
+settings.language_header,CHỌN NGÔN NGỮ
+settings.move_hints,Gợi ý
+settings.music,Âm nhạc
+settings.networks,Kết nối
+settings.networks_hint,Kết nối mạng xã hội để chơi với bạn bè và đồng bộ hóa tiến trình của bạn.
+settings.notifications,Thông báo
+settings.notifications.daily,Thách thức hàng ngày
+settings.notifications.disable_all,Vô hiệu hóa tất cả
+settings.notifications.disable_night,Tắt từ 11 giờ tối đến 8 giờ sáng.
+settings.notifications.gifts,Quà tặng
+settings.notifications.others,Những nhắc nhở khác
+settings.open_support,Hỗ trợ người chơi
+settings.open_vk_group,Nhóm Trò Chơi
+settings.player_id,Sao chép ID người chơi
+settings.policy,Chính sách bảo mật
+settings.rate_us,Đánh giá chúng tôi
+settings.report_problem,Báo cáo vấn đề
+settings.sound,Âm thanh
+settings.support,HỖ TRỢ
+settings.telegram_channel,Theo kênh Telegram của chúng tôi
+settings.telegram_channel_hint,Tất cả tin tức mới nhất về Skydom
+settings.telegram_support,Chat fan trong Telegram
+settings.title,Cài đặt
+settings.update,Cập nhật
+settings.y8_hint,Kết nối với Y8 để đồng bộ tiến trình của bạn trực tuyến!
+settings.yandex_hint,Kết nối với Yandex để đồng bộ tiến trình của bạn trực tuyến!
+shop.gems_restored.accept,Tuyệt vời!
+shop.gems_restored.title,Mua đồng hồ hoàn tất
+shop.not_available,Không có sẵn
+shop.remove_ads_remain_time,Quảng cáo đã bị gỡ bỏ trong #time
+shop.remove_ads_text,"Mọi mua hàng sẽ gỡ bỏ quảng cáo
+giữa các cấp độ."
+shop.remove_ads_timed,Mọi mua hàng sẽ giúp bạn loại bỏ quảng cáo giữa các cấp độ trong vòng một tháng.
+social_notification.button,Kết nối
+social_notification.message,Kết nối với mạng xã hội để đồng bộ tiến trình của bạn trực tuyến!
+social_notification.no_post_hint,Chúng tôi sẽ không bao giờ đăng bài mà không có sự cho phép của bạn.
+social_notification.title,Lưu tiến độ của bạn
+social_share.button,Chia sẻ
+social_share.chooser_hint,Chia sẻ thông qua
+social_share.message,"Chào! Bạn đã từng thử trò chơi ""3 trong dãy"" với đối thủ thực sự chưa? Tải ngay tại https://PecPoc.com"
+social_share.subject,Khám phá trò chơi vui mới - Skydom
+social_share.title,"Chia sẻ Skydom!
+Hãy mời bạn bè cùng chơi nhé!"
+tempkey_login.button,Tiếp tục
+tempkey_login.empty_key,Bạn chưa nhập mã
+tempkey_login.input.default_hint,Nhập mã
+tempkey_login.invalid_key,Mã sai
+tempkey_login.message_top,"Để tiếp tục chơi ở đây, hãy tạo mã ở cài đặt dưới ""Tạo mã"".
+"
+tempkey_login.no_connection,Không thể kết nối
+tempkey.fail.button,Được
+tempkey.fail.message,Kiểm tra kết nối internet của bạn hoặc thử lại sau
+tempkey.fail.title,Không thể tạo mã
+tempkey.ok.copied,Đã sao chép!
+tempkey.ok.copy,Sao chép
+tempkey.ok.hint,Mã hết hạn sau 4 giờ.
+tempkey.ok.message,#tempkey
+tempkey.ok.title,Mã của bạn:
+tickets_shop.boost_text,x2 tốc độ cấp phát lại
+tickets_shop.buy_all,Mua #amount
+tickets_shop.hint,Bạn cần Token để chơi trong Thách Thức Hàng Ngày
+tickets_shop.hint_out_of,"<font color=""\#e90047"">Không còn thẻ may mắn nữa</font>"
+tickets_shop.recharge,Token mới sẽ xuất hiện sau: #time
+tickets_shop.title,Vé May Mắn
+tickets_shop.watch_ad_button,Xem
+tickets_shop.watch_ad_text,Nhận 1 miễn phí
+time.days_hours,"#days<font size=""-15""> </font><font size=""-10"">d</font> #hours<font size=""-15""> </font><font size=""-10"">h</font>"
+time.hours,"#hours<font size=""-15""> </font><font size=""-10"">giờ</font>"
+time.hours_minutes,"#hours<font size=""-15""> </font><font size=""-10"">giờ</font> #minutes<font size=""-15""> </font><font size=""-10"">phút</font>"
+time.hours_minutes_seconds,"#hours<font size=""-15""> </font><font size=""-10"">giờ</font> #minutes<font size=""-15""> </font><font size=""-10"">phút</font> #seconds<font size=""-15""> </font><font size=""-10"">giây</font>"
+time.hours_seconds,"#hours<font size=""-15""> </font><font size=""-10"">giờ</font> #seconds<font size=""-15""> </font><font size=""-10"">giây</font>"
+time.less_than_minute,"1<font size=""-15""> </font><font size=""-10"">phút</font>"
+time.minutes,"#minutes<font size=""-15""> </font><font size=""-10"">phút</font>"
+time.minutes_seconds,"#minutes<font size=""-15""> </font><font size=""-10"">phút</font> #seconds<font size=""-15""> </font><font size=""-10"">giây</font>"
+time.seconds,"#seconds<font size=""-15""> </font><font size=""-10"">giây</font>"
+tutorial_home.play,Chơi
+tutorial.001.dialog_tutorial,"Kết hợp <font color=""\#5885b8"">3 mảnh cùng màu trong một hàng</font> để loại bỏ chúng."
+tutorial.001.hint,"Mục tiêu
+Thu thập 12 mảnh xanh!"
+tutorial.001.turn_1,Hoán đổi các ô liên kết cùng màu để ghép 3 ô cùng màu!
+tutorial.002.hint,Thu thập nhiều hơn các mảnh vàng hơn đối thủ của bạn!
+tutorial.skip,Bỏ qua
+undo_shop.buy_undos,Mua #count
+undo_shop.hint,Hoàn tác có thể lùi lại bước đi cuối cùng của bạn.
+undo_shop.recharge,Lần hoàn tác tiếp theo sau: #time
+undo_shop.title,Hoàn tác
+undo_shop.watch_ad_button,Xem
+undo_shop.watch_ad_text,Nhận 1 miễn phí
+undo_shop.you_have,Bạn có #amount lần hoàn tác
+update.button,Cập nhật
+update.new_version,Cập nhật phiên bản mới nhất!
+update.new_version_value,"<font color=""\#5885b8"">#version"
+update.old_version,Bạn đang sử dụng phiên bản cũ hơn
+update.old_version_value,"<font color=""\#a5a7aa"">#version"
+update.text,"Bạn đang sử dụng phiên bản cũ.
+Vui lòng cập nhật lên phiên bản mới nhất!"
+update.title,Phiên bản mới đã sẵn sàng!
+update.web.button,Làm mới
+update.web.message,Vui lòng làm mới trang.
+update.web.title,Phiên bản mới đã sẵn sàng!
+vk_login_failed.message,Không thể kết nối đến VK. Thử lại?
+vk_promo.title,Quà tặng từ VK!
+vk.share_tick,Chia sẻ
+watch_for_gems.button,Xem
+watch_for_gems.text,+#amount
+web.webg_context_lost,"Mất kịch bản WebGL, đang khôi phục..."
+welcome_bonus.speech_1,"Xin chào, #PlayerName!
+Tôi có một số quà tặng cho bạn.
+Hãy chọn một!
+"
+welcome_bonus.speech_2,"Ý tưởng đang thực thể hóa... Ohmmm!
+Tôi đang nghĩ về một số món quà và xem điều gì đã xảy ra =)"
+welcome_bonus.speech_3,Tôi tìm thấy hai hộp khi bạn không có đó! Mở một cái nào!
+welcome_bonus.speech_4,"Rất vui được gặp lại bạn, #PlayerName!
+Nhìn xem cái gì đã rơi xuống từ bầu trời!"
+welcome_bonus.speech_5,"Chim cú đã bay qua...
+Thật ra họ không chỉ mang đứa trẻ đâu!"
+welcome_bonus.speech_6,"Vui mừng thấy bạn trở lại, #PlayerName!
+Hãy chọn một hộp báu!"
+welcome_bonus.speech_7,"Tôi nhớ bạn quá nhiều, #PlayerName, nên tôi đã chuẩn bị một món quà nhỏ cho bạn!"
+welcome_bonus.speech_8,Điều kỳ lạ xảy ra. Ngồi yên lặng và có hai hộp kim cương đột nhiên xuất hiện!
+welcome_pack.open,Mở
+welcome_pack.play,Chơi
+welcome_pack.speech_1,"Chào lâu lắm rồi, #PlayerName! Tôi có một món quà cho bạn!"
+welcome_pack.speech_2,"Ồ, #PlayerName, tôi nhớ bạn rất nhiều! Hãy mở quà và chơi nào!"
+welcome_pack.speech_3,"#PlayerName, rất vui được gặp lại bạn! Hãy mau mở hộp ngay lập tức."
+welcome_pack.speech_gift,"#PlayerName, chúng tôi có một món quà đặc biệt dành cho bạn =) Mở nó nhanh nhé!"
+welcome_pack.speech_reforged,"#PlayerName, chúng tôi có một món quà đặc biệt dành cho bạn =) Mở nó nhanh nhé!"
+y8_login_failed.message,Không thể kết nối đến Y8. Thử lại?
+yandex_login_failed.message,Không thể kết nối đến Yandex. Thử lại?
+yandex_notification.button,Kết nối
+yandex_notification.message,Kết nối với Yandex để đồng bộ hóa tiến trình của bạn trực tuyến!
+yandex_notification.title,Lưu tiến độ của bạn
+gamemode.capital.leaf,LÁ
+yandex_login_has_attachment.message,Một tài khoản Yandex khác đã được liên kết với hồ sơ trò chơi này.
+fb_login_has_attachment.message,Một tài khoản Facebook khác đã được liên kết với hồ sơ trò chơi này.
+ok_login_has_attachment.message,Một tài khoản OK khác đã được liên kết với hồ sơ trò chơi này.
+vk_login_has_attachment.message,Một tài khoản VK khác đã được liên kết với hồ sơ trò chơi này.
+y8_login_has_attachment.message,Một tài khoản Y8 khác đã được liên kết với hồ sơ trò chơi này.
+android_app.text.beta,Kính thân! Chúng tôi rất vui thông báo rằng chúng tôi đã bắt đầu thử nghiệm Beta của trò chơi của chúng tôi trên Android. Mọi người đều được chào đón!
+bookmark.play,Chơi
+bookmark.quest,Nhiệm vụ
+chest_opening.bronze,Đồng
+chest_opening.continue,Dễ dàng
+chest_opening.division,Phân đoạn III
+chest_opening.golden,Vàng
+chest_opening.silver,Bạc
+chest_opening.togoldenleague,"Bạn có thể đạt được
+Liên đoàn Vàng?
+"
+chest_opening.welcome,"Chào mừng bạn đến với
+Liên Đấu Arena!"
+chest_opening.yourebronze,"Bạn đã đạt được
+Hạng bạc III"
+chest.open,Mở
+chest.opens_now,Tuyệt vời! Hộp đựng đã sẵn sàng để mở!
+chest.wins_left_1,Một thắng nữa!
+chest.wins_left_2,Chỉ cần 2 chiến thắng là của bạn rồi!
+chest.wins_left_3,Xử lý tốt! 3 thắng nữa!
+chest.wins_left_4,Cần 4 thắng để mở rương!
+chest.wins_to_open,Cần #num chiến thắng để mở
+forge_help.block_1,Thắng trận để kiếm được tiền.
+forge_help.block_2,Sử dụng xu để bắt đầu Lò rèn và nhận được các thanh vàng.
+forge_help.block_3,Thu thập các thanh vàng để lên cấp độ.
+forge_help.block_4,Mỗi giải đấu có các cấp độ mới!
+forge_help.continue,Đã có rồi
+forge_help.title,Liên đoàn và Lò rèn
+forge.add,Thêm
+forge.boost,Cực nhanh
+forge.boost_free,"Hãy củng cố lò rèn này!
+
+Lần đầu là miễn phí!"
+forge.boost_free_ok,Cực nhanh
+forge.buy_1,Máy Đúc Đồng
+forge.buy_2,Mua Lò Rèn Bạc
+forge.buy_3,Mua Lò Rèn Vàng
+forge.buy_4,Mua Lò Rồng
+forge.buy_now,Thêm
+forge.cheat_boost,CHEAT? CHEAT!
+forge.name_1,Lò đúc đồng
+forge.name_2,Lò Đồng Bạc
+forge.name_3,Lò Rèn Vàng
+forge.name_4,Lò Rồng
+forge.not_enough_coins,Không đủ xu để bắt đầu
+forge.ok,Được rồi
+forge.open,Mở
+forge.open_now,Mở ngay bây giờ
+forge.other_in_progress,Đang tiến hành một lần làm lại nữa!
+forge.popup_boost,Tăng cường -30 phút
+forge.popup_boost_speedup,Tăng cường -15 phút
+forge.progress,#bars trong: #time
+forge.speedup_no,Không
+forge.speedup_offer,"<font color=""\#5885b8"">Tăng tốc độ</font> của Lò rèn <font color=""\#5885b8"">lên 2 lần?</font>"
+forge.speedup_ok,Được rồi
+forge.speedup_success,Đã cải thiện lực nhập kết!
+forge.speedup_yes,Vâng
+forge.start,Bắt đầu
+forge.time_1,3 giờ
+forge.time_2,6 giờ
+forge.time_3,12 giờ
+forge.time_4,24 giờ
+forge.tutorial.collect_coins,Kiếm được 1000 xu để bắt đầu làm rèn
+forge.tutorial.open_now,"Tuyệt vời! Đã hoàn thành sự tan chảy!
+Chúng ta có thể mở Lò Rèn!"
+forge.tutorial.smelt_more,Tiếp tục đúc than để đạt đến cấp độ tiếp theo
+forge.tutorial.start_forge,"Xin chúc mừng, bạn đã nhận được 1000 xu!
+Bây giờ chúng ta có thể bắt đầu Lò Rèn!"
+forge.tutorial.wait_ready,"Khi Forge của bạn đang hoạt động, bạn có thể thắng thêm xu."
+forge.watch_ad,Xem
+gamemode.chocolate,Lửa
+gamemode.diamonds,Kim cương
+gamemode.energycube,Nhựa
+gamemode.fishes,Cà rốt
+gamemode.food,Hạt đậu
+gamemode.fossils,Bạch tuộc
+gamemode.grass,Cỏ
+gamemode.honeybee,Gấu
+gamemode.ice,Băng
+gamemode.jam,Năng lượng
+gamemode.road,Heo con
+gamemode.stone,Đá
+gamemode.tasks,Đơn hàng
+gamemode.tiles,Cỏ
+home.bars_need_more,Bạn cần thêm #more
+home.bars_progress,#current / #total
+home.bet,Đặt #count xu
+home.coins,#count
+home.gems,#count
+home.hint_quest_book,Có nhiều nhiệm vụ mới sẵn sàng!
+home.hint_quest_book.claim,Vui thế! Có ai đó sẽ được thưởng thức!
+home.hint_quest_book.new,Ồ! Nhiệm vụ mới!
+home.league_indev,Lớp tiếp theo sắp đến!
+home.rematch.asks_for_rematch_draw,#name muốn thử lại
+home.rematch.asks_for_rematch_player_lose,#name cung cấp trận đấu lại
+home.rematch.asks_for_rematch_player_won,#name đòi lại trận đấu!
+home.xp,#count
+ingame_booster_shop.buy,Mua #count
+ingame_booster_shop.hint.cross,Sử dụng Rùa Thần để loại bỏ một hàng và một cột các mảnh.
+ingame_booster_shop.hint.hammer,Hãy sử dụng Cú đấm để loại bỏ các ô!
+ingame_booster_shop.hint.hand,Sử dụng Găng tay để hoán đổi bất kỳ các mảnh liên kết nhau nào!
+ingame_booster_shop.title.cross,Rìu Phép
+ingame_booster_shop.title.hammer,Cây đập
+ingame_booster_shop.title.hand,Bộ tay lái
+league.Bronze,Liên đoàn Bạc
+league.div_1,Phân đoạn I
+league.div_2,Phân đoạn II
+league.div_3,Phân đoạn III
+league.div_4,Phân đoạn IV
+league.div_5,Đội V
+league.E001,Đồng III
+league.E002,Bạc II
+league.E003,Bạc I
+league.E004,Bạc IV
+league.E005,Bạc III
+league.E006,Bạc II
+league.E007,Bạc I
+league.E008,V Vàng
+league.E009,Vàng IV
+league.E010,Vàng III
+league.E011,Vàng II
+league.E012,Vàng I
+league.E013,V Bạc
+league.E014,Platinum IV
+league.E015,Platinum III
+league.E016,Platinum II
+league.E017,Platinum I
+league.E018,Chuyên gia 1
+league.Gold,Liên Đấu Vàng
+league.Master,Liên Đoàn Hạng Nhất
+league.MasterN,Chuyên gia #div
+league.GrandMaster,Chuyên gia hàng đầu
+league.GrandMasterN,Chuyên gia #div
+league.Platinum,Liên Đấu Bạc
+league.Silver,Liên Đoàn Bạc
+levelup.continue,Tuyệt vời!
+levelup.reward,Phần thưởng
+levelup.title_division,"Chúc mừng!
+Phân bổ mới!"
+levelup.title_league,"Chúc mừng!!
+Giải mới!"
+ma2transfer.install,Cài đặt
+ma2transfer.message,"Trò chơi Match Arena đã chuyển đến phiên bản mới!
+
+Quan trọng! Hãy sử dụng mã dưới đây để chuyển tiến trình của bạn."
+nickname.tutorial_004,Thầy Michael
+nickname.tutorial_005,Giáo sư Frank
+nickname.tutorial_006,Nữ Hoàng Matcha
+nickname.tutorial_007,Giáo viên Leo
+nickname.tutorial_008,Huấn luyện viên Carl
+nickname.tutorial_009,Giáo viên Beardy
+nickname.tutorial_010,Guru Vicky
+placeholder.hint_friends,"Thách thức bạn bè của bạn
+và cho thấy những gì bạn có thể làm được!"
+placeholder.hint_quests,"Đạt cấp độ Bạc I
+để khám phá!"
+placeholder.hint_settings,Sẽ sẵn sàng sớm :)
+placeholder.title_friends,"Chơi cùng bạn bè
+sắp ra mắt
+"
+placeholder.title_quests,"Nhiệm vụ tuyệt vời
+Bị khóa
+"
+placeholder.title_settings,Cài đặt đang được xây dựng
+quest_help.block_1,Hoàn thành nhiệm vụ để nhận thưởng!
+quest_help.block_2,Hoàn thành tất cả nhiệm vụ để mở rương.
+quest_help.block_3,"Hoàn thành tất cả các nhiệm vụ trước khi chuyển sang phân khu khác, nếu không bạn sẽ mất hộp kho báu!"
+quest_help.continue,Đã có rồi
+quest_help.title,Sách Nhiệm Vụ
+quest.aquarium,Thu thập #amount con cá
+quest.bar,#progress / #amount
+quest.bar_completed,Hoàn thành nhiệm vụ!
+quest.bar_last_try,Lần thử trước: #progress của #amount
+quest.bar_special_not_tried,#progress / #amount
+quest.best_so_far,Kết quả tốt nhất: #progress
+quest.butterfly,Thu thập #amount bướm
+quest.buy_now,Nhận ngay #amount
+quest.cat,Thu thập #amount Con mèo
+quest.chip_destroy,Thu thập #amount các mảnh
+quest.chip_destroy_bird,Thu thập #amount chim
+quest.chip_destroy_blue,Thu thập #amount mảnh xanh
+quest.chip_destroy_diamond,Thu thập #amount Kim cương
+quest.chip_destroy_fish,Thu thập #amount Cà rốt
+quest.chip_destroy_fish_blue,Thu thập #amount cà rốt xanh
+quest.chip_destroy_fish_green,Thu thập #amount cà rốt xanh
+quest.chip_destroy_fish_orange,Thu thập #amount cà rốt cam
+quest.chip_destroy_fish_purple,Thu thập #amount cà rốt tím
+quest.chip_destroy_fish_red,Thu thập #amount cà rốt đỏ
+quest.chip_destroy_fish_yellow,Thu thập #amount cà rốt vàng
+quest.chip_destroy_food,Xóa #amount Hạt Đậu
+quest.chip_destroy_frog,Thu thập #amount Con ếch
+quest.chip_destroy_green,Thu thập #amount mảnh xanh
+quest.chip_destroy_orange,Thu thập #amount mảnh cam
+quest.chip_destroy_purple,Thu thập #amount mảnh màu tím
+quest.chip_destroy_red,Thu thập #amount mảnh đỏ
+quest.chip_destroy_snail,Thu thập #amount con ốc
+quest.chip_destroy_super,Thu thập #amount mảnh siêu đẳng
+quest.chip_destroy_wafer,Thu thập #amount Mỏ vàng
+quest.chip_destroy_with_bomb,Thu thập #amount mảnh bằng cách sử dụng Bomb
+quest.chip_destroy_with_line,Thu thập #amount mảnh với phần thưởng Đường
+quest.chip_destroy_with_mine,Thu thập #amount mảnh với phần thưởng Bầu trời
+quest.chip_destroy_with_omni,Thu thập #amount mảnh với phần thưởng Sét đánh
+quest.chip_destroy_yellow,Thu thập #amount mảnh vàng
+quest.chip_destroy_waterfish,Thu thập #amount con cá nước
+quest.chip_recolor,Tô màu #amount quân cờ bằng phần thưởng Sơn
+quest.claim,Nhận Thưởng
+quest.complete_chest,Tất cả nhiệm vụ đã hoàn thành
+quest.cover_destroy_bee,Thu thập #amount Con Gấu
+quest.cover_destroy_bound,Mở khóa #amount mảnh
+quest.cover_destroy_chocolate,Xóa #amount mảnh với Lava
+quest.cover_destroy_fizzblue,Thu thập #amount bọt nổ
+quest.cover_destroy_fizzpurple,Thu thập #amount bọt nổ
+quest.cover_destroy_frozen,Loại bỏ #amount mảnh băng tuyết
+quest.cover_destroy_honey,Xóa #amount ô vuông với mật ong
+quest.cover_destroy_hotlava,Xóa #amount mảnh Lửa Nóng
+quest.cover_destroy_receiver_energycube,Thu thập #amount viên kim cương nhựa
+quest.cover_destroy_receiver_jam,Thu thập #amount viên tinh thể năng lượng
+quest.cover_destroy_statue,Thu thập #amount chú chó
+quest.cover_destroy_stone,Loại bỏ #amount viên đá
+quest.cover_destroy_leaf,Xóa #amount lá
+quest.division_done_card,Nhiệm vụ mới sẽ xuất hiện trong bảng xếp hạng tiếp theo!
+quest.duck,Thu thập #amount vịt
+quest.energy_flow,Kéo năng lượng qua #amount ô
+quest.energycube_flow,Điền #amount ô vuông với nước Jelly
+quest.fossil,Thu thập #amount Bạch tuộc
+quest.gum,Thu thập #amount mảnh bông
+quest.new_quest,Nhiệm vụ mới!
+quest.new_quest_in,Nhiệm vụ tiếp theo:
+quest.on_arena_splash_score,Điểm #amount trong Arena Boom!
+quest.on_arena_splash_use_bonus,Lưu trữ #amount phần thưởng cho Arena Boom!
+quest.plate_destroy,Xóa #amount Phân cách
+quest.play,Chơi
+quest.pvp_score,Điểm #amount trong trận đấu
+quest.reward,Phần thưởng:
+quest.snakes,Thu thập #amount Con Rắn
+quest.tile_destroy_gold,Thu thập #amount ô có cỏ
+quest.tile_destroy_grass,Thu thập #amount ô có cỏ
+quest.title,Sách Nhiệm Vụ
+quest.use_bonus,Sử dụng #amount phần thưởng
+quest.use_bonus_bomb,Sử dụng #amount phần thưởng Bomb
+quest.use_bonus_line,Sử dụng #amount phần thưởng Dòng
+quest.use_bonus_mine,Sử dụng #amount phần thưởng Bầu trời
+quest.use_bonus_omni,Sử dụng #amount lần phần thưởng Sét đánh
+quest.use_bonus_tint,Sử dụng #amount phần thưởng Sơn
+quest.use_combo_bomb_bomb,Làm combo-bonus Bom+Bom #amount lần
+quest.use_combo_bomb_omni,Hãy tạo combo-bonus Sét+Bomb #amount lần
+quest.use_combo_bomb_tint,Làm combo-bonus Màu sắc+Bomb #amount lần
+quest.use_combo_line_bomb,Làm combo-bonus Bom + Dòng #amount lần
+quest.use_combo_line_line,Làm combo-bonus Đường+Đường #amount lần
+quest.use_combo_line_omni,Hãy tạo combo-bonus Sét+Đường #amount lần
+quest.use_combo_line_tint,Làm combo-bonus Sơn+Đường #amount lần
+quest.use_combo_mine_bomb,Hãy tạo combo-bonus Bắt Sói + Bom #amount lần
+quest.use_combo_mine_line,Hãy tạo combo-bonus Bầu trời+Dòng #amount lần
+quest.use_combo_mine_mine,Hãy tạo combo-bonus Bầu trời+Bầu trời #amount lần
+quest.use_combo_mine_omni,Hãy tạo combo-bonus Sét+Tinh linh #amount lần
+quest.use_combo_mine_tint,Hãy tạo combo-bonus Màu sắc+Bầy đèn bậy #amount lần
+quest.use_combo_omni_omni,Hãy tạo combo-bonus Sét+Sét #amount lần
+quest.use_combo_omni_tint,Làm combo-bonus Màu sắc+Sét #amount lần
+quest.use_combo_tint_tint,Làm combo-bonus Màu+Màu #amount lần
+quest.walk,Đi bước #amount bước với Heo
+quest.watch_for_new,- #time
+quest.win,Thắng #amount trận đấu
+quest.win_coins,Kiếm được #amount xu trong trận đấu
+quest.win_hard_level,Hoàn thành cấp độ khó
+quest.win_rematch,Thắng #amount trận đấu lại
+quest.win_streak,Thắng #amount trận liên tiếp
+quest.chip_destroy_clam,Thu thập #amount ngọc bội
+quest.chip_destroy_egg,Thu thập #amount trứng
+quest.gardenflower,Thu thập #amount hoa
+quest.sausages,Thu thập #amount xúc xích
+rematch.asks_for_rematch_draw,"#name muốn thử lại
+Cược #bet"
+rematch.asks_for_rematch_player_lose,"#name đề nghị trận đấu lại
+Cược #bet"
+rematch.asks_for_rematch_player_won,"#name muốn đấu lại!
+Cược #bet"
+rematch.rematch_bet,Cược #bet
+report.body,
+report.subject,Vấn đề với trò chơi MatchArena
+reward.bars,Thanh vàng
+reward.coins_amt,+#amount
+reward.gems_amt,+#amount
+reward.levels,Các cấp độ mới
+reward.levels_amt,+#amount
+reward.levelup,"Chúc mừng!
+Cấp độ mới!"
+reward.new_levels,Cấp độ mới!
+reward.talisman,Phù thủy
+reward.xp_amt,+#amount
+search.prize_fund,Quỹ thưởng
+settings.friends_and_partners,Bạn bè và đối tác
+settings.language.help_us_translate,"Nếu bạn muốn giúp chúng tôi dịch Match Arena sang các ngôn ngữ mà bạn nói, hãy gửi cho chúng tôi một email tại <font color=""\#0000EE"">support@matcharenagame.com."
+settings.notifications.duels,Thách thức đấu điểm
+shop.indev,Sắp ra mắt!
+splash.hint_chocolate,Loại bỏ càng nhiều Lava càng tốt
+splash.hint_diamonds,Thu thập càng nhiều Kim Cương càng tốt
+splash.hint_energycube,Điền càng nhiều ô Jelly càng tốt
+splash.hint_fishes,Thu thập càng nhiều cà rốt càng tốt
+splash.hint_food,Loại bỏ càng nhiều Hạt Đậu càng tốt
+splash.hint_fossils,Hãy cứu càng nhiều ốc sên càng tốt
+splash.hint_honeybee,Thu thập càng nhiều Gấu như có thể.
+splash.hint_ice,Loại bỏ càng nhiều đá lạnh càng tốt.
+splash.hint_jam,Điền nhiều ô vuông càng có thể với Năng lượng
+splash.hint_road,Đi bước heo càng xa càng tốt
+splash.hint_stone,Loại bỏ càng nhiều đá bạc càng tốt
+splash.hint_tasks,Hoàn thành càng nhiều Đơn hàng càng tốt
+splash.hint_tiles,Thu thập càng nhiều cỏ càng tốt
+splash.mode_chocolate,Mục tiêu của cấp độ - Lửa
+splash.mode_diamonds,Mục tiêu của cấp độ - Kim cương
+splash.mode_fishes,Mục tiêu của cấp độ - Cà rốt
+splash.mode_food,Mục tiêu của cấp độ - Hạt điều
+splash.mode_jam,Mục tiêu - Năng lượng
+splash.mode_road,Mục tiêu - Heo
+splash.mode_tasks,Mục tiêu của cấp độ - Đơn hàng
+splash.mode_tiles,Mục tiêu - Cỏ
+talismans_shop.ask_button,Facebook
+talismans_shop.ask_text,Hỏi bạn bè
+talismans_shop.boost_text,x2 tốc độ phục hồi
+talismans_shop.buy_all,Mua #amount
+talismans_shop.hint,Đôi lần tiền thắng
+talismans_shop.recharge,Thần bảo kế tiếp sẽ xuất hiện sau: #time
+talismans_shop.title,Phù thủy
+talismans_shop.watch_ad_button,Xem
+talismans_shop.watch_ad_text,Nhận 1 miễn phí
+tickets_shop.ask_button,Facebook
+tickets_shop.ask_text,Hỏi bạn bè
+tutorial.001.collect_more_fishes,"Thu thập càng nhiều <font color=""\#5885b8"">Cà rốt</font> càng tốt."
+tutorial.001.continue_to_collect_fishes,Tiếp tục thu thập Cà rốt!
+tutorial.001.first_swap_red_down,"Di chuyển mảnh đỏ xuống
+để ghép <font color=""\#5885b8"">ba trong một hàng</font>"
+tutorial.001.remind_collect_three_in_a_row,"Thu thập <font color=""\#5885b8"">ba mảnh</font> cùng màu <font color=""\#5885b8"">thành một hàng</font>"
+tutorial.001.second_swap_green_left,"Di chuyển mảnh xanh sang trái để ghép <font color=""\#5885b8"">ba hàng trên một dòng</font>"
+tutorial.001.third_swap_fish,"<font color=""\#5885b8"">Cà rốt</font> cũng có thể được ghép thành 3 trong một hàng"
+tutorial.001.you_are_doing_well,Bạn đang làm tốt!
+tutorial.002.get_bonus_line,"...để nhận được <font color=""\#5885b8"">phần thưởng - Dòng!</font>"
+tutorial.002.try_four_in_a_row,"Hãy cố gắng ghép <font color=""\#5885b8"">4 ô trong một hàng!</font>"
+tutorial.002.use_line_bonus,"Ghép <font color=""\#5885b8"">ba hàng để nhận phần thưởng</font> để thấy sức mạnh của Đường!"
+tutorial.003.hint,Thu thập nhiều hơn cả cà rốt so với đối thủ của bạn!
+tutorial.003.try_l_or_t,"Ghép các mảnh <font color=""\#5885b8"">theo hình chữ T hoặc L!</font>"
+tutorial.003.use_bomb_bonus,"...để nhận được <font color=""\#5885b8"">phần thưởng - Bom!</font>
+Hãy nổ nó ra!"
+tutorial.004.clear_gold_tiles,"Hãy ghép các ô trên <font color=""\#5885b8"">Cỏ</font> để thu thập nó!"
+tutorial.004.combine_omni_with_blue,"Hãy hoán đổi <font color=""\#5885b8"">Mảnh Sét Đánh</font> với mảnh màu xanh để loại bỏ tất cả các mảnh màu xanh khỏi bảng!"
+tutorial.004.try_five_in_a_row,"Hãy cố gắng để lấy <font color=""\#5885b8"">5 trong một hàng!</font>"
+tutorial.005.two_bonus_can_combine,"Bất kỳ <font color=""\#5885b8"">hai phần thưởng nào cũng có thể hợp nhất</font> để nhận được một phần thưởng lớn hơn!"
+tutorial.007.collect_food,"Hãy ghép các ô bên cạnh <font color=""\#5885b8"">Hạt đậu</font>"
+tutorial.007.move_character,"Thu thập hạt đậu để <font color=""\#5885b8"">tiến hành Piggy!</font>"
+tutorial.008.make_mine_bonus,"Ghép <font color=""\#5885b8"">bốn mảnh trong hình vuông</font> và nhận được phần thưởng - Bầu trời đêm!"
+tutorial.008.use_mine_bonus,"Ghép ba hàng với <font color=""\#5885b8"">Đuôi bướm</font> để sử dụng nó!"
+tutorial.009.make_tint_bonus,"Hãy làm một <font color=""\#5885b8"">hình chữ T lớn</font> và nhận được phần thưởng - Sơn!"
+tutorial.009.use_tint_bonus,"<font color=""\#5885b8"">Sơn</font> có thể đổi chỗ với bất kỳ mảnh nào!"
+level_popup.adventure.title,Cấp độ
+lives_shop.ma_hint,"Bạn cần có mạng sống để
+tiếp tục chơi Adventure."

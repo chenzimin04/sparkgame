@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "desk_organized_a.jpg",
+  "image2": "desk_organized_b.jpg",
+  "differences":
+  [
+    {
+      "x": 384.0,
+      "y": 182.0,
+      "size": 150.0
+    },
+    {
+      "x": 703.0,
+      "y": 285.0,
+      "size": 100.0
+    },
+    {
+      "x": 795.0,
+      "y": 253.0,
+      "size": 100.0
+    },
+    {
+      "x": 592.0,
+      "y": 494.0,
+      "size": 140.0
+    },
+    {
+      "x": 735.0,
+      "y": 591.0,
+      "size": 160.0
+    }
+  ]
+}

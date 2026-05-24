@@ -1,0 +1,118 @@
+
+skel_diebomb.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b0001
+  rotate: false
+  xy: 1, 1621
+  size: 402, 404
+  orig: 402, 404
+  offset: 0, 0
+  index: -1
+b0004
+  rotate: false
+  xy: 1, 1216
+  size: 402, 404
+  orig: 402, 404
+  offset: 0, 0
+  index: -1
+b0005
+  rotate: false
+  xy: 404, 1621
+  size: 402, 404
+  orig: 402, 404
+  offset: 0, 0
+  index: -1
+b0006
+  rotate: false
+  xy: 1, 811
+  size: 402, 404
+  orig: 402, 404
+  offset: 0, 0
+  index: -1
+b0007
+  rotate: false
+  xy: 404, 1216
+  size: 402, 404
+  orig: 402, 404
+  offset: 0, 0
+  index: -1
+b0008
+  rotate: false
+  xy: 807, 1621
+  size: 402, 404
+  orig: 402, 404
+  offset: 0, 0
+  index: -1
+b0009
+  rotate: false
+  xy: 1, 406
+  size: 402, 404
+  orig: 402, 404
+  offset: 0, 0
+  index: -1
+b0010
+  rotate: false
+  xy: 404, 811
+  size: 402, 404
+  orig: 402, 404
+  offset: 0, 0
+  index: -1
+b0011
+  rotate: false
+  xy: 807, 1216
+  size: 402, 404
+  orig: 402, 404
+  offset: 0, 0
+  index: -1
+b0012
+  rotate: false
+  xy: 1210, 1621
+  size: 402, 404
+  orig: 402, 404
+  offset: 0, 0
+  index: -1
+b0013
+  rotate: false
+  xy: 1, 1
+  size: 402, 404
+  orig: 402, 404
+  offset: 0, 0
+  index: -1
+b0014
+  rotate: false
+  xy: 404, 406
+  size: 402, 404
+  orig: 402, 404
+  offset: 0, 0
+  index: -1
+b0016
+  rotate: false
+  xy: 807, 811
+  size: 402, 404
+  orig: 402, 404
+  offset: 0, 0
+  index: -1
+b0018
+  rotate: false
+  xy: 1210, 1216
+  size: 402, 404
+  orig: 402, 404
+  offset: 0, 0
+  index: -1
+b0019
+  rotate: false
+  xy: 1613, 1621
+  size: 402, 404
+  orig: 402, 404
+  offset: 0, 0
+  index: -1
+q - 副本 (2)
+  rotate: false
+  xy: 404, 220
+  size: 368, 185
+  orig: 368, 185
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+ {
+	"size":9,
+	"stars":{"avg":7, "top":11 },
+	"moves":35,
+	"add":[
+		{ "x":3, "y":2, "dx":3, "dy":1, "type":"BOX", "count":true, "softCage":true },				
+		{ "x":2, "y":3, "dx":2, "dy":1, "type":"CRACKLING", "count":true, "softCage":true },				
+		{ "x":5, "y":3, "dx":2, "dy":1, "type":"CRACKLING", "count":true, "softCage":true },				
+		{ "x":1, "y":4, "dx":2, "dy":1, "type":"BOX", "count":true, "softCage":true },				
+		{ "x":6, "y":4, "dx":2, "dy":1, "type":"BOX", "count":true, "softCage":true },				
+		{ "x":2, "y":5, "dx":2, "dy":1, "type":"CRACKLING", "count":true, "softCage":true },				
+		{ "x":5, "y":5, "dx":2, "dy":1, "type":"CRACKLING", "count":true, "softCage":true },
+		{ "x":3, "y":6, "dx":3, "dy":1, "type":"BOX", "count":true, "softCage":true }
+		
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_GREEN","GEM_YELLOW","GEM_PURPLE"],
+	"field":[ 
+		"oooxxxooo",
+		"ooxxxxxoo",
+		"oxxxxxxxo",
+		"xxxxoxxxx",
+		"xxxoooxxx",
+		"xxxxoxxxx",
+		"oxxxxxxxo",
+		"ooxxxxxoo",
+		"oooxxxooo"]
+ }

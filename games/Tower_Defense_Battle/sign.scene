@@ -1,0 +1,91 @@
+{
+	"type": "View",
+	"props": {
+		"width": 208,
+		"height": 229
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 0,
+				"x": 0,
+				"skin": "images/sign7/icon_d1.png"
+			},
+			"compId": 10
+		},
+		{
+			"type": "Label",
+			"props": {
+				"y": 183,
+				"x": 29,
+				"width": 150,
+				"var": "labDesc",
+				"text": "desc",
+				"stroke": 3,
+				"rotation": 0,
+				"fontSize": 26,
+				"color": "#ffffff",
+				"bold": true,
+				"align": "center"
+			},
+			"compId": 8
+		},
+		{
+			"type": "Image",
+			"props": {
+				"y": 9,
+				"x": 66,
+				"var": "imgDay",
+				"skin": "images/sign7/sign_1.png"
+			},
+			"compId": 6
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 120,
+				"x": 104,
+				"width": 20,
+				"var": "itemBox",
+				"rotation": 0,
+				"height": 20
+			},
+			"compId": 7
+		},
+		{
+			"type": "Image",
+			"props": {
+				"y": -1,
+				"x": -1,
+				"width": 210,
+				"var": "imgSign",
+				"skin": "images/sign7/signMask.png",
+				"height": 231
+			},
+			"compId": 4,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 67,
+						"x": 53,
+						"width": 114,
+						"skin": "images/sign7/yes.png",
+						"rotation": 0,
+						"height": 107
+					},
+					"compId": 5
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/sign7/icon_d1.png",
+		"images/sign7/sign_1.png",
+		"images/sign7/signMask.png",
+		"images/sign7/yes.png"
+	],
+	"loadList3D": []
+}

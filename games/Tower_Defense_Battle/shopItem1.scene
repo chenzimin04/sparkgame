@@ -1,0 +1,191 @@
+{
+	"type": "View",
+	"props": {
+		"width": 231,
+		"height": 402
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"width": 231,
+				"var": "bgImg",
+				"skin": "images/shop/icon_jp_bg3.png",
+				"sizeGrid": "0,0,47,0",
+				"height": 402
+			},
+			"compId": 9,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 18,
+						"x": 51,
+						"var": "imgTitle",
+						"skin": "images/shop/icon_rc_spbx.png"
+					},
+					"compId": 10
+				},
+				{
+					"type": "Box",
+					"props": {
+						"y": 53,
+						"x": 0,
+						"width": 230,
+						"var": "boxNum",
+						"height": 50
+					},
+					"compId": 11
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 97,
+						"x": 40,
+						"var": "imgIcon",
+						"skin": "images/shop/icon_rc_bx_sp.png"
+					},
+					"compId": 12
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 263,
+						"x": 25,
+						"var": "labRemain",
+						"text": "Free time：",
+						"fontSize": 24,
+						"color": "#ffffff",
+						"bold": true
+					},
+					"compId": 13,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": -1,
+								"x": 157,
+								"var": "labRemainVal",
+								"text": "10",
+								"stroke": 1,
+								"fontSize": 26,
+								"color": "#f9f904",
+								"bold": true
+							},
+							"compId": 14
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 353,
+						"x": 119,
+						"width": 193,
+						"var": "btnGet",
+						"skin": "images/shop/button_yellow.png",
+						"sizeGrid": "38,48,46,53",
+						"label": "label",
+						"height": 80,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 15,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 12,
+								"x": 60,
+								"var": "iconFree",
+								"skin": "images/shop/button_word_mf.png",
+								"label": "label"
+							},
+							"compId": 16
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 10,
+								"x": 30,
+								"var": "iconAd",
+								"skin": "images/shop/button_sp.png",
+								"label": "label"
+							},
+							"compId": 19,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 1,
+										"x": 59,
+										"skin": "images/shop/button_word_mf.png",
+										"label": "label"
+									},
+									"compId": 20
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 3,
+								"x": 147,
+								"skin": "images/shop/red.png"
+							},
+							"compId": 22
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 327,
+						"x": 33,
+						"var": "imgNone",
+						"skin": "images/shop/icon_ysq.png"
+					},
+					"compId": 21
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 325,
+						"x": 43,
+						"var": "imgWait",
+						"skin": "images/shop/icon_djs.png"
+					},
+					"compId": 17,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 9,
+								"x": 53,
+								"var": "labWait",
+								"text": "05:00",
+								"fontSize": 38,
+								"color": "#5a4443",
+								"bold": true
+							},
+							"compId": 18
+						}
+					]
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/shop/icon_jp_bg3.png",
+		"images/shop/icon_rc_spbx.png",
+		"images/shop/icon_rc_bx_sp.png",
+		"images/shop/button_yellow.png",
+		"images/shop/button_word_mf.png",
+		"images/shop/button_sp.png",
+		"images/shop/red.png",
+		"images/shop/icon_ysq.png",
+		"images/shop/icon_djs.png"
+	],
+	"loadList3D": []
+}

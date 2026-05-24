@@ -1,0 +1,823 @@
+{
+    "type": "Box",
+    "props": {
+        "width": 1252,
+        "presetID": 1,
+        "name": "ch3_room1",
+        "isPresetRoot": true,
+        "height": 1400
+    },
+    "compId": 98,
+    "child": [
+        {
+            "type": "Image",
+            "props": {
+                "width": 1252,
+                "top": 0,
+                "skin": "ui/houses/ch3/room1/bg10.png",
+                "sizeGrid": "0,0,245,0",
+                "right": 0,
+                "presetID": 77,
+                "left": 0,
+                "height": 712
+            },
+            "compId": 118
+        },
+        {
+            "type": "Image",
+            "props": {
+                "y": 445,
+                "x": 516,
+                "skin": "ui/houses/ch3/room1/bg1.png",
+                "presetID": 76
+            },
+            "compId": 117
+        },
+        {
+            "type": "Image",
+            "props": {
+                "y": 770,
+                "x": 848,
+                "width": 349,
+                "skin": "ui/houses/ch3/room1/ch3_room1_item14_0.png",
+                "scaleY": 2.9,
+                "scaleX": 2.9,
+                "presetID": 75,
+                "height": 122,
+                "anchorY": 0.4,
+                "anchorX": 0.6
+            },
+            "compId": 116
+        },
+        {
+            "type": "Image",
+            "props": {
+                "y": 770,
+                "x": 849,
+                "skin": "ui/houses/ch3/room1/ch3_room1_item14_1.png",
+                "scaleY": 2.9,
+                "scaleX": 2.9,
+                "presetID": 4,
+                "name": "item14",
+                "anchorY": 0.4,
+                "anchorX": 0.6
+            },
+            "compId": 31
+        },
+        {
+            "type": "Image",
+            "props": {
+                "y": 504,
+                "x": 490,
+                "skin": "ui/houses/ch3/room1/ch3_room1_item2_1.png",
+                "presetID": 8,
+                "name": "item2",
+                "anchorY": 0.95,
+                "anchorX": 0.2
+            },
+            "compId": 5
+        },
+        {
+            "type": "Image",
+            "props": {
+                "y": 528,
+                "x": 258,
+                "width": 519,
+                "skin": "ui/houses/ch3/room1/ch3_room1_item13_0.png",
+                "presetID": 73,
+                "height": 233,
+                "anchorY": 0.5,
+                "anchorX": 0.5
+            },
+            "compId": 114
+        },
+        {
+            "type": "Image",
+            "props": {
+                "y": 528,
+                "x": 258,
+                "skin": "ui/houses/ch3/room1/ch3_room1_item13_1.png",
+                "presetID": 19,
+                "name": "item13",
+                "anchorY": 0.5,
+                "anchorX": 0.5
+            },
+            "compId": 30
+        },
+        {
+            "type": "Image",
+            "props": {
+                "y": 403,
+                "x": 262,
+                "width": 530,
+                "skin": "ui/houses/ch3/room1/ch3_room1_item16_0.png",
+                "presetID": 72,
+                "height": 228,
+                "centerX": -364,
+                "anchorY": 0.73,
+                "anchorX": 0.5
+            },
+            "compId": 113
+        },
+        {
+            "type": "Image",
+            "props": {
+                "y": 403,
+                "x": 262,
+                "width": 530,
+                "skin": "ui/houses/ch3/room1/ch3_room1_item16_1.png",
+                "presetID": 11,
+                "name": "item16",
+                "height": 228,
+                "anchorY": 0.73,
+                "anchorX": 0.5
+            },
+            "compId": 33
+        },
+        {
+            "type": "Image",
+            "props": {
+                "y": 474,
+                "x": 277,
+                "width": 387,
+                "skin": "ui/houses/ch3/room1/ch3_room1_item12_0.png",
+                "presetID": 71,
+                "height": 366,
+                "anchorY": 0.55,
+                "anchorX": 0.4
+            },
+            "compId": 112
+        },
+        {
+            "type": "Image",
+            "props": {
+                "y": 474,
+                "x": 277,
+                "skin": "ui/houses/ch3/room1/ch3_room1_item12_1.png",
+                "presetID": 10,
+                "name": "item12",
+                "anchorY": 0.55,
+                "anchorX": 0.4
+            },
+            "compId": 86
+        },
+        {
+            "type": "Image",
+            "props": {
+                "y": 954,
+                "skin": "ui/houses/ch3/room1/ch3_room1_item15_0.png",
+                "right": 0,
+                "presetID": 74,
+                "left": 0,
+                "height": 978,
+                "anchorY": 0.4,
+                "anchorX": 0.4
+            },
+            "compId": 115
+        },
+        {
+            "type": "Image",
+            "props": {
+                "y": 954,
+                "skin": "ui/houses/ch3/room1/ch3_room1_item15_1.png",
+                "right": 0,
+                "presetID": 13,
+                "name": "item15",
+                "left": 0,
+                "height": 978,
+                "anchorY": 0.4,
+                "anchorX": 0.4
+            },
+            "compId": 32
+        },
+        {
+            "type": "Image",
+            "props": {
+                "y": 714,
+                "skin": "ui/houses/ch3/room1/ch3_room1_item6_1.png",
+                "presetID": 69,
+                "name": "item6",
+                "centerX": -41,
+                "anchorY": 0.5,
+                "anchorX": 0.5
+            },
+            "compId": 99
+        },
+        {
+            "type": "Image",
+            "props": {
+                "y": 550,
+                "skin": "ui/houses/ch3/room1/ch3_room1_item1_1.png",
+                "sizeGrid": "0,0,523,0",
+                "presetID": 12,
+                "name": "item1",
+                "centerX": 284,
+                "anchorY": 0.5,
+                "anchorX": 0.5
+            },
+            "compId": 4
+        },
+        {
+            "type": "Image",
+            "props": {
+                "y": 639,
+                "x": 764,
+                "skin": "ui/houses/ch3/room1/ch3_room1_item9_1.png",
+                "presetID": 17,
+                "name": "item9",
+                "anchorY": 0.7,
+                "anchorX": 0.5
+            },
+            "compId": 12
+        },
+        {
+            "type": "Image",
+            "props": {
+                "y": 752,
+                "x": 800,
+                "skin": "ui/houses/ch3/room1/ch3_room1_item0_1.png",
+                "presetID": 14,
+                "name": "item0",
+                "anchorY": 0.8,
+                "anchorX": 0.7
+            },
+            "compId": 3
+        },
+        {
+            "type": "Image",
+            "props": {
+                "y": 608,
+                "x": 469,
+                "skin": "ui/houses/ch3/room1/ch3_room1_item7_1.png",
+                "presetID": 7,
+                "name": "item7",
+                "anchorY": 0.7,
+                "anchorX": 0.6
+            },
+            "compId": 10
+        },
+        {
+            "type": "Image",
+            "props": {
+                "y": 597,
+                "x": 536,
+                "skin": "ui/houses/ch3/room1/ch3_room1_item5_1.png",
+                "presetID": 3,
+                "name": "item5",
+                "anchorY": 0.8,
+                "anchorX": 0.5
+            },
+            "compId": 8
+        },
+        {
+            "type": "Image",
+            "props": {
+                "y": 709,
+                "x": 131,
+                "skin": "ui/houses/ch3/room1/ch3_room1_item3_1.png",
+                "presetID": 6,
+                "name": "item3",
+                "anchorY": 0.6,
+                "anchorX": 0.5
+            },
+            "compId": 6
+        },
+        {
+            "type": "Image",
+            "props": {
+                "y": 934,
+                "x": 734,
+                "skin": "ui/houses/ch3/room1/ch3_room1_item11_1.png",
+                "presetID": 9,
+                "name": "item11",
+                "anchorY": 0.7,
+                "anchorX": 0.5
+            },
+            "compId": 28
+        },
+        {
+            "type": "Image",
+            "props": {
+                "y": 840.5,
+                "x": 1043.5,
+                "skin": "ui/houses/ch3/room1/ch3_room1_item10_1.png",
+                "presetID": 22,
+                "name": "item10",
+                "anchorY": 0.6,
+                "anchorX": 0.5
+            },
+            "compId": 87
+        },
+        {
+            "type": "Image",
+            "props": {
+                "y": 649,
+                "x": 256,
+                "skin": "ui/houses/ch3/room1/ch3_room1_item8_1.png",
+                "presetID": 21,
+                "name": "item8",
+                "anchorY": 0.82,
+                "anchorX": 0.5
+            },
+            "compId": 11
+        },
+        {
+            "type": "Image",
+            "props": {
+                "y": 908,
+                "x": 374,
+                "skin": "ui/houses/ch3/room1/ch3_room1_item4_1.png",
+                "presetID": 20,
+                "name": "item4",
+                "anchorY": 0.75,
+                "anchorX": 0.5
+            },
+            "compId": 7
+        },
+        {
+            "type": "Box",
+            "props": {
+                "top": 0,
+                "right": 0,
+                "presetID": 24,
+                "name": "testClick",
+                "left": 0,
+                "bottom": 0
+            },
+            "compId": 40,
+            "child": [
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 597,
+                        "x": 270,
+                        "skin": "ui/box_object_type_lock.png",
+                        "presetID": 25,
+                        "name": "item8Lock",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 41
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 597,
+                        "x": 270,
+                        "skin": "ui/icon_object_type_change.png",
+                        "presetID": 26,
+                        "name": "item8Change",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 42
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 361,
+                        "x": 571,
+                        "skin": "ui/icon_object_type_change.png",
+                        "presetID": 27,
+                        "name": "item2Change",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 43
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 361,
+                        "x": 571,
+                        "skin": "ui/box_object_type_lock.png",
+                        "presetID": 28,
+                        "name": "item2Lock",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 44
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 713,
+                        "x": 603,
+                        "skin": "ui/box_object_type_lock.png",
+                        "presetID": 29,
+                        "name": "item6Lock",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 45
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 712,
+                        "x": 604,
+                        "skin": "ui/icon_object_type_change.png",
+                        "presetID": 30,
+                        "name": "item6Change",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 46
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 935,
+                        "x": 534,
+                        "skin": "ui/box_object_type_lock.png",
+                        "presetID": 31,
+                        "name": "item15Lock",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 47
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 935,
+                        "x": 534,
+                        "skin": "ui/icon_object_type_change.png",
+                        "presetID": 78,
+                        "name": "item15Change",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 120
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 725,
+                        "x": 806,
+                        "skin": "ui/icon_object_type_change.png",
+                        "presetID": 33,
+                        "name": "item0Change",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 49
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 725,
+                        "x": 806,
+                        "skin": "ui/box_object_type_lock.png",
+                        "presetID": 34,
+                        "name": "item0Lock",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 50
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 583,
+                        "x": 788,
+                        "skin": "ui/icon_object_type_change.png",
+                        "presetID": 35,
+                        "name": "item9Change",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 89
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 583,
+                        "x": 788,
+                        "skin": "ui/box_object_type_lock.png",
+                        "presetID": 36,
+                        "name": "item9Lock",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 90
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 808,
+                        "x": 821,
+                        "skin": "ui/icon_object_type_change.png",
+                        "presetID": 37,
+                        "name": "item14Change",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 51
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 808,
+                        "x": 820,
+                        "skin": "ui/box_object_type_lock.png",
+                        "presetID": 38,
+                        "name": "item14Lock",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 52
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 807,
+                        "x": 994,
+                        "skin": "ui/icon_object_type_change.png",
+                        "presetID": 39,
+                        "name": "item10Change",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 53
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 807,
+                        "x": 994,
+                        "skin": "ui/box_object_type_lock.png",
+                        "presetID": 40,
+                        "name": "item10Lock",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 54
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 872,
+                        "x": 743,
+                        "skin": "ui/icon_object_type_change.png",
+                        "presetID": 41,
+                        "name": "item11Change",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 55
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 871,
+                        "x": 742,
+                        "skin": "ui/box_object_type_lock.png",
+                        "presetID": 42,
+                        "name": "item11Lock",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 56
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 453,
+                        "x": 161,
+                        "skin": "ui/icon_object_type_change.png",
+                        "presetID": 43,
+                        "name": "item13Change",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 57
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 454,
+                        "x": 161,
+                        "skin": "ui/box_object_type_lock.png",
+                        "presetID": 44,
+                        "name": "item13Lock",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 58
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 583,
+                        "x": 470,
+                        "skin": "ui/icon_object_type_change.png",
+                        "presetID": 45,
+                        "name": "item7Change",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 59
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 584,
+                        "x": 470,
+                        "skin": "ui/box_object_type_lock.png",
+                        "presetID": 46,
+                        "name": "item7Lock",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 60
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 552,
+                        "x": 571,
+                        "skin": "ui/icon_object_type_change.png",
+                        "presetID": 47,
+                        "name": "item5Change",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 61
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 552,
+                        "x": 571,
+                        "skin": "ui/box_object_type_lock.png",
+                        "presetID": 48,
+                        "name": "item5Lock",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 62
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 757,
+                        "x": 416,
+                        "skin": "ui/icon_object_type_change.png",
+                        "presetID": 49,
+                        "name": "item4Change",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 63
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 757,
+                        "x": 416,
+                        "skin": "ui/box_object_type_lock.png",
+                        "presetID": 50,
+                        "name": "item4Lock",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 64
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 661,
+                        "x": 143,
+                        "skin": "ui/icon_object_type_change.png",
+                        "presetID": 53,
+                        "name": "item3Change",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 67
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 661,
+                        "x": 143,
+                        "skin": "ui/box_object_type_lock.png",
+                        "presetID": 54,
+                        "name": "item3Lock",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 68
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 454,
+                        "x": 950,
+                        "skin": "ui/icon_object_type_change.png",
+                        "presetID": 55,
+                        "name": "item1Change",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 69
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 453,
+                        "x": 950,
+                        "skin": "ui/box_object_type_lock.png",
+                        "presetID": 56,
+                        "name": "item1Lock",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 70
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 520,
+                        "x": 367,
+                        "skin": "ui/icon_object_type_change.png",
+                        "presetID": 57,
+                        "name": "item12Change",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 71
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 520,
+                        "x": 367,
+                        "skin": "ui/box_object_type_lock.png",
+                        "presetID": 58,
+                        "name": "item12Lock",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 72
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 343,
+                        "x": 270,
+                        "skin": "ui/icon_object_type_change.png",
+                        "presetID": 59,
+                        "name": "item16Change",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 73
+                },
+                {
+                    "type": "Image",
+                    "props": {
+                        "y": 343,
+                        "x": 270,
+                        "skin": "ui/box_object_type_lock.png",
+                        "presetID": 60,
+                        "name": "item16Lock",
+                        "anchorY": 0.5,
+                        "anchorX": 0.5
+                    },
+                    "compId": 74
+                }
+            ]
+        }
+    ],
+    "loadList": [
+        "ui/houses/ch3/room1/bg10.png",
+        "ui/houses/ch3/room1/bg1.png",
+        "ui/houses/ch3/room1/ch3_room1_item14_0.png",
+        "ui/houses/ch3/room1/ch3_room1_item14_1.png",
+        "ui/houses/ch3/room1/ch3_room1_item2_1.png",
+        "ui/houses/ch3/room1/ch3_room1_item13_0.png",
+        "ui/houses/ch3/room1/ch3_room1_item13_1.png",
+        "ui/houses/ch3/room1/ch3_room1_item16_0.png",
+        "ui/houses/ch3/room1/ch3_room1_item16_1.png",
+        "ui/houses/ch3/room1/ch3_room1_item12_0.png",
+        "ui/houses/ch3/room1/ch3_room1_item12_1.png",
+        "ui/houses/ch3/room1/ch3_room1_item15_0.png",
+        "ui/houses/ch3/room1/ch3_room1_item15_1.png",
+        "ui/houses/ch3/room1/ch3_room1_item6_1.png",
+        "ui/houses/ch3/room1/ch3_room1_item1_1.png",
+        "ui/houses/ch3/room1/ch3_room1_item9_1.png",
+        "ui/houses/ch3/room1/ch3_room1_item0_1.png",
+        "ui/houses/ch3/room1/ch3_room1_item7_1.png",
+        "ui/houses/ch3/room1/ch3_room1_item5_1.png",
+        "ui/houses/ch3/room1/ch3_room1_item3_1.png",
+        "ui/houses/ch3/room1/ch3_room1_item11_1.png",
+        "ui/houses/ch3/room1/ch3_room1_item10_1.png",
+        "ui/houses/ch3/room1/ch3_room1_item8_1.png",
+        "ui/houses/ch3/room1/ch3_room1_item4_1.png",
+        "ui/box_object_type_lock.png",
+        "ui/icon_object_type_change.png"
+    ],
+    "loadList3D": []
+}

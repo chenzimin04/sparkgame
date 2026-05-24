@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+
+<templates>
+</templates>
+
+<screen name="uiScreenPopUp" template="tPopUp" label="SID_ATTENTION" width="980" height="1250">
+	<element name="uiContent" >				
+		<!--image name="uiImgDeco" halign="center" valign="center" image="dynamic/deco02.png" width="90%" ratio="0.91" alpha="0.2" /-->
+		<text template="tFontWhite,tFontLarge" width="100%" height="120" halignText="center" valignText="center" text="SID_NOT_ENOUGH_GOLD" />
+		<element template="tElement" width="400" height="166" halign="center" valign="center"  >	
+			<rewardedAd name="uiRewardedAd" y="0" halign="center" valign="center" template="tRewardedAd" reward="reward_mtx" event="not_enough_resources" >
+				<image name="uiImgRewardConti2" width="140" height="140" halign="right" valign="center" >
+					<image image="particles/flare.png" width="70" height="70" halign="right" valign="top" x="3" y="-18" animation="pling" />
+				</image>
+			</rewardedAd>
+		</element>				
+	</element>
+	<element name="uiHappy" template="tElement">
+		<image name="uiImgJennyHappy" template="tJennyHappy" halign="leftOf" valign="bottomOf">	
+			<state state="landscape" height="2000" x="100" y="-940" />
+			<state state="portrait" x="300" y="-500" height="1300" />
+		</image>
+	</element>
+	<element name="uiSad" visible="false" template="tElement">
+		<image name="uiImgJennySad" template="tJennySad" visible="false" halign="leftOf" valign="bottomOf">	
+			<state state="landscape" visible="true" height="2500" x="300" y="-940" />
+			<state state="portrait" visible="true" x="330" y="-650" height="1300"/>
+		</image>
+	</element>	
+</screen>

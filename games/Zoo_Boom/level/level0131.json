@@ -1,0 +1,21 @@
+ {
+	"size":8,
+	"moves":41,
+	"add":[			
+		{ "x":1, "y":4, "dx":6, "dy":1, "type":"COLOR_EGG", "count":true },
+		{ "x":0, "y":3, "dx":8, "dy":1, "type":"COLOR_EGG", "count":true },
+		{ "x":2, "y":0, "dx":4, "dy":1, "type":"BLOB", "count":true },
+		{ "x":1, "y":1, "dx":6, "dy":1, "type":"BLOB", "count":true },
+		{ "x":0, "y":2, "dx":8, "dy":1, "type":"BLOB", "count":true }
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_RED","GEM_PURPLE","GEM_YELLOW"],
+	"field":[ 		
+		"ooxxxxoo",
+		"ooxxxxoo",
+		"ooxxxxoo",
+		"oxxxxxxo",
+		"xxxxxxxx",
+		"xxxxxxxx",
+		"oxxxxxxo",
+		"ooxxxxoo"]
+ }

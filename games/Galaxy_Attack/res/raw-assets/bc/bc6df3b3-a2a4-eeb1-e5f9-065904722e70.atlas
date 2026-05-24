@@ -1,0 +1,132 @@
+
+skel_diaochan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0066
+  rotate: true
+  xy: 237, 13
+  size: 152, 154
+  orig: 152, 154
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 1, 374
+  size: 312, 317
+  orig: 312, 317
+  offset: 0, 0
+  index: -1
+di2
+  rotate: false
+  xy: 629, 575
+  size: 197, 202
+  orig: 197, 202
+  offset: 0, 0
+  index: -1
+h0001
+  rotate: false
+  xy: 314, 354
+  size: 203, 187
+  orig: 203, 187
+  offset: 0, 0
+  index: -1
+h0002
+  rotate: true
+  xy: 827, 574
+  size: 203, 187
+  orig: 203, 187
+  offset: 0, 0
+  index: -1
+h0003
+  rotate: false
+  xy: 237, 166
+  size: 203, 187
+  orig: 203, 187
+  offset: 0, 0
+  index: -1
+h0004
+  rotate: false
+  xy: 518, 354
+  size: 203, 187
+  orig: 203, 187
+  offset: 0, 0
+  index: -1
+h0005
+  rotate: false
+  xy: 441, 166
+  size: 203, 187
+  orig: 203, 187
+  offset: 0, 0
+  index: -1
+h0006
+  rotate: false
+  xy: 645, 166
+  size: 203, 187
+  orig: 203, 187
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 1, 16
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+huahu
+  rotate: true
+  xy: 659, 542
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+huayu
+  rotate: true
+  xy: 629, 542
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+q0001
+  rotate: false
+  xy: 314, 778
+  size: 314, 235
+  orig: 314, 235
+  offset: 0, 0
+  index: -1
+q0002
+  rotate: true
+  xy: 1, 59
+  size: 314, 235
+  orig: 314, 235
+  offset: 0, 0
+  index: -1
+q0003
+  rotate: false
+  xy: 314, 542
+  size: 314, 235
+  orig: 314, 235
+  offset: 0, 0
+  index: -1
+q0004
+  rotate: false
+  xy: 629, 778
+  size: 314, 235
+  orig: 314, 235
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 1, 692
+  size: 312, 321
+  orig: 312, 321
+  offset: 0, 0
+  index: -1
+su
+  rotate: false
+  xy: 944, 883
+  size: 70, 130
+  orig: 70, 130
+  offset: 0, 0
+  index: -1

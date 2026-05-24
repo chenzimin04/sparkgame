@@ -1,0 +1,55 @@
+
+skel_bFire_blast.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+q0001
+  rotate: false
+  xy: 1, 1119
+  size: 664, 659
+  orig: 664, 659
+  offset: 0, 0
+  index: -1
+q0003
+  rotate: false
+  xy: 666, 1216
+  size: 572, 562
+  orig: 664, 659
+  offset: 44, 49
+  index: -1
+q0005
+  rotate: false
+  xy: 1, 551
+  size: 573, 567
+  orig: 664, 659
+  offset: 40, 38
+  index: -1
+q0007
+  rotate: true
+  xy: 666, 729
+  size: 486, 492
+  orig: 664, 659
+  offset: 86, 83
+  index: -1
+q0009
+  rotate: false
+  xy: 1239, 1258
+  size: 492, 520
+  orig: 664, 659
+  offset: 86, 67
+  index: -1
+q0011
+  rotate: false
+  xy: 1, 1
+  size: 498, 549
+  orig: 664, 659
+  offset: 89, 52
+  index: -1
+q0013
+  rotate: false
+  xy: 575, 253
+  size: 475, 475
+  orig: 664, 659
+  offset: 89, 95
+  index: -1

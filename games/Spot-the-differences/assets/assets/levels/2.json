@@ -1,0 +1,23 @@
+{
+  "resolution": "standard",
+  "image1": "cereal_a.jpg",
+  "image2": "cereal_b.jpg",
+  "differences":
+  [
+    {
+      "x": 195.0,
+      "y": 430.0,
+      "size": 100.0
+    },
+    {
+      "x": 440.0,
+      "y": 240.0,
+      "size": 100.0
+    },
+    {
+      "x": 921.0,
+      "y": 315.0,
+      "size": 150.0
+    }
+  ]
+}

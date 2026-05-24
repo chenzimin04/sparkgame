@@ -1,0 +1,13 @@
+ {
+	"size":8,
+	"moves":42,
+	"add":[
+		{ "x":0, "y":5, "dx":8, "dy":3, "type":"CRACKLING", "count":true },
+		{ "x":0, "y":0, "type":"FAT_MULTI", "count":true },
+		{ "x":2, "y":0, "type":"FAT_MULTI", "count":true },
+		{ "x":4, "y":0, "type":"FAT_MULTI", "count":true },
+		{ "x":6, "y":0, "type":"FAT_MULTI", "count":true }
+		
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_GREEN","GEM_RED","GEM_YELLOW"]
+ }

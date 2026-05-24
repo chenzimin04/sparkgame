@@ -1,0 +1,132 @@
+
+skel_octopus_tentacle2.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images1/000
+  rotate: true
+  xy: 1, 1
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+images2/000
+  rotate: true
+  xy: 1, 1
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+images1/00001
+  rotate: false
+  xy: 1, 54
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+images2/00001
+  rotate: false
+  xy: 1, 54
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+images1/00002
+  rotate: false
+  xy: 200, 54
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+images2/00002
+  rotate: false
+  xy: 200, 54
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+images1/00003
+  rotate: false
+  xy: 399, 54
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+images2/00003
+  rotate: false
+  xy: 399, 54
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+images1/00004
+  rotate: false
+  xy: 598, 54
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+images2/00004
+  rotate: false
+  xy: 598, 54
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+images1/00005
+  rotate: false
+  xy: 797, 54
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+images2/00005
+  rotate: false
+  xy: 797, 54
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+images1/00006
+  rotate: false
+  xy: 996, 54
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+images2/00006
+  rotate: false
+  xy: 996, 54
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+images1/1+
+  rotate: false
+  xy: 1195, 94
+  size: 98, 158
+  orig: 98, 158
+  offset: 0, 0
+  index: -1
+images2/1+
+  rotate: false
+  xy: 1195, 94
+  size: 98, 158
+  orig: 98, 158
+  offset: 0, 0
+  index: -1
+images1/jiao
+  rotate: false
+  xy: 1294, 180
+  size: 56, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: -1
+images2/jiao
+  rotate: false
+  xy: 1294, 180
+  size: 56, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: -1

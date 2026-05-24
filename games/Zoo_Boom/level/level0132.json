@@ -1,0 +1,15 @@
+ {
+	"size":9,
+	"moves":52,
+	"add":[			
+		{ "x":0, "y":8, "dx":3, "dy":1, "type":"ANVIL", "count":true },
+		{ "x":6, "y":8, "dx":3, "dy":1, "type":"ANVIL", "count":true },
+		
+		{ "x":2, "y":0, "dx":1, "dy":8, "type":"BOX", "count":true },
+		{ "x":6, "y":0, "dx":1, "dy":8, "type":"BOX", "count":true },
+		
+		{ "x":0, "y":0, "dx":2, "dy":8, "type":"BLOB", "count":true },
+		{ "x":7, "y":0, "dx":2, "dy":8, "type":"BLOB", "count":true }
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_RED","GEM_GREEN","GEM_YELLOW","GEM_PURPLE"]
+ }

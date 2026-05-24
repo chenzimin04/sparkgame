@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "cyberpunk_rabbit_a.jpg",
+  "image2": "cyberpunk_rabbit_b.jpg",
+  "differences":
+  [
+    {
+      "x": 347.0,
+      "y": 466.0,
+      "size": 80.0
+    },
+    {
+      "x": 498.0,
+      "y": 528.0,
+      "size": 75.0
+    },
+    {
+      "x": 801.0,
+      "y": 498.0,
+      "size": 55.0
+    },
+    {
+      "x": 593.0,
+      "y": 297.0,
+      "size": 50.0
+    },
+    {
+      "x": 758.0,
+      "y": 238.0,
+      "size": 150.0
+    }
+  ]
+}

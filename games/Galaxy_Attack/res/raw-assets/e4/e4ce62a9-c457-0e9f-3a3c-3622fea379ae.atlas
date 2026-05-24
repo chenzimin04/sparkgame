@@ -1,0 +1,125 @@
+
+skel_arm2.png
+size: 498,497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g0001
+  rotate: false
+  xy: 1, 132
+  size: 59, 119
+  orig: 59, 119
+  offset: 0, 0
+  index: -1
+g0002
+  rotate: false
+  xy: 1, 12
+  size: 59, 119
+  orig: 59, 119
+  offset: 0, 0
+  index: -1
+g0003
+  rotate: true
+  xy: 61, 21
+  size: 59, 119
+  orig: 59, 119
+  offset: 0, 0
+  index: -1
+j1
+  rotate: true
+  xy: 61, 169
+  size: 71, 147
+  orig: 71, 147
+  offset: 0, 0
+  index: -1
+j1+
+  rotate: false
+  xy: 1, 252
+  size: 63, 244
+  orig: 63, 244
+  offset: 0, 0
+  index: -1
+j2
+  rotate: false
+  xy: 65, 369
+  size: 156, 127
+  orig: 156, 127
+  offset: 0, 0
+  index: -1
+j2-h
+  rotate: false
+  xy: 222, 369
+  size: 156, 127
+  orig: 156, 127
+  offset: 0, 0
+  index: -1
+j2-h2
+  rotate: false
+  xy: 65, 241
+  size: 156, 127
+  orig: 156, 127
+  offset: 0, 0
+  index: -1
+j3
+  rotate: false
+  xy: 379, 360
+  size: 118, 136
+  orig: 118, 136
+  offset: 0, 0
+  index: -1
+j3+
+  rotate: true
+  xy: 400, 159
+  size: 81, 92
+  orig: 81, 92
+  offset: 0, 0
+  index: -1
+j3+-h
+  rotate: true
+  xy: 287, 71
+  size: 81, 92
+  orig: 81, 92
+  offset: 0, 0
+  index: -1
+j3+-h2
+  rotate: false
+  xy: 380, 60
+  size: 81, 92
+  orig: 81, 92
+  offset: 0, 0
+  index: -1
+j3-h
+  rotate: true
+  xy: 222, 250
+  size: 118, 136
+  orig: 118, 136
+  offset: 0, 0
+  index: -1
+j3-h2
+  rotate: true
+  xy: 359, 241
+  size: 118, 136
+  orig: 118, 136
+  offset: 0, 0
+  index: -1
+j4
+  rotate: false
+  xy: 61, 81
+  size: 112, 87
+  orig: 112, 87
+  offset: 0, 0
+  index: -1
+j4-h
+  rotate: false
+  xy: 174, 81
+  size: 112, 87
+  orig: 112, 87
+  offset: 0, 0
+  index: -1
+j4-h2
+  rotate: false
+  xy: 287, 153
+  size: 112, 87
+  orig: 112, 87
+  offset: 0, 0
+  index: -1

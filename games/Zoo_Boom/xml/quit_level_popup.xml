@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+
+<screen name="uiScreenPopUp" template="tPopUpJennySad">	
+	<element name="uiContent" >
+		<text text="SID_REALLY_QUIT" relativeWidth="1" height="100" halignText="center" valignText="center" halign="center" valign="top" template="tFontWhite,tFontMedium" />
+		<image name="uiImgLoseLife" image="ui/life.png" width="300" height="300" halign="center" valign="center" y="0" >
+			<state state="streak" y="-200" />
+			<state state="noStreak" y="0" />
+			<text text="-1" halignText="center" valignText="center" template="tFontWhite,tElement,tFontUltra" y="-10" />
+		</image>
+		<image name="uiImgStreak" image="dynamic/streak.png" width="300" height="300" halign="center" valign="center" y="100" >
+			<state state="streak" visible="true" />
+			<state state="noStreak" visible="false" />			
+			<text name="uiTxtStreak" halignText="center" valignText="bottom" halign="center" valign="center" template="tFontSpecial,tFontUltra,tElement" margin="40" marginBottom="53" />
+			<text text="SID_LOSE_STREAK" width="800" height="80" halignText="center" valignText="center" halign="center" valign="bottomOf" template="tFontWhite,tFontMedium" >
+				<state state="landscape" width="800" />
+				<state state="portrait" width="600" />
+			</text>
+		</image>
+		<button name="uiBtQuit" template="tButton" halign="center" valign="bottom" label="SID_QUIT" />
+	</element>	
+</screen>

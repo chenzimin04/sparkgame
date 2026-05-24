@@ -1,0 +1,90 @@
+{
+	"type": "View",
+	"props": {
+		"width": 484,
+		"height": 410
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 70,
+				"x": 242,
+				"width": 600,
+				"var": "imgChapter",
+				"skin": "images/chapterMap/icon_zj_1.png",
+				"rotation": 0,
+				"height": 507,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 3
+		},
+		{
+			"type": "Image",
+			"props": {
+				"y": 250,
+				"x": -8,
+				"var": "bannerChapter",
+				"skin": "images/chapterMap/icon_zj_mcd.png",
+				"rotation": 0
+			},
+			"compId": 4,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 97,
+						"x": 191,
+						"skin": "images/chapterMap/icon_js_xx2.png",
+						"scaleY": 0.8,
+						"scaleX": 0.8
+					},
+					"compId": 7
+				},
+				{
+					"type": "Text",
+					"props": {
+						"y": 101,
+						"x": 201,
+						"width": 140,
+						"var": "labPass",
+						"text": "30/30",
+						"strokeColor": "#9cd5ef",
+						"stroke": 1,
+						"fontSize": 30,
+						"color": "#ffffff",
+						"align": "center",
+						"runtime": "laya.display.Text"
+					},
+					"compId": 6
+				},
+				{
+					"type": "Text",
+					"props": {
+						"y": 25,
+						"x": 120,
+						"width": 260,
+						"var": "labChapter",
+						"text": "火爆要塞",
+						"strokeColor": "#949da1",
+						"stroke": 1,
+						"fontSize": 40,
+						"color": "#ffffff",
+						"bold": true,
+						"align": "center",
+						"runtime": "laya.display.Text"
+					},
+					"compId": 5
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/chapterMap/icon_zj_1.png",
+		"images/chapterMap/icon_zj_mcd.png",
+		"images/chapterMap/icon_js_xx2.png"
+	],
+	"loadList3D": []
+}

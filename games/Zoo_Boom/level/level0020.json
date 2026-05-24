@@ -1,0 +1,31 @@
+ {
+	"size":9,
+	"stars":{"avg":6, "top":13 },
+	"moves":40,
+	"add":[
+		{ "x":0, "y":0, "dx":4, "dy":5, "type":"SOFT_CAGE", "count": true },
+		
+		{ "x":5, "y":0, "dx":4, "dy":5, "type":"SOFT_CAGE", "count": true },
+		
+		{ "x":0, "y":5, "type":"ANVIL", "count": true },{ "x":1, "y":5, "type":"COIN", "count": true },{ "x":2, "y":5, "type":"COIN", "count": true },{ "x":3, "y":5, "type":"ANVIL", "count": true },
+		{ "x":0, "y":6, "type":"COIN", "count": true },{ "x":1, "y":6, "type":"COIN", "count": true },{ "x":2, "y":6, "type":"COIN", "count": true },{ "x":3, "y":6, "type":"COIN", "count": true },
+		{ "x":0, "y":7, "type":"COIN", "count": true },{ "x":1, "y":7, "type":"COIN", "count": true },{ "x":2, "y":7, "type":"COIN", "count": true },{ "x":3, "y":7, "type":"COIN", "count": true },
+		{ "x":0, "y":8, "type":"COIN", "count": true },{ "x":1, "y":8, "type":"COIN", "count": true },{ "x":2, "y":8, "type":"COIN", "count": true },{ "x":3, "y":8, "type":"COIN", "count": true },	
+		                                                                                                                                                                         
+		{ "x":5, "y":5, "type":"ANVIL", "count": true },{ "x":6, "y":5, "type":"COIN", "count": true },{ "x":7, "y":5, "type":"COIN", "count": true },{ "x":8, "y":5, "type":"ANVIL", "count": true },
+		{ "x":5, "y":6, "type":"COIN", "count": true },{ "x":6, "y":6, "type":"COIN", "count": true },{ "x":7, "y":6, "type":"COIN", "count": true },{ "x":8, "y":6, "type":"COIN", "count": true },
+		{ "x":5, "y":7, "type":"COIN", "count": true },{ "x":6, "y":7, "type":"COIN", "count": true },{ "x":7, "y":7, "type":"COIN", "count": true },{ "x":8, "y":7, "type":"COIN", "count": true },
+		{ "x":5, "y":8, "type":"COIN", "count": true },{ "x":6, "y":8, "type":"COIN", "count": true },{ "x":7, "y":8, "type":"COIN", "count": true },{ "x":8, "y":8, "type":"COIN", "count": true }
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_PURPLE","GEM_RED","GEM_YELLOW"],
+	"field":[ 
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx"]
+ }

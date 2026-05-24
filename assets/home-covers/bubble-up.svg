@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7fd7ff"/><stop offset="1" stop-color="#c0f3ff"/></linearGradient></defs>
+  <rect width="640" height="380" fill="url(#bg)"/>
+  <g fill="#ffffff" opacity=".52"><circle cx="122" cy="220" r="16"/><circle cx="192" cy="188" r="26"/><circle cx="452" cy="242" r="24"/><circle cx="532" cy="176" r="15"/></g>
+  <path d="M274 270c0-44 34-79 78-79 43 0 78 35 78 79 0 42-30 74-70 78l-10 17-8-16c-39-4-68-36-68-79Z" fill="#ffba36"/>
+  <path d="M311 193 354 136 395 193" stroke="#5b8bff" stroke-width="14" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="208" y="92" fill="#3b6ec8" font-size="60" font-family="Segoe UI, Arial, sans-serif" font-weight="800">BUBBLE UP</text>
+</svg>

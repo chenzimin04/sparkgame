@@ -1,0 +1,398 @@
+
+Mojo.png
+size: 1635,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mojo-hip1
+  rotate: false
+  xy: 1482, 29
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Mojo-shadow
+  rotate: true
+  xy: 925, 195
+  size: 326, 98
+  orig: 326, 98
+  offset: 0, 0
+  index: -1
+Tackle-Effect-Base
+  rotate: true
+  xy: 1025, 300
+  size: 221, 93
+  orig: 221, 93
+  offset: 0, 0
+  index: -1
+Tackle-Effect-Particle
+  rotate: true
+  xy: 252, 2
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+Tackle-Effect-White
+  rotate: true
+  xy: 197, 7
+  size: 173, 53
+  orig: 173, 53
+  offset: 0, 0
+  index: -1
+mojo-Hip-light
+  rotate: true
+  xy: 537, 2
+  size: 26, 52
+  orig: 26, 52
+  offset: 0, 0
+  index: -1
+mojo-cap
+  rotate: false
+  xy: 1120, 320
+  size: 194, 201
+  orig: 194, 201
+  offset: 0, 0
+  index: -1
+mojo-cloth-L
+  rotate: false
+  xy: 387, 4
+  size: 148, 180
+  orig: 148, 180
+  offset: 0, 0
+  index: -1
+mojo-cloth-R
+  rotate: false
+  xy: 737, 2
+  size: 196, 189
+  orig: 196, 189
+  offset: 0, 0
+  index: -1
+mojo-clothback
+  rotate: true
+  xy: 337, 186
+  size: 335, 314
+  orig: 335, 314
+  offset: 0, 0
+  index: -1
+mojo-clothback-1
+  rotate: false
+  xy: 2, 182
+  size: 333, 339
+  orig: 333, 339
+  offset: 0, 0
+  index: -1
+mojo-clothdown
+  rotate: true
+  xy: 935, 3
+  size: 190, 41
+  orig: 190, 41
+  offset: 0, 0
+  index: -1
+mojo-ear-L
+  rotate: true
+  xy: 1551, 365
+  size: 55, 81
+  orig: 55, 81
+  offset: 0, 0
+  index: -1
+mojo-ear-R
+  rotate: true
+  xy: 1551, 308
+  size: 55, 81
+  orig: 55, 81
+  offset: 0, 0
+  index: -1
+mojo-eye-L
+  rotate: true
+  xy: 1429, 328
+  size: 59, 72
+  orig: 59, 72
+  offset: 0, 0
+  index: -1
+mojo-eye-R
+  rotate: true
+  xy: 1551, 215
+  size: 91, 78
+  orig: 91, 78
+  offset: 0, 0
+  index: -1
+mojo-eyeball-L
+  rotate: false
+  xy: 643, 5
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+mojo-eyeball-R
+  rotate: false
+  xy: 628, 4
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+mojo-eyebrows-L
+  rotate: false
+  xy: 659, 7
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+mojo-eyeclose-L
+  rotate: false
+  xy: 1316, 320
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+mojo-eyeclose-R
+  rotate: true
+  xy: 1353, 2
+  size: 64, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1
+mojo-hair
+  rotate: true
+  xy: 1179, 200
+  size: 118, 70
+  orig: 118, 70
+  offset: 0, 0
+  index: -1
+mojo-hair-1
+  rotate: true
+  xy: 1028, 4
+  size: 34, 113
+  orig: 34, 113
+  offset: 0, 0
+  index: -1
+mojo-hair-2
+  rotate: false
+  xy: 1354, 205
+  size: 54, 113
+  orig: 54, 113
+  offset: 0, 0
+  index: -1
+mojo-hair-3
+  rotate: false
+  xy: 1512, 285
+  size: 37, 104
+  orig: 37, 104
+  offset: 0, 0
+  index: -1
+mojo-hand-1-R
+  rotate: false
+  xy: 1025, 196
+  size: 152, 102
+  orig: 152, 102
+  offset: 0, 0
+  index: -1
+mojo-hand-2-R
+  rotate: false
+  xy: 1177, 50
+  size: 104, 144
+  orig: 104, 144
+  offset: 0, 0
+  index: -1
+mojo-hand-L
+  rotate: true
+  xy: 978, 40
+  size: 153, 197
+  orig: 153, 197
+  offset: 0, 0
+  index: -1
+mojo-hand-L-close
+  rotate: true
+  xy: 1457, 108
+  size: 105, 87
+  orig: 105, 87
+  offset: 0, 0
+  index: -1
+mojo-hand-L-close1
+  rotate: true
+  xy: 1546, 108
+  size: 105, 87
+  orig: 105, 87
+  offset: 0, 0
+  index: -1
+mojo-hand-L1
+  rotate: true
+  xy: 537, 30
+  size: 154, 198
+  orig: 154, 198
+  offset: 0, 0
+  index: -1
+mojo-hand-R
+  rotate: true
+  xy: 537, 30
+  size: 154, 198
+  orig: 154, 198
+  offset: 0, 0
+  index: -1
+mojo-hand-R-close
+  rotate: true
+  xy: 1251, 204
+  size: 114, 101
+  orig: 114, 101
+  offset: 0, 0
+  index: -1
+mojo-hand-glouse1-L
+  rotate: false
+  xy: 1143, 9
+  size: 59, 29
+  orig: 59, 29
+  offset: 0, 0
+  index: -1
+mojo-hand-glouse1-L1
+  rotate: false
+  xy: 1143, 9
+  size: 59, 29
+  orig: 59, 29
+  offset: 0, 0
+  index: -1
+mojo-hand-glouse1-R
+  rotate: false
+  xy: 1490, 391
+  size: 59, 29
+  orig: 59, 29
+  offset: 0, 0
+  index: -1
+mojo-hand-glouse2-L
+  rotate: false
+  xy: 1512, 422
+  size: 107, 99
+  orig: 107, 99
+  offset: 0, 0
+  index: -1
+mojo-hand-glouse2-R
+  rotate: true
+  xy: 1410, 215
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1
+mojo-hand-up-L
+  rotate: false
+  xy: 653, 193
+  size: 134, 328
+  orig: 134, 328
+  offset: 0, 0
+  index: -1
+mojo-hand-up-R
+  rotate: false
+  xy: 789, 193
+  size: 134, 328
+  orig: 134, 328
+  offset: 0, 0
+  index: -1
+mojo-head-R
+  rotate: false
+  xy: 2, 4
+  size: 193, 176
+  orig: 193, 176
+  offset: 0, 0
+  index: -1
+mojo-hip
+  rotate: false
+  xy: 1561, 58
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+mojo-leg-L
+  rotate: true
+  xy: 1204, 5
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+mojo-leg-R
+  rotate: true
+  xy: 1204, 5
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+mojo-mouth-AA
+  rotate: false
+  xy: 1283, 68
+  size: 86, 134
+  orig: 86, 134
+  offset: 0, 0
+  index: -1
+mojo-mouth-EE
+  rotate: false
+  xy: 1371, 71
+  size: 84, 132
+  orig: 84, 132
+  offset: 0, 0
+  index: -1
+mojo-mouth-sad
+  rotate: false
+  xy: 1316, 387
+  size: 86, 134
+  orig: 86, 134
+  offset: 0, 0
+  index: -1
+mojo-mouth-sad-close
+  rotate: false
+  xy: 1404, 389
+  size: 84, 132
+  orig: 84, 132
+  offset: 0, 0
+  index: -1
+mojo-nose
+  rotate: false
+  xy: 591, 2
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+mojo-shoe_L
+  rotate: false
+  xy: 1268, 7
+  size: 83, 41
+  orig: 83, 41
+  offset: 0, 0
+  index: -1
+mojo-shoe_R
+  rotate: false
+  xy: 1268, 7
+  size: 83, 41
+  orig: 83, 41
+  offset: 0, 0
+  index: -1
+mojo-shorts_L
+  rotate: true
+  xy: 1356, 324
+  size: 61, 71
+  orig: 61, 71
+  offset: 0, 0
+  index: -1
+mojo-shorts_R
+  rotate: true
+  xy: 1409, 8
+  size: 61, 71
+  orig: 61, 71
+  offset: 0, 0
+  index: -1
+tint-mojo-body
+  rotate: false
+  xy: 252, 12
+  size: 133, 168
+  orig: 133, 168
+  offset: 0, 0
+  index: -1
+tint-mojo-socks_L
+  rotate: false
+  xy: 978, 2
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+tint-mojo-socks_R
+  rotate: false
+  xy: 978, 2
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1

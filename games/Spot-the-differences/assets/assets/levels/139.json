@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "suburban_houses_a.jpg",
+  "image2": "suburban_houses_b.jpg",
+  "differences":
+  [
+    {
+      "x": 285.0,
+      "y": 388.0,
+      "size": 70.0
+    },
+    {
+      "x": 250.0,
+      "y": 60.0,
+      "size": 170.0
+    },
+    {
+      "x": 544.0,
+      "y": 70.0,
+      "size": 230.0
+    },
+    {
+      "x": 534.0,
+      "y": 289.0,
+      "size": 80.0
+    },
+    {
+      "x": 791.0,
+      "y": 336.0,
+      "size": 100.0
+    }
+  ]
+}

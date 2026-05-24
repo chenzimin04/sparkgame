@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+<templates>
+	<element id="tStar" width="200" ratio="1" halign="center" valign="center">
+		<element name="uiRays" template="tRays" halign="center" valign="center" scale="2" visible="false" >
+			<state state="on" visible="true" />
+			<state state="off" visible="false" />
+		</element>
+		<image name="uiImgStar" template="tElement" image="ui/star_off.png">
+			<state state="on" image="ui/star_on.png" />
+			<state state="off" image="ui/star_off.png" />
+		</image>
+	</element>
+</templates>
+
+<screen name="uiScreenPopUp" template="tPopUpJenny" >		
+	<element template="tHardLevel" />
+	<element name="uiContent">
+		<image relativeWidth="1.0" height="600" padding="20" valign="top" margin="20" marginLeft="10" marginRight="10" y="-10">		
+			<image name="uiImgStar0" valign="top" x="-230" y="45" template="tStar" />
+			<image name="uiImgStar1" width="220" valign="top" x="0" template="tStar" />
+			<image name="uiImgStar2" valign="top" x="230" y="45" template="tStar"/>		
+			
+			<text name="uiTxtWinInfo" width="70%" height="100" y="210" halignText="center" valignText="center" halign="center" valign="top" template="tFontSpecial,tFontUltra" if="locaSupported" />
+			<text name="uiTxtScore" width="70%" height="100" halignText="center" valignText="center" halign="center" valign="bottom" y="-80" template="tFontWhite,tFontLarge,tElement" >
+				<state state="streak" height="100" y="-100" template="tFontLarge" />
+				<state state="noStreak" height="200" y="0" template="tFontUltra"/>				
+			</text>
+			<element width="100%" height="100" valign="bottom">
+				<state state="streak" visible="true"/>
+				<state state="noStreak" visible="false"/>					
+				<text name="uiTxtScoreBonus" width="50%" height="100" halign="right" halignText="left" valignText="center" template="tFontWhite,tFontMedium,tElement" text="+1.243" />
+				<element name="uiStreak" x="-60" width="120" ratio="1" halign="center" valign="center" >
+					<image name="uiImgStreak" image="dynamic/streak.png" template="tElement" />
+					<text name="uiTxtStreak" halignText="center" valignText="bottom" halign="center" valign="center" template="tFontSpecial,tFontMedium,tElement" margin="29" />
+				</element>
+			</element>
+		</image>
+	
+		<image name="uiImgLeaderboard" width="100%" y="-155" marginLeft="40" marginRight="40" height="320" valign="bottom" padding="3" margin="20" visible="false" >
+			<!--text text="SID_LEADERBOARD" relativeWidth="1" height="60" halignText="center" valignText="center" halign="center" valign="top" template="tFontWhite,tFontMedium" y="0"/-->
+			<list name="uiListRanking" template="tElement,tListHorizontal" marginTop="0" vertical="false" gap="10" />		
+		</image>
+	
+		<button name="uiBtOk" label="SID_CONTINUE" icon="ui/play.png" template="tButton" visible="false" halign="center" valign="bottom"/>
+	</element>
+	<image name="uiImgJennyBack" image="" />
+	<image name="uiImgJennyFront" template="tJennyHappy" >
+		<state state="landscape" visible="true" x="150" y="-940" />
+		<state state="portrait" visible="true" height="1000" x="270" y="-310" />
+	</image>
+</screen>

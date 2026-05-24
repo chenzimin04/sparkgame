@@ -1,0 +1,1014 @@
+ID,fi-FI
+ad_failed.button,OK
+ad_failed.message,"Ei ole tällä hetkellä videoita saatavilla, yritä myöhemmin uudelleen."
+ad_failed.title,Hups...
+ad_magic.button,Katso
+ad_magic.message,Katso lyhyt videopätkä saadaksesi palkinnon.
+ad_magic.title,Makea Possu-Taikaa
+android_app.button,Asenna
+android_app.text.release,"Hei ystävät! Olemme iloisia voidessamme ilmoittaa, että pelimme on nyt saatavilla Androidille. Lataa sovellus ja aloita pelaaminen!"
+android_app.title,Nyt saatavilla Androidille!
+android_update.restart.no,Myöhemmin
+android_update.restart.text,Asenna nyt?
+android_update.restart.title,Päivitys valmis!
+android_update.restart.yes,Kyllä
+avatar_already_changed.button,OK
+avatar_already_changed.message,Profiilikuvasi on jo vaihdettu. Voit vaihtaa profiilikuvasi vain kerran.
+bookmark.daily,Haaste
+bookmark.friends,Ystävät
+bookmark.settings,Asetukset
+booster_hint.cross,%booster_shop.hint.ingame.cross%
+booster_hint.hammer,%booster_shop.hint.ingame.hammer%
+booster_hint.hand,%booster_shop.hint.ingame.hand%
+booster_shop.buy,Saat #count
+booster_shop.hint.ingame.cross,Käytä taikasauvaa poistaaksesi yhden rivin ja yhden sarakkeen palikoita!
+booster_shop.hint.ingame.hammer,Päästä eroon laatoista hakkaamalla ne vasaralla!
+booster_shop.hint.ingame.hand,Käytä hanskaa vaihtaaksesi vierekkäisiä paloja!
+booster_shop.hint.prelevel.add_bomb,Aloita mikä tahansa taso pommilla jo ruudukolla!
+booster_shop.hint.prelevel.add_line,Aloita mikä tahansa taso jo valmiilla viivalla!
+booster_shop.hint.prelevel.add_omni,Aloita mikä tahansa taso salamalla jo laudalla!
+booster_shop.hint.prelevel.add_tint,Aloita mikä tahansa taso jo valmiiksi maalatulla laudalla!
+booster_shop.hint.prelevel.double_fly,Tuplaa kaikki tämän tason sammakot!
+booster_shop.title.ingame.cross,Taikasauva
+booster_shop.title.ingame.hammer,Vasara
+booster_shop.title.ingame.hand,Hattu
+booster_shop.title.prelevel.add_bomb,Pommi-tehostin
+booster_shop.title.prelevel.add_line,Rivin Boosteri
+booster_shop.title.prelevel.add_omni,Salama Boosteri
+booster_shop.title.prelevel.add_tint,Maalaus-tehostin
+booster_shop.title.prelevel.double_fly,Kirsikkalento x2 Boosteri
+chest_open.collection_complete,Kerätty!
+chest_open.ok,OK
+chest_opening.button,Mahtavaa!
+chest_opening.reward,Palkinto
+conflict_popup.continue,Jatka
+conflict_popup.hint_syncing,Synkronoidaan...
+conflict_popup.skip,Jatka offline-tilassa
+credits.art,Taiteellinen suunnittelu
+credits.artists,"Paljon rakkautta meidän graafisen taiteen ystäville
+ihanien avatar-hahmojen takia!"
+credits.gamedesign,Pelisuunnittelu
+credits.mentions,"Erityiskiitokset
+ystävillemme"
+credits.programming,Ohjelmointi
+credits.title,Meidän joukkue!
+daily_help.button,OK
+daily_help.chest,Suurpalkinto
+daily_help.reward,Yksi kerta palkinnot
+daily_help.text,"Joka päivä pelaajat näyttävät taitonsa ja kilpailevat yhdellä tasolla.
+
+Korkeimman pistemäärän saanut pelaaja saa päivän palkinnon - Kuninkaan kruunun ja timanttilaatikon!"
+daily_help.title,Päivittäinen haaste
+daily_reward.button,Mahtavaa!
+daily_reward.reward,Palkinto
+daily_reward.title.place_1,Olet päivittäisen haasteen voittaja!
+daily_reward.title.place_generic,"Päivittäinen haaste suoritettu
+Sijoituit \##place!"
+daily.drag_to_update,Värisyttääksesi uudelleen
+daily.epic_sunday_ribbon,Ystävällinen haaste
+daily.finishes_in,Haaste päättyy #time
+daily.finishes_now,Aika loppui!
+daily.high_score,Uusi korkea piste!
+daily.medal_chest_text,Kerää #amount medalia!
+daily.next_time,Seuraava päivittäinen haaste #time!
+daily.next_time_now,Uusi päivittäinen haaste on alkanut!
+daily.no_yesterday_yet,Et osallistunut edelliseen Päivittäiseen Haasteeseen.
+daily.play,Pelaa
+daily.retry_submit,Yritä uudelleen.
+daily.rewards_tab,Päivittäiset haasteet palkinnot
+daily.rewards.bubble,"Kerää tähtiä ja mitaleja
+avataksesi aarteiden laatikoita!"
+daily.score_not_accepted,"Tämä tulos ei lasketa johtolistalle, koska pääsit pelaamaan loppuun vasta Daily Challengen jälkeen."
+daily.star_chest_claim,Avaa
+daily.star_chest_collected_text,Tule huomenna toiselle säilytyslaatikolle!
+daily.star_chest_text,Suorita 7 päivittäistä haastetta 3 tähden arvosanalla peräkkäin!
+daily.submit_error,Ei voitu lähettää tuloksia.
+daily.today,Päivittäinen haaste
+daily.today_mark,Tänään
+daily.update_error,Ei verkkoyhteyttä.
+daily.wait_text,
+daily.watch_replay.button,Katso
+daily.watch_replay.text,Pelin uusinta
+daily.welcome_reward_first,%daily_help.text%
+daily.welcome_text,Voi ei! Uusi päivittäinen haaste on alkanut!
+daily.yesterday,Eilen portaat
+daily.yesterday_updating,Haetaan tuloksia...
+demo.finished.text,"Onneksi olkoon, olet suorittanut kokeiluversion! Pelaa koko versio ilmaiseksi osoitteessa <p class=""ma-link"">PecPoc.com<p class=""demo-hint"">Edistyksesi ei katoa."
+demo.nag.text,"Ilmaiset bonukset ovat saatavilla vain täydessä versiossa. Jatka pelin pelaamista täydessä versiossa <p class=""ma-link""> PecPoc.com <p class=""demo-hint""> Etenemisesi ei häviä."
+event_ny.next_in_hint,Hanki seuraava läsnä: #time
+event_ny.title,Uudenvuoden Lahjat
+fake_ad.reward_in,Palkinto...
+fake_ad.tutorial,"Ei ole tällä hetkellä videoita saatavilla...
+Älä huoli, meillä on sijaan porsaan taikaa!"
+fake_ad.your_ad_here,Sinun mainoksesi täällä
+fb_login_failed.message,Ei voitu yhdistää Facebookiin. Yritä uudelleen?
+fb_notification.button,Yhdistä
+fb_notification.message,Yhdistä Facebookiin synkronoidaksesi edistyksesi verkossa!
+fb_notification.no_post_hint,Emme koskaan julkaise ilman lupaasi.
+fb_notification.title,Tallenna edistyksesi
+feedback.failed.button,Jatka
+feedback.failed.message,"Ei voitu lähettää palautetta.
+Tarkista internet-yhteytesi."
+feedback.failed.title,Hups...
+feedback.ok.button,OK
+feedback.ok.message,"Saimme palautteesi.
+Kiitos, että autat meitä parantamaan peliä."
+feedback.ok.title,Palautetta lähetetty!
+friends_tab.failed_social.button,Tarkista
+friends_tab.failed_social.text,"Tarkistetaan yhteys, jotta voimme päivittää kaverilistan."
+friends_tab.has_fb.button,Kutsu ystävät
+friends_tab.has_fb.text,"Mitä enemmän ystäviä sinulla on, sitä enemmän lahjoja saat!"
+friends_tab.no_fb.button,Yhdistä
+friends_tab.no_fb.hint,Emme koskaan julkaise ilman lupaasi.
+friends_tab.no_fb.text,Yhdistä Facebookiin ja saa lahjoja ystäviltä ja seuraa heidän edistymistään.
+friends_tab.no_permission.button,Kyllä
+friends_tab.no_permission.text,"Sallitko ystävälistasi pääsyn, jotta saat lisää lahjoja?"
+friends_tab.no_social.text,Yhdistä sosiaalisiin verkostoihin ja saa lahjoja ystäviltä ja seuraa heidän edistymistään.
+friends_tab.no_y8.button,Yhdistä
+friends_tab.no_y8.text,Yhdistä Y8 ja saa lahjoja ystäviltä ja seuraa heidän edistymistään.
+friends_tab.ok_invite_button,Kutsu ystävät
+friends_tab.ok_invite_gift_text,"Mitä enemmän ystäviä, sitä enemmän lahjoja!"
+friends_tab.ok_invite_text,"Mitä enemmän ystäviä, sitä enemmän lahjoja!"
+friends_tab.title,Ystävät
+friends_tab.vk_friends_permission_button,Kyllä
+friends_tab.vk_friends_permission_text,"Sallitko ystävälistasi pääsyn, jotta saat lisää lahjoja?"
+friends_tab.vk_invite_button,Kutsu ystävät
+friends_tab.vk_invite_text,"Mitä enemmän ystäviä, sitä enemmän lahjoja!"
+friends.gift.claim,Avaa
+game_results.click_to_continue,Klikkaa jatkaaksesi
+game_results.tap_to_continue,Napauta jatkaaksesi
+game.click_to_continue,Klikkaa jatkaaksesi
+game.info.ahead,OLET #fmtnum SIIRRON EDELLÄ!
+game.info.behind,Olet #fmtnum siirron jäljessä.
+game.info.goals,Tavoite
+game.info.moves,SIIRTOJA
+game.info.pause,TAUKO
+game.info.undo,KUMOA
+game.pause.continue,"<font color=""\#408fda"">Jatka peliä"
+game.pause.leave_forfeit,"<font color=""\#ff0000"">Pelaa loppuun"
+game.pause.leave_safe,Lopeta peli
+game.pause.title,Tauko
+game.shoutout.their_game_result,Pisteet: #score
+game.shoutout.well_done,Hienosti tehty!
+game.shoutout.your_game_result,Pisteesi: #score
+game.tap_to_continue,Napauta jatkaaksesi
+game.tutorial.continue,Jatka
+gamemode.capital.aquarium,KALAT
+gamemode.capital.bird,LINTUJA
+gamemode.capital.bubble,Kuplat
+gamemode.capital.cats,KISSAKISSAKISSA
+gamemode.capital.chocolate,LAVA
+gamemode.capital.diamonds,TIMANTIT
+gamemode.capital.ducks,ANKKALINNAT
+gamemode.capital.energy_cube_reciever,Kristallit
+gamemode.capital.energycube,JELLY
+gamemode.capital.fishes,Porkkanat
+gamemode.capital.flower,KUKAT
+gamemode.capital.food,Pähkinät
+gamemode.capital.fossils,OCTOPUSSEJA
+gamemode.capital.frog,SAMMAKOT
+gamemode.capital.grass,RUOHO
+gamemode.capital.gum,HUI
+gamemode.capital.honeybee,KARHUT
+gamemode.capital.hotlava,LAVA
+gamemode.capital.ice,JÄÄ
+gamemode.capital.jam,ENERGIA
+gamemode.capital.jam_reciever,Kristallit
+gamemode.capital.pearl,HELMIÄ
+gamemode.capital.road,SIKSIKÄS
+gamemode.capital.sausage,MAKSAVARVET
+gamemode.capital.statue,KOIRAT
+gamemode.capital.stone,KIVET
+gamemode.capital.tasks,TILAUKSET
+gamemode.capital.tiles,RUOHO
+gamemode.capital.waterfish,KALAT
+gamemode.capital.blooplet,PALLOTKIT
+gameresult.adventure.completed_continue,Jatka
+gameresult.adventure.leave,Lähde
+gameresult.adventure.play_next,Jatka
+gameresult.adventure.retry,Yritä uudelleen.
+gameresult.boosters,Valitse Boosterit
+gameresult.complete.line1,Taso
+gameresult.complete.line2,Valmis!
+gameresult.continue,Jatka
+gameresult.daily.continue,Jatka
+gameresult.daily.leave,Poistu
+gameresult.daily.retry,Pelaa
+gameresult.dash,-
+gameresult.forfeit,Luovuit!
+gameresult.map.continue,Jatka
+gameresult.map.retry,Yritä uudelleen.
+gameresult.pvp.continue,Jatka
+gameresult.pvp.play_another,Eri taso
+gameresult.pvp.play_next,Eri taso
+gameresult.pvp.rematch_lose,Uusintaottelu
+gameresult.pvp.rematch_win_draw,Pelaa uudelleen
+gameresult.rematch,Uusintaottelu
+gameresult.rematch_bet,Panosta #bet
+gameresult.required_ticket,Vaadittu
+gameresult.retry,Pelaa uudelleen
+gameresult.rewards,Palkinto
+gameresult.title.completed,"<font color=""\#20ea6d"">Taso suoritettu!"
+gameresult.title.draw,"<font color=""\#5885B8"">Vedä"
+gameresult.title.lose,"<font color=""\#ff5666"">Hävisit"
+gameresult.title.win,Voitit!
+gameresult.vs,VS
+gameresults.inter_ad_in_large,"#count peliä, kunnes"
+gameresults.inter_ad_in_small,"#count peliä, kunnes"
+gems_shop.title,Kivet-kauppa
+global.click_to_continue,Klikkaa jatkaaksesi
+global.default_player_name,Pelaaja
+global.tap_to_continue,Napauta jatkaaksesi
+home.hint_daiy,Yritä Päivittäistä Haastetta
+home.hint_play_pvp,Voit edelleen pelata dueleja vaikka elämät loppuisivatkin!
+home.play,Pelaa
+html.loading,Ladataan.
+iap_failed.button,OK
+iap_failed.message,Osto epäonnistui.
+iap_need_facebook.message,Yhdistä Facebookiin saadaksesi lisää jalokiviä!
+iap_pending.button,OK
+iap_pending.message,Ostosi käsitellään.
+intro_screen.another_device,Koodilla
+intro_screen.login_back,Takaisin
+intro_screen.login_button,Kirjaudu sisään
+intro_screen.login_fb,Facebook
+intro_screen.login_ok,Odnoklassniki
+intro_screen.login_singular,Kirjaudu sisään
+intro_screen.login_vk,Vkontakte
+intro_screen.login_with,Kirjaudu sisään käyttäen
+intro_screen.login_y8,Y8
+intro_screen.login_yandex,Yandex
+intro_screen.new_player,Uusi pelaaja
+introprofile.accept_avatar,Valitse
+introprofile.accept_name,Jatka
+introprofile.editavatar,Valitse profiilikuva
+introprofile.editname,Syötä nimesi
+invite_request.message,Pelataanko parasta match 3 -peliä yhdessä?
+invite_request.title,Valitse kavereita pelataksesi Skydomia yhdessä!
+level_popup.goals,Tavoite
+level_popup.play,Pelaa
+level_popup.prelevel_boosters,Valitse Boosterit
+level_popup.title,Taso #level
+level_popup.title_hard,Vaikea
+level_popup.title_ultra_hard,Super vaikea
+level_popup.title_very_hard,Erittäin vaikea.
+link.support,https://Skydom.freshdesk.com/en/support/solutions
+link.support_beta,https://Skydombeta.freshdesk.com/en/support/solutions
+lives_shop.buy_all,Osta 5
+lives_shop.hint,Tarvitset elämiä jatkaaksesi seikkailun pelaamista.
+lives_shop.recharge,Seuraava elämä: #time
+lives_shop.title,Elämät
+lives_shop.watch_ad_button,Katso
+lives_shop.watch_ad_text,Vapaa 1
+load_player.almost_done,Melkein valmis...
+load_player.continue_offline,Jatka offline-tilassa
+load_player.loading_save,Ladataan pelaajan tietoja...
+load_player.loading_save_failed,Ei voitu ladata pelaajan tietoja.
+load_player.loading_save_failed_in,"Ei voitu ladata pelaajan tietoja.
+Yritetään uudelleen #time..."
+load_player.logging_in,Kirjaudutaan sisään...
+load_player.logging_in_failed,En voinut kirjautua sisään.
+load_player.logging_in_failed_in,"Ei voitu kirjautua sisään.
+Yritetään uudelleen #time..."
+load_player.new_player,Olen uusi pelaaja.
+load_player.retry_now,Yritä uudelleen nyt
+login_failed.button,Yritä uudelleen.
+login_failed.title,Yhteyden muodostaminen epäonnistui.
+magic.click_to_continue,Klikkaa jatkaaksesi
+magic.reward,Palkinto
+magic.tap_to_continue,Napauta jatkaaksesi
+map.gates_coming_soon,Uusia tasoja tulossa pian!
+match3.level_complete.line1,Kaikki tavoitteet
+match3.level_complete.line2,Saavutettu!
+match3.score_pve,#score / #required
+match3.shoutout.1_move,Viimeinen siirto!
+match3.shoutout.2_moves,2 siirtoa
+match3.shoutout.5_moves,5 siirtoa
+match3.shoutout.no_moves,Ei enää siirtoja.
+match3.shoutout.no_reshuffle,"Ei voi sekoittaa uudelleen
+Ei mahdollisia siirtoja"
+merge.button.mine,Valitse
+merge.button.their,Valitse
+merge.description.account_merge,"Tuntuu siltä, että olet jo pelannut Skydomia.
+Valitse suosikkiprofiilisi!"
+merge.description.ingame_conflict,%merge.description.login_conflict%
+merge.description.login_conflict,"Olet pelannut usealta laitteelta.
+Valitse haluamasi tallennus."
+merge.hint.mine,paikallinen
+merge.hint.their,Palvelimelta
+merge.title,Edistyksen Synkronointi
+modal.adblock.button,OK
+modal.adblock.text,"Huomasimme, että käytät Ad Blockeria.<br>Ole hyvä ja poista Ad Blocker tältä sivulta, jotta voit katsoa Videota."
+modal.adblock.title,Mainosesto.
+modal.error.button,Päivitä
+modal.error.text,"Anteeksi, tapahtui virhe. Päivitä sivu, kiitos."
+modal.error.title,Hups! Jotain meni pieleen...
+modal.fb_login_proxy.button,Jatka
+modal.fb_login_proxy.text,Yhdistetään Facebookiin
+modal.fb_login_proxy.title,
+modal.fb_purchase_proxy.button,Jatka
+modal.fb_purchase_proxy.gems,Kivet
+modal.first_login_failed.button,Yritä uudelleen.
+modal.first_login_failed.text,Ei voi yhdistää Skydomiin tällä hetkellä. Yritä yhdistää uudelleen myöhemmin.
+modal.first_login_failed.title,Yhteyden muodostaminen epäonnistui.
+modal.gpu_error.button,Lisätietoja
+modal.gpu_error.text,"Tuntuu, että sinun täytyy ottaa käyttöön GPU-Kiihdytys selaimessasi, jotta voit pelata peliä."
+modal.gpu_error.title,Hmm..
+modal.maintenance.button,OK
+modal.maintenance.text,Huoltoa tehdään<br> <b>#time</b><br> 3 tunnin ajan. <br>Pilvitallennusta ja edistymisen synkronointia ei toiminnassa.
+modal.maintenance.title,Huolto.
+modal.no_hardware_accel_ff.button,OK
+modal.no_hardware_accel_ff.text,"Selaimessasi on suorituskykyongelma, peli saattaa toimia hyvin hitaasti!
+
+Korjataksesi ongelman, lue <a target=""_blank""  href=""https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features"">https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features</a>"
+modal.no_hardware_accel_ff.title,Suoritusongelmat
+modal.no_hardware_accel.button,OK
+modal.no_hardware_accel_vk.button,OK
+modal.no_hardware_accel.text,"Selaimessasi on suorituskykyongelma, peli saattaa toimia hyvin hitaasti!
+
+Korjataksesi ongelman, lue <a target=""_blank""  href=""https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm"">https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm</a>"
+modal.no_hardware_accel_vk.text,"Selaimessasi ilmenee suorituskykyongelmia, peli saattaa toimia hyvin hitaasti!
+
+Korjaamiseksi lue <a target=""_blank""  href=""https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery"">https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery</a>
+"
+modal.no_hardware_accel.title,Suoritusongelmat
+modal.no_hardware_accel_vk.title,Suoritusongelmat
+modal.nolocalstorage.button,OK
+modal.nolocalstorage.text,"Näyttää siltä, että selaimesi ei salli meidän tallentaa peliäsi. Tämä voi johtua siitä, että olet käyttänyt selaimessasi Incognito-tilaa.
+<p>
+Kirjaudu sisään välttääksesi edistyksesi menettämisen!"
+modal.nolocalstorage.title,Incognito-tila
+modal.oom.button,Lisätietoja
+modal.oom.text,"Näyttää siltä, että muistia ei ole tarpeeksi."
+modal.oom.title,Hmm..
+modal.out_of_sync.button,Päivitä
+modal.out_of_sync.text,"Näyttää siltä, että olet avannut Skydomin useissa selaimissa. <br>Päivitä selain jatkaaksesi pelaamista tässä ikkunassa."
+modal.out_of_sync.title,Useita ikkunoita Skydomin kanssa?
+modal.vk_inapp_not_allowed.button,Siirtyä
+modal.vk_inapp_not_allowed.text,"Ostokset ovat saatavilla vain osoitteessa <a href=""https://m.vk.com/app7409298"" target=""_blank"">m.vk.com</a>"
+modal.vk_inapp_not_allowed.title,
+modal.wasm.button,Lisätietoja
+modal.wasm.text,"Ei näytä siltä, että selaimesi tukee WebAssemblya."
+modal.wasm.title,Hmm..
+modal.webgl.button,Lisätietoja
+modal.webgl.text,"Ei näytä siltä, että selaimesi tukee WebGL:ää."
+modal.webgl.title,Hmm..
+modal.yandexsdk.text,"Yandex SDK ei latautunut oikein.
+
+Yritetäänkö uudelleen?"
+modal.yandexsdk.title,Hupsis
+modal.yandexsdk.button,OK
+name_already_changed.button,OK
+name_already_changed.message,Nimesi on jo muutettu. Voit vaihtaa nimesi VAIN KERRAN.
+networks.hint,"Kannustamme sinua yhdistämään sosiaalisiin verkostoihin!
+ - Älä menetä edistystäsi tallentamalla sitä pilveen
+ - Pelaa ystävien kanssa ja saa lahjoja
+ - Emme julkaise ilman lupaasi"
+nickname.default,Pelaaja
+nickname.default_friend,Kani
+nickname.trainer,Valmentaja #nickname
+nickname.tutorial_001,Valmentaja Anna
+nickname.tutorial_002,Valmentaja Jonny
+nickname.tutorial_003,Valmentaja Polly
+nickname.you,Sinä
+notification.daily_lead_1,👑 #Name otti johtoaseman päivittäisessä haasteessa! Haluatko palauttaa ensimmäisen sijan?
+notification.daily_lead_2,👑 #Name otti johtoaseman päivittäisessä haasteessa!
+notification.daily_lead_3,👑 Tänään päivittäisessä haasteessa on kuuma! #Name otti ensimmäisen sijasi.
+notification.daily_lead_4,👑 #Name otti ohjat. Haluatko palauttaa johtajuuden haasteessa?
+notification.daily_lead_5,"👑 Näyttää siltä, että #Name on juuri ohittanut sinut Päivittäisessä Haasteessa."
+notification.daily_lead.meta,"@{""variants"":5}"
+notification.reminder_1,😏 Uudet vastustajat odottavat lupaavinta pelaajaa! 😎
+notification.reminder_10,Kuka voittaa tämän päivän haasteen? 👸🤴
+notification.reminder_11,🙄 Oltiin melkein unohtaneet kuinka kaikki oli hajotettu #PlayerName:n toimesta!
+notification.reminder_12,"💆 Vai mitä, ei parempaa päivää Skydomin pelaamiseen, eikö? 💪"
+notification.reminder_13,"🙈😬 Täällä on pari kaveria, jotka haaveilevat voittamisesta sinut. Uskotko, että heillä on mahdollisuus?"
+notification.reminder_14,🐰 Jänis sai sinulle lahjan! 🎁
+notification.reminder_15,"😎 #PlayerName, aika voittaa taas! 🕹"
+notification.reminder_16,🤗 Aika ottaa tauko ja lähteä voittojen tielle 👾👀
+notification.reminder_17,🌟🌟🌟 Tasot eivät suorita itseään! Pelataanko? 🥇😉
+notification.reminder_18,"#PlayerName, joku haluaa voittaa sinut. Luuletko, että he onnistuvat? 😬😬😬"
+notification.reminder_19,"Hei, onko aika rentoutua ja voittaa pari kertaa? 🤔"
+notification.reminder_2,Ei kaikki ole vielä hävinnyt #PlayerName:lle! Anna heille mahdollisuus?
+notification.reminder_20,🦄 Oletko tavannut meidän Sateenkaari-uniikin?
+notification.reminder_3,🐷 Sika-taikaa odottaa! 🐽
+notification.reminder_4,🙈 Ei ole näkynyt parasta Match3-pelaajaa pitkään aikaan! Onko hän edelleen porukassa? 👀
+notification.reminder_5,Oletko jo voittanut tänään? 🏆
+notification.reminder_6,❤️❤️❤️❤️❤️ Kaikki elämät ladattu! Aika voittaa!
+notification.reminder_7,🖐🎟 5 Tokenia odottaa käytettäväksi!
+notification.reminder_8,🐰😍 Kani sai sinulle lahjan! 🎁
+notification.reminder_9,👑💎 Päivittäinen haaste on alkanut! Kuka saa kruunun ja kasan timantteja?
+ny.button_claim,Avaa Lahja
+ny.button_next_in,Lahja saapuu: #time
+ok_login_failed.message,Ei voitu yhdistää Odnoklassnikiin. Yritä uudelleen?
+ok.share_tick,Jaa
+out_of_moves.continue_buy_moves,Pelaa #price
+out_of_moves.continue_watch,Katso
+out_of_moves.give_up,Lopeta
+out_of_moves.press_to_view,"Napauta tästä 
+katsoaksesi laudan."
+out_of_moves.title.almost_there,Niin lähellä...
+out_of_moves.title.regular,Liikkeet loppuivat.
+outofgems.button,Kauppa
+outofgems.message,Olet loppunut Gemmeistä. Käy kaupassa saadaksesi lisää!
+outofgems.title,Ei tarpeeksi jalokiviä.
+page.loading.hint_1,Ladataan...
+page.loading.hint_2,Tehosteiden renderöinti 💎💎💎
+page.loading.hint_3,"Ei hätää, ei ole jumissa! 😜"
+page.loading.hint_4,🚀 Peli ladataan pian! 🚀
+page.loading.hint_5,Ensimmäinen lataus kestää hieman pidempään👌
+page.loading.hint_6,🔥 Melkein siellä...👾
+page.loading.hint_7,Vielä vähän jäljellä 😊
+placeholder.hint_daily,Suorita 10 tasoa avataksesi!
+placeholder.timestring,12h 34min 56s
+placeholder.title_daily,"Päivittäinen haaste
+Lukittu"
+popup_name.accept_name,Jatka
+popup_name.not_now,Ei nyt
+prelevel_text.002,"Kerää enemmän <font color=""\#ff5503"">keltaisia Palasia</font> kuin vastustajasi!"
+prelevel_text.004,"Kerää enemmän <font color=""\#ff8800"">Porkkanoita</font> kuin vastustajasi!"
+prelevel_text.006,"Tyhjennä enemmän <font color=""\#4499ff"">Jäätä</font> kuin vastustajasi!"
+promo_reforged.button,Vaatimus
+promo_reforged.text,"Huraa! Olemme julkaisseet uuden pelimoodin - Skydom Reforged! Juhlistaaksemme julkaisua, jaamme ilmaisen Mega Booster -paketin! Varaa se nyt?"
+promo_reforged.title,Skydom uudelleenmuotoiltu!
+rate_us.description,Mitä mieltä olet Skydomista?
+rate_us.feedback.cancel,Ei nyt
+rate_us.feedback.description,"Syötä sähköpostisi, jos haluat saada vastauksen."
+rate_us.feedback.email_hint,Sähköposti
+rate_us.feedback.message_hint,Miten voisimme parantaa peliä sinulle?
+rate_us.feedback.submit,Lähetä
+rate_us.star_1,Inhosi sitä.
+rate_us.star_2,En pitänyt siitä.
+rate_us.star_3,Se on ok.
+rate_us.star_4,Tykkäsin siitä.
+rate_us.star_5,Rakastin sitä!
+rate_us.submit,Lähetä
+rate_us.write_review.cancel,Ei nyt
+rate_us.write_review.google_play,Jaa ajatuksesi pelistä tai arvostele se Google Play:ssa!
+rate_us.write_review.submit,Mielelläni!
+rate_us.write_review.yandex,Jaa ajatuksesi pelistä tai arvostele se Yandex Gamesissa!
+rematch_pvp.asks_for_rematch_draw,#name haluaa toisen yrityksen
+rematch_pvp.asks_for_rematch_player_lose,#name tarjoaa uuden pelin!
+rematch_pvp.asks_for_rematch_player_won,#name haluaa uuden kierroksen!
+reward.coins,Kolikot
+reward.gems,Kivet
+reward.lives,Elämät
+reward.prelevel.add_bomb,Pommi-tehostin
+reward.prelevel.add_line,Rivin Boosteri
+reward.prelevel.add_omni,Salama Boosteri
+reward.prelevel.add_tint,Maalaus-tehostin
+reward.prelevel.double_fly,Kirsikkalento x2 Boosteri
+reward.tickets,Tokenit
+reward.undo,Peruuta
+search.cannot_connect,Ei verkkoyhteyttä.
+search.failed,Hups! Jotain meni pieleen...
+search.loading,Ladataan...
+search.playing_with_trainer,Pelaa valmentajan kanssa
+search.readying,Vastustaja löytynyt!
+search.readying_rematch,Valmiina!
+search.rejected,Vastustaja paennut
+search.searching,Etsitään vastustajaa...
+search.vs,VS
+search.waiting_opp,Odotetaan vastustajaa...
+settings.change_avatar,Vaihda profiilikuva
+settings.change_avatar.connect_fb,Yhdistä
+settings.change_avatar.continue,Jatka
+settings.change_avatar.title,Valitse uusi profiilikuva
+settings.change_avatar.warning,"Voit vaihtaa profiilikuvaasi vain kerran.
+Yhdistä Facebookiin käyttääksesi Facebookin profiilikuvaa."
+settings.change_avatar.warning_no_fb,Huomio: Voit vaihtaa profiilikuvasi vain kerran!
+settings.change_name,Vaihda nimi
+settings.change_name.accept_name,Jatka
+settings.change_name.do_not_match,Nimet eivät täsmää. Yritä uudelleen.
+settings.change_name.edit,Anna uusi nimi:
+settings.change_name.reenter,Anna uusi nimesi uudelleen:
+settings.change_name.same_name,Uusi nimi vastaa olemassa olevaa.
+settings.change_name.too_long,Tämä nimi on liian pitkä - 15 merkin raja
+settings.change_name.too_short,Tämä nimi on liian lyhyt =)
+settings.change_name.warning,Huomio: Voit vaihtaa nimesi vain kerran!
+settings.confirm_avatar.cancel,Peruuta
+settings.confirm_avatar.change,Muuta
+settings.confirm_avatar.title,"Oletko varma, että haluat vaihtaa
+profiilikuvasi?
+Uusi profiilikuvasi:"
+settings.confirm_avatar.warning,Voit vaihtaa profiilikuvaasi vain kerran.
+settings.confirm_name.cancel,Peruuta
+settings.confirm_name.change,Vahvista
+settings.confirm_name.title,"Oletko varma, että haluat vaihtaa nimesi? Uusi nimesi on:"
+settings.confirm_name.warning,Huomio: Voit vaihtaa nimesi vain kerran!
+settings.connect_fb,Yhdistä Facebook
+settings.connect_ok,Yhdistä Odnoklassniki
+settings.connect_vk,Yhdistä VK
+settings.connect_y8,Yhdistä Y8
+settings.connect_yandex,Yhdistä Yandex
+settings.connected_fb,Facebook
+settings.connected_ok,Odnoklassniki
+settings.connected_vk,VK
+settings.connected_y8,Y8
+settings.connected_yandex,Yandex
+settings.coupon,Alennuskoodi
+settings.coupon_title,Alennuskoodi
+settings.coupon.enter,Käytä
+settings.coupon.enter_hint,Syötä alennuskoodisi tähän
+settings.coupon.invalid_code,"<font color=""\#e90047"">Tämä koodi ei kelpaa. Ole hyvä ja yritä toista koodia."
+settings.coupon.missing_code,Syötä #e promokoodisi
+settings.coupon.ok,Koodi lunastettu onnistuneesti!
+settings.credits,Krediitit
+settings.eula,Palveluehdot
+settings.fb_hint,"Yhdistä Facebookiin, jotta voit pelata ystävien kanssa ja synkronoida edistymisesi."
+settings.general,YLEISTÄ
+settings.generate_key,Luo koodi
+settings.invite_friends,Kutsu ystävät
+settings.language,Kieli
+settings.language_header,VALITSE KIELI
+settings.move_hints,Vihjeet
+settings.music,Musiikki
+settings.networks,Yhteydet
+settings.networks_hint,Yhdistä sosiaaliset verkostot pelataksesi ystävien kanssa ja synkronoidaksesi edistymisesi.
+settings.notifications,Ilmoitukset
+settings.notifications.daily,Päivittäinen haaste
+settings.notifications.disable_all,Poista kaikki
+settings.notifications.disable_night,Poista käytöstä klo 23-08
+settings.notifications.gifts,Lahjat
+settings.notifications.others,Muut muistutukset
+settings.open_support,Pelaajan tuki
+settings.open_vk_group,Peliryhmä
+settings.player_id,Kopioi pelaajan ID
+settings.policy,Tietosuojakäytäntö
+settings.rate_us,Arvostele meitä
+settings.report_problem,Ilmoita ongelma
+settings.sound,Ääni
+settings.support,TUKI
+settings.telegram_channel,Seuraa meidän Telegram-kanavaa
+settings.telegram_channel_hint,Kaikki uusimmat uutiset Skydomista!
+settings.telegram_support,Fani-chat Telegramissa
+settings.title,Asetukset
+settings.update,Päivitys
+settings.y8_hint,Yhdistä Y8:een synkronoidaksesi edistyksesi verkossa!
+settings.yandex_hint,Yhdistä Yandexiin synkronoidaksesi edistyksesi verkossa!
+shop.gems_restored.accept,Loistavaa!
+shop.gems_restored.title,Jalokivien osto valmis
+shop.not_available,Ei saatavilla
+shop.remove_ads_remain_time,Mainokset poistettu #time
+shop.remove_ads_text,"Poista mainokset tasojen välillä
+minkä tahansa ostoksen kanssa"
+shop.remove_ads_timed,"Poista mainokset tasojen välillä
+ostamalla jotain kuukaudeksi."
+social_notification.button,Yhdistä
+social_notification.message,Yhdistä sosiaaliseen verkkoon synkronoidaksesi edistyksesi verkossa!
+social_notification.no_post_hint,Emme koskaan julkaise ilman lupaasi.
+social_notification.title,Tallenna edistyksesi
+social_share.button,Jaa
+social_share.chooser_hint,Jaa kautta
+social_share.message,Hei! Tsekkaa tämä ainutlaatuinen PvP Match-3 peli! Lataa se osoitteesta https://PecPoc.com
+social_share.subject,"Hei, katso uutta hauskaa peliä - Skydom!"
+social_share.title,"Jaa peli muiden kanssa!
+On hauskempaa pelata ystävien kanssa!"
+tempkey_login.button,Jatka
+tempkey_login.empty_key,Et syöttänyt mitään koodia.
+tempkey_login.input.default_hint,Syötä koodi
+tempkey_login.invalid_key,Väärä koodi
+tempkey_login.message_top,"Jatka pelaamista täällä - saat koodin, jossa olit aiemmin, Asetuksista ""Luo koodi"" -osasta."
+tempkey_login.no_connection,Ei voitu yhdistää.
+tempkey.fail.button,OK
+tempkey.fail.message,Tarkista nettiyhteytesi tai yritä myöhemmin!
+tempkey.fail.title,Ei voitu luoda koodia
+tempkey.ok.copied,Kopioitu!
+tempkey.ok.copy,Kopioi
+tempkey.ok.hint,Koodi vanhenee 4 tunnin kuluttua.
+tempkey.ok.message,#tempkey
+tempkey.ok.title,Koodisi:
+tickets_shop.boost_text,x2 täyttö nopeus
+tickets_shop.buy_all,Osta #amount
+tickets_shop.hint,Tarvitset Tokenit pelaamiseen Päivittäisessä Haasteessa.
+tickets_shop.hint_out_of,"<font color=""\#e90047"">Ei enää Onnenmerkkejä</font>"
+tickets_shop.recharge,Uusi tokeni saapuu: #time
+tickets_shop.title,Tokenit
+tickets_shop.watch_ad_button,Katso
+tickets_shop.watch_ad_text,Saat 1 ilmaiseksi
+time.days_hours,"#days<font size=""-15""> </font><font size=""-10"">d</font> #hours<font size=""-15""> </font><font size=""-10"">h</font>"
+time.hours,"#hours<font size=""-15""> </font><font size=""-10"">h</font>"
+time.hours_minutes,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #minutes<font size=""-15""> </font><font size=""-10"">min</font>"
+time.hours_minutes_seconds,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #minutes<font size=""-15""> </font><font size=""-10"">min</font> #seconds<font size=""-15""> </font><font size=""-10"">sec</font>"
+time.hours_seconds,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #seconds<font size=""-15""> </font><font size=""-10"">sec</font>"
+time.less_than_minute,"1<font size=""-15""> </font><font size=""-10"">min</font>"
+time.minutes,"#minutes<font size=""-15""> </font><font size=""-10"">min</font>"
+time.minutes_seconds,"#minutes<font size=""-15""> </font><font size=""-10"">min</font> #seconds<font size=""-15""> </font><font size=""-10"">sec</font>"
+time.seconds,"#seconds<font size=""-15""> </font><font size=""-10"">sec</font>"
+tutorial_home.play,Pelaa
+tutorial.001.dialog_tutorial,"Yhdistä <font color=""\#5885b8"">3 samanväristä palikkaa riviin</font> poistaaksesi ne."
+tutorial.001.hint,"Tavoite
+Kerää 12 vihreää palikkaa!"
+tutorial.001.turn_1,"Vaihda vierekkäisiä palikoita, jotta saat 3 samanväristä palikkaa yhteen!"
+tutorial.002.hint,Kerää enemmän keltaisia paloja kuin vastustajasi!
+tutorial.skip,Ohita
+undo_shop.buy_undos,Saat #count
+undo_shop.hint,Peruuta palauttaa viimeisen siirron.
+undo_shop.recharge,Seuraava kumoa: #time
+undo_shop.title,Kumoa
+undo_shop.watch_ad_button,Katso
+undo_shop.watch_ad_text,Saat 1 ilmaiseksi
+undo_shop.you_have,Sinulla on #amount kumoa-mahdollisuutta.
+update.button,Päivitys
+update.new_version,Päivitä viimeisimpään versioon!
+update.new_version_value,"<font color=""\#5885b8"">#version"
+update.old_version,Käytät vanhempaa versiota
+update.old_version_value,"<font color=""\#a5a7aa"">#version"
+update.text,"Käytät vanhaa versiota.
+Päivitä viimeisimpään versioon!"
+update.title,Uusi versio saatavilla!
+update.web.button,Päivitä
+update.web.message,Ole hyvä ja päivitä sivu.
+update.web.title,Uusi versio saatavilla!
+vk_login_failed.message,Ei voitu yhdistää VK:hen. Yritä uudelleen?
+vk_promo.title,Lahja VK:ltä!
+vk.share_tick,Jaa
+watch_for_gems.button,Katso
+watch_for_gems.text,+#amount
+web.webg_context_lost,"WebGL-konteksti menetetty, palautetaan..."
+welcome_bonus.speech_1,"Hei, #PlayerName!
+Minulla on sinulle lahjoja.
+Valitse yksi!"
+welcome_bonus.speech_2,"Ajatukset materialisoituvat... Ohmmm!
+Mietin lahjoja ja katso mitä tapahtui =)"
+welcome_bonus.speech_3,"Löysin kaksi laatikkoa, kun et ollut siellä! Avaa yksi!"
+welcome_bonus.speech_4,"Hei taas, #PlayerName!
+Katso mitä taivaalta putosi!"
+welcome_bonus.speech_5,"Laulujoutsenet lensivät ohi...
+Kävi ilmi, että ne eivät tuo vain lapsia!"
+welcome_bonus.speech_6,"Hei taas, #PlayerName!
+Valitse laatikko!"
+welcome_bonus.speech_7,"Kaipasit minua niin paljon, #PlayerName, joten valmistin sinulle pienen lahjan!"
+welcome_bonus.speech_8,"Outoa tapahtuu. Istutaan, rentoudutaan ja kaksi rahtia tulee tyhjästä!"
+welcome_pack.open,Avaa
+welcome_pack.play,Pelaa
+welcome_pack.speech_1,"Pitkäaikainen ei näe, #PlayerName! Minulla on sinulle lahja!"
+welcome_pack.speech_2,"Voi, #PlayerName, kaipasin sinua! Avataan lahja ja pelaamme!"
+welcome_pack.speech_3,"#PlayerName, hyvä nähdä sinut uudelleen! Kiire ja avaa rinta."
+welcome_pack.speech_gift,"#PlayerName, meillä on erityinen lahja sinulle =) Avaa se nopeasti!"
+welcome_pack.speech_reforged,"#PlayerName, meillä on erityinen lahja sinulle =) Avaa se nopeasti!"
+y8_login_failed.message,Ei voitu yhdistää Y8:een. Yritä uudelleen?
+yandex_login_failed.message,Não foi possível conectar ao Yandex. Tente novamente?
+yandex_notification.button,Conectar
+yandex_notification.message,Ligue para o Yandex para sincronizar o seu progresso online!
+yandex_notification.title,Salvar seu progresso
+gamemode.capital.leaf,LEHTIÄ
+yandex_login_has_attachment.message,Tähän peliprofiiliin on liitetty toinen Yandex-tili.
+fb_login_has_attachment.message,Tähän peliprofiiliin on liitetty toinen Facebook-tili.
+ok_login_has_attachment.message,Tähän peliprofiiliin on liitetty toinen OK-tili.
+vk_login_has_attachment.message,Tähän peliprofiiliin on liitetty toinen VK-tili.
+y8_login_has_attachment.message,Tähän peliprofiiliin on liitetty toinen Y8-tili.
+android_app.text.beta,"Hei ystävät! Ilouutisenamme ilmoitamme, että olemme lanseeraamassa pelimme betatestauksen Androidille. Kaikki ovat tervetulleita!"
+bookmark.play,Kotona
+bookmark.quest,Tehtävät
+chest_opening.bronze,Pronssi
+chest_opening.continue,Helppo
+chest_opening.division,III Divisioona
+chest_opening.golden,Kulta
+chest_opening.silver,Hopea
+chest_opening.togoldenleague,"Voitko saavuttaa
+Kultaisen Liigan?"
+chest_opening.welcome,Tervetuloa Match Arenan liigoihin!
+chest_opening.yourebronze,"Saavutit
+Pronssisarja III:n"
+chest.open,Avaa
+chest.opens_now,Loistavaa! Rautakaukko on sinun avata!
+chest.wins_left_1,Vielä yksi voitto!
+chest.wins_left_2,Vain 2 voittoa ja se on sinun!
+chest.wins_left_3,Hyvin tehty! 3 voittoa lisää!
+chest.wins_left_4,4 voittoa avataksesi laatikon!
+chest.wins_to_open,#num voittoa avataksesi
+forge_help.block_1,Voita dueleja saadaksesi kolikoita!
+forge_help.block_2,Käytä kolikoita aloittaaksesi Forgesit ja saadaksesi kulta-palkkoja!
+forge_help.block_3,Kerää kultarautoja noustaksesi sarjoissa ylöspäin!
+forge_help.block_4,Uudet liigat - uudet tasot!
+forge_help.continue,Got se.
+forge_help.title,Liigat ja Takojat
+forge.add,Lisää
+forge.boost,Vahvista
+forge.boost_free,"Käynnistetään tämä Forge!
+Ensimmäinen kerta on ilmainen!"
+forge.boost_free_ok,Vahvista
+forge.buy_1,Kuparikova
+forge.buy_2,Hopeamiekka
+forge.buy_3,Kultainen Forge
+forge.buy_4,Rubiinin Forge
+forge.buy_now,Lisää
+forge.cheat_boost,Väärentääkö? Väärentää!
+forge.name_1,Kuparikova
+forge.name_2,Hopeamiekka
+forge.name_3,Kultainen Forge
+forge.name_4,Rubiinin Forge
+forge.not_enough_coins,Ei tarpeeksi kolikoita aloittamiseen.
+forge.ok,OK
+forge.open,Avaa
+forge.open_now,Avaa nyt
+forge.other_in_progress,Toinen Forge on vielä kesken!
+forge.popup_boost,Boost -30 min
+forge.popup_boost_speedup,Boost -15 min
+forge.progress,#bars sisään: #time
+forge.speedup_no,Ei
+forge.speedup_offer,"<font color=""\#5885b8"">Kiihdytä</font> takojan nopeutta <font color=""\#5885b8"">2x?</font>"
+forge.speedup_ok,OK
+forge.speedup_success,Forge on boostattu!
+forge.speedup_yes,Kyllä
+forge.start,Aloita
+forge.time_1,3 tuntia
+forge.time_2,6 tuntia
+forge.time_3,12 tuntia
+forge.time_4,24 tuntia
+forge.tutorial.collect_coins,Ansaitse 1000 kolikkoa aloittaaksesi Forge!
+forge.tutorial.open_now,"Mahtavaa! Sulatus on valmis!
+Voidaan avata Tuli-Aitta!"
+forge.tutorial.smelt_more,Jatka kulta-aaltopahvin valmistamista päästäksesi seuraavaan divisioonaan!
+forge.tutorial.start_forge,"Hyvin tehty, ansaitsit 1000 kolikkoa!
+Nyt voimme aloittaa Forge!"
+forge.tutorial.wait_ready,"Voita lisää kolikoita, kun oma Forge työskentelee!"
+forge.watch_ad,Katso
+gamemode.chocolate,Lava
+gamemode.diamonds,Timantit
+gamemode.energycube,Geeli
+gamemode.fishes,Porkkanat
+gamemode.food,Pähkinät
+gamemode.fossils,Octopukset
+gamemode.grass,Ruoho
+gamemode.honeybee,Karhut
+gamemode.ice,Jää
+gamemode.jam,Energia
+gamemode.road,Sika
+gamemode.stone,Kivet
+gamemode.tasks,Tilaukset
+gamemode.tiles,Ruoho
+home.bars_need_more,Tarvitset #more
+home.bars_progress,#current / #total
+home.bet,Panosta #count kolikkoa
+home.coins,#count
+home.gems,#count
+home.hint_quest_book,Uusia tehtäviä saatavilla!
+home.hint_quest_book.claim,Jee! Joku saa palkinnon!
+home.hint_quest_book.new,Vau! Uusi tehtävä!
+home.league_indev,Seuraava sarja tulossa pian!
+home.rematch.asks_for_rematch_draw,#name haluaa toisen yrityksen
+home.rematch.asks_for_rematch_player_lose,#name tarjoaa uusintaottelun
+home.rematch.asks_for_rematch_player_won,#name haluaa uusintaottelun!
+home.xp,#count
+ingame_booster_shop.buy,Saat #count
+ingame_booster_shop.hint.cross,Käytä taikasauvaa poistaaksesi yhden rivin ja yhden sarakkeen palikoita!
+ingame_booster_shop.hint.hammer,Päästä eroon laatoista hakkaamalla ne vasaralla!
+ingame_booster_shop.hint.hand,Käytä hanskaa vaihtaaksesi vierekkäisiä paloja!
+ingame_booster_shop.title.cross,Taikasauva
+ingame_booster_shop.title.hammer,Vasara
+ingame_booster_shop.title.hand,Käsine
+league.Bronze,Pronssisarja
+league.div_1,Divisioona I
+league.div_2,Divisioona II
+league.div_3,Divisioona III
+league.div_4,Divisioona IV
+league.div_5,Divisioona V
+league.E001,Pronssi III
+league.E002,Pronssi II
+league.E003,Pronssi I
+league.E004,Hopea IV
+league.E005,Hopea III
+league.E006,Hopea II
+league.E007,Hopea I
+league.E008,Kultainen V
+league.E009,Kultainen IV
+league.E010,Kultainen III
+league.E011,Kultainen II
+league.E012,Kultainen I
+league.E013,Platinavoima V
+league.E014,Platinamittari IV
+league.E015,Platinaa III
+league.E016,Platinaa II
+league.E017,Platinalevy I
+league.E018,Mestari 1
+league.Gold,Kultainen Liiga
+league.Master,Mestaruusliiga
+league.MasterN,Mestari #div
+league.GrandMaster,Grandmasteri
+league.GrandMasterN,Grandmaster #div
+league.Platinum,Platinaleague
+league.Silver,Hopea-liiga
+levelup.continue,Hauskaa!
+levelup.reward,Palkinto
+levelup.title_division,"Onneksi olkoon!
+Uusi divisioona!"
+levelup.title_league,"Onneksi olkoon!!
+Uusi sarja!"
+ma2transfer.install,Asenna
+ma2transfer.message,"Match Arena siirtyi uuteen sovellukseen!
+
+Tärkeää! Käytä alla olevaa koodia siirtääksesi edistyksesi."
+nickname.tutorial_004,Sensei Michael
+nickname.tutorial_005,Professori Frank
+nickname.tutorial_006,Kuningatar Matcha
+nickname.tutorial_007,Opettaja Leo
+nickname.tutorial_008,Valmentaja Carl
+nickname.tutorial_009,Tutori Beardy
+nickname.tutorial_010,Guru Vicky
+placeholder.hint_friends,"Haasta ystäväsi
+ja näytä mitä osaat!"
+placeholder.hint_quests,"Saavuta Pronssisarja I
+löytääksesi!"
+placeholder.hint_settings,Valmis pian :)
+placeholder.title_friends,"Pelaa ystävien kanssa
+tulossa pian"
+placeholder.title_quests,"Mahtavat tehtävät
+Lukittu"
+placeholder.title_settings,Asetukset rakenteilla
+quest_help.block_1,Suorita tehtäviä saadaksesi palkintoja!
+quest_help.block_2,"Suorita kaikki tehtävät, jotta saat avattua laatikon."
+quest_help.block_3,"Suorita kaikki tehtävät ennen seuraavaa divisioonaa, muuten menetät laatikon!"
+quest_help.continue,Got se.
+quest_help.title,Tehtäväkirja
+quest.aquarium,Kerää #amount kalaa
+quest.bar,#progress / #amount
+quest.bar_completed,Tehtävä suoritettu!
+quest.bar_last_try,Edellinen yritys: #progress #amountista
+quest.bar_special_not_tried,#progress / #amount
+quest.best_so_far,Paras tulos: #progress
+quest.butterfly,Kerää #amount perhosia
+quest.buy_now,Hanki nyt #amount
+quest.cat,Kerää #amount Kottia
+quest.chip_destroy,Kerää #amount eri palikoita
+quest.chip_destroy_bird,Kerää #amount lintua
+quest.chip_destroy_blue,Kerää #amount sinistä palasta
+quest.chip_destroy_diamond,Kerää #amount Timantteja
+quest.chip_destroy_fish,Kerää #amount Porkkanaa
+quest.chip_destroy_fish_blue,Kerää #amount sinistä porkkanaa
+quest.chip_destroy_fish_green,Kerää #amount vihreää porkkanaa
+quest.chip_destroy_fish_orange,Kerää #amount oranssia porkkanaa
+quest.chip_destroy_fish_purple,Kerää #amount violettia porkkanaa
+quest.chip_destroy_fish_red,Kerää #amount punaista porkkanaa
+quest.chip_destroy_fish_yellow,Kerää #amount keltaista porkkanaa
+quest.chip_destroy_food,Poista #amount Pähkinää
+quest.chip_destroy_frog,Kerää #amount Sammakkoa
+quest.chip_destroy_green,Kerää #amount vihreää palasta
+quest.chip_destroy_orange,Kerää #amount oranssia palasta
+quest.chip_destroy_purple,Kerää #amount purppuran väristä palasta
+quest.chip_destroy_red,Kerää #amount punaista palasta
+quest.chip_destroy_snail,Kerää #amount etanaa
+quest.chip_destroy_super,Kerää #amount super-palasia
+quest.chip_destroy_wafer,Kerää #amount Kulta-oreja
+quest.chip_destroy_with_bomb,Kerää #amount palasta käyttämällä pommeja!
+quest.chip_destroy_with_line,Kerää #amount palikkaa Line-bonuksella!
+quest.chip_destroy_with_mine,Kerää #amount palasta Firefly-bonuksella!
+quest.chip_destroy_with_omni,Kerää #amount palasta salamanbonuksella!
+quest.chip_destroy_yellow,Kerää #amount keltaista palasta
+quest.chip_destroy_waterfish,Kerää #amount vesikaloja
+quest.chip_recolor,Väritä #amount palasta Maalibonuksen avulla.
+quest.claim,Väitä Palkinto
+quest.complete_chest,Kaikki tehtävät suoritettu.
+quest.cover_destroy_bee,Kerää #amount Karhuja
+quest.cover_destroy_bound,Avaa #amount palasta
+quest.cover_destroy_chocolate,Poista #amount palikkaa lavalla
+quest.cover_destroy_fizzblue,Kerää #amount fizziä
+quest.cover_destroy_fizzpurple,Kerää #amount fizziä
+quest.cover_destroy_frozen,Poista #amount palasta jäätä
+quest.cover_destroy_honey,Tyhjennä #amount laattaa Hunajalla
+quest.cover_destroy_hotlava,Poista #amount kappaletta Kuumaa Lavaa
+quest.cover_destroy_receiver_energycube,Kerää #amount hyytelökristallia
+quest.cover_destroy_receiver_jam,Kerää #amount energia-kristallia
+quest.cover_destroy_statue,Kerää #amount koiraa
+quest.cover_destroy_stone,Poista #amount Kivi-palasia
+quest.cover_destroy_leaf,[GPT4] Tyhjennä #amount lehdet
+quest.division_done_card,Uusia tehtäviä seuraavassa osastossa!
+quest.duck,Kerää #amount ankkaa
+quest.energy_flow,Vedä energiaa #amount laattaan
+quest.energycube_flow,Täytä #amount laattaa mehulla
+quest.fossil,Kerää #amount Octopusta
+quest.gum,Kerää #amount purukumin palasia
+quest.new_quest,Uusi tehtävä!
+quest.new_quest_in,Seuraava tehtävä:
+quest.on_arena_splash_score,Saavuta #amount pistettä Arenassa Boom!
+quest.on_arena_splash_use_bonus,Säästä #amount bonusta Arenan Boomille!
+quest.plate_destroy,Poista #amount erottelua
+quest.play,Pelaa
+quest.pvp_score,Pisteytä #amount duelissa
+quest.reward,Palkinto:
+quest.snakes,Kerää #amount Käärmeitä
+quest.tile_destroy_gold,Kerää #amount laattaa ruohoa!
+quest.tile_destroy_grass,Kerää #amount laattaa ruohoa!
+quest.title,Tehtäväkirja
+quest.use_bonus,Käytä #amount bonuksia
+quest.use_bonus_bomb,Käytä #amount bonusta Pommi
+quest.use_bonus_line,Käytä #amount bonuksia Rivi
+quest.use_bonus_mine,Käytä #amount bonuksia Firefly
+quest.use_bonus_omni,Käytä bonusta Salamaa #amount kertaa
+quest.use_bonus_tint,Käytä #amount bonuksia Maalaa
+quest.use_combo_bomb_bomb,Tee combo-bonus Pommi+Pommi #amount kertaa
+quest.use_combo_bomb_omni,Tee combo-bonus Salama+Pommi #amount kertaa
+quest.use_combo_bomb_tint,Tee combo-bonus Maalaa+Pommi #amount kertaa
+quest.use_combo_line_bomb,Tee combo-bonus Pommi+Viiva #amount kertaa
+quest.use_combo_line_line,Tee combo-bonus rivi+rivi #amount kertaa
+quest.use_combo_line_omni,Tee combo-bonus Salama+Viiva #amount kertaa
+quest.use_combo_line_tint,Tee combo-bonus Maalaa+Viiva #amount kertaa
+quest.use_combo_mine_bomb,Tee combo-bonus Bomb+Firefly #amount kertaa
+quest.use_combo_mine_line,Tee combo-bonus Firefly+Line #amount kertaa
+quest.use_combo_mine_mine,Tee combo-bonus Firefly+Firefly #amount kertaa
+quest.use_combo_mine_omni,Tee combo-bonus Salama+Kimalainen #amount kertaa
+quest.use_combo_mine_tint,Tee combo-bonus Paint+Firefly #amount kertaa
+quest.use_combo_omni_omni,Tee combo-bonus Salama+Salama #amount kertaa
+quest.use_combo_omni_tint,Tee combo-bonus Maalaa+Salama #amount kertaa
+quest.use_combo_tint_tint,Tee combo-bonus Maali+Maali #amount kertaa
+quest.walk,Kävele Sika #amount askelta
+quest.watch_for_new,- #time
+quest.win,Voita #amount kaksintaistelua
+quest.win_coins,Voita #amount kolikkoa dueleissa!
+quest.win_hard_level,Suorita vaikea taso
+quest.win_rematch,Voita #amount uudelleenottoa
+quest.win_streak,Voita #amount taistelua peräkkäin
+quest.chip_destroy_clam,Kerää #amount helmiä
+quest.chip_destroy_egg,Kerää #amount munaa
+quest.gardenflower,Kerää #amount kukkaa
+quest.sausages,Kerää #amount makkaraa
+rematch.asks_for_rematch_draw,"#name haluaa uuden yrityksen
+Vedä #bet"
+rematch.asks_for_rematch_player_lose,"#name tarjoaa uuden kierroksen
+Panos #bet"
+rematch.asks_for_rematch_player_won,"#name haluaa uusintaottelun!
+Vedä #bet"
+rematch.rematch_bet,Panosta #bet
+report.body,
+report.subject,Ongelma MatchArenassa
+reward.bars,Kulta-palkit
+reward.coins_amt,+#amount
+reward.gems_amt,+#amount
+reward.levels,Uudet tasot
+reward.levels_amt,+#amount
+reward.levelup,"Onneksi olkoon!
+Uusi taso!"
+reward.new_levels,"Uusia
+tasoja!"
+reward.talisman,Talismanit
+reward.xp_amt,+#amount
+search.prize_fund,Palkintorahat
+settings.friends_and_partners,Ystävät ja kumppanit
+settings.language.help_us_translate,"Haluatko auttaa meitä kääntämään Match Arenan kielellesi? Laita meille viestiä osoitteeseen <font color=""\#0000EE"">support@matcharenagame.com."
+settings.notifications.duels,Haasteita dueleihin
+shop.indev,Tulossa pian!
+splash.hint_chocolate,Poista niin paljon lavaa kuin pystyt!
+splash.hint_diamonds,Kerää mahdollisimman paljon timantteja!
+splash.hint_energycube,Täytä niin monta ruutua kuin voit mehulla!
+splash.hint_fishes,Kerää niin paljon porkkanoita kuin voit!
+splash.hint_food,Poista niin monta pähkinää kuin voit!
+splash.hint_fossils,Pelasta mahdollisimman monta mustekalaa!
+splash.hint_honeybee,Kerää niin paljon Karhuja kuin voit!
+splash.hint_ice,Poista niin paljon jäätä kuin voit!
+splash.hint_jam,Täytä niin monta laattaa Energialla kuin voit!
+splash.hint_road,Kävele Possua mahdollisimman pitkälle
+splash.hint_stone,Poista niin monta Kiveä kuin voit!
+splash.hint_tasks,Tee niin monta Tilauskohtaa kuin voit!
+splash.hint_tiles,Kerää mahdollisimman paljon ruohoa!
+splash.mode_chocolate,Tavoite - Lava
+splash.mode_diamonds,Tavoite - Timantit
+splash.mode_fishes,Tavoite - Porkkanat
+splash.mode_food,Tavoite - Pähkinät
+splash.mode_jam,Tavoite - Energia
+splash.mode_road,Tavoite - Sika
+splash.mode_tasks,Tavoite - Tilaukset
+splash.mode_tiles,Tavoite - Ruoho
+talismans_shop.ask_button,Facebook
+talismans_shop.ask_text,Kysy ystäviltä
+talismans_shop.boost_text,x2 täyttö nopeus
+talismans_shop.buy_all,Saat #amount
+talismans_shop.hint,Tuplatut kolikot voitettu
+talismans_shop.recharge,Seuraava talismani: #aika
+talismans_shop.title,Talismanit
+talismans_shop.watch_ad_button,Katso
+talismans_shop.watch_ad_text,Saat 1 ilmaiseksi
+tickets_shop.ask_button,Facebook
+tickets_shop.ask_text,Kysy ystäviltä
+tutorial.001.collect_more_fishes,"Kerää niin monta <font color=""\#5885b8"">Porkkanaa</font> kuin voit!"
+tutorial.001.continue_to_collect_fishes,Kerää porkkanoita!
+tutorial.001.first_swap_red_down,"Siirrä punainen palikka alas
+vastaamaan<font color=""\#5885b8""> kolmea peräkkäin</font>"
+tutorial.001.remind_collect_three_in_a_row,"Kerää <font color=""\#5885b8"">kolme samanväristä</font> palikkaa <font color=""\#5885b8"">peräkkäin</font>!"
+tutorial.001.second_swap_green_left,"Siirrä vihreä palikka vasemmalle
+yhdistääksesi <font color=""\#5885b8"">kolme peräkkäin</font>"
+tutorial.001.third_swap_fish,"<font color=""\#5885b8"">Porkkanat</font> voi myös yhdistää kolme peräkkäin."
+tutorial.001.you_are_doing_well,Teet hyvin!
+tutorial.002.get_bonus_line,"...saadaksesi <font color=""\#5885b8"">bonuksen - Riville!</font>"
+tutorial.002.try_four_in_a_row,"Yritä saada <font color=""\#5885b8"">neljä peräkkäin!</font>"
+tutorial.002.use_line_bonus,"Yhdistä <font color=""\#5885b8"">kolme peräkkäin bonuksen kanssa</font> ja näe Line-voiman!"
+tutorial.003.hint,Kerää enemmän porkkanoita kuin vastustajasi!
+tutorial.003.try_l_or_t,"Yhdistele palikoita <font color=""\#5885b8"">T- tai L-muodossa!</font>"
+tutorial.003.use_bomb_bonus,"...saada <font color=""\#5885b8"">bonus - Pommi!</font>
+Räjäytetään se!"
+tutorial.004.clear_gold_tiles,"Tee yhdistelmiä <font color=""\#5885b8"">Ruohon</font> päällä
+kerätäksesi sen!"
+tutorial.004.combine_omni_with_blue,"Vaihda <font color=""\#5885b8"">Salama-palikka</font> sinisen palikan kanssa poistaaksesi kaikki siniset palikat laudalta!"
+tutorial.004.try_five_in_a_row,"Yritä saada <font color=""\#5885b8"">viisi peräkkäin!</font>"
+tutorial.005.two_bonus_can_combine,"Kaksi bonusta voi yhdistää <font color=""\#5885b8"">saadaksesi vielä isomman bonuksen!</font>"
+tutorial.007.collect_food,"Tee lähekkäisiä pareja <font color=""\#5885b8"">Pähkinöiden</font> vieressä!"
+tutorial.007.move_character,"Kerää kärpäsiä
+<font color=""\#5885b8"">liikuta Pikkua eteenpäin!</font>"
+tutorial.008.make_mine_bonus,"Voitko yhdistää <font color=""\#5885b8"">neljä palikkaa neliöksi</font> 
+ja saada bonuksen - Firefly!"
+tutorial.008.use_mine_bonus,"Kolme peräkkäin <font color=""\#5885b8"">Firefly</font>-kuvioilla
+käyttääksesi sitä!"
+tutorial.009.make_tint_bonus,"Tee <font color=""\#5885b8"">iso T-kirjain</font> ja
+saat bonuksen - Maalaa!"
+tutorial.009.use_tint_bonus,"<font color=""\#5885b8"">Maalaa</font> voi vaihtaa minkä tahansa palan kanssa!"
+level_popup.adventure.title,Taso
+lives_shop.ma_hint,Tarvitset elämiä jatkaaksesi seikkailun pelaamista.

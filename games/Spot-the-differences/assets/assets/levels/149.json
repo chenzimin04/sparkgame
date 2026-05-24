@@ -1,0 +1,32 @@
+{
+   "resolution":"standard",
+   "image1":"house_in_cube_a.jpg",
+   "image2":"house_in_cube_b.jpg",
+   "differences":[
+      {
+         "x":353.5,
+         "y":352.0,
+         "size":78.60
+      },
+      {
+         "x":492.5,
+         "y":416.0,
+         "size":103.1
+      },
+      {
+         "x":468.5,
+         "y":218.0,
+         "size":100.0
+      },
+      {
+         "x":632.5,
+         "y":466.0,
+         "size":191.3
+      },
+      {
+         "x":901.0,
+         "y":570.0,
+         "size":190.0
+      }
+   ]
+}

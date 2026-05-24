@@ -1,0 +1,215 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 667,
+				"x": 375,
+				"var": "pngBg",
+				"top": 0,
+				"skin": "images/grid/maskGray.png",
+				"sizeGrid": "2,2,2,2",
+				"right": 0,
+				"left": 0,
+				"bottom": 0,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 65
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 387,
+				"x": 0,
+				"width": 750,
+				"var": "centerBox",
+				"mouseThrough": true,
+				"height": 560
+			},
+			"compId": 3,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 16,
+						"x": 102,
+						"width": 432,
+						"skin": "images/main/exchange_bg.png",
+						"sizeGrid": "77,0,30,0",
+						"scaleY": 1.26,
+						"scaleX": 1.26,
+						"height": 308
+					},
+					"compId": 95,
+					"child": [
+						{
+							"type": "Box",
+							"props": {
+								"y": 26,
+								"x": 406,
+								"width": 56,
+								"var": "btnClose",
+								"height": 56,
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 112,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 0,
+										"x": 0,
+										"width": 56,
+										"skin": "images/main/icon_sb_cc.png",
+										"rotation": 0,
+										"height": 56
+									},
+									"compId": 111
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 42,
+						"x": 301,
+						"skin": "images/main/button_word_zs.png",
+						"label": "label"
+					},
+					"compId": 107
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 33,
+						"x": 335,
+						"skin": "images/main/button_word_dh.png",
+						"label": "label"
+					},
+					"compId": 105
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 43,
+						"x": 425,
+						"skin": "images/main/button_word_zs.png",
+						"label": "label"
+					},
+					"compId": 106
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 161,
+						"x": 162,
+						"text": "兑换码：",
+						"fontSize": 30,
+						"bold": true
+					},
+					"compId": 104
+				},
+				{
+					"type": "TextInput",
+					"props": {
+						"y": 148,
+						"x": 286,
+						"width": 273,
+						"var": "inputIn",
+						"text": "vip001",
+						"skin": "images/main/icon_dhk.png",
+						"sizeGrid": "24,23,23,20",
+						"height": 52,
+						"fontSize": 28,
+						"color": "#EEEEEE",
+						"bold": true
+					},
+					"compId": 103
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 289,
+						"x": 375,
+						"width": 204,
+						"var": "btnExchange",
+						"skin": "images/main/button_blue.png",
+						"sizeGrid": "38,48,46,53",
+						"rotation": 0,
+						"height": 92,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 98,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 16,
+								"x": 55,
+								"skin": "images/main/button_word_qd.png",
+								"label": "label"
+							},
+							"compId": 99
+						}
+					]
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 356,
+						"x": 145,
+						"width": 460,
+						"text": "通过15关后，点击即可领取福利",
+						"strokeColor": "#868484",
+						"stroke": 1,
+						"fontSize": 22,
+						"color": "#ffffff",
+						"bold": true,
+						"align": "center"
+					},
+					"compId": 109
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 417,
+						"x": 134,
+						"width": 300,
+						"visible": false,
+						"var": "labQQ",
+						"text": "qq群:22222222",
+						"strokeColor": "#585454",
+						"stroke": 1,
+						"fontSize": 22,
+						"color": "#ffffff",
+						"bold": true,
+						"align": "left"
+					},
+					"compId": 114
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/grid/maskGray.png",
+		"images/main/exchange_bg.png",
+		"images/main/icon_sb_cc.png",
+		"images/main/button_word_zs.png",
+		"images/main/button_word_dh.png",
+		"images/main/icon_dhk.png",
+		"images/main/button_blue.png",
+		"images/main/button_word_qd.png"
+	],
+	"loadList3D": []
+}

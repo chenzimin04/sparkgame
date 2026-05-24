@@ -1,0 +1,174 @@
+
+skel_boss3_body.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images1/bbbb
+  rotate: false
+  xy: 301, 53
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+images1/body_chest
+  rotate: false
+  xy: 129, 67
+  size: 124, 148
+  orig: 124, 148
+  offset: 0, 0
+  index: -1
+images1/body_hip_front
+  rotate: false
+  xy: 174, 2
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+images1/body_left_bighip
+  rotate: false
+  xy: 255, 97
+  size: 88, 118
+  orig: 88, 118
+  offset: 0, 0
+  index: -1
+images1/body_right_bighip
+  rotate: false
+  xy: 435, 97
+  size: 88, 118
+  orig: 88, 118
+  offset: 0, 0
+  index: -1
+images1/body_waist
+  rotate: false
+  xy: 767, 141
+  size: 84, 74
+  orig: 84, 74
+  offset: 0, 0
+  index: -1
+images1/head
+  rotate: false
+  xy: 615, 118
+  size: 74, 97
+  orig: 74, 97
+  offset: 0, 0
+  index: -1
+images1/yan
+  rotate: true
+  xy: 2, 2
+  size: 63, 170
+  orig: 63, 170
+  offset: 0, 0
+  index: -1
+images2/yan
+  rotate: true
+  xy: 2, 2
+  size: 63, 170
+  orig: 63, 170
+  offset: 0, 0
+  index: -1
+images3/yan
+  rotate: true
+  xy: 2, 2
+  size: 63, 170
+  orig: 63, 170
+  offset: 0, 0
+  index: -1
+images2/bbbb
+  rotate: true
+  xy: 255, 52
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+images3/bbbb
+  rotate: true
+  xy: 255, 52
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+images2/body_chest
+  rotate: false
+  xy: 2, 67
+  size: 125, 148
+  orig: 125, 148
+  offset: 0, 0
+  index: -1
+images3/body_chest
+  rotate: false
+  xy: 2, 67
+  size: 125, 148
+  orig: 125, 148
+  offset: 0, 0
+  index: -1
+images2/body_hip_front
+  rotate: false
+  xy: 938, 162
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+images3/body_hip_front
+  rotate: false
+  xy: 938, 162
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+images2/body_left_bighip
+  rotate: false
+  xy: 345, 97
+  size: 88, 118
+  orig: 88, 118
+  offset: 0, 0
+  index: -1
+images3/body_left_bighip
+  rotate: false
+  xy: 345, 97
+  size: 88, 118
+  orig: 88, 118
+  offset: 0, 0
+  index: -1
+images2/body_right_bighip
+  rotate: false
+  xy: 525, 97
+  size: 88, 118
+  orig: 88, 118
+  offset: 0, 0
+  index: -1
+images3/body_right_bighip
+  rotate: false
+  xy: 525, 97
+  size: 88, 118
+  orig: 88, 118
+  offset: 0, 0
+  index: -1
+images2/body_waist
+  rotate: false
+  xy: 853, 141
+  size: 83, 74
+  orig: 83, 74
+  offset: 0, 0
+  index: -1
+images3/body_waist
+  rotate: false
+  xy: 853, 141
+  size: 83, 74
+  orig: 83, 74
+  offset: 0, 0
+  index: -1
+images2/head
+  rotate: false
+  xy: 691, 118
+  size: 74, 97
+  orig: 74, 97
+  offset: 0, 0
+  index: -1
+images3/head
+  rotate: false
+  xy: 691, 118
+  size: 74, 97
+  orig: 74, 97
+  offset: 0, 0
+  index: -1

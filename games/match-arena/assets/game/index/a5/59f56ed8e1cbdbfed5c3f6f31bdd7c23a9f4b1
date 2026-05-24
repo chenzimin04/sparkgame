@@ -1,0 +1,1027 @@
+ID,ar-SA
+ad_failed.button,موافق
+ad_failed.message,لا يوجد فيديو متوفر في تلك اللحظة، يُرجى إعادة المحاولة في وقت لاحق.
+ad_failed.title,عذرًا...
+ad_magic.button,شاهد
+ad_magic.message,شاهد مقطعًا صغيرًا للحصول على مكافأة.
+ad_magic.title,سحر الخنزير الصغير
+android_app.button,تثبيت
+android_app.text.release,أصدقائي الأعزاء! يسعدنا إبلاغك أن لعبتنا متاحة الآن على نظام التشغيل Android. انطلق وقم بتنزيل التطبيق!
+android_app.title,الآن على نظام التشغيل Android!
+android_update.restart.no,لاحقًا
+android_update.restart.text,هل تريد التثبيت الآن؟
+android_update.restart.title,التحديث الآن!
+android_update.restart.yes,نعم
+avatar_already_changed.button,موافق
+avatar_already_changed.message,لقد تم تغيير صورة ملف التعريف الخاصة بك بالفعل. يمكنك تغيير فقط صورة ملف التعريف الخاصة بك مرة واحدة.
+bookmark.daily,التحدي
+bookmark.friends,الأصدقاء
+bookmark.settings,الإعدادات
+booster_hint.cross,%booster_shop.hint.ingame.cross%
+booster_hint.hammer,%booster_shop.hint.ingame.hammer%
+booster_hint.hand,%booster_shop.hint.ingame.hand%
+booster_shop.buy,احصل على #count لـ
+booster_shop.hint.ingame.cross,استخدم العصا السحرية لإزالة صف واحد وعمود واحد من القطع
+booster_shop.hint.ingame.hammer,قم بإزالة قطع القرميد من خلال تدميرها بالمطرقة!
+booster_shop.hint.ingame.hand,استخدم القفاز لتبديل أي قطع متجاورة
+booster_shop.hint.prelevel.add_bomb,ابدأ أي مستوى بقنبلة موجودة بالفعل على اللوحة!
+booster_shop.hint.prelevel.add_line,ابدأ أي مستوى بخط موجود بالفعل على اللوحة!
+booster_shop.hint.prelevel.add_omni,ابدأ أي مستوى ببرق موجود بالفعل على اللوحة!
+booster_shop.hint.prelevel.add_tint,ابدأ أي مستوى بطلاء موجود بالفعل على اللوحة!
+booster_shop.hint.prelevel.double_fly,قم بمضاعفة جميع الخنافس المضيئة التي تم إنشاؤها في هذا المستوى!
+booster_shop.title.ingame.cross,عصا سحرية
+booster_shop.title.ingame.hammer,مطرقة
+booster_shop.title.ingame.hand,قفاز
+booster_shop.title.prelevel.add_bomb,معزز القنبلة
+booster_shop.title.prelevel.add_line,معزز الخط
+booster_shop.title.prelevel.add_omni,معزز البرق
+booster_shop.title.prelevel.add_tint,معزز الطلاء
+booster_shop.title.prelevel.double_fly,معزز يضاعف الحشرات المضيئة
+chest_open.collection_complete,تم تجميعها!
+chest_open.ok,موافق
+chest_opening.button,عظيم!
+chest_opening.reward,مكافأة
+conflict_popup.continue,متابعة
+conflict_popup.hint_syncing,جارِ المزامنة...
+conflict_popup.skip,مواصلة البقاء بدون إنترنت
+credits.art,التصميم الفني
+credits.artists,"المزيد من الحب لأصدقاء الفنانين الخاصين بالرسم لدينا
+لشخصيات الصورة الرمزية الجميلة لدينا!"
+credits.gamedesign,تصميم اللعبة
+credits.mentions,"شكر خاص
+لأصدقائنا"
+credits.programming,البرمجة
+credits.title,فريقنا!
+daily_help.button,موافق
+daily_help.chest,جائزة كبرى
+daily_help.reward,مكافآت لمرة واحدة
+daily_help.text,"يظهر لاعبون عاديون مهارتهم ويتنافسون على مستوى واحد.
+
+سيحصل اللاعب الذي حصل على أكثر نقاط على جائزة اليوم – تاج وصندوق من الأحجار الكريمة!"
+daily_help.title,التحدي اليومي
+daily_reward.button,عظيم!
+daily_reward.reward,مكافأة
+daily_reward.title.place_1,"أنت الفائز
+في التحدي اليومي!"
+daily_reward.title.place_generic,"انتهى التحدي اليومي
+لقد حصلت على المركز \##place!"
+daily.drag_to_update,اسحب للتحديث
+daily.epic_sunday_ribbon,تحدٍ لطيف
+daily.finishes_in,ينتهى التحدى خلال #time
+daily.finishes_now,انتهى التحدي!
+daily.high_score,نقاط عالية جديدة!
+daily.medal_chest_text,جمع {amount|#amount ميدالية|#amount ميداليات}!
+daily.next_time,التحدي اليومي التالي خلال #time
+daily.next_time_now,لقد بدأ التحدي اليومي الجديد!
+daily.no_yesterday_yet,لم تشارك في التحدي اليومي السابق
+daily.play,العب
+daily.retry_submit,إعادة المحاولة
+daily.rewards_tab,مكافآت التحدي اليومي
+daily.rewards.bubble,"جمع النجوم والميداليات
+لفتح الصندوق المليء بالمجوهرات!"
+daily.score_not_accepted,لا يتم احتساب هذه النتيجة في لوحة الصدارة لأنك انتهيت من اللعب بعد نهاية فترة التحدي اليومي.
+daily.star_chest_claim,فتح
+daily.star_chest_collected_text,تعال غدًا للحصول على أحجار كريمة أخرى
+daily.star_chest_text,أكمل ذلك بجمع ثلاث نجوم وخوض 7 تحديات يومية على التوالي!
+daily.submit_error,يتعذر إرسال النتائج
+daily.today,التحدي اليومي
+daily.today_mark,اليوم
+daily.update_error,لا يوجد اتصال بالإنترنت
+daily.wait_text,
+daily.watch_replay.button,شاهد
+daily.watch_replay.text,إعادة تشغيل اللعبة
+daily.welcome_reward_first,%daily_help.text%
+daily.welcome_text,"مرحى! لقد بدأ التحدي اليومي
+الجديد!"
+daily.yesterday,بطولة الأمس
+daily.yesterday_updating,جارٍ إحضار النتائج...
+demo.finished.text,"تهانينا، لقد انتهيت من تجربة إصدار النسخة التجريبية! العب الإصدار الكامل مجانًا على <p class=""ma-link"">PecPoc.com<p class=""demo-hint"">لن تفقد ما أحرزته"
+demo.nag.text,"مكافآت إضافية مجانية متاحة فقط في الإصدار الكامل. متابعة اللعب باستخدام الإصدار الكامل مجانًا على <p class=""ma-link""> PecPoc.com <p class=""demo-hint""> لن تفقد ما أحرزته"
+event_ny.next_in_hint,احصل على الحاضر التالي في: #time
+event_ny.title,هدايا السنة الجديدة
+fake_ad.reward_in,ستحصل على المكافأة خلال...
+fake_ad.tutorial,"لا يوجد فيديو متوفر في تلك اللحظة...
+لا تقلق، لنلعب على سحر الخنزير الصغير بدلًا من ذلك!"
+fake_ad.your_ad_here,إعلانك هنا
+fb_login_failed.message,يتعذر الاتصال بـ Facebook. هل تريد المحاولة مرة أخرى؟
+fb_notification.button,الاتصال
+fb_notification.message,الاتصال بـ Facebook لمزامنة تقدمك المحرز على الإنترنت!
+fb_notification.no_post_hint,لن ننشر إطلاقًا تقدمك المحرز بدون إذنك.
+fb_notification.title,حفظ تقدمك المحرز
+feedback.failed.button,متابعة
+feedback.failed.message,"يتعذر إرسال الملاحظات.
+تحقق من اتصال الإنترنت لديك."
+feedback.failed.title,عذرًا...
+feedback.ok.button,موافق
+feedback.ok.message,"لقد تلقينا ملاحظاتك.
+شكرًا لك على مساعدتك لنا في تحسين اللعبة."
+feedback.ok.title,تم إرسال الملاحظات!
+friends_tab.failed_social.button,تحقق
+friends_tab.failed_social.text,تحتاج إلى التحقق من الاتصال لتحديث قائمة الأصدقاء
+friends_tab.has_fb.button,دعوة الأصدقاء
+friends_tab.has_fb.text,كلما زاد عدد أصدقائك، كلما زاد عدد الهدايا التي ستحصل عليها!
+friends_tab.no_fb.button,الاتصال
+friends_tab.no_fb.hint,لن ننشر إطلاقًا تقدمك المحرز بدون إذنك.
+friends_tab.no_fb.text,الاتصال بـ Facebook والحصول على هدايا من أصدقائك واتباع تقدمهم المحرز.
+friends_tab.no_permission.button,نعم
+friends_tab.no_permission.text,هل تريد السماح لأصدقائك بالوصول إلى قائمة الأصدقاء لتلقي المزيد من الهدايا؟
+friends_tab.no_social.text,الاتصال بشبكات التواصل الاجتماعي والحصول على هدايا من أصدقائك واتباع تقدمهم المحرز.
+friends_tab.no_y8.button,الاتصال
+friends_tab.no_y8.text,قم بتوصيل Y8 واستقبل الهدايا من الأصدقاء واتبع تقدمهم.
+friends_tab.ok_invite_button,دعوة الأصدقاء
+friends_tab.ok_invite_gift_text,كلما زاد عدد أصدقائك، كلما زاد عدد الهدايا التي ستحصل عليها!
+friends_tab.ok_invite_text,كلما زاد عدد أصدقائك، كلما زاد عدد الهدايا التي ستحصل عليها!
+friends_tab.title,الأصدقاء
+friends_tab.vk_friends_permission_button,نعم
+friends_tab.vk_friends_permission_text,هل تريد السماح بالوصول إلى قائمة أصدقائك للحصول على المزيد من الهدايا؟
+friends_tab.vk_invite_button,دعوة الأصدقاء
+friends_tab.vk_invite_text,كلما زاد عدد أصدقائك، كلما زاد عدد الهدايا التي ستحصل عليها!
+friends.gift.claim,فتح
+game_results.click_to_continue,انقر للاستمرار
+game_results.tap_to_continue,انقر للاستمرار
+game.click_to_continue,انقر للاستمرار
+game.info.ahead,أنت متقدم بـ {num|#fmtnum حركة|#fmtnum حركة}
+game.info.behind,أنت متأخر بـ {num|#fmtnum حركة|#fmtnum حركة}
+game.info.goals,هدف
+game.info.moves,حركة
+game.info.pause,إيقاف مؤقت
+game.info.undo,تراجع
+game.pause.continue,"<font color=""\#408fda"">استئناف اللعب"
+game.pause.leave_forfeit,"<font color=""\#ff0000"">إنهاء اللعبة"
+game.pause.leave_safe,إنهاء اللعبة
+game.pause.title,إيقاف مؤقت
+game.shoutout.their_game_result,النقاط: #score
+game.shoutout.well_done,أحسنت!
+game.shoutout.your_game_result,نقاطك: #score
+game.tap_to_continue,انقر للاستمرار
+game.tutorial.continue,متابعة
+gamemode.capital.aquarium,أسماك
+gamemode.capital.bird,طيور
+gamemode.capital.bubble,فقاقيع
+gamemode.capital.cats,قطط صغيرة
+gamemode.capital.chocolate,حمم بركانية
+gamemode.capital.diamonds,أَلماس
+gamemode.capital.ducks,صغار البط
+gamemode.capital.energy_cube_reciever,بلورات
+gamemode.capital.energycube,هلام
+gamemode.capital.fishes,جزر
+gamemode.capital.flower,زهور
+gamemode.capital.food,جوز
+gamemode.capital.fossils,أخطبوطات
+gamemode.capital.frog,ضفادع
+gamemode.capital.grass,عشب
+gamemode.capital.gum,انطلق
+gamemode.capital.honeybee,دببة
+gamemode.capital.hotlava,حمم بركانية
+gamemode.capital.ice,ثلج
+gamemode.capital.jam,طاقة
+gamemode.capital.jam_reciever,بلورات
+gamemode.capital.pearl,اللؤلؤ
+gamemode.capital.road,خنزير صغير
+gamemode.capital.sausage,النقانق
+gamemode.capital.statue,كلاب
+gamemode.capital.stone,أحجار
+gamemode.capital.tasks,أوامر
+gamemode.capital.tiles,عشب
+gamemode.capital.waterfish,الأسماك
+gamemode.capital.blooplet,البلوبليتس
+gameresult.adventure.completed_continue,استمر
+gameresult.adventure.leave,اترك
+gameresult.adventure.play_next,استمر
+gameresult.adventure.retry,حاول مرة أخرى
+gameresult.boosters,تحديد المعززات
+gameresult.complete.line1,المستوى
+gameresult.complete.line2,مكتمل!
+gameresult.continue,متابعة
+gameresult.daily.continue,متابعة
+gameresult.daily.leave,خروج
+gameresult.daily.retry,العب
+gameresult.dash,-
+gameresult.forfeit,إنك استسلمت!
+gameresult.map.continue,متابعة
+gameresult.map.retry,إعادة المحاولة
+gameresult.pvp.continue,متابعة
+gameresult.pvp.play_another,مستويات مختلفة
+gameresult.pvp.play_next,مستوى مختلف
+gameresult.pvp.rematch_lose,إعادة المباراة
+gameresult.pvp.rematch_win_draw,اللعب مرة أخرى
+gameresult.rematch,إعادة المباراة
+gameresult.rematch_bet,راكب #bet
+gameresult.required_ticket,مطلوب
+gameresult.retry,لعب مرة أخرى
+gameresult.rewards,مكافأة
+gameresult.title.completed,اكتمل المستوى!
+gameresult.title.draw,"<font color=""\#5885B8"">تعادل"
+gameresult.title.lose,"<font color=""\#ff5666"">لقد خسرت"
+gameresult.title.win,"<font color=""\#20ea6d"">لقد فزت!"
+gameresult.vs,اللعب ضد
+gameresults.inter_ad_in_large,#count اللعب حتى
+gameresults.inter_ad_in_small,#count اللعب حتى
+gems_shop.title,متجر الأحجار الكريمة
+global.click_to_continue,انقر للمتابعة
+global.default_player_name,لاعب
+global.tap_to_continue,اضغط للمتابعة
+home.hint_daiy,تجربة التحدي اليومي
+home.hint_play_pvp,يمكنك الاستمرار في لعب المبارزات حتي إذا استنفذت جميع محاولاتك!
+home.play,العب
+html.loading,جارِ التحميل
+iap_failed.button,موافق
+iap_failed.message,عملية الشراء غير ناجحة
+iap_need_facebook.message,الاتصال بـ Facebook للحصول على أحجار كريمة.
+iap_pending.button,موافق
+iap_pending.message,تم إجراء عملية الشراء الخاصة بك
+intro_screen.another_device,برمز
+intro_screen.login_back,عودة
+intro_screen.login_button,تسجيل الدخول
+intro_screen.login_fb,Facebook
+intro_screen.login_ok,شركة Odnoklassniki
+intro_screen.login_singular,تسجيل الدخول
+intro_screen.login_vk,Vkontakte
+intro_screen.login_with,تسجيل الدخول بـ
+intro_screen.login_y8,Y8
+intro_screen.login_yandex,Yandex
+intro_screen.new_player,لاعب جديد
+introprofile.accept_avatar,تحديد
+introprofile.accept_name,متابعة
+introprofile.editavatar,اختيار صورة ملف التعريف
+introprofile.editname,إدخال اسمك
+invite_request.message,لنلعب أفضل لعبة لمطابقة 3 قطع معًا!
+invite_request.title,حدد أصدقائك لتلعبوا معًا لعبة Skydom
+level_popup.goals,هدف
+level_popup.play,العب
+level_popup.prelevel_boosters,تحديد المعززات
+level_popup.title,مستوى #level
+level_popup.title_hard,صعب
+level_popup.title_ultra_hard,فائق الصعوبة
+level_popup.title_very_hard,صعب جدًا
+link.support,https://Skydom.freshdesk.com/en/support/solutions
+link.support_beta,https://Skydombeta.freshdesk.com/en/support/solutions
+lives_shop.buy_all,شراء 5
+lives_shop.hint,"تحتاج إلى المزيد من المحاولات
+لتستمر في اللعب في المغامرة"
+lives_shop.recharge,المحاولة التالية: #time
+lives_shop.title,محاولات
+lives_shop.watch_ad_button,شاهد
+lives_shop.watch_ad_text,واحصل على 1 مجانية
+load_player.almost_done,على وشك الانتهاء...
+load_player.continue_offline,مواصلة البقاء بدون إنترنت
+load_player.loading_save,جارٍ تحميل اللاعب...
+load_player.loading_save_failed,يتعذر تحميل اللاعب.
+load_player.loading_save_failed_in,"يتعذر تحميل اللاعب.
+جارٍ إعادة المحاولة خلال #time..."
+load_player.logging_in,جارٍ تسجيل الدخول...
+load_player.logging_in_failed,يتعذر تسجيل الدخول.
+load_player.logging_in_failed_in,"يتعذر تسجيل الدخول.
+جارٍ إعادة المحاولة خلال...."
+load_player.new_player,أنا لاعب جديد
+load_player.retry_now,إعادة المحاولة الآن
+login_failed.button,إعادة المحاولة
+login_failed.title,فشل الاتصال
+magic.click_to_continue,انقر للمتابعة
+magic.reward,مكافأة
+magic.tap_to_continue,اضغط للمتابعة
+map.gates_coming_soon,"مستويات جديدة
+قريبًا!"
+match3.level_complete.line1,جميع الأهداف
+match3.level_complete.line2,تم تحقيقها!
+match3.score_pve,#score/#required
+match3.shoutout.1_move,آخر حركة!
+match3.shoutout.2_moves,2 حركات
+match3.shoutout.5_moves,5 حركات
+match3.shoutout.no_moves,ليس هناك حاجة إلى المزيد من الحركات
+match3.shoutout.no_reshuffle,"يتعذر إعادة التوزيع
+لا يمكن القيام بالمزيد من الحركات"
+merge.button.mine,اختيار
+merge.button.their,اختيار
+merge.description.account_merge,"يبدو وأنك لعبت لعبة Skydom من قبل.
+اختر ملف التعريف المفضل!"
+merge.description.ingame_conflict,%merge.description.login_conflict%
+merge.description.login_conflict,"لقد لعبت من أجهزة عديدة.
+اختر الحفظ المفضل."
+merge.hint.mine,محلي
+merge.hint.their,من الخادم
+merge.title,مزامنة التقدم المحرز
+modal.adblock.button,موافق
+modal.adblock.text,لقد لاحظنا أنك تستخدم مانع الإعلانات.<br>يُرجى تعطيل مانع الإعلانات لتلك الصفحة لمشاهدة الفيديو.
+modal.adblock.title,مانع الإعلانات
+modal.error.button,تحديث
+modal.error.text,عذرًا، لقد حدث خطأ. يُرجى تحديث الصفحة.
+modal.error.title,عذرًا! حدث خطأ ما...
+modal.fb_login_proxy.button,متابعة
+modal.fb_login_proxy.text,جارٍ الاتصال بـ Facebook
+modal.fb_login_proxy.title,
+modal.fb_purchase_proxy.button,متابعة
+modal.fb_purchase_proxy.gems,الأحجار الكريمة
+modal.first_login_failed.button,إعادة المحاولة
+modal.first_login_failed.text,لا يمكن الاتصال بـ Skydom في الوقت الحالي. يُرجى إعادة المحاولة في وقت لاحق.
+modal.first_login_failed.title,فشل الاتصال
+modal.gpu_error.button,المزيد من المعلومات
+modal.gpu_error.text,"يبدو أنك تحتاج إلى تمكين تسريع وحدة معالجة الرسومات
+في متصفحك لتشغيل اللعبة."
+modal.gpu_error.title,ممم..
+modal.maintenance.button,موافق
+modal.maintenance.text,سيتم إجراء الصيانة خلال<br> <b>#time</b><br> ولمدة 3 ساعات.<br>لن تعمل حينها مزامنة الحفظ والتقدم في السحابة.
+modal.maintenance.title,الصيانة
+modal.no_hardware_accel_ff.button,موافق
+modal.no_hardware_accel_ff.text,"لقد بلغ متصفحك عن مشكلة في الأداء، يمكن أن تعمل اللعبة ببطء شديد!
+
+لإصلاح الخطأ، يُرجى قراءة <a target=""_blank""  href=""https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features"">https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features</a>"
+modal.no_hardware_accel_ff.title,مشكلات الأداء
+modal.no_hardware_accel.button,موافق
+modal.no_hardware_accel_vk.button,موافق
+modal.no_hardware_accel.text,"لقد بلغ متصفحك عن مشكلة في الأداء، يمكن أن تعمل اللعبة ببطء شديد!
+
+لإصلاح الخطأ، يُرجى قراءة <a target=""_blank""  href=""https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm"">https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm</a>"
+modal.no_hardware_accel_vk.text,"يقول المتصفح الخاص بك عن مشكلة في الأداء، قد يعمل اللعبة ببطء كبير!
+
+لإصلاح المشكلة، يرجى قراءة <a target=""_blank"" href=""https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery"">https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery</a>"
+modal.no_hardware_accel.title,مشكلات الأداء
+modal.no_hardware_accel_vk.title,مشكلات الأداء
+modal.nolocalstorage.button,موافق
+modal.nolocalstorage.text,"يبدو أن متصفحك لا يسمح لنا بحفظ اللعبة. يمكن أي يحدث هذا بسبب استخدام وضع المتصفح الخفي في متصفحك.
+<p>
+يُرجى تسجيل الدخول لتجنب فقدان تقدمك المحرز!"
+modal.nolocalstorage.title,وضع المتصفح الخفي
+modal.oom.button,المزيد من المعلومات
+modal.oom.text,يبدو أنه لا توجد ذاكرة كافية.
+modal.oom.title,ممم..
+modal.out_of_sync.button,تحديث
+modal.out_of_sync.text,يبدو أن لعبة Skydom مفتوحة في العديد من نوافذ المتصفح. <br>يُرجى التحديث لمواصلة اللعب على هذه النافذة.
+modal.out_of_sync.title,هل لعبة Skydom مفتوحة على العديد من نوافذ المتصفح؟
+modal.vk_inapp_not_allowed.button,تحول
+modal.vk_inapp_not_allowed.text,"المشتريات متاحة فقط على <a href=""https://m.vk.com/app7409298"" target=""_blank"">m.vk.com</a>"
+modal.vk_inapp_not_allowed.title,
+modal.wasm.button,المزيد من المعلومات
+modal.wasm.text,لا يبدو أن متصفحك يدعم WebAssembly
+modal.wasm.title,ممم..
+modal.webgl.button,المزيد من المعلومات
+modal.webgl.text,لا يبدو أن متصفحك يدعم WebGL
+modal.webgl.title,ممم..
+modal.yandexsdk.text,"لم يتم تحميل SDK Yandex بشكل صحيح.
+هل تريد المحاولة مرة أخرى؟"
+modal.yandexsdk.title,يا ليتني
+modal.yandexsdk.button,موافق
+name_already_changed.button,موافق
+name_already_changed.message,لقد تم تغيير اسمك بالفعل. يمكنك تغيير فقط اسمك مرة واحدة.
+networks.hint,"نشجعك على الاتصال بشبكات التواصل الاجتماعي!
+ – لا تفقد تقدمك المحرز من خلال تخزينه عبر السحابة
+ – العب مع أصدقائك واحصل على الهدايا
+ – لا ننشر تقدمك المحرز بدون إذنك"
+nickname.default,لاعب
+nickname.default_friend,أرنب
+nickname.trainer,المدرب #nickname
+nickname.tutorial_001,المدربة Anna
+nickname.tutorial_002,المدرب Jonny
+nickname.tutorial_003,المدرب Polly
+nickname.you,أنت
+notification.daily_lead_1,👑 تولى #Name القيادة في التحدي اليومي! هل تريد استعادة المركز الأول؟
+notification.daily_lead_2,👑 تولى #Name القيادة في التحدي اليومي!
+notification.daily_lead_3,👑 الجو حار في التحدي اليومي اليوم! #Name حصل على مركزك الأول. 
+notification.daily_lead_4,👑 #Name استولى عليه. هل تريد استعادة تولى القيادة في التحدي؟ 
+notification.daily_lead_5,👑 يبدو أن #Name تغلب عليك في التحدي اليومي.
+notification.daily_lead.meta,"@{""variants"":5}"
+notification.reminder_1,😏 الخصوم الجدد ينتظرون اللاعب الواعد! 😎
+notification.reminder_10,👸🤴 من سيكون الفائز في التحدي اليومي اليوم؟
+notification.reminder_11,🙄 لقد نسينا تقريبًا كيف انتصر #PlayerName انتصارًا ساحقًا!
+notification.reminder_12,💆 يوم لطيف للعب Skydom، أليس كذلك؟ 💪
+notification.reminder_13,🙈😬 يوجد بعض الأشخاص هنا يحلمون بهزيمتك. هل تعتقد أن ليهم الفرصة؟
+notification.reminder_14,🐰 لقد أحضر الأرنب هدية لك! 🎁
+notification.reminder_15,😎 #PlayerName، الآن فقد حان وقت الفوز! 🕹
+notification.reminder_16,👾👀 حان وقت أخذ استراحة وانطلق نحو فورة الفوز 🤗
+notification.reminder_17,🌟🌟🌟 المستويات لن تكمل نفسها! هيّا نلعب؟ 🥇😉
+notification.reminder_18,#PlayerName، شخص ما يريد أن يهزمك. هل تعتقد أنه سينجح؟ 😬😬😬
+notification.reminder_19,👋 هل حان وقت الراحة والفوز لعدة مرات؟ 🤔
+notification.reminder_2,لم ينهزم الجميع بعد أمام #PlayerName! هل تريد إعطائهم فرصة؟
+notification.reminder_20,🦄 هل تعرفت على وحيد القرن الملون بقوس قزح لدينا؟
+notification.reminder_3,🐷 سحر الخنزير الصغير في الانتظار! 🐽
+notification.reminder_4,🙈 ألم ترَ بعد أفضل لاعب في لعبة مطابقة الـ 3 قطع لبعض الوقت! هل يزال كذلك؟ 👀
+notification.reminder_5,🏆 هل فاز بالفعل اليوم؟
+notification.reminder_6,❤️❤️❤️❤️❤ تم شحن جميع المحاولات! حان وقت الفوز!
+notification.reminder_7,🖐🎟 توجد 5 عملات رمزية لإنفاقها!
+notification.reminder_8,🐰😍 لقد أحضر الأرنب هدية لك! 🎁
+notification.reminder_9,👑💎 لقد بدأ التحدي اليومي! من سيحصل على التاج ومجموعة من الأحجار الكريمة؟
+ny.button_claim,هدية مفتوحة
+ny.button_next_in,الهدية في: #time
+ok_login_failed.message,يتعذر الاتصال بـ Odnoklassniki. هل تريد المحاولة مرة أخرى؟
+ok.share_tick,مشاركة
+out_of_moves.continue_buy_moves,ألعب على #price
+out_of_moves.continue_watch,شاهد
+out_of_moves.give_up,استسلام
+out_of_moves.press_to_view,"انقر هنا
+لعرض اللوحة"
+out_of_moves.title.almost_there,قريب جدًا...
+out_of_moves.title.regular,لا مزيد من الحركات
+outofgems.button,المتجر
+outofgems.message,لقد نفدت منك الأحجار الكريمة. قم بزيارة المتجر للحصول على المزيد!
+outofgems.title,ليس لديك أحجار كريمة كافية
+page.loading.hint_1,جارِ التحميل...
+page.loading.hint_2,تأثير الطلاء 💎💎💎
+page.loading.hint_3,لا تقلق، لن تلتصق! 😜
+page.loading.hint_4,🚀 سيتم تحميل اللعبة قريبًا! 🚀
+page.loading.hint_5,تأخذ اللعبة وقت أكثر في التحميل عند أول مرة👌
+page.loading.hint_6,🔥 على وشك الانتهاء...👾
+page.loading.hint_7,يتبقى القليل فحسب 😊
+placeholder.hint_daily,أكمل 10 مستويات لإلغاء القفل!
+placeholder.timestring,12 ساعة 34 دقيقة 56 ثانية
+placeholder.title_daily,"التحدي اليومي
+مقفول"
+popup_name.accept_name,متابعة
+popup_name.not_now,ليس الآن
+prelevel_text.002,"اجمع المزيد من <font color=""\#ff5503"">القطع الصفراء</font> أكثر من خصمك!"
+prelevel_text.004,"اجمع المزيد من <font color=""\#ff8800"">الجزر</font> أكثر من خصمك!"
+prelevel_text.006,"امسح المزيد من <font color=""\#4499ff"">الثلج</font> أكثر من خصمك!"
+promo_reforged.button,مطالبة
+promo_reforged.text,الصيحة! لقد أطلقنا لعبة MOD جديدة - Skydom Reforged! للاحتفال بالإطلاق ، نمنح حزمة Mega Booster المجانية! وثقه الآن؟
+promo_reforged.title,Skydom Reforged!
+rate_us.description,هل تستمتع بلعب لعبة Skydom؟
+rate_us.feedback.cancel,ليس الآن
+rate_us.feedback.description,أدخل البريد الإلكتروني الخاص بك إذا أردت أن تتلقى ردًا.
+rate_us.feedback.email_hint,البريد الإلكتروني
+rate_us.feedback.message_hint,كيف يمكن تحسين اللعبة من أجلك؟
+rate_us.feedback.submit,إرسال
+rate_us.star_1,كرهتها
+rate_us.star_2,لم تعجبني
+rate_us.star_3,جيدة
+rate_us.star_4,أعجبتني
+rate_us.star_5,أحببتها
+rate_us.submit,إرسال
+rate_us.write_review.cancel,ليس الآن
+rate_us.write_review.google_play,شارك أفكارك عن اللعبة أو قم بتقييمها على متجر Google Play!
+rate_us.write_review.submit,بكل سرور!
+rate_us.write_review.yandex,شارك أفكارك عن اللعبة أو قم بتقييمها على متجر Yandex Games!
+rematch_pvp.asks_for_rematch_draw,#name يريد محاولة أخرى
+rematch_pvp.asks_for_rematch_player_lose,يعرض #name إعادة المباراة!
+rematch_pvp.asks_for_rematch_player_won,يريد #name إعادة المباراة!
+reward.coins,{amount|عملة|عملات}
+reward.gems,{amount|حجر كريم|أحجار كريمة}
+reward.lives,{amount|محاولة|محاولات}
+reward.prelevel.add_bomb,قنبلة الداعم
+reward.prelevel.add_line,خط الداعم
+reward.prelevel.add_omni,داعم البرق
+reward.prelevel.add_tint,داعم الطلاء
+reward.prelevel.double_fly,Firefly X2 Booster
+reward.tickets,{amount|عملة رمزية|عملات رمزية}
+reward.undo,{amount|التراجع|التراجعات}
+search.cannot_connect,لا يوجد اتصال بالإنترنت
+search.failed,عذرًا! حدث خطأ ما...
+search.loading,جارِ التحميل...
+search.playing_with_trainer,اللعب مع مدرب
+search.readying,تم العثور على الخصم!
+search.readying_rematch,استعد!
+search.rejected,لقد هرب الخصم
+search.searching,جارٍ البحث عن خصم...
+search.vs,اللعب ضد
+search.waiting_opp,جارٍ انتظار العثور على خصم...
+settings.change_avatar,تغيير صورة ملف التعريف
+settings.change_avatar.connect_fb,الاتصال
+settings.change_avatar.continue,متابعة
+settings.change_avatar.title,اختيار صورة ملف تعريف جديدة
+settings.change_avatar.warning,"ملاحظة: 
+– يمكنك تغيير فقط صورة ملف التعريف الخاصة بك مرة واحدة
+– الاتصال بـ Facebook لاستخدام صورة ملف التعريف الخاصة بـ Facebook"
+settings.change_avatar.warning_no_fb,ملاحظة: يمكنك تغيير فقط صورة ملف التعريف الخاصة بك مرة واحدة
+settings.change_name,تغيير الاسم
+settings.change_name.accept_name,متابعة
+settings.change_name.do_not_match,الاسم غير متطابق. يُرجى إعادة المحاولة.
+settings.change_name.edit,أدخل اسمًا جديدًا:
+settings.change_name.reenter,إعادة إدخال اسمك الجديد:
+settings.change_name.same_name,اسم جديد يطابق الموجود
+settings.change_name.too_long,الاسم طويل جدًا – 15 رمزًا كحد أقصى
+settings.change_name.too_short,اسمك قصير جدًا =)
+settings.change_name.warning,ملاحظة: يمكنك تغيير فقط اسمك مرة واحدة
+settings.confirm_avatar.cancel,إلغاء
+settings.confirm_avatar.change,تغيير
+settings.confirm_avatar.title,"هل تريد بالتأكيد تغيير
+صورة ملف التعريف الخاصة بك؟
+صورة ملف التعريف الخاصة بك:"
+settings.confirm_avatar.warning,"ملاحظة: يمكنك تغيير فقط
+صورة ملف التعريف الخاصة بك مرة واحدة"
+settings.confirm_name.cancel,إلغاء
+settings.confirm_name.change,تأكيد
+settings.confirm_name.title,هل تريد بالتأكيد تغيير اسمك؟ سيكون اسمك الجديد:
+settings.confirm_name.warning,ملاحظة: يمكنك تغيير فقط اسمك مرة واحدة
+settings.connect_fb,الاتصال بـ Facebook
+settings.connect_ok,الاتصال بـ Odnoklassniki
+settings.connect_vk,الاتصال بـ VK
+settings.connect_y8,توصيل Y8
+settings.connect_yandex,الاتصال بـ Yandex
+settings.connected_fb,Facebook
+settings.connected_ok,شركة Odnoklassniki
+settings.connected_vk,VK
+settings.connected_y8,Y8
+settings.connected_yandex,Yandex
+settings.coupon,الرمز الترويجي
+settings.coupon_title,الرمز الترويجي
+settings.coupon.enter,تطبيق
+settings.coupon.enter_hint,أدخل الرمز الترويجي الخاص بك هنا
+settings.coupon.invalid_code,"<font color=""\#e90047"">هذا الرمز غير صالح. يُرجى تجربة رمز آخر."
+settings.coupon.missing_code,"<font color=""\#e90047"">أدخل الرمز الترويجي الخاص بك"
+settings.coupon.ok,تم استخدام الرمز بنجاح!
+settings.credits,الأرصدة
+settings.eula,شروط الخدمة
+settings.fb_hint,الاتصال بـ Facebook للعب مع الأصدقاء ومزامنة تقدمك المحرز
+settings.general,عام
+settings.generate_key,إنشاء رمز
+settings.invite_friends,دعوة الأصدقاء
+settings.language,اللغة
+settings.language_header,اختيار اللغة
+settings.move_hints,التلميحات
+settings.music,الموسيقى
+settings.networks,الاتصالات
+settings.networks_hint,الاتصال بشبكات التواصل الاجتماعي للعب مع الأصدقاء ومزامنة تقدمك المحرز
+settings.notifications,الإشعارات
+settings.notifications.daily,التحدي اليومي
+settings.notifications.disable_all,تعطيل الجميع
+settings.notifications.disable_night,إيقاف التنشيط من 11 مساءً حتى 8 صباحًا
+settings.notifications.gifts,الهدايا
+settings.notifications.others,تذكيرات أخرى
+settings.open_support,دعم اللاعب
+settings.open_vk_group,مجموعة اللعبة
+settings.player_id,نسخ معرّف اللاعب
+settings.policy,سياسة الخصوصية
+settings.rate_us,قيّمنا
+settings.report_problem,الإبلاغ عن مشكلة
+settings.sound,الصوت
+settings.support,الدعم
+settings.telegram_channel,اتبع قناة الـ Telegram الخاصة بنا
+settings.telegram_channel_hint,أخر الأخبار عن لعبة Skydom
+settings.telegram_support,غرفة دردشة للمعجبين على Telegram
+settings.title,الإعدادات
+settings.update,تحديث
+settings.y8_hint,الاتصال بـ Y8 لمزامنة تقدمك عبر الإنترنت!
+settings.yandex_hint,الاتصال بـ Yandex لمزامنة تقدمك المحرز على الإنترنت!
+shop.gems_restored.accept,ممتاز!
+shop.gems_restored.title,تم إكمال عملية شراء الأحجار الكريمة
+shop.not_available,غير متوفر
+shop.remove_ads_remain_time,تم التخلص من الإعلانات لمدة #time
+shop.remove_ads_text,"تخلص من الإعلانات الموجودة بين المستويات
+من خلال أي عملية شراء"
+shop.remove_ads_timed,"تخلص من الإعلانات الموجودة بين المستويات
+من خلال أي عملية شراء لمدة شهر"
+social_notification.button,الاتصال
+social_notification.message,الاتصال بشبكة التواصل الاجتماعي لمزامنة تقدمك المحرز على الإنترنت!
+social_notification.no_post_hint,لن ننشر إطلاقًا تقدمك المحرز بدون إذنك.
+social_notification.title,حفظ تقدمك المحرز
+social_share.button,مشاركة
+social_share.chooser_hint,المشاركة عبر
+social_share.message,مرحبًا! تسجيل الخروج من لعبة مطابقة 3 قطع التي تتسم باللعب لاعب ضد لاعب الفريدة من نوعها! احصل عليها من الموقع https://PecPoc.com
+social_share.subject,جرب لعبة جديدة ومسلية – Skydom
+social_share.title,"شارك اللعبة مع الآخرين!
+اللعب مع الأصدقاء أكثر متعة!"
+tempkey_login.button,متابعة
+tempkey_login.empty_key,لم تدخل أي رمز
+tempkey_login.input.default_hint,إدخال رمز
+tempkey_login.invalid_key,رمز خطأ
+tempkey_login.message_top,"مواصلة اللعب هنا – احصل على الرمز في المكان الذي لعبت فيه من قبل في الإعدادات الموجودة أسفل ""إنشاء رمز"""
+tempkey_login.no_connection,يتعذر الاتصال
+tempkey.fail.button,موافق
+tempkey.fail.message,التحقق من اتصال الإنترنت لديك أو إعادة المحاولة
+tempkey.fail.title,يتعذر إنشاء رمز
+tempkey.ok.copied,تم نسخ!
+tempkey.ok.copy,نسخ
+tempkey.ok.hint,ينتهي الرمز بعد 4 ساعات.
+tempkey.ok.message,#tempkey
+tempkey.ok.title,رمزك:
+tickets_shop.boost_text,مضاعفة إعادة ملء السرعة
+tickets_shop.buy_all,شراء #amount
+tickets_shop.hint,تحتاج إلى عملات رمزية للعب في التحدي اليومي
+tickets_shop.hint_out_of,"<font color=""\#e90047"">ليس هناك المزيد من عملات الحظ الرمزية</font>"
+tickets_shop.recharge,توجد عملات رمزية في: #time
+tickets_shop.title,عملات رمزية
+tickets_shop.watch_ad_button,شاهد
+tickets_shop.watch_ad_text,احصل على 1 مجانًا
+time.days_hours,"#days<font size=""-15""> </font><font size=""-10"">ي</font> #hours<font size=""-15""> </font><font size=""-10"">س</font>"
+time.hours,"#hours<font size=""-15""> </font><font size=""-10"">س</font>"
+time.hours_minutes,"#hours<font size=""-15""> </font><font size=""-10"">س</font> #minutes<font size=""-15""> </font><font size=""-10"">د</font>"
+time.hours_minutes_seconds,"#hours<font size=""-15""> </font><font size=""-10"">س</font> #minutes<font size=""-15""> </font><font size=""-10"">د</font> #seconds<font size=""-15""> </font><font size=""-10"">ث</font>"
+time.hours_seconds,"#hours<font size=""-15""> </font><font size=""-10"">س</font> #seconds<font size=""-15""> </font><font size=""-10"">ث</font>"
+time.less_than_minute,"1<font size=""-15""> </font><font size=""-10"">د</font>"
+time.minutes,"#minutes<font size=""-15""> </font><font size=""-10"">د</font>"
+time.minutes_seconds,"#minutes<font size=""-15""> </font><font size=""-10"">د</font> #seconds<font size=""-15""> </font><font size=""-10"">ث</font>"
+time.seconds,"#seconds<font size=""-15""> </font><font size=""-10"">ث</font>"
+tutorial_home.play,العب
+tutorial.001.dialog_tutorial,"طابق <font color=""\#5885b8"">3 قطع من نفس اللون على التوالي</font> للتخلص منها"
+tutorial.001.hint,"الهدف
+جمع 12 قطعة خضراء!"
+tutorial.001.turn_1,طابق 3 قطع من نفس اللون من خلال تبديل القطع المتجاورة
+tutorial.002.hint,اجمع المزيد من القطع الصفراء أكثر من خصمك!
+tutorial.skip,تخطَّ
+undo_shop.buy_undos,احصل على #count لـ
+undo_shop.hint,التراجع يعيد حركتك الأخيرة
+undo_shop.recharge,التراجع التالي في: #time
+undo_shop.title,تراجع
+undo_shop.watch_ad_button,شاهد
+undo_shop.watch_ad_text,احصل على 1 مجانًا
+undo_shop.you_have,لديك {amount|#amount تراجع|#amount تراجعات|#amount تراجعات}
+update.button,تحديث
+update.new_version,التحديث لآخر إصدار!
+update.new_version_value,"<font color=""\#5885b8"">#version"
+update.old_version,تستخدم إصدارًا أقدم
+update.old_version_value,"<font color=""\#a5a7aa"">#version"
+update.text,"تستخدم إصدار أقدم.
+يُرجى التحديث لآخر إصدار!"
+update.title,يتوفر إصدار جديد!
+update.web.button,تحديث
+update.web.message,يُرجى تحديث الصفحة.
+update.web.title,يتوفر إصدار جديد!
+vk_login_failed.message,يتعذر الاتصال بـ VK. هل تريد المحاولة مرة أخرى؟
+vk_promo.title,هدية من VK!
+vk.share_tick,مشاركة
+watch_for_gems.button,شاهد
+watch_for_gems.text,احصل على +#amount
+web.webg_context_lost,سياق الويب المفقود ، استعادة ...
+welcome_bonus.speech_1,"مرحبًا، #PlayerName!
+لدي بعض الهدايا لك.
+اختر واحدة!"
+welcome_bonus.speech_2,"الأفكار تتجسد... ممم!
+كنت أفكر في بعض الهدايا وأرى ما حدث =)"
+welcome_bonus.speech_3,"لقد وجدت صندوقين بينما
+لم تكن هناك! افتح واحدًا!"
+welcome_bonus.speech_4,"نسعد برؤيتك مرة أخرى، #PlayerName!
+انظر ماذا سقط
+من السحاب!"
+welcome_bonus.speech_5,"لقد طارت طيور اللقالق من خلال...
+اتضح أنها لا تضع الصغار فقط!"
+welcome_bonus.speech_6,"نسعد برؤيتك مرة أخرى، #PlayerName!
+بل أيضًا تأخذ الصندوق!"
+welcome_bonus.speech_7,نشتاق إليك كثيرًا، #PlayerName، لذلك أعدت هدية صغيرة لك!
+welcome_bonus.speech_8,"تحدث أشياء كثيرة. اجلس واسترح وسيظهر
+صندوقان من العدم!"
+welcome_pack.open,فتح
+welcome_pack.play,لعب
+welcome_pack.speech_1,منذ فترة طويلة لا ترى ، #PlayerName! لدي هدية لك!
+welcome_pack.speech_2,أوه ، #PlayerName، اشتقت لك! دعونا نفتح الهدية ونلعب!
+welcome_pack.speech_3,#PlayerName ، من الجيد رؤيتك مرة أخرى! اسرع وفتح الصدر.
+welcome_pack.speech_gift,#PlayerName ، لدينا هدية خاصة لك =) افتحها بسرعة!
+welcome_pack.speech_reforged,#PlayerName ، لدينا هدية خاصة لك =) افتحها بسرعة!
+y8_login_failed.message,لا يمكن الاتصال بـ Y8. حاول مرة أخري؟
+yandex_login_failed.message,يتعذر الاتصال بـ Yandex. هل تريد المحاولة مرة أخرى؟
+yandex_notification.button,الاتصال
+yandex_notification.message,الاتصال بـ Yandex لمزامنة تقدمك المحرز على الإنترنت!
+yandex_notification.title,حفظ تقدمك المحرز
+gamemode.capital.leaf,الأوراق
+yandex_login_has_attachment.message,تم ربط حساب Yandex آخر بملف اللعبة هذا.
+fb_login_has_attachment.message,تم ربط حساب Facebook آخر بهذا الملف الشخصي لللعبة.
+ok_login_has_attachment.message,تم ربط حساب آخر من أوك بملف اللعبة هذا.
+vk_login_has_attachment.message,تم ربط حساب VK الآخر بملف اللعبة هذا.
+y8_login_has_attachment.message,تم ربط حساب Y8 آخر مع ملف اللعبة هذا.
+android_app.text.beta,أصدقائي الأعزاء! يسعدنا الإعلان عن إطلاق اختبار بيتا على لعبتنا لنظام تشغيل أندرويد. الجميع مرحب بهم!
+bookmark.play,الصفحة الرئيسية
+bookmark.quest,المهام
+chest_opening.bronze,برونزي
+chest_opening.continue,سهل
+chest_opening.division,القسم III
+chest_opening.golden,ذهبي
+chest_opening.silver,فضي
+chest_opening.togoldenleague,"هل يمكنك الوصول إلى
+المرحلة الذهبية؟"
+chest_opening.welcome,"مرحبًا بك في مراحل
+Match Arena!"
+chest_opening.yourebronze,"لقد وصلت إلى
+المرحلة البرونزية III"
+chest.open,فتح
+chest.opens_now,رائع! حصلت على صندوق يمكنك فتحه!
+chest.wins_left_1,تحتاج إلى انتصار آخر!
+chest.wins_left_2,تحتاج إلى 2 انتصار ويصبح الصندوق لك!
+chest.wins_left_3,أحسنت! تحتاج بعد إلى 3 انتصارات!
+chest.wins_left_4,أنت على بعد 4 انتصارات لتفتح الصندوق!
+chest.wins_to_open,{num|تحتاج إلى انتصار آخر|#num wins} لفتح الصندوق
+forge_help.block_1,اربح المبارزة لتحصل على العملات النقدية
+forge_help.block_2,استخدم العملات النقدية لبدء إعداد الفرق وللحصول على سبائك الذهب
+forge_help.block_3,اجمع سبائك الذهب ليرتفع مستواك في المراحل
+forge_help.block_4,مراحل جديدة – بمستويات جديدة!
+forge_help.continue,تفهمت الأمر
+forge_help.title,مراحل وفرق
+forge.add,إضافة
+forge.boost,تعزيز
+forge.boost_free,"هيا بنا لنعزز هذه الفرقة!
+
+أول تجربة مجانية!"
+forge.boost_free_ok,تعزيز
+forge.buy_1,عملة برونزية
+forge.buy_2,عملة فضية
+forge.buy_3,عملة ذهبية
+forge.buy_4,عملة من الياقوت
+forge.buy_now,إضافة
+forge.cheat_boost,هل هذا غش؟ يا له من غش!
+forge.name_1,عملة برونزية
+forge.name_2,عملة فضية
+forge.name_3,عملة ذهبية
+forge.name_4,عملة من الياقوت
+forge.not_enough_coins,لا توجد عملات نقدية كافية لبدء اللعب
+forge.ok,موافق
+forge.open,فتح
+forge.open_now,مفتوح الآن
+forge.other_in_progress,هناك فرقة أخرى جارٍ إعدادها!
+forge.popup_boost,تعزيز -30 دقيقة
+forge.popup_boost_speedup,تعزيز -15 دقيقة
+forge.progress,#bars in: #time
+forge.speedup_no,لا
+forge.speedup_offer,"<font color=""\#5885b8"">هل يمكن تعزيز</font> سرعة الفرقة <font color=""\#5885b8"">بنسبة 2x؟</font>"
+forge.speedup_ok,موافق
+forge.speedup_success,تم تعزيز الفرقة!
+forge.speedup_yes,نعم
+forge.start,البدء
+forge.time_1,3 ساعات
+forge.time_2,6 ساعات
+forge.time_3,12 ساعات
+forge.time_4,24 ساعات
+forge.tutorial.collect_coins,احصل على 1000 عملة نقدية لبدء إعداد الفرقة
+forge.tutorial.open_now,"ممتاز! اكتمل التذويب!
+يمكننا فتح الفرقة!"
+forge.tutorial.smelt_more,استمر في الحصول على السبائك الذهبية لتنتقل إلى القسم التالي
+forge.tutorial.start_forge,"أحسنت، لقد حصلت على 1000 عملة نقدية!
+آلان يمكننا البدء في إعداد الفرقةَ!"
+forge.tutorial.wait_ready,اربح المزيد من العملات النقدية أثناء عملية إعداد فرقتك
+forge.watch_ad,شاهد
+gamemode.chocolate,حمم بركانية
+gamemode.diamonds,أَلماس
+gamemode.energycube,هلام
+gamemode.fishes,جزر
+gamemode.food,جوز
+gamemode.fossils,أخطبوطات
+gamemode.grass,عشب
+gamemode.honeybee,دببة
+gamemode.ice,ثلج
+gamemode.jam,طاقة
+gamemode.road,خنزير صغير
+gamemode.stone,أحجار
+gamemode.tasks,أوامر
+gamemode.tiles,عشب
+home.bars_need_more,تحتاج إلى #more
+home.bars_progress,#current / #total
+home.bet,رهان #count عملات نقدية
+home.coins,#count
+home.gems,#count
+home.hint_quest_book,مهمات جديدة متاحة!
+home.hint_quest_book.claim,مرحى! سيحصل أحدهم على مكافأة!
+home.hint_quest_book.new,يا للهول! مهمة جديدة!
+home.league_indev,المرحلة التالية ستتوفر قريبًا!
+home.rematch.asks_for_rematch_draw,#name يريد محاولة أخرى
+home.rematch.asks_for_rematch_player_lose,#name إعادة مطابقة العروض
+home.rematch.asks_for_rematch_player_won,#name يطلب إعادة المطابقة!
+home.xp,#count
+ingame_booster_shop.buy,احصل على #count لـ
+ingame_booster_shop.hint.cross,استخدم العصا السحرية لإزالة صف واحد وعمود واحد من القطع
+ingame_booster_shop.hint.hammer,قم بإزالة قطع القرميد من خلال تدميرها بالمطرقة!
+ingame_booster_shop.hint.hand,استخدم القفاز لتبديل أي قطع متجاورة
+ingame_booster_shop.title.cross,عصا سحرية
+ingame_booster_shop.title.hammer,مطرقة
+ingame_booster_shop.title.hand,قفاز
+league.Bronze,المرحلة البرونزية
+league.div_1,القسم I
+league.div_2,قسم II
+league.div_3,قسم III
+league.div_4,قسم IV
+league.div_5,القسم V
+league.E001,المرحلة البرونزية III
+league.E002,المرحلة البرونزية II
+league.E003,المرحلة البرونزية I
+league.E004,المرحلة الفضية IV
+league.E005,المرحلة الفضية III
+league.E006,المرحلة الفضية II
+league.E007,المرحلة الفضية I
+league.E008,المرحلة الذهبية V
+league.E009,المرحلة الذهبية IV
+league.E010,المرحلة الذهبية III
+league.E011,المرحلة الذهبية II
+league.E012,المرحلة الذهبية I
+league.E013,المرحلة البلاتينية V
+league.E014,المرحلة البلاتينية IV
+league.E015,المرحلة البلاتينية III
+league.E016,المرحلة البلاتينية II
+league.E017,المرحلة البلاتينية I
+league.E018,المرحلة الرئيسية 1
+league.Gold,المرحلة الذهبية
+league.Master,المرحلة الرئيسية
+league.MasterN,المرحلة الرئيسية #div
+league.GrandMaster,الأستاذ العام
+league.GrandMasterN,الأستاذ العام #div
+league.Platinum,المرحلة البلاتينية
+league.Silver,المرحلة الفضية
+levelup.continue,مذهل!
+levelup.reward,مكافأة
+levelup.title_division,"تهانينا!
+قسم جديد!"
+levelup.title_league,"تهانينا!!
+مرحلة جديدة!"
+ma2transfer.install,تثبيت
+ma2transfer.message,"نقلت Match Arena إلى تطبيق جديد!
+
+هام! استخدم الرمز الموجود بالأسفل لتنقل تقدمك باللعبة."
+nickname.tutorial_004,Sensei Michael
+nickname.tutorial_005,Professor Frank
+nickname.tutorial_006,Queen Matcha
+nickname.tutorial_007,Teacher Leo
+nickname.tutorial_008,Coach Carl
+nickname.tutorial_009,Tutor Beardy
+nickname.tutorial_010,Guru Vicky
+placeholder.hint_friends,"تحدى أصدقائك
+وأرهم قدراتك!"
+placeholder.hint_quests,"الوصول إلى المرحلة البرونزية I
+لاكتشاف المزيد!"
+placeholder.hint_settings,سيكون جاهزًا قريبًا :)
+placeholder.title_friends,"اللعب مع الأصدقاء
+سيتوفر قريبًا"
+placeholder.title_quests,"مهمات رائعة
+مغلقة"
+placeholder.title_settings,إعدادات قيد الإنشاء
+quest_help.block_1,أكمل المهمات لتتلقى المكافآت!
+quest_help.block_2,أكمل كل المهمات لتستطيع فتح الصندوق.
+quest_help.block_3,أكمل كل المهمات قبل الانتقال للقسم التالي، وإلا سيكلفك ذلك خسارة الصندوق!
+quest_help.continue,تفهمت الأمر
+quest_help.title,دفتر المهام
+quest.aquarium,جمع {amount|#amount سمكة|#amount سمك}
+quest.bar,#progress #amount
+quest.bar_completed,اكتملت المهمة!
+quest.bar_last_try,المحاولة السابقة: #progress #amount
+quest.bar_special_not_tried,#progress #amount
+quest.best_so_far,أفضل النتائج: #progress
+quest.butterfly,جمع {amount|#amount فراشة|#amount فراشات}
+quest.buy_now,الحصول الآن على #amount
+quest.cat,جمع {amount|#amount قطة صغيرة|#amount قطط صغيرة|#amount قطط صغيرة}
+quest.chip_destroy,جمع {amount|#amount من أي قطعة|#amount من أي قطع}
+quest.chip_destroy_bird,جمع {amount|#amount عصفور|#amount عصافير}
+quest.chip_destroy_blue,جمع {amount|#amount قطعة زرقاء اللون|#amount قطع زرقاء اللون}
+quest.chip_destroy_diamond,جمع {amount|#amount ألماسة|#amount ألماس}
+quest.chip_destroy_fish,جمع {amount|#amount جزرة|#amount جزر}
+quest.chip_destroy_fish_blue,جمع {amount|#amount جزرة زرقاء اللون|#amount جزر زرقاء اللون}
+quest.chip_destroy_fish_green,جمع {amount|#amount جزرة خضراء اللون|#amount جزر أخضر اللون}
+quest.chip_destroy_fish_orange,جمع {amount|#amount جزرة برتقالية اللون|#amount جزر برتقالي اللون}
+quest.chip_destroy_fish_purple,جمع {amount|#amount جزرة أرجوانية اللون|#amount جزر أرجواني اللون}
+quest.chip_destroy_fish_red,جمع {amount|#amount جزرة حمراء اللون|#amount جزر أحمر اللون}
+quest.chip_destroy_fish_yellow,جمع {amount|#amount جزرة صفراء اللون|#amount جزر أصفر اللون}
+quest.chip_destroy_food,إزالة {amount|#amount جوزة البلوط|#amount جوز البلوط|#amount جوز البلوط}
+quest.chip_destroy_frog,جمع {amount|#amount ضفدع|#amount ضفادع}
+quest.chip_destroy_green,جمع {amount|#amount قطعة خضراء اللون|#amount قطع خضراء اللون}
+quest.chip_destroy_orange,جمع {amount|#amount قطعة برتقالية اللون|#amount قطع برتقالية اللون|#amount قطع برتقالية اللون}
+quest.chip_destroy_purple,جمع {amount|#amount قطعة أرجوانية اللون|#amount قطع أرجوانية اللون|#amount قطع أرجوانية اللون}
+quest.chip_destroy_red,جمع {amount|#amount قطعة حمراء اللون|#amount قطع حمراء اللون}
+quest.chip_destroy_snail,جمع {amount|#amount حلزون|#amount حلزونات}
+quest.chip_destroy_super,جمع {amount|#amount قطعة خارقة|#amount قطع خارقة}
+quest.chip_destroy_wafer,جمع {amount|#amount قطعة من خام الذهب|#amount قطع من خام الذهب}
+quest.chip_destroy_with_bomb,جمع {amount|#amount قطعة|#amount قطع} باستخدام القنبلة
+quest.chip_destroy_with_line,جمع {amount|#amount قطعة|#amount قطع} باستخدام مكافأة الخط الإضافية
+quest.chip_destroy_with_mine,جمع {amount|#amount قطعة|#amount قطع} باستخدام مكافأة الخنفساء المضيئة الإضافية
+quest.chip_destroy_with_omni,جمع {amount|#amount قطعة|#amount قطع} باستخدام مكافأة البرق الإضافية
+quest.chip_destroy_yellow,جمع {amount|#amount قطعة صفراء اللون|#amount قطع صفراء اللون}
+quest.chip_destroy_waterfish,جمع #amount أسماك الماء
+quest.chip_recolor,إعادة تلوين{amount|#amount قطعة|#amount قطع} باستخدام مكافأة التلوين الإضافية
+quest.claim,الحصول على المكافأة
+quest.complete_chest,اكتمال كل المهمات
+quest.cover_destroy_bee,جمع {amount|#amount دب|#amount دببة|#amount دببة}
+quest.cover_destroy_bound,إلغاء قفل {amount|#amount قطعة|#amount قطع}
+quest.cover_destroy_chocolate,إزالة {amount|#amount قطعة|#amount قطع} باستخدام الحمم البركانية
+quest.cover_destroy_fizzblue,جمع {amount|#amount حلزون|#amount أزيز}
+quest.cover_destroy_fizzpurple,جمع {amount|#amount أزيز|#amount أزيز}
+quest.cover_destroy_frozen,إزالة التجميد من على {amount|#amount قطعة|#amount قطع}
+quest.cover_destroy_honey,مسح {amount|#amount قطعة من القرميد باستخدام العسل|#amount قطع من القرميد باستخدام العسل}
+quest.cover_destroy_hotlava,إزالة {amount|#amount قطعة|#amount قطع} الحمم البركانية الساخنة
+quest.cover_destroy_receiver_energycube,جمع #amount كريستالات الجلي
+quest.cover_destroy_receiver_jam,جمع #amount كريستالات الطاقة
+quest.cover_destroy_statue,جمع {amount|#amount كلب|#amount كلاب}
+quest.cover_destroy_stone,إزالة {amount|#amount قطعة من الحجر|#amount قطع من الأحجار}
+quest.cover_destroy_leaf,امسح #amount أوراق
+quest.division_done_card,مهمات جديدة في القسم التالي!
+quest.duck,جمع {amount|#amount بطة|#amount بط}
+quest.energy_flow,الحصول على الطاقة من خلال {amount|#amount قطعة من القرميد|#amount قطع من القرميد}
+quest.energycube_flow,ملء {amount|#amount قطعة من القرميد|#amount قطع من القرميد|#amount قطع من القرميد} باستخدام الهلام
+quest.fossil,جمع {amount|#amount أخطبوط|#amount أخطبوطات}
+quest.gum,جمع {amount|#amount قطعة علكة|#amount قطع من العلكة}
+quest.new_quest,مهمة جديدة!
+quest.new_quest_in,ستبدأ المهمة التالية خلال:
+quest.on_arena_splash_score,سجل #amount في لعبة Arena Boom!
+quest.on_arena_splash_use_bonus,حفظ{amount|#amount المكافأة الإضافية|#amount المكافآت الإضافية} للعبة Arena Boom!
+quest.plate_destroy,إزالة {amount|#amount فاصل|#amount فواصل}
+quest.play,العب
+quest.pvp_score,سجل #amount في المبارزات
+quest.reward,المكافأة:
+quest.snakes,جمع {amount|#amount ثعبان|#amount ثعابين}
+quest.tile_destroy_gold,جمع {amount|#amount قطعة قرميد|#amount قطع القرميد} بالعشب
+quest.tile_destroy_grass,جمع {amount|#amount قطعة قرميد|#amount قطع القرميد} بالعشب
+quest.title,دفتر المهام
+quest.use_bonus,استخدام {amount|#amount مكافأة إضافية|#amount مكافآت إضافية}
+quest.use_bonus_bomb,استخدام {amount|#amount مكافأة إضافية|#amount مكافآت إضافية} القنبلة
+quest.use_bonus_line,استخدام {amount|#amount مكافأة إضافية|#amount مكافآت إضافية} الخط
+quest.use_bonus_mine,استخدام {amount|#amount مكافأة إضافية|#amount مكافآت إضافية} الخنفسة المضيئة
+quest.use_bonus_omni,استخدام مكافأة البرق الإضافية {amount|#amount مرة|#amount مرات}
+quest.use_bonus_tint,استخدام {amount|#amount مكافأة إضافية|#amount مكافآت إضافية|#amount مكافآت إضافية} التلوين
+quest.use_combo_bomb_bomb,احصل على مكافأة مضاعفة بدمج قنبلة + قنبلة {amount|#amount مرة|#amount مرات}
+quest.use_combo_bomb_omni,احصل على مكافأة مضاعفة بدمج برق + قنبلة {amount|#amount مرة|#amount مرات}
+quest.use_combo_bomb_tint,احصل على مكافأة مضاعفة بدمج ملون + قنبلة {amount|#amount مرة|#amount مرات}
+quest.use_combo_line_bomb,احصل على مكافأة مضاعفة بدمج قنبلة + خط {amount|#amount مرة|#amount مرات}
+quest.use_combo_line_line,احصل على مكافأة مضاعفة بدمج خط + خط {amount|#amount مرة|#amount مرات}
+quest.use_combo_line_omni,احصل على مكافأة مضاعفة بدمج برق + خط {amount|#amount مرة|#amount مرات}
+quest.use_combo_line_tint,احصل على مكافأة مضاعفة بدمج ملون + خط {amount|#amount مرة|#amount مرات}
+quest.use_combo_mine_bomb,احصل على مكافأة مضاعفة بدمج قنبلة + خنفساء مضيئة {amount|#amount مرة|#amount مرات}
+quest.use_combo_mine_line,احصل على مكافأة مضاعفة بدمج خنفساء مضيئة + خط {amount|#amount مرة|#amount مرات}
+quest.use_combo_mine_mine,احصل على مكافأة مضاعفة بدمج خنفساء مضيئة + خنفساء مضيئة {amount|#amount مرة|#amount مرات}
+quest.use_combo_mine_omni,احصل على مكافأة مضاعفة بدمج برق + خنفساء مضيئة {amount|#amount مرة|#amount مرات}
+quest.use_combo_mine_tint,احصل على مكافأة مضاعفة بدمج ملون + خنفسة مضيئة {amount|#amount مرة|#amount مرات}
+quest.use_combo_omni_omni,احصل على مكافأة مضاعفة بدمج برق + برق {amount|#amount مرة|#amount مرات}
+quest.use_combo_omni_tint,احصل على مكافأة مضاعفة بدمج ملون + برق {amount|#amount مرة|#amount مرات}
+quest.use_combo_tint_tint,احصل على مكافأة مضاعفة بدمج ملون + ملون {amount|#amount مرة|#amount مرات}
+quest.walk,قم بتنزيه الخنزير الصغير {amount|#amount خطوة|#amount خطوات}
+quest.watch_for_new,– #time
+quest.win,ربح {amount|#amount مبارزة|#amount مبارزات}
+quest.win_coins,الحصول على{amount|#amount عملة نقدية|#amount عملات نقدية} في المبارزات
+quest.win_hard_level,تكملة المستوى الصعب
+quest.win_rematch,ربح {amount|#amount إعادة المباراة|#amount إعادة المباريات}
+quest.win_streak,ربح {amount|#amount مبارزة|#amount مبارزات} على التوالي
+quest.chip_destroy_clam,جمع #amount كرواسي
+quest.chip_destroy_egg,جمع #amount بيض
+quest.gardenflower,جمع #amount الورود
+quest.sausages,جمع #amount الصوص
+rematch.asks_for_rematch_draw,"#name يريد المحاولة مرة أخرى
+ضع الرهان #bet"
+rematch.asks_for_rematch_player_lose,"#name يعرض عليك إعادة المباراة
+ضع الرهان #bet"
+rematch.asks_for_rematch_player_won,"يريد #name إعادة المباراة!
+مراهنة #bet"
+rematch.rematch_bet,مراهنة #bet
+report.body,
+report.subject,المشكلة التي تواجهها مع لعبة MatchArena
+reward.bars,{amount|سبيكة ذهبية|سبائك ذهبية}
+reward.coins_amt,+#amount
+reward.gems_amt,+#amount
+reward.levels,{amount|مستوى جديد|مستويات جديدة}
+reward.levels_amt,+#amount
+reward.levelup,"تهانينا!
+مستوى جديد!"
+reward.new_levels,"مستوىات
+جديدة!"
+reward.talisman,{amount|تعويذة|تعاويذ}
+reward.xp_amt,+#amount
+search.prize_fund,جائزة مالية
+settings.friends_and_partners,أصدقاء وشركاء
+settings.language.help_us_translate,"هل ترغب في مساعدتنا على ترجمة لعبة Match Arena إلى اللغة التي تتحدث بها؟ تواصل معنا من خلال موقع <font color=""\#0000EE"">support@matcharenagame.com."
+settings.notifications.duels,تحدي المبارزات
+shop.indev,سيتوفر قريبًا!
+splash.hint_chocolate,إزالة أكبر كمية من الحمم البركانية قدر الإمكان
+splash.hint_diamonds,جمع أكبر عدد ممكن من الألماس
+splash.hint_energycube,ملء أكبر عدد من قطع القرميد بالهلام قدر الإمكان
+splash.hint_fishes,جمع أكبر عدد من الجزر قدر الإمكان
+splash.hint_food,إزالة أكبر عدد من جوز البلوط قدر الإمكان
+splash.hint_fossils,جمع أكبر عدد من الأخطبوطات قدر الإمكان
+splash.hint_honeybee,جمع أكبر عدد من الدببة قدر الإمكان
+splash.hint_ice,إزالة أكبر عدد من الثلج قدر الإمكان
+splash.hint_jam,ملء أكبر عدد من قطع القرميد بالطاقة قدر الإمكان
+splash.hint_road,تنزيه الخنزير الصغير قدر الإمكان
+splash.hint_stone,إزالة أكبر عدد من الأحجار قدر الإمكان
+splash.hint_tasks,جمع أكبر عدد من الأوامر قدر الإمكان
+splash.hint_tiles,جمع أكبر عدد من العشب قدر الإمكان
+splash.mode_chocolate,الهدف – الحمم البركانية
+splash.mode_diamonds,الهدف – الألماس
+splash.mode_fishes,الهدف – الجزر
+splash.mode_food,الهدف – جوز البلوط
+splash.mode_jam,الهدف – الطاقة
+splash.mode_road,الهدف – الخنزير الصغير
+splash.mode_tasks,الهدف – الأوامر
+splash.mode_tiles,الهدف – العشب
+talismans_shop.ask_button,Facebook
+talismans_shop.ask_text,اطلب من الأصدقاء
+talismans_shop.boost_text,مضاعفة إعادة ملء السرعة
+talismans_shop.buy_all,الحصول على #amount مقابل
+talismans_shop.hint,ربح ضعف العملات النقدية
+talismans_shop.recharge,ستبدأ التعويذة التالية خلال: #time
+talismans_shop.title,تعاويذ
+talismans_shop.watch_ad_button,شاهد
+talismans_shop.watch_ad_text,احصل على 1 مجانًا
+tickets_shop.ask_button,Facebook
+tickets_shop.ask_text,اطلب من الأصدقاء
+tutorial.001.collect_more_fishes,"جمع أكبر عدد من <font color=""\#5885b8"">الجزر</font> قدر الإمكان"
+tutorial.001.continue_to_collect_fishes,استمر في جمع الجزر!
+tutorial.001.first_swap_red_down,"حرك القطعة الحمراء للأسفل
+لمطابقة<font color=""\#5885b8""> ثلاث قطع على التوالي</font>"
+tutorial.001.remind_collect_three_in_a_row,"جمع <font color=""\#5885b8"">ثلاث قطع</font> من نفس اللون<font color=""\#5885b8""> على التوالي</font>"
+tutorial.001.second_swap_green_left,"حرك القطعة الخضراء للأسفل
+لمطابقة<font color=""\#5885b8""> ثلاث قطع على التوالي</font>"
+tutorial.001.third_swap_fish,"يمكن أيضًا مطابقة<font color=""\#5885b8"">الجزر</font> 
+ثلاثة جزرات على التوالي"
+tutorial.001.you_are_doing_well,أنت تبلي بلاءً حسنًا!
+tutorial.002.get_bonus_line,"...لتحصل على <font color=""\#5885b8"">مكافأة إضافية – خط!</font>"
+tutorial.002.try_four_in_a_row,"حاول أن تطابق <font color=""\#5885b8"">4 قطع على التوالي!</font>"
+tutorial.002.use_line_bonus,"طابق <font color=""\#5885b8"">ثلاث قطع على التوالي وستحصل على مكافأة إضافية</font> وستشاهد مدى قوة الخط!"
+tutorial.003.hint,اجمع المزيد من الجزر أكثر من خصمك!
+tutorial.003.try_l_or_t,"طابق القطع <font color=""\#5885b8"">في شكل حرف T أو L!</font>"
+tutorial.003.use_bomb_bonus,"...لتحصل على <font color=""\#5885b8"">مكافأة إضافية – قنبلة!</font>
+لنفجرها!"
+tutorial.004.clear_gold_tiles,"طابق قطع <font color=""\#5885b8"">العشب</font>
+لتقوم بجمعها!"
+tutorial.004.combine_omni_with_blue,"قم بتبديل <font color=""\#5885b8"">قطعة البرق</font> مع القطعة الزرقاء لإزالة كل القطع الزرقاء
+من على اللوحة!"
+tutorial.004.try_five_in_a_row,"حاول أن تطابق <font color=""\#5885b8"">5 قطع على التوالي!</font>"
+tutorial.005.two_bonus_can_combine,"يمكن <font color=""\#5885b8"">الدمج بين أي مكافأتين</font> للحصول على مكافأة أكبر!"
+tutorial.007.collect_food,"مطابقة القطع الموجودة بجوار <font color=""\#5885b8"">جوز البلوط</font>"
+tutorial.007.move_character,"قم بتجميع جوز البلوط
+<font color=""\#5885b8"">لتحرك الخنزير الصغير إلى الأمام!</font>"
+tutorial.008.make_mine_bonus,"طابق <font color=""\#5885b8"">أربع قطع في شكل مربع</font> 
+وأحصل على مكافأة إضافية – خنفساء مضيئة!"
+tutorial.008.use_mine_bonus,"طابق ثلاث قطع على التوالي بجوار<font color=""\#5885b8"">الخنفساء المضيئة</font>
+لتستخدمها!"
+tutorial.009.make_tint_bonus,"طابق القطع <font color=""\#5885b8"">على شكل حرف T كبير</font> 
+لتحصل على مكافأة إضافية – ملون!"
+tutorial.009.use_tint_bonus,"يمكن تبديل قطعة<font color=""\#5885b8"">الملون</font> مع أي من القطع الأخري!"
+level_popup.adventure.title,مستوى
+lives_shop.ma_hint,"تحتاج إلى المزيد من المحاولات
+لتستمر في اللعب في المغامرة"

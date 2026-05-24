@@ -1,0 +1,12 @@
+ {
+	"size":8,
+	"stars":{"avg":5, "top":10 },
+	"moves":35,
+	"fill":"up",
+	"add":[
+		{ "x":0, "y":0, "dx":8, "dy":4, "type":"SOFT_CAGE", "count": true },
+		
+		{ "x":0, "y":4, "dx":8, "dy":3, "type":"BOX", "count": true }
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_YELLOW","GEM_RED","GEM_PURPLE"]
+ }

@@ -1,0 +1,76 @@
+
+skel_expstart.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
++1
+  rotate: false
+  xy: 1, 1
+  size: 241, 48
+  orig: 241, 48
+  offset: 0, 0
+  index: -1
++3
+  rotate: false
+  xy: 318, 165
+  size: 247, 88
+  orig: 247, 88
+  offset: 0, 0
+  index: -1
++32
+  rotate: true
+  xy: 566, 116
+  size: 137, 142
+  orig: 137, 142
+  offset: 0, 0
+  index: -1
++4
+  rotate: false
+  xy: 318, 80
+  size: 239, 84
+  orig: 239, 84
+  offset: 0, 0
+  index: -1
+b0001
+  rotate: false
+  xy: 709, 188
+  size: 108, 65
+  orig: 108, 65
+  offset: 0, 0
+  index: -1
+b0002
+  rotate: false
+  xy: 709, 122
+  size: 108, 65
+  orig: 108, 65
+  offset: 0, 0
+  index: -1
+b0003
+  rotate: false
+  xy: 818, 188
+  size: 108, 65
+  orig: 108, 65
+  offset: 0, 0
+  index: -1
+b0004
+  rotate: false
+  xy: 818, 122
+  size: 108, 65
+  orig: 108, 65
+  offset: 0, 0
+  index: -1
+b0005
+  rotate: true
+  xy: 927, 145
+  size: 108, 65
+  orig: 108, 65
+  offset: 0, 0
+  index: -1
+zxx
+  rotate: false
+  xy: 1, 50
+  size: 316, 203
+  orig: 316, 203
+  offset: 0, 0
+  index: -1

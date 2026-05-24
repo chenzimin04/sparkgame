@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "watercolor_bunny_a.jpg",
+  "image2": "watercolor_bunny_b.jpg",
+  "differences":
+  [
+    {
+      "x": 90.0,
+      "y": 221.0,
+      "size": 130.0
+    },
+    {
+      "x": 243.0,
+      "y": 467.0,
+      "size": 80.0
+    },
+    {
+      "x": 511.0,
+      "y": 571.0,
+      "size": 150.0
+    },
+    {
+      "x": 764.0,
+      "y": 458.0,
+      "size": 110.0
+    },
+    {
+      "x": 928.0,
+      "y": 351.0,
+      "size": 160.0
+    }
+  ]
+}

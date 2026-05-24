@@ -1,0 +1,34 @@
+ {
+	"size":9,
+	"stars":{"avg":4, "top":8 },
+	"moves":40,
+	"fill":"up",
+	"add":[
+		{ "x":0, "y":6, "dx":3, "dy":3,  "type":"CRACKLING", "count":true },
+		{ "x":6, "y":6, "dx":3, "dy":3,  "type":"CRACKLING", "count":true },
+		
+		{ "x":0, "y":5, "dx":9, "dy":1,  "type":"BOX", "count":true },
+		
+		{ "x":0, "y":4, "dx":2, "dy":1,  "type":"GEM_BLUE" },
+		{ "x":2, "y":4, "dx":1, "dy":1,  "type":"GEM_RED" },
+		{ "x":3, "y":4, "dx":3, "dy":1,  "type":"CRACKLING", "count":true },
+		{ "x":6, "y":4, "dx":1, "dy":1,  "type":"GEM_GREEN" },
+		{ "x":7, "y":4, "dx":1, "dy":1,  "type":"GEM_RED" },
+		{ "x":8, "y":4, "dx":1, "dy":1,  "type":"GEM_GREEN" },
+		
+		{ "x":0, "y":3, "dx":9, "dy":1,  "type":"BOX", "count":true },
+		
+		{ "x":0, "y":0, "dx":9, "dy":3, "type":"SOFT_CAGE", "count":true }
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_RED","GEM_YELLOW","GEM_PURPLE"],
+	"field":[ 
+		"xxxoooxxx",
+		"xxxoooxxx",
+		"xxxoooxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx"]
+ }

@@ -1,0 +1,19 @@
+ {
+	"size":9,
+	"moves":40,
+	"fill":"up",
+	"add":[			
+		{ "x":4, "y":0, "dx":1, "dy":9, "type":"BOX", "params":{"count":1}, "count":true },
+		{ "x":0, "y":8, "dx":4, "dy":1, "type":"BLOB", "count":true }
+	],
+	"field":[ 		
+		"xxxxxxxxxxx",
+		"xxxxxoxxxxx",
+		"xxxxxxxxxxx",
+		"xxxxxxxxxxx",
+		"xxxxxoxxxxx",
+		"xxxxxxxxxxx",
+		"xxxxxxxxxxx",
+		"xxxxxoxxxxx",
+		"xxxxxxxxxxx"]
+ }

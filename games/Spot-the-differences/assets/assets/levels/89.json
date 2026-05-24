@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "cyberpunk_woman_a.jpg",
+  "image2": "cyberpunk_woman_b.jpg",
+  "differences":
+  [
+    {
+      "x": 109.0,
+      "y": 391.0,
+      "size": 180.0
+    },
+    {
+      "x": 357.0,
+      "y": 308.0,
+      "size": 130.0
+    },
+    {
+      "x": 485.0,
+      "y": 249.0,
+      "size": 50.0
+    },
+    {
+      "x": 742.0,
+      "y": 255.0,
+      "size": 150.0
+    },
+    {
+      "x": 931.0,
+      "y": 438.0,
+      "size": 120.0
+    }
+  ]
+}

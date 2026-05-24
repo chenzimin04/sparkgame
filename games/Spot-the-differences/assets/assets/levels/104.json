@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "green_clock_a.jpg",
+  "image2": "green_clock_b.jpg",
+  "differences":
+  [
+    {
+      "x": 32.0,
+      "y": 141.0,
+      "size": 95.0
+    },
+    {
+      "x": 563.0,
+      "y": 63.0,
+      "size": 80.0
+    },
+    {
+      "x": 526.0,
+      "y": 269.0,
+      "size": 70.0
+    },
+    {
+      "x": 521.0,
+      "y": 429.0,
+      "size": 70.0
+    },
+    {
+      "x": 929.0,
+      "y": 209.0,
+      "size": 70.0
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+   "resolution":"standard",
+   "image1":"cosmonaut_put_flag_a.jpg",
+   "image2":"cosmonaut_put_flag_b.jpg",
+   "differences":[
+      {
+         "x":147.5,
+         "y":72.0,
+         "size":103.1
+      },
+      {
+         "x":566.5,
+         "y":320.0,
+         "size":147.20000000000002
+      },
+      {
+         "x":708.5,
+         "y":482.0,
+         "size":122.7
+      },
+      {
+         "x":986.5,
+         "y":378.0,
+         "size":147.20000000000002
+      },
+      {
+         "x":892.5,
+         "y":612.0,
+         "size":230.5
+      }
+   ]
+}

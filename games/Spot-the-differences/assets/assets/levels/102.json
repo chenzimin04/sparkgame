@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "gnome_in_garden_a.jpg",
+  "image2": "gnome_in_garden_b.jpg",
+  "differences":
+  [
+    {
+      "x": 95.0,
+      "y": 225.0,
+      "size": 120.0
+    },
+    {
+      "x": 238.0,
+      "y": 446.0,
+      "size": 100.0
+    },
+    {
+      "x": 564.0,
+      "y": 125.0,
+      "size": 50.0
+    },
+    {
+      "x": 870.0,
+      "y": 214.0,
+      "size": 90.0
+    },
+    {
+      "x": 974.0,
+      "y": 499.0,
+      "size": 140.0
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "resolution": "standard",
+  "image1": "mouse_merchant_a.jpg",
+  "image2": "mouse_merchant_b.jpg",
+  "differences":
+  [
+    {
+      "x": 306.0,
+      "y": 304.0,
+      "size": 140.0
+    },
+    {
+      "x": 265.0,
+      "y": 617.0,
+      "size": 130.0
+    },
+    {
+      "x": 563.0,
+      "y": 113.0,
+      "size": 210.0
+    },
+    {
+      "x": 703.0,
+      "y": 596.0,
+      "size": 190.0
+    }
+  ]
+}

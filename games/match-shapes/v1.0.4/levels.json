@@ -1,0 +1,255 @@
+{
+	"1": {
+		"Targets": {
+			"Block_1_Merges" : 6 ,
+			"Block_1_Places" : 6 ,
+			"Score" : 2000
+		},
+		
+		"Gifts" : {
+			"Currency" : 50
+		}
+	},
+	
+	"2": {
+		"Targets": {
+			"Merge_4_BlocksInOneMove" : 1 ,
+			"Block_2_Places" : 12 ,
+			"Score" : 5000
+		},
+
+		"Gifts" : {
+			"Currency" : 80
+		}
+	},
+	
+	"3": {
+		"Targets": {
+			"Block_2_Merges" : 6 ,
+			"Block_3_Places" : 10 ,
+			"ChainReactions" : 2
+		},
+
+		"Gifts" : {
+			"Currency" : 50 ,
+			"Item3" : 1
+		}
+	},
+	
+	"4": {
+		"Targets": {
+			"Score" : 25000 ,
+			"ChainReactions" : 6 ,
+			"Block_4_Places" : 12
+		},
+
+		"Gifts" : {
+			"Currency" : 120
+		}
+	},
+	
+	"5": {
+		"Targets": {
+			"Block_4_Merges" : 8 ,
+			"Merge_4_BlocksInOneMove" : 1 ,
+			"Block_3_Streaks" : 1
+		},
+
+		"Gifts" : {
+			"Item1" : 1 , 
+			"Item2" : 1
+		}
+	},
+	
+	"6": {
+		"Targets": {
+			"Block_2_Merges" : 10 ,
+			"Block_5_Streaks" : 1 ,
+			"Block_1_Places" : 15
+		},
+
+		"Gifts" : {
+			"Currency" : 150
+		}
+	},
+	
+	"7": {
+		"Targets": {
+			"Block_5_Merges" : 6 ,
+			"Block_5_Places" : 4 ,
+			"ChainReactions" : 4
+		},
+
+		"Gifts" : {
+			"Currency" : 80 ,
+			"Item3" : 1
+		}
+	},
+	
+	"8": {
+		"Targets": {
+			"Block_3_Merges" : 12 ,
+			"ChainReactions" : 6 ,
+			"Score" : 10000
+		},
+
+		"Gifts" : {
+			"Item1" : 1 , 
+			"Item2" : 1 , 
+			"Item3" : 1 
+		}
+	},
+	
+	"9": {
+		"Targets": {
+			"Block_4_Merges" : 12 ,
+			"Merge_4_BlocksInOneMove" : 1 ,
+			"Block_6_Places" : 2
+		},
+
+		"Gifts" : {
+			"Item1" : 3
+		}
+	},
+	
+	"10": {
+		"Targets": {
+			"ChainReactions" : 8 ,
+			"Block_6_Streaks" : 1 ,
+			"Merge_5_BlocksInOneMove" : 1
+		},
+
+		"Gifts" : {
+			"Currency" : 120 , 
+			"Item2" : 3
+		}
+	},
+	
+	"11": {
+		"Targets": {
+			"Merge_6_BlocksInOneMove" : 1 ,
+			"Block_7_Streaks" : 1 ,
+			"Score" : 15000
+		},
+
+		"Gifts" : {
+			"Currency" : 150
+		}
+	},
+	
+	"12": {
+		"Targets": {
+			"Block_2_Places" : 10 ,
+			"Block_4_Places" : 12 ,
+			"ChainReactions" : 4
+		},
+
+		"Gifts" : {
+			"Item3" : 3
+		}
+	},
+	
+	"13": {
+		"Targets": {
+			"Block_2_Merges" : 7 ,
+			"Block_7_Places" : 3 ,
+			"Score" : 20000
+		},
+
+		"Gifts" : {
+			"Currency" : 200,
+			"Item1" : 1
+		}
+	},
+	
+	"14": {
+		"Targets": {
+			"Merge_5_BlocksInOneMove" : 1 ,
+			"Block_3_Streaks" : 1 ,
+			"ChainReactions" : 10
+		},
+
+		"Gifts" : {
+			"Item1" : 1 , 
+			"Item2" : 1 , 
+			"Item3" : 1 
+		}
+	},
+	
+	"15": {
+		"Targets": {
+			"Item_3_Uses" : 1 ,
+			"Block_6_Streaks" : 1 ,
+			"Score" : 30000
+		},
+
+		"Gifts" : {
+			"Item1" : 3 , 
+			"Item3" : 2 
+		}
+	},
+	
+	"16": {
+		"Targets": {
+			"Item_2_Uses" : 1 ,
+			"ChainReactions" : 10 ,
+			"Merge_5_BlocksInOneMove" : 2
+		},
+
+		"Gifts" : {
+			"Currency" : 220
+		}
+	},
+	
+	"17": {
+		"Targets": {
+			"Block_3_Merges" : 10 ,
+			"Block_7_Places" : 5 ,
+			"Score" : 35000
+		},
+
+		"Gifts" : {
+			"Currency" : 250
+		}
+	},
+	
+	"18": {
+		"Targets": {
+			"Block_5_Merges" : 10 ,
+			"Block_6_Places" : 10 ,
+			"ChainReactions" : 20
+		},
+
+		"Gifts" : {
+			"Currency" : 300 ,
+			"Item2" : 2
+		}
+	},
+	
+	"19": {
+		"Targets": {
+			"Block_7_Merges" : 3 ,
+			"Merge_7_BlocksInOneMove" : 1 ,
+			"Score" : 10000
+		},
+
+		"Gifts" : {
+			"Item1" : 2 ,
+			"Item2" : 2 
+		}
+	},
+	
+	"20": {
+		"Targets": {
+			"Block_8_Merges" : 12 ,
+			"ChainReactions" : 30 ,
+			"Score" : 30000
+		},
+
+		"Gifts" : {
+			"Currency" : 300 ,
+			"Item1" : 2 ,
+			"Item2" : 2 
+		}
+	}
+}

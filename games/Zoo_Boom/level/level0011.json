@@ -1,0 +1,19 @@
+ {
+	"size":8,
+	"stars":{"avg":13, "top":22 },
+	"add":[
+		{ "x":2, "y":6, "type":"ANVIL", "count": true },		
+		{ "x":3, "y":6, "type":"FAT_ANVIL", "count": true },
+		{ "x":5, "y":6, "type":"ANVIL", "count": true }
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_RED","GEM_GREEN","GEM_YELLOW"],
+	"field":[ 
+		"oooxxooo",
+		"ooxxxxoo",
+		"xxxxxxxx",
+		"xxxxxxxx",
+		"xxxxxxxx",
+		"xxxxxxxx",
+		"xxxxxxxx",
+		"xxxxxxxx"]
+ }

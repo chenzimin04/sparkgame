@@ -1,0 +1,118 @@
+
+skel_octopus_hand2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images1/d1
+  rotate: false
+  xy: 821, 103
+  size: 102, 146
+  orig: 102, 146
+  offset: 0, 0
+  index: -1
+images2/d1
+  rotate: false
+  xy: 821, 103
+  size: 102, 146
+  orig: 102, 146
+  offset: 0, 0
+  index: -1
+images1/d4
+  rotate: false
+  xy: 387, 44
+  size: 132, 205
+  orig: 132, 205
+  offset: 0, 0
+  index: -1
+images1/d5
+  rotate: false
+  xy: 924, 166
+  size: 91, 83
+  orig: 91, 83
+  offset: 0, 0
+  index: -1
+images1/d7
+  rotate: false
+  xy: 748, 1
+  size: 78, 81
+  orig: 78, 81
+  offset: 0, 0
+  index: -1
+images1/e2
+  rotate: true
+  xy: 653, 19
+  size: 63, 94
+  orig: 63, 94
+  offset: 0, 0
+  index: -1
+images1/e3
+  rotate: true
+  xy: 387, 7
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+images1/e4
+  rotate: false
+  xy: 1, 27
+  size: 192, 222
+  orig: 192, 222
+  offset: 0, 0
+  index: -1
+images1/e5
+  rotate: false
+  xy: 653, 83
+  size: 83, 166
+  orig: 83, 166
+  offset: 0, 0
+  index: -1
+images2/d4
+  rotate: false
+  xy: 520, 44
+  size: 132, 205
+  orig: 132, 205
+  offset: 0, 0
+  index: -1
+images2/d5
+  rotate: false
+  xy: 924, 82
+  size: 91, 83
+  orig: 91, 83
+  offset: 0, 0
+  index: -1
+images2/d7
+  rotate: false
+  xy: 827, 21
+  size: 78, 81
+  orig: 78, 81
+  offset: 0, 0
+  index: -1
+images2/e2
+  rotate: true
+  xy: 906, 18
+  size: 63, 94
+  orig: 63, 94
+  offset: 0, 0
+  index: -1
+images2/e3
+  rotate: false
+  xy: 1016, 246
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+images2/e4
+  rotate: false
+  xy: 194, 27
+  size: 192, 222
+  orig: 192, 222
+  offset: 0, 0
+  index: -1
+images2/e5
+  rotate: false
+  xy: 737, 83
+  size: 83, 166
+  orig: 83, 166
+  offset: 0, 0
+  index: -1

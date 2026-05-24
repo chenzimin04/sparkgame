@@ -1,0 +1,370 @@
+
+Jessica_1.webp
+size: 1559,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Craig-Mouth-AAA
+  rotate: true
+  xy: 833, 117
+  size: 118, 70
+  orig: 118, 70
+  offset: 0, 0
+  index: -1
+Craig-Mouth-idle
+  rotate: true
+  xy: 1342, 89
+  size: 57, 34
+  orig: 57, 34
+  offset: 0, 0
+  index: -1
+Craig-Mouth-open
+  rotate: true
+  xy: 1416, 154
+  size: 81, 35
+  orig: 81, 35
+  offset: 0, 0
+  index: -1
+Craig-Mouth-sad
+  rotate: true
+  xy: 1067, 64
+  size: 71, 34
+  orig: 71, 34
+  offset: 0, 0
+  index: -1
+Jessica_Shadow
+  rotate: false
+  xy: 905, 137
+  size: 326, 98
+  orig: 326, 98
+  offset: 0, 0
+  index: -1
+Tackle-Effect-Base
+  rotate: true
+  xy: 469, 12
+  size: 223, 95
+  orig: 223, 95
+  offset: 0, 0
+  index: -1
+Tackle-Effect-Particle
+  rotate: true
+  xy: 469, 2
+  size: 8, 12
+  orig: 10, 14
+  offset: 1, 1
+  index: -1
+Tackle-Effect-White
+  rotate: true
+  xy: 776, 60
+  size: 175, 55
+  orig: 175, 55
+  offset: 0, 0
+  index: -1
+jessica-Hip-light
+  rotate: false
+  xy: 1391, 42
+  size: 26, 52
+  orig: 26, 52
+  offset: 0, 0
+  index: -1
+jessica-eyeball-L
+  rotate: true
+  xy: 566, 9
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+jessica-eyeball-R
+  rotate: true
+  xy: 603, 9
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+jessica-eyebrow-L
+  rotate: false
+  xy: 675, 2
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1
+jessica-eyebrow-R
+  rotate: false
+  xy: 640, 13
+  size: 33, 12
+  orig: 33, 12
+  offset: 0, 0
+  index: -1
+jessica-eyebrow-sad-L
+  rotate: false
+  xy: 711, 14
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+jessica-eyebrow-sad-R
+  rotate: false
+  xy: 675, 14
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+jessica-eyes-L
+  rotate: false
+  xy: 970, 61
+  size: 47, 74
+  orig: 47, 74
+  offset: 0, 0
+  index: -1
+jessica-eyes-R
+  rotate: true
+  xy: 776, 2
+  size: 56, 76
+  orig: 56, 76
+  offset: 0, 0
+  index: -1
+jessica-hair-1
+  rotate: true
+  xy: 249, 9
+  size: 226, 218
+  orig: 226, 218
+  offset: 0, 0
+  index: -1
+jessica-hair-2
+  rotate: false
+  xy: 566, 27
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+jessica-hair-3
+  rotate: true
+  xy: 1304, 3
+  size: 81, 85
+  orig: 81, 85
+  offset: 0, 0
+  index: -1
+jessica-hand-Finger-L
+  rotate: false
+  xy: 1442, 5
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+jessica-hand-Finger-L hold
+  rotate: true
+  xy: 1518, 50
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+jessica-hand-Finger-R
+  rotate: false
+  xy: 1501, 195
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+jessica-hand-Finger-close-L
+  rotate: true
+  xy: 1493, 99
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+jessica-hand-Finger-close-R
+  rotate: false
+  xy: 1419, 101
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+jessica-hand-Finger-close-R1
+  rotate: false
+  xy: 1470, 49
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+jessica-hand-Finger-close-up-R
+  rotate: false
+  xy: 1252, 77
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+jessica-hand-Finger-fall-L
+  rotate: true
+  xy: 1147, 68
+  size: 67, 35
+  orig: 67, 35
+  offset: 0, 0
+  index: -1
+jessica-hand-Finger-fall-R
+  rotate: false
+  xy: 984, 2
+  size: 96, 57
+  orig: 96, 57
+  offset: 0, 0
+  index: -1
+jessica-hand-Finger-open-L
+  rotate: false
+  xy: 942, 4
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+jessica-hand-Finger-open-R
+  rotate: false
+  xy: 1126, 7
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+jessica-hand-L
+  rotate: true
+  xy: 1217, 10
+  size: 57, 85
+  orig: 57, 85
+  offset: 0, 0
+  index: -1
+jessica-hand-L-hold
+  rotate: true
+  xy: 833, 60
+  size: 55, 83
+  orig: 55, 83
+  offset: 0, 0
+  index: -1
+jessica-hand-R
+  rotate: false
+  xy: 1318, 148
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+jessica-hand-R1
+  rotate: false
+  xy: 1368, 150
+  size: 46, 85
+  orig: 46, 85
+  offset: 0, 0
+  index: -1
+jessica-head
+  rotate: true
+  xy: 2, 5
+  size: 230, 245
+  orig: 230, 245
+  offset: 0, 0
+  index: -1
+jessica-hip
+  rotate: false
+  xy: 1184, 69
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+jessica-hip-1
+  rotate: false
+  xy: 1419, 48
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+jessica-leg-L
+  rotate: false
+  xy: 1453, 185
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+jessica-leg-R
+  rotate: false
+  xy: 854, 3
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+jessica-leg-Shorts-L
+  rotate: false
+  xy: 1019, 64
+  size: 46, 71
+  orig: 46, 71
+  offset: 0, 0
+  index: -1
+jessica-leg-Shorts-R
+  rotate: false
+  xy: 918, 60
+  size: 50, 75
+  orig: 50, 75
+  offset: 0, 0
+  index: -1
+jessica-mouth
+  rotate: true
+  xy: 905, 3
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+jessica-shoe-L
+  rotate: true
+  xy: 1177, 2
+  size: 64, 38
+  orig: 64, 38
+  offset: 0, 0
+  index: -1
+jessica-shoe-R
+  rotate: true
+  xy: 1103, 67
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+tint-jessica-body
+  rotate: false
+  xy: 1233, 145
+  size: 83, 90
+  orig: 83, 90
+  offset: 0, 0
+  index: -1
+tint-jessica-shoulder-L
+  rotate: true
+  xy: 1501, 146
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+tint-jessica-shoulder-L-hold
+  rotate: true
+  xy: 1493, 2
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+tint-jessica-shoulder-R
+  rotate: false
+  xy: 1082, 3
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+tint-jessica-shoulder-R1
+  rotate: false
+  xy: 1300, 86
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+tint-jessica-socks-L
+  rotate: false
+  xy: 1391, 3
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+tint-jessica-socks-R
+  rotate: true
+  xy: 1378, 96
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1

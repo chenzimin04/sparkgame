@@ -1,0 +1,19 @@
+
+
+{
+  "resolution": "standard",
+  "image1": "aquarium_a.jpg",
+  "image2": "aquarium_b.jpg",
+  "differences": [
+      {
+          "x": 652.0,
+          "y": 176.0,
+          "size": 150.0
+      },
+      {
+          "x": 586.0,
+          "y": 438.0,
+          "size": 250.0
+      }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "retro_kitchen_a.jpg",
+  "image2": "retro_kitchen_b.jpg",
+  "differences":
+  [
+    {
+      "x": 253.0,
+      "y": 249.0,
+      "size": 120.0
+    },
+    {
+      "x": 459.0,
+      "y": 423.0,
+      "size": 70.0
+    },
+    {
+      "x": 562.0,
+      "y": 448.0,
+      "size": 130.0
+    },
+    {
+      "x": 735.0,
+      "y": 224.0,
+      "size": 100.0
+    },
+    {
+      "x": 968.0,
+      "y": 234.0,
+      "size": 70.0
+    }
+  ]
+}

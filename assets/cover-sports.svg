@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10253c"/>
+      <stop offset="1" stop-color="#325f9c"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" fill="url(#bg)"/>
+  <path d="M0 325c104-34 170-25 264 14 63 26 121 28 189 8 67-20 115-19 187 7v66H0Z" fill="#19344f"/>
+  <g fill="#ffffff" opacity="0.15">
+    <circle cx="98" cy="99" r="7"/><circle cx="137" cy="175" r="12"/><circle cx="466" cy="121" r="8"/><circle cx="520" cy="160" r="7"/>
+  </g>
+  <text x="48" y="96" fill="#ffffff" font-size="66" font-family="Segoe UI, Arial, sans-serif" font-weight="700">BASKETBALL</text>
+  <text x="49" y="157" fill="#dbe9ff" font-size="66" font-family="Segoe UI, Arial, sans-serif" font-weight="700">DAILY</text>
+  <circle cx="342" cy="194" r="18" fill="#f5952d"/>
+  <path d="M336 178c13 12 11 27 0 33M347 178c-14 9-18 22-9 34M325 193h35" stroke="#8c4a1d" stroke-width="2"/>
+  <path d="M528 204c0-51 41-92 92-92" stroke="#8ad7ff" stroke-width="10" fill="none"/>
+  <path d="M620 204v67" stroke="#8ad7ff" stroke-width="8"/>
+  <path d="M561 237h60l-9 12h-42z" fill="none" stroke="#8ad7ff" stroke-width="8"/>
+  <path d="M566 251h48" stroke="#8ad7ff" stroke-width="6"/>
+</svg>

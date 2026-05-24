@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "girl_white_hair_a.jpg",
+  "image2": "girl_white_hair_b.jpg",
+  "differences":
+  [
+    {
+      "x": 696.0,
+      "y": 41.0,
+      "size": 70.0
+    },
+    {
+      "x": 669.0,
+      "y": 127.0,
+      "size": 80.0
+    },
+    {
+      "x": 849.0,
+      "y": 251.0,
+      "size": 110.0
+    },
+    {
+      "x": 516.0,
+      "y": 263.0,
+      "size": 90.0
+    },
+    {
+      "x": 412.0,
+      "y": 153.0,
+      "size": 50.0
+    }
+  ]
+}

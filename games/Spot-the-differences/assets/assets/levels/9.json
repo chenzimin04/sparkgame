@@ -1,0 +1,18 @@
+{
+  "resolution": "standard",
+  "image1": "shelf_a.jpg",
+  "image2": "shelf_b.jpg",
+  "differences":
+  [
+    {
+      "x": 283.0,
+      "y": 237.0,
+      "size": 130.0
+    },
+    {
+      "x": 718.0,
+      "y": 530.0,
+      "size": 130.0
+    }
+  ]
+}

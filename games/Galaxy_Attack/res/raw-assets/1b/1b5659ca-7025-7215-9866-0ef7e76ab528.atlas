@@ -1,0 +1,20 @@
+
+skel_handguide.png
+size: 643,213
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e (2)
+  rotate: false
+  xy: 1, 10
+  size: 417, 202
+  orig: 417, 202
+  offset: 0, 0
+  index: -1
+e (3)
+  rotate: false
+  xy: 419, 1
+  size: 223, 211
+  orig: 223, 211
+  offset: 0, 0
+  index: -1

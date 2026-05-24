@@ -1,0 +1,21 @@
+ {
+	"size":9,
+	"stars":{"avg":4, "top":9 },
+	"moves":37,
+	"add":[
+		{ "x":0, "y":0, "dy":9, "dx":4, "type":"COIN", "count":true },
+		
+		{ "x":0, "y":0, "dy":9, "dx":4, "type":"SOFT_CAGE", "count":true }
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_RED","GEM_YELLOW","GEM_PURPLE"],
+	"field":[ 
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx"]
+ }

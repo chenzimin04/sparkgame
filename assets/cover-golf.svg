@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f3b78"/>
+      <stop offset="0.55" stop-color="#1d7ed6"/>
+      <stop offset="1" stop-color="#8ae36d"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="0.7" cy="0.22" r="0.5">
+      <stop offset="0" stop-color="#fff6b0" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#fff6b0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="640" height="420" fill="url(#bg)"/>
+  <rect width="640" height="420" fill="url(#sun)"/>
+  <path d="M0 292C91 249 160 270 239 300c80 31 136 36 224 12 60-17 111-21 177 5V420H0Z" fill="#61bc4c"/>
+  <path d="M0 330c92-38 165-31 258 8 76 31 135 33 212 9 57-18 110-14 170 13v60H0Z" fill="#3d9339"/>
+  <circle cx="214" cy="266" r="60" fill="#fff"/>
+  <circle cx="214" cy="266" r="8" fill="#d9d9d9"/>
+  <g fill="#d9d9d9">
+    <circle cx="188" cy="242" r="5"/><circle cx="219" cy="228" r="5"/><circle cx="247" cy="248" r="5"/>
+    <circle cx="184" cy="276" r="5"/><circle cx="229" cy="287" r="5"/><circle cx="216" cy="251" r="5"/>
+  </g>
+  <path d="M248 230 486 91" stroke="#fff2b0" stroke-width="16" stroke-linecap="round" opacity="0.55"/>
+  <path d="M258 245 506 105" stroke="#fff" stroke-width="10" stroke-linecap="round" opacity="0.8"/>
+  <path d="M476 287V200" stroke="#7f2d18" stroke-width="5"/>
+  <path d="M476 200 509 209 476 219Z" fill="#ff544d"/>
+  <text x="354" y="170" fill="#fff3bf" font-size="78" font-family="Segoe UI, Arial, sans-serif" font-weight="800" transform="rotate(-14 354 170)">CHAMPION</text>
+  <text x="352" y="236" fill="#ffffff" font-size="66" font-family="Segoe UI, Arial, sans-serif" font-weight="800" transform="rotate(-14 352 236)">GOLF</text>
+</svg>

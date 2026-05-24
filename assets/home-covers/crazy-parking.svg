@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380">
+  <defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#86b9ff"/><stop offset="1" stop-color="#f0e6ff"/></linearGradient></defs>
+  <rect width="640" height="380" fill="url(#sky)"/>
+  <path d="M0 255h640v125H0z" fill="#6c5b73"/>
+  <path d="M0 242h640" stroke="#f7ecff" stroke-width="5" opacity=".55"/>
+  <rect x="402" y="118" width="16" height="92" rx="8" fill="#656a82"/><rect x="412" y="126" width="38" height="38" rx="19" fill="#68a8ff"/><text x="425" y="154" fill="#fff" font-size="22" font-family="Segoe UI, Arial, sans-serif" font-weight="800">P</text>
+  <path d="M104 246c0-35 31-64 70-64h88c21 0 36 18 36 39v55H104Z" fill="#f8f3f7"/>
+  <path d="M142 184h104c10 0 18 8 18 18v17H122l20-35Z" fill="#d9eefb"/><circle cx="164" cy="248" r="18" fill="#26242f"/><circle cx="244" cy="248" r="18" fill="#26242f"/>
+  <path d="M520 267 560 212 600 267Z" fill="#ffa437"/><path d="M536 252h48" stroke="#fff" stroke-width="6"/><path d="M548 232h24" stroke="#fff" stroke-width="6"/>
+  <text x="54" y="82" fill="#ffffff" font-size="56" font-family="Segoe UI, Arial, sans-serif" font-weight="800">CRAZY PARKING</text>
+</svg>

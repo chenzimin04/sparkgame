@@ -1,0 +1,146 @@
+
+skel_mainplane_3.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 1671, 213
+  size: 61, 42
+  orig: 61, 42
+  offset: 0, 0
+  index: -1
+010006
+  rotate: true
+  xy: 915, 96
+  size: 159, 160
+  orig: 159, 160
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1574, 206
+  size: 49, 96
+  orig: 49, 96
+  offset: 0, 0
+  index: -1
+bz002
+  rotate: true
+  xy: 729, 64
+  size: 32, 115
+  orig: 32, 115
+  offset: 0, 0
+  index: -1
+feijig
+  rotate: false
+  xy: 729, 97
+  size: 185, 158
+  orig: 185, 158
+  offset: 0, 0
+  index: -1
+fury_left
+  rotate: false
+  xy: 1, 26
+  size: 183, 229
+  orig: 183, 229
+  offset: 0, 0
+  index: -1
+fury_left副本
+  rotate: false
+  xy: 185, 26
+  size: 183, 229
+  orig: 183, 229
+  offset: 0, 0
+  index: -1
+fury_tale
+  rotate: true
+  xy: 1219, 108
+  size: 15, 41
+  orig: 15, 41
+  offset: 0, 0
+  index: -1
+huo
+  rotate: false
+  xy: 1219, 124
+  size: 145, 131
+  orig: 145, 131
+  offset: 0, 0
+  index: -1
+jetpack
+  rotate: false
+  xy: 1365, 137
+  size: 63, 118
+  orig: 63, 118
+  offset: 0, 0
+  index: -1
+left_head
+  rotate: true
+  xy: 648, 8
+  size: 30, 57
+  orig: 30, 57
+  offset: 0, 0
+  index: -1
+left_jet
+  rotate: true
+  xy: 553, 1
+  size: 37, 94
+  orig: 37, 94
+  offset: 0, 0
+  index: -1
+left_machine
+  rotate: false
+  xy: 1429, 168
+  size: 61, 87
+  orig: 61, 87
+  offset: 0, 0
+  index: -1
+left_wing
+  rotate: true
+  xy: 1733, 213
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+qq1
+  rotate: false
+  xy: 369, 26
+  size: 183, 229
+  orig: 183, 229
+  offset: 0, 0
+  index: -1
+qq2
+  rotate: false
+  xy: 553, 39
+  size: 175, 216
+  orig: 175, 216
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 1076, 107
+  size: 142, 148
+  orig: 142, 148
+  offset: 0, 0
+  index: -1
+quan1-1
+  rotate: true
+  xy: 1782, 210
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+tale
+  rotate: false
+  xy: 1429, 137
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+turbo
+  rotate: false
+  xy: 1491, 190
+  size: 82, 65
+  orig: 82, 65
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,170 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 677,
+				"x": 385,
+				"var": "pngBg",
+				"top": 0,
+				"skin": "images/solider/icon_bg.png",
+				"right": 0,
+				"left": 0,
+				"bottom": 0,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 3
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 96,
+				"x": 70,
+				"width": 140,
+				"var": "boxGuide",
+				"height": 192,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 201
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 167,
+				"x": 0,
+				"width": 750,
+				"var": "centerBox",
+				"mouseThrough": true,
+				"height": 1000
+			},
+			"compId": 4,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": -7,
+						"x": 205,
+						"width": 309,
+						"var": "btnSolider",
+						"skin": "images/solider/button_bq1.png",
+						"rotation": 0,
+						"label": "label",
+						"height": 75,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 195,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 15,
+								"x": 127,
+								"var": "iconSolider",
+								"skin": "images/solider/button_word_xb2.png",
+								"label": "label"
+							},
+							"compId": 197
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": -14,
+						"x": 544,
+						"width": 309,
+						"var": "btnEnemy",
+						"skin": "images/solider/button_bq2.png",
+						"sizeGrid": "0,14,0,14",
+						"rotation": 0,
+						"label": "label",
+						"height": 62,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 196,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 15,
+								"x": 127,
+								"var": "iconEnemy",
+								"skin": "images/solider/button_word_gw1.png",
+								"label": "label"
+							},
+							"compId": 198
+						}
+					]
+				},
+				{
+					"type": "List",
+					"props": {
+						"y": 50,
+						"x": 45,
+						"width": 680,
+						"var": "soliderList",
+						"height": 875
+					},
+					"compId": 193
+				},
+				{
+					"type": "List",
+					"props": {
+						"y": 50,
+						"x": 45,
+						"width": 680,
+						"visible": false,
+						"var": "enemyList",
+						"height": 875
+					},
+					"compId": 200
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 950,
+						"x": 341,
+						"var": "imgDown",
+						"skin": "images/solider/icon_fy.png"
+					},
+					"compId": 199
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 988,
+						"x": 380,
+						"var": "labWarring",
+						"text": "Soldier fragments are available for purchase in boutiques~",
+						"stroke": 1,
+						"fontSize": 24,
+						"color": "#ffffff",
+						"bold": true,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 202
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/solider/icon_bg.png",
+		"images/solider/button_bq1.png",
+		"images/solider/button_word_xb2.png",
+		"images/solider/button_bq2.png",
+		"images/solider/button_word_gw1.png",
+		"images/solider/icon_fy.png"
+	],
+	"loadList3D": []
+}

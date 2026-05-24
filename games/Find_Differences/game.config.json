@@ -1,0 +1,8 @@
+{
+"name":"Find The Differences",
+"packageName":"com.maoyu.findthedifferences",
+"versionCode":1000,
+"deviceOrientation":"portrait",
+"showStatusBar":false,
+"runtimeVersion":"1.4.0"
+}

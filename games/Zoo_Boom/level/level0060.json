@@ -1,0 +1,20 @@
+ {
+	"size":9,	
+	"moves":35,
+	"stars":{"avg":10, "top":19 },
+	"add":[
+		{ "x":2, "y":4, "dx":2, "dy":1, "type":"GEM_PURPLE" },
+		{ "x":0, "y":0, "dx":9, "dy":4, "type":"BLOB", "count": true }
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_RED","GEM_GREEN","GEM_PURPLE"],
+	"field":[ 
+		"ooooxoooo",
+		"oooxxxooo",
+		"ooxxxxxoo",
+		"oxxxxxxxo",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx"]
+ }

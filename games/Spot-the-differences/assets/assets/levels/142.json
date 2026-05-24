@@ -1,0 +1,32 @@
+{
+   "resolution":"standard",
+   "image1":"woman_eat_strawberry_b.jpg",
+   "image2":"woman_eat_strawberry_a.jpg",
+   "differences":[
+      {
+         "x":386.0,
+         "y":238.0,
+         "size":112.89999999999999
+      },
+      {
+         "x":670.0,
+         "y":298.0,
+         "size":323.6
+      },
+      {
+         "x":672.0,
+         "y":549.0,
+         "size":186.4
+      },
+      {
+         "x":884.0,
+         "y":106.0,
+         "size":161.9
+      },
+      {
+         "x":175.0,
+         "y":574.0,
+         "size":181.5
+      }
+   ]
+}

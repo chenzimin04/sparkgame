@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "two_women_room_a.jpg",
+  "image2": "two_women_room_b.jpg",
+  "differences":
+  [
+    {
+      "x": 108.0,
+      "y": 270.0,
+      "size": 100.0
+    },
+    {
+      "x": 237.0,
+      "y": 513.0,
+      "size": 50.0
+    },
+    {
+      "x": 464.0,
+      "y": 421.0,
+      "size": 90.0
+    },
+    {
+      "x": 519.0,
+      "y": 126.0,
+      "size": 150.0
+    },
+    {
+      "x": 762.0,
+      "y": 273.0,
+      "size": 80.0
+    }
+  ]
+}

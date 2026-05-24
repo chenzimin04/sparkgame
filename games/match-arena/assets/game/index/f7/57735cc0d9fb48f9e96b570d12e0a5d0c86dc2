@@ -1,0 +1,1034 @@
+ID,cs-CZ
+ad_failed.button,OK
+ad_failed.message,"Momentálně není k dispozici žádné video, zkuste to prosím později."
+ad_failed.title,Ojé...
+ad_magic.button,Sledovat
+ad_magic.message,Chcete si prohlédnout krátký klip a získat odměnu?
+ad_magic.title,Sladká prasátková magie
+android_app.button,Nainstalovat
+android_app.text.release,"Milí přátelé! S radostí vám oznamujeme, že naše hra je nyní dostupná na Androidu. Stáhněte si aplikaci!"
+android_app.title,Teď na Androidu!
+android_update.restart.no,Později
+android_update.restart.text,Nainstalovat nyní?
+android_update.restart.title,Aktualizace připravena!
+android_update.restart.yes,Ano
+avatar_already_changed.button,OK
+avatar_already_changed.message,Váš profilový obrázek byl již změněn. Profilový obrázek můžete změnit POUZE JEDNOU.
+bookmark.daily,Výzva
+bookmark.friends,Přátelé
+bookmark.settings,Nastavení
+booster_hint.cross,%booster_shop.hint.ingame.cross%
+booster_hint.hammer,%booster_shop.hint.ingame.hammer%
+booster_hint.hand,%booster_shop.hint.ingame.hand%
+booster_shop.buy,Získat #count
+booster_shop.hint.ingame.cross,"Použijte Kouzelnou hůlku, abyste odstranili jeden řádek a jeden sloupec kousků."
+booster_shop.hint.ingame.hammer,Odstraňte dlaždice pomocí Kladiva!
+booster_shop.hint.ingame.hand,"Použijte rukavici, abyste mohli prohodit libovolné sousední kameny!"
+booster_shop.hint.prelevel.add_bomb,Začněte jakoukoli úroveň s Bombou již na desce!
+booster_shop.hint.prelevel.add_line,Začněte jakoukoli úroveň s bonusovou linií již na ploše!
+booster_shop.hint.prelevel.add_omni,Začněte jakoukoli úroveň s bleskem již na desce!
+booster_shop.hint.prelevel.add_tint,Začněte jakoukoli úroveň s barvou již na desce!
+booster_shop.hint.prelevel.double_fly,Zdvojnásobte všechny Světlušky vytvořené během tohoto úrovně!
+booster_shop.title.ingame.cross,Kouzelná hůlka
+booster_shop.title.ingame.hammer,Kladivo
+booster_shop.title.ingame.hand,Rukavice
+booster_shop.title.prelevel.add_bomb,Booster Bomba
+booster_shop.title.prelevel.add_line,Booster Řádku
+booster_shop.title.prelevel.add_omni,Zesilovač blesku
+booster_shop.title.prelevel.add_tint,Zesilovač Barvy
+booster_shop.title.prelevel.double_fly,Zesilovač Svítilny x2
+chest_open.collection_complete,Sesbíráno!
+chest_open.ok,OK
+chest_opening.button,Skvělé!
+chest_opening.reward,Odměna
+conflict_popup.continue,Pokračovat
+conflict_popup.hint_syncing,Synchronizujeme...
+conflict_popup.skip,Pokračovat offline
+credits.art,Design umění
+credits.artists,"Velká láska našim grafickým umělcům
+za krásné postavičky avatara!"
+credits.gamedesign,Návrh hry
+credits.mentions,"Zvláštní poděkování
+našim přátelům
+"
+credits.programming,Programování
+credits.title,Naše tým!
+daily_help.button,OK
+daily_help.chest,Velká cena
+daily_help.reward,Jednorázová odměna
+daily_help.text,"Každý den hráči ukazují své dovednosti a soutěží na jedné úrovni.
+
+Nejvyšší skóre hráč obdrží cenu dne - Královskou korunu a truhlu drahokamů!
+"
+daily_help.title,Denní Výzva
+daily_reward.button,Skvělé!
+daily_reward.reward,Odměna
+daily_reward.title.place_1,Jste vítězem Denní výzvy!
+daily_reward.title.place_generic,"Denní výzva dokončena
+Vy jste se umístili na \##místě!"
+daily.drag_to_update,Tažením obnovit
+daily.epic_sunday_ribbon,Přátelská Výzva
+daily.finishes_in,Výzva končí za #čas
+daily.finishes_now,Výzva skončila!
+daily.high_score,Nový Rekord!
+daily.medal_chest_text,Sbírejte #amount medailí!
+daily.next_time,Další denní výzva začíná za #čas
+daily.next_time_now,Začal se nový denní výzva!
+daily.no_yesterday_yet,Nezúčastnili jste se předchozího denního výzvy.
+daily.play,Hrát
+daily.retry_submit,Zkusit znovu
+daily.rewards_tab,Denní výzvy odměny
+daily.rewards.bubble,"Sbírej hvězdy a medaile,
+aby sis otevřel truhly s poklady!"
+daily.score_not_accepted,"Tento výsledek nebude započítán do žebříčku, protože jste dohráli hru po skončení Denní výzvy."
+daily.star_chest_claim,Otevřít
+daily.star_chest_collected_text,Přijď zítra pro další truhlu
+daily.star_chest_text,Dokončete s 3 hvězdami 7 Denních Výzev za sebou!
+daily.submit_error,Nemohli jsme odeslat výsledky
+daily.today,Denní Výzva
+daily.today_mark,Dnes
+daily.update_error,Žádné připojení k internetu
+daily.wait_text,
+daily.watch_replay.button,Sledovat
+daily.watch_replay.text,Záznam hry
+daily.welcome_reward_first,%daily_help.text%
+daily.welcome_text,Hurá! Nová Denní Výzva začala!
+daily.yesterday,Včerejší Žebřík
+daily.yesterday_updating,Načítání výsledků...
+demo.finished.text,"Gratulujeme, dokončili jste zkušební verzi! Hrajte plnou verzi zdarma na <p class=""ma-link"">PecPoc.com<p class=""demo-hint"">Váš postup nebude ztracen."
+demo.nag.text,"Volné bonusy jsou k dispozici pouze ve plné verzi. Pokračujte ve hře ve plné verzi na <p class=""ma-link"">PecPoc.com<p class=""demo-hint"">Váš postup nebude ztracen."
+event_ny.next_in_hint,Získejte další dárek za: #čas
+event_ny.title,Novoroční dárky
+fake_ad.reward_in,Odměna za...
+fake_ad.tutorial,"Momentálně není k dispozici žádné video...
+Nebojte se, místo toho si užijme nějakou Prasátkovou magii!"
+fake_ad.your_ad_here,Vaše reklama zde
+fb_login_failed.message,Nepodařilo se připojit k Facebooku. Zkusit znovu?
+fb_notification.button,Připojit
+fb_notification.message,"Připojte se k Facebooku, abyste mohli synchronizovat svůj postup online!"
+fb_notification.no_post_hint,Nikdy nebudeme publikovat bez vašeho souhlasu.
+fb_notification.title,Uložte svůj postup
+feedback.failed.button,Pokračovat
+feedback.failed.message,"Nepodařilo se odeslat zpětnou vazbu.
+Zkontrolujte své připojení k internetu."
+feedback.failed.title,Ojé...
+feedback.ok.button,OK
+feedback.ok.message,"Obdrželi jsme vaši zpětnou vazbu.
+Děkujeme vám za pomoc s vylepšováním hry."
+feedback.ok.title,Zpětná vazba odeslána!
+friends_tab.failed_social.button,Zkontrolovat
+friends_tab.failed_social.text,"Potřebujeme zkontrolovat připojení, abychom aktualizovali seznam přátel."
+friends_tab.has_fb.button,Pozvat přátele
+friends_tab.has_fb.text,"Čím více máte přátel, tím více dostanete dárků!"
+friends_tab.no_fb.button,Připojit
+friends_tab.no_fb.hint,Nikdy nebudeme publikovat bez vašeho souhlasu.
+friends_tab.no_fb.text,Připojte se k Facebooku a získejte dary od přátel a sledujte jejich postup.
+friends_tab.no_permission.button,Ano
+friends_tab.no_permission.text,"Povolit přístup k seznamu přátel, abyste získali více dárků?"
+friends_tab.no_social.text,Připojte se k sociálním sítím a získávejte dary od přátel a sledujte jejich postup.
+friends_tab.no_y8.button,Připojit
+friends_tab.no_y8.text,Připojte se k Y8 a získejte dárky od přátel a sledujte jejich postup.
+friends_tab.ok_invite_button,Pozvat přátele
+friends_tab.ok_invite_gift_text,"Čím více máš přátel, tím více dárků dostaneš!"
+friends_tab.ok_invite_text,"Čím více máte přátel, tím více dostanete dárků!"
+friends_tab.title,Přátelé
+friends_tab.vk_friends_permission_button,Ano
+friends_tab.vk_friends_permission_text,"Povolit přístup k seznamu přátel, abyste získali více dárků?"
+friends_tab.vk_invite_button,Pozvat přátele
+friends_tab.vk_invite_text,"Čím více máte přátel, tím více dostanete dárků!"
+friends.gift.claim,Otevřít
+game_results.click_to_continue,Klikněte pro pokračování
+game_results.tap_to_continue,Klepněte pro pokračování
+game.click_to_continue,Klikněte pro pokračování
+game.info.ahead,JSTE #fmtnum KROKŮ PŘEDEVŠÍM
+game.info.behind,JSTE #fmtnum TAHŮ POZADU
+game.info.goals,Cíl
+game.info.moves,TAHY
+game.info.pause,POZASTAVENÍ
+game.info.undo,VRÁTIT
+game.pause.continue,"<font color=""\#408fda"">Pokračovat ve hře"
+game.pause.leave_forfeit,"<font color=""\#ff0000"">Ukončit hru"
+game.pause.leave_safe,Ukončit hru
+game.pause.title,Pauza
+game.shoutout.their_game_result,Skóre: #score
+game.shoutout.well_done,Skvěle!
+game.shoutout.your_game_result,Tvůj výsledek: #score
+game.tap_to_continue,Klepněte pro pokračování
+game.tutorial.continue,Pokračovat
+gamemode.capital.aquarium,RYBY
+gamemode.capital.bird,PTÁČCI
+gamemode.capital.bubble,Bubliny
+gamemode.capital.cats,KOŤATA
+gamemode.capital.chocolate,LAVA
+gamemode.capital.diamonds,DIAMANTY
+gamemode.capital.ducks,KACHNÍKOVÉ
+gamemode.capital.energy_cube_reciever,KRISTÁLY
+gamemode.capital.energycube,ŽELÉ
+gamemode.capital.fishes,MRKVE
+gamemode.capital.flower,KVĚTINKY
+gamemode.capital.food,ŠPENÁT
+gamemode.capital.fossils,CHOBOTNICE
+gamemode.capital.frog,ŽABIČKY
+gamemode.capital.grass,TRÁVA
+gamemode.capital.gum,LEPÍK
+gamemode.capital.honeybee,MEDVĚDI
+gamemode.capital.hotlava,LAVA
+gamemode.capital.ice,LED
+gamemode.capital.jam,ENERGIE
+gamemode.capital.jam_reciever,KRISTÁLY
+gamemode.capital.pearl,PERLY
+gamemode.capital.road,PRASÁTKO
+gamemode.capital.sausage,KLOBÁSY
+gamemode.capital.statue,PSI
+gamemode.capital.stone,KAMENY
+gamemode.capital.tasks,OBJEDNÁVKY
+gamemode.capital.tiles,TRÁVA
+gamemode.capital.waterfish,RYBY
+gamemode.capital.blooplet,BLOOPLETY
+gameresult.adventure.completed_continue,Pokračovat
+gameresult.adventure.leave,Odejít
+gameresult.adventure.play_next,Pokračovat
+gameresult.adventure.retry,Zkusit znovu
+gameresult.boosters,Vyberte si boostery
+gameresult.complete.line1,Úroveň
+gameresult.complete.line2,Hotovo!
+gameresult.continue,Pokračovat
+gameresult.daily.continue,Pokračovat
+gameresult.daily.leave,Ukončit
+gameresult.daily.retry,Hrát
+gameresult.dash,-
+gameresult.forfeit,Vzdali jste se!
+gameresult.map.continue,Pokračovat
+gameresult.map.retry,Zkusit znovu
+gameresult.pvp.continue,Pokračovat
+gameresult.pvp.play_another,Jiná úroveň
+gameresult.pvp.play_next,Jiná úroveň
+gameresult.pvp.rematch_lose,Opakování
+gameresult.pvp.rematch_win_draw,Hrát znovu
+gameresult.rematch,Opakování
+gameresult.rematch_bet,Sázka #bet
+gameresult.required_ticket,Požadováno
+gameresult.retry,Hrát znovu
+gameresult.rewards,Odměna
+gameresult.title.completed,"<font color=""\#47f05f"">Úroveň dokončena!"
+gameresult.title.draw,"<font color=""\#5885B8"">Remíza"
+gameresult.title.lose,"<font color=""\#ff5666"">Prohráli jste"
+gameresult.title.win,"<font color=""\#47f05f"">Vyhráli jste!"
+gameresult.vs,VS
+gameresults.inter_ad_in_large,#count hry až
+gameresults.inter_ad_in_small,#count her až
+gems_shop.title,Obchod s Drahokamy
+global.click_to_continue,Klikněte pro pokračování
+global.default_player_name,Hráč
+global.tap_to_continue,Klepněte pro pokračování
+home.hint_daiy,Vyzkoušejte Denní Výzvu
+home.hint_play_pvp,Můžete hrát duely i když vám došly životy!
+home.play,Hrát
+html.loading,Načítání
+iap_failed.button,OK
+iap_failed.message,Nákup se nezdařil.
+iap_need_facebook.message,Připojte se k Facebooku pro doplnění Drahokamů.
+iap_pending.button,OK
+iap_pending.message,Vaše nákup je zpracováván
+intro_screen.another_device,Kódem
+intro_screen.login_back,Zpět
+intro_screen.login_button,Přihlásit se
+intro_screen.login_fb,Facebook
+intro_screen.login_ok,Odnoklassniki
+intro_screen.login_singular,Přihlásit se
+intro_screen.login_vk,Vkontakte
+intro_screen.login_with,Přihlásit se pomocí
+intro_screen.login_y8,Y8
+intro_screen.login_yandex,Yandex
+intro_screen.new_player,Nový hráč
+introprofile.accept_avatar,Vybrat
+introprofile.accept_name,Pokračovat
+introprofile.editavatar,Vyberte profilový obrázek
+introprofile.editname,Zadejte své jméno
+invite_request.message,"Pojďme si zahrát nejlepší hru ""tři v řadě"" společně!"
+invite_request.title,"Vyberte si přátele, abyste společně hráli Skydom"
+level_popup.goals,Cíl
+level_popup.play,Hrát
+level_popup.prelevel_boosters,Vyberte si boostery
+level_popup.title,Úroveň #level
+level_popup.title_hard,Těžký
+level_popup.title_ultra_hard,Super těžký
+level_popup.title_very_hard,Velmi těžké
+link.support,https://Skydom.freshdesk.com/en/support/solutions
+link.support_beta,https://Skydombeta.freshdesk.com/en/support/solutions
+lives_shop.buy_all,Koupit 5
+lives_shop.hint,K pokračování ve hře Adventure potřebujete životy.
+lives_shop.recharge,Další život: #time
+lives_shop.title,Životy
+lives_shop.watch_ad_button,Sledovat
+lives_shop.watch_ad_text,Zdarma 1
+load_player.almost_done,Skoro hotovo...
+load_player.continue_offline,Pokračovat offline
+load_player.loading_save,Načítáme data hráče...
+load_player.loading_save_failed,Nelze načíst data hráče.
+load_player.loading_save_failed_in,"Nepodařilo se načíst data hráče.
+Zkusíme to znovu za #time...
+"
+load_player.logging_in,Přihlašuji se...
+load_player.logging_in_failed,Nelze se přihlásit.
+load_player.logging_in_failed_in,"Nepodařilo se přihlásit.
+Zkusíme to znovu za #time...
+"
+load_player.new_player,Jsem nový hráč
+load_player.retry_now,Zkusit znovu
+login_failed.button,Zkusit znovu
+login_failed.title,Selhalo připojení
+magic.click_to_continue,Klikněte pro pokračování
+magic.reward,Odměna
+magic.tap_to_continue,Klepněte pro pokračování
+map.gates_coming_soon,"Nové úrovně
+brzy přijdou!"
+match3.level_complete.line1,Všechny cíle
+match3.level_complete.line2,Dosáhnuté!
+match3.score_pve,#score/#required
+match3.shoutout.1_move,Poslední tah!
+match3.shoutout.2_moves,2 tahy
+match3.shoutout.5_moves,5 tahů
+match3.shoutout.no_moves,Žádné další tahy
+match3.shoutout.no_reshuffle,"Nelze znovu zamíchat
+Žádné možné tahy
+"
+merge.button.mine,Vybrat
+merge.button.their,Vybrat
+merge.description.account_merge,"Zdá se, že jste už hráli Skydom.
+Vyberte si preferovaný profil!"
+merge.description.ingame_conflict,%merge.description.login_conflict%
+merge.description.login_conflict,"Hráli jste z více zařízení.
+Vyberte preferované uložení."
+merge.hint.mine,místní
+merge.hint.their,ze serveru
+merge.title,Synchronizace postupu
+modal.adblock.button,OK
+modal.adblock.text,"Zjistili jsme, že používáte blokování reklam.<br>Prosím, vypněte blokování reklam na této stránce, abyste mohli sledovat video."
+modal.adblock.title,Blokování reklam
+modal.error.button,Obnovit
+modal.error.text,"Je nám líto, došlo k chybě. Prosím, obnovte stránku."
+modal.error.title,Jejda! Něco se pokazilo...
+modal.fb_login_proxy.button,Pokračovat
+modal.fb_login_proxy.text,Připojení k Facebooku
+modal.fb_login_proxy.title,
+modal.fb_purchase_proxy.button,Pokračovat
+modal.fb_purchase_proxy.gems,Drahokamy
+modal.first_login_failed.button,Zkusit znovu
+modal.first_login_failed.text,"Zdá se, že Skydom je momentálně nedostupný. Prosím, zkuste se znovu připojit později."
+modal.first_login_failed.title,Selhalo připojení
+modal.gpu_error.button,Více informací
+modal.gpu_error.text,"Zdá se, že je třeba povolit akceleraci GPU ve vašem prohlížeči, aby bylo možné spustit hru."
+modal.gpu_error.title,Hmm..
+modal.maintenance.button,OK
+modal.maintenance.text,Údržba bude provedena v<br> <b>#time</b><br> po dobu 3 hodin.<br>Cloudové uložení a synchronizace postupu nebude fungovat.
+modal.maintenance.title,Údržba
+modal.no_hardware_accel_ff.button,OK
+modal.no_hardware_accel_ff.text,"Váš prohlížeč hlásí problém s výkonem, hra může běžet velmi pomalu!
+
+Chcete-li to opravit, přečtěte si <a target=""_blank"" href=""https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features"">https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features</a>"
+modal.no_hardware_accel_ff.title,Problémy s výkonem
+modal.no_hardware_accel.button,OK
+modal.no_hardware_accel_vk.button,OK
+modal.no_hardware_accel.text,"Váš prohlížeč hlásí problém s výkonem, hra může běžet velmi pomalu!
+
+Chcete-li to opravit, přečtěte si <a target=""_blank""  href=""https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm"">https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm</a>
+"
+modal.no_hardware_accel_vk.text,"Váš prohlížeč hlásí problém s výkonem, hra může běžet velmi pomalu!
+
+Chcete-li opravit, přečtěte si <a target=""_blank"" href=""https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery"">https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery</a>
+"
+modal.no_hardware_accel.title,Problémy s výkonem
+modal.no_hardware_accel_vk.title,Problémy s výkonem
+modal.nolocalstorage.button,OK
+modal.nolocalstorage.text,"Vypadá to, že váš prohlížeč nám neumožňuje uložit hru. To může být způsobeno použitím režimu Incognito ve vašem prohlížeči.
+<p>
+Prosím, přihlašte se, abyste se vyhnuli ztrátě vašeho postupu!
+"
+modal.nolocalstorage.title,Režim Inkognito
+modal.oom.button,Více informací
+modal.oom.text,"Zdá se, že není dostatek paměti."
+modal.oom.title,Hmm..
+modal.out_of_sync.button,Obnovit
+modal.out_of_sync.text,"Zdá se, že máte Skydom otevřený ve více prohlížečích. <br>Pro pokračování ve hře v tomto okně obnovte stránku."
+modal.out_of_sync.title,Několik oken s Skydom?
+modal.vk_inapp_not_allowed.button,Přejít
+modal.vk_inapp_not_allowed.text,"Nákupy jsou k dispozici pouze na <a href=""https://m.vk.com/app7409298"" target=""_blank"">m.vk.com</a>"
+modal.vk_inapp_not_allowed.title,
+modal.wasm.button,Více informací
+modal.wasm.text,"Zdá se, že váš prohlížeč nepodporuje WebAssembly"
+modal.wasm.title,Hmm..
+modal.webgl.button,Více informací
+modal.webgl.text,"Zdá se, že váš prohlížeč nepodporuje WebGL."
+modal.webgl.title,Hmm..
+modal.yandexsdk.text,"Yandex SDK se nepodařilo správně načíst.
+
+Zkusit znovu?"
+modal.yandexsdk.title,Ojé
+modal.yandexsdk.button,OK
+name_already_changed.button,OK
+name_already_changed.message,Vaše jméno bylo již změněno. Můžete změnit své jméno POUZE JEDNOU.
+networks.hint,"Doporučujeme vám připojit se k sociálním sítím!
+ - Neztrácejte svůj postup ukládáním do cloudu
+ - Hrajte s přáteli a získávejte dary
+ - Nezveřejňujeme nic bez vašeho souhlasu
+"
+nickname.default,Hráč
+nickname.default_friend,Králík
+nickname.trainer,Trenér #nickname
+nickname.tutorial_001,Trenérka Anna
+nickname.tutorial_002,Trenér Jonny
+nickname.tutorial_003,Trenérka Polly
+nickname.you,Vy
+notification.daily_lead_1,👑 #Name vás předběhl(a) v Denní výzvě! Chcete si vrátit první místo?
+notification.daily_lead_2,👑 #Name převzal(a) vedení v Denní výzvě!
+notification.daily_lead_3,👑 Dnes je to v Denní výzvě horké! #Name si vybojoval první místo.
+notification.daily_lead_4,👑 #Name vás předběhl(a). Chcete si znovu vybojovat vedení v Soutěži?
+notification.daily_lead_5,"👑 Zdá se, že #Name právě předběhl(a) tě v Denní výzvě."
+notification.daily_lead.meta,"@{""variants"":5}"
+notification.reminder_1,😏 Noví soupeři čekají na nejperspektivnějšího hráče! 😎
+notification.reminder_10,👸🤴 Kdo bude dnešním vítězem Denní výzvy?
+notification.reminder_11,"🙄 Zdá se, že všichni už zapomněli, jak byli #PlayerName rozdrtit!"
+notification.reminder_12,💆 Není to skvělý den na hraní Skydomu? 💪
+notification.reminder_13,"🙈😬 Tady jsou pár kluků, kteří sní o tom, že vás porazí. Myslíte si, že mají šanci?"
+notification.reminder_14,🐰 Krtek má pro tebe dárek! 🎁
+notification.reminder_15,"😎 #PlayerName, je čas zvítězit znovu! 🕹"
+notification.reminder_16,👾👀 Je čas na přestávku a vyhrát několik her 🤗
+notification.reminder_17,🌟🌟🌟 Úrovně se samy nevyřeší! Zahrajeme si? 🥇😉
+notification.reminder_18,"#PlayerName, někdo se chce s tebou utkat. Myslíš, že se mu to podaří? 😬😬😬"
+notification.reminder_19,👋 Je čas si odpočinout a vyhrát párkrát? 🤔
+notification.reminder_2,Ne všichni ještě prohráli s #PlayerName! Dáš jim šanci?
+notification.reminder_20,🦄 Už jsi potkal/a našeho Duhového Jednorožce?
+notification.reminder_3,🐷 Prasátková magie čeká! 🐽
+notification.reminder_4,🙈 Už dlouho jsem neviděl nejlepšího hráče Match3! Ještě tu je? 👀
+notification.reminder_5,🏆 Už jste dnes vyhráli?
+notification.reminder_6,❤️❤️❤️❤️❤️ Všechny životy obnoveny! Je čas vyhrát!
+notification.reminder_7,"🖐🎟 5 tokenů čeká, až je využijete!"
+notification.reminder_8,🐰😍 Králíček ti připravil dárek! 🎁
+notification.reminder_9,👑💎 Začal se Denní Výzva! Kdo získá korunu a hromadu drahokamů?
+ny.button_claim,Otevřít dárek
+ny.button_next_in,Dar v: #time
+ok_login_failed.message,Nepodařilo se připojit k Odnoklassniki. Chcete to zkusit znovu?
+ok.share_tick,Sdílet
+out_of_moves.continue_buy_moves,Hrát #price
+out_of_moves.continue_watch,Sledovat
+out_of_moves.give_up,Vzdát se
+out_of_moves.press_to_view,"Klepnutím sem 
+zobrazíte plochu"
+out_of_moves.title.almost_there,Tak blízko...
+out_of_moves.title.regular,Došly tahy
+outofgems.button,Obchod
+outofgems.message,"Nemáš dostatek Drahokamů.
+Navštiv Obchod a získej nějaké další!"
+outofgems.title,Nedostatek Drahokamů
+page.loading.hint_1,Načítání...
+page.loading.hint_2,Efekty vykreslování 💎💎💎
+page.loading.hint_3,"Nebojte se, není to zaseklé! 😜"
+page.loading.hint_4,🚀 Hra se brzy načte! 🚀
+page.loading.hint_5,První načítání trvá trochu déle👌
+page.loading.hint_6,🔥 Už skoro hotovo...👾
+page.loading.hint_7,Ještě jenom malinko 😊
+placeholder.hint_daily,Dokončete 10 úrovní pro odemknutí!
+placeholder.timestring,12 h 34 min 56 sek
+placeholder.title_daily,"Denní výzva
+Uzamčeno
+"
+popup_name.accept_name,Pokračovat
+popup_name.not_now,Teď ne
+prelevel_text.002,"Sbírejte více <font color=""\#ff5503"">Žlutých Kousků</font> než váš protivník!"
+prelevel_text.004,"Sbírejte více <font color=""\#ff8800"">mrkví</font> než váš protivník!"
+prelevel_text.006,"Sesbírejte <font color=""\#4499ff"">Led</font> více než váš protivník!"
+promo_reforged.button,Vyžádat!
+promo_reforged.text,Hurá! Spustili jsme nový herní mod - Skydom Reforged! K oslavě spuštění dáváme zdarma Mega Booster pack! Chcete si ho vyzvednout?
+promo_reforged.title,Skydom Reforged!
+rate_us.description,Jak se vám líbí Skydom?
+rate_us.feedback.cancel,Teď ne
+rate_us.feedback.description,"Zadejte svůj e-mail, pokud byste chtěli obdržet odpověď."
+rate_us.feedback.email_hint,E-mail
+rate_us.feedback.message_hint,Jak můžeme vylepšit hru pro vás?
+rate_us.feedback.submit,Odeslat
+rate_us.star_1,Nesnášel jsem to
+rate_us.star_2,Nelíbilo se mi to
+rate_us.star_3,Je to v pořádku
+rate_us.star_4,Líbilo se mi to
+rate_us.star_5,Milovala to
+rate_us.submit,Odeslat
+rate_us.write_review.cancel,Teď ne
+rate_us.write_review.google_play,Podělte se o své myšlenky o hře nebo ji ohodnoťte na Google Play!
+rate_us.write_review.submit,Rád!
+rate_us.write_review.yandex,Podělte se o své myšlenky o hře nebo ji ohodnoťte na Yandex Games!
+rematch_pvp.asks_for_rematch_draw,#name chce další pokus
+rematch_pvp.asks_for_rematch_player_lose,#name nabízí znovu zápas!
+rematch_pvp.asks_for_rematch_player_won,#name chce znovu zápasit!
+reward.coins,Mince
+reward.gems,Drahokamy
+reward.lives,Životy
+reward.prelevel.add_bomb,Booster Bomba
+reward.prelevel.add_line,Booster Řádku
+reward.prelevel.add_omni,Zesilovač blesku
+reward.prelevel.add_tint,Zesilovač Barvy
+reward.prelevel.double_fly,Zesilovač Svítilny x2
+reward.tickets,Tokeny
+reward.undo,Vrácení
+search.cannot_connect,Žádné připojení k internetu
+search.failed,Ojé! Něco se pokazilo...
+search.loading,Načítání...
+search.playing_with_trainer,Hrajeme s trenérem
+search.readying,Protivník nalezen!
+search.readying_rematch,Připravte se!
+search.rejected,Soupeř utekl
+search.searching,Hledání protivníka...
+search.vs,VS
+search.waiting_opp,Čekání na protihráče...
+settings.change_avatar,Změnit Profilový Obrázek
+settings.change_avatar.connect_fb,Připojit
+settings.change_avatar.continue,Pokračovat
+settings.change_avatar.title,Vyberte si nový profilový obrázek
+settings.change_avatar.warning,"Poznámka: 
+- Můžete změnit svou profilovou fotku POUZE JEDNOU
+- Připojte se k Facebooku, abyste mohli použít profilovou fotku z Facebooku"
+settings.change_avatar.warning_no_fb,Poznámka: Svůj profilový obrázek můžete změnit POUZE JEDNOU.
+settings.change_name,Změnit Jméno
+settings.change_name.accept_name,Pokračovat
+settings.change_name.do_not_match,"Jména se neshodují. Prosím, zkuste to znovu."
+settings.change_name.edit,Zadejte nové jméno:
+settings.change_name.reenter,Zadejte své nové jméno znovu:
+settings.change_name.same_name,Nové jméno odpovídá existujícímu
+settings.change_name.too_long,Toto jméno je příliš dlouhé - limit 15 symbolů
+settings.change_name.too_short,Toto jméno je příliš krátké =)
+settings.change_name.warning,Poznámka: Můžete změnit své jméno POUZE JEDNOU.
+settings.confirm_avatar.cancel,Zrušit
+settings.confirm_avatar.change,Změnit
+settings.confirm_avatar.title,"Jsi si jistý, že chceš změnit svou profilovou fotku?
+Tvoje nová profilová fotka:
+"
+settings.confirm_avatar.warning,Poznámka: Můžete změnit svou profilovou fotku POUZE JEDNOU.
+settings.confirm_name.cancel,Zrušit
+settings.confirm_name.change,Potvrdit
+settings.confirm_name.title,"Jste si jisti, že chcete změnit své jméno? Vaše nové jméno bude:"
+settings.confirm_name.warning,Poznámka: Můžete změnit své jméno POUZE JEDNOU.
+settings.connect_fb,Připojit se k Facebooku
+settings.connect_ok,Připojit Odnoklassniki
+settings.connect_vk,Připojit VK
+settings.connect_y8,Připojit Y8
+settings.connect_yandex,Připojit Yandex
+settings.connected_fb,Facebook
+settings.connected_ok,Odnoklassniki
+settings.connected_vk,VK
+settings.connected_y8,Y8
+settings.connected_yandex,Yandex
+settings.coupon,Kód Promo
+settings.coupon_title,Kód Promo
+settings.coupon.enter,Použít
+settings.coupon.enter_hint,Zadejte zde svůj promo kód
+settings.coupon.invalid_code,"<font color=""\#e90047"">Tento kód je neplatný. Zkuste prosím jiný kód."
+settings.coupon.missing_code,"<font color=""\#e90047"">Zadejte svůj promo kód"
+settings.coupon.ok,Kód úspěšně použit!
+settings.credits,Zásluhy
+settings.eula,Podmínky služby
+settings.fb_hint,"Připojte se k Facebooku, abyste mohli hrát s přáteli a synchronizovat svůj postup."
+settings.general,OBECNÉ
+settings.generate_key,Vytvořit kód
+settings.invite_friends,Pozvat přátele
+settings.language,Jazyk
+settings.language_header,VYBERTE JAZYK
+settings.move_hints,Nápovědy
+settings.music,Hudba
+settings.networks,Připojení
+settings.networks_hint,"Připojte se k sociálním sítím, abyste mohli hrát s přáteli a synchronizovat svůj postup."
+settings.notifications,Oznámení
+settings.notifications.daily,Denní výzva
+settings.notifications.disable_all,Vypnout všechno
+settings.notifications.disable_night,Deaktivovat od 23:00 do 8:00
+settings.notifications.gifts,Dárky
+settings.notifications.others,Další připomínky
+settings.open_support,Podpora hráčů
+settings.open_vk_group,Skupina Hry
+settings.player_id,Zkopírovat ID hráče
+settings.policy,Zásady ochrany osobních údajů
+settings.rate_us,Hodnotit nás
+settings.report_problem,Nahlásit problém
+settings.sound,Zvuk
+settings.support,PODPORA
+settings.telegram_channel,Sledujte náš Telegram kanál
+settings.telegram_channel_hint,Všechny nejnovější zprávy o Skydom
+settings.telegram_support,Chat fanoušků na Telegramu
+settings.title,Nastavení
+settings.update,Aktualizovat
+settings.y8_hint,"Připojte se k Y8, abyste mohli synchronizovat svůj postup online!"
+settings.yandex_hint,"Připojte se k Yandexu, abyste mohli synchronizovat svůj postup online!"
+shop.gems_restored.accept,Výborně!
+shop.gems_restored.title,Nákup drahokamů dokončen
+shop.not_available,Nedostupné
+shop.remove_ads_remain_time,Reklamy odstraněny po #time
+shop.remove_ads_text,"Odstranit reklamy mezi úrovněmi
+s jakoukoli koupí
+"
+shop.remove_ads_timed,"Odstranění reklam mezi úrovněmi
+s jakoukoli koupí po dobu jednoho měsíce
+"
+social_notification.button,Připojit
+social_notification.message,"Připojte se k sociální síti, abyste mohli synchronizovat svůj postup online!"
+social_notification.no_post_hint,Nikdy nebudeme publikovat bez vašeho souhlasu.
+social_notification.title,Uložte svůj postup
+social_share.button,Sdílet
+social_share.chooser_hint,Sdílet přes
+social_share.message,"Ahoj! Už jsi viděl/a novou hru ""tři v řadě"" s reálnými soupeři? Stáhni si ji na https://PecPoc.com"
+social_share.subject,Podívejte se na novou zábavnou hru - Skydom
+social_share.title,"Sdílejte hru s ostatními!
+Je to více zábavy hrát s přáteli!"
+tempkey_login.button,Pokračovat
+tempkey_login.empty_key,Nezadali jste žádný kód
+tempkey_login.input.default_hint,Zadejte kód
+tempkey_login.invalid_key,Špatný kód
+tempkey_login.message_top,"Chcete-li pokračovat ve hře zde, musíte vytvořit kód.
+
+Přejděte do nastavení hry, kde jste hráli předtím, a klepněte na ""Vytvořit kód""."
+tempkey_login.no_connection,Nelze se připojit
+tempkey.fail.button,OK
+tempkey.fail.message,Zkontrolujte své internetové připojení nebo to zkuste později.
+tempkey.fail.title,Nemohlo se vytvořit kód
+tempkey.ok.copied,Zkopírováno!
+tempkey.ok.copy,Kopírovat
+tempkey.ok.hint,Kód je dočasný. Platí po dobu 4 hodin.
+tempkey.ok.message,#tempkey
+tempkey.ok.title,Váš kód:
+tickets_shop.boost_text,x2 rychlost obnovení
+tickets_shop.buy_all,Koupit #amount
+tickets_shop.hint,Pro hraní v Denní Výzvě potřebujete Tokeny.
+tickets_shop.hint_out_of,"<font color=""\#e90047"">Žádné další šťastné tokeny</font>"
+tickets_shop.recharge,Nový token za: #time
+tickets_shop.title,Šťastné Lístky
+tickets_shop.watch_ad_button,Sledovat
+tickets_shop.watch_ad_text,Získejte 1 zdarma
+time.days_hours,"#days<font size=""-15""> </font><font size=""-10"">dní</font> #hours<font size=""-15""> </font><font size=""-10"">hodin</font>"
+time.hours,"#hours<font size=""-15""> </font><font size=""-10"">hod</font>"
+time.hours_minutes,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #minutes<font size=""-15""> </font><font size=""-10"">min</font>"
+time.hours_minutes_seconds,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #minutes<font size=""-15""> </font><font size=""-10"">min</font> #seconds<font size=""-15""> </font><font size=""-10"">sec</font>"
+time.hours_seconds,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #seconds<font size=""-15""> </font><font size=""-10"">s</font>"
+time.less_than_minute,"1<font size=""-15""> </font><font size=""-10"">min</font>"
+time.minutes,"#minutes<font size=""-15""> </font><font size=""-10"">min</font>"
+time.minutes_seconds,"#minutes<font size=""-15""> </font><font size=""-10"">min</font> #seconds<font size=""-15""> </font><font size=""-10"">s</font>"
+time.seconds,"#seconds<font size=""-15""> </font><font size=""-10"">s</font>"
+tutorial_home.play,Hrát
+tutorial.001.dialog_tutorial,"Spojte <font color=""\#5885b8"">3 kousky stejné barvy do řady</font>, aby se odstranily."
+tutorial.001.hint,"Cíl úrovně
+Sbírejte 12 zelených kousků!"
+tutorial.001.turn_1,"Spojte tři stejné kousky tím, že je vyměníte sousedními!"
+tutorial.002.hint,Sbírejte více žlutých kousků než váš protivník!
+tutorial.skip,Přeskočit
+undo_shop.buy_undos,Získat #count
+undo_shop.hint,Tlačítko Zpět obnoví vaši poslední akci
+undo_shop.recharge,Další zpětný krok za: #time
+undo_shop.title,Vrátit tah
+undo_shop.watch_ad_button,Sledovat
+undo_shop.watch_ad_text,Získejte 1 zdarma
+undo_shop.you_have,Máš #amount návratů
+update.button,Aktualizovat
+update.new_version,Aktualizujte na nejnovější verzi!
+update.new_version_value,"<font color=""\#5885b8"">#version"
+update.old_version,Používáte starší verzi
+update.old_version_value,"<font color=""\#a5a7aa"">#version"
+update.text,"Používáte starou verzi.
+Prosím, aktualizujte na nejnovější verzi!"
+update.title,Nová verze je k dispozici!
+update.web.button,Obnovit
+update.web.message,Prosím obnovte stránku.
+update.web.title,Nová verze je k dispozici!
+vk_login_failed.message,Nepodařilo se připojit k VK. Zkusit znovu?
+vk_promo.title,Dar od VK!
+vk.share_tick,Sdílet
+watch_for_gems.button,Sledovat
+watch_for_gems.text,+#amount
+web.webg_context_lost,"Ztratil se kontext WebGL, obnovuji..."
+welcome_bonus.speech_1,"Ahoj, #PlayerName!
+Mám pro tebe nějaké dárky.
+Vyber si jeden!
+"
+welcome_bonus.speech_2,"Myšlenky se materializují... Ohmmm!
+Přemýšlel jsem o nějakých dárcích a podívejte se, co se stalo =)"
+welcome_bonus.speech_3,"Našel jsem dva truhly, když jsi nebyl tam! Otevřít jeden!"
+welcome_bonus.speech_4,"Vítej zpět, #PlayerName!
+Podívej, co se snáší z oblaků!
+"
+welcome_bonus.speech_5,"Stříhali labutě... A vyšlo najevo, že nepřinášejí jen děti! ;)"
+welcome_bonus.speech_6,"Rád tě zase vidím, #PlayerName!
+Vyber si truhlu!
+"
+welcome_bonus.speech_7,"Tak mi chyběl, #PlayerName, že jsem ti připravil malý dárek!"
+welcome_bonus.speech_8,"Divné věci se dějí. Sedíš, odpočíváš a tu najednou přiletí dva truhly!"
+welcome_pack.open,Otevřít
+welcome_pack.play,Hrát
+welcome_pack.speech_1,"Dlouho jsme se neviděli, #PlayerName! Mám pro tebe dárek!"
+welcome_pack.speech_2,"Ach, #PlayerName, jak jsem tě tu postrádal! Otevřeme dárek a zahrajme si!"
+welcome_pack.speech_3,"#PlayerName, rád tě zase vidím! Otevři truhlu rychle!"
+welcome_pack.speech_gift,"#PlayerName, máme pro tebe speciální dárek =) Otevři ho rychle!"
+welcome_pack.speech_reforged,"#PlayerName, máme pro tebe speciální dárek =) Otevři ho rychle!"
+y8_login_failed.message,Nepodařilo se připojit k Y8. Zkusit to znovu?
+yandex_login_failed.message,Nepodařilo se připojit k Yandexu. Zkusit znovu?
+yandex_notification.button,Připojit
+yandex_notification.message,Pro uchování vašeho postupu se připojte k Yandexu a synchronizujte svůj postup online!
+yandex_notification.title,Uložte svůj postup
+gamemode.capital.leaf,LISTY
+yandex_login_has_attachment.message,K tomuto hernímu profilu byl připojen jiný účet Yandex.
+fb_login_has_attachment.message,K tomuto hernímu profilu byl připojen jiný Facebook účet.
+ok_login_has_attachment.message,K tomuto hernímu profilu byl připojen další účet OK.
+vk_login_has_attachment.message,K tomuto hernímu profilu byl připojen jiný účet VK.
+y8_login_has_attachment.message,K tomuto hernímu profilu byl připojen jiný Y8 účet.
+android_app.text.beta,"Milí přátelé! S radostí vám oznamujeme, že spouštíme Beta testování naší hry na Androidu. Všichni jsou vítáni!"
+bookmark.play,Domů
+bookmark.quest,Úkoly
+chest_opening.bronze,Bronz
+chest_opening.continue,Snadno
+chest_opening.division,III. divize
+chest_opening.golden,Zlato
+chest_opening.silver,Stříbro
+chest_opening.togoldenleague,"Můžete dosáhnout
+Zlaté ligy?
+"
+chest_opening.welcome,"Vítejte v Ligách
+Match Arena!"
+chest_opening.yourebronze,"Dosáhli jste
+Bronzové ligy III
+"
+chest.open,Otevřít
+chest.opens_now,Skvělé! Truhla je připravena k otevření!
+chest.wins_left_1,Ještě jedna výhra!
+chest.wins_left_2,Jen 2 výhry a je to tvoje!
+chest.wins_left_3,Dobře uděláno! Ještě 3 výhry!
+chest.wins_left_4,4 výhry otevřít truhlu!
+chest.wins_to_open,K otevření potřebujete #num výher
+forge_help.block_1,"Vyhrávejte duely, abyste získali mince."
+forge_help.block_2,Použijte mince k spuštění kováren a získat zlaté tyče.
+forge_help.block_3,"Sbírejte zlaté tyče, abyste se dostali do vyšších lig."
+forge_help.block_4,Nové ligy - nové úrovně!
+forge_help.continue,Mám to
+forge_help.title,Ligy a kovárny
+forge.add,Přidat
+forge.boost,Zrychlit
+forge.boost_free,"Pojďme zrychlit tuto kovárnu!
+
+Poprvé je to zdarma!"
+forge.boost_free_ok,Zrychlit
+forge.buy_1,Koupit bronzovou kovárnu
+forge.buy_2,Koupit Stříbrnou Kovárnu
+forge.buy_3,Zlatá kovárna
+forge.buy_4,Koupit Rubínovou Kovanou
+forge.buy_now,Přidat
+forge.cheat_boost,PODVÁDĚT? PODVÁDĚT!
+forge.name_1,Bronzová kovárna
+forge.name_2,Stříbrná kovárna
+forge.name_3,Zlatá Kovařina
+forge.name_4,Rubínová kovárna
+forge.not_enough_coins,Není dostatek mincí k spuštění
+forge.ok,OK
+forge.open,Otevřít
+forge.open_now,Otevřít nyní
+forge.other_in_progress,Ještě probíhá další kovárna!
+forge.popup_boost,Zrychlit -30 min
+forge.popup_boost_speedup,Zrychlit -15 min
+forge.progress,#bars za: #time
+forge.speedup_no,Ne
+forge.speedup_offer,"Chcete <font color=""\#5885b8"">zrychlit</font> rychlost kovárny
+ <font color=""\#5885b8"">o 2x?</font>"
+forge.speedup_ok,OK
+forge.speedup_success,Kovaní bylo zesíleno!
+forge.speedup_yes,Ano
+forge.start,Spustit
+forge.time_1,3 hodiny
+forge.time_2,6 hodin
+forge.time_3,12 hodin
+forge.time_4,24 hodin
+forge.tutorial.collect_coins,"Vybere si 1000 mince, abyste mohli spustit kovárnu."
+forge.tutorial.open_now,"Výborně! Tavení je dokončeno!
+Můžeme otevřít kovárnu!"
+forge.tutorial.smelt_more,"Pokračujte ve výrobě zlatých tyčí, abyste se dostali do další divize."
+forge.tutorial.start_forge,"Dobře uděláno, získali jste 1000 mincí!
+Teď můžeme začít s kovárnou!"
+forge.tutorial.wait_ready,"Zatímco se vaše kovárna pracuje, můžete vyhrát více mincí."
+forge.watch_ad,Sledovat
+gamemode.chocolate,Láva
+gamemode.diamonds,Diamanty
+gamemode.energycube,Želé
+gamemode.fishes,Mrkev
+gamemode.food,Žaludy
+gamemode.fossils,Chobotnice
+gamemode.grass,Tráva
+gamemode.honeybee,Medvědi
+gamemode.ice,Led
+gamemode.jam,Energie
+gamemode.road,Prasátko
+gamemode.stone,Kameny
+gamemode.tasks,Objednávky
+gamemode.tiles,Tráva
+home.bars_need_more,Potřebujete #more
+home.bars_progress,#current / #total
+home.bet,Sázka #count mince
+home.coins,#count
+home.gems,#count
+home.hint_quest_book,Nové úkoly jsou k dispozici!
+home.hint_quest_book.claim,Hurá! Někdo bude odměněn!
+home.hint_quest_book.new,Hej! Nový úkol!
+home.league_indev,Další liga brzy přijde!
+home.rematch.asks_for_rematch_draw,#name chce zkusit to znovu
+home.rematch.asks_for_rematch_player_lose,#name nabízí znovu zápas
+home.rematch.asks_for_rematch_player_won,#name požaduje pomstu!
+home.xp,#count
+ingame_booster_shop.buy,Získat #count
+ingame_booster_shop.hint.cross,"Použijte kouzelnou hůlku, abyste odstranili jeden řádek a jeden sloupec kousků."
+ingame_booster_shop.hint.hammer,Odstraňte dlaždice pomocí Kladiva!
+ingame_booster_shop.hint.hand,"Použijte rukavici, abyste mohli prohodit libovolné sousední kameny!"
+ingame_booster_shop.title.cross,Kouzelná hůlka
+ingame_booster_shop.title.hammer,Kladivo
+ingame_booster_shop.title.hand,Rukavice
+league.Bronze,Bronzová liga
+league.div_1,Divize I
+league.div_2,Divize II
+league.div_3,Divize III
+league.div_4,Divize IV
+league.div_5,Divize V
+league.E001,Bronz III
+league.E002,Bronzová II
+league.E003,Bronz I
+league.E004,Stříbro IV
+league.E005,Stříbro III
+league.E006,Stříbro II
+league.E007,Stříbro I
+league.E008,Zlaté V
+league.E009,Zlato IV
+league.E010,Zlato III
+league.E011,Zlato II
+league.E012,Zlaté I
+league.E013,Platina V
+league.E014,Platinová IV
+league.E015,Platinové III
+league.E016,Platina II
+league.E017,Platina I
+league.E018,Mistr 1
+league.Gold,Zlatá Liga
+league.Master,Mistrovská liga
+league.MasterN,Mistr #div
+league.GrandMaster,Velmistr
+league.GrandMasterN,Velmistr #div
+league.Platinum,Platinová Liga
+league.Silver,Stříbrná Liga
+levelup.continue,Skvělé!
+levelup.reward,Odměna
+levelup.title_division,"Gratulujeme!
+Nová divize!
+"
+levelup.title_league,"Gratulujeme!
+Nová liga!"
+ma2transfer.install,Nainstalovat
+ma2transfer.message,"Match Arena se přesunula do nové aplikace!
+
+Důležité! Použijte níže uvedený kód pro přenos vašeho postupu."
+nickname.tutorial_004,Sensei Michal
+nickname.tutorial_005,Profesor Frank
+nickname.tutorial_006,Královna Matcha
+nickname.tutorial_007,Učitel Leo
+nickname.tutorial_008,Trenér Carl
+nickname.tutorial_009,Tutor Brada
+nickname.tutorial_010,Guru Vicky
+placeholder.hint_friends,"Vyzvěte své přátele a ukažte,
+co dokážete!"
+placeholder.hint_quests,"Dosáhněte Bronzové ligy I,
+abyste objevili!"
+placeholder.hint_settings,Brzy budu hotov :)
+placeholder.title_friends,"Hrajte s přáteli
+brzy přijde
+"
+placeholder.title_quests,"Úžasné úkoly
+Uzamčeno
+"
+placeholder.title_settings,Nastavení ve vývoji
+quest_help.block_1,Dokončete úkoly a získejte odměny!
+quest_help.block_2,"Dokončete všechny úkoly, abyste otevřeli truhlu."
+quest_help.block_3,"Dokončete všechny úkoly před přechodem do další divize, jinak přijdete o truhlu!"
+quest_help.continue,Mám to
+quest_help.title,Kniha úkolů
+quest.aquarium,Sbírejte #amount Ryb
+quest.bar,#progress / #amount
+quest.bar_completed,Úkol splněn!
+quest.bar_last_try,Předchozí pokus: #progress z #amount
+quest.bar_special_not_tried,#progress / #amount
+quest.best_so_far,Nejlepší výsledek: #progress
+quest.butterfly,Sbírejte #amount Motýlů
+quest.buy_now,Získat nyní #amount
+quest.cat,Sbírejte #amount Koťátek
+quest.chip_destroy,Sbírejte #amount libovolných kousků
+quest.chip_destroy_bird,Sbírejte #amount ptáčků
+quest.chip_destroy_blue,Sbírejte #amount modré kousky
+quest.chip_destroy_diamond,Sbírejte #amount Diamantů
+quest.chip_destroy_fish,Sbírejte #amount Mrkve
+quest.chip_destroy_fish_blue,Sbírejte #amount modrých Mrkviček
+quest.chip_destroy_fish_green,Sbírejte #amount zelených Mrkví
+quest.chip_destroy_fish_orange,Sbírejte #amount oranžové Mrkve
+quest.chip_destroy_fish_purple,Sbírejte #amount fialové Mrkve
+quest.chip_destroy_fish_red,Sbírejte #amount červené Mrkve
+quest.chip_destroy_fish_yellow,Sbírejte #amount žluté Mrkve
+quest.chip_destroy_food,Odstraňte #amount Šišek
+quest.chip_destroy_frog,Sbírejte #amount Žab
+quest.chip_destroy_green,Sbírejte #amount zelených kousků
+quest.chip_destroy_orange,Sbírejte #amount oranžových kousků
+quest.chip_destroy_purple,Sbírejte #amount fialové kousky
+quest.chip_destroy_red,Sbírejte #amount červených kousků
+quest.chip_destroy_snail,Sbírejte #amount šneků
+quest.chip_destroy_super,Sbírejte #amount super kousky
+quest.chip_destroy_wafer,Sbírejte #amount Zlatých rud
+quest.chip_destroy_with_bomb,Sbírejte #amount kusů pomocí Bomby
+quest.chip_destroy_with_line,Sbírejte #amount kusů s bonusem Line
+quest.chip_destroy_with_mine,Sbírejte #amount kousků s bonusem Firefly
+quest.chip_destroy_with_omni,Sbírejte #amount kusů s bonusem Blesk
+quest.chip_destroy_yellow,Sbírejte #amount žlutých kousků
+quest.chip_destroy_waterfish,Sbírejte #amount vodní ryby
+quest.chip_recolor,Přebarvěte #amount kousky s bonusem Paint
+quest.claim,Vyzvednout Odměnu
+quest.complete_chest,Všechny úkoly dokončeny
+quest.cover_destroy_bee,Sbírejte #amount Medvídků
+quest.cover_destroy_bound,Odemknout #amount kusů
+quest.cover_destroy_chocolate,Odstraňte #amount kousky s Lávou
+quest.cover_destroy_fizzblue,Sbírejte #amount šumivé kuličky
+quest.cover_destroy_fizzpurple,Sbírejte #amount žlutých šumivek
+quest.cover_destroy_frozen,Odstraňte #amount kusů mrazu
+quest.cover_destroy_honey,Odstraňte #amount dlaždic s medem
+quest.cover_destroy_hotlava,Odstraňte #amount kusů Horké Lávy
+quest.cover_destroy_receiver_energycube,Sbírejte #amount krystalů želé
+quest.cover_destroy_receiver_jam,Sbírejte #amount krystalů energie
+quest.cover_destroy_statue,Sbírejte #amount Psů
+quest.cover_destroy_stone,Odstraňte #amount Kousky kamene
+quest.cover_destroy_leaf,Vyčisti #amount listy
+quest.division_done_card,Nové úkoly se objeví v další divizi!
+quest.duck,Sbírejte #amount kachny
+quest.energy_flow,Projíždějte #amount dlaždicemi Energií
+quest.energycube_flow,Naplňte #amount dlaždicí želé
+quest.fossil,Sbírejte #amount Chobotnic
+quest.gum,Sbírejte #amount kousky žvýkaček
+quest.new_quest,Nový úkol!
+quest.new_quest_in,Další úkol:
+quest.on_arena_splash_score,Skórej #amount ve hře Arena Boom!
+quest.on_arena_splash_use_bonus,Uložte #amount bonusů pro Arenu Boom!
+quest.plate_destroy,Odstraňte #amount Oddělení
+quest.play,Hrát
+quest.pvp_score,Skórej #amount ve dvojicích
+quest.reward,Odměna:
+quest.snakes,Sbírejte #amount Hadů
+quest.tile_destroy_gold,Sbírejte #amount dlaždic s trávou
+quest.tile_destroy_grass,Sbírejte #amount dlaždic s trávou
+quest.title,Kniha úkolů
+quest.use_bonus,Použij #amount bonusů
+quest.use_bonus_bomb,Použijte #amount bonusů Bomba
+quest.use_bonus_line,Použijte #amount bonusů Line
+quest.use_bonus_mine,Použijte #amount bonusů Svítilna
+quest.use_bonus_omni,Použij bonus Blesk #amountkrát
+quest.use_bonus_tint,Použijte #amount bonusů Barva
+quest.use_combo_bomb_bomb,Vytvořte kombo bonus Bomba+Bomba #amountkrát
+quest.use_combo_bomb_omni,Vytvořte kombo bonus Blesk+Bomba #amountkrát
+quest.use_combo_bomb_tint,Vytvořte kombo bonus Barva+Bomba #amountkrát
+quest.use_combo_line_bomb,Vytvořte kombo bonus Bomba+Řada #amountkrát
+quest.use_combo_line_line,Vytvořte kombo bonus Řada+Řada #amountkrát
+quest.use_combo_line_omni,Vytvořte kombo bonus Blesk+Řádka #amountkrát
+quest.use_combo_line_tint,Vytvořte kombo bonus Barva+Řada #amountkrát
+quest.use_combo_mine_bomb,Vytvořte kombo bonus Světluška + Bomba #amountkrát
+quest.use_combo_mine_line,Vytvořte kombo bonus Ohniváček + Řádka #amountkrát
+quest.use_combo_mine_mine,Vytvořte kombo bonus Svítící motýl+Svítící motýl #amountkrát
+quest.use_combo_mine_omni,Vytvořte kombo bonus Blesk+Svítilna #amountkrát
+quest.use_combo_mine_tint,Vytvořte kombo bonus Barva+Svítilna #amountkrát
+quest.use_combo_omni_omni,Vytvořte kombo bonus Blesk+Blesk #amountkrát
+quest.use_combo_omni_tint,Vytvořte kombo bonus Barva+Blesk #amountkrát
+quest.use_combo_tint_tint,Vytvořte kombo bonus Barva+Barva #amountkrát
+quest.walk,Projdi s Prasátkem #amount kroků
+quest.watch_for_new,- #time
+quest.win,Vyhrajte #amount duely
+quest.win_coins,Vyhrajte #amount mince ve dvojicích
+quest.win_hard_level,Dokončit těžkou úroveň
+quest.win_rematch,Vyhrajte #amount remíz
+quest.win_streak,Vyhrajte #amount duely po sobě.
+quest.chip_destroy_clam,Sbírejte #amount Perly
+quest.chip_destroy_egg,Sbírejte #amount vejce
+quest.gardenflower,Sbírejte #amount květin
+quest.sausages,Sbírejte #amount Klobásy
+rematch.asks_for_rematch_draw,"#name chce další pokus
+Sázka #bet"
+rematch.asks_for_rematch_player_lose,"#name nabízí znovu zápasit
+Sázka #bet"
+rematch.asks_for_rematch_player_won,"#name chce znovu zápasit!
+Sázka #bet"
+rematch.rematch_bet,Sázka #bet
+report.body,
+report.subject,Problém s hrou MatchArena
+reward.bars,Zlaté tyče
+reward.coins_amt,+#amount
+reward.gems_amt,+#amount
+reward.levels,Nové úrovně
+reward.levels_amt,+#amount
+reward.levelup,"Gratulujeme!
+Nová úroveň!"
+reward.new_levels,"Nové
+úrovně!"
+reward.talisman,Talismanů
+reward.xp_amt,+#amount
+search.prize_fund,Výhry peněz
+settings.friends_and_partners,Přátelé a partneři
+settings.language.help_us_translate,"Chcete nám pomoci přeložit Match Arena do jazyků, které ovládáte? Napište nám na <font color=""\#0000EE"">support@matcharenagame.com."
+settings.notifications.duels,Výzva k soubojům
+shop.indev,Brzy!
+splash.hint_chocolate,Odstraňte co nejvíce Lávy
+splash.hint_diamonds,Sbírejte co nejvíce Diamantů
+splash.hint_energycube,Naplňte co nejvíce dlaždic želé
+splash.hint_fishes,Sbírejte co nejvíce mrkví
+splash.hint_food,Odstraňte co nejvíce žaludů.
+splash.hint_fossils,Ušetřit co nejvíce Chobotnic
+splash.hint_honeybee,Sbírejte co nejvíce Medvídků
+splash.hint_ice,Odstraňte co nejvíce ledu
+splash.hint_jam,Naplňte co nejvíce dlaždicí Energií
+splash.hint_road,Proveďte Prasátko co nejdál
+splash.hint_stone,Odstraňte co nejvíce kamenů
+splash.hint_tasks,Dokončete co nejvíce Objednávek
+splash.hint_tiles,Sbírejte co nejvíce Trávy
+splash.mode_chocolate,Cíl úrovně - Láva
+splash.mode_diamonds,Cíl úrovně - Diamanty
+splash.mode_fishes,Cíl úrovně - Mrkev
+splash.mode_food,Cíl úrovně - Žaludy
+splash.mode_jam,Cíl úrovně - Energie
+splash.mode_road,Cíl úrovně - Prasátko
+splash.mode_tasks,Cíl úrovně - Objednávky
+splash.mode_tiles,Cíl úrovně - Tráva
+talismans_shop.ask_button,Facebook
+talismans_shop.ask_text,Požádat přátele
+talismans_shop.boost_text,x2 rychlost obnovení
+talismans_shop.buy_all,Získat #amount
+talismans_shop.hint,Dvojnásobné mince vyhrány
+talismans_shop.recharge,Další talisman za: #time
+talismans_shop.title,Talismani
+talismans_shop.watch_ad_button,Sledovat
+talismans_shop.watch_ad_text,Získejte 1 zdarma
+tickets_shop.ask_button,Facebook
+tickets_shop.ask_text,Požádat přátele
+tutorial.001.collect_more_fishes,"Sbírejte co nejvíce <font color=""\#5885b8"">mrkví!</font>"
+tutorial.001.continue_to_collect_fishes,Pokračujte ve sbírání mrkve!
+tutorial.001.first_swap_red_down,"Posuň červenou kostku dolů, aby se <font color=""\#5885b8"">shodovaly tři v řadě</font>"
+tutorial.001.remind_collect_three_in_a_row,"Sbírejte <font color=""\#5885b8"">tři kousky</font> stejné barvy <font color=""\#5885b8"">v řadě</font>."
+tutorial.001.second_swap_green_left,"Posuňte zelenou kostku doleva, abyste <font color=""\#5885b8"">sestavili tři v řadě</font>"
+tutorial.001.third_swap_fish,"<font color=""\#5885b8"">Mrkev</font> také může být
+sloučena ve třech v řadě"
+tutorial.001.you_are_doing_well,Děláš to dobře!
+tutorial.002.get_bonus_line,"...získat <font color=""\#5885b8"">bonus - Řádek!</font>"
+tutorial.002.try_four_in_a_row,"Zkuste složit <font color=""\#5885b8"">čtyři v řadě!</font>"
+tutorial.002.use_line_bonus,"Spojte <font color=""\#5885b8"">tři v řadě s bonusem</font>, abyste uviděli sílu Řádky!"
+tutorial.003.hint,Sbírejte více mrkví než váš protivník!
+tutorial.003.try_l_or_t,"Spojujte kousky <font color=""\#5885b8"">ve tvaru T nebo L!</font>"
+tutorial.003.use_bomb_bonus,"...získat <font color=""\#5885b8"">bonus - Bombu!</font>
+Tak ji vybuchněme!"
+tutorial.004.clear_gold_tiles,"Udělejte shody na <font color=""\#5885b8"">Travě</font>, abyste ji mohli sbírat!"
+tutorial.004.combine_omni_with_blue,"Vyměňte <font color=""\#5885b8"">Kousek blesku</font> s modrou kostkou, abyste odstranili všechny modré kostky z desky!"
+tutorial.004.try_five_in_a_row,"Zkuste se snažit dostat <font color=""\#5885b8"">5 do řady!</font>"
+tutorial.005.two_bonus_can_combine,"Jakékoli <font color=""\#5885b8"">dva bonusy můžete sloučit</font> a získat ještě větší bonus!"
+tutorial.007.collect_food,"Sestavuj kombinace vedle <font color=""\#5885b8"">Žaludů</font>"
+tutorial.007.move_character,"Sbírej žaludy, aby <font color=""\#5885b8"">vedl Prasátko dopředu!</font>"
+tutorial.008.make_mine_bonus,"Seskládejte <font color=""\#5885b8"">čtyři kameny do čtverce</font> a získejte bonus - Svítilnu!"
+tutorial.008.use_mine_bonus,"Spojte tři v řadě s <font color=""\#5885b8"">Svítilnou</font>, abyste ji mohli použít!"
+tutorial.009.make_tint_bonus,"Vytvořte <font color=""\#5885b8"">velký tvar T</font> a získejte bonus - Barvu!"
+tutorial.009.use_tint_bonus,"<font color=""\#5885b8"">Barva</font> může být vyměněna s jakoukoli kostkou!"
+level_popup.adventure.title,Úroveň
+lives_shop.ma_hint,K pokračování ve hře Adventure potřebujete životy.

@@ -1,0 +1,377 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"mouseThrough": false,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"visible": true,
+				"var": "pngBg",
+				"top": 0,
+				"skin": "images/grid/maskGray.png",
+				"sizeGrid": "2,3,4,3",
+				"right": 0,
+				"mouseThrough": false,
+				"left": 0,
+				"bottom": 0
+			},
+			"compId": 238
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 267,
+				"x": 45,
+				"width": 660,
+				"var": "centerBox",
+				"mouseThrough": true,
+				"height": 800
+			},
+			"compId": 250,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 0,
+						"x": 53,
+						"width": 553,
+						"skin": "images/solider/icon_tc_bg.png",
+						"rotation": 0,
+						"height": 383
+					},
+					"compId": 263,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 371,
+								"x": 0,
+								"width": 553,
+								"skin": "images/solider/icon_tc_bg2.png",
+								"sizeGrid": "13,27,31,26",
+								"height": 386
+							},
+							"compId": 290
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 213,
+								"x": 8,
+								"width": 536,
+								"skin": "images/solider/icon_tc_bg_01.png",
+								"sizeGrid": "21,25,24,23",
+								"height": 536
+							},
+							"compId": 289
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 64,
+								"x": 126,
+								"width": 300,
+								"var": "boxPass",
+								"height": 100
+							},
+							"compId": 292,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 18,
+										"x": 41,
+										"skin": "images/result/icon_zt_word_d.png"
+									},
+									"compId": 287
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 18,
+										"x": 201,
+										"skin": "images/result/icon_zt_word_g.png"
+									},
+									"compId": 288
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 26,
+										"x": -30,
+										"width": 360,
+										"var": "boxLv",
+										"height": 100
+									},
+									"compId": 285
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 46,
+								"x": 509,
+								"var": "btnClose",
+								"skin": "images/result/button_gb.png",
+								"label": "label",
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 286
+						}
+					]
+				},
+				{
+					"type": "Box",
+					"props": {
+						"y": 280,
+						"x": 0,
+						"width": 660,
+						"var": "boxBtn",
+						"height": 280
+					},
+					"compId": 303,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 66,
+								"x": 330,
+								"width": 250,
+								"var": "btnAgain",
+								"skin": "images/result/button_green.png",
+								"sizeGrid": "0,57,0,62",
+								"label": "label",
+								"height": 97,
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 279,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 20,
+										"x": 47,
+										"skin": "images/result/button_word_zwyc.png",
+										"label": "label"
+									},
+									"compId": 284
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 217,
+								"x": 330,
+								"width": 250,
+								"var": "btnQuit",
+								"skin": "images/result/button_blue.png",
+								"sizeGrid": "0,57,0,62",
+								"label": "label",
+								"height": 97,
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 280,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 20,
+										"x": 47,
+										"skin": "images/result/button_word_tcbg.png",
+										"label": "label"
+									},
+									"compId": 283
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 215,
+								"x": 59,
+								"width": 88,
+								"visible": false,
+								"var": "appIcon",
+								"height": 88,
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 306
+						}
+					]
+				},
+				{
+					"type": "Box",
+					"props": {
+						"y": 587,
+						"x": 0,
+						"width": 660,
+						"visible": false,
+						"var": "killBox",
+						"height": 121
+					},
+					"compId": 294,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": -4,
+								"x": 119,
+								"skin": "images/solider/icon_js_fgx.png"
+							},
+							"compId": 304
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": -4,
+								"x": 337,
+								"skin": "images/solider/icon_js_fgx.png"
+							},
+							"compId": 305
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 59,
+								"x": 270,
+								"var": "btnKill1",
+								"skin": "images/main/kill5.png",
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 295,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 12,
+										"x": 4,
+										"width": 40,
+										"var": "iconAd1",
+										"skin": "images/main/button_sp.png",
+										"label": "label",
+										"height": 31
+									},
+									"compId": 302
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 60,
+										"x": 7,
+										"width": 90,
+										"var": "boxKill1",
+										"scaleY": 0.82,
+										"scaleX": 0.82,
+										"height": 26
+									},
+									"compId": 297
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 59,
+								"x": 390,
+								"var": "btnKill5",
+								"skin": "images/main/kill1.png",
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 296,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 12,
+										"x": 4,
+										"width": 40,
+										"var": "iconAd5",
+										"skin": "images/main/button_sp.png",
+										"label": "label",
+										"height": 31
+									},
+									"compId": 301
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 60,
+										"x": 7,
+										"width": 90,
+										"var": "boxKill5",
+										"scaleY": 0.82,
+										"scaleX": 0.82,
+										"height": 26
+									},
+									"compId": 298
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 680,
+						"x": 80,
+						"width": 500,
+						"wordWrap": true,
+						"var": "labTeach",
+						"text": "看视频补充单个道具至上限",
+						"fontSize": 22,
+						"color": "#111111",
+						"bold": true,
+						"align": "center"
+					},
+					"compId": 299
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 87,
+						"x": 169,
+						"width": 320,
+						"var": "labTitle",
+						"text": "副本关",
+						"fontSize": 50,
+						"color": "#ffffff",
+						"bold": true,
+						"align": "center"
+					},
+					"compId": 291
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/grid/maskGray.png",
+		"images/solider/icon_tc_bg.png",
+		"images/solider/icon_tc_bg2.png",
+		"images/solider/icon_tc_bg_01.png",
+		"images/result/icon_zt_word_d.png",
+		"images/result/icon_zt_word_g.png",
+		"images/result/button_gb.png",
+		"images/result/button_green.png",
+		"images/result/button_word_zwyc.png",
+		"images/result/button_blue.png",
+		"images/result/button_word_tcbg.png",
+		"images/solider/icon_js_fgx.png",
+		"images/main/kill5.png",
+		"images/main/button_sp.png",
+		"images/main/kill1.png"
+	],
+	"loadList3D": []
+}

@@ -1,0 +1,235 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 530,
+				"x": 375,
+				"var": "pngBg",
+				"top": 0,
+				"skin": "images/grid/maskGuide.png",
+				"sizeGrid": "2,3,4,3",
+				"right": 0,
+				"left": 0,
+				"bottom": 0,
+				"anchorY": 0.5,
+				"anchorX": 0.5,
+				"alpha": 0.8
+			},
+			"compId": 3
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 267,
+				"x": 0,
+				"width": 750,
+				"var": "centerBox",
+				"mouseThrough": true,
+				"height": 800
+			},
+			"compId": 5,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 114,
+						"x": 0,
+						"width": 375,
+						"skin": "images/result/icon_gq_btbg.png",
+						"sizeGrid": "23,0,35,359",
+						"height": 166
+					},
+					"compId": 17,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 0,
+								"x": 750,
+								"width": 375,
+								"skin": "images/result/icon_gq_btbg.png",
+								"sizeGrid": "23,0,35,359",
+								"scaleX": -1,
+								"height": 166
+							},
+							"compId": 20
+						},
+						{
+							"type": "Label",
+							"props": {
+								"y": 57,
+								"x": 75,
+								"width": 600,
+								"text": "解锁新战斗编队",
+								"strokeColor": "#3d4347",
+								"stroke": 3,
+								"fontSize": 38,
+								"color": "#ffffff",
+								"bold": true,
+								"align": "center"
+							},
+							"compId": 30
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 413,
+						"x": 375,
+						"width": 330,
+						"var": "btnUnlock",
+						"skin": "images/result/button_yellow.png",
+						"sizeGrid": "0,57,0,62",
+						"label": "label",
+						"height": 160,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 18,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 40,
+								"x": 44,
+								"skin": "images/result/button_sp.png",
+								"label": "label"
+							},
+							"compId": 23
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 42,
+								"x": 204,
+								"width": 82,
+								"skin": "images/result/button_word_js.png",
+								"rotation": 0,
+								"label": "label",
+								"height": 45
+							},
+							"compId": 33
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 42,
+								"x": 121,
+								"width": 81,
+								"skin": "images/result/button_word_mf.png",
+								"rotation": 0,
+								"label": "label",
+								"height": 44
+							},
+							"compId": 46
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 628,
+						"x": 375,
+						"width": 330,
+						"var": "btnOpen",
+						"skin": "images/result/button_blue.png",
+						"sizeGrid": "0,57,0,62",
+						"label": "label",
+						"height": 160,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 34,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 22,
+								"x": 117,
+								"skin": "images/result/button_word_js.png",
+								"label": "label"
+							},
+							"compId": 44
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 81,
+								"x": 88,
+								"width": 40,
+								"var": "iconGold",
+								"skin": "images/result/icon_zy_jb.png",
+								"height": 37
+							},
+							"compId": 42,
+							"child": [
+								{
+									"type": "Label",
+									"props": {
+										"y": 3,
+										"x": 43,
+										"var": "labGold",
+										"text": "x12000",
+										"fontSize": 32,
+										"color": "#ffffff",
+										"bold": true,
+										"align": "center"
+									},
+									"compId": 43
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 85,
+								"x": 113,
+								"width": 37,
+								"var": "iconDaimond",
+								"skin": "images/result/fly1.png",
+								"height": 34
+							},
+							"compId": 40,
+							"child": [
+								{
+									"type": "Label",
+									"props": {
+										"y": -3,
+										"x": 42,
+										"var": "labDaimond",
+										"text": "x666",
+										"fontSize": 32,
+										"color": "#ffffff",
+										"bold": true,
+										"align": "center"
+									},
+									"compId": 41
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/grid/maskGuide.png",
+		"images/result/icon_gq_btbg.png",
+		"images/result/button_yellow.png",
+		"images/result/button_sp.png",
+		"images/result/button_word_js.png",
+		"images/result/button_word_mf.png",
+		"images/result/button_blue.png",
+		"images/result/icon_zy_jb.png",
+		"images/result/fly1.png"
+	],
+	"loadList3D": []
+}

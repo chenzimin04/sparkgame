@@ -1,0 +1,34 @@
+
+skel_dunpoint.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d0001
+  rotate: false
+  xy: 143, 1
+  size: 81, 56
+  orig: 99, 70
+  offset: 11, 6
+  index: -1
+d0002
+  rotate: false
+  xy: 143, 58
+  size: 93, 66
+  orig: 99, 70
+  offset: 0, 0
+  index: -1
+d0003
+  rotate: true
+  xy: 72, 25
+  size: 99, 70
+  orig: 99, 70
+  offset: 0, 0
+  index: -1
+d0004
+  rotate: true
+  xy: 1, 25
+  size: 99, 70
+  orig: 99, 70
+  offset: 0, 0
+  index: -1

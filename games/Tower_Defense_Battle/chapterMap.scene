@@ -1,0 +1,1008 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 677,
+				"x": 385,
+				"var": "pngBg",
+				"top": 0,
+				"skin": "images/chapterMap/bg.png",
+				"right": 0,
+				"left": 0,
+				"bottom": 0,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 3,
+			"child": [
+				{
+					"type": "Box",
+					"props": {
+						"y": 97,
+						"x": 0,
+						"width": 750,
+						"var": "centerBox",
+						"mouseThrough": true,
+						"height": 1140
+					},
+					"compId": 4,
+					"child": [
+						{
+							"type": "Box",
+							"props": {
+								"y": 150,
+								"x": 0,
+								"width": 750,
+								"var": "lineBox",
+								"height": 800
+							},
+							"compId": 46,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 73,
+										"x": 158,
+										"width": 99,
+										"var": "line1",
+										"skin": "images/chapterMap/icon_gq_bg4.png",
+										"sizeGrid": "0,4,0,3",
+										"height": 12
+									},
+									"compId": 45
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 73,
+										"x": 328,
+										"width": 99,
+										"var": "line2",
+										"skin": "images/chapterMap/icon_gq_bg4.png",
+										"sizeGrid": "0,4,0,3",
+										"height": 12
+									},
+									"compId": 47
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 73,
+										"x": 496,
+										"width": 99,
+										"var": "line3",
+										"skin": "images/chapterMap/icon_gq_bg4.png",
+										"sizeGrid": "0,4,0,3",
+										"height": 12
+									},
+									"compId": 48
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 107,
+										"x": 635,
+										"width": 99,
+										"var": "line4",
+										"skin": "images/chapterMap/icon_gq_bg4.png",
+										"sizeGrid": "0,4,0,3",
+										"rotation": 90,
+										"height": 12
+									},
+									"compId": 49
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 231,
+										"x": 496,
+										"width": 99,
+										"var": "line5",
+										"skin": "images/chapterMap/icon_gq_bg4.png",
+										"sizeGrid": "0,4,0,3",
+										"height": 12
+									},
+									"compId": 52
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 231,
+										"x": 328,
+										"width": 99,
+										"var": "line6",
+										"skin": "images/chapterMap/icon_gq_bg4.png",
+										"sizeGrid": "0,4,0,3",
+										"height": 12
+									},
+									"compId": 51
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 231,
+										"x": 158,
+										"width": 99,
+										"var": "line7",
+										"skin": "images/chapterMap/icon_gq_bg4.png",
+										"sizeGrid": "0,4,0,3",
+										"height": 12
+									},
+									"compId": 50
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 262,
+										"x": 128,
+										"width": 99,
+										"var": "line8",
+										"skin": "images/chapterMap/icon_gq_bg4.png",
+										"sizeGrid": "0,4,0,3",
+										"rotation": 90,
+										"height": 12
+									},
+									"compId": 53
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 389,
+										"x": 158,
+										"width": 99,
+										"var": "line9",
+										"skin": "images/chapterMap/icon_gq_bg4.png",
+										"sizeGrid": "0,4,0,3",
+										"height": 12
+									},
+									"compId": 54
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 389,
+										"x": 328,
+										"width": 99,
+										"var": "line10",
+										"skin": "images/chapterMap/icon_gq_bg4.png",
+										"sizeGrid": "0,4,0,3",
+										"height": 12
+									},
+									"compId": 55
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 389,
+										"x": 496,
+										"width": 99,
+										"var": "line11",
+										"skin": "images/chapterMap/icon_gq_bg4.png",
+										"sizeGrid": "0,4,0,3",
+										"height": 12
+									},
+									"compId": 56
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 424,
+										"x": 635,
+										"width": 99,
+										"var": "line12",
+										"skin": "images/chapterMap/icon_gq_bg4.png",
+										"sizeGrid": "0,4,0,3",
+										"rotation": 90,
+										"height": 12
+									},
+									"compId": 57
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 547,
+										"x": 495,
+										"width": 99,
+										"var": "line13",
+										"skin": "images/chapterMap/icon_gq_bg4.png",
+										"sizeGrid": "0,4,0,3",
+										"height": 12
+									},
+									"compId": 60
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 547,
+										"x": 327,
+										"width": 99,
+										"var": "line14",
+										"skin": "images/chapterMap/icon_gq_bg4.png",
+										"sizeGrid": "0,4,0,3",
+										"height": 12
+									},
+									"compId": 59
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 547,
+										"x": 158,
+										"width": 99,
+										"var": "line15",
+										"skin": "images/chapterMap/icon_gq_bg4.png",
+										"sizeGrid": "0,4,0,3",
+										"height": 12
+									},
+									"compId": 58
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 578,
+										"x": 128,
+										"width": 99,
+										"var": "line16",
+										"skin": "images/chapterMap/icon_gq_bg4.png",
+										"sizeGrid": "0,4,0,3",
+										"rotation": 90,
+										"height": 12
+									},
+									"compId": 61
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 705,
+										"x": 158,
+										"width": 99,
+										"var": "line17",
+										"skin": "images/chapterMap/icon_gq_bg4.png",
+										"sizeGrid": "0,4,0,3",
+										"height": 12
+									},
+									"compId": 62
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 705,
+										"x": 327,
+										"width": 99,
+										"var": "line18",
+										"skin": "images/chapterMap/icon_gq_bg4.png",
+										"sizeGrid": "0,4,0,3",
+										"height": 12
+									},
+									"compId": 63
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 705,
+										"x": 495,
+										"width": 99,
+										"var": "line19",
+										"skin": "images/chapterMap/icon_gq_bg4.png",
+										"sizeGrid": "0,4,0,3",
+										"height": 12
+									},
+									"compId": 64
+								}
+							]
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 150,
+								"x": 0,
+								"width": 750,
+								"var": "mapBox",
+								"height": 800
+							},
+							"compId": 23,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 78,
+										"x": 124,
+										"var": "passBg1",
+										"skin": "images/chapterMap/icon_gq_bg1.png",
+										"anchorY": 0.5,
+										"anchorX": 0.5
+									},
+									"compId": 24
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 78,
+										"x": 293,
+										"var": "passBg2",
+										"skin": "images/chapterMap/icon_gq_bg1.png",
+										"anchorY": 0.5,
+										"anchorX": 0.5
+									},
+									"compId": 25
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 78,
+										"x": 461,
+										"var": "passBg3",
+										"skin": "images/chapterMap/icon_gq_bg1.png",
+										"anchorY": 0.5,
+										"anchorX": 0.5
+									},
+									"compId": 26
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 30,
+										"x": 576,
+										"skin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 27
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 188,
+										"x": 70,
+										"skin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 29
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 188,
+										"x": 239,
+										"skin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 30
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 188,
+										"x": 407,
+										"skin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 31
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 188,
+										"x": 576,
+										"skin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 32
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 347,
+										"x": 70,
+										"skin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 33
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 347,
+										"x": 239,
+										"skin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 34
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 347,
+										"x": 407,
+										"skin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 35
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 347,
+										"x": 576,
+										"skin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 36
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 505,
+										"x": 70,
+										"skin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 37
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 505,
+										"x": 239,
+										"skin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 38
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 505,
+										"x": 407,
+										"skin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 39
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 505,
+										"x": 576,
+										"skin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 40
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 663,
+										"x": 70,
+										"skin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 41
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 663,
+										"x": 239,
+										"skin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 42
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 663,
+										"x": 407,
+										"skin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 43
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 663,
+										"x": 576,
+										"skin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 44
+								}
+							]
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 150,
+								"x": 0,
+								"width": 750,
+								"var": "dotBox",
+								"height": 800
+							},
+							"compId": 65,
+							"child": [
+								{
+									"type": "Box",
+									"props": {
+										"y": 76,
+										"x": 123,
+										"var": "box1",
+										"styleSkin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 66
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 76,
+										"x": 292,
+										"var": "box2",
+										"styleSkin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 67
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 76,
+										"x": 460,
+										"var": "box3",
+										"styleSkin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 68
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 76,
+										"x": 629,
+										"var": "box4",
+										"styleSkin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 69
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 234,
+										"x": 629,
+										"var": "box5",
+										"styleSkin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 73
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 234,
+										"x": 460,
+										"var": "box6",
+										"styleSkin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 72
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 234,
+										"x": 292,
+										"var": "box7",
+										"styleSkin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 71
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 234,
+										"x": 123,
+										"var": "box8",
+										"styleSkin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 70
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 393,
+										"x": 123,
+										"var": "box9",
+										"styleSkin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 74
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 393,
+										"x": 292,
+										"var": "box10",
+										"styleSkin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 75
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 393,
+										"x": 460,
+										"var": "box11",
+										"styleSkin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 76
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 393,
+										"x": 629,
+										"var": "box12",
+										"styleSkin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 77
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 551,
+										"x": 629,
+										"var": "box13",
+										"styleSkin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 81
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 551,
+										"x": 460,
+										"var": "box14",
+										"styleSkin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 80
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 551,
+										"x": 292,
+										"var": "box15",
+										"styleSkin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 79
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 551,
+										"x": 123,
+										"var": "box16",
+										"styleSkin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 78
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 709,
+										"x": 123,
+										"var": "box17",
+										"styleSkin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 82
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 709,
+										"x": 292,
+										"var": "box18",
+										"styleSkin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 83
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 709,
+										"x": 460,
+										"var": "box19",
+										"styleSkin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 84
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 709,
+										"x": 629,
+										"var": "box20",
+										"styleSkin": "images/chapterMap/icon_gq_bg1.png"
+									},
+									"compId": 85
+								}
+							]
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 0,
+								"x": 0,
+								"width": 750,
+								"var": "topBox",
+								"rotation": 0,
+								"height": 137
+							},
+							"compId": 5,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 0,
+										"x": 0,
+										"width": 375,
+										"skin": "images/chapterMap/icon_gq_btbg.png",
+										"sizeGrid": "22,0,34,322",
+										"height": 140
+									},
+									"compId": 6
+								},
+								{
+									"type": "Image",
+									"props": {
+										"x": 750,
+										"width": 375,
+										"skin": "images/chapterMap/icon_gq_btbg.png",
+										"sizeGrid": "22,0,34,322",
+										"scaleX": -1,
+										"height": 140
+									},
+									"compId": 18
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": -15,
+										"x": 541,
+										"width": 148,
+										"skin": "images/chapterMap/icon_bq_btbg2.png",
+										"height": 152
+									},
+									"compId": 19,
+									"child": [
+										{
+											"type": "Image",
+											"props": {
+												"y": 9,
+												"x": 10,
+												"width": 128,
+												"var": "imgIcon",
+												"skin": "images/chapterMap/icon_gqtb1.png",
+												"height": 128
+											},
+											"compId": 8
+										}
+									]
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 64.5,
+										"x": 67,
+										"var": "btnClose",
+										"skin": "images/chapterMap/button_fh.png",
+										"label": "label",
+										"anchorY": 0.5,
+										"anchorX": 0.5
+									},
+									"compId": 14
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 50,
+										"x": 126,
+										"width": 400,
+										"var": "labChapterTitle",
+										"text": "第十五章",
+										"fontSize": 34,
+										"color": "#ffffff",
+										"bold": true,
+										"align": "center"
+									},
+									"compId": 22
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"skin": "images/chapterMap/icon_jl_bg.png",
+						"sizeGrid": "0,136,0,245",
+						"right": 0,
+						"left": 0,
+						"height": 124,
+						"bottom": 150
+					},
+					"compId": 91,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 73,
+								"x": 238,
+								"width": 450,
+								"var": "imgStarBg",
+								"skin": "images/chapterMap/icon_jl_jdt1.png",
+								"sizeGrid": "4,4,4,4"
+							},
+							"compId": 92,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 1,
+										"x": 1,
+										"width": 370,
+										"var": "imgStarVal",
+										"skin": "images/chapterMap/icon_jl_jdt2.png",
+										"sizeGrid": "4,4,4,4",
+										"height": 16
+									},
+									"compId": 96
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 23,
+										"x": -15,
+										"skin": "images/chapterMap/icon_jl_xx.png"
+									},
+									"compId": 93,
+									"child": [
+										{
+											"type": "Box",
+											"props": {
+												"y": 1,
+												"x": 22,
+												"width": 32,
+												"var": "boxVal",
+												"scaleY": 0.64,
+												"scaleX": 0.64,
+												"height": 20
+											},
+											"compId": 117
+										}
+									]
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": -71,
+										"x": 450,
+										"width": 80,
+										"visible": true,
+										"var": "guideBox",
+										"height": 80,
+										"anchorY": 0.5,
+										"anchorX": 0.5
+									},
+									"compId": 114
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": -14,
+										"x": 200,
+										"width": 80,
+										"var": "itemBox1",
+										"height": 80
+									},
+									"compId": 88
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": -14,
+										"x": 340,
+										"width": 80,
+										"var": "itemBox3",
+										"height": 80
+									},
+									"compId": 90
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": -14,
+										"x": 60,
+										"width": 80,
+										"var": "itemBox2",
+										"height": 80
+									},
+									"compId": 89
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": -96,
+										"x": 200,
+										"width": 183,
+										"visible": false,
+										"var": "boxTips",
+										"skin": "images/chapterMap/icon_jl_tips_bg.png",
+										"sizeGrid": "9,52,18,11",
+										"height": 78,
+										"anchorY": 0.5,
+										"anchorX": 0.5
+									},
+									"compId": 102,
+									"child": [
+										{
+											"type": "Image",
+											"props": {
+												"y": 14,
+												"x": 21,
+												"var": "iconMoney",
+												"skin": "images/chapterMap/icon_zy_jb.png"
+											},
+											"compId": 104,
+											"child": [
+												{
+													"type": "Label",
+													"props": {
+														"y": 10,
+														"x": 51,
+														"var": "labMoneyNum",
+														"text": "x2000",
+														"fontSize": 26,
+														"color": "#eaeaac"
+													},
+													"compId": 106
+												}
+											]
+										},
+										{
+											"type": "Image",
+											"props": {
+												"y": 10,
+												"x": 78,
+												"var": "iconSolider",
+												"skin": "images/man/soliderA1_1.png",
+												"scaleY": 0.4,
+												"scaleX": 0.4,
+												"rotation": 90
+											},
+											"compId": 112
+										},
+										{
+											"type": "Label",
+											"props": {
+												"y": 24,
+												"x": 105,
+												"var": "labSoliderNum",
+												"text": "x1",
+												"fontSize": 26,
+												"color": "#eaeaac"
+											},
+											"compId": 113
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/chapterMap/bg.png",
+		"images/chapterMap/icon_gq_bg4.png",
+		"images/chapterMap/icon_gq_bg1.png",
+		"images/chapterMap/icon_gq_btbg.png",
+		"images/chapterMap/icon_bq_btbg2.png",
+		"images/chapterMap/icon_gqtb1.png",
+		"images/chapterMap/button_fh.png",
+		"images/chapterMap/icon_jl_bg.png",
+		"images/chapterMap/icon_jl_jdt1.png",
+		"images/chapterMap/icon_jl_jdt2.png",
+		"images/chapterMap/icon_jl_xx.png",
+		"images/chapterMap/icon_jl_tips_bg.png",
+		"images/chapterMap/icon_zy_jb.png",
+		"images/man/soliderA1_1.png"
+	],
+	"loadList3D": []
+}

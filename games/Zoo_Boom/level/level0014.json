@@ -1,0 +1,27 @@
+ {
+	"size":8,
+	"moves":45,
+	"stars":{"avg":17, "top":28 },
+	"add":[		
+		{ "x":2, "y":5, "type":"COIN", "count": true },		{ "x":3, "y":5, "type":"COIN", "count": true },		{ "x":4, "y":5, "type":"COIN", "count": true },		{ "x":5, "y":5, "type":"COIN", "count": true },			
+		{ "x":2, "y":4, "type":"COIN", "count": true },		{ "x":3, "y":4, "type":"COIN", "count": true },		{ "x":4, "y":4, "type":"COIN", "count": true },		{ "x":5, "y":4, "type":"COIN", "count": true },			
+		{ "x":2, "y":3, "type":"COIN", "count": true },		{ "x":3, "y":3, "type":"COIN", "count": true },		{ "x":4, "y":3, "type":"COIN", "count": true },		{ "x":5, "y":3, "type":"COIN", "count": true },		
+		{ "x":2, "y":2, "type":"COIN", "count": true },		{ "x":3, "y":2, "type":"COIN", "count": true },		{ "x":4, "y":2, "type":"COIN", "count": true },		{ "x":5, "y":2, "type":"COIN", "count": true },		
+		{ "x":2, "y":1, "type":"COIN", "count": true },		{ "x":3, "y":1, "type":"COIN", "count": true },		{ "x":4, "y":1, "type":"COIN", "count": true },		{ "x":5, "y":1, "type":"COIN", "count": true },		
+		{ "x":2, "y":0, "type":"COIN", "count": true },		{ "x":3, "y":0, "type":"COIN", "count": true },		{ "x":4, "y":0, "type":"COIN", "count": true },		{ "x":5, "y":0, "type":"COIN", "count": true },
+				
+		{ "x":2, "y":6, "type":"ANVIL", "count": true },		
+		{ "x":3, "y":6, "type":"FAT_ANVIL", "count": true },		
+		{ "x":5, "y":6, "type":"ANVIL", "count": true }
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_PURPLE","GEM_RED","GEM_YELLOW","GEM_PURPLE"],
+	"field":[ 
+		"oooxxooo",
+		"ooxxxxoo",
+		"xxxxxxxx",
+		"xxxxxxxx",
+		"xxxxxxxx",
+		"xxxxxxxx",
+		"xxxxxxxx",
+		"xxxxxxxx"]
+ }

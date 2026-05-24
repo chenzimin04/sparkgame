@@ -1,0 +1,76 @@
+
+skel_bulletlight.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gg0001
+  rotate: false
+  xy: 931, 36
+  size: 148, 135
+  orig: 380, 400
+  offset: 111, 164
+  index: -1
+gg0002
+  rotate: false
+  xy: 756, 1
+  size: 174, 170
+  orig: 380, 400
+  offset: 100, 142
+  index: -1
+gg0003
+  rotate: true
+  xy: 1381, 54
+  size: 242, 282
+  orig: 380, 400
+  offset: 69, 46
+  index: -1
+gg0004
+  rotate: true
+  xy: 1664, 52
+  size: 239, 266
+  orig: 380, 400
+  offset: 59, 75
+  index: -1
+gg0005
+  rotate: false
+  xy: 1093, 195
+  size: 287, 316
+  orig: 380, 400
+  offset: 37, 48
+  index: -1
+gg0006
+  rotate: false
+  xy: 756, 172
+  size: 336, 339
+  orig: 380, 400
+  offset: 14, 45
+  index: -1
+gg0007
+  rotate: false
+  xy: 382, 141
+  size: 373, 370
+  orig: 380, 400
+  offset: 0, 30
+  index: -1
+gg0008
+  rotate: false
+  xy: 1, 132
+  size: 380, 379
+  orig: 380, 400
+  offset: 0, 21
+  index: -1
+gg0009
+  rotate: false
+  xy: 1381, 297
+  size: 316, 214
+  orig: 380, 400
+  offset: 0, 80
+  index: -1
+gg0010
+  rotate: false
+  xy: 1698, 292
+  size: 307, 219
+  orig: 380, 400
+  offset: 0, 74
+  index: -1

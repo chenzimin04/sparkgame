@@ -1,0 +1,5231 @@
+{
+	"1": {
+		"help": 0,
+		"lvPass": 1,
+		"bloodSet": 3000,
+		"enemy8": [],
+		"enemy9": [],
+		"enemy2": [
+			3.0,
+			3000.0
+		],
+		"enemy3": [],
+		"enemy1": [
+			1.0,
+			1320.0
+		],
+		"enemy6": [],
+		"enemy7": [],
+		"enemy4": [],
+		"enemy5": [],
+		"enemy10": [],
+		"enemy11": [],
+		"enemy12": [],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 1,
+		"passType": 1,
+		"lvChapter": 1,
+		"starNum": 0,
+		"standGold": 0,
+		"speed": 1.0,
+		"standBlood": 0,
+		"starType": 0,
+		"blood": 5,
+		"enemy20": [],
+		"initGold": 980,
+		"mapNo": 1,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"2": {
+		"help": 0,
+		"lvPass": 2,
+		"bloodSet": 4400,
+		"enemy8": [],
+		"enemy9": [],
+		"enemy2": [
+			124.0,
+			4400.0
+		],
+		"enemy3": [],
+		"enemy1": [
+			13.0,
+			1540.0
+		],
+		"enemy6": [],
+		"enemy7": [],
+		"enemy4": [],
+		"enemy5": [],
+		"enemy10": [],
+		"enemy11": [],
+		"enemy12": [],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 2,
+		"passType": 1,
+		"lvChapter": 1,
+		"starNum": 0,
+		"standGold": 460,
+		"speed": 0.97,
+		"standBlood": 40,
+		"starType": 0,
+		"blood": 5,
+		"enemy20": [],
+		"initGold": 880,
+		"mapNo": 2,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"3": {
+		"help": 0,
+		"lvPass": 3,
+		"bloodSet": 6054,
+		"enemy8": [],
+		"enemy9": [],
+		"enemy2": [
+			7.0,
+			4661.0
+		],
+		"enemy3": [
+			102.0,
+			6054.0
+		],
+		"enemy1": [
+			3.0,
+			3087.0
+		],
+		"enemy6": [],
+		"enemy7": [],
+		"enemy4": [],
+		"enemy5": [],
+		"enemy10": [],
+		"enemy11": [],
+		"enemy12": [],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 3,
+		"passType": 1,
+		"lvChapter": 1,
+		"starNum": 0,
+		"standGold": 800,
+		"speed": 1.06,
+		"standBlood": 48,
+		"starType": 0,
+		"blood": 5,
+		"enemy20": [],
+		"initGold": 880,
+		"mapNo": 3,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 1
+	},
+	"4": {
+		"help": 0,
+		"lvPass": 4,
+		"bloodSet": 14600,
+		"enemy8": [],
+		"enemy9": [],
+		"enemy2": [
+			10.0,
+			4964.0
+		],
+		"enemy3": [
+			104.0,
+			11388.0
+		],
+		"enemy1": [
+			8.0,
+			1898.0
+		],
+		"enemy6": [],
+		"enemy7": [],
+		"enemy4": [
+			184.0,
+			12848.0
+		],
+		"enemy5": [
+			103.0,
+			17520.0
+		],
+		"enemy10": [],
+		"enemy11": [],
+		"enemy12": [],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 4,
+		"passType": 1,
+		"lvChapter": 1,
+		"starNum": 0,
+		"standGold": 600,
+		"speed": 1.0,
+		"standBlood": 49,
+		"starType": 0,
+		"blood": 5,
+		"enemy20": [],
+		"initGold": 1080,
+		"mapNo": 4,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"5": {
+		"help": 131,
+		"lvPass": 5,
+		"bloodSet": 14600,
+		"enemy8": [],
+		"enemy9": [],
+		"enemy2": [
+			6.0,
+			7446.0
+		],
+		"enemy3": [
+			102.0,
+			10658.0
+		],
+		"enemy1": [
+			3.0,
+			2044.0
+		],
+		"enemy6": [],
+		"enemy7": [],
+		"enemy4": [
+			103.0,
+			14308.0
+		],
+		"enemy5": [
+			173.0,
+			20440.0
+		],
+		"enemy10": [],
+		"enemy11": [],
+		"enemy12": [],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 5,
+		"passType": 1,
+		"lvChapter": 1,
+		"starNum": 0,
+		"standGold": 680,
+		"speed": 1.06,
+		"standBlood": 62,
+		"starType": 0,
+		"blood": 5,
+		"enemy20": [],
+		"initGold": 1080,
+		"mapNo": 5,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"6": {
+		"help": 652,
+		"lvPass": 1,
+		"bloodSet": 19000,
+		"enemy8": [
+			3.0,
+			15580.0
+		],
+		"enemy9": [
+			7.0,
+			17670.0
+		],
+		"enemy2": [
+			3.0,
+			3420.0
+		],
+		"enemy3": [
+			7.0,
+			7980.0
+		],
+		"enemy1": [
+			3.0,
+			1900.0
+		],
+		"enemy6": [
+			181.0,
+			8550.0
+		],
+		"enemy7": [
+			103.0,
+			14440.0
+		],
+		"enemy4": [
+			104.0,
+			11400.0
+		],
+		"enemy5": [
+			3.0,
+			11400.0
+		],
+		"enemy10": [
+			121.0,
+			19000.0
+		],
+		"enemy11": [],
+		"enemy12": [],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 6,
+		"passType": 1,
+		"lvChapter": 2,
+		"starNum": 0,
+		"standGold": 600,
+		"speed": 1.0,
+		"standBlood": 62,
+		"starType": 1,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 960,
+		"mapNo": 6,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"7": {
+		"help": 0,
+		"lvPass": 2,
+		"bloodSet": 22000,
+		"enemy8": [
+			144.0,
+			14520.0
+		],
+		"enemy9": [
+			121.0,
+			20680.0
+		],
+		"enemy2": [
+			6.0,
+			4180.0
+		],
+		"enemy3": [
+			101.0,
+			7700.0
+		],
+		"enemy1": [
+			6.0,
+			2640.0
+		],
+		"enemy6": [
+			181.0,
+			11000.0
+		],
+		"enemy7": [
+			10.0,
+			16940.0
+		],
+		"enemy4": [
+			182.0,
+			9240.0
+		],
+		"enemy5": [
+			102.0,
+			16940.0
+		],
+		"enemy10": [
+			123.0,
+			22000.0
+		],
+		"enemy11": [],
+		"enemy12": [],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 7,
+		"passType": 1,
+		"lvChapter": 2,
+		"starNum": 0,
+		"standGold": 800,
+		"speed": 1.0,
+		"standBlood": 64,
+		"starType": 1,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 960,
+		"mapNo": 7,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"8": {
+		"help": 0,
+		"lvPass": 3,
+		"bloodSet": 18400,
+		"enemy8": [
+			143.0,
+			7912.0
+		],
+		"enemy9": [
+			101.0,
+			16928.0
+		],
+		"enemy2": [
+			6.0,
+			5520.0
+		],
+		"enemy3": [
+			13.0,
+			9200.0
+		],
+		"enemy1": [
+			3.0,
+			2944.0
+		],
+		"enemy6": [
+			121.0,
+			11960.0
+		],
+		"enemy7": [
+			102.0,
+			13248.0
+		],
+		"enemy4": [
+			142.0,
+			6992.0
+		],
+		"enemy5": [
+			13.0,
+			11224.0
+		],
+		"enemy10": [
+			121.0,
+			14720.0
+		],
+		"enemy11": [],
+		"enemy12": [],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 8,
+		"passType": 1,
+		"lvChapter": 2,
+		"starNum": 0,
+		"standGold": 960,
+		"speed": 1.0,
+		"standBlood": 68,
+		"starType": 1,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 920,
+		"mapNo": 8,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 1
+	},
+	"9": {
+		"help": 0,
+		"lvPass": 4,
+		"bloodSet": 28000,
+		"enemy8": [
+			101.0,
+			24080.0
+		],
+		"enemy9": [
+			185.0,
+			20160.0
+		],
+		"enemy2": [
+			6.0,
+			5600.0
+		],
+		"enemy3": [
+			182.0,
+			8680.0
+		],
+		"enemy1": [
+			3.0,
+			3640.0
+		],
+		"enemy6": [
+			182.0,
+			16520.0
+		],
+		"enemy7": [
+			124.0,
+			22400.0
+		],
+		"enemy4": [
+			121.0,
+			15400.0
+		],
+		"enemy5": [
+			10.0,
+			16800.0
+		],
+		"enemy10": [
+			171.0,
+			28000.0
+		],
+		"enemy11": [],
+		"enemy12": [],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 9,
+		"passType": 1,
+		"lvChapter": 2,
+		"starNum": 0,
+		"standGold": 935,
+		"speed": 1.0,
+		"standBlood": 96,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 860,
+		"mapNo": 9,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"10": {
+		"help": 0,
+		"lvPass": 5,
+		"bloodSet": 38000,
+		"enemy8": [
+			184.0,
+			19380.0
+		],
+		"enemy9": [
+			172.0,
+			27740.0
+		],
+		"enemy2": [
+			10.0,
+			6840.0
+		],
+		"enemy3": [
+			182.0,
+			9120.0
+		],
+		"enemy1": [
+			6.0,
+			4560.0
+		],
+		"enemy6": [
+			101.0,
+			17480.0
+		],
+		"enemy7": [
+			6.0,
+			19000.0
+		],
+		"enemy4": [
+			105.0,
+			15200.0
+		],
+		"enemy5": [
+			10.0,
+			15960.0
+		],
+		"enemy10": [
+			10.0,
+			31920.0
+		],
+		"enemy11": [
+			121.0,
+			34580.0
+		],
+		"enemy12": [
+			163.0,
+			38000.0
+		],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 10,
+		"passType": 1,
+		"lvChapter": 2,
+		"starNum": 0,
+		"standGold": 1200,
+		"speed": 1.0,
+		"standBlood": 104,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 920,
+		"mapNo": 10,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"11": {
+		"help": 0,
+		"lvPass": 6,
+		"bloodSet": 38500,
+		"enemy8": [
+			182.0,
+			23100.0
+		],
+		"enemy9": [
+			184.0,
+			26180.0
+		],
+		"enemy2": [
+			13.0,
+			7700.0
+		],
+		"enemy3": [
+			102.0,
+			13475.0
+		],
+		"enemy1": [
+			10.0,
+			5390.0
+		],
+		"enemy6": [
+			10.0,
+			24255.0
+		],
+		"enemy7": [
+			102.0,
+			26180.0
+		],
+		"enemy4": [
+			182.0,
+			14245.0
+		],
+		"enemy5": [
+			106.0,
+			23100.0
+		],
+		"enemy10": [
+			102.0,
+			31955.0
+		],
+		"enemy11": [
+			183.0,
+			32340.0
+		],
+		"enemy12": [
+			123.0,
+			38500.0
+		],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 11,
+		"passType": 1,
+		"lvChapter": 2,
+		"starNum": 0,
+		"standGold": 820,
+		"speed": 1.0,
+		"standBlood": 108,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 920,
+		"mapNo": 11,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"12": {
+		"help": 144,
+		"lvPass": 7,
+		"bloodSet": 32000,
+		"enemy8": [
+			185.0,
+			20480.0
+		],
+		"enemy9": [
+			121.0,
+			30080.0
+		],
+		"enemy2": [
+			6.0,
+			7360.0
+		],
+		"enemy3": [
+			13.0,
+			11840.0
+		],
+		"enemy1": [
+			3.0,
+			5760.0
+		],
+		"enemy6": [
+			6.0,
+			20480.0
+		],
+		"enemy7": [
+			13.0,
+			24640.0
+		],
+		"enemy4": [
+			182.0,
+			13440.0
+		],
+		"enemy5": [
+			106.0,
+			24640.0
+		],
+		"enemy10": [
+			124.0,
+			32000.0
+		],
+		"enemy11": [],
+		"enemy12": [],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 12,
+		"passType": 1,
+		"lvChapter": 2,
+		"starNum": 0,
+		"standGold": 920,
+		"speed": 1.1,
+		"standBlood": 110,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1260,
+		"mapNo": 12,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"13": {
+		"help": 0,
+		"lvPass": 8,
+		"bloodSet": 51000,
+		"enemy8": [
+			172.0,
+			39780.0
+		],
+		"enemy9": [
+			185.0,
+			32130.0
+		],
+		"enemy2": [
+			13.0,
+			10200.0
+		],
+		"enemy3": [
+			10.0,
+			15810.0
+		],
+		"enemy1": [
+			3.0,
+			6120.0
+		],
+		"enemy6": [
+			102.0,
+			25500.0
+		],
+		"enemy7": [
+			184.0,
+			25500.0
+		],
+		"enemy4": [
+			182.0,
+			15300.0
+		],
+		"enemy5": [
+			162.0,
+			29580.0
+		],
+		"enemy10": [
+			163.0,
+			51000.0
+		],
+		"enemy11": [],
+		"enemy12": [],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 13,
+		"passType": 1,
+		"lvChapter": 2,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 1.08,
+		"standBlood": 116,
+		"starType": -320,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1460,
+		"mapNo": 13,
+		"bron": 0,
+		"starJob": 0,
+		"playType": -320
+	},
+	"14": {
+		"help": 552,
+		"lvPass": 9,
+		"bloodSet": 38000,
+		"enemy8": [
+			162.0,
+			31540.0
+		],
+		"enemy9": [
+			185.0,
+			27360.0
+		],
+		"enemy2": [
+			10.0,
+			6460.0
+		],
+		"enemy3": [
+			161.0,
+			12160.0
+		],
+		"enemy1": [
+			6.0,
+			4180.0
+		],
+		"enemy6": [
+			183.0,
+			19000.0
+		],
+		"enemy7": [
+			101.0,
+			26600.0
+		],
+		"enemy4": [
+			182.0,
+			10640.0
+		],
+		"enemy5": [
+			161.0,
+			19000.0
+		],
+		"enemy10": [
+			163.0,
+			38000.0
+		],
+		"enemy11": [],
+		"enemy12": [],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 14,
+		"passType": 1,
+		"lvChapter": 2,
+		"starNum": 0,
+		"standGold": 960,
+		"speed": 1.0,
+		"standBlood": 128,
+		"starType": 1,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 860,
+		"mapNo": 14,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"15": {
+		"help": 339,
+		"lvPass": 10,
+		"bloodSet": 53000,
+		"enemy8": [
+			181.0,
+			31800.0
+		],
+		"enemy9": [
+			162.0,
+			38690.0
+		],
+		"enemy2": [
+			161.0,
+			6360.0
+		],
+		"enemy3": [
+			102.0,
+			12190.0
+		],
+		"enemy1": [
+			10.0,
+			4770.0
+		],
+		"enemy6": [
+			123.0,
+			21200.0
+		],
+		"enemy7": [
+			101.0,
+			30210.0
+		],
+		"enemy4": [
+			121.0,
+			17490.0
+		],
+		"enemy5": [
+			184.0,
+			21200.0
+		],
+		"enemy10": [
+			121.0,
+			40810.0
+		],
+		"enemy11": [
+			184.0,
+			41340.0
+		],
+		"enemy12": [
+			173.0,
+			46640.0
+		],
+		"enemy13": [
+			185.0,
+			46640.0
+		],
+		"enemy14": [
+			172.0,
+			50880.0
+		],
+		"enemy15": [
+			163.0,
+			53000.0
+		],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [
+			[
+				902,
+				92000
+			],
+			[
+				0,
+				0
+			],
+			[
+				0,
+				0
+			],
+			[
+				0,
+				0
+			]
+		],
+		"id": 15,
+		"passType": 1,
+		"lvChapter": 2,
+		"starNum": 0,
+		"standGold": 2200,
+		"speed": 0.96,
+		"standBlood": 126,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 2200,
+		"mapNo": 15,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 3
+	},
+	"16": {
+		"help": 0,
+		"lvPass": 1,
+		"bloodSet": 35000,
+		"enemy8": [
+			102.0,
+			30100.0
+		],
+		"enemy9": [
+			382.0,
+			25200.0
+		],
+		"enemy2": [
+			102.0,
+			6300.0
+		],
+		"enemy3": [
+			301.0,
+			10850.0
+		],
+		"enemy1": [
+			17.0,
+			4200.0
+		],
+		"enemy6": [
+			184.0,
+			16450.0
+		],
+		"enemy7": [
+			302.0,
+			26600.0
+		],
+		"enemy4": [
+			17.0,
+			13650.0
+		],
+		"enemy5": [
+			102.0,
+			16100.0
+		],
+		"enemy10": [
+			372.0,
+			35000.0
+		],
+		"enemy11": [],
+		"enemy12": [],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 16,
+		"passType": 1,
+		"lvChapter": 3,
+		"starNum": 0,
+		"standGold": 1000,
+		"speed": 1.0,
+		"standBlood": 105,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1000,
+		"mapNo": 16,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"17": {
+		"help": 0,
+		"lvPass": 2,
+		"bloodSet": 36500,
+		"enemy8": [
+			162.0,
+			25550.0
+		],
+		"enemy9": [
+			102.0,
+			28835.0
+		],
+		"enemy2": [
+			102.0,
+			10585.0
+		],
+		"enemy3": [
+			362.0,
+			14600.0
+		],
+		"enemy1": [
+			13.0,
+			6935.0
+		],
+		"enemy6": [
+			102.0,
+			24820.0
+		],
+		"enemy7": [
+			383.0,
+			16790.0
+		],
+		"enemy4": [
+			143.0,
+			12775.0
+		],
+		"enemy5": [
+			101.0,
+			22630.0
+		],
+		"enemy10": [
+			121.0,
+			30295.0
+		],
+		"enemy11": [
+			123.0,
+			30295.0
+		],
+		"enemy12": [
+			184.0,
+			24455.0
+		],
+		"enemy13": [
+			384.0,
+			26280.0
+		],
+		"enemy14": [
+			374.0,
+			36500.0
+		],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 17,
+		"passType": 1,
+		"lvChapter": 3,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 1.0,
+		"standBlood": 124,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1280,
+		"mapNo": 17,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 1
+	},
+	"18": {
+		"help": 0,
+		"lvPass": 3,
+		"bloodSet": 48000,
+		"enemy8": [
+			121.0,
+			27360.0
+		],
+		"enemy9": [
+			302.0,
+			30240.0
+		],
+		"enemy2": [
+			13.0,
+			8640.0
+		],
+		"enemy3": [
+			102.0,
+			12960.0
+		],
+		"enemy1": [
+			6.0,
+			6720.0
+		],
+		"enemy6": [
+			17.0,
+			22560.0
+		],
+		"enemy7": [
+			102.0,
+			24960.0
+		],
+		"enemy4": [
+			17.0,
+			17760.0
+		],
+		"enemy5": [
+			161.0,
+			20160.0
+		],
+		"enemy10": [
+			364.0,
+			36480.0
+		],
+		"enemy11": [
+			123.0,
+			38880.0
+		],
+		"enemy12": [
+			361.0,
+			48000.0
+		],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 18,
+		"passType": 1,
+		"lvChapter": 3,
+		"starNum": 0,
+		"standGold": 1080,
+		"speed": 1.0,
+		"standBlood": 122,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1020,
+		"mapNo": 18,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"19": {
+		"help": 325,
+		"lvPass": 4,
+		"bloodSet": 57000,
+		"enemy8": [
+			364.0,
+			48450.0
+		],
+		"enemy9": [
+			322.0,
+			47880.0
+		],
+		"enemy2": [
+			102.0,
+			7980.0
+		],
+		"enemy3": [
+			143.0,
+			9690.0
+		],
+		"enemy1": [
+			17.0,
+			6270.0
+		],
+		"enemy6": [
+			183.0,
+			26790.0
+		],
+		"enemy7": [
+			303.0,
+			42750.0
+		],
+		"enemy4": [
+			361.0,
+			19950.0
+		],
+		"enemy5": [
+			101.0,
+			23940.0
+		],
+		"enemy10": [
+			361.0,
+			49590.0
+		],
+		"enemy11": [
+			185.0,
+			41040.0
+		],
+		"enemy12": [
+			365.0,
+			52440.0
+		],
+		"enemy13": [
+			385.0,
+			49020.0
+		],
+		"enemy14": [
+			465.0,
+			57000.0
+		],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 19,
+		"passType": 1,
+		"lvChapter": 3,
+		"starNum": 0,
+		"standGold": 1150,
+		"speed": 1.0,
+		"standBlood": 125,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1080,
+		"mapNo": 19,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"20": {
+		"help": 0,
+		"lvPass": 5,
+		"bloodSet": 80000,
+		"enemy8": [
+			162.0,
+			40000.0
+		],
+		"enemy9": [
+			185.0,
+			40000.0
+		],
+		"enemy2": [
+			13.0,
+			10400.0
+		],
+		"enemy3": [
+			102.0,
+			17600.0
+		],
+		"enemy1": [
+			6.0,
+			7200.0
+		],
+		"enemy6": [
+			102.0,
+			36000.0
+		],
+		"enemy7": [
+			305.0,
+			45600.0
+		],
+		"enemy4": [
+			182.0,
+			23200.0
+		],
+		"enemy5": [
+			382.0,
+			32000.0
+		],
+		"enemy10": [
+			361.0,
+			61600.0
+		],
+		"enemy11": [
+			374.0,
+			76800.0
+		],
+		"enemy12": [
+			366.0,
+			80000.0
+		],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 20,
+		"passType": 1,
+		"lvChapter": 3,
+		"starNum": 0,
+		"standGold": 1120,
+		"speed": 1.06,
+		"standBlood": 128,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1260,
+		"mapNo": 20,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"21": {
+		"help": 344,
+		"lvPass": 6,
+		"bloodSet": 145000,
+		"enemy8": [
+			123.0,
+			33350.0
+		],
+		"enemy9": [
+			383.0,
+			37700.0
+		],
+		"enemy2": [
+			13.0,
+			11600.0
+		],
+		"enemy3": [
+			102.0,
+			15950.0
+		],
+		"enemy1": [
+			3.0,
+			8700.0
+		],
+		"enemy6": [
+			163.0,
+			29000.0
+		],
+		"enemy7": [
+			102.0,
+			30450.0
+		],
+		"enemy4": [
+			382.0,
+			20300.0
+		],
+		"enemy5": [
+			123.0,
+			24650.0
+		],
+		"enemy10": [
+			124.0,
+			46400.0
+		],
+		"enemy11": [
+			385.0,
+			34800.0
+		],
+		"enemy12": [
+			361.0,
+			43500.0
+		],
+		"enemy13": [
+			102.0,
+			49300.0
+		],
+		"enemy14": [
+			123.0,
+			53650.0
+		],
+		"enemy15": [
+			102.0,
+			58000.0
+		],
+		"enemy16": [
+			125.0,
+			62350.0
+		],
+		"enemy17": [
+			361.0,
+			68150.0
+		],
+		"enemy18": [
+			366.0,
+			76850.0
+		],
+		"enemy19": [
+			365.0,
+			92800.0
+		],
+		"bossSet": [],
+		"id": 21,
+		"passType": 1,
+		"lvChapter": 3,
+		"starNum": 0,
+		"standGold": 1800,
+		"speed": 1.0,
+		"standBlood": 146,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [
+			663.0,
+			145000.0
+		],
+		"initGold": 1400,
+		"mapNo": 21,
+		"bron": 230000,
+		"starJob": 0,
+		"playType": 4
+	},
+	"22": {
+		"help": 0,
+		"lvPass": 7,
+		"bloodSet": 49000,
+		"enemy8": [
+			364.0,
+			38710.0
+		],
+		"enemy9": [
+			185.0,
+			33810.0
+		],
+		"enemy2": [
+			13.0,
+			7840.0
+		],
+		"enemy3": [
+			102.0,
+			11270.0
+		],
+		"enemy1": [
+			6.0,
+			5880.0
+		],
+		"enemy6": [
+			101.0,
+			25970.0
+		],
+		"enemy7": [
+			183.0,
+			24500.0
+		],
+		"enemy4": [
+			182.0,
+			15680.0
+		],
+		"enemy5": [
+			362.0,
+			21560.0
+		],
+		"enemy10": [
+			361.0,
+			49000.0
+		],
+		"enemy11": [],
+		"enemy12": [],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 22,
+		"passType": 1,
+		"lvChapter": 3,
+		"starNum": 0,
+		"standGold": 1000,
+		"speed": 1.06,
+		"standBlood": 146,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1580,
+		"mapNo": 22,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"23": {
+		"help": 0,
+		"lvPass": 8,
+		"bloodSet": 48000,
+		"enemy8": [
+			361.0,
+			27360.0
+		],
+		"enemy9": [
+			124.0,
+			32160.0
+		],
+		"enemy2": [
+			10.0,
+			7680.0
+		],
+		"enemy3": [
+			102.0,
+			10560.0
+		],
+		"enemy1": [
+			3.0,
+			5760.0
+		],
+		"enemy6": [
+			123.0,
+			23040.0
+		],
+		"enemy7": [
+			122.0,
+			26880.0
+		],
+		"enemy4": [
+			302.0,
+			14400.0
+		],
+		"enemy5": [
+			363.0,
+			18720.0
+		],
+		"enemy10": [
+			322.0,
+			36960.0
+		],
+		"enemy11": [
+			365.0,
+			43200.0
+		],
+		"enemy12": [
+			475.0,
+			48000.0
+		],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 23,
+		"passType": 1,
+		"lvChapter": 3,
+		"starNum": 0,
+		"standGold": 1180,
+		"speed": 0.95,
+		"standBlood": 129,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1180,
+		"mapNo": 23,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"24": {
+		"help": 325,
+		"lvPass": 9,
+		"bloodSet": 85000,
+		"enemy8": [
+			382.0,
+			48450.0
+		],
+		"enemy9": [
+			322.0,
+			60350.0
+		],
+		"enemy2": [
+			17.0,
+			12750.0
+		],
+		"enemy3": [
+			102.0,
+			20400.0
+		],
+		"enemy1": [
+			6.0,
+			10200.0
+		],
+		"enemy6": [
+			102.0,
+			37400.0
+		],
+		"enemy7": [
+			123.0,
+			42500.0
+		],
+		"enemy4": [
+			182.0,
+			28900.0
+		],
+		"enemy5": [
+			124.0,
+			39950.0
+		],
+		"enemy10": [
+			122.0,
+			59500.0
+		],
+		"enemy11": [
+			385.0,
+			61200.0
+		],
+		"enemy12": [
+			374.0,
+			74800.0
+		],
+		"enemy13": [
+			365.0,
+			81600.0
+		],
+		"enemy14": [
+			475.0,
+			85000.0
+		],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 24,
+		"passType": 1,
+		"lvChapter": 3,
+		"starNum": 0,
+		"standGold": 1520,
+		"speed": 1.05,
+		"standBlood": 140,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1260,
+		"mapNo": 24,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"25": {
+		"help": 0,
+		"lvPass": 10,
+		"bloodSet": 93000,
+		"enemy8": [
+			361.0,
+			79050.0
+		],
+		"enemy9": [
+			385.0,
+			76260.0
+		],
+		"enemy2": [
+			17.0,
+			16740.0
+		],
+		"enemy3": [
+			301.0,
+			24180.0
+		],
+		"enemy1": [
+			6.0,
+			9300.0
+		],
+		"enemy6": [
+			302.0,
+			50220.0
+		],
+		"enemy7": [
+			383.0,
+			63240.0
+		],
+		"enemy4": [
+			382.0,
+			34410.0
+		],
+		"enemy5": [
+			162.0,
+			52080.0
+		],
+		"enemy10": [
+			366.0,
+			93000.0
+		],
+		"enemy11": [],
+		"enemy12": [],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 25,
+		"passType": 1,
+		"lvChapter": 3,
+		"starNum": 0,
+		"standGold": 1800,
+		"speed": 1.09,
+		"standBlood": 165,
+		"starType": -380,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1460,
+		"mapNo": 25,
+		"bron": 0,
+		"starJob": 0,
+		"playType": -400
+	},
+	"26": {
+		"help": 0,
+		"lvPass": 11,
+		"bloodSet": 74000,
+		"enemy8": [
+			322.0,
+			45880.0
+		],
+		"enemy9": [
+			185.0,
+			34040.0
+		],
+		"enemy2": [
+			9.0,
+			12580.0
+		],
+		"enemy3": [
+			102.0,
+			17760.0
+		],
+		"enemy1": [
+			10.0,
+			8880.0
+		],
+		"enemy6": [
+			124.0,
+			35520.0
+		],
+		"enemy7": [
+			382.0,
+			34040.0
+		],
+		"enemy4": [
+			184.0,
+			19980.0
+		],
+		"enemy5": [
+			162.0,
+			38480.0
+		],
+		"enemy10": [
+			361.0,
+			62900.0
+		],
+		"enemy11": [
+			124.0,
+			62160.0
+		],
+		"enemy12": [
+			322.0,
+			65120.0
+		],
+		"enemy13": [
+			391.0,
+			45880.0
+		],
+		"enemy14": [
+			365.0,
+			70300.0
+		],
+		"enemy15": [
+			475.0,
+			74000.0
+		],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 26,
+		"passType": 1,
+		"lvChapter": 3,
+		"starNum": 0,
+		"standGold": 1260,
+		"speed": 1.0,
+		"standBlood": 136,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1260,
+		"mapNo": 26,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"27": {
+		"help": 0,
+		"lvPass": 12,
+		"bloodSet": 83000,
+		"enemy8": [
+			364.0,
+			63080.0
+		],
+		"enemy9": [
+			124.0,
+			61420.0
+		],
+		"enemy2": [
+			9.0,
+			15770.0
+		],
+		"enemy3": [
+			124.0,
+			22410.0
+		],
+		"enemy1": [
+			10.0,
+			10790.0
+		],
+		"enemy6": [
+			304.0,
+			43990.0
+		],
+		"enemy7": [
+			382.0,
+			44820.0
+		],
+		"enemy4": [
+			323.0,
+			27390.0
+		],
+		"enemy5": [
+			162.0,
+			35690.0
+		],
+		"enemy10": [
+			322.0,
+			66400.0
+		],
+		"enemy11": [
+			361.0,
+			76360.0
+		],
+		"enemy12": [
+			185.0,
+			63910.0
+		],
+		"enemy13": [
+			366.0,
+			83000.0
+		],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 27,
+		"passType": 1,
+		"lvChapter": 3,
+		"starNum": 0,
+		"standGold": 1060,
+		"speed": 1.09,
+		"standBlood": 140,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1360,
+		"mapNo": 27,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"28": {
+		"help": 0,
+		"lvPass": 13,
+		"bloodSet": 57000,
+		"enemy8": [
+			373.0,
+			27930.0
+		],
+		"enemy9": [
+			124.0,
+			38190.0
+		],
+		"enemy2": [
+			17.0,
+			12540.0
+		],
+		"enemy3": [
+			102.0,
+			21660.0
+		],
+		"enemy1": [
+			6.0,
+			8550.0
+		],
+		"enemy6": [
+			382.0,
+			34200.0
+		],
+		"enemy7": [
+			322.0,
+			35910.0
+		],
+		"enemy4": [
+			343.0,
+			16530.0
+		],
+		"enemy5": [
+			124.0,
+			30780.0
+		],
+		"enemy10": [
+			382.0,
+			41040.0
+		],
+		"enemy11": [
+			385.0,
+			43320.0
+		],
+		"enemy12": [
+			374.0,
+			39900.0
+		],
+		"enemy13": [
+			391.0,
+			53580.0
+		],
+		"enemy14": [
+			365.0,
+			57000.0
+		],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 28,
+		"passType": 1,
+		"lvChapter": 3,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 0.99,
+		"standBlood": 123,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1200,
+		"mapNo": 28,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 1
+	},
+	"29": {
+		"help": 0,
+		"lvPass": 14,
+		"bloodSet": 91000,
+		"enemy8": [
+			365.0,
+			58240.0
+		],
+		"enemy9": [
+			373.0,
+			65520.0
+		],
+		"enemy2": [
+			102.0,
+			12740.0
+		],
+		"enemy3": [
+			304.0,
+			20020.0
+		],
+		"enemy1": [
+			17.0,
+			8190.0
+		],
+		"enemy6": [
+			371.0,
+			47320.0
+		],
+		"enemy7": [
+			372.0,
+			52780.0
+		],
+		"enemy4": [
+			361.0,
+			40950.0
+		],
+		"enemy5": [
+			302.0,
+			39130.0
+		],
+		"enemy10": [
+			366.0,
+			80990.0
+		],
+		"enemy11": [
+			374.0,
+			76440.0
+		],
+		"enemy12": [
+			475.0,
+			91000.0
+		],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 29,
+		"passType": 1,
+		"lvChapter": 3,
+		"starNum": 0,
+		"standGold": 1300,
+		"speed": 1.04,
+		"standBlood": 124,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1300,
+		"mapNo": 29,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"30": {
+		"help": 0,
+		"lvPass": 15,
+		"bloodSet": 74000,
+		"enemy8": [],
+		"enemy9": [],
+		"enemy2": [
+			304.0,
+			17020.0
+		],
+		"enemy3": [
+			364.0,
+			38480.0
+		],
+		"enemy1": [
+			102.0,
+			10360.0
+		],
+		"enemy6": [
+			361.0,
+			59200.0
+		],
+		"enemy7": [
+			365.0,
+			74000.0
+		],
+		"enemy4": [
+			124.0,
+			42180.0
+		],
+		"enemy5": [
+			322.0,
+			48100.0
+		],
+		"enemy10": [],
+		"enemy11": [],
+		"enemy12": [],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 30,
+		"passType": 1,
+		"lvChapter": 3,
+		"starNum": 0,
+		"standGold": 1060,
+		"speed": 1.0,
+		"standBlood": 128,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1200,
+		"mapNo": 30,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"31": {
+		"help": 0,
+		"lvPass": 16,
+		"bloodSet": 180000,
+		"enemy8": [
+			372.0,
+			124200.0
+		],
+		"enemy9": [
+			365.0,
+			167400.0
+		],
+		"enemy2": [
+			102.0,
+			23400.0
+		],
+		"enemy3": [
+			304.0,
+			37800.0
+		],
+		"enemy1": [
+			17.0,
+			14400.0
+		],
+		"enemy6": [
+			364.0,
+			88200.0
+		],
+		"enemy7": [
+			305.0,
+			106200.0
+		],
+		"enemy4": [
+			361.0,
+			66600.0
+		],
+		"enemy5": [
+			121.0,
+			77400.0
+		],
+		"enemy10": [
+			373.0,
+			172800.0
+		],
+		"enemy11": [
+			366.0,
+			180000.0
+		],
+		"enemy12": [],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 31,
+		"passType": 1,
+		"lvChapter": 3,
+		"starNum": 0,
+		"standGold": -1299,
+		"speed": 0.99,
+		"standBlood": 210,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 12000,
+		"mapNo": 31,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"32": {
+		"help": 0,
+		"lvPass": 17,
+		"bloodSet": 10000,
+		"enemy8": [
+			322.0,
+			5200.0
+		],
+		"enemy9": [
+			374.0,
+			6400.0
+		],
+		"enemy2": [
+			17.0,
+			1500.0
+		],
+		"enemy3": [
+			102.0,
+			2400.0
+		],
+		"enemy1": [
+			10.0,
+			900.0
+		],
+		"enemy6": [
+			102.0,
+			4200.0
+		],
+		"enemy7": [
+			124.0,
+			4800.0
+		],
+		"enemy4": [
+			124.0,
+			3300.0
+		],
+		"enemy5": [
+			322.0,
+			4500.0
+		],
+		"enemy10": [
+			124.0,
+			6200.0
+		],
+		"enemy11": [
+			322.0,
+			6600.0
+		],
+		"enemy12": [
+			373.0,
+			7200.0
+		],
+		"enemy13": [
+			361.0,
+			9200.0
+		],
+		"enemy14": [
+			374.0,
+			8900.0
+		],
+		"enemy15": [
+			366.0,
+			10000.0
+		],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 32,
+		"passType": 1,
+		"lvChapter": 3,
+		"starNum": 0,
+		"standGold": 2200,
+		"speed": 1.04,
+		"standBlood": 136,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1460,
+		"mapNo": 32,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"33": {
+		"help": 0,
+		"lvPass": 18,
+		"bloodSet": 99000,
+		"enemy8": [
+			163.0,
+			73260.0
+		],
+		"enemy9": [
+			185.0,
+			62370.0
+		],
+		"enemy2": [
+			17.0,
+			17820.0
+		],
+		"enemy3": [
+			102.0,
+			27720.0
+		],
+		"enemy1": [
+			10.0,
+			11880.0
+		],
+		"enemy6": [
+			302.0,
+			54450.0
+		],
+		"enemy7": [
+			124.0,
+			61380.0
+		],
+		"enemy4": [
+			304.0,
+			46530.0
+		],
+		"enemy5": [
+			361.0,
+			44550.0
+		],
+		"enemy10": [
+			364.0,
+			99000.0
+		],
+		"enemy11": [
+			325.0,
+			79200.0
+		],
+		"enemy12": [
+			361.0,
+			99000.0
+		],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 33,
+		"passType": 1,
+		"lvChapter": 3,
+		"starNum": 0,
+		"standGold": 1240,
+		"speed": 1.1,
+		"standBlood": 128,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1180,
+		"mapNo": 33,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"34": {
+		"help": 0,
+		"lvPass": 19,
+		"bloodSet": 89000,
+		"enemy8": [
+			365.0,
+			89000.0
+		],
+		"enemy9": [],
+		"enemy2": [
+			102.0,
+			18690.0
+		],
+		"enemy3": [
+			304.0,
+			32040.0
+		],
+		"enemy1": [
+			17.0,
+			11570.0
+		],
+		"enemy6": [
+			361.0,
+			64080.0
+		],
+		"enemy7": [
+			325.0,
+			78320.0
+		],
+		"enemy4": [
+			364.0,
+			47170.0
+		],
+		"enemy5": [
+			124.0,
+			54290.0
+		],
+		"enemy10": [],
+		"enemy11": [],
+		"enemy12": [],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 34,
+		"passType": 1,
+		"lvChapter": 3,
+		"starNum": 0,
+		"standGold": 1200,
+		"speed": 1.16,
+		"standBlood": 147,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1160,
+		"mapNo": 34,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"35": {
+		"help": 328,
+		"lvPass": 20,
+		"bloodSet": 95000,
+		"enemy8": [
+			361.0,
+			72200.0
+		],
+		"enemy9": [
+			383.0,
+			57000.0
+		],
+		"enemy2": [
+			102.0,
+			17100.0
+		],
+		"enemy3": [
+			103.0,
+			24700.0
+		],
+		"enemy1": [
+			10.0,
+			12350.0
+		],
+		"enemy6": [
+			364.0,
+			58900.0
+		],
+		"enemy7": [
+			382.0,
+			62700.0
+		],
+		"enemy4": [
+			162.0,
+			38000.0
+		],
+		"enemy5": [
+			184.0,
+			43700.0
+		],
+		"enemy10": [
+			366.0,
+			80750.0
+		],
+		"enemy11": [
+			374.0,
+			72200.0
+		],
+		"enemy12": [
+			391.0,
+			64600.0
+		],
+		"enemy13": [
+			365.0,
+			88350.0
+		],
+		"enemy14": [
+			586.0,
+			76000.0
+		],
+		"enemy15": [
+			663.0,
+			95000.0
+		],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [
+			[
+				904,
+				112000
+			],
+			[
+				0,
+				0
+			],
+			[
+				0,
+				0
+			],
+			[
+				0,
+				0
+			]
+		],
+		"id": 35,
+		"passType": 1,
+		"lvChapter": 3,
+		"starNum": 0,
+		"standGold": 2200,
+		"speed": 0.98,
+		"standBlood": 160,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 2200,
+		"mapNo": 35,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 3
+	},
+	"36": {
+		"help": 0,
+		"lvPass": 1,
+		"bloodSet": 120000,
+		"enemy8": [
+			383.0,
+			62400.0
+		],
+		"enemy9": [
+			404.0,
+			82800.0
+		],
+		"enemy2": [
+			13.0,
+			16800.0
+		],
+		"enemy3": [
+			183.0,
+			21600.0
+		],
+		"enemy1": [
+			11.0,
+			12000.0
+		],
+		"enemy6": [
+			184.0,
+			48000.0
+		],
+		"enemy7": [
+			322.0,
+			60000.0
+		],
+		"enemy4": [
+			402.0,
+			34800.0
+		],
+		"enemy5": [
+			102.0,
+			38400.0
+		],
+		"enemy10": [
+			361.0,
+			92400.0
+		],
+		"enemy11": [
+			422.0,
+			111600.0
+		],
+		"enemy12": [
+			366.0,
+			120000.0
+		],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 36,
+		"passType": 1,
+		"lvChapter": 4,
+		"starNum": 0,
+		"standGold": 1200,
+		"speed": 1.16,
+		"standBlood": 132,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1380,
+		"mapNo": 36,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"37": {
+		"help": 0,
+		"lvPass": 2,
+		"bloodSet": 110000,
+		"enemy8": [
+			322.0,
+			53900.0
+		],
+		"enemy9": [
+			422.0,
+			74800.0
+		],
+		"enemy2": [
+			14.0,
+			16500.0
+		],
+		"enemy3": [
+			103.0,
+			24200.0
+		],
+		"enemy1": [
+			12.0,
+			11000.0
+		],
+		"enemy6": [
+			102.0,
+			47300.0
+		],
+		"enemy7": [
+			184.0,
+			38500.0
+		],
+		"enemy4": [
+			183.0,
+			34100.0
+		],
+		"enemy5": [
+			402.0,
+			49500.0
+		],
+		"enemy10": [
+			404.0,
+			79200.0
+		],
+		"enemy11": [
+			361.0,
+			81400.0
+		],
+		"enemy12": [
+			373.0,
+			96800.0
+		],
+		"enemy13": [
+			391.0,
+			69300.0
+		],
+		"enemy14": [
+			365.0,
+			110000.0
+		],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 37,
+		"passType": 1,
+		"lvChapter": 4,
+		"starNum": 0,
+		"standGold": 1200,
+		"speed": 1.0,
+		"standBlood": 122,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1200,
+		"mapNo": 37,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"38": {
+		"help": 0,
+		"lvPass": 3,
+		"bloodSet": 79000,
+		"enemy8": [
+			402.0,
+			37920.0
+		],
+		"enemy9": [
+			322.0,
+			52930.0
+		],
+		"enemy2": [
+			13.0,
+			14220.0
+		],
+		"enemy3": [
+			183.0,
+			27650.0
+		],
+		"enemy1": [
+			3.0,
+			9480.0
+		],
+		"enemy6": [
+			102.0,
+			47400.0
+		],
+		"enemy7": [
+			184.0,
+			49770.0
+		],
+		"enemy4": [
+			404.0,
+			21330.0
+		],
+		"enemy5": [
+			184.0,
+			42660.0
+		],
+		"enemy10": [
+			185.0,
+			56880.0
+		],
+		"enemy11": [
+			404.0,
+			60040.0
+		],
+		"enemy12": [
+			422.0,
+			54510.0
+		],
+		"enemy13": [
+			462.0,
+			74260.0
+		],
+		"enemy14": [
+			366.0,
+			79000.0
+		],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 38,
+		"passType": 1,
+		"lvChapter": 4,
+		"starNum": 0,
+		"standGold": 1400,
+		"speed": 1.04,
+		"standBlood": 126,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1300,
+		"mapNo": 38,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 1
+	},
+	"39": {
+		"help": 0,
+		"lvPass": 4,
+		"bloodSet": 95000,
+		"enemy8": [
+			163.0,
+			66500.0
+		],
+		"enemy9": [
+			361.0,
+			77900.0
+		],
+		"enemy2": [
+			13.0,
+			18050.0
+		],
+		"enemy3": [
+			183.0,
+			20900.0
+		],
+		"enemy1": [
+			11.0,
+			14250.0
+		],
+		"enemy6": [
+			102.0,
+			49400.0
+		],
+		"enemy7": [
+			184.0,
+			43700.0
+		],
+		"enemy4": [
+			402.0,
+			28500.0
+		],
+		"enemy5": [
+			364.0,
+			36100.0
+		],
+		"enemy10": [
+			464.0,
+			64600.0
+		],
+		"enemy11": [
+			391.0,
+			87400.0
+		],
+		"enemy12": [
+			465.0,
+			95000.0
+		],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [
+			[
+				0,
+				0
+			],
+			[
+				0,
+				0
+			],
+			[
+				0,
+				0
+			],
+			[
+				902,
+				100000
+			]
+		],
+		"id": 39,
+		"passType": 1,
+		"lvChapter": 4,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 1.24,
+		"standBlood": 165,
+		"starType": -320,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1600,
+		"mapNo": 39,
+		"bron": 0,
+		"starJob": 0,
+		"playType": -350
+	},
+	"40": {
+		"help": 0,
+		"lvPass": 5,
+		"bloodSet": 120000,
+		"enemy8": [
+			361.0,
+			80400.0
+		],
+		"enemy9": [
+			185.0,
+			58800.0
+		],
+		"enemy2": [
+			304.0,
+			18000.0
+		],
+		"enemy3": [
+			184.0,
+			22800.0
+		],
+		"enemy1": [
+			6.0,
+			12000.0
+		],
+		"enemy6": [
+			184.0,
+			49200.0
+		],
+		"enemy7": [
+			322.0,
+			74400.0
+		],
+		"enemy4": [
+			163.0,
+			46800.0
+		],
+		"enemy5": [
+			102.0,
+			55200.0
+		],
+		"enemy10": [
+			475.0,
+			100800.0
+		],
+		"enemy11": [
+			461.0,
+			111600.0
+		],
+		"enemy12": [
+			391.0,
+			75600.0
+		],
+		"enemy13": [
+			465.0,
+			124800.0
+		],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 40,
+		"passType": 1,
+		"lvChapter": 4,
+		"starNum": 0,
+		"standGold": 1400,
+		"speed": 1.06,
+		"standBlood": 148,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1380,
+		"mapNo": 40,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"41": {
+		"help": 0,
+		"lvPass": 6,
+		"bloodSet": 110000,
+		"enemy8": [
+			361.0,
+			89100.0
+		],
+		"enemy9": [
+			185.0,
+			71500.0
+		],
+		"enemy2": [
+			10.0,
+			16500.0
+		],
+		"enemy3": [
+			404.0,
+			26400.0
+		],
+		"enemy1": [
+			12.0,
+			8800.0
+		],
+		"enemy6": [
+			102.0,
+			67100.0
+		],
+		"enemy7": [
+			383.0,
+			63800.0
+		],
+		"enemy4": [
+			183.0,
+			37400.0
+		],
+		"enemy5": [
+			163.0,
+			63800.0
+		],
+		"enemy10": [
+			366.0,
+			113300.0
+		],
+		"enemy11": [],
+		"enemy12": [],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 41,
+		"passType": 1,
+		"lvChapter": 4,
+		"starNum": 0,
+		"standGold": 1100,
+		"speed": 1.04,
+		"standBlood": 140,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1350,
+		"mapNo": 41,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"42": {
+		"help": 0,
+		"lvPass": 7,
+		"bloodSet": 130000,
+		"enemy8": [
+			474.0,
+			88400.0
+		],
+		"enemy9": [
+			405.0,
+			85800.0
+		],
+		"enemy2": [
+			183.0,
+			16900.0
+		],
+		"enemy3": [
+			381.0,
+			24700.0
+		],
+		"enemy1": [
+			13.0,
+			13000.0
+		],
+		"enemy6": [
+			406.0,
+			61100.0
+		],
+		"enemy7": [
+			482.0,
+			53300.0
+		],
+		"enemy4": [
+			401.0,
+			53300.0
+		],
+		"enemy5": [
+			481.0,
+			49400.0
+		],
+		"enemy10": [
+			424.0,
+			102700.0
+		],
+		"enemy11": [
+			391.0,
+			88400.0
+		],
+		"enemy12": [
+			422.0,
+			120900.0
+		],
+		"enemy13": [
+			485.0,
+			102700.0
+		],
+		"enemy14": [
+			686.0,
+			104000.0
+		],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 42,
+		"passType": 1,
+		"lvChapter": 4,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 0.98,
+		"standBlood": 126,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1500,
+		"mapNo": 42,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"43": {
+		"help": 0,
+		"lvPass": 8,
+		"bloodSet": 120000,
+		"enemy8": [
+			341.0,
+			57600.0
+		],
+		"enemy9": [
+			122.0,
+			80400.0
+		],
+		"enemy2": [
+			104.0,
+			21600.0
+		],
+		"enemy3": [
+			183.0,
+			31200.0
+		],
+		"enemy1": [
+			14.0,
+			14400.0
+		],
+		"enemy6": [
+			125.0,
+			72000.0
+		],
+		"enemy7": [
+			383.0,
+			62400.0
+		],
+		"enemy4": [
+			342.0,
+			33600.0
+		],
+		"enemy5": [
+			381.0,
+			40800.0
+		],
+		"enemy10": [
+			385.0,
+			78000.0
+		],
+		"enemy11": [
+			405.0,
+			91200.0
+		],
+		"enemy12": [
+			442.0,
+			82800.0
+		],
+		"enemy13": [
+			462.0,
+			115200.0
+		],
+		"enemy14": [
+			366.0,
+			132000.0
+		],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 43,
+		"passType": 1,
+		"lvChapter": 4,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 1.08,
+		"standBlood": 126,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1500,
+		"mapNo": 43,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 1
+	},
+	"44": {
+		"help": 0,
+		"lvPass": 9,
+		"bloodSet": 115000,
+		"enemy8": [
+			402.0,
+			69000.0
+		],
+		"enemy9": [
+			385.0,
+			63250.0
+		],
+		"enemy2": [
+			11.0,
+			14950.0
+		],
+		"enemy3": [
+			402.0,
+			29900.0
+		],
+		"enemy1": [
+			10.0,
+			10350.0
+		],
+		"enemy6": [
+			401.0,
+			62100.0
+		],
+		"enemy7": [
+			483.0,
+			55200.0
+		],
+		"enemy4": [
+			481.0,
+			34500.0
+		],
+		"enemy5": [
+			163.0,
+			56350.0
+		],
+		"enemy10": [
+			464.0,
+			103500.0
+		],
+		"enemy11": [
+			486.0,
+			75900.0
+		],
+		"enemy12": [
+			462.0,
+			125350.0
+		],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 44,
+		"passType": 1,
+		"lvChapter": 4,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 1.13,
+		"standBlood": 126,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1500,
+		"mapNo": 44,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"45": {
+		"help": 0,
+		"lvPass": 10,
+		"bloodSet": 148000,
+		"enemy8": [
+			474.0,
+			87320.0
+		],
+		"enemy9": [
+			102.0,
+			76960.0
+		],
+		"enemy2": [
+			12.0,
+			14800.0
+		],
+		"enemy3": [
+			402.0,
+			22200.0
+		],
+		"enemy1": [
+			7.0,
+			8880.0
+		],
+		"enemy6": [
+			404.0,
+			59200.0
+		],
+		"enemy7": [
+			481.0,
+			51800.0
+		],
+		"enemy4": [
+			472.0,
+			37000.0
+		],
+		"enemy5": [
+			183.0,
+			39960.0
+		],
+		"enemy10": [
+			406.0,
+			85840.0
+		],
+		"enemy11": [
+			361.0,
+			115440.0
+		],
+		"enemy12": [
+			366.0,
+			139120.0
+		],
+		"enemy13": [
+			361.0,
+			152440.0
+		],
+		"enemy14": [
+			465.0,
+			159840.0
+		],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 45,
+		"passType": 1,
+		"lvChapter": 4,
+		"starNum": 0,
+		"standGold": 1380,
+		"speed": 1.17,
+		"standBlood": 126,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1500,
+		"mapNo": 45,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"46": {
+		"help": 0,
+		"lvPass": 11,
+		"bloodSet": 168000,
+		"enemy8": [
+			402.0,
+			72240.0
+		],
+		"enemy9": [
+			185.0,
+			62160.0
+		],
+		"enemy2": [
+			13.0,
+			13440.0
+		],
+		"enemy3": [
+			102.0,
+			25200.0
+		],
+		"enemy1": [
+			13.0,
+			10080.0
+		],
+		"enemy6": [
+			361.0,
+			48720.0
+		],
+		"enemy7": [
+			184.0,
+			68880.0
+		],
+		"enemy4": [
+			183.0,
+			40320.0
+		],
+		"enemy5": [
+			404.0,
+			48720.0
+		],
+		"enemy10": [
+			364.0,
+			104160.0
+		],
+		"enemy11": [
+			122.0,
+			112560.0
+		],
+		"enemy12": [
+			406.0,
+			115920.0
+		],
+		"enemy13": [
+			361.0,
+			122640.0
+		],
+		"enemy14": [
+			464.0,
+			127680.0
+		],
+		"enemy15": [
+			485.0,
+			105840.0
+		],
+		"enemy16": [
+			564.0,
+			174720.0
+		],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 46,
+		"passType": 1,
+		"lvChapter": 4,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 1.01,
+		"standBlood": 126,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1500,
+		"mapNo": 46,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"47": {
+		"help": 0,
+		"lvPass": 12,
+		"bloodSet": 193000,
+		"enemy8": [
+			183.0,
+			44390.0
+		],
+		"enemy9": [
+			472.0,
+			50180.0
+		],
+		"enemy2": [
+			14.0,
+			15440.0
+		],
+		"enemy3": [
+			104.0,
+			21230.0
+		],
+		"enemy1": [
+			7.0,
+			11580.0
+		],
+		"enemy6": [
+			364.0,
+			38600.0
+		],
+		"enemy7": [
+			122.0,
+			40530.0
+		],
+		"enemy4": [
+			402.0,
+			27020.0
+		],
+		"enemy5": [
+			481.0,
+			32810.0
+		],
+		"enemy10": [
+			406.0,
+			67550.0
+		],
+		"enemy11": [
+			404.0,
+			52110.0
+		],
+		"enemy12": [
+			361.0,
+			69480.0
+		],
+		"enemy13": [
+			461.0,
+			75270.0
+		],
+		"enemy14": [
+			464.0,
+			86850.0
+		],
+		"enemy15": [
+			462.0,
+			82990.0
+		],
+		"enemy16": [
+			461.0,
+			94570.0
+		],
+		"enemy17": [
+			462.0,
+			102290.0
+		],
+		"enemy18": [
+			464.0,
+			113870.0
+		],
+		"enemy19": [
+			465.0,
+			135100.0
+		],
+		"bossSet": [],
+		"id": 47,
+		"passType": 1,
+		"lvChapter": 4,
+		"starNum": 0,
+		"standGold": 1460,
+		"speed": 1.025,
+		"standBlood": 132,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [
+			765.0,
+			193000.0
+		],
+		"initGold": 1500,
+		"mapNo": 47,
+		"bron": 270000,
+		"starJob": 0,
+		"playType": 4
+	},
+	"48": {
+		"help": 0,
+		"lvPass": 13,
+		"bloodSet": 167000,
+		"enemy8": [
+			404.0,
+			63460.0
+		],
+		"enemy9": [
+			422.0,
+			86840.0
+		],
+		"enemy2": [
+			104.0,
+			23380.0
+		],
+		"enemy3": [
+			102.0,
+			45090.0
+		],
+		"enemy1": [
+			13.0,
+			15030.0
+		],
+		"enemy6": [
+			322.0,
+			78490.0
+		],
+		"enemy7": [
+			184.0,
+			81830.0
+		],
+		"enemy4": [
+			183.0,
+			35070.0
+		],
+		"enemy5": [
+			402.0,
+			70140.0
+		],
+		"enemy10": [
+			481.0,
+			90180.0
+		],
+		"enemy11": [
+			122.0,
+			100200.0
+		],
+		"enemy12": [
+			405.0,
+			90180.0
+		],
+		"enemy13": [
+			423.0,
+			128590.0
+		],
+		"enemy14": [
+			361.0,
+			136940.0
+		],
+		"enemy15": [
+			465.0,
+			167000.0
+		],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 48,
+		"passType": 1,
+		"lvChapter": 4,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 1.0,
+		"standBlood": 126,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1500,
+		"mapNo": 48,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"49": {
+		"help": 0,
+		"lvPass": 14,
+		"bloodSet": 180000,
+		"enemy8": [
+			474.0,
+			108000.0
+		],
+		"enemy9": [
+			364.0,
+			99000.0
+		],
+		"enemy2": [
+			102.0,
+			23400.0
+		],
+		"enemy3": [
+			472.0,
+			46800.0
+		],
+		"enemy1": [
+			17.0,
+			16200.0
+		],
+		"enemy6": [
+			322.0,
+			97200.0
+		],
+		"enemy7": [
+			183.0,
+			86400.0
+		],
+		"enemy4": [
+			184.0,
+			54000.0
+		],
+		"enemy5": [
+			422.0,
+			88200.0
+		],
+		"enemy10": [
+			462.0,
+			162000.0
+		],
+		"enemy11": [
+			361.0,
+			118800.0
+		],
+		"enemy12": [
+			463.0,
+			180000.0
+		],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 49,
+		"passType": 1,
+		"lvChapter": 4,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 1.08,
+		"standBlood": 126,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1500,
+		"mapNo": 49,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"50": {
+		"help": 0,
+		"lvPass": 15,
+		"bloodSet": 180000,
+		"enemy8": [
+			184.0,
+			81000.0
+		],
+		"enemy9": [
+			401.0,
+			115200.0
+		],
+		"enemy2": [
+			104.0,
+			23400.0
+		],
+		"enemy3": [
+			102.0,
+			46800.0
+		],
+		"enemy1": [
+			12.0,
+			16200.0
+		],
+		"enemy6": [
+			401.0,
+			86400.0
+		],
+		"enemy7": [
+			322.0,
+			106200.0
+		],
+		"enemy4": [
+			402.0,
+			37800.0
+		],
+		"enemy5": [
+			381.0,
+			57600.0
+		],
+		"enemy10": [
+			404.0,
+			97200.0
+		],
+		"enemy11": [
+			122.0,
+			122400.0
+		],
+		"enemy12": [
+			482.0,
+			93600.0
+		],
+		"enemy13": [
+			462.0,
+			187200.0
+		],
+		"enemy14": [
+			385.0,
+			100800.0
+		],
+		"enemy15": [
+			475.0,
+			171000.0
+		],
+		"enemy16": [
+			484.0,
+			115200.0
+		],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 50,
+		"passType": 1,
+		"lvChapter": 4,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 1.01,
+		"standBlood": 126,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1500,
+		"mapNo": 50,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"51": {
+		"help": 0,
+		"lvPass": 16,
+		"bloodSet": 190000,
+		"enemy8": [
+			184.0,
+			85500.0
+		],
+		"enemy9": [
+			422.0,
+			121600.0
+		],
+		"enemy2": [
+			303.0,
+			24700.0
+		],
+		"enemy3": [
+			402.0,
+			49400.0
+		],
+		"enemy1": [
+			7.0,
+			17100.0
+		],
+		"enemy6": [
+			322.0,
+			91200.0
+		],
+		"enemy7": [
+			401.0,
+			112100.0
+		],
+		"enemy4": [
+			381.0,
+			39900.0
+		],
+		"enemy5": [
+			406.0,
+			60800.0
+		],
+		"enemy10": [
+			122.0,
+			119700.0
+		],
+		"enemy11": [
+			404.0,
+			129200.0
+		],
+		"enemy12": [
+			361.0,
+			148200.0
+		],
+		"enemy13": [
+			423.0,
+			163400.0
+		],
+		"enemy14": [
+			475.0,
+			171000.0
+		],
+		"enemy15": [
+			465.0,
+			190000.0
+		],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 51,
+		"passType": 1,
+		"lvChapter": 4,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 1.08,
+		"standBlood": 126,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1500,
+		"mapNo": 51,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"52": {
+		"help": 0,
+		"lvPass": 17,
+		"bloodSet": 190000,
+		"enemy8": [
+			704.0,
+			64600.0
+		],
+		"enemy9": [
+			584.0,
+			114000.0
+		],
+		"enemy2": [
+			472.0,
+			32300.0
+		],
+		"enemy3": [
+			422.0,
+			58900.0
+		],
+		"enemy1": [
+			303.0,
+			17100.0
+		],
+		"enemy6": [
+			582.0,
+			95000.0
+		],
+		"enemy7": [
+			474.0,
+			123500.0
+		],
+		"enemy4": [
+			184.0,
+			36100.0
+		],
+		"enemy5": [
+			474.0,
+			87400.0
+		],
+		"enemy10": [
+			774.0,
+			96900.0
+		],
+		"enemy11": [],
+		"enemy12": [],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 52,
+		"passType": 1,
+		"lvChapter": 4,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 1.05,
+		"standBlood": 126,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1500,
+		"mapNo": 52,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 1
+	},
+	"53": {
+		"help": 0,
+		"lvPass": 18,
+		"bloodSet": 228000,
+		"enemy8": [
+			474.0,
+			141360.0
+		],
+		"enemy9": [
+			483.0,
+			98040.0
+		],
+		"enemy2": [
+			11.0,
+			25080.0
+		],
+		"enemy3": [
+			124.0,
+			59280.0
+		],
+		"enemy1": [
+			10.0,
+			13680.0
+		],
+		"enemy6": [
+			122.0,
+			100320.0
+		],
+		"enemy7": [
+			183.0,
+			102600.0
+		],
+		"enemy4": [
+			381.0,
+			50160.0
+		],
+		"enemy5": [
+			364.0,
+			98040.0
+		],
+		"enemy10": [
+			405.0,
+			125400.0
+		],
+		"enemy11": [
+			404.0,
+			136800.0
+		],
+		"enemy12": [
+			361.0,
+			123120.0
+		],
+		"enemy13": [
+			464.0,
+			164160.0
+		],
+		"enemy14": [
+			423.0,
+			193800.0
+		],
+		"enemy15": [
+			475.0,
+			228000.0
+		],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 53,
+		"passType": 1,
+		"lvChapter": 4,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 1.11,
+		"standBlood": 126,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1500,
+		"mapNo": 53,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"54": {
+		"help": 0,
+		"lvPass": 19,
+		"bloodSet": 328000,
+		"enemy8": [
+			304.0,
+			134480.0
+		],
+		"enemy9": [
+			385.0,
+			154160.0
+		],
+		"enemy2": [
+			12.0,
+			32800.0
+		],
+		"enemy3": [
+			304.0,
+			62320.0
+		],
+		"enemy1": [
+			17.0,
+			19680.0
+		],
+		"enemy6": [
+			402.0,
+			124640.0
+		],
+		"enemy7": [
+			301.0,
+			141040.0
+		],
+		"enemy4": [
+			322.0,
+			59040.0
+		],
+		"enemy5": [
+			163.0,
+			98400.0
+		],
+		"enemy10": [
+			361.0,
+			150880.0
+		],
+		"enemy11": [
+			422.0,
+			180400.0
+		],
+		"enemy12": [
+			404.0,
+			147600.0
+		],
+		"enemy13": [
+			423.0,
+			249280.0
+		],
+		"enemy14": [
+			463.0,
+			236160.0
+		],
+		"enemy15": [
+			582.0,
+			219760.0
+		],
+		"enemy16": [
+			465.0,
+			328000.0
+		],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 54,
+		"passType": 1,
+		"lvChapter": 4,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 1.0,
+		"standBlood": 126,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1500,
+		"mapNo": 54,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"55": {
+		"help": 0,
+		"lvPass": 20,
+		"bloodSet": 330000,
+		"enemy8": [
+			366.0,
+			89100.0
+		],
+		"enemy9": [
+			461.0,
+			128700.0
+		],
+		"enemy2": [
+			303.0,
+			23100.0
+		],
+		"enemy3": [
+			304.0,
+			33000.0
+		],
+		"enemy1": [
+			101.0,
+			16500.0
+		],
+		"enemy6": [
+			361.0,
+			102300.0
+		],
+		"enemy7": [
+			474.0,
+			118800.0
+		],
+		"enemy4": [
+			162.0,
+			62700.0
+		],
+		"enemy5": [
+			402.0,
+			69300.0
+		],
+		"enemy10": [
+			404.0,
+			141900.0
+		],
+		"enemy11": [
+			484.0,
+			108900.0
+		],
+		"enemy12": [
+			462.0,
+			188100.0
+		],
+		"enemy13": [
+			485.0,
+			122100.0
+		],
+		"enemy14": [
+			465.0,
+			214500.0
+		],
+		"enemy15": [
+			784.0,
+			181500.0
+		],
+		"enemy16": [
+			766.0,
+			330000.0
+		],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [
+			[
+				907,
+				350000
+			],
+			[
+				0,
+				0
+			],
+			[
+				0,
+				0
+			],
+			[
+				0,
+				0
+			]
+		],
+		"id": 55,
+		"passType": 1,
+		"lvChapter": 4,
+		"starNum": 0,
+		"standGold": 2200,
+		"speed": 1.03,
+		"standBlood": 168,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 2200,
+		"mapNo": 55,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 3
+	},
+	"56": {
+		"help": 0,
+		"lvPass": 1,
+		"bloodSet": 228000,
+		"enemy8": [
+			525.0,
+			141360.0
+		],
+		"enemy9": [
+			383.0,
+			127680.0
+		],
+		"enemy2": [
+			7.0,
+			22800.0
+		],
+		"enemy3": [
+			304.0,
+			59280.0
+		],
+		"enemy1": [
+			7.0,
+			13680.0
+		],
+		"enemy6": [
+			383.0,
+			98040.0
+		],
+		"enemy7": [
+			643.0,
+			102600.0
+		],
+		"enemy4": [
+			305.0,
+			50160.0
+		],
+		"enemy5": [
+			361.0,
+			98040.0
+		],
+		"enemy10": [
+			423.0,
+			173280.0
+		],
+		"enemy11": [
+			425.0,
+			177840.0
+		],
+		"enemy12": [
+			391.0,
+			145920.0
+		],
+		"enemy13": [
+			463.0,
+			237120.0
+		],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 56,
+		"passType": 1,
+		"lvChapter": 5,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 1.04,
+		"standBlood": 160,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1500,
+		"mapNo": 56,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"57": {
+		"help": 0,
+		"lvPass": 2,
+		"bloodSet": 234000,
+		"enemy8": [
+			474.0,
+			154440.0
+		],
+		"enemy9": [
+			643.0,
+			142740.0
+		],
+		"enemy2": [
+			10.0,
+			23400.0
+		],
+		"enemy3": [
+			305.0,
+			51480.0
+		],
+		"enemy1": [
+			10.0,
+			14040.0
+		],
+		"enemy6": [
+			525.0,
+			109980.0
+		],
+		"enemy7": [
+			383.0,
+			84240.0
+		],
+		"enemy4": [
+			361.0,
+			65520.0
+		],
+		"enemy5": [
+			643.0,
+			81900.0
+		],
+		"enemy10": [
+			525.0,
+			177840.0
+		],
+		"enemy11": [
+			484.0,
+			138060.0
+		],
+		"enemy12": [
+			464.0,
+			208260.0
+		],
+		"enemy13": [
+			485.0,
+			147420.0
+		],
+		"enemy14": [
+			366.0,
+			245700.0
+		],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 57,
+		"passType": 1,
+		"lvChapter": 5,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 1.05,
+		"standBlood": 166,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1500,
+		"mapNo": 57,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"58": {
+		"help": 0,
+		"lvPass": 3,
+		"bloodSet": 240000,
+		"enemy8": [
+			425.0,
+			158400.0
+		],
+		"enemy9": [
+			483.0,
+			93600.0
+		],
+		"enemy2": [
+			101.0,
+			24000.0
+		],
+		"enemy3": [
+			125.0,
+			52800.0
+		],
+		"enemy1": [
+			101.0,
+			14400.0
+		],
+		"enemy6": [
+			383.0,
+			74400.0
+		],
+		"enemy7": [
+			525.0,
+			108000.0
+		],
+		"enemy4": [
+			481.0,
+			67200.0
+		],
+		"enemy5": [
+			406.0,
+			108000.0
+		],
+		"enemy10": [
+			422.0,
+			201600.0
+		],
+		"enemy11": [
+			721.0,
+			228000.0
+		],
+		"enemy12": [
+			581.0,
+			146400.0
+		],
+		"enemy13": [
+			423.0,
+			244800.0
+		],
+		"enemy14": [
+			583.0,
+			187200.0
+		],
+		"enemy15": [
+			465.0,
+			283200.0
+		],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 58,
+		"passType": 1,
+		"lvChapter": 5,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 1.08,
+		"standBlood": 166,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1500,
+		"mapNo": 58,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"59": {
+		"help": 0,
+		"lvPass": 4,
+		"bloodSet": 240000,
+		"enemy8": [
+			384.0,
+			100800.0
+		],
+		"enemy9": [
+			585.0,
+			110400.0
+		],
+		"enemy2": [
+			102.0,
+			28800.0
+		],
+		"enemy3": [
+			303.0,
+			62400.0
+		],
+		"enemy1": [
+			102.0,
+			14400.0
+		],
+		"enemy6": [
+			304.0,
+			96000.0
+		],
+		"enemy7": [
+			602.0,
+			122400.0
+		],
+		"enemy4": [
+			361.0,
+			88800.0
+		],
+		"enemy5": [
+			602.0,
+			108000.0
+		],
+		"enemy10": [
+			624.0,
+			163200.0
+		],
+		"enemy11": [
+			424.0,
+			172800.0
+		],
+		"enemy12": [
+			524.0,
+			201600.0
+		],
+		"enemy13": [
+			583.0,
+			148800.0
+		],
+		"enemy14": [
+			722.0,
+			211200.0
+		],
+		"enemy15": [
+			563.0,
+			259200.0
+		],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 59,
+		"passType": 1,
+		"lvChapter": 5,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 1.1,
+		"standBlood": 166,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1500,
+		"mapNo": 59,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"60": {
+		"help": 0,
+		"lvPass": 5,
+		"bloodSet": 280000,
+		"enemy8": [
+			462.0,
+			196000.0
+		],
+		"enemy9": [
+			425.0,
+			176400.0
+		],
+		"enemy2": [
+			15.0,
+			28000.0
+		],
+		"enemy3": [
+			302.0,
+			61600.0
+		],
+		"enemy1": [
+			15.0,
+			16800.0
+		],
+		"enemy6": [
+			643.0,
+			140000.0
+		],
+		"enemy7": [
+			484.0,
+			126000.0
+		],
+		"enemy4": [
+			422.0,
+			106400.0
+		],
+		"enemy5": [
+			383.0,
+			89600.0
+		],
+		"enemy10": [
+			582.0,
+			168000.0
+		],
+		"enemy11": [
+			463.0,
+			274400.0
+		],
+		"enemy12": [
+			583.0,
+			159600.0
+		],
+		"enemy13": [
+			564.0,
+			308000.0
+		],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 60,
+		"passType": 1,
+		"lvChapter": 5,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 1.04,
+		"standBlood": 166,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1500,
+		"mapNo": 60,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"61": {
+		"help": 0,
+		"lvPass": 6,
+		"bloodSet": 210000,
+		"enemy8": [
+			341.0,
+			58800.0
+		],
+		"enemy9": [
+			366.0,
+			126000.0
+		],
+		"enemy2": [
+			17.0,
+			25200.0
+		],
+		"enemy3": [
+			361.0,
+			42000.0
+		],
+		"enemy1": [
+			17.0,
+			14700.0
+		],
+		"enemy6": [
+			366.0,
+			105000.0
+		],
+		"enemy7": [
+			381.0,
+			67200.0
+		],
+		"enemy4": [
+			381.0,
+			37800.0
+		],
+		"enemy5": [
+			404.0,
+			63000.0
+		],
+		"enemy10": [
+			584.0,
+			115500.0
+		],
+		"enemy11": [
+			686.0,
+			102900.0
+		],
+		"enemy12": [
+			522.0,
+			98700.0
+		],
+		"enemy13": [
+			366.0,
+			189000.0
+		],
+		"enemy14": [
+			784.0,
+			102900.0
+		],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 61,
+		"passType": 1,
+		"lvChapter": 5,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 1.0,
+		"standBlood": 166,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1500,
+		"mapNo": 61,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 1
+	},
+	"62": {
+		"help": 0,
+		"lvPass": 7,
+		"bloodSet": 280000,
+		"enemy8": [
+			781.0,
+			100800.0
+		],
+		"enemy9": [
+			722.0,
+			128800.0
+		],
+		"enemy2": [
+			102.0,
+			28000.0
+		],
+		"enemy3": [
+			504.0,
+			61600.0
+		],
+		"enemy1": [
+			102.0,
+			16800.0
+		],
+		"enemy6": [
+			504.0,
+			114800.0
+		],
+		"enemy7": [
+			805.0,
+			120400.0
+		],
+		"enemy4": [
+			805.0,
+			98000.0
+		],
+		"enemy5": [
+			602.0,
+			112000.0
+		],
+		"enemy10": [
+			504.0,
+			170800.0
+		],
+		"enemy11": [
+			805.0,
+			187600.0
+		],
+		"enemy12": [
+			683.0,
+			168000.0
+		],
+		"enemy13": [
+			624.0,
+			210000.0
+		],
+		"enemy14": [
+			783.0,
+			151200.0
+		],
+		"enemy15": [
+			563.0,
+			271600.0
+		],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 62,
+		"passType": 1,
+		"lvChapter": 5,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 1.0,
+		"standBlood": 166,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1500,
+		"mapNo": 62,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"63": {
+		"help": 0,
+		"lvPass": 8,
+		"bloodSet": 280000,
+		"enemy8": [
+			841.0,
+			162400.0
+		],
+		"enemy9": [
+			585.0,
+			126000.0
+		],
+		"enemy2": [
+			104.0,
+			28000.0
+		],
+		"enemy3": [
+			504.0,
+			61600.0
+		],
+		"enemy1": [
+			104.0,
+			16800.0
+		],
+		"enemy6": [
+			582.0,
+			106400.0
+		],
+		"enemy7": [
+			475.0,
+			145600.0
+		],
+		"enemy4": [
+			423.0,
+			106400.0
+		],
+		"enemy5": [
+			841.0,
+			120400.0
+		],
+		"enemy10": [
+			622.0,
+			226800.0
+		],
+		"enemy11": [
+			683.0,
+			193200.0
+		],
+		"enemy12": [
+			465.0,
+			294000.0
+		],
+		"enemy13": [],
+		"enemy14": [],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 63,
+		"passType": 1,
+		"lvChapter": 5,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 1.11,
+		"standBlood": 166,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1500,
+		"mapNo": 63,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"64": {
+		"help": 0,
+		"lvPass": 9,
+		"bloodSet": 294000,
+		"enemy8": [
+			524.0,
+			170520.0
+		],
+		"enemy9": [
+			805.0,
+			182280.0
+		],
+		"enemy2": [
+			13.0,
+			29400.0
+		],
+		"enemy3": [
+			106.0,
+			64680.0
+		],
+		"enemy1": [
+			13.0,
+			17640.0
+		],
+		"enemy6": [
+			805.0,
+			147000.0
+		],
+		"enemy7": [
+			483.0,
+			129360.0
+		],
+		"enemy4": [
+			424.0,
+			111720.0
+		],
+		"enemy5": [
+			805.0,
+			132300.0
+		],
+		"enemy10": [
+			504.0,
+			220500.0
+		],
+		"enemy11": [
+			781.0,
+			167580.0
+		],
+		"enemy12": [
+			722.0,
+			252840.0
+		],
+		"enemy13": [
+			783.0,
+			176400.0
+		],
+		"enemy14": [
+			563.0,
+			305760.0
+		],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 64,
+		"passType": 1,
+		"lvChapter": 5,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 1.04,
+		"standBlood": 176,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1500,
+		"mapNo": 64,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"65": {
+		"help": 0,
+		"lvPass": 10,
+		"bloodSet": 240000,
+		"enemy8": [
+			625.0,
+			129600.0
+		],
+		"enemy9": [
+			582.0,
+			100800.0
+		],
+		"enemy2": [
+			10.0,
+			24000.0
+		],
+		"enemy3": [
+			604.0,
+			52800.0
+		],
+		"enemy1": [
+			10.0,
+			14400.0
+		],
+		"enemy6": [
+			623.0,
+			110400.0
+		],
+		"enemy7": [
+			581.0,
+			86400.0
+		],
+		"enemy4": [
+			623.0,
+			91200.0
+		],
+		"enemy5": [
+			383.0,
+			67200.0
+		],
+		"enemy10": [
+			625.0,
+			165600.0
+		],
+		"enemy11": [
+			682.0,
+			110400.0
+		],
+		"enemy12": [
+			726.0,
+			168000.0
+		],
+		"enemy13": [
+			683.0,
+			165600.0
+		],
+		"enemy14": [
+			886.0,
+			192000.0
+		],
+		"enemy15": [
+			883.0,
+			148800.0
+		],
+		"enemy16": [
+			763.0,
+			240000.0
+		],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 65,
+		"passType": 1,
+		"lvChapter": 5,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 1.0,
+		"standBlood": 176,
+		"starType": -420,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1500,
+		"mapNo": 65,
+		"bron": 0,
+		"starJob": 0,
+		"playType": -480
+	},
+	"66": {
+		"help": 0,
+		"lvPass": 11,
+		"bloodSet": 250000,
+		"enemy8": [
+			423.0,
+			135000.0
+		],
+		"enemy9": [
+			841.0,
+			125000.0
+		],
+		"enemy2": [
+			104.0,
+			25000.0
+		],
+		"enemy3": [
+			501.0,
+			55000.0
+		],
+		"enemy1": [
+			104.0,
+			15000.0
+		],
+		"enemy6": [
+			427.0,
+			115000.0
+		],
+		"enemy7": [
+			475.0,
+			110000.0
+		],
+		"enemy4": [
+			427.0,
+			95000.0
+		],
+		"enemy5": [
+			483.0,
+			70000.0
+		],
+		"enemy10": [
+			622.0,
+			170000.0
+		],
+		"enemy11": [
+			784.0,
+			115000.0
+		],
+		"enemy12": [
+			475.0,
+			225000.0
+		],
+		"enemy13": [
+			783.0,
+			170000.0
+		],
+		"enemy14": [
+			465.0,
+			250000.0
+		],
+		"enemy15": [],
+		"enemy16": [],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 66,
+		"passType": 1,
+		"lvChapter": 5,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 1.14,
+		"standBlood": 176,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1500,
+		"mapNo": 66,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	},
+	"67": {
+		"help": 0,
+		"lvPass": 12,
+		"bloodSet": 280000,
+		"enemy8": [
+			524.0,
+			120400.0
+		],
+		"enemy9": [
+			781.0,
+			114800.0
+		],
+		"enemy2": [
+			401.0,
+			28000.0
+		],
+		"enemy3": [
+			323.0,
+			61600.0
+		],
+		"enemy1": [
+			401.0,
+			16800.0
+		],
+		"enemy6": [
+			424.0,
+			98000.0
+		],
+		"enemy7": [
+			323.0,
+			126000.0
+		],
+		"enemy4": [
+			401.0,
+			95200.0
+		],
+		"enemy5": [
+			185.0,
+			61600.0
+		],
+		"enemy10": [
+			722.0,
+			151200.0
+		],
+		"enemy11": [
+			722.0,
+			168000.0
+		],
+		"enemy12": [
+			624.0,
+			196000.0
+		],
+		"enemy13": [
+			786.0,
+			134400.0
+		],
+		"enemy14": [
+			624.0,
+			212800.0
+		],
+		"enemy15": [
+			783.0,
+			159600.0
+		],
+		"enemy16": [
+			563.0,
+			263200.0
+		],
+		"enemy17": [],
+		"enemy18": [],
+		"enemy19": [],
+		"bossSet": [],
+		"id": 67,
+		"passType": 1,
+		"lvChapter": 5,
+		"starNum": 0,
+		"standGold": 1600,
+		"speed": 1.06,
+		"standBlood": 176,
+		"starType": 2,
+		"blood": 10,
+		"enemy20": [],
+		"initGold": 1500,
+		"mapNo": 67,
+		"bron": 0,
+		"starJob": 0,
+		"playType": 0
+	}
+}

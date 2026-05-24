@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "assasins_creed_a.jpg",
+  "image2": "assasins_creed_b.jpg",
+  "differences":
+  [
+    {
+      "x": 210.0,
+      "y": 218.0,
+      "size": 90.0
+    },
+    {
+      "x": 650.0,
+      "y": 144.0,
+      "size": 70.0
+    },
+    {
+      "x": 442.0,
+      "y": 548.0,
+      "size": 80.0
+    },
+    {
+      "x": 564.0,
+      "y": 385.0,
+      "size": 90.0
+    },
+    {
+      "x": 908.0,
+      "y": 533.0,
+      "size": 80.0
+    }
+  ]
+}

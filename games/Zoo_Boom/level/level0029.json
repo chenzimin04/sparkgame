@@ -1,0 +1,24 @@
+ {
+	"size":9,
+	"stars":{"avg":7, "top":15 },
+	"moves":44,
+	"fill":"up",
+	"add":[
+		{ "x":0, "y":0, "dx":9, "dy":2, "type":"BOX", "count": true },
+		{ "x":0, "y":5, "dx":9, "dy":2, "type":"BOX", "count": true },
+		
+		{ "x":0, "y":0, "dx":9, "dy":4, "type":"SOFT_CAGE", "count": true }
+		
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_GREEN","GEM_RED","GEM_YELLOW"],
+	"field":[ 
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"ooooooooo",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx"]
+ }

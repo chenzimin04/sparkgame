@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "girl_with_pizza_a.jpg",
+  "image2": "girl_with_pizza_b.jpg",
+  "differences":
+  [
+    {
+      "x": 397.0,
+      "y": 402.0,
+      "size": 70.0
+    },
+    {
+      "x": 174.0,
+      "y": 613.0,
+      "size": 100.0
+    },
+    {
+      "x": 228.0,
+      "y": 62.0,
+      "size": 100.0
+    },
+    {
+      "x": 842.0,
+      "y": 417.0,
+      "size": 100.0
+    },
+    {
+      "x": 966.0,
+      "y": 579.0,
+      "size": 130.0
+    }
+  ]
+}

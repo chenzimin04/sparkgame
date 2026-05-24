@@ -1,0 +1,12 @@
+ {
+	"size":8,
+	"moves":32,
+	"add":[
+		{ "x":3, "y":0, "type":"FAT_MULTI", "count":true },
+		{ "x":3, "y":2, "type":"FAT_MULTI", "count":true },
+		{ "x":3, "y":4, "type":"FAT_MULTI", "count":true },
+		{ "x":3, "y":6, "type":"FAT_MULTI", "count":true }
+		
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_GREEN","GEM_RED","GEM_YELLOW"]
+ }

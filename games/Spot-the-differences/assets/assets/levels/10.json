@@ -1,0 +1,28 @@
+{
+  "resolution": "standard",
+  "image1": "shells_a.jpg",
+  "image2": "shells_b.jpg",
+  "differences":
+  [
+    {
+      "x": 274.0,
+      "y": 306.0,
+      "size": 130.0
+    },
+    {
+      "x": 573.0,
+      "y": 562.0,
+      "size": 170.0
+    },
+    {
+      "x": 845.0,
+      "y": 495.0,
+      "size": 150.0
+    },
+    {
+      "x": 940.0,
+      "y": 606.0,
+      "size": 120.0
+    }
+  ]
+}

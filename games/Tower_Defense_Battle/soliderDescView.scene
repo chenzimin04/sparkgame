@@ -1,0 +1,404 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 667,
+				"x": 375,
+				"var": "pngBg",
+				"top": 0,
+				"skin": "images/grid/maskGray.png",
+				"sizeGrid": "2,2,2,2",
+				"right": 0,
+				"left": 0,
+				"bottom": 0,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 65
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 117,
+				"x": 0,
+				"width": 750,
+				"var": "centerBox",
+				"height": 1100
+			},
+			"compId": 3,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 0,
+						"x": 7,
+						"width": 736,
+						"skin": "images/solider/icon_tc_bg.png",
+						"height": 513
+					},
+					"compId": 81,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 505,
+								"x": 0,
+								"width": 736,
+								"skin": "images/solider/icon_tc_bg2.png",
+								"sizeGrid": "13,27,31,26",
+								"height": 500
+							},
+							"compId": 100
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 2,
+						"x": 8,
+						"width": 734,
+						"var": "imgTopBanner",
+						"skin": "images/solider/icon_tc_pzbg_5.png",
+						"sizeGrid": "0,21,0,22",
+						"height": 90
+					},
+					"compId": 76,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 23,
+								"x": 15,
+								"var": "imgIconQuality",
+								"skin": "images/solider/icon_tc_pzword_5.png"
+							},
+							"compId": 77
+						},
+						{
+							"type": "Label",
+							"props": {
+								"y": 27,
+								"x": 164,
+								"width": 400,
+								"var": "labName",
+								"text": "圣弓箭手",
+								"strokeColor": "#a3a1a1",
+								"stroke": 4,
+								"fontSize": 38,
+								"color": "#ffffff",
+								"bold": true,
+								"align": "center"
+							},
+							"compId": 10
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 49,
+						"x": 691,
+						"var": "btnClose",
+						"skin": "images/solider/button_gb.png",
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 35
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 294,
+						"x": 55,
+						"var": "btnLeft",
+						"skin": "images/solider/button_fy.png",
+						"rotation": 0,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 8
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 50,
+						"x": 100,
+						"width": 550,
+						"skin": "images/solider/icon_gx.png",
+						"rotation": 0,
+						"height": 496
+					},
+					"compId": 9,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 248,
+								"x": 275,
+								"var": "soliderIcon",
+								"skin": "images/man/soliderC1_1.png",
+								"scaleY": 1.35,
+								"scaleX": 1.35,
+								"rotation": 90,
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 66
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 327,
+								"x": -48,
+								"var": "iconStar1",
+								"skin": "images/solider/icon_js_xx2.png",
+								"scaleY": 0.5,
+								"scaleX": 0.5
+							},
+							"compId": 101
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 327,
+								"x": -5,
+								"var": "iconStar2",
+								"skin": "images/solider/icon_js_xx2.png",
+								"scaleY": 0.5,
+								"scaleX": 0.5
+							},
+							"compId": 102
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 327,
+								"x": 37,
+								"var": "iconStar3",
+								"skin": "images/solider/icon_js_xx2.png",
+								"scaleY": 0.5,
+								"scaleX": 0.5
+							},
+							"compId": 103
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 327,
+								"x": 80,
+								"var": "iconStar4",
+								"skin": "images/solider/icon_js_xx2.png",
+								"scaleY": 0.5,
+								"scaleX": 0.5
+							},
+							"compId": 104
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 327,
+								"x": 122,
+								"var": "iconStar5",
+								"skin": "images/solider/icon_js_xx2.png",
+								"scaleY": 0.5,
+								"scaleX": 0.5
+							},
+							"compId": 105
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 326,
+								"x": 410,
+								"var": "iconDef",
+								"skin": "images/solider/icon_enemy_hj.png"
+							},
+							"compId": 106
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 326,
+								"x": 462,
+								"var": "iconStep",
+								"skin": "images/solider/icon_enemy_tj.png"
+							},
+							"compId": 108
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 326,
+								"x": 514,
+								"var": "iconSlow",
+								"skin": "images/solider/icon_enemy_rx.png"
+							},
+							"compId": 107
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 326,
+								"x": 566,
+								"var": "iconFast",
+								"skin": "images/solider/icon_enemy_mj.png"
+							},
+							"compId": 109
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 294,
+						"x": 697,
+						"var": "btnRight",
+						"skin": "images/solider/button_fy.png",
+						"rotation": 180,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 30
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 432,
+						"x": 17,
+						"width": 716,
+						"skin": "images/solider/icon_tc_bg_01.png",
+						"sizeGrid": "17,20,21,21",
+						"height": 560
+					},
+					"compId": 11,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 22,
+								"x": 158,
+								"width": 400,
+								"skin": "images/solider/icon_bt_bg.png",
+								"sizeGrid": "0,25,0,24"
+							},
+							"compId": 95,
+							"child": [
+								{
+									"type": "Label",
+									"props": {
+										"y": 6,
+										"x": 161,
+										"text": "Introduction",
+										"fontSize": 26,
+										"color": "#ffffff"
+									},
+									"compId": 98
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 131,
+										"x": 200,
+										"wordWrap": true,
+										"width": 634,
+										"var": "labDesc",
+										"text": "提升自身的攻击速度，以极快的速度攻击怪物",
+										"leading": 8,
+										"height": 150,
+										"fontSize": 26,
+										"anchorY": 0.5,
+										"anchorX": 0.5
+									},
+									"compId": 42
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 258,
+								"x": 158,
+								"width": 400,
+								"var": "bannerRemark",
+								"skin": "images/solider/icon_bt_bg.png",
+								"sizeGrid": "0,25,0,24"
+							},
+							"compId": 96,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": -14,
+										"x": -125,
+										"width": 650,
+										"skin": "images/solider/icon_fgx.png",
+										"rotation": 0,
+										"height": 3,
+										"alpha": 0.7
+									},
+									"compId": 80
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 6,
+										"x": 148,
+										"text": "Battle features",
+										"fontSize": 26,
+										"color": "#ffffff"
+									},
+									"compId": 99
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 125,
+										"x": 200,
+										"wordWrap": true,
+										"width": 634,
+										"var": "labRemark",
+										"text": "提升自身的攻击速度，以极快的速度攻击怪物",
+										"leading": 8,
+										"height": 150,
+										"fontSize": 26,
+										"anchorY": 0.5,
+										"anchorX": 0.5
+									},
+									"compId": 97
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/grid/maskGray.png",
+		"images/solider/icon_tc_bg.png",
+		"images/solider/icon_tc_bg2.png",
+		"images/solider/icon_tc_pzbg_5.png",
+		"images/solider/icon_tc_pzword_5.png",
+		"images/solider/button_gb.png",
+		"images/solider/button_fy.png",
+		"images/solider/icon_gx.png",
+		"images/man/soliderC1_1.png",
+		"images/solider/icon_js_xx2.png",
+		"images/solider/icon_enemy_hj.png",
+		"images/solider/icon_enemy_tj.png",
+		"images/solider/icon_enemy_rx.png",
+		"images/solider/icon_enemy_mj.png",
+		"images/solider/icon_tc_bg_01.png",
+		"images/solider/icon_bt_bg.png",
+		"images/solider/icon_fgx.png"
+	],
+	"loadList3D": []
+}

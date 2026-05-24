@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380">
+  <defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9ed8ff"/><stop offset="1" stop-color="#ffffff"/></linearGradient></defs>
+  <rect width="640" height="380" fill="url(#sky)"/>
+  <path d="M0 244c90-23 170-20 253 8 74 25 145 26 224 8 61-14 110-12 163 4v116H0Z" fill="#5db45b"/>
+  <path d="M448 125h120v92H448z" fill="none" stroke="#ffffff" stroke-width="8"/>
+  <path d="M480 217v52" stroke="#ffffff" stroke-width="8"/>
+  <circle cx="248" cy="258" r="30" fill="#ffffff"/><circle cx="248" cy="258" r="7" fill="#d6d6d6"/>
+  <path d="M287 244 476 161" stroke="#ffd45f" stroke-width="10" stroke-linecap="round"/>
+  <text x="72" y="86" fill="#21547d" font-size="56" font-family="Segoe UI, Arial, sans-serif" font-weight="800">FOOTBALL KICK 3D</text>
+</svg>

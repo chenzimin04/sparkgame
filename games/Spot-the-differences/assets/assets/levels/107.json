@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "livingroom_tv_a.jpg",
+  "image2": "livingroom_tv_b.jpg",
+  "differences":
+  [
+    {
+      "x": 110.0,
+      "y": 474.0,
+      "size": 80.0
+    },
+    {
+      "x": 535.0,
+      "y": 550.0,
+      "size": 150.0
+    },
+    {
+      "x": 781.0,
+      "y": 277.0,
+      "size": 100.0
+    },
+    {
+      "x": 974.0,
+      "y": 223.0,
+      "size": 130.0
+    },
+    {
+      "x": 31.0,
+      "y": 293.0,
+      "size": 110.0
+    }
+  ]
+}

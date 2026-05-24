@@ -1,0 +1,125 @@
+
+skel_mainplane_2.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: true
+  xy: 1345, 116
+  size: 61, 42
+  orig: 61, 42
+  offset: 0, 0
+  index: -1
+010006
+  rotate: false
+  xy: 1, 62
+  size: 185, 184
+  orig: 185, 184
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1, 1
+  size: 60, 82
+  orig: 60, 82
+  offset: 0, 0
+  index: -1
+cccc
+  rotate: false
+  xy: 1404, 184
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+feijig
+  rotate: false
+  xy: 187, 89
+  size: 196, 157
+  orig: 196, 157
+  offset: 0, 0
+  index: -1
+fury_left
+  rotate: true
+  xy: 384, 122
+  size: 124, 215
+  orig: 124, 215
+  offset: 0, 0
+  index: -1
+huo
+  rotate: false
+  xy: 1032, 82
+  size: 169, 164
+  orig: 169, 164
+  offset: 0, 0
+  index: -1
+left_engine
+  rotate: false
+  xy: 1466, 204
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+left_head
+  rotate: true
+  xy: 187, 66
+  size: 22, 60
+  orig: 22, 60
+  offset: 0, 0
+  index: -1
+left_jet
+  rotate: false
+  xy: 136, 27
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+left_machine
+  rotate: false
+  xy: 1345, 178
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+left_wing
+  rotate: true
+  xy: 248, 69
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+qq1
+  rotate: true
+  xy: 600, 122
+  size: 124, 215
+  orig: 124, 215
+  offset: 0, 0
+  index: -1
+qq2
+  rotate: true
+  xy: 816, 122
+  size: 124, 215
+  orig: 124, 215
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 1202, 98
+  size: 142, 148
+  orig: 142, 148
+  offset: 0, 0
+  index: -1
+tale
+  rotate: false
+  xy: 84, 5
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+turbo
+  rotate: true
+  xy: 384, 93
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1

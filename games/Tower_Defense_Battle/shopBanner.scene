@@ -1,0 +1,303 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 0,
+				"x": 0,
+				"var": "pngBg",
+				"top": 0,
+				"skin": "images/solider/icon_bg.png",
+				"right": 0,
+				"left": 0,
+				"bottom": 0
+			},
+			"compId": 50
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 92,
+				"x": 0,
+				"width": 750,
+				"var": "centerBox",
+				"mouseThrough": true,
+				"height": 1150
+			},
+			"compId": 84,
+			"child": [
+				{
+					"type": "Box",
+					"props": {
+						"var": "dayBox",
+						"top": -40,
+						"right": 0,
+						"left": 0,
+						"bottom": 0
+					},
+					"compId": 167,
+					"child": [
+						{
+							"type": "List",
+							"props": {
+								"y": 145,
+								"x": 12,
+								"width": 725,
+								"var": "shopList1",
+								"height": 405
+							},
+							"compId": 207
+						},
+						{
+							"type": "List",
+							"props": {
+								"y": 573,
+								"x": 12,
+								"width": 725,
+								"var": "shopList2",
+								"height": 600
+							},
+							"compId": 208
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 499,
+								"x": 131,
+								"width": 193,
+								"visible": false,
+								"var": "boxGuide",
+								"height": 80,
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 211
+						}
+					]
+				},
+				{
+					"type": "Box",
+					"props": {
+						"visible": false,
+						"var": "goodBox",
+						"top": -40,
+						"right": 0,
+						"left": 0,
+						"bottom": 0
+					},
+					"compId": 168,
+					"child": [
+						{
+							"type": "List",
+							"props": {
+								"y": 143,
+								"x": 12,
+								"width": 725,
+								"var": "shopList3",
+								"rotation": 0,
+								"height": 480
+							},
+							"compId": 206
+						},
+						{
+							"type": "List",
+							"props": {
+								"y": 783,
+								"x": 12,
+								"width": 725,
+								"var": "shopList4",
+								"height": 280
+							},
+							"compId": 205
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 632,
+								"x": 226,
+								"var": "iconPatchTimer",
+								"skin": "images/shop/word_jp_sxdjs.png"
+							},
+							"compId": 175,
+							"child": [
+								{
+									"type": "Box",
+									"props": {
+										"y": 2,
+										"x": 205,
+										"width": 100,
+										"var": "boxPatchTime",
+										"text": "3:36:35",
+										"strokeColor": "#6b6767",
+										"stroke": 1,
+										"height": 24,
+										"fontSize": 22,
+										"color": "#30ee16",
+										"bold": true
+									},
+									"compId": 176
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 710,
+								"x": 375,
+								"width": 255,
+								"var": "btnPatchRefresh",
+								"skin": "images/shop/button_yellow.png",
+								"sizeGrid": "38,48,46,53",
+								"label": "label",
+								"height": 80,
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 177,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 12,
+										"x": 36,
+										"var": "iconPatchAd",
+										"skin": "images/shop/button_sp.png"
+									},
+									"compId": 178,
+									"child": [
+										{
+											"type": "Image",
+											"props": {
+												"y": 3,
+												"x": 62,
+												"skin": "images/shop/button_word_ljsx.png",
+												"label": "label"
+											},
+											"compId": 180
+										}
+									]
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 15,
+										"x": 67,
+										"var": "iconPatchFree",
+										"skin": "images/shop/button_word_ljsx.png",
+										"label": "label"
+									},
+									"compId": 209
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 52,
+						"x": 207,
+						"width": 307,
+						"var": "btnDay",
+						"skin": "images/shop/button_bq1.png",
+						"height": 71,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 3,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 13,
+								"x": 101,
+								"var": "imgDay",
+								"skin": "images/shop/button_word_rcbx1.png",
+								"label": "label"
+							},
+							"compId": 51
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 51,
+						"x": 539,
+						"width": 307,
+						"var": "btnGood",
+						"skin": "images/shop/button_bq2.png",
+						"height": 75,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 5,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 17,
+								"x": 101,
+								"var": "imgGood",
+								"skin": "images/shop/button_word_jpsd2.png",
+								"label": "label"
+							},
+							"compId": 52,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": -10,
+										"x": 111,
+										"var": "redGood",
+										"skin": "images/shop/red.png",
+										"anchorY": 0.5,
+										"anchorX": 0.5
+									},
+									"compId": 210
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 988,
+						"x": 31,
+						"width": 300,
+						"visible": false,
+						"var": "labQQ",
+						"text": "qq群:22222222",
+						"strokeColor": "#868484",
+						"stroke": 1,
+						"fontSize": 22,
+						"color": "#ffffff",
+						"bold": true,
+						"align": "left"
+					},
+					"compId": 212
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/solider/icon_bg.png",
+		"images/shop/word_jp_sxdjs.png",
+		"images/shop/button_yellow.png",
+		"images/shop/button_sp.png",
+		"images/shop/button_word_ljsx.png",
+		"images/shop/button_bq1.png",
+		"images/shop/button_word_rcbx1.png",
+		"images/shop/button_bq2.png",
+		"images/shop/button_word_jpsd2.png",
+		"images/shop/red.png"
+	],
+	"loadList3D": []
+}

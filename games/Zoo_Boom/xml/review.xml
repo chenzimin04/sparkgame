@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+<templates>
+	<button id="tButton" width="200" height="70" >
+		<image name="uiImgButton" template="tButtonImage" relativeWidth="1.0" relativeHeight="1.0" />		
+		<text name="uiTxtLabel" y="-10" relativeWidth="1" relativeHeight="1" size="30.0" halignText="center" valignText="center" halign="center" valign="center" template="tFontWhite" />
+	</button>	
+</templates>
+
+<screen template="tElement" halign="center" valign="center">	
+	<element relativeWidth="1.0" height="70" >			
+		<image template="tElement,tBlock" color="0x00" alpha="0.5" />
+		<text name="uiTxtType" width="400" size="50.0" halignText="left" valignText="center" template="tFontWhite" relativeHeight="1.0" />		
+		<text name="uiTxtLevel" width="400" size="50.0" halign="center" halignText="center" valignText="center" template="tFontWhite" relativeHeight="1.0" />		
+		<element name="uiReviewBlock" width="400" relativeHeight="1.0" halign="right">
+			<button name="uiBtAccept" label="Accept" valign="top" template="tButton" />
+			<button name="uiBtReject" label="Reject" halign="right" template="tButton" >
+				<image name="uiImgButton" color="0xFF5000" />		
+			</button>
+		</element>
+	</element>
+	
+	<element relativeWidth="1.0" height="70" valign="bottom" >			
+		<image template="tElement,tBlock" color="0x00" alpha="0.5" />
+		<text name="uiTxtComment" size="50.0" halignText="center" valignText="center" template="tFontWhite,tElement" />		
+	</element>
+</screen>

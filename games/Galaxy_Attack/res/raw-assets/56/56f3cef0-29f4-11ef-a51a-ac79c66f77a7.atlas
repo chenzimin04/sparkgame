@@ -1,0 +1,62 @@
+
+skel_gift_suitEquip.png
+size: 876,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
++1
+  rotate: true
+  xy: 801, 634
+  size: 241, 48
+  orig: 241, 48
+  offset: 0, 0
+  index: -1
++6
+  rotate: false
+  xy: 1, 174
+  size: 536, 701
+  orig: 536, 701
+  offset: 0, 0
+  index: -1
+001
+  rotate: false
+  xy: 801, 623
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 538, 1
+  size: 348, 191
+  orig: 348, 191
+  offset: 0, 0
+  index: -1
+04
+  rotate: true
+  xy: 538, 350
+  size: 525, 262
+  orig: 525, 262
+  offset: 0, 0
+  index: -1
+E_lizi0562
+  rotate: false
+  xy: 1, 57
+  size: 147, 116
+  orig: 147, 116
+  offset: 0, 0
+  index: -1
+E_lizi0562 - 副本 (2)
+  rotate: false
+  xy: 1, 1
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+b0002
+  rotate: true
+  xy: 730, 268
+  size: 81, 65
+  orig: 81, 65
+  offset: 0, 0
+  index: -1

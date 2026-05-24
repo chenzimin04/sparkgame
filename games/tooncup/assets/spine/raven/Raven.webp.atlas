@@ -1,0 +1,370 @@
+
+Raven.webp
+size: 364,1030
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect-Base
+  rotate: false
+  xy: 2, 423
+  size: 223, 95
+  orig: 223, 95
+  offset: 0, 0
+  index: -1
+Effect-Particle
+  rotate: false
+  xy: 252, 612
+  size: 8, 12
+  orig: 10, 14
+  offset: 1, 1
+  index: -1
+Effect-White
+  rotate: false
+  xy: 2, 207
+  size: 175, 55
+  orig: 175, 55
+  offset: 0, 0
+  index: -1
+Raven-Belly
+  rotate: true
+  xy: 264, 597
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+Raven-Cloth-Back
+  rotate: true
+  xy: 2, 520
+  size: 104, 248
+  orig: 104, 248
+  offset: 0, 0
+  index: -1
+Raven-Eyeball-L
+  rotate: true
+  xy: 264, 831
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+Raven-Eyeball-R
+  rotate: false
+  xy: 339, 211
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+Raven-Eyelid-Close-L
+  rotate: false
+  xy: 296, 738
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+Raven-Eyelid-Close-R
+  rotate: true
+  xy: 294, 556
+  size: 75, 68
+  orig: 75, 68
+  offset: 0, 0
+  index: -1
+Raven-Eyelid-Half-L
+  rotate: false
+  xy: 296, 679
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+Raven-Eyelid-Half-R
+  rotate: true
+  xy: 291, 372
+  size: 73, 57
+  orig: 73, 57
+  offset: 0, 0
+  index: -1
+Raven-Eyelid-Open-L
+  rotate: false
+  xy: 295, 633
+  size: 66, 44
+  orig: 66, 44
+  offset: 0, 0
+  index: -1
+Raven-Eyelid-Open-R
+  rotate: false
+  xy: 278, 70
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+Raven-Face
+  rotate: false
+  xy: 2, 264
+  size: 186, 157
+  orig: 186, 157
+  offset: 0, 0
+  index: -1
+Raven-Hand-L
+  rotate: false
+  xy: 190, 294
+  size: 32, 74
+  orig: 32, 74
+  offset: 0, 0
+  index: -1
+Raven-Hand-R
+  rotate: true
+  xy: 30, 3
+  size: 27, 72
+  orig: 27, 72
+  offset: 0, 0
+  index: -1
+Raven-Hip-Patch
+  rotate: true
+  xy: 190, 370
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+Raven-Hood
+  rotate: false
+  xy: 2, 626
+  size: 260, 227
+  orig: 260, 227
+  offset: 0, 0
+  index: -1
+Raven-Hood-Button
+  rotate: false
+  xy: 341, 329
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+Raven-Idle-Cloth-L
+  rotate: true
+  xy: 2, 855
+  size: 85, 293
+  orig: 85, 293
+  offset: 0, 0
+  index: -1
+Raven-Idle-Cloth-R
+  rotate: true
+  xy: 2, 942
+  size: 86, 293
+  orig: 86, 293
+  offset: 0, 0
+  index: -1
+Raven-Leg-L
+  rotate: true
+  xy: 224, 317
+  size: 48, 115
+  orig: 48, 115
+  offset: 0, 0
+  index: -1
+Raven-Leg-R
+  rotate: true
+  xy: 224, 267
+  size: 48, 114
+  orig: 48, 114
+  offset: 0, 0
+  index: -1
+Raven-Mouth-Angry
+  rotate: true
+  xy: 339, 156
+  size: 53, 17
+  orig: 53, 17
+  offset: 0, 0
+  index: -1
+Raven-Mouth-Happy-Open
+  rotate: true
+  xy: 264, 720
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+Raven-Mouth-Idle
+  rotate: false
+  xy: 190, 408
+  size: 34, 13
+  orig: 34, 13
+  offset: 0, 0
+  index: -1
+Raven-Mouth-Sad-Open
+  rotate: true
+  xy: 226, 367
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+Raven-Palm-Celebration-L
+  rotate: true
+  xy: 2, 32
+  size: 173, 174
+  orig: 173, 174
+  offset: 0, 0
+  index: -1
+Raven-Palm-Celebration-R
+  rotate: true
+  xy: 190, 120
+  size: 144, 147
+  orig: 144, 147
+  offset: 0, 0
+  index: -1
+Raven-Palm-Fall-L
+  rotate: false
+  xy: 156, 6
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+Raven-Palm-Fall-R
+  rotate: true
+  xy: 227, 415
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+Raven-Palm-Fold-L
+  rotate: true
+  xy: 190, 266
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Raven-Palm-Fold-R
+  rotate: true
+  xy: 252, 372
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Raven-Palm-Idle-L
+  rotate: false
+  xy: 264, 669
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+Raven-Palm-Idle-R
+  rotate: true
+  xy: 104, 4
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+Raven-Shadow
+  rotate: true
+  xy: 252, 406
+  size: 161, 37
+  orig: 161, 37
+  offset: 0, 0
+  index: -1
+Raven-Shoe-L
+  rotate: false
+  xy: 297, 980
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+Raven-Shoe-R
+  rotate: false
+  xy: 297, 858
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+Raven-Shorts-L
+  rotate: false
+  xy: 264, 761
+  size: 30, 68
+  orig: 30, 68
+  offset: 0, 0
+  index: -1
+Raven-Shorts-R
+  rotate: true
+  xy: 291, 447
+  size: 33, 69
+  orig: 33, 69
+  offset: 0, 0
+  index: -1
+Raven-Shoulder-Cloth
+  rotate: true
+  xy: 278, 15
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+Raven-Thigh-L
+  rotate: false
+  xy: 227, 464
+  size: 23, 54
+  orig: 23, 54
+  offset: 0, 0
+  index: -1
+Raven-Thigh-R
+  rotate: false
+  xy: 340, 245
+  size: 22, 53
+  orig: 22, 53
+  offset: 0, 0
+  index: -1
+Raven-Whiteye-L
+  rotate: false
+  xy: 297, 908
+  size: 64, 70
+  orig: 64, 70
+  offset: 0, 0
+  index: -1
+Raven-Whiteye-R
+  rotate: true
+  xy: 291, 482
+  size: 72, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1
+tint-Raven-Body
+  rotate: true
+  xy: 297, 806
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+tint-Raven-Handband-L
+  rotate: true
+  xy: 2, 2
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+tint-Raven-Handband-R
+  rotate: true
+  xy: 341, 300
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+tint-Raven-Shoulder-L
+  rotate: true
+  xy: 252, 569
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+tint-Raven-Shoulder-R
+  rotate: false
+  xy: 264, 631
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+tint-Raven-Socks-L
+  rotate: false
+  xy: 178, 33
+  size: 48, 85
+  orig: 48, 85
+  offset: 0, 0
+  index: -1
+tint-Raven-Socks-R
+  rotate: false
+  xy: 228, 34
+  size: 48, 84
+  orig: 48, 84
+  offset: 0, 0
+  index: -1

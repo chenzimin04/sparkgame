@@ -1,0 +1,32 @@
+{
+   "resolution":"standard",
+   "image1":"kitchen_white_new_a.jpg",
+   "image2":"kitchen_white_new_b.jpg",
+   "differences":[
+      {
+         "x":358.5,
+         "y":404.0,
+         "size":147.20000000000002
+      },
+      {
+         "x":96.5,
+         "y":252.0,
+         "size":132.5
+      },
+      {
+         "x":316.5,
+         "y":100.0,
+         "size":132.5
+      },
+      {
+         "x":733.5,
+         "y":318.0,
+         "size":201.1
+      },
+      {
+         "x":616.5,
+         "y":576.0,
+         "size":161.9
+      }
+   ]
+}

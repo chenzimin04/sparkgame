@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "tasty_food_a.jpg",
+  "image2": "tasty_food_b.jpg",
+  "differences":
+  [
+    {
+      "x": 115.0,
+      "y": 33.0,
+      "size": 150.0
+    },
+    {
+      "x": 944.0,
+      "y": 6.0,
+      "size": 150.0
+    },
+    {
+      "x": 276.0,
+      "y": 399.0,
+      "size": 270.0
+    },
+    {
+      "x": 634.0,
+      "y": 437.0,
+      "size": 90.0
+    },
+    {
+      "x": 867.0,
+      "y": 610.0,
+      "size": 60.0
+    }
+  ]
+}

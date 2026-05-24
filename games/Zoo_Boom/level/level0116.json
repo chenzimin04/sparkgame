@@ -1,0 +1,23 @@
+ {
+	"size":9,
+	"moves":35,
+	"fill":"up",
+	"add":[		
+		{ "x":0, "y":0, "dx":2, "dy":2, "type":"ORE", "count":true },
+		{ "x":7, "y":0, "dx":2, "dy":2, "type":"ORE", "count":true },
+		{ "x":0, "y":3, "dx":3, "dy":3, "type":"CRACKLING", "count":true },
+		{ "x":3, "y":0, "dx":3, "dy":3, "type":"CRACKLING", "count":true },
+		{ "x":6, "y":3, "dx":3, "dy":3, "type":"CRACKLING", "count":true }
+	],
+	"allowedGemTypes":["GEM_YELLOW","GEM_GREEN","GEM_RED","GEM_BLUE"],
+	"field":[
+		"xxoxxxoxx",
+		"xxoxxxoxx",
+		"oooxxxooo",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"oooxxxooo",
+		"xxoxxxoxx",
+		"xxoxxxoxx"]
+ }

@@ -1,0 +1,23 @@
+{
+  "resolution": "standard",
+  "image1": "colorfull_bird_a.jpg",
+  "image2": "colorfull_bird_b.jpg",
+  "differences":
+  [
+    {
+      "x": 470.0,
+      "y": 572.0,
+      "size": 100.0
+    },
+    {
+      "x": 304.0,
+      "y": 322.0,
+      "size": 210.0
+    },
+    {
+      "x": 426.0,
+      "y": 93.0,
+      "size": 80.0
+    }
+  ]
+}

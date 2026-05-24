@@ -1,0 +1,398 @@
+
+Starfire.webp
+size: 1428,221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect-Base
+  rotate: false
+  xy: 770, 3
+  size: 223, 95
+  orig: 223, 95
+  offset: 0, 0
+  index: -1
+Effect-Particle
+  rotate: false
+  xy: 759, 86
+  size: 8, 12
+  orig: 10, 14
+  offset: 1, 1
+  index: -1
+Effect-White
+  rotate: true
+  xy: 423, 44
+  size: 175, 55
+  orig: 175, 55
+  offset: 0, 0
+  index: -1
+Starfire-Ear-R
+  rotate: false
+  xy: 1266, 6
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+Starfire-Eye-L
+  rotate: true
+  xy: 1364, 180
+  size: 39, 60
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+Starfire-Eye-L-Close
+  rotate: false
+  xy: 1303, 61
+  size: 54, 61
+  orig: 54, 61
+  offset: 0, 0
+  index: -1
+Starfire-Eye-L-Half
+  rotate: false
+  xy: 595, 3
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+Starfire-Eye-L-Idle
+  rotate: true
+  xy: 698, 6
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+Starfire-Eye-R
+  rotate: false
+  xy: 1305, 4
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+Starfire-Eye-R-Close
+  rotate: true
+  xy: 1189, 147
+  size: 72, 57
+  orig: 72, 57
+  offset: 0, 0
+  index: -1
+Starfire-Eye-R-Half
+  rotate: true
+  xy: 1106, 45
+  size: 74, 44
+  orig: 74, 44
+  offset: 0, 0
+  index: -1
+Starfire-Eye-R-Idle
+  rotate: true
+  xy: 1152, 45
+  size: 74, 39
+  orig: 74, 39
+  offset: 0, 0
+  index: -1
+Starfire-Eyeball-L
+  rotate: true
+  xy: 1324, 126
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+Starfire-Eyeball-R
+  rotate: false
+  xy: 1393, 83
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+Starfire-Eyebrow-L
+  rotate: true
+  xy: 929, 104
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+Starfire-Eyebrow-R
+  rotate: true
+  xy: 912, 103
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+Starfire-Face
+  rotate: false
+  xy: 518, 56
+  size: 138, 163
+  orig: 138, 163
+  offset: 0, 0
+  index: -1
+Starfire-Hair-B
+  rotate: true
+  xy: 2, 3
+  size: 216, 419
+  orig: 216, 419
+  offset: 0, 0
+  index: -1
+Starfire-Hair-F
+  rotate: true
+  xy: 798, 103
+  size: 116, 61
+  orig: 116, 61
+  offset: 0, 0
+  index: -1
+Starfire-Hair-L
+  rotate: false
+  xy: 758, 100
+  size: 38, 119
+  orig: 38, 119
+  offset: 0, 0
+  index: -1
+Starfire-Hair-R
+  rotate: false
+  xy: 480, 54
+  size: 36, 165
+  orig: 36, 165
+  offset: 0, 0
+  index: -1
+Starfire-Hand-L
+  rotate: false
+  xy: 1069, 41
+  size: 35, 78
+  orig: 35, 78
+  offset: 0, 0
+  index: -1
+Starfire-Hand-R
+  rotate: false
+  xy: 995, 19
+  size: 34, 86
+  orig: 34, 86
+  offset: 0, 0
+  index: -1
+Starfire-Hand-Watch-R
+  rotate: false
+  xy: 1286, 156
+  size: 38, 63
+  orig: 38, 63
+  offset: 0, 0
+  index: -1
+Starfire-Mouth-Idle
+  rotate: false
+  xy: 942, 106
+  size: 38, 13
+  orig: 38, 13
+  offset: 0, 0
+  index: -1
+Starfire-Mouth-Open
+  rotate: true
+  xy: 1230, 5
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+Starfire-Mouth-Sad-Idle
+  rotate: false
+  xy: 994, 107
+  size: 38, 12
+  orig: 38, 12
+  offset: 0, 0
+  index: -1
+Starfire-Mouth-Sad-Open
+  rotate: false
+  xy: 1189, 123
+  size: 47, 22
+  orig: 47, 22
+  offset: 0, 0
+  index: -1
+Starfire-Neck
+  rotate: false
+  xy: 1031, 25
+  size: 36, 80
+  orig: 36, 80
+  offset: 0, 0
+  index: -1
+Starfire-Nose
+  rotate: false
+  xy: 982, 106
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+Starfire-Palm-L-Fold
+  rotate: true
+  xy: 1326, 192
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Starfire-Palm-L-Fold-1
+  rotate: false
+  xy: 658, 56
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+Starfire-Palm-L-Idle
+  rotate: false
+  xy: 1359, 78
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+Starfire-Palm-L-Open-1
+  rotate: true
+  xy: 1221, 54
+  size: 67, 45
+  orig: 67, 45
+  offset: 0, 0
+  index: -1
+Starfire-Palm-L-Open-2
+  rotate: false
+  xy: 650, 5
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+Starfire-Palm-R-Fold
+  rotate: false
+  xy: 423, 2
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+Starfire-Palm-R-Fold-1
+  rotate: false
+  xy: 1287, 124
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+Starfire-Palm-R-Idle
+  rotate: true
+  xy: 1362, 7
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+Starfire-Palm-R-Open-1
+  rotate: false
+  xy: 556, 2
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+Starfire-Palm-R-Open-2
+  rotate: true
+  xy: 1364, 124
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+Starfire-Shoe-L
+  rotate: true
+  xy: 1248, 155
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+Starfire-Shoe-R
+  rotate: false
+  xy: 1101, 2
+  size: 64, 37
+  orig: 64, 37
+  offset: 0, 0
+  index: -1
+Starfire-Shorts-L
+  rotate: true
+  xy: 694, 57
+  size: 30, 63
+  orig: 30, 63
+  offset: 0, 0
+  index: -1
+Starfire-Shorts-Patch
+  rotate: false
+  xy: 1393, 43
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+Starfire-Shorts-R
+  rotate: false
+  xy: 1268, 59
+  size: 33, 62
+  orig: 33, 62
+  offset: 0, 0
+  index: -1
+Starfire-Thigh-L
+  rotate: true
+  xy: 1031, 3
+  size: 20, 68
+  orig: 20, 68
+  offset: 0, 0
+  index: -1
+Starfire-Thigh-R
+  rotate: false
+  xy: 1193, 53
+  size: 26, 68
+  orig: 26, 68
+  offset: 0, 0
+  index: -1
+Starfire-Watch-L
+  rotate: true
+  xy: 1167, 4
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1
+Starfire_Shadow
+  rotate: false
+  xy: 861, 121
+  size: 326, 98
+  orig: 326, 98
+  offset: 0, 0
+  index: -1
+tint-Starfire-Body
+  rotate: true
+  xy: 489, 2
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+tint-Starfire-Shoulder-L
+  rotate: true
+  xy: 1248, 123
+  size: 30, 37
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+tint-Starfire-Shoulder-R
+  rotate: false
+  xy: 458, 2
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+tint-Starfire-Socks-D-L
+  rotate: false
+  xy: 708, 90
+  size: 48, 129
+  orig: 48, 129
+  offset: 0, 0
+  index: -1
+tint-Starfire-Socks-D-R
+  rotate: false
+  xy: 658, 89
+  size: 48, 130
+  orig: 48, 130
+  offset: 0, 0
+  index: -1
+tint-Starfire-Socks-L
+  rotate: true
+  xy: 861, 100
+  size: 19, 49
+  orig: 19, 49
+  offset: 0, 0
+  index: -1
+tint-Starfire-Socks-R
+  rotate: false
+  xy: 744, 6
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+skel_boss_2_2_right_h.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+8/1805-1
+  rotate: true
+  xy: 882, 197
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+8/1805-6
+  rotate: false
+  xy: 835, 176
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+C-youbi
+  rotate: false
+  xy: 1, 15
+  size: 178, 225
+  orig: 178, 225
+  offset: 0, 0
+  index: -1
+C-youchibang1
+  rotate: false
+  xy: 587, 159
+  size: 153, 81
+  orig: 153, 81
+  offset: 0, 0
+  index: -1
+C-youchibang2
+  rotate: false
+  xy: 741, 163
+  size: 93, 77
+  orig: 93, 77
+  offset: 0, 0
+  index: -1
+C-youchibang3
+  rotate: true
+  xy: 949, 193
+  size: 47, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+C-youxia
+  rotate: false
+  xy: 587, 50
+  size: 72, 108
+  orig: 72, 108
+  offset: 0, 0
+  index: -1
+C-youyi
+  rotate: true
+  xy: 352, 131
+  size: 109, 234
+  orig: 109, 234
+  offset: 0, 0
+  index: -1
+D-youbi
+  rotate: false
+  xy: 180, 15
+  size: 171, 225
+  orig: 171, 225
+  offset: 0, 0
+  index: -1
+D-youchibang1
+  rotate: true
+  xy: 660, 58
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+D-youchibang3
+  rotate: true
+  xy: 587, 1
+  size: 48, 57
+  orig: 48, 57
+  offset: 0, 0
+  index: -1
+D-youyi
+  rotate: true
+  xy: 352, 21
+  size: 109, 234
+  orig: 109, 234
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,240 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 687,
+				"x": 395,
+				"var": "pngBg",
+				"top": 0,
+				"skin": "images/grid/maskGray.png",
+				"sizeGrid": "2,3,4,3",
+				"right": 0,
+				"left": 0,
+				"bottom": 0,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 3
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 127,
+				"x": 25,
+				"width": 700,
+				"var": "centerBox",
+				"mouseThrough": true,
+				"height": 1080
+			},
+			"compId": 4,
+			"child": [
+				{
+					"type": "Box",
+					"props": {
+						"y": 0,
+						"x": 0,
+						"width": 700,
+						"rotation": 0
+					},
+					"compId": 19,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 0,
+								"x": 0,
+								"width": 700,
+								"skin": "images/sign7/icon_tc_pzbg_3.png",
+								"sizeGrid": "9,33,86,29",
+								"height": 1000
+							},
+							"compId": 20,
+							"child": [
+								{
+									"type": "Label",
+									"props": {
+										"y": 960,
+										"x": 150,
+										"width": 400,
+										"text": "Reset every day at 5 a.m",
+										"strokeColor": "#868484",
+										"stroke": 1,
+										"fontSize": 24,
+										"color": "#ffffff",
+										"bold": true,
+										"align": "center"
+									},
+									"compId": 32
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": -14,
+								"x": 0,
+								"width": 700,
+								"skin": "images/sign7/icon_bt_bg.png",
+								"sizeGrid": "72,23,3,27",
+								"height": 104
+							},
+							"compId": 29
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 101,
+								"x": 10,
+								"width": 680,
+								"skin": "images/sign7/button_bq2.png",
+								"sizeGrid": "29,16,43,15",
+								"label": "label",
+								"height": 717
+							},
+							"compId": 30
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 17,
+								"x": 308,
+								"skin": "images/sign7/icon_bt_qd.png"
+							},
+							"compId": 24
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 39,
+								"x": 648,
+								"var": "btnClose",
+								"skin": "images/sign7/button_gb.png",
+								"label": "label",
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 27
+						}
+					]
+				},
+				{
+					"type": "List",
+					"props": {
+						"y": 112,
+						"x": 18,
+						"width": 664,
+						"var": "signList",
+						"height": 475
+					},
+					"compId": 11
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 597,
+						"x": 19,
+						"skin": "images/sign7/sign_seven.png",
+						"rotation": 0
+					},
+					"compId": 12,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 12,
+								"x": 28,
+								"skin": "images/sign7/sign_7.png",
+								"rotation": 0
+							},
+							"compId": 26
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 2,
+								"x": 373,
+								"skin": "images/sign7/icon_dj_sjsb2.png"
+							},
+							"compId": 31
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 597,
+						"x": 20,
+						"width": 661,
+						"var": "imgSign7",
+						"skin": "images/sign7/signMask.png",
+						"sizeGrid": "35,25,44,31",
+						"rotation": 0,
+						"height": 209
+					},
+					"compId": 16,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 36,
+								"x": 382,
+								"skin": "images/sign7/yes.png"
+							},
+							"compId": 17
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 887,
+						"x": 350,
+						"width": 270,
+						"var": "btnSign",
+						"skin": "images/sign7/button_yellow.png",
+						"sizeGrid": "42,52,54,52",
+						"rotation": 0,
+						"height": 116,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 13,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 25,
+								"x": 88,
+								"skin": "images/sign7/signTxt.png"
+							},
+							"compId": 25
+						}
+					]
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/grid/maskGray.png",
+		"images/sign7/icon_tc_pzbg_3.png",
+		"images/sign7/icon_bt_bg.png",
+		"images/sign7/button_bq2.png",
+		"images/sign7/icon_bt_qd.png",
+		"images/sign7/button_gb.png",
+		"images/sign7/sign_seven.png",
+		"images/sign7/sign_7.png",
+		"images/sign7/icon_dj_sjsb2.png",
+		"images/sign7/signMask.png",
+		"images/sign7/yes.png",
+		"images/sign7/button_yellow.png",
+		"images/sign7/signTxt.png"
+	],
+	"loadList3D": []
+}

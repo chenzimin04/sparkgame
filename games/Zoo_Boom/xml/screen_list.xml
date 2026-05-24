@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+
+<templates>	
+	<image id="tEntry" width="800" height="180" halign="center" padding="35" template="tBox" clickable="true" clickableChildren="false">			
+		<text name="uiTxtName" template="tElement,tFontLarge" halignText="left" valignText="center" color="0xEFDA89"/>	
+		<button name="uiBtTest" image="dynamic/play.png" relativeHeight="1.1" ratio="1.0" halign="right" valign="center" />
+	</image>
+</templates>
+
+<screen name="uiLevelList" template="tPopUpJenny" label="SID_LEVELS">
+	<element name="uiContent" margin="35">
+		<list name="uiList" template="tList,tElement" gap="10" />
+	</element>
+</screen>

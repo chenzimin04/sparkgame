@@ -1,0 +1,7 @@
+@font-face {
+  font-family:'fredburger_regular';
+  src:url('../assets/fonts/fredburger_regular.woff2') format('woff2');
+  src:url('../assets/fonts/fredburger_regular.woff') format('woff');
+  font-style: normal;
+  font-stretch: normal;
+}

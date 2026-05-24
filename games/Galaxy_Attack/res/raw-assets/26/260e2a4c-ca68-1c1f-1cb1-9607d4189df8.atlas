@@ -1,0 +1,405 @@
+
+skel_boss3_unit_1.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images1/dabi
+  rotate: false
+  xy: 530, 129
+  size: 69, 47
+  orig: 69, 47
+  offset: 0, 0
+  index: -1
+images1/g1
+  rotate: false
+  xy: 627, 159
+  size: 169, 96
+  orig: 179, 98
+  offset: 5, 1
+  index: -1
+images1/g2
+  rotate: false
+  xy: 1380, 179
+  size: 135, 76
+  orig: 179, 98
+  offset: 22, 11
+  index: -1
+images1/gg2
+  rotate: false
+  xy: 1754, 153
+  size: 111, 102
+  orig: 135, 123
+  offset: 12, 10
+  index: -1
+images2/gg2
+  rotate: false
+  xy: 1754, 153
+  size: 111, 102
+  orig: 135, 123
+  offset: 12, 10
+  index: -1
+images3/gg2
+  rotate: false
+  xy: 1754, 153
+  size: 111, 102
+  orig: 135, 123
+  offset: 12, 10
+  index: -1
+images1/gg3
+  rotate: false
+  xy: 1060, 107
+  size: 107, 84
+  orig: 135, 123
+  offset: 6, 19
+  index: -1
+images2/gg3
+  rotate: false
+  xy: 1060, 107
+  size: 107, 84
+  orig: 135, 123
+  offset: 6, 19
+  index: -1
+images3/gg3
+  rotate: false
+  xy: 1060, 107
+  size: 107, 84
+  orig: 135, 123
+  offset: 6, 19
+  index: -1
+images1/gg4
+  rotate: true
+  xy: 1976, 129
+  size: 84, 66
+  orig: 135, 123
+  offset: 20, 28
+  index: -1
+images2/gg4
+  rotate: true
+  xy: 1976, 129
+  size: 84, 66
+  orig: 135, 123
+  offset: 20, 28
+  index: -1
+images3/gg4
+  rotate: true
+  xy: 1976, 129
+  size: 84, 66
+  orig: 135, 123
+  offset: 20, 28
+  index: -1
+images1/gg5
+  rotate: false
+  xy: 199, 50
+  size: 60, 50
+  orig: 135, 123
+  offset: 34, 35
+  index: -1
+images2/gg5
+  rotate: false
+  xy: 199, 50
+  size: 60, 50
+  orig: 135, 123
+  offset: 34, 35
+  index: -1
+images3/gg5
+  rotate: false
+  xy: 199, 50
+  size: 60, 50
+  orig: 135, 123
+  offset: 34, 35
+  index: -1
+images1/gg6
+  rotate: true
+  xy: 199, 1
+  size: 48, 50
+  orig: 135, 123
+  offset: 43, 35
+  index: -1
+images2/gg6
+  rotate: true
+  xy: 199, 1
+  size: 48, 50
+  orig: 135, 123
+  offset: 43, 35
+  index: -1
+images3/gg6
+  rotate: true
+  xy: 199, 1
+  size: 48, 50
+  orig: 135, 123
+  offset: 43, 35
+  index: -1
+images1/right_machinegun
+  rotate: false
+  xy: 938, 143
+  size: 121, 112
+  orig: 123, 114
+  offset: 1, 1
+  index: -1
+images1/right_shoulder
+  rotate: true
+  xy: 275, 103
+  size: 39, 51
+  orig: 41, 53
+  offset: 1, 1
+  index: -1
+images1/right_small_wing
+  rotate: true
+  xy: 204, 101
+  size: 41, 70
+  orig: 43, 72
+  offset: 1, 1
+  index: -1
+images1/rightgun
+  rotate: true
+  xy: 1516, 178
+  size: 77, 118
+  orig: 79, 120
+  offset: 1, 1
+  index: -1
+images1/rightwing1
+  rotate: false
+  xy: 426, 177
+  size: 200, 78
+  orig: 202, 80
+  offset: 1, 1
+  index: -1
+images1/rightwing2
+  rotate: false
+  xy: 204, 143
+  size: 221, 112
+  orig: 223, 114
+  offset: 1, 1
+  index: -1
+images1/rightwing3
+  rotate: false
+  xy: 1, 121
+  size: 202, 134
+  orig: 204, 136
+  offset: 1, 1
+  index: -1
+images1/shou
+  rotate: false
+  xy: 1217, 94
+  size: 75, 83
+  orig: 75, 83
+  offset: 0, 0
+  index: -1
+images1/shou2
+  rotate: false
+  xy: 1293, 127
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+images1/xiaobi
+  rotate: false
+  xy: 426, 128
+  size: 103, 48
+  orig: 103, 48
+  offset: 0, 0
+  index: -1
+images1/yan
+  rotate: true
+  xy: 1060, 192
+  size: 63, 170
+  orig: 63, 170
+  offset: 0, 0
+  index: -1
+images2/yan
+  rotate: true
+  xy: 1060, 192
+  size: 63, 170
+  orig: 63, 170
+  offset: 0, 0
+  index: -1
+images3/yan
+  rotate: true
+  xy: 1060, 192
+  size: 63, 170
+  orig: 63, 170
+  offset: 0, 0
+  index: -1
+images2/dabi
+  rotate: false
+  xy: 1293, 79
+  size: 69, 47
+  orig: 71, 49
+  offset: 1, 1
+  index: -1
+images3/dabi
+  rotate: false
+  xy: 1293, 79
+  size: 69, 47
+  orig: 71, 49
+  offset: 1, 1
+  index: -1
+images2/g1
+  rotate: false
+  xy: 1, 1
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+images2/g2
+  rotate: false
+  xy: 1, 1
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+images2/shou
+  rotate: false
+  xy: 1, 1
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+images2/shou2
+  rotate: false
+  xy: 1, 1
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+images2/right_machinegun
+  rotate: true
+  xy: 1866, 147
+  size: 108, 109
+  orig: 123, 114
+  offset: 13, 3
+  index: -1
+images3/right_machinegun
+  rotate: true
+  xy: 1866, 147
+  size: 108, 109
+  orig: 123, 114
+  offset: 13, 3
+  index: -1
+images2/right_shoulder
+  rotate: true
+  xy: 327, 102
+  size: 40, 50
+  orig: 42, 52
+  offset: 1, 1
+  index: -1
+images3/right_shoulder
+  rotate: true
+  xy: 327, 102
+  size: 40, 50
+  orig: 42, 52
+  offset: 1, 1
+  index: -1
+images2/right_small_wing
+  rotate: true
+  xy: 1976, 214
+  size: 41, 71
+  orig: 43, 73
+  offset: 1, 1
+  index: -1
+images3/right_small_wing
+  rotate: true
+  xy: 1976, 214
+  size: 41, 71
+  orig: 43, 73
+  offset: 1, 1
+  index: -1
+images2/rightgun
+  rotate: true
+  xy: 1635, 178
+  size: 77, 118
+  orig: 79, 120
+  offset: 1, 1
+  index: -1
+images3/rightgun
+  rotate: true
+  xy: 1635, 178
+  size: 77, 118
+  orig: 79, 120
+  offset: 1, 1
+  index: -1
+images2/rightwing1
+  rotate: false
+  xy: 1231, 178
+  size: 148, 77
+  orig: 202, 80
+  offset: 53, 1
+  index: -1
+images3/rightwing1
+  rotate: false
+  xy: 1231, 178
+  size: 148, 77
+  orig: 202, 80
+  offset: 53, 1
+  index: -1
+images2/rightwing2
+  rotate: false
+  xy: 1, 7
+  size: 197, 113
+  orig: 223, 114
+  offset: 23, 0
+  index: -1
+images3/rightwing2
+  rotate: false
+  xy: 1, 7
+  size: 197, 113
+  orig: 223, 114
+  offset: 23, 0
+  index: -1
+images2/rightwing3
+  rotate: false
+  xy: 797, 142
+  size: 140, 113
+  orig: 204, 136
+  offset: 63, 22
+  index: -1
+images3/rightwing3
+  rotate: false
+  xy: 797, 142
+  size: 140, 113
+  orig: 204, 136
+  offset: 63, 22
+  index: -1
+images2/xiaobi
+  rotate: true
+  xy: 1168, 88
+  size: 103, 48
+  orig: 103, 48
+  offset: 0, 0
+  index: -1
+images3/xiaobi
+  rotate: true
+  xy: 1168, 88
+  size: 103, 48
+  orig: 103, 48
+  offset: 0, 0
+  index: -1
+images3/g1
+  rotate: false
+  xy: 2043, 212
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images3/g2
+  rotate: false
+  xy: 2043, 212
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images3/shou
+  rotate: false
+  xy: 2043, 212
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images3/shou2
+  rotate: false
+  xy: 2043, 212
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

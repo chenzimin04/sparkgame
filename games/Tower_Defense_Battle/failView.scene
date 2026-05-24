@@ -1,0 +1,266 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 530,
+				"x": 375,
+				"var": "pngBg",
+				"top": 0,
+				"skin": "images/grid/maskGray.png",
+				"sizeGrid": "2,3,4,3",
+				"right": 0,
+				"left": 0,
+				"bottom": 0,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 3
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 217,
+				"x": 0,
+				"width": 750,
+				"var": "centerBox",
+				"height": 900
+			},
+			"compId": 5,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 50,
+						"x": 375,
+						"var": "imgLose",
+						"skin": "images/result/icon_js_sb.png",
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 6
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 515,
+						"x": 375,
+						"width": 330,
+						"var": "btnAgain",
+						"skin": "images/result/button_green.png",
+						"sizeGrid": "0,57,0,62",
+						"height": 116,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 19,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 25,
+								"x": 87,
+								"skin": "images/result/button_word_zwyc.png",
+								"label": "label"
+							},
+							"compId": 25
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 689,
+						"x": 375,
+						"width": 330,
+						"var": "btnClose",
+						"skin": "images/result/button_blue.png",
+						"sizeGrid": "0,57,0,62",
+						"height": 116,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 15,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 25,
+								"x": 120,
+								"skin": "images/result/button_word_tc.png",
+								"label": "label"
+							},
+							"compId": 26
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 215,
+						"x": 0,
+						"width": 375,
+						"var": "reliveBan",
+						"skin": "images/result/icon_gq_btbg.png",
+						"sizeGrid": "23,0,35,359",
+						"height": 166
+					},
+					"compId": 17,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 0,
+								"x": 750,
+								"width": 375,
+								"skin": "images/result/icon_gq_btbg.png",
+								"sizeGrid": "23,0,35,359",
+								"scaleX": -1,
+								"height": 166
+							},
+							"compId": 20
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 60,
+								"x": 95,
+								"skin": "images/result/icon_js_ts2.png"
+							},
+							"compId": 21
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 76,
+								"x": 567,
+								"width": 256,
+								"var": "btnRelive",
+								"skin": "images/result/button_yellow.png",
+								"sizeGrid": "0,57,0,62",
+								"label": "label",
+								"height": 116,
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 18,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 24,
+										"x": 38,
+										"var": "iconAd",
+										"skin": "images/result/button_sp.png",
+										"label": "label"
+									},
+									"compId": 23,
+									"child": [
+										{
+											"type": "Image",
+											"props": {
+												"y": -3,
+												"x": 83,
+												"skin": "images/result/button_word_fh.png",
+												"label": "label"
+											},
+											"compId": 24
+										}
+									]
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 29,
+										"x": 17,
+										"var": "iconDaimond",
+										"skin": "images/result/fly1.png"
+									},
+									"compId": 27,
+									"child": [
+										{
+											"type": "Image",
+											"props": {
+												"y": -8,
+												"x": 126,
+												"skin": "images/result/button_word_fh.png",
+												"label": "label"
+											},
+											"compId": 28
+										},
+										{
+											"type": "Label",
+											"props": {
+												"y": 3,
+												"x": 46.283203125,
+												"var": "labDaimond",
+												"text": "x188",
+												"fontSize": 34,
+												"color": "#ffffff",
+												"bold": true
+											},
+											"compId": 29
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 788,
+						"x": 85,
+						"width": 580,
+						"visible": false,
+						"var": "labTeach",
+						"text": "游戏提示文字",
+						"strokeColor": "#888888",
+						"stroke": 1,
+						"wordWrap": true,
+						"fontSize": 25,
+						"color": "#ffffff",
+						"align": "center"
+					},
+					"compId": 30
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 689,
+						"x": 633,
+						"width": 88,
+						"visible": false,
+						"var": "appIcon",
+						"height": 88,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 31
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/grid/maskGray.png",
+		"images/result/icon_js_sb.png",
+		"images/result/button_green.png",
+		"images/result/button_word_zwyc.png",
+		"images/result/button_blue.png",
+		"images/result/button_word_tc.png",
+		"images/result/icon_gq_btbg.png",
+		"images/result/icon_js_ts2.png",
+		"images/result/button_yellow.png",
+		"images/result/button_sp.png",
+		"images/result/button_word_fh.png",
+		"images/result/fly1.png"
+	],
+	"loadList3D": []
+}

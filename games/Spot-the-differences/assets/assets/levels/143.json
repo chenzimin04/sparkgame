@@ -1,0 +1,32 @@
+{
+   "resolution":"standard",
+   "image1":"room_miniature_a.jpg",
+   "image2":"room_miniature_b.jpg",
+   "differences":[
+      {
+         "x":216.5,
+         "y":291.0,
+         "size":127.6
+      },
+      {
+         "x":395.5,
+         "y":208.0,
+         "size":186.4
+      },
+      {
+         "x":549.5,
+         "y":167.0,
+         "size":108.0
+      },
+      {
+         "x":634.5,
+         "y":304.0,
+         "size":78.60000000000001
+      },
+      {
+         "x":780.5,
+         "y":452.0,
+         "size":103.1
+      }
+   ]
+}

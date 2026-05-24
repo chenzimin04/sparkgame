@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+
+<screen name="uiScreenPopUp" template="tPopUpJenny">
+	<element name="uiContent">
+		<element relativeWidth="1.0" height="350" valign="top" margin="20" marginLeft="10" marginRight="10" padding="10" >
+			<image image="ui/life.png" width="200" ratio="1" halign="center" valign="center" y="-30">
+				<text name="uiTxtAmount" y="-6" halignText="center" valignText="center" halign="center" valign="center" template="tFontWhite,tFontUltra,tElement" />
+				<text name="uiTxtCountDown" y="40" width="300" height="60" halignText="center" valignText="center" halign="center" valign="bottom" template="tFontWhite,tFontUltra" />
+			</image>			
+		</element>
+		<rewardedAd name="uiRewardedAd" y="350" halign="center" valign="top" template="tRewardedAd" reward="reward_life" event="extra_life" />	
+		<button name="uiBtContinue" template="tBtMTX" halign="center" valign="bottom" y="-20" >			
+			<image name="uiImgRight" image="ui/life.png"/>
+			<text name="uiTxtLabel" marginRight="50" template="tFontLarge" />		
+		</button>	
+		<button name="uiBtStartGame" template="tButton" halign="center" valign="bottom" y="-20" label="SID_PLAY" visible="false" />
+	</element>
+</screen>

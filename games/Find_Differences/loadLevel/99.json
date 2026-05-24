@@ -1,0 +1,54 @@
+{
+    "skins": {
+        "slots": [
+            {
+                "name": "layer_0",
+                "layer": "standart",
+                "x": 800,
+                "y": -500,
+                "width": 1602,
+                "height": 1002
+            },
+            {
+                "name": "flower",
+                "layer": "LayerAMiddle",
+                "x": 1210,
+                "y": -524.5,
+                "width": 296,
+                "height": 273
+            },
+            {
+                "name": "branch",
+                "layer": "LayerAMiddle",
+                "x": 848,
+                "y": -283.5,
+                "width": 294,
+                "height": 153
+            },
+            {
+                "name": "bump",
+                "layer": "LayerBMiddle",
+                "x": 1031.5,
+                "y": -949,
+                "width": 231,
+                "height": 104
+            },
+            {
+                "name": "scarlet",
+                "layer": "LayerBMiddle",
+                "x": 496.5,
+                "y": -700,
+                "width": 133,
+                "height": 244
+            },
+            {
+                "name": "mushroom",
+                "layer": "LayerBMiddle",
+                "x": 386,
+                "y": -233,
+                "width": 130,
+                "height": 80
+            }
+        ]
+    }
+}

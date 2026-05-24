@@ -1,0 +1,13 @@
+
+skel_boss_train_dust.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yan-1
+  rotate: false
+  xy: 1, 1
+  size: 128, 104
+  orig: 128, 104
+  offset: 0, 0
+  index: -1

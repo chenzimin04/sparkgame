@@ -1,0 +1,76 @@
+
+shanxian.png
+size: 918,618
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 326
+  size: 290, 290
+  orig: 290, 290
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 653, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 443, 3
+  size: 192, 200
+  orig: 192, 200
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 713, 416
+  size: 200, 203
+  orig: 200, 203
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 98
+  size: 224, 226
+  orig: 224, 226
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 228, 111
+  size: 213, 213
+  orig: 213, 213
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 653, 204
+  size: 204, 205
+  orig: 204, 205
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 294, 407
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 443, 197
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 505, 410
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1

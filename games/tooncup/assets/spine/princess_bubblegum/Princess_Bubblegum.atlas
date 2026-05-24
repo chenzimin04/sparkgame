@@ -1,0 +1,251 @@
+
+Princess_Bubblegum.png
+size: 1412,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bubblegum-Effect-Base
+  rotate: false
+  xy: 770, 60
+  size: 223, 95
+  orig: 223, 95
+  offset: 0, 0
+  index: -1
+Bubblegum-Effect-White
+  rotate: false
+  xy: 816, 3
+  size: 175, 55
+  orig: 175, 55
+  offset: 0, 0
+  index: -1
+Bubblegum-Eyeball-L
+  rotate: true
+  xy: 31, 2
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+Bubblegum-Eyeball-R
+  rotate: true
+  xy: 38, 2
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+Bubblegum-Face
+  rotate: true
+  xy: 1016, 74
+  size: 81, 62
+  orig: 81, 62
+  offset: 0, 0
+  index: -1
+Bubblegum-Hair-Long
+  rotate: true
+  xy: 2, 10
+  size: 145, 371
+  orig: 145, 371
+  offset: 0, 0
+  index: -1
+Bubblegum-Hair-Long-1
+  rotate: true
+  xy: 1080, 78
+  size: 77, 330
+  orig: 77, 334
+  offset: 0, 4
+  index: -1
+Bubblegum-Hip-Patch
+  rotate: true
+  xy: 1341, 36
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+Bubblegum-L-Elbow
+  rotate: false
+  xy: 1251, 4
+  size: 35, 72
+  orig: 35, 72
+  offset: 0, 0
+  index: -1
+Bubblegum-L-Hand
+  rotate: false
+  xy: 1288, 4
+  size: 23, 72
+  orig: 23, 72
+  offset: 0, 0
+  index: -1
+Bubblegum-L-Hand-Curve1
+  rotate: false
+  xy: 375, 14
+  size: 30, 141
+  orig: 38, 146
+  offset: 8, 0
+  index: -1
+Bubblegum-L-Palm-Fold-1
+  rotate: false
+  xy: 447, 2
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+Bubblegum-L-Palm-Idle
+  rotate: false
+  xy: 1359, 9
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+Bubblegum-L-Shoe
+  rotate: true
+  xy: 993, 4
+  size: 54, 29
+  orig: 54, 31
+  offset: 0, 0
+  index: -1
+Bubblegum-L-Shorts
+  rotate: false
+  xy: 447, 28
+  size: 50, 127
+  orig: 50, 127
+  offset: 0, 0
+  index: -1
+Bubblegum-L-Thigh
+  rotate: false
+  xy: 995, 61
+  size: 19, 94
+  orig: 19, 94
+  offset: 0, 0
+  index: -1
+Bubblegum-Mouth-Excited
+  rotate: true
+  xy: 1341, 7
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+Bubblegum-Mouth-Idle
+  rotate: false
+  xy: 2, 2
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+Bubblegum-Mouth-Lip
+  rotate: true
+  xy: 19, 2
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+Bubblegum-R-Elbow
+  rotate: true
+  xy: 743, 11
+  size: 40, 71
+  orig: 40, 71
+  offset: 0, 0
+  index: -1
+Bubblegum-R-Hand
+  rotate: false
+  xy: 1313, 5
+  size: 26, 71
+  orig: 26, 71
+  offset: 0, 0
+  index: -1
+Bubblegum-R-Hand-Curve
+  rotate: false
+  xy: 565, 32
+  size: 38, 123
+  orig: 48, 129
+  offset: 0, 0
+  index: -1
+Bubblegum-R-Hand-Curve1
+  rotate: false
+  xy: 407, 16
+  size: 38, 139
+  orig: 48, 144
+  offset: 0, 0
+  index: -1
+Bubblegum-R-Palm-Fold-1
+  rotate: false
+  xy: 1377, 16
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+Bubblegum-R-Palm-Idle
+  rotate: false
+  xy: 466, 2
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+Bubblegum-R-Shoe
+  rotate: false
+  xy: 593, 2
+  size: 54, 28
+  orig: 54, 28
+  offset: 0, 0
+  index: -1
+Bubblegum-R-Shorts
+  rotate: false
+  xy: 499, 29
+  size: 64, 126
+  orig: 64, 126
+  offset: 0, 0
+  index: -1
+Bubblegum-R-Thigh
+  rotate: true
+  xy: 484, 3
+  size: 23, 107
+  orig: 23, 107
+  offset: 0, 0
+  index: -1
+Bubblegum-Shadow
+  rotate: false
+  xy: 1024, 3
+  size: 225, 69
+  orig: 225, 69
+  offset: 0, 0
+  index: -1
+Bubblegum-headbelt
+  rotate: true
+  xy: 633, 52
+  size: 103, 34
+  orig: 103, 34
+  offset: 0, 0
+  index: -1
+tint-Bubblegum-Body
+  rotate: false
+  xy: 669, 53
+  size: 75, 102
+  orig: 82, 102
+  offset: 0, 0
+  index: -1
+tint-Bubblegum-L-Shoulder
+  rotate: false
+  xy: 649, 2
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+tint-Bubblegum-L-Socks
+  rotate: false
+  xy: 746, 58
+  size: 22, 97
+  orig: 22, 97
+  offset: 0, 0
+  index: -1
+tint-Bubblegum-R-Shoulder
+  rotate: true
+  xy: 691, 8
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+tint-Bubblegum-R-Socks
+  rotate: false
+  xy: 605, 46
+  size: 26, 109
+  orig: 26, 109
+  offset: 0, 0
+  index: -1

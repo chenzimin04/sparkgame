@@ -1,0 +1,22 @@
+ {
+	"size":8,
+	"moves":42,
+	"fill":"up",
+	"add":[			
+		{ "x":2, "y":0, "dx":4, "dy":6, "type":"COLOR_EGG", "count":true },
+		{ "x":2, "y":6, "type":"COLOR_EGG", "count":true },
+		{ "x":5, "y":6, "type":"COLOR_EGG", "count":true },
+		
+		{ "x":3, "y":6, "type":"FAT_ANVIL", "count":true }
+	],
+	"allowedGemTypes":["GEM_YELLOW","GEM_RED","GEM_BLUE"],
+	"field":[ 		
+		"oooxxooo",
+		"ooxxxxoo",
+		"xxxxxxxx",
+		"xxxxxxxx",
+		"xxxxxxxx",
+		"xxxxxxxx",
+		"xxxxxxxx",
+		"xxxxxxxx"]
+ }

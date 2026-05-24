@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+<templates>
+	<image id="tDot" width="50" ratio="1" halign="center" valign="bottom" image="dynamic/dot.png" />	
+	<button id="tArrow" height="300" valign="center" ratio="0.35" >
+		<state state="portrait" scale="2.0" />
+		<state state="landscape" scale="1.0" />
+		<image height="200" valign="center" image="dynamic/arrow_left.png" ratio="0.35" />
+	</button>
+	<element id="tView" template="tElement" >
+		<element name="uiImgConti" ratio="1.0" halign="center" valign="center" >
+			<texLayer name="uiImgView" template="tElement" />
+			<texLayer name="uiImgVignette" template="tElement" image="dynamic/vignette2.png" margin="-2" />		
+		</element>
+		<text name="uiTxtText" width="70%" height="30%" template="tFontWhite,tFontLarge" halign="center" halignText="center" valignText="center" valign="bottom" >
+			<state state="portrait" size="90"/>
+			<state state="landscape" template="tFontLarge" />
+		</text>
+	</element>
+	<element id="tView01" template="tView" >
+		<element name="uiImgConti" >			
+			<texLayer name="uiImgView" image="bg/egypt/characters.jpg"  />	
+		</element>
+		<text name="uiTxtText" text="SID_SLIDER01" />
+	</element>
+	<element id="tView02" template="tView" >	
+		<element name="uiImgConti" >			
+			<texLayer name="uiImgView" image="bg/dino/characters.jpg"  />	
+		</element>
+		<text name="uiTxtText" text="SID_SLIDER02"/>
+	</element>
+	<element id="tView03" template="tView" >	
+		<element name="uiImgConti" >			
+			<texLayer name="uiImgView" image="bg/crypt/characters.jpg"  />	
+		</element>
+		<text name="uiTxtText" text="SID_SLIDER03"/>
+	</element>
+	<element id="tView04" template="tView" >
+		<element name="uiImgConti" >			
+			<texLayer name="uiImgView" image="bg/forest/characters.jpg"  />	
+		</element>
+		<text name="uiTxtText" text="SID_REGISTER_TEXT" />	
+		<element width="580" height="250" halign="center" valign="center" y="100" >
+			<image template="tRays" halign="center" valign="center" scale="6" />
+			<element name="uiRewardConti2" width="180" ratio="1" halign="left" valign="center" animation="wobble" >							
+				<emitter template="tEmitter" range="80" />
+			</element>	
+			<element name="uiRewardConti3" width="150" ratio="1" halign="right" valign="center" animation="wobble" >							
+				<emitter template="tEmitter" range="80" />
+			</element>	
+			<element name="uiRewardConti" width="250" ratio="1" halign="center" animation="wobble" >							
+				<emitter template="tEmitter" range="80" />
+			</element>
+			<state state="portrait" scale="1.5"/>
+			<state state="landscape" scale="1.0" />
+		</element>
+					
+		<button name="uiBtLogin" width="550" ratio="4.4" halign="center" valign="center" template="tButton" label="SID_LOGIN" >
+			<text name="uiTxtLabel" template="tFontMedium" />
+			<state state="portrait" scale="2" y="450"/>
+			<state state="landscape" scale="1.0" y="350" />
+		</button>
+	</element>
+</templates>
+
+<screen name="uiSliderScreen" template="tElement" >		
+	<element name="uiBgContainer" valign="center" halign="center">	
+		
+		<image template="tBlock" height="5000%" ratio="1" halign="center" valign="center" color="0x00"  />
+		
+		<button name="uiBtNext" template="tElement" highlight="false" />
+		
+		<element name="uiCurrent" template="tElement" halign="center" valign="center" />	
+				
+		<element name="uiUI" template="tElement" margin="50" >
+			<!--text name="uiTxtText" width="70%" height="30%" template="tFontWhite,tFontLarge" halign="center" halignText="center" valignText="center" valign="bottom" >
+				<state state="portrait" size="90"/>
+				<state state="landscape" template="tFontLarge" />
+			</text-->
+			<button name="uiBtClose" template="tClose">
+				<state state="portrait" scale="2.0"/>
+				<state state="landscape" scale="1.0" />
+			</button>
+			<button name="uiBtPrevious" template="tArrow" />
+			<button name="uiBtNext" template="tArrow" halign="right" scaleX="-1" />
+			<element name="uiDots" width="200" height="50" halign="center" valign="bottom" >
+				<button name="uiBtDot1" template="tDot" x="-90" image="dynamic/dot_on.png" />
+				<button name="uiBtDot2" template="tDot" x="-30" />
+				<button name="uiBtDot3" template="tDot" x="30" />
+				<button name="uiBtDot4" template="tDot" x="90" />
+				<state state="portrait" scale="2.0" valign="bottom" />
+				<state state="landscape" scale="1.0" valign="bottom" />
+			</element>
+		</element>		
+	</element>
+</screen>

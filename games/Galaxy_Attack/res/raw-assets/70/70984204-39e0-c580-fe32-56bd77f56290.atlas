@@ -1,0 +1,76 @@
+
+skel_boss_shrimpLeft2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images1/qqq
+  rotate: false
+  xy: 1, 239
+  size: 241, 241
+  orig: 241, 241
+  offset: 0, 0
+  index: -1
+images1/yuan
+  rotate: false
+  xy: 1, 5
+  size: 226, 233
+  orig: 226, 233
+  offset: 0, 0
+  index: -1
+images1/yuan++
+  rotate: false
+  xy: 228, 69
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+images1/yuan++ - 副本
+  rotate: false
+  xy: 243, 194
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+images1/zhuan
+  rotate: false
+  xy: 243, 331
+  size: 148, 149
+  orig: 148, 149
+  offset: 0, 0
+  index: -1
+images2/qqq
+  rotate: false
+  xy: 1, 1
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+images2/yuan
+  rotate: false
+  xy: 1, 1
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+images2/yuan++
+  rotate: false
+  xy: 1, 1
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+images2/yuan++ - 副本
+  rotate: false
+  xy: 1, 1
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+images2/zhuan
+  rotate: false
+  xy: 1, 1
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1

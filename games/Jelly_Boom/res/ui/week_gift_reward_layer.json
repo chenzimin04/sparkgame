@@ -1,0 +1,1391 @@
+{
+  "ID": "2da5c9ad-6df5-4708-9aef-7e1f51b7088a",
+  "Version": "3.10.0.0",
+  "Name": "week_gift_reward_layer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 98,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/scalesprite3.png",
+              "Plist": "csi/scaleplist.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 65,
+            "Scale9OriginY": 65,
+            "Scale9Width": 68,
+            "Scale9Height": 69,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0,
+              "Y": 669.8931
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5234
+            },
+            "PreSize": {
+              "X": 0.8333,
+              "Y": 0.7078
+            },
+            "LeftMargin": 60.0,
+            "RightMargin": 60.0,
+            "TopMargin": 157.1069,
+            "BottomMargin": 216.8931,
+            "Tag": 117,
+            "ActionTag": -1365142726,
+            "Size": {
+              "X": 600.0,
+              "Y": 906.0
+            },
+            "Name": "bg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/scalesprite4.png",
+              "Plist": "csi/scaleplist.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 37,
+            "Scale9OriginY": 34,
+            "Scale9Width": 60,
+            "Scale9Height": 66,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 359.9999,
+              "Y": 1002.8386
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.7835
+            },
+            "PreSize": {
+              "X": 0.7667,
+              "Y": 0.2084
+            },
+            "LeftMargin": 83.9999,
+            "RightMargin": 84.0001,
+            "TopMargin": 277.1614,
+            "BottomMargin": 736.0385,
+            "Tag": 113,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "weekgame/hurtrank3.png",
+                  "Plist": "csi/weekgameplist1.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 423.6454,
+                  "Y": 126.0495
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7675,
+                  "Y": 0.4724
+                },
+                "PreSize": {
+                  "X": 0.2264,
+                  "Y": 0.4685
+                },
+                "LeftMargin": 361.1454,
+                "RightMargin": 65.8546,
+                "TopMargin": 78.2507,
+                "BottomMargin": 63.5495,
+                "Tag": 135,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "element/rainbow_brush.png",
+                      "Plist": "csi/csi_3.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 63.4288,
+                      "Y": 60.5142
+                    },
+                    "Scale": {
+                      "ScaleX": 0.8,
+                      "ScaleY": 0.8
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5074,
+                      "Y": 0.4841
+                    },
+                    "PreSize": {
+                      "X": 0.704,
+                      "Y": 0.704
+                    },
+                    "LeftMargin": 19.4288,
+                    "RightMargin": 17.5712,
+                    "TopMargin": 20.4858,
+                    "BottomMargin": 16.5142,
+                    "Tag": 136,
+                    "ActionTag": -1329371342,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 88.0
+                    },
+                    "Name": "rewardicon",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "weekgame/hurtranktitle.png",
+                      "Plist": "csi/weekgameplist1.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 62.0,
+                      "Y": 107.15
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.496,
+                      "Y": 0.8572
+                    },
+                    "PreSize": {
+                      "X": 1.136,
+                      "Y": 0.4
+                    },
+                    "LeftMargin": -9.0,
+                    "RightMargin": -8.0,
+                    "TopMargin": -7.15,
+                    "BottomMargin": 82.15,
+                    "Tag": 146,
+                    "ActionTag": 998704511,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 50.0
+                    },
+                    "Name": "hurtranktitle",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "Text Label",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 83.54,
+                      "Y": 16.64
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6683,
+                      "Y": 0.1331
+                    },
+                    "PreSize": {
+                      "X": 0.8,
+                      "Y": 0.16
+                    },
+                    "LeftMargin": 33.54,
+                    "RightMargin": -8.54,
+                    "TopMargin": 98.36,
+                    "BottomMargin": 6.64,
+                    "Tag": 137,
+                    "ActionTag": -159545507,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 20.0
+                    },
+                    "Name": "aw_fnttype1_rewardnum",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "weekgame/thetird.png",
+                      "Plist": "csi/weekgameplist1.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 62.0,
+                      "Y": 117.15
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.496,
+                      "Y": 0.9372
+                    },
+                    "PreSize": {
+                      "X": 0.488,
+                      "Y": 0.128
+                    },
+                    "LeftMargin": 31.5,
+                    "RightMargin": 32.5,
+                    "TopMargin": -0.15,
+                    "BottomMargin": 109.15,
+                    "Tag": 150,
+                    "ActionTag": 1979374074,
+                    "Size": {
+                      "X": 61.0,
+                      "Y": 16.0
+                    },
+                    "Name": "ranknum",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1382266682,
+                "Size": {
+                  "X": 125.0,
+                  "Y": 125.0
+                },
+                "Name": "rewardbg3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "weekgame/hurtrank2.png",
+                  "Plist": "csi/weekgameplist1.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 273.6483,
+                  "Y": 126.0495
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4957,
+                  "Y": 0.4724
+                },
+                "PreSize": {
+                  "X": 0.2264,
+                  "Y": 0.4685
+                },
+                "LeftMargin": 211.1483,
+                "RightMargin": 215.8517,
+                "TopMargin": 78.2507,
+                "BottomMargin": 63.5495,
+                "Tag": 138,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "weekgame/hurtranktitle.png",
+                      "Plist": "csi/weekgameplist1.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 62.0,
+                      "Y": 107.15
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.496,
+                      "Y": 0.8572
+                    },
+                    "PreSize": {
+                      "X": 1.136,
+                      "Y": 0.4
+                    },
+                    "LeftMargin": -9.0,
+                    "RightMargin": -8.0,
+                    "TopMargin": -7.15,
+                    "BottomMargin": 82.15,
+                    "Tag": 145,
+                    "ActionTag": 1584888540,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 50.0
+                    },
+                    "Name": "hurtranktitle",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "element/small_bucket.png",
+                      "Plist": "csi/csi_3.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 62.0,
+                      "Y": 61.8
+                    },
+                    "Scale": {
+                      "ScaleX": 0.8,
+                      "ScaleY": 0.8
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.496,
+                      "Y": 0.4944
+                    },
+                    "PreSize": {
+                      "X": 0.704,
+                      "Y": 0.704
+                    },
+                    "LeftMargin": 18.0,
+                    "RightMargin": 19.0,
+                    "TopMargin": 19.2,
+                    "BottomMargin": 17.8,
+                    "Tag": 139,
+                    "ActionTag": 173812632,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 88.0
+                    },
+                    "Name": "rewardicon",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "Text Label",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 83.54,
+                      "Y": 16.64
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6683,
+                      "Y": 0.1331
+                    },
+                    "PreSize": {
+                      "X": 0.8,
+                      "Y": 0.16
+                    },
+                    "LeftMargin": 33.54,
+                    "RightMargin": -8.54,
+                    "TopMargin": 98.36,
+                    "BottomMargin": 6.64,
+                    "Tag": 140,
+                    "ActionTag": 1196487535,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 20.0
+                    },
+                    "Name": "aw_fnttype1_rewardnum",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "weekgame/thesecond.png",
+                      "Plist": "csi/weekgameplist1.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 62.0,
+                      "Y": 117.15
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.496,
+                      "Y": 0.9372
+                    },
+                    "PreSize": {
+                      "X": 0.664,
+                      "Y": 0.128
+                    },
+                    "LeftMargin": 20.5,
+                    "RightMargin": 21.5,
+                    "TopMargin": -0.15,
+                    "BottomMargin": 109.15,
+                    "Tag": 149,
+                    "ActionTag": 289604639,
+                    "Size": {
+                      "X": 83.0,
+                      "Y": 16.0
+                    },
+                    "Name": "ranknum",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -289422573,
+                "Size": {
+                  "X": 125.0,
+                  "Y": 125.0
+                },
+                "Name": "rewardbg2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "weekgame/hurtrank1.png",
+                  "Plist": "csi/weekgameplist1.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 123.6495,
+                  "Y": 126.0495
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.224,
+                  "Y": 0.4724
+                },
+                "PreSize": {
+                  "X": 0.2264,
+                  "Y": 0.4685
+                },
+                "LeftMargin": 61.1495,
+                "RightMargin": 365.8505,
+                "TopMargin": 78.2507,
+                "BottomMargin": 63.5495,
+                "Tag": 141,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "weekgame/hurtranktitle.png",
+                      "Plist": "csi/weekgameplist1.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 62.0,
+                      "Y": 107.1453
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.496,
+                      "Y": 0.8572
+                    },
+                    "PreSize": {
+                      "X": 1.136,
+                      "Y": 0.4
+                    },
+                    "LeftMargin": -9.0,
+                    "RightMargin": -8.0,
+                    "TopMargin": -7.1453,
+                    "BottomMargin": 82.1453,
+                    "Tag": 144,
+                    "ActionTag": -420259749,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 50.0
+                    },
+                    "Name": "hurtranktitle",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "weekgame/hurtrankrewardicon1.png",
+                      "Plist": "csi/weekgameplist1.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 24.51,
+                      "Y": 130.55
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1961,
+                      "Y": 1.0444
+                    },
+                    "PreSize": {
+                      "X": 0.4,
+                      "Y": 0.36
+                    },
+                    "LeftMargin": -0.49,
+                    "RightMargin": 75.49,
+                    "TopMargin": -28.05,
+                    "BottomMargin": 108.05,
+                    "Tag": 147,
+                    "ActionTag": 311137441,
+                    "Size": {
+                      "X": 50.0,
+                      "Y": 45.0
+                    },
+                    "Name": "hurtrankrewardicon1_35",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "element/rainbow_brush.png",
+                      "Plist": "csi/csi_3.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 62.0,
+                      "Y": 59.8
+                    },
+                    "Scale": {
+                      "ScaleX": 0.8,
+                      "ScaleY": 0.8
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.496,
+                      "Y": 0.4784
+                    },
+                    "PreSize": {
+                      "X": 0.704,
+                      "Y": 0.704
+                    },
+                    "LeftMargin": 18.0,
+                    "RightMargin": 19.0,
+                    "TopMargin": 21.2,
+                    "BottomMargin": 15.8,
+                    "Tag": 142,
+                    "ActionTag": 573274297,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 88.0
+                    },
+                    "Name": "rewardicon",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "Text Label",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 83.54,
+                      "Y": 16.64
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6683,
+                      "Y": 0.1331
+                    },
+                    "PreSize": {
+                      "X": 0.8,
+                      "Y": 0.16
+                    },
+                    "LeftMargin": 33.54,
+                    "RightMargin": -8.54,
+                    "TopMargin": 98.36,
+                    "BottomMargin": 6.64,
+                    "Tag": 143,
+                    "ActionTag": 219227677,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 20.0
+                    },
+                    "Name": "aw_fnttype1_rewardnum",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "weekgame/thefrist.png",
+                      "Plist": "csi/weekgameplist1.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 62.0,
+                      "Y": 117.15
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.496,
+                      "Y": 0.9372
+                    },
+                    "PreSize": {
+                      "X": 0.528,
+                      "Y": 0.152
+                    },
+                    "LeftMargin": 29.0,
+                    "RightMargin": 30.0,
+                    "TopMargin": -1.65,
+                    "BottomMargin": 107.65,
+                    "Tag": 148,
+                    "ActionTag": -1418294111,
+                    "Size": {
+                      "X": 66.0,
+                      "Y": 19.0
+                    },
+                    "Name": "ranknum",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1290466530,
+                "Size": {
+                  "X": 125.0,
+                  "Y": 125.0
+                },
+                "Name": "rewardbg1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "public/scalesprite6.png",
+                  "Plist": "csi/scaleplist.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 16,
+                "Scale9Width": 34,
+                "Scale9Height": 18,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 275.5999,
+                  "Y": 234.4161
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4993,
+                  "Y": 0.8786
+                },
+                "PreSize": {
+                  "X": 0.9771,
+                  "Y": 0.1874
+                },
+                "LeftMargin": 5.9199,
+                "RightMargin": 6.7201,
+                "TopMargin": 7.3841,
+                "BottomMargin": 209.4161,
+                "Tag": 133,
+                "ActionTag": -772004980,
+                "Size": {
+                  "X": 539.36,
+                  "Y": 50.0
+                },
+                "Name": "upper",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "weekgame/hurtrankrewarddes1.png",
+                  "Plist": "csi/weekgameplist1.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 279.5985,
+                  "Y": 232.2403
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5065,
+                  "Y": 0.8705
+                },
+                "PreSize": {
+                  "X": 0.7428,
+                  "Y": 0.1537
+                },
+                "LeftMargin": 74.5985,
+                "RightMargin": 67.4015,
+                "TopMargin": 14.0599,
+                "BottomMargin": 211.7403,
+                "Tag": 134,
+                "ActionTag": -903241203,
+                "Size": {
+                  "X": 410.0,
+                  "Y": 41.0
+                },
+                "Name": "hurtrankrewarddes1_25",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 21,
+                "LabelText": "Text Label",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/jellyboom_font.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 276.0,
+                  "Y": 38.51
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.1443
+                },
+                "PreSize": {
+                  "X": 0.7355,
+                  "Y": 0.1799
+                },
+                "LeftMargin": 73.0,
+                "RightMargin": 73.0,
+                "TopMargin": 204.2902,
+                "BottomMargin": 14.51,
+                "Tag": 84,
+                "ActionTag": 907295282,
+                "Size": {
+                  "X": 406.0,
+                  "Y": 48.0
+                },
+                "Name": "destxt",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1034630239,
+            "Size": {
+              "X": 552.0,
+              "Y": 266.8002
+            },
+            "Name": "bg2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/n_titlebg1.png",
+              "Plist": "csi/csi_2.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0,
+              "Y": 1060.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.8281
+            },
+            "PreSize": {
+              "X": 0.9361,
+              "Y": 0.1289
+            },
+            "LeftMargin": 23.0,
+            "RightMargin": 23.0,
+            "TopMargin": 137.5,
+            "BottomMargin": 977.5,
+            "Tag": 115,
+            "ActionTag": 94351886,
+            "Size": {
+              "X": 674.0,
+              "Y": 165.0
+            },
+            "Name": "n_titlebg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/n_piaodai2.png",
+              "Plist": "csi/csi_2.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0,
+              "Y": 1113.54
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.87
+            },
+            "PreSize": {
+              "X": 0.5958,
+              "Y": 0.1039
+            },
+            "LeftMargin": 145.5,
+            "RightMargin": 145.5,
+            "TopMargin": 99.96,
+            "BottomMargin": 1047.04,
+            "Tag": 114,
+            "ActionTag": -145103065,
+            "Size": {
+              "X": 429.0,
+              "Y": 133.0
+            },
+            "Name": "n_piaodai",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "weekgame/hurtrankrewardtitle.png",
+              "Plist": "csi/weekgameplist1.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0,
+              "Y": 1126.6349
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.8802
+            },
+            "PreSize": {
+              "X": 0.3278,
+              "Y": 0.0398
+            },
+            "LeftMargin": 242.0,
+            "RightMargin": 242.0,
+            "TopMargin": 127.8651,
+            "BottomMargin": 1101.1349,
+            "Tag": 110,
+            "ActionTag": -880216143,
+            "Size": {
+              "X": 236.0,
+              "Y": 51.0
+            },
+            "Name": "helptitle",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/n_close.png",
+              "Plist": "csi/csi_2.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 655.49,
+              "Y": 1106.1
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9104,
+              "Y": 0.8641
+            },
+            "PreSize": {
+              "X": 0.0986,
+              "Y": 0.0578
+            },
+            "LeftMargin": 619.99,
+            "RightMargin": 29.01,
+            "TopMargin": 136.9,
+            "BottomMargin": 1069.1,
+            "Tag": 109,
+            "ActionTag": -331782568,
+            "Size": {
+              "X": 71.0,
+              "Y": 74.0
+            },
+            "Name": "closebtn",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "weekgame/hurtrankrewarddes.png",
+              "Plist": "csi/weekgameplist1.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 359.9998,
+              "Y": 712.3978
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5566
+            },
+            "PreSize": {
+              "X": 0.3736,
+              "Y": 0.032
+            },
+            "LeftMargin": 225.4998,
+            "RightMargin": 225.5002,
+            "TopMargin": 547.1022,
+            "BottomMargin": 691.8978,
+            "Tag": 151,
+            "ActionTag": -2078852094,
+            "Size": {
+              "X": 269.0,
+              "Y": 41.0
+            },
+            "Name": "desreward",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/n_line1.png",
+              "Plist": "csi/fntplist.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0012,
+              "Y": 690.9683
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5398
+            },
+            "PreSize": {
+              "X": 0.7,
+              "Y": 0.0039
+            },
+            "LeftMargin": 108.0012,
+            "RightMargin": 107.9988,
+            "TopMargin": 586.5317,
+            "BottomMargin": 688.4683,
+            "Tag": 152,
+            "ActionTag": -1208508023,
+            "Size": {
+              "X": 504.0,
+              "Y": 5.0
+            },
+            "Name": "line",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 720.0,
+            "TopMargin": 1280.0,
+            "Tag": 197,
+            "ActionTag": -16463898,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "reward1",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 720.0,
+            "TopMargin": 1280.0,
+            "Tag": 204,
+            "ActionTag": -1925190247,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "reward2",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 720.0,
+            "TopMargin": 1280.0,
+            "Tag": 213,
+            "ActionTag": 90539591,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "reward3",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 720.0,
+          "Y": 1280.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../csi/csi_2.plist",
+        "../csi/csi_2.png",
+        "../csi/csi_3.plist",
+        "../csi/csi_3.png",
+        "../csi/fntplist.plist",
+        "../csi/fntplist.png",
+        "../csi/scaleplist.plist",
+        "../csi/scaleplist.png",
+        "../csi/weekgameplist1.plist",
+        "../csi/weekgameplist1.png",
+        "../font/jellyboom_font.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

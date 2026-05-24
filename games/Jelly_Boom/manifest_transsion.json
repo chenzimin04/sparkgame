@@ -1,0 +1,11 @@
+{
+  "display" : "fullscreen",
+  "icons" : [ {
+    "sizes" : "180x180",
+    "src" : "https://www.hkminih5game.com/Jelly_Boom/b68a35140afd8d7d2275a6e1ca33101b_icon.png"
+  } ],
+  "name" : "Jelly Boom2",
+  "scope" : ".",
+  "short_name" : "Jelly Boom2",
+  "start_url" : "./index.html?utm_source=h5sdk_shortcut"
+}

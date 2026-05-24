@@ -1,0 +1,117 @@
+{
+	"type": "View",
+	"props": {
+		"width": 77,
+		"height": 116
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Box",
+			"props": {
+				"y": 58,
+				"x": 38,
+				"width": 77,
+				"var": "tapBox",
+				"height": 116,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 9
+		},
+		{
+			"type": "Image",
+			"props": {
+				"y": 35,
+				"x": 39,
+				"var": "iconBox",
+				"skin": "images/chapterMap/icon_jl_bx2_2.png",
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 6,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 12,
+						"x": 11,
+						"var": "iconOpen",
+						"skin": "images/chapterMap/icon_jl_g.png"
+					},
+					"compId": 7
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 49,
+						"x": 65,
+						"var": "iconSolider",
+						"skin": "images/man/soliderC6_1.png",
+						"scaleY": 0.48,
+						"scaleX": 0.48,
+						"rotation": 90,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 8
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": -7,
+						"x": 47,
+						"var": "iconRed",
+						"skin": "images/chapterMap/red.png"
+					},
+					"compId": 10
+				}
+			]
+		},
+		{
+			"type": "Image",
+			"props": {
+				"y": 67,
+				"x": 33,
+				"width": 12,
+				"skin": "images/chapterMap/icon_jl_jdt_kd.png",
+				"rotation": 0,
+				"height": 24
+			},
+			"compId": 3
+		},
+		{
+			"type": "Image",
+			"props": {
+				"y": 94,
+				"x": 23,
+				"skin": "images/chapterMap/icon_jl_xx.png"
+			},
+			"compId": 4,
+			"child": [
+				{
+					"type": "Box",
+					"props": {
+						"y": 2,
+						"x": 20,
+						"width": 32,
+						"var": "boxNum",
+						"scaleY": 0.6,
+						"scaleX": 0.6,
+						"height": 20
+					},
+					"compId": 5
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/chapterMap/icon_jl_bx2_2.png",
+		"images/chapterMap/icon_jl_g.png",
+		"images/man/soliderC6_1.png",
+		"images/chapterMap/red.png",
+		"images/chapterMap/icon_jl_jdt_kd.png",
+		"images/chapterMap/icon_jl_xx.png"
+	],
+	"loadList3D": []
+}

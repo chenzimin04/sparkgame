@@ -1,0 +1,11 @@
+{
+  "display" : "fullscreen",
+  "icons" : [ {
+    "sizes" : "180x180",
+    "src" : "https://www.nuanmogame.com/Puppy_Blast/39e16802a5f5e502b1ce806d4948e743_icon.png"
+  } ],
+  "name" : "Puppy Blast",
+  "scope" : ".",
+  "short_name" : "Puppy Blast",
+  "start_url" : "./index.html?utm_source=h5sdk_shortcut"
+}

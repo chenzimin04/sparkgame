@@ -1,0 +1,29 @@
+ {
+	"sizeX":9,
+	"sizeY":9,
+	"stars":{"avg":15, "top":34 },
+	"moves":45,
+	"fill":"up",
+	"add":[		
+		{ "x":0, "y":8, "dx":4, "dy":1, "type":"COLOR_BOX", "count":true, "params":{ "color":"RED" } },
+		{ "x":0, "y":7, "dx":4, "dy":1, "type":"COLOR_BOX", "count":true, "params":{ "color":"YELLOW" } },
+		{ "x":0, "y":6, "dx":4, "dy":1, "type":"COLOR_BOX", "count":true, "params":{ "color":"BLUE" } },
+		{ "x":0, "y":5, "dx":4, "dy":1, "type":"COLOR_BOX", "count":true, "params":{ "color":"PURPLE" } },
+		{ "x":0, "y":4, "dx":4, "dy":1, "type":"COLOR_BOX", "count":true, "params":{ "color":"RED" } },
+		{ "x":0, "y":3, "dx":4, "dy":1, "type":"COLOR_BOX", "count":true, "params":{ "color":"YELLOW" } },
+		{ "x":0, "y":2, "dx":4, "dy":1, "type":"COLOR_BOX", "count":true, "params":{ "color":"BLUE" } },
+		{ "x":0, "y":1, "dx":4, "dy":1, "type":"COLOR_BOX", "count":true, "params":{ "color":"PURPLE" } },
+		{ "x":0, "y":0, "dx":4, "dy":1, "type":"COLOR_BOX", "count":true, "params":{ "color":"RED" } }
+	],
+	"allowedGemTypes":["GEM_PURPLE","GEM_YELLOW","GEM_RED","GEM_BLUE"],
+	"field":[ 
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx"]
+ }

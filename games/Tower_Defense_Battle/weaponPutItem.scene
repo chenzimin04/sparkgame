@@ -1,0 +1,69 @@
+{
+	"type": "View",
+	"props": {
+		"width": 114,
+		"height": 117
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 0,
+				"x": 0,
+				"width": 114,
+				"var": "iconBg",
+				"skin": "images/heroBanner/icon_wpl_1.png",
+				"rotation": 0,
+				"height": 117
+			},
+			"compId": 5
+		},
+		{
+			"type": "Image",
+			"props": {
+				"y": 57,
+				"x": 57,
+				"width": 100,
+				"var": "iconWeapon",
+				"skin": "images/dev/img_btn_gb.png",
+				"height": 100,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 3
+		},
+		{
+			"type": "Image",
+			"props": {
+				"y": -1,
+				"x": 49,
+				"var": "iconOn",
+				"skin": "images/heroBanner/icon_yzb2.png"
+			},
+			"compId": 6
+		},
+		{
+			"type": "Label",
+			"props": {
+				"y": 83,
+				"x": 13,
+				"width": 90,
+				"var": "labLv",
+				"text": "Lv1",
+				"height": 22,
+				"fontSize": 22,
+				"color": "#ffffff",
+				"bold": true,
+				"align": "right"
+			},
+			"compId": 4
+		}
+	],
+	"loadList": [
+		"images/heroBanner/icon_wpl_1.png",
+		"images/dev/img_btn_gb.png",
+		"images/heroBanner/icon_yzb2.png"
+	],
+	"loadList3D": []
+}

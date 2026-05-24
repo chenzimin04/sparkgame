@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#81d4ff"/><stop offset=".68" stop-color="#88a1ff"/><stop offset="1" stop-color="#d7f0ff"/></linearGradient></defs>
+  <rect width="640" height="380" fill="url(#g)"/>
+  <g opacity=".95">
+    <circle cx="86" cy="70" r="28" fill="#ffb63d"/><circle cx="148" cy="78" r="30" fill="#ff6d78"/><circle cx="214" cy="68" r="26" fill="#4fdb79"/>
+    <circle cx="277" cy="84" r="31" fill="#a86dff"/><circle cx="342" cy="71" r="27" fill="#ffffff"/><circle cx="408" cy="82" r="29" fill="#49d9ff"/>
+    <circle cx="476" cy="70" r="31" fill="#ffd54f"/><circle cx="540" cy="84" r="28" fill="#82e674"/>
+  </g>
+  <path d="M0 286c99-27 169-20 254 16 73 31 155 33 227 11 57-17 103-15 159 6v61H0Z" fill="#d8f2ff"/>
+  <g fill="#fff" opacity=".45"><circle cx="110" cy="236" r="13"/><circle cx="176" cy="264" r="17"/><circle cx="544" cy="242" r="14"/></g>
+  <text x="147" y="214" fill="#ffdd65" font-size="58" font-family="Segoe UI, Arial, sans-serif" font-weight="900" stroke="#4d70ff" stroke-width="10">AMAZING</text>
+  <text x="156" y="276" fill="#ffffff" font-size="50" font-family="Segoe UI, Arial, sans-serif" font-weight="900" stroke="#4d70ff" stroke-width="10">BUBBLE BREAKER</text>
+</svg>

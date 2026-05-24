@@ -1,0 +1,23 @@
+{
+  "resolution": "standard",
+  "image1": "snake_roses_a.jpg",
+  "image2": "snake_roses_b.jpg",
+  "differences":
+  [
+    {
+    "x": 810.0,
+    "y": 233.0,
+    "size": 140.0
+    },
+    {
+    "x": 464.0,
+    "y": 150.0,
+    "size": 60.0
+    },
+    {
+    "x": 668.0,
+    "y": 566.0,
+    "size": 140.0
+    }
+  ]
+}

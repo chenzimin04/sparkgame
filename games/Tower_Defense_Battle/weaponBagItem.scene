@@ -1,0 +1,43 @@
+{
+	"type": "View",
+	"props": {
+		"width": 80,
+		"height": 80
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 40,
+				"x": 40,
+				"width": 80,
+				"var": "iconWeapon",
+				"skin": "images/dev/img_btn_gb.png",
+				"height": 80,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 3
+		},
+		{
+			"type": "Label",
+			"props": {
+				"y": 56,
+				"x": 0,
+				"width": 80,
+				"var": "labLv",
+				"text": "Lv1",
+				"fontSize": 22,
+				"color": "#ffffff",
+				"bold": true,
+				"align": "right"
+			},
+			"compId": 4
+		}
+	],
+	"loadList": [
+		"images/dev/img_btn_gb.png"
+	],
+	"loadList3D": []
+}

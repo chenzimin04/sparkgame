@@ -1,0 +1,27 @@
+{
+   "resolution":"standard",
+   "image1":"cozy_kitchen_brick_a.jpg",
+   "image2":"cozy_kitchen_brick_b.jpg",
+   "differences":[
+      {
+         "x":696.5,
+         "y":214.0,
+         "size":100.0
+      },
+      {
+         "x":480.5,
+         "y":192.0,
+         "size":117.8
+      },
+      {
+         "x":490.5,
+         "y":498.0,
+         "size":166.8
+      },
+      {
+         "x":352.5,
+         "y":65.0,
+         "size":132.5
+      }
+   ]
+}

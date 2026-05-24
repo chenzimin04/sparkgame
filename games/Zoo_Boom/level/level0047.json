@@ -1,0 +1,22 @@
+ {
+	"size":8,
+	"stars":{"avg":18, "top":39 },
+	"moves":40,
+	"fill":"up",
+	"add":[
+		{ "x":3, "y":7, "dy":1, "dx":2, "type":"ANVIL", "count":true },
+		{ "x":3, "y":0, "dy":7, "dx":2, "type":"COIN", "count":true },
+		{ "x":0, "y":0, "type":"BREAKER" }, 
+		{ "x":1, "y":0, "type":"SKUNK" }
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_RED","GEM_YELLOW","GEM_PURPLE"],
+	"field":[ 
+		"xxoxxoxx",
+		"xxoxxoxx",
+		"xxoxxoxx",
+		"xxoxxoxx",
+		"xxoxxoxx",
+		"xxoxxoxx",
+		"xxoxxoxx",
+		"xxoxxoxx"]
+ }

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+<templates>
+	<element id="tLineContainer" width="100%" height="40" marginRight="30">
+		<image template="tBlock" height="1" width="230" halign="left" valign="center" />
+		<text name="uiTxtTitle" template="tFontSmall,tElement" halignText="center" valignText="center" />	
+		<image template="tBlock" height="1" width="230" halign="right" valign="center" />
+	</element>
+	<button id="tFlagButton" height="100" ratio="1.25" />
+	<container id="tFlagContainer" width="100%" height="100" clickable="false">
+		<button name="uiBtFlag01" template="tFlagButton" />
+		<button name="uiBtFlag02" x="150" template="tFlagButton" />
+		<button name="uiBtFlag03" x="300" template="tFlagButton" />
+		<button name="uiBtFlag04" x="450" template="tFlagButton" />
+		<button name="uiBtFlag05" x="600" template="tFlagButton" />
+	</container>
+</templates>
+
+<screen name="uiScreenChooseFlag" template="tPopUpJenny" label="SID_CHOOSE_FLAG">	
+	<element name="uiContent" marginLeft="30" marginRight="30" marginTop="120" >				
+		<list name="uiList" template="tElement,tList" gap="30" />
+	</element>	
+</screen>

@@ -1,0 +1,48 @@
+
+skel_boss_shrimpRight1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images1/zuohoudabi
+  rotate: false
+  xy: 1, 138
+  size: 107, 116
+  orig: 107, 116
+  offset: 0, 0
+  index: -1
+images1/zuohouguanjie
+  rotate: false
+  xy: 173, 206
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+images1/zuohouxiaobi
+  rotate: false
+  xy: 109, 160
+  size: 63, 94
+  orig: 63, 94
+  offset: 0, 0
+  index: -1
+images2/zuohoudabi
+  rotate: false
+  xy: 1, 21
+  size: 107, 116
+  orig: 107, 116
+  offset: 0, 0
+  index: -1
+images2/zuohouguanjie
+  rotate: true
+  xy: 207, 221
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+images2/zuohouxiaobi
+  rotate: false
+  xy: 109, 65
+  size: 63, 94
+  orig: 63, 94
+  offset: 0, 0
+  index: -1

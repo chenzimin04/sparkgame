@@ -1,0 +1,174 @@
+
+skel_hpfront.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cc0001
+  rotate: true
+  xy: 886, 252
+  size: 130, 119
+  orig: 130, 190
+  offset: 0, 9
+  index: -1
+cc0002
+  rotate: false
+  xy: 454, 151
+  size: 130, 131
+  orig: 130, 190
+  offset: 0, 9
+  index: -1
+cc0003
+  rotate: true
+  xy: 734, 376
+  size: 130, 147
+  orig: 130, 190
+  offset: 0, 9
+  index: -1
+cc0004
+  rotate: true
+  xy: 602, 192
+  size: 130, 156
+  orig: 130, 190
+  offset: 0, 9
+  index: -1
+cc0005
+  rotate: true
+  xy: 265, 34
+  size: 123, 154
+  orig: 130, 190
+  offset: 7, 36
+  index: -1
+cc0006
+  rotate: true
+  xy: 908, 135
+  size: 116, 114
+  orig: 130, 190
+  offset: 13, 76
+  index: -1
+gg
+  rotate: true
+  xy: 1, 212
+  size: 145, 143
+  orig: 145, 143
+  offset: 0, 0
+  index: -1
+jia0001
+  rotate: false
+  xy: 152, 358
+  size: 148, 148
+  orig: 155, 180
+  offset: 5, 12
+  index: -1
+jia0003
+  rotate: true
+  xy: 908, 17
+  size: 117, 103
+  orig: 155, 180
+  offset: 5, 20
+  index: -1
+jia0005
+  rotate: false
+  xy: 420, 30
+  size: 144, 120
+  orig: 155, 180
+  offset: 6, 19
+  index: -1
+jia0007
+  rotate: false
+  xy: 452, 375
+  size: 148, 131
+  orig: 155, 180
+  offset: 7, 26
+  index: -1
+jia0009
+  rotate: true
+  xy: 759, 240
+  size: 135, 126
+  orig: 155, 180
+  offset: 20, 20
+  index: -1
+jia0011
+  rotate: false
+  xy: 759, 128
+  size: 148, 111
+  orig: 155, 180
+  offset: 7, 22
+  index: -1
+jia0013
+  rotate: false
+  xy: 1, 358
+  size: 150, 148
+  orig: 155, 180
+  offset: 5, 6
+  index: -1
+jia0015
+  rotate: false
+  xy: 301, 362
+  size: 150, 144
+  orig: 155, 180
+  offset: 4, 10
+  index: -1
+x0001
+  rotate: true
+  xy: 706, 62
+  size: 65, 96
+  orig: 227, 150
+  offset: 83, 4
+  index: -1
+x0002
+  rotate: true
+  xy: 585, 44
+  size: 147, 120
+  orig: 227, 150
+  offset: 50, 0
+  index: -1
+x0003
+  rotate: false
+  xy: 882, 383
+  size: 141, 123
+  orig: 227, 150
+  offset: 53, 0
+  index: -1
+x0004
+  rotate: true
+  xy: 138, 1
+  size: 159, 126
+  orig: 227, 150
+  offset: 43, 0
+  index: -1
+x0005
+  rotate: false
+  xy: 284, 158
+  size: 169, 124
+  orig: 227, 150
+  offset: 38, 0
+  index: -1
+x0006
+  rotate: true
+  xy: 602, 323
+  size: 183, 131
+  orig: 227, 150
+  offset: 29, 0
+  index: -1
+x0007
+  rotate: true
+  xy: 145, 161
+  size: 196, 138
+  orig: 227, 150
+  offset: 19, 1
+  index: -1
+x0008
+  rotate: true
+  xy: 1, 40
+  size: 171, 136
+  orig: 227, 150
+  offset: 15, 1
+  index: -1
+xian
+  rotate: true
+  xy: 301, 283
+  size: 78, 300
+  orig: 78, 300
+  offset: 0, 0
+  index: -1

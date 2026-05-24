@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "mecha_figurine_a.jpg",
+  "image2": "mecha_figurine_b.jpg",
+  "differences":
+  [
+    {
+      "x": 708.0,
+      "y": 175.0,
+      "size": 110.0
+    },
+    {
+      "x": 458.0,
+      "y": 314.0,
+      "size": 110.0
+    },
+    {
+      "x": 334.0,
+      "y": 216.0,
+      "size": 100.0
+    },
+    {
+      "x": 202.0,
+      "y": 189.0,
+      "size": 150.0
+    },
+    {
+      "x": 458.0,
+      "y": 463.0,
+      "size": 90.0
+    }
+  ]
+}

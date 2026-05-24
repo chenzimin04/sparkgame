@@ -1,0 +1,31 @@
+ {
+	"size":7,
+	"moves":35,
+	"stars":{"avg":20, "top":28 },
+	"add":[
+		{ "x":1, "y":6, "type":"ANVIL", "count": true },
+		{ "x":3, "y":6, "type":"ANVIL", "count": true },
+		
+		{ "x":3, "y":0, "type":"GEM_BLUE" }, { "x":4, "y":1, "dx":1, "dy":3, "type":"GEM_BLUE" },{ "x":4, "y":4, "dx":1, "dy":2, "type":"GEM_YELLOW" },
+		{ "x":4, "y":0, "type":"GEM_RED" },
+		{ "x":5, "y":0, "dx":1,"dy":6, "type":"GEM_RED" },
+		{ "x":6, "y":0, "dx":1, "dy":2, "type":"GEM_YELLOW" },
+		{ "x":6, "y":2, "type":"GEM_GREEN" },
+		{ "x":6, "y":3, "type":"GEM_BLUE" },
+		{ "x":6, "y":4, "type":"GEM_YELLOW" },
+		{ "x":6, "y":5, "type":"GEM_BLUE" },
+		{ "x":6, "y":6, "type":"GEM_GREEN" },
+		
+		
+		{ "x":5, "y":6, "type":"ANVIL", "count": true }	
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_RED","GEM_GREEN","GEM_YELLOW"],
+	"field":[ 
+		"oxoxoxo",
+		"xxxxxxx",
+		"xxxxxxx",
+		"xxxxxxx",
+		"xxxxxxx",
+		"xxxxxxx",
+		"xxxxxxx"]
+ }

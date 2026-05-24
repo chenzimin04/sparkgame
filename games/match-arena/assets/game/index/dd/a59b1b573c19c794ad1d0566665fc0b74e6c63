@@ -1,0 +1,1031 @@
+ID,ca-ES
+ad_failed.button,D'acord
+ad_failed.message,"No hi ha cap vídeo disponible en aquest moment, si us plau, torneu-ho a intentar més tard."
+ad_failed.title,Ups...
+ad_magic.button,Mirar
+ad_magic.message,Mira un vídeo curt per obtenir una recompensa.
+ad_magic.title,Petit Porc Màgic
+android_app.button,Instal·lar
+android_app.text.release,Estimats amics! Ens alegrem de poder informar-vos que el nostre joc ja està disponible a Android. Baixeu-vos l'aplicació!
+android_app.title,Ara a Android!
+android_update.restart.no,Després
+android_update.restart.text,Instal·la ara?
+android_update.restart.title,Actualització preparada!
+android_update.restart.yes,Sí
+avatar_already_changed.button,D'acord
+avatar_already_changed.message,La teva imatge de perfil ja s'ha canviat. Només pots canviar la teva imatge de perfil UNA VEGADA.
+bookmark.daily,Repte
+bookmark.friends,Amics
+bookmark.settings,Configuració
+booster_hint.cross,%booster_shop.hint.ingame.cross%
+booster_hint.hammer,%booster_shop.hint.ingame.hammer%
+booster_hint.hand,%booster_shop.hint.ingame.hand%
+booster_shop.buy,Obtenir #count
+booster_shop.hint.ingame.cross,Utilitzeu la vara màgica per eliminar una fila i una columna de peces.
+booster_shop.hint.ingame.hammer,Treu les fitxes xocant-les amb el martell!
+booster_shop.hint.ingame.hand,Utilitzeu el guant per intercanviar qualsevol peça adjacent!
+booster_shop.hint.prelevel.add_bomb,Comença qualsevol nivell amb una Bomba ja al tauler!
+booster_shop.hint.prelevel.add_line,Comença qualsevol nivell amb una Línia ja al tauler!
+booster_shop.hint.prelevel.add_omni,Comença qualsevol nivell amb una Llamp ja al tauler!
+booster_shop.hint.prelevel.add_tint,Comença qualsevol nivell amb una pintura ja al tauler!
+booster_shop.hint.prelevel.double_fly,Dobleu tots els Llumets creats durant aquest nivell!
+booster_shop.title.ingame.cross,Varita Màgica
+booster_shop.title.ingame.hammer,Martell
+booster_shop.title.ingame.hand,Guants
+booster_shop.title.prelevel.add_bomb,Booster Bomba
+booster_shop.title.prelevel.add_line,Booster Línia
+booster_shop.title.prelevel.add_omni,Booster de Llamp
+booster_shop.title.prelevel.add_tint,Booster de Pintura
+booster_shop.title.prelevel.double_fly,Booster Llumetes x2
+chest_open.collection_complete,Recollit!
+chest_open.ok,D'acord
+chest_opening.button,Genial!
+chest_opening.reward,Recompensa
+conflict_popup.continue,Continua
+conflict_popup.hint_syncing,Sincronitzant...
+conflict_popup.skip,Continua sense connexió
+credits.art,Disseny d'art
+credits.artists,"Molt d'amor als nostres amics artistes gràfics
+per als preciosos personatges d'avatar!"
+credits.gamedesign,Disseny de joc
+credits.mentions,"Agraïments especials
+als nostres amics"
+credits.programming,Programació
+credits.title,El nostre equip!
+daily_help.button,D'acord
+daily_help.chest,Premi gran
+daily_help.reward,Recompenses úniques
+daily_help.text,"Cada dia els jugadors mostren la seva habilitat i competeixen en un sol nivell.
+
+El jugador amb la puntuació més alta rebrà el premi del dia - Corona i Caixa de Gemmes!"
+daily_help.title,Repte Diari
+daily_reward.button,Genial!
+daily_reward.reward,Recompensa
+daily_reward.title.place_1,"Ets el guanyador 
+del repte diari!"
+daily_reward.title.place_generic,"Desafiament diari completat
+Heu aconseguit el lloc \##place!"
+daily.drag_to_update,Arrossegueu per refrescar
+daily.epic_sunday_ribbon,Repte Amistós
+daily.finishes_in,El repte acaba en #temps
+daily.finishes_now,Desafiament acabat!
+daily.high_score,Nou rècord!
+daily.medal_chest_text,Recull #amount medalles!
+daily.next_time,El següent repte diari començarà en #temps
+daily.next_time_now,S'ha iniciat un nou repte diari!
+daily.no_yesterday_yet,No has participat en el repte diari anterior
+daily.play,Jugar
+daily.retry_submit,Tornar a intentar
+daily.rewards_tab,Recompenses del repte diari
+daily.rewards.bubble,"Recull estrelles i medalles
+per obrir caixes amb tresors!"
+daily.score_not_accepted,Aquest resultat no compta al rànquing perquè vas acabar de jugar després del final del Repte Diari.
+daily.star_chest_claim,Obre
+daily.star_chest_collected_text,Vine demà per un altre calaix
+daily.star_chest_text,Completa amb 3 estrelles 7 Reptes Diaris seguits!
+daily.submit_error,No s'han pogut enviar els resultats
+daily.today,Repte Diari
+daily.today_mark,Avui
+daily.update_error,No hi ha connexió a internet
+daily.wait_text,
+daily.watch_replay.button,Mirar
+daily.watch_replay.text,Repetició de joc
+daily.welcome_reward_first,%daily_help.text%
+daily.welcome_text,Vaja! S'ha iniciat un nou Repte Diari!
+daily.yesterday,Escala d'ahir
+daily.yesterday_updating,Obtenint resultats...
+demo.finished.text,"Enhorabona, has completat la versió de prova! Juga a la versió completa de forma gratuïta a <p class=""ma-link"">PecPoc.com<p class=""demo-hint"">El teu progrés no es perdrà"
+demo.nag.text,"Els bonificacions gratuïtes només estan disponibles a la versió completa. Continua jugant a la versió completa a <p class=""ma-link"">PecPoc.com<p class=""demo-hint"">El teu progrés no es perdrà."
+event_ny.next_in_hint,Agafa el següent regal en: #time
+event_ny.title,Regals de Nadal
+fake_ad.reward_in,Recompensa en...
+fake_ad.tutorial,"No hi ha vídeo disponible en aquest moment...
+No et preocupis, tindrem una mica de màgia de Porcet en canvi!"
+fake_ad.your_ad_here,El teu anunci aquí
+fb_login_failed.message,No s'ha pogut connectar a Facebook. Vols provar-ho de nou?
+fb_notification.button,Connectar
+fb_notification.message,Connecteu-vos a Facebook per sincronitzar el vostre progrés en línia!
+fb_notification.no_post_hint,Mai publicarem sense el teu permís.
+fb_notification.title,Desa el teu progrés
+feedback.failed.button,Continua
+feedback.failed.message,"No s'ha pogut enviar la retroacció.
+Comprova la connexió a Internet.
+"
+feedback.failed.title,Ups...
+feedback.ok.button,D'acord
+feedback.ok.message,"Hem rebut el teu comentari.
+Gràcies per ajudar-nos a millorar el joc."
+feedback.ok.title,Comentari enviat!
+friends_tab.failed_social.button,Comprovar
+friends_tab.failed_social.text,Cal comprovar la connexió per actualitzar la llista d'amics
+friends_tab.has_fb.button,Convida amics
+friends_tab.has_fb.text,"Quant més amics tinguis, més regals rebràs!"
+friends_tab.no_fb.button,Connectar
+friends_tab.no_fb.hint,Mai publicarem sense el teu permís.
+friends_tab.no_fb.text,Connecteu-vos a Facebook i rebreu regals dels amics i seguiu el seu progrés.
+friends_tab.no_permission.button,Sí
+friends_tab.no_permission.text,Permeteu l'accés a la vostra llista d'amics per rebre més regals?
+friends_tab.no_social.text,Connecteu-vos a les xarxes socials i rebre regals dels amics i seguir el seu progrés.
+friends_tab.no_y8.button,Connectar
+friends_tab.no_y8.text,Connecteu Y8 i rebreu regals dels amics i seguiu el seu progrés.
+friends_tab.ok_invite_button,Convida amics
+friends_tab.ok_invite_gift_text,"Quantes més amics tinguis, més regals rebràs!"
+friends_tab.ok_invite_text,"Quant més amics tinguis, més regals rebràs!"
+friends_tab.title,Amics
+friends_tab.vk_friends_permission_button,Sí
+friends_tab.vk_friends_permission_text,Permeteu l'accés a la vostra llista d'amics per rebre més regals?
+friends_tab.vk_invite_button,Convida amics
+friends_tab.vk_invite_text,"Quant més amics tinguis, més regals rebràs!"
+friends.gift.claim,Obre
+game_results.click_to_continue,Feu clic per continuar
+game_results.tap_to_continue,Prem per continuar
+game.click_to_continue,Feu clic per continuar
+game.info.ahead,ESTEU #fmtnum MOVIMENTS PER DAVANT
+game.info.behind,ESTEU #fmtnum MOVIMENTS DARRERA
+game.info.goals,Objectiu
+game.info.moves,MOVIMENTS
+game.info.pause,PAUSA
+game.info.undo,DESFER
+game.pause.continue,"<font color=""\#408fda"">Continua el joc"
+game.pause.leave_forfeit,"<font color=""\#ff0000"">Acabar el joc"
+game.pause.leave_safe,Acabar el joc
+game.pause.title,Pausa
+game.shoutout.their_game_result,Puntuació: #score
+game.shoutout.well_done,Ben fet!
+game.shoutout.your_game_result,La teva puntuació: #score
+game.tap_to_continue,Prem per continuar
+game.tutorial.continue,Continua
+gamemode.capital.aquarium,PEIXOS
+gamemode.capital.bird,Ocells
+gamemode.capital.bubble,Boles
+gamemode.capital.cats,GATS
+gamemode.capital.chocolate,LAVA
+gamemode.capital.diamonds,DIAMANTS
+gamemode.capital.ducks,LLOPETS
+gamemode.capital.energy_cube_reciever,CRISTALLS
+gamemode.capital.energycube,GELAT
+gamemode.capital.fishes,CARROTS
+gamemode.capital.flower,FLORS
+gamemode.capital.food,LLAGOSTES
+gamemode.capital.fossils,POLPS
+gamemode.capital.frog,RANES
+gamemode.capital.grass,HERBA
+gamemode.capital.gum,PEGOLL
+gamemode.capital.honeybee,OSOS
+gamemode.capital.hotlava,LAVA
+gamemode.capital.ice,GLAÇ
+gamemode.capital.jam,ENERGIA
+gamemode.capital.jam_reciever,CRISTALLS
+gamemode.capital.pearl,PERLES
+gamemode.capital.road,XORRAC
+gamemode.capital.sausage,SALSITXES
+gamemode.capital.statue,GOSSOS
+gamemode.capital.stone,PEDRES
+gamemode.capital.tasks,COMANDES
+gamemode.capital.tiles,HERBA
+gamemode.capital.waterfish,PEIXOS
+gamemode.capital.blooplet,BLOOPLETS
+gameresult.adventure.completed_continue,Continua
+gameresult.adventure.leave,Sortir
+gameresult.adventure.play_next,Continua
+gameresult.adventure.retry,Tornar a provar
+gameresult.boosters,Selecciona els Boosters
+gameresult.complete.line1,Nivell
+gameresult.complete.line2,Completat!
+gameresult.continue,Continua
+gameresult.daily.continue,Continua
+gameresult.daily.leave,Sortida
+gameresult.daily.retry,Jugar
+gameresult.dash,-
+gameresult.forfeit,Heu abandonat!
+gameresult.map.continue,Continua
+gameresult.map.retry,Tornar a provar
+gameresult.pvp.continue,Continua
+gameresult.pvp.play_another,Nivell diferent
+gameresult.pvp.play_next,Nivell diferent
+gameresult.pvp.rematch_lose,Revanxar
+gameresult.pvp.rematch_win_draw,Juga de nou
+gameresult.rematch,Revanxar
+gameresult.rematch_bet,Aposta #bet
+gameresult.required_ticket,Cal requerit
+gameresult.retry,Juga de nou
+gameresult.rewards,Recompensa
+gameresult.title.completed,"<font color=""\#47f05f"">Nivell complet!"
+gameresult.title.draw,"<font color=""\#5885B8"">Empat"
+gameresult.title.lose,"<font color=""\#ff5666"">Heu perdut"
+gameresult.title.win,"<font color=""\#47f05f"">Heu guanyat!"
+gameresult.vs,VS
+gameresults.inter_ad_in_large,#count jocs fins a
+gameresults.inter_ad_in_small,#count jocs fins a
+gems_shop.title,Botiga de Gemmes
+global.click_to_continue,Feu clic per continuar
+global.default_player_name,Jugador
+global.tap_to_continue,Prem per continuar
+home.hint_daiy,Proveu el repte diari
+home.hint_play_pvp,Encara pots jugar a desafiaments fins i tot si has esgotat les vides!
+home.play,Jugar
+html.loading,Carregant
+iap_failed.button,D'acord
+iap_failed.message,Compra no realitzada
+iap_need_facebook.message,Connecteu-vos a Facebook per recarregar Gemmes.
+iap_pending.button,D'acord
+iap_pending.message,La teva compra s'està processant
+intro_screen.another_device,Amb Codi
+intro_screen.login_back,Enrere
+intro_screen.login_button,Iniciar sessió
+intro_screen.login_fb,Facebook
+intro_screen.login_ok,Odnoklassniki
+intro_screen.login_singular,Iniciar sessió
+intro_screen.login_vk,Vkontakte
+intro_screen.login_with,Iniciar sessió amb
+intro_screen.login_y8,Y8
+intro_screen.login_yandex,Yandex
+intro_screen.new_player,Jugador nou
+introprofile.accept_avatar,Seleccionar
+introprofile.accept_name,Continua
+introprofile.editavatar,Trieu la imatge de perfil
+introprofile.editname,Introduïu el vostre nom
+invite_request.message,Juguem al millor joc de tres en ratlla junts!
+invite_request.title,Selecciona amics per jugar Skydom junts
+level_popup.goals,Objectiu
+level_popup.play,Jugar
+level_popup.prelevel_boosters,Selecciona els Boosters
+level_popup.title,Nivell #level
+level_popup.title_hard,Difícil
+level_popup.title_ultra_hard,Super difícil
+level_popup.title_very_hard,Molt difícil
+link.support,https://Skydom.freshdesk.com/en/support/solutions
+link.support_beta,https://Skydombeta.freshdesk.com/en/support/solutions
+lives_shop.buy_all,Compra 5
+lives_shop.hint,"Necessites vides per 
+continuar jugant Aventura."
+lives_shop.recharge,Pròxima vida: #time
+lives_shop.title,Vides
+lives_shop.watch_ad_button,Mirar
+lives_shop.watch_ad_text,Gratuït 1
+load_player.almost_done,Gairebé fet...
+load_player.continue_offline,Continua sense connexió
+load_player.loading_save,Carregant les dades del jugador...
+load_player.loading_save_failed,No s'han pogut carregar les dades del jugador.
+load_player.loading_save_failed_in,"No s'han pogut carregar les dades del jugador.
+Tornant a intentar-ho en #time..."
+load_player.logging_in,Iniciant sessió...
+load_player.logging_in_failed,No s'ha pogut iniciar sessió.
+load_player.logging_in_failed_in,"No s'ha pogut iniciar sessió.
+Tornant a intentar-ho en #time...
+"
+load_player.new_player,Sóc un jugador nou
+load_player.retry_now,Torna-ho a intentar ara
+login_failed.button,Tornar a intentar
+login_failed.title,No s'ha pogut connectar
+magic.click_to_continue,Feu clic per continuar
+magic.reward,Premi
+magic.tap_to_continue,Prem per continuar
+map.gates_coming_soon,"Nivells nous
+arribant aviat!"
+match3.level_complete.line1,Tots els objectius
+match3.level_complete.line2,Aconseguit!
+match3.score_pve,#score/#required
+match3.shoutout.1_move,Últim moviment!
+match3.shoutout.2_moves,2 moviments
+match3.shoutout.5_moves,5 moviments
+match3.shoutout.no_moves,No hi ha més moviments
+match3.shoutout.no_reshuffle,"No es pot barrejar
+No hi ha moviments possibles"
+merge.button.mine,Triar
+merge.button.their,Triar
+merge.description.account_merge,"Sembla que ja has jugat Skydom.
+Tria el perfil preferit!"
+merge.description.ingame_conflict,%merge.description.login_conflict%
+merge.description.login_conflict,"Heu jugat des de diversos dispositius.
+Trieu la preferida desada."
+merge.hint.mine,local
+merge.hint.their,del servidor
+merge.title,Sincronització del progrés
+modal.adblock.button,D'acord
+modal.adblock.text,"Hem notat que esteu utilitzant un blocador d'anuncis.<br>Si us plau, desactiveu el blocador d'anuncis per aquesta pàgina per poder veure un vídeo."
+modal.adblock.title,Bloquejador de publicitat
+modal.error.button,Actualitzar
+modal.error.text,"Ho sentim, s'ha produït un error. Si us plau, refresca la pàgina."
+modal.error.title,Ups! Alguna cosa ha anat malament...
+modal.fb_login_proxy.button,Continua
+modal.fb_login_proxy.text,Connectar amb Facebook
+modal.fb_login_proxy.title,
+modal.fb_purchase_proxy.button,Continua
+modal.fb_purchase_proxy.gems,Gemmes
+modal.first_login_failed.button,Tornar a provar
+modal.first_login_failed.text,"No es pot connectar a Skydom en aquest moment. Si us plau, intenteu connectar-vos de nou més tard."
+modal.first_login_failed.title,No s'ha pogut connectar
+modal.gpu_error.button,Més informació
+modal.gpu_error.text,Sembla que has d'habilitar l'acceleració de la GPU al teu navegador per executar el joc.
+modal.gpu_error.title,Hmm..
+modal.maintenance.button,D'acord
+modal.maintenance.text,Es duran a terme les tasques de manteniment a<br> <b>#time</b><br> durant 3 hores.<br>El guardat en núvol i la sincronització del progrés no funcionaran.
+modal.maintenance.title,Manteniment
+modal.no_hardware_accel_ff.button,D'acord
+modal.no_hardware_accel_ff.text,"El teu navegador informa d'un problema de rendiment, el joc pot funcionar molt lent!
+
+Per arreglar-ho, si us plau llegeix <a target=""_blank""  href=""https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features"">https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features</a>
+"
+modal.no_hardware_accel_ff.title,Problemes de rendiment
+modal.no_hardware_accel.button,D'acord
+modal.no_hardware_accel_vk.button,D'acord
+modal.no_hardware_accel.text,"El teu navegador informa d'un problema de rendiment, el joc pot funcionar molt lent!
+
+Per arreglar-ho, si us plau llegeix <a target=""_blank""  href=""https://www.fosslinux.com/3053/com-forcar-habilitar-lacceleracio-de-maquinari-en-chrome-chromium.htm"">https://www.fosslinux.com/3053/com-forcar-habilitar-lacceleracio-de-maquinari-en-chrome-chromium.htm</a>
+"
+modal.no_hardware_accel_vk.text,"El teu navegador informa d'un problema de rendiment, el joc pot funcionar molt lent!
+
+Per arreglar-ho, si us plau llegeix <a target=""_blank""  href=""https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery"">https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery</a>"
+modal.no_hardware_accel.title,Problemes de rendiment
+modal.no_hardware_accel_vk.title,Problemes de rendiment
+modal.nolocalstorage.button,D'acord
+modal.nolocalstorage.text,"Sembla que el teu navegador no ens permet desar el teu joc. Això pot ser causat per l'ús del mode Incògnit del teu navegador.
+<p>
+Si us plau, inicia sessió per evitar perdre el teu progrés!"
+modal.nolocalstorage.title,Mode Incògnit
+modal.oom.button,Més informació
+modal.oom.text,Sembla que no hi ha prou memòria.
+modal.oom.title,"Hmm..
+No hi ha prou memòria"
+modal.out_of_sync.button,Actualitzar
+modal.out_of_sync.text,"Sembla que tens Skydom obert en diverses finestres del navegador. <br>Si us plau, refresca per continuar jugant en aquesta finestra."
+modal.out_of_sync.title,Diverses finestres amb Skydom?
+modal.vk_inapp_not_allowed.button,Passar
+modal.vk_inapp_not_allowed.text,"Les compres estan disponibles només a <a href=""https://m.vk.com/app7409298"" target=""_blank"">m.vk.com</a>"
+modal.vk_inapp_not_allowed.title,
+modal.wasm.button,Més informació
+modal.wasm.text,Sembla que el teu navegador no admet WebAssembly
+modal.wasm.title,Hmm..
+modal.webgl.button,Més informació
+modal.webgl.text,Sembla que el teu navegador no admet el WebGL
+modal.webgl.title,Hmm..
+modal.yandexsdk.text,"L'SDK de Yandex no s'ha carregat correctament.
+
+Vols provar-ho de nou?"
+modal.yandexsdk.title,Oi
+modal.yandexsdk.button,D'acord
+name_already_changed.button,D'acord
+name_already_changed.message,El teu nom ja s'ha canviat. Només pots canviar el teu nom UNA VEGADA.
+networks.hint,"Us animem a connectar-vos a les xarxes socials!
+ - No perdeu el vostre progrés emmagatzemant-lo a la núvol
+ - Juga amb amics i rep regals
+ - No publicarem sense el vostre permís
+"
+nickname.default,Jugador
+nickname.default_friend,Conill
+nickname.trainer,Entrenador #nickname
+nickname.tutorial_001,Entrenadora Anna
+nickname.tutorial_002,Entrenador Jonny
+nickname.tutorial_003,Entrenador Polly
+nickname.you,Tu
+notification.daily_lead_1,👑 #Name ha pres el lideratge al Repte Diari! Vols recuperar el primer lloc?
+notification.daily_lead_2,👑 #Name ha pres el lideratge al Repte Diari!
+notification.daily_lead_3,👑 Avui fa calor al Repte Diari! #Name ha reclamat el teu primer lloc.
+notification.daily_lead_4,👑 #Name t'ha superat. Vols recuperar el lideratge al Repte?
+notification.daily_lead_5,👑 Sembla que #Name t'ha superat en el Repte Diari.
+notification.daily_lead.meta,"@{""variants"":5}"
+notification.reminder_1,😏 Els nous oponents estan esperant al jugador més prometedor! 😎
+notification.reminder_10,👸🤴 Qui serà el guanyador del Repte Diari avui?
+notification.reminder_11,🙄 Sembla que tothom ja ha oblidat com #PlayerName els havia derrotat!
+notification.reminder_12,"💆 Quina bon dia per jugar a Skydom, oi? 💪"
+notification.reminder_13,🙈😬 Hi ha un parell de nois aquí somiant a superar-te. Penses que tenen alguna oportunitat?
+notification.reminder_14,🐰 Conill té un regal per a tu! 🎁
+notification.reminder_15,"😎 #PlayerName, és el moment de guanyar de nou! 🕹"
+notification.reminder_16,👾👀 És el moment de fer una pausa i anar a guanyar una ratxa! 🤗
+notification.reminder_17,🌟🌟🌟 Els nivells no es completaran sols! Juguem? 🥇😉
+notification.reminder_18,"#PlayerName, algú vol guanyar-te. Què creus que aconseguirà? 😬😬😬"
+notification.reminder_19,👋 És hora de relaxar-se i guanyar un parell de vegades? 🤔
+notification.reminder_2,Encara no tothom ha perdut contra #PlayerName! Els donaràs una oportunitat?
+notification.reminder_20,🦄 Ja has conegut el nostre Unicorn de Colors?
+notification.reminder_3,🐷 Magia de Porc s'està esperant! 🐽
+notification.reminder_4,🙈 Fa una estona que no veig el millor jugador de Match3! Encara està aquí? 👀
+notification.reminder_5,🏆 Ja has tingut una victòria avui?
+notification.reminder_6,❤️❤️❤️❤️❤️ Totes les vides recarregades! És hora de guanyar!
+notification.reminder_7,🖐🎟 5 tokens estan esperant per ser gastats!
+notification.reminder_8,🐰😍 La conillet t'ha portat un regal! 🎁
+notification.reminder_9,👑💎 Ha començat el Repte Diari! Qui aconseguirà la corona i una pila de gemmes?
+ny.button_claim,Obre el regal
+ny.button_next_in,Regal en: #time
+ok_login_failed.message,No s'ha pogut connectar a Odnoklassniki. Vols provar-ho de nou?
+ok.share_tick,Compartir
+out_of_moves.continue_buy_moves,Juga #price
+out_of_moves.continue_watch,Mirar
+out_of_moves.give_up,Donar-se per vençut
+out_of_moves.press_to_view,"Prem aquí per 
+veure el tauler"
+out_of_moves.title.almost_there,Així tan a prop...
+out_of_moves.title.regular,S'han acabat els moviments
+outofgems.button,Botiga
+outofgems.message,No tens més Gemmes. Visita la botiga per obtenir-ne més!
+outofgems.title,No hi ha prou Gemmes
+page.loading.hint_1,Carregant...
+page.loading.hint_2,Efectes de renderització 💎💎💎
+page.loading.hint_3,"No et preocupis, no està enganxat! 😜"
+page.loading.hint_4,🚀 La partida es carregarà aviat! 🚀
+page.loading.hint_5,La primera càrrega triga una mica més👌
+page.loading.hint_6,🔥 gairebé acabat...👾
+page.loading.hint_7,Només una mica més queda 😊
+placeholder.hint_daily,Completa 10 nivells per desbloquejar!
+placeholder.timestring,12 h 34 min 56 seg
+placeholder.title_daily,"Repte diari
+Bloquejat
+"
+popup_name.accept_name,Continua
+popup_name.not_now,No ara
+prelevel_text.002,"Recull més <font color=""\#ff5503"">Peces Grogues</font> que el teu oponent!"
+prelevel_text.004,"Recull més <font color=""\#ff8800"">Carrots</font> que el teu oponent!"
+prelevel_text.006,"Aconsegueix més <font color=""\#4499ff"">Gel</font> que el teu oponent!"
+promo_reforged.button,Reclamar!
+promo_reforged.text,"¡Hooray! Hem llançat un nou mode de joc - Skydom Reforged! Per celebrar el llançament, regalem un paquet Mega Booster de franc! ¿Ho vols ara?"
+promo_reforged.title,Skydom Reforjat!
+rate_us.description,Com us agrada Skydom?
+rate_us.feedback.cancel,No ara
+rate_us.feedback.description,Introduïu el vostre correu electrònic si voleu rebre una resposta.
+rate_us.feedback.email_hint,Correu electrònic
+rate_us.feedback.message_hint,Com podem millorar el joc per a tu?
+rate_us.feedback.submit,Enviar
+rate_us.star_1,Odiava-ho
+rate_us.star_2,No m'ha agradat
+rate_us.star_3,Està bé
+rate_us.star_4,M'ha agradat
+rate_us.star_5,M'ha encantat
+rate_us.submit,Enviar
+rate_us.write_review.cancel,No ara
+rate_us.write_review.google_play,Comparteix els teus pensaments sobre el joc o valora'l a Google Play!
+rate_us.write_review.submit,Amb gust!
+rate_us.write_review.yandex,Comparteix els teus pensaments sobre el joc o valora'l a Yandex Jocs!
+rematch_pvp.asks_for_rematch_draw,#name vol un altre intent
+rematch_pvp.asks_for_rematch_player_lose,#name ofereix una revàlida!
+rematch_pvp.asks_for_rematch_player_won,#name vol una revàlida!
+reward.coins,Monedes
+reward.gems,Gemmes
+reward.lives,Vides
+reward.prelevel.add_bomb,Booster Bomba
+reward.prelevel.add_line,Booster Línia
+reward.prelevel.add_omni,Booster de Llamp
+reward.prelevel.add_tint,Booster de Pintura
+reward.prelevel.double_fly,Booster Llumetes x2
+reward.tickets,Monedes
+reward.undo,Desfes
+search.cannot_connect,No hi ha connexió a internet
+search.failed,Ups! Alguna cosa ha anat malament...
+search.loading,Carregant...
+search.playing_with_trainer,Jugant amb l'entrenador
+search.readying,Oponent trobat!
+search.readying_rematch,Estigueu preparats!
+search.rejected,L'oponent ha fugit
+search.searching,Cercant un oponent...
+search.vs,VS
+search.waiting_opp,Esperant l'oponent...
+settings.change_avatar,Canviar Foto de Perfil
+settings.change_avatar.connect_fb,Connectar
+settings.change_avatar.continue,Continua
+settings.change_avatar.title,Trieu una nova imatge de perfil
+settings.change_avatar.warning,"Nota: 
+- Només pots canviar la teva foto de perfil UNA VEGADA
+- Connecta't a Facebook per usar la foto de perfil de Facebook"
+settings.change_avatar.warning_no_fb,Nota: Només pots canviar la teva foto de perfil UNA VEGADA
+settings.change_name,Canviar Nom
+settings.change_name.accept_name,Continua
+settings.change_name.do_not_match,"Els noms no coincideixen. Si us plau, intenta-ho de nou."
+settings.change_name.edit,Introduïu un nou nom:
+settings.change_name.reenter,Torna a introduir el teu nou nom:
+settings.change_name.same_name,El nom nou coincideix amb el existent
+settings.change_name.too_long,Aquest nom és massa llarg - límit de 15 símbols
+settings.change_name.too_short,Aquest nom és massa curt =)
+settings.change_name.warning,Nota: Només pots canviar el teu nom UNA VEGADA.
+settings.confirm_avatar.cancel,Cancel·la
+settings.confirm_avatar.change,Canviar
+settings.confirm_avatar.title,"Esteu segur que voleu canviar
+la vostra foto de perfil?
+La vostra nova foto de perfil:
+"
+settings.confirm_avatar.warning,"Nota: Només pots canviar la teva
+foto de perfil UNA VEGADA"
+settings.confirm_name.cancel,Cancel·la
+settings.confirm_name.change,Confirma
+settings.confirm_name.title,Estàs segur que vols canviar el teu nom? El teu nou nom serà:
+settings.confirm_name.warning,Nota: Només pots canviar el teu nom UNA VEGADA.
+settings.connect_fb,Connectar Facebook
+settings.connect_ok,Connectar Odnoklassniki
+settings.connect_vk,Connectar VK
+settings.connect_y8,Connectar Y8
+settings.connect_yandex,Connectar Yandex
+settings.connected_fb,Facebook
+settings.connected_ok,Odnoklassniki
+settings.connected_vk,VK
+settings.connected_y8,Y8
+settings.connected_yandex,Yandex
+settings.coupon,Codi de Promoció
+settings.coupon_title,Codi de Promoció
+settings.coupon.enter,Aplicar
+settings.coupon.enter_hint,Introduïu el vostre codi de promoció aquí
+settings.coupon.invalid_code,"<font color=""\#e90047"">Aquest codi no és vàlid. Si us plau, prova un altre codi."
+settings.coupon.missing_code,"<font color=""\#e90047"">Introduïu el codi de promoció"
+settings.coupon.ok,Codi descomptat amb èxit!
+settings.credits,Crèdits
+settings.eula,Termes de servei
+settings.fb_hint,Connecta't a Facebook per jugar amb amics i sincronitzar el teu progrés
+settings.general,GENERAL
+settings.generate_key,Crear codi
+settings.invite_friends,Convida amics
+settings.language,Llengua
+settings.language_header,TRIAR IDIOMA
+settings.move_hints,Pistes
+settings.music,Música
+settings.networks,Connexions
+settings.networks_hint,Connecteu les xarxes socials per jugar amb amics i sincronitzar el vostre progrés
+settings.notifications,Notificacions
+settings.notifications.daily,Repte diari
+settings.notifications.disable_all,Desactivar-ho tot
+settings.notifications.disable_night,Desactivar de 23h a 8h
+settings.notifications.gifts,Regals
+settings.notifications.others,Altres recordatoris
+settings.open_support,Suport del jugador
+settings.open_vk_group,Grup de Jocs
+settings.player_id,Copiar ID de jugador
+settings.policy,Política de privacitat
+settings.rate_us,Valora'ns
+settings.report_problem,Informar d'un problema
+settings.sound,So
+settings.support,SUPORT
+settings.telegram_channel,Segueix el nostre canal de Telegram
+settings.telegram_channel_hint,Totes les últimes notícies sobre Skydom
+settings.telegram_support,Xat de fans a Telegram
+settings.title,Configuració
+settings.update,Actualitzar
+settings.y8_hint,Connecteu-vos a Y8 per sincronitzar el vostre progrés en línia!
+settings.yandex_hint,Connecteu-vos a Yandex per sincronitzar el vostre progrés en línia!
+shop.gems_restored.accept,Excel·lent!
+shop.gems_restored.title,Compra de gemmes completada
+shop.not_available,No disponible
+shop.remove_ads_remain_time,S'han eliminat els anuncis durant #time
+shop.remove_ads_text,"Treu els anuncis entre nivells
+amb qualsevol compra
+"
+shop.remove_ads_timed,"Treu els anuncis entre nivells
+amb qualsevol compra per un mes
+"
+social_notification.button,Connectar
+social_notification.message,Connecteu-vos a una xarxa social per sincronitzar el vostre progrés en línia!
+social_notification.no_post_hint,Mai publicarem sense el teu permís.
+social_notification.title,Desa el teu progrés
+social_share.button,Compartir
+social_share.chooser_hint,Compartir a través de
+social_share.message,"Hola! Ja has vist el nou joc de ""tres en ratlla"" amb rivals reals? Instal·la-ho a https://PecPoc.com"
+social_share.subject,Mira el nou joc divertit - Skydom
+social_share.title,"Comparteix el joc amb altres!
+És més divertit jugar amb amics!"
+tempkey_login.button,Continua
+tempkey_login.empty_key,No heu introduït cap codi
+tempkey_login.input.default_hint,Introduïu el codi
+tempkey_login.invalid_key,Codi incorrecte
+tempkey_login.message_top,"Per continuar jugant aquí, obté el codi on vas jugar abans a la Configuració sota ""Crear codi""."
+tempkey_login.no_connection,No s'ha pogut connectar
+tempkey.fail.button,D'acord
+tempkey.fail.message,Comproveu la connexió a internet o torneu-ho a intentar més tard
+tempkey.fail.title,No s'ha pogut crear el codi
+tempkey.ok.copied,Copiat!
+tempkey.ok.copy,Copiar
+tempkey.ok.hint,El codi expira després de 4 hores.
+tempkey.ok.message,#tempkey
+tempkey.ok.title,El teu codi:
+tickets_shop.boost_text,x2 velocitat de recàrrega
+tickets_shop.buy_all,Compra #amount
+tickets_shop.hint,Necessiteu monedes per jugar al repte diari
+tickets_shop.hint_out_of,"<font color=""\#e90047"">No hi ha més tokens de sort</font>"
+tickets_shop.recharge,Nou tiquet disponible en: #time
+tickets_shop.title,Targetes felices
+tickets_shop.watch_ad_button,Mirar
+tickets_shop.watch_ad_text,Obtenir 1 gratuït
+time.days_hours,"#days<font size=""-15""> </font><font size=""-10"">d</font> #hours<font size=""-15""> </font><font size=""-10"">h</font>"
+time.hours,"#hours<font size=""-15""> </font><font size=""-10"">h</font>"
+time.hours_minutes,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #minutes<font size=""-15""> </font><font size=""-10"">min</font>"
+time.hours_minutes_seconds,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #minutes<font size=""-15""> </font><font size=""-10"">min</font> #seconds<font size=""-15""> </font><font size=""-10"">seg</font>"
+time.hours_seconds,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #seconds<font size=""-15""> </font><font size=""-10"">s</font>"
+time.less_than_minute,"1<font size=""-15""> </font><font size=""-10"">min</font>"
+time.minutes,"#minutes<font size=""-15""> </font><font size=""-10"">min</font>"
+time.minutes_seconds,"#minutes<font size=""-15""> </font><font size=""-10"">min</font> #seconds<font size=""-15""> </font><font size=""-10"">seg</font>"
+time.seconds,"#seconds<font size=""-15""> </font><font size=""-10"">s</font>"
+tutorial_home.play,Jugar
+tutorial.001.dialog_tutorial,"Aparellar <font color=""\#5885b8"">3 peces del mateix color en una fila</font> per eliminar-les"
+tutorial.001.hint,"Objectiu
+Recull 12 peces verdes!"
+tutorial.001.turn_1,Aparella 3 peces del mateix color intercanviant les adjacents!
+tutorial.002.hint,Recull més peces grogues que el teu oponent!
+tutorial.skip,Saltar
+undo_shop.buy_undos,Obtenir #count
+undo_shop.hint,Desfés retrocedeix el teu últim moviment
+undo_shop.recharge,Següent desfer en: #time
+undo_shop.title,Desfer
+undo_shop.watch_ad_button,Mirar
+undo_shop.watch_ad_text,Obtenir 1 gratuït
+undo_shop.you_have,Tens #amount desfets
+update.button,Actualitzar
+update.new_version,Hi ha una nova versió disponible!
+update.new_version_value,"<font color=""\#5885b8"">#version"
+update.old_version,Utilitzes una versió antiga
+update.old_version_value,"<font color=""\#a5a7aa"">#version"
+update.text,"Esteu utilitzant una versió antiga.
+Si us plau, actualitzeu a la versió més recent!"
+update.title,Nova versió disponible!
+update.web.button,Refrescar
+update.web.message,"Si us plau, refresca la pàgina."
+update.web.title,Nova versió disponible!
+vk_login_failed.message,No s'ha pogut connectar a VK. Vols provar-ho de nou?
+vk_promo.title,Regal de VK!
+vk.share_tick,Compartir
+watch_for_gems.button,Mirar
+watch_for_gems.text,+#amount
+web.webg_context_lost,"S'ha perdut el context WebGL, restauració..."
+welcome_bonus.speech_1,"Hola, #PlayerName!
+Tinc alguns regals per a tu.
+Tria un!
+"
+welcome_bonus.speech_2,"Pensaments es materialitzen... Ohmmm!
+Estava pensant en alguns regals i mira el que ha passat =)"
+welcome_bonus.speech_3,"Mentre no hi eres, he trobat dos calaixos! Quina obrim?"
+welcome_bonus.speech_4,"Molt bé de tornar a veure't, #PlayerName!
+Mira el que ha caigut
+des dels núvols!"
+welcome_bonus.speech_5,Les cigonyes han volat... Resulta que no només porten nens!
+welcome_bonus.speech_6,"Encantat de tornar-te a veure, #PlayerName!
+Tria una caixa!
+"
+welcome_bonus.speech_7,"T'he trobat tant a faltar, #PlayerName, que he preparat un petit regal per a tu!"
+welcome_bonus.speech_8,"Coses estranyes passen. Estàs assegut, relaxat i de sobte apareixen dos calaixos!"
+welcome_pack.open,Obrir
+welcome_pack.play,Jugar
+welcome_pack.speech_1,"Hola, #PlayerName! Fa temps que no ens veiem! Tinc un regal per a tu!"
+welcome_pack.speech_2,"Oh, #PlayerName, t'he trobat! Obriu el regal i jugueu!"
+welcome_pack.speech_3,"#PlayerName, quina alegria tornar-te a veure! Apressa't i obre el calaix!"
+welcome_pack.speech_gift,"#PlayerName, tenim un regal especial per a tu =) Obre'l ràpid!"
+welcome_pack.speech_reforged,"#PlayerName, tenim un regal especial per a tu =) Obre'l ràpid!"
+y8_login_failed.message,No s'ha pogut connectar a Y8. Vols provar-ho de nou?
+yandex_login_failed.message,No s'ha pogut connectar a Yandex. Vols provar-ho de nou?
+yandex_notification.button,Connectar
+yandex_notification.message,Connecteu-vos a Yandex per sincronitzar el vostre progrés en línia!
+yandex_notification.title,Desa el teu progrés
+gamemode.capital.leaf,FULLES
+yandex_login_has_attachment.message,S'ha vinculat un altre compte Yandex a aquest perfil de joc.
+fb_login_has_attachment.message,S'ha vinculat un altre compte de Facebook a aquest perfil de joc.
+ok_login_has_attachment.message,S'ha vinculat un altre compte d'OK a aquest perfil de joc.
+vk_login_has_attachment.message,S'ha vinculat un altre compte de VK a aquest perfil de joc.
+y8_login_has_attachment.message,S'ha vinculat un altre compte Y8 a aquest perfil de joc.
+android_app.text.beta,Estimats amics! Ens complau informar-vos que hem llançat la prova beta del nostre joc per a Android. Tothom és benvingut!
+bookmark.play,Jugar
+bookmark.quest,Missió
+chest_opening.bronze,Bronze
+chest_opening.continue,Fàcil
+chest_opening.division,Divisió III
+chest_opening.golden,Or
+chest_opening.silver,Plata
+chest_opening.togoldenleague,"Pots aconseguir
+la Lliga d'Or?"
+chest_opening.welcome,"Us donem la benvinguda a 
+Les Lligues de l'Arena de Partits!"
+chest_opening.yourebronze,"Heu aconseguit
+Lliga de bronze III"
+chest.open,Obrir
+chest.opens_now,Brillant! La caixa és teva per obrir!
+chest.wins_left_1,Una altra victòria!
+chest.wins_left_2,Només 2 victòries i és teu!
+chest.wins_left_3,Molt bé! 3 victòries més!
+chest.wins_left_4,Cal 4 victòries per obrir el cofre!
+chest.wins_to_open,Calen #num victòries per obrir
+forge_help.block_1,Guanya els duels per guanyar monedes.
+forge_help.block_2,Utilitzeu monedes per iniciar Forges i obtenir barres d'or.
+forge_help.block_3,Recull barres d'or per pujar les lligues.
+forge_help.block_4,"A cada lliga, nous nivells!"
+forge_help.continue,L'he tingut
+forge_help.title,Lligues i Forges
+forge.add,Afegir
+forge.boost,Impulsar
+forge.boost_free,"Anem a accelerar aquest Forja!
+
+La primera vegada és gratuït!"
+forge.boost_free_ok,Impulsar
+forge.buy_1,Forja de bronze
+forge.buy_2,Forja de plata
+forge.buy_3,Forja d'Or
+forge.buy_4,Forja de Rubí
+forge.buy_now,Afegir
+forge.cheat_boost,ENGANYAR? ENGANYAR!
+forge.name_1,Forja de bronze
+forge.name_2,Forja de Plata
+forge.name_3,Forja d'Or
+forge.name_4,Forja de Rubí
+forge.not_enough_coins,No hi ha prou monedes per començar
+forge.ok,D'acord
+forge.open,Obrir
+forge.open_now,Obre ara
+forge.other_in_progress,Una altra forja està encara en procés!
+forge.popup_boost,Impulsar -30 min
+forge.popup_boost_speedup,Impulsar -15 min
+forge.progress,#bars en: #time
+forge.speedup_no,No
+forge.speedup_offer,"Voleu <font color=""\#5885b8"">accelerar</font> el Forn <font color=""\#5885b8"">en 2 vegades?</font>"
+forge.speedup_ok,D'acord
+forge.speedup_success,La forja s'ha accelerat!
+forge.speedup_yes,Sí
+forge.start,Iniciar
+forge.time_1,3 hores
+forge.time_2,6 hores
+forge.time_3,12 hores
+forge.time_4,24 hores
+forge.tutorial.collect_coins,Guanyeu 1000 monedes per iniciar la Forja
+forge.tutorial.open_now,"Excel·lent! La fosa s'ha completat!
+Podem obrir la forja!"
+forge.tutorial.smelt_more,Continua forjant barres d'or per arribar a la següent divisió
+forge.tutorial.start_forge,"Molt bé, has guanyat 1000 monedes!
+Ara podem començar la Forja!"
+forge.tutorial.wait_ready,"Mentre la teva forja està treballant, pots guanyar més monedes."
+forge.watch_ad,Mirar
+gamemode.chocolate,Lava
+gamemode.diamonds,Diamants
+gamemode.energycube,Gelatina
+gamemode.fishes,Carrots
+gamemode.food,Bellotas
+gamemode.fossils,Polps
+gamemode.grass,Herba
+gamemode.honeybee,Ossos
+gamemode.ice,Gel
+gamemode.jam,Energia
+gamemode.road,Porquet
+gamemode.stone,Pedres
+gamemode.tasks,Comandes
+gamemode.tiles,Herba
+home.bars_need_more,Necessites #more
+home.bars_progress,#current / #total
+home.bet,Aposta #count monedes
+home.coins,#count
+home.gems,#count
+home.hint_quest_book,Hi ha noves missions disponibles!
+home.hint_quest_book.claim,Vaja! Algú serà recompensat!
+home.hint_quest_book.new,Uau! Nova missió!
+home.league_indev,La propera lliga arribarà aviat!
+home.rematch.asks_for_rematch_draw,#name vol un altre intent
+home.rematch.asks_for_rematch_player_lose,#name ofereix una revàlida
+home.rematch.asks_for_rematch_player_won,#name demana una revàlida!
+home.xp,#count
+ingame_booster_shop.buy,Obtenir #count
+ingame_booster_shop.hint.cross,Utilitzeu la vara màgica per eliminar una fila i una columna de peces.
+ingame_booster_shop.hint.hammer,Utilitzeu el martell per eliminar les fitxes!
+ingame_booster_shop.hint.hand,Utilitzeu el guant per intercanviar qualsevol peça adjacent!
+ingame_booster_shop.title.cross,Varita Màgica
+ingame_booster_shop.title.hammer,Martell
+ingame_booster_shop.title.hand,Guants
+league.Bronze,Lliga de Bronze
+league.div_1,Divisió I
+league.div_2,Divisió II
+league.div_3,Divisió III
+league.div_4,Divisió IV
+league.div_5,Divisió V
+league.E001,Bronze III
+league.E002,Bronze II
+league.E003,Bronze I
+league.E004,Plata IV
+league.E005,Plata III
+league.E006,Plata II
+league.E007,Plata I
+league.E008,V d'Or
+league.E009,IV d'or
+league.E010,Or III
+league.E011,Or II
+league.E012,Or I
+league.E013,Plata V
+league.E014,Platí IV
+league.E015,Plata III
+league.E016,Plata II
+league.E017,Plata I
+league.E018,Mestre 1
+league.Gold,Lliga d'Or
+league.Master,Lliga Mestra
+league.MasterN,Mestre #div
+league.GrandMaster,Gran Mestre
+league.GrandMasterN,Gran Mestre #div
+league.Platinum,Lliga de Plata
+league.Silver,Lliga de Plata
+levelup.continue,Genial!
+levelup.reward,Recompensa
+levelup.title_division,"Felicitacions!
+Nova divisió!"
+levelup.title_league,"Felicitacions!!
+Nova lliga!"
+ma2transfer.install,Instal·la
+ma2transfer.message,"L'Arena de Partides s'ha traslladat a l'aplicació nova!
+
+Important! Utilitza el codi següent per transferir el teu progrés."
+nickname.tutorial_004,Sensei Miquel
+nickname.tutorial_005,Professor Frank
+nickname.tutorial_006,Reina Matcha
+nickname.tutorial_007,Mestre Leo
+nickname.tutorial_008,Entrenador Carl
+nickname.tutorial_009,Tutor Barbut
+nickname.tutorial_010,Guru Vicky
+placeholder.hint_friends,"Desafia els teus amics
+i mostra el que ets capaç de fer!"
+placeholder.hint_quests,"Arriba a la Lliga de Bronze I
+per descobrir!"
+placeholder.hint_settings,Estarà a punt aviat :)
+placeholder.title_friends,"Juga amb amics
+arribant aviat
+"
+placeholder.title_quests,"Missions meravelloses
+Bloquejat"
+placeholder.title_settings,Configuracions en construcció
+quest_help.block_1,Completa les missions per rebre recompenses!
+quest_help.block_2,Completa totes les missions per obrir el cofre.
+quest_help.block_3,"Completa totes les missions abans de passar a la següent divisió, altrament perdràs el tresor!"
+quest_help.continue,L'he tingut
+quest_help.title,Llibre de missions
+quest.aquarium,Recull #amount peixos
+quest.bar,#progress / #amount
+quest.bar_completed,Missió completa!
+quest.bar_last_try,Intent anterior: #progress de #amount
+quest.bar_special_not_tried,#progress / #amount
+quest.best_so_far,Millor resultat: #progress
+quest.butterfly,Recull #amount papallones
+quest.buy_now,Obteniu ara #amount
+quest.cat,Recull #amount Gats
+quest.chip_destroy,Recull #amount de qualsevol peça
+quest.chip_destroy_bird,Recull #amount ocells
+quest.chip_destroy_blue,Recull #amount peces blaves
+quest.chip_destroy_diamond,Recull #amount Diamants
+quest.chip_destroy_fish,Recull #amount Carrots
+quest.chip_destroy_fish_blue,Recull #amount Carrots blaus
+quest.chip_destroy_fish_green,Recull #amount Carrots verds
+quest.chip_destroy_fish_orange,Recull #amount Carrots taronja
+quest.chip_destroy_fish_purple,Recull #amount carotes porpres
+quest.chip_destroy_fish_red,Recull #amount Carrots vermelles
+quest.chip_destroy_fish_yellow,Recull #amount Carrots grogues
+quest.chip_destroy_food,Treu #amount Glans
+quest.chip_destroy_frog,Recull #amount de Grenyols
+quest.chip_destroy_green,Recull #amount peces verdes
+quest.chip_destroy_orange,Recull #amount peces taronja
+quest.chip_destroy_purple,Recull #amount peces porpres
+quest.chip_destroy_red,Recull #amount peces vermelles
+quest.chip_destroy_snail,Recull #amount caragols
+quest.chip_destroy_super,Recull #amount peces súper
+quest.chip_destroy_wafer,Recull #amount Minerals d'or
+quest.chip_destroy_with_bomb,Recull #amount peces amb la Bomba
+quest.chip_destroy_with_line,Recull #amount peces amb el bonificació Línia
+quest.chip_destroy_with_mine,Recull #amount peces amb el bonificació de Llumet
+quest.chip_destroy_with_omni,Recull #amount peces amb el bonificació de Llamp
+quest.chip_destroy_yellow,Recull #amount peces grogues
+quest.chip_destroy_waterfish,Recull #amount peixos d'aigua
+quest.chip_recolor,Recoloreu #amount peces amb el bonificació de Pintura
+quest.claim,Reclamar Recompensa
+quest.complete_chest,Totes les missions completades
+quest.cover_destroy_bee,Recull #amount Oursos
+quest.cover_destroy_bound,Desbloqueja #amount peces
+quest.cover_destroy_chocolate,Elimina #amount peces amb Lava
+quest.cover_destroy_fizzblue,Recull #amount de fizz
+quest.cover_destroy_fizzpurple,Recull #amount de fizz
+quest.cover_destroy_frozen,Treu el gel de #amount peces
+quest.cover_destroy_honey,Neteja #amount de les rajoles amb mel
+quest.cover_destroy_hotlava,Treu #amount peces de Lava Calenta
+quest.cover_destroy_receiver_energycube,Recull #amount cristalls de gelat
+quest.cover_destroy_receiver_jam,Recull #amount cristalls d'energia
+quest.cover_destroy_statue,Recull #amount gossos
+quest.cover_destroy_stone,Elimina #amount Pedres
+quest.cover_destroy_leaf,Neteja #amount fulles
+quest.division_done_card,Nou reptes a la següent divisió!
+quest.duck,Recull #amount ànecs
+quest.energy_flow,Desplaça l'energia a través de #amount de taulells
+quest.energycube_flow,Ompliu #amount de caselles amb Gelat
+quest.fossil,Recull #amount d'Octopuses
+quest.gum,Recull #amount peces de goma
+quest.new_quest,Nova missió!
+quest.new_quest_in,Següent missió en:
+quest.on_arena_splash_score,Puntuació #amount a Arena Boom!
+quest.on_arena_splash_use_bonus,Desa #amount de bonificacions per a Arena Boom!
+quest.plate_destroy,Elimina #amount Separacions
+quest.play,Jugar
+quest.pvp_score,Puntuació #amount en duel·les
+quest.reward,Recompensa:
+quest.snakes,Recull #amount Serps
+quest.tile_destroy_gold,Recull #amount de rajoles de Herba
+quest.tile_destroy_grass,Recull #amount de rajoles de Herba
+quest.title,Llibre de missions
+quest.use_bonus,Utilitzeu #amount bonificacions
+quest.use_bonus_bomb,Utilitzeu #amount bonificacions Bomba
+quest.use_bonus_line,Utilitzeu #amount bonificacions Línia
+quest.use_bonus_mine,Utilitzeu #amount bonificacions Llumetes
+quest.use_bonus_omni,Utilitzeu el bonificació de Llamp #amount vegades
+quest.use_bonus_tint,Utilitzeu #amount bonificacions Pintura
+quest.use_combo_bomb_bomb,Fes un combo-bonus Bomba+Bomba #amount vegades
+quest.use_combo_bomb_omni,Fes un combo-bonus Llamp + Bomba #amount vegades
+quest.use_combo_bomb_tint,Fes un combo-bonus Pintura+Bomba #amount vegades
+quest.use_combo_line_bomb,Fes un combo-bonus Bomba+Línia #amount vegades
+quest.use_combo_line_line,Fes un combo-bonus Línia+Línia #amount vegades
+quest.use_combo_line_omni,Fes un combo-bonus Llamp+Línia #amount vegades
+quest.use_combo_line_tint,Fes un combo-bonus Pintura+Línia #amount vegades
+quest.use_combo_mine_bomb,Fes un combo-bonus Bomba + Llum de lluïssa #amount vegades
+quest.use_combo_mine_line,Fes un combo-bonus Llum de foc+Línia #amount vegades
+quest.use_combo_mine_mine,Fes un combo-bonus Llumet+Llumet #amount vegades
+quest.use_combo_mine_omni,Fes un combo-bonus Llamp+Llum de lluïssa #amount vegades
+quest.use_combo_mine_tint,Fes un combo-bonus Pintura+Llum de lluïssa #amount vegades
+quest.use_combo_omni_omni,Fes un combo-bonus Llamp+Llamp #amount vegades
+quest.use_combo_omni_tint,Feu un combo-bonus Pintura+Llamp #amount vegades
+quest.use_combo_tint_tint,Fes un combo-bonus Pintura+Pintura #amount vegades
+quest.walk,Fes que el Porc caminï #amount passos
+quest.watch_for_new,- #time
+quest.win,Guanya #amount duel·les
+quest.win_coins,Guanya #amount monedes en duel·les
+quest.win_hard_level,Completa el nivell difícil
+quest.win_rematch,Guanya #amount revanches
+quest.win_streak,Guanya #amount duel·les seguides
+quest.chip_destroy_clam,Recull #amount perles
+quest.chip_destroy_egg,Recull #amount ous
+quest.gardenflower,Recull #amount flors
+quest.sausages,Recull #amount salsitxes
+rematch.asks_for_rematch_draw,"#name vol un altre intent
+Aposta #bet"
+rematch.asks_for_rematch_player_lose,"#name ofereix una revàlida
+Aposta #bet"
+rematch.asks_for_rematch_player_won,"#name vol una revàlida!
+Aposta #bet"
+rematch.rematch_bet,Aposta #bet
+report.body,
+report.subject,Problema amb MatchArena
+reward.bars,Barres d'or
+reward.coins_amt,+#amount
+reward.gems_amt,+#amount
+reward.levels,Nivells nous
+reward.levels_amt,+#amount
+reward.levelup,"Felicitacions!
+Nou nivell!"
+reward.new_levels,"Nivells
+nous!"
+reward.talisman,Talismans
+reward.xp_amt,+#amount
+search.prize_fund,Fons de premis
+settings.friends_and_partners,Amics i socis
+settings.language.help_us_translate,"Voleu ajudar-nos a traduir Match Arena als idiomes que parleu? Envieu-nos un correu electrònic a <font color=""\#0000EE"">support@matcharenagame.com."
+settings.notifications.duels,Repte a les dues
+shop.indev,Ben aviat!
+splash.hint_chocolate,Treu tant de lava com puguis
+splash.hint_diamonds,Recull tantes Diamants com sigui possible
+splash.hint_energycube,Omple tantes caselles com puguis amb Gelatina
+splash.hint_fishes,Recull tantes carotes com puguis
+splash.hint_food,Treu tantes castanyes com puguis
+splash.hint_fossils,Salva tantes sípies com puguis
+splash.hint_honeybee,Recull tantes Ours com puguis
+splash.hint_ice,Treu tant gel com puguis
+splash.hint_jam,Omple tantes caselles com puguis amb Energia
+splash.hint_road,Condueix el Porquet el més lluny possible
+splash.hint_stone,Treu tantes pedres com puguis
+splash.hint_tasks,Completa tantes comandes com puguis
+splash.hint_tiles,Recull tant d'herba com sigui possible
+splash.mode_chocolate,Objectiu - Lava
+splash.mode_diamonds,Objectiu - Diamants
+splash.mode_fishes,Objectiu - Carrots
+splash.mode_food,Objectiu - Bellotas
+splash.mode_jam,Objectiu - Energia
+splash.mode_road,Objectiu - Porquet
+splash.mode_tasks,Objectiu del nivell - Comandes
+splash.mode_tiles,Objectiu - Herba
+talismans_shop.ask_button,Facebook
+talismans_shop.ask_text,Demana als amics
+talismans_shop.boost_text,x2 velocitat de recàrrega
+talismans_shop.buy_all,Obtenir #amount per
+talismans_shop.hint,Monedes dobles guanyades
+talismans_shop.recharge,El següent talismà en: #time
+talismans_shop.title,Talismans
+talismans_shop.watch_ad_button,Mirar
+talismans_shop.watch_ad_text,Obtenir 1 gratuït
+tickets_shop.ask_button,Facebook
+tickets_shop.ask_text,Demana als amics
+tutorial.001.collect_more_fishes,"Recull tantes <font color=""\#5885b8"">Carrots</font> com puguis!"
+tutorial.001.continue_to_collect_fishes,Segueix recollint Carrots!
+tutorial.001.first_swap_red_down,"Mou la peça vermella cap avall
+per fer coincidir <font color=""\#5885b8"">tres en una fila</font>"
+tutorial.001.remind_collect_three_in_a_row,"Recull <font color=""\#5885b8"">tres peces en línia</font> d'un color"
+tutorial.001.second_swap_green_left,"Mou la peça verda a l'esquerra
+per fer coincidir <font color=""\#5885b8"">tres en una fila</font>"
+tutorial.001.third_swap_fish,"<font color=""\#5885b8"">Carrots</font> també es poden combinar tres en una fila"
+tutorial.001.you_are_doing_well,Estàs fent-ho bé!
+tutorial.002.get_bonus_line,"...per obtenir <font color=""\#5885b8"">bonus - Línia!</font>"
+tutorial.002.try_four_in_a_row,"Proveu de fer <font color=""\#5885b8"">4 en una fila!</font>"
+tutorial.002.use_line_bonus,"Completa <font color=""\#5885b8"">tres en una fila amb un bonificació</font> per veure el poder de la Línia!"
+tutorial.003.hint,Recull més carabasses que el teu oponent!
+tutorial.003.try_l_or_t,"Aparellar peces <font color=""\#5885b8"">en forma de T o L!</font>"
+tutorial.003.use_bomb_bonus,"...per obtenir <font color=""\#5885b8"">bonus - Bomba!</font>
+Anem a fer-la explotar!"
+tutorial.004.clear_gold_tiles,"Feu coincidències sobre l'<font color=""\#5885b8"">Herba</font>
+per recollir-la!"
+tutorial.004.combine_omni_with_blue,"Intercanvia la <font color=""\#5885b8"">peça de llamp</font> amb la peça blava per eliminar totes les peces blaves del tauler!"
+tutorial.004.try_five_in_a_row,"Proveu de fer <font color=""\#5885b8"">5 en una fila!</font>"
+tutorial.005.two_bonus_can_combine,"Qualsevol <font color=""\#5885b8"">dos bonificacions es poden fusionar</font> per obtenir una bonificació encara més gran!"
+tutorial.007.collect_food,"Fes coincidències al costat de <font color=""\#5885b8"">Galls</font>"
+tutorial.007.move_character,"Recull llavor de roure per <font color=""\#5885b8"">avançar el Porquet!</font>"
+tutorial.008.make_mine_bonus,"Combina <font color=""\#5885b8"">quatre peces en un quadrat</font> i obtindràs un bonificació - Llum de foc!"
+tutorial.008.use_mine_bonus,"Combina tres en una fila amb <font color=""\#5885b8"">Foc de Sant Joan</font> per utilitzar-lo!"
+tutorial.009.make_tint_bonus,"Feu una <font color=""\#5885b8"">gran forma de T</font> i 
+obtindreu un bonificació - Pintura!"
+tutorial.009.use_tint_bonus,"<font color=""\#5885b8"">Pintura</font> es pot intercanviar amb qualsevol peça!"
+level_popup.adventure.title,Nivell
+lives_shop.ma_hint,"Necessites vides per 
+continuar jugant Aventura."

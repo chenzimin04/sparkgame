@@ -1,0 +1,17 @@
+ {
+	"size":7,
+	"moves":40,
+	"stars":{"avg":20, "top":28 },
+	"add":[
+		{ "x":3, "y":2, "dx":1, "dy":2, "type":"GEM_BLUE" },
+		{ "x":1, "y":1, "dx":5, "dy":5, "type":"SOFT_CAGE", "count": true }
+	],
+	"field":[ 
+		"oxxxxxo",
+		"xxxxxxx",
+		"xxxxxxx",
+		"xxxxxxx",
+		"xxxxxxx",
+		"xxxxxxx",
+		"oxxxxxo"]
+ }

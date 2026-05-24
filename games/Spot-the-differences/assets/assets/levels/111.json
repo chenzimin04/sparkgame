@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "owl_forest_a.jpg",
+  "image2": "owl_forest_b.jpg",
+  "differences":
+  [
+    {
+      "x": 127.0,
+      "y": 389.0,
+      "size": 80.0
+    },
+    {
+      "x": 388.0,
+      "y": 182.0,
+      "size": 90.0
+    },
+    {
+      "x": 367.0,
+      "y": 515.0,
+      "size": 60.0
+    },
+    {
+      "x": 550.0,
+      "y": 454.0,
+      "size": 110.0
+    },
+    {
+      "x": 788.0,
+      "y": 74.0,
+      "size": 160.0
+    }
+  ]
+}

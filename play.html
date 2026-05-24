@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Play Game - PlaySpark</title>
+  <link rel="stylesheet" href="styles.css?v=20260524">
+</head>
+<body data-page="play">
+  <div class="play-shell">
+    <header class="play-header">
+      <a class="back-link" href="index.html">&lt; Back</a>
+      <div class="play-head-copy">
+        <strong id="playTitle">Loading...</strong>
+        <span id="playSub"></span>
+      </div>
+      <div class="play-tools">
+        <a id="detailLink" class="ghost-button compact" href="game.html">Detail</a>
+        <a id="rawGameLink" class="ghost-button compact" href="#" target="_blank" rel="noreferrer">Open Raw</a>
+        <button id="fullscreenTrigger" class="cta-button compact" type="button">Fullscreen</button>
+      </div>
+    </header>
+
+    <main class="play-main">
+      <section class="player-frame">
+        <iframe id="gameFrame" title="Game Player" allowfullscreen loading="eager"></iframe>
+      </section>
+
+      <aside class="play-side">
+        <div class="panel">
+          <h3 class="panel-title">About This Game</h3>
+          <p id="playDescription" class="play-description"></p>
+          <div id="playFacts" class="play-facts"></div>
+        </div>
+
+        <div class="panel">
+          <h3 class="panel-title">Next Up</h3>
+          <div id="playSuggestions" class="mini-stack"></div>
+        </div>
+      </aside>
+    </main>
+  </div>
+
+  <script src="app.js?v=20260524"></script>
+</body>
+</html>

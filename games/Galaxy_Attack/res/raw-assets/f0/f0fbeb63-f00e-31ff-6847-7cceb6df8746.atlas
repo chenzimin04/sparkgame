@@ -1,0 +1,97 @@
+
+skel_boss_2_2_left.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+8/1805-1
+  rotate: true
+  xy: 145, 25
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+8/1805-6
+  rotate: false
+  xy: 98, 4
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+C-xiaochibang3
+  rotate: false
+  xy: 521, 96
+  size: 48, 61
+  orig: 48, 61
+  offset: 0, 0
+  index: -1
+C-zuobi
+  rotate: false
+  xy: 98, 69
+  size: 138, 166
+  orig: 138, 166
+  offset: 0, 0
+  index: -1
+C-zuochibang1
+  rotate: false
+  xy: 374, 83
+  size: 146, 77
+  orig: 146, 77
+  offset: 0, 0
+  index: -1
+C-zuochibang2
+  rotate: false
+  xy: 801, 157
+  size: 92, 78
+  orig: 92, 78
+  offset: 0, 0
+  index: -1
+C-zuoxia
+  rotate: true
+  xy: 690, 161
+  size: 74, 110
+  orig: 74, 110
+  offset: 0, 0
+  index: -1
+C-zuoyi
+  rotate: false
+  xy: 1, 1
+  size: 96, 234
+  orig: 96, 234
+  offset: 0, 0
+  index: -1
+D-xiaochibang3
+  rotate: false
+  xy: 987, 188
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+D-zuobi
+  rotate: false
+  xy: 237, 81
+  size: 136, 154
+  orig: 136, 154
+  offset: 0, 0
+  index: -1
+D-zuochibang1
+  rotate: false
+  xy: 543, 158
+  size: 146, 77
+  orig: 146, 77
+  offset: 0, 0
+  index: -1
+D-zuochibang2
+  rotate: false
+  xy: 894, 157
+  size: 92, 78
+  orig: 92, 78
+  offset: 0, 0
+  index: -1
+D-zuoyi
+  rotate: true
+  xy: 374, 161
+  size: 74, 168
+  orig: 74, 168
+  offset: 0, 0
+  index: -1

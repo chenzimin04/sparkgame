@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+
+<templates>			
+	<button id="tSmallConti" width="300" height="200" padding="20" clickableChildren="false" template="tShopGround" >			
+		<image name="uiImgIcon" x="-30" y="-6" height="100" ratio="1.0" halign="center" >
+			<text name="uiTxtValue" template="tFontMedium" x="10" relativeWidth="1.0" height="70" halign="rightOf" valign="center" halignText="left" valignText="center" />
+		</image>
+		<button name="uiBtBuy" halign="center" valign="bottom" template="tBtMTX" width="210" height="60" marginLeft="27" >
+			<image name="uiImgButton" relativeWidth="1.0" relativeHeight="1.0" template="tButtonImage" nssScale="0.6" />
+			<image name="uiImgCostIcon" height="100%" margin="-10" x="-20" valign="center" y="0" />
+			<text name="uiTxtLabel" scale="0.5" pivotX="0.0" />	
+		</button>
+	</button>
+	<button id="tSmallContiPayment" width="320" template="tSmallConti" >	
+		<image name="uiImgIcon" x="0" halign="left" >
+			<image image="particles/flare.png" width="70" height="70" halign="right" valign="top" x="3" y="-18" animation="pling" />
+		</image>
+		<button name="uiBtBuy" width="250" marginLeft="0" >
+			<image name="uiImgButton" image="ui/button3.png" />
+			<image name="uiImgCostIcon" visible="false" />			
+		</button>
+	</button>
+	<element id="tBuyContainer" width="100%" height="200" marginRight="30">
+		<buy name="uiBuy1" template="tSmallConti" halign="left" />		
+		<buy name="uiBuy2" template="tSmallConti" halign="right" />
+	</element>
+	<element id="tLineContainer" width="100%" height="40" marginRight="30">
+		<image template="tBlock" height="1" width="230" halign="left" valign="center" />
+		<text name="uiTxtTitle" template="tFontSmall,tElement" halignText="center" valignText="center" />	
+		<image template="tBlock" height="1" width="230" halign="right" valign="center" />
+	</element>
+	<image id="tPaymentContainer" width="100%" height="250" template="tShopGround" padding="30" image="ui/box_blue.png" nss="32,35,13,83" marginBottom="-6" paddingBottom="6" marginLeft="30" marginRight="30"  >
+		<image name="uiIconContainer" height="150" ratio="1.0" halign="left" valign="center" x="20" >
+			<element template="tRays" scale="1.5" halign="center" valign="center" />
+			<image name="uiImgIcon" height="150" ratio="1.0" halign="center" valign="center" animation="wobble" >
+				<image image="particles/flare.png" width="70" height="70" halign="right" valign="top" x="3" y="-18" animation="pling" />
+				<emitter template="tEmitter" active="true" />	
+			</image>
+			<image template="tShopGround" width="150" height="50" halign="center" valign="bottom" nssScale="0.3" y="10" >
+				<text name="uiTxtValue" template="tFontMedium" width="150" height="50" halign="center" valign="center" halignText="center" valignText="center" x="25" >
+					<image image="ui/gold.png" ratio="1" height="50" halign="leftOf" valign="center" >						
+					</image>
+				</text>
+			</image>
+		</image>
+		<text name="uiTxtName" template="tFontMedium,tElement,tFontSpecial" halignText="center" valignText="top" />	
+		<!--text name="uiTxtDesc" y="50" template="tFontSmall" width="100%" marginLeft="200" height="100%" halign="left" valign="bottom" halignText="left" valignText="center" /-->	
+		<button name="uiBtBuy" halign="right" valign="bottom" template="tButton" width="300" height="90" >
+			<image name="uiImgButton" relativeWidth="1.0" relativeHeight="1.0" template="tButtonImage" nssScale="0.6" />				
+			<text name="uiTxtLabel" template="tFontMedium" />
+			<text name="uiTxtBonus" template="tFontSmall" width="100%" height="40" halign="center" valign="topOf" halignText="center" valignText="center" />	
+		</button>
+		<image name="uiImgMostPopular" width="150" ratio="1" image="dynamic/shop_tip.png" halign="right" rotation="20" x="60" y="-70">
+			<text name="uiTxtTip" template="tFontSmall,tElement" halignText="center" valignText="center" text="SID_POPULAR_DEAL" />	
+		</image>
+		<image name="uiImgBestDeal" width="150" ratio="1" image="dynamic/shop_tip.png" halign="left" rotation="-20" x="-60" y="-70">
+			<text name="uiTxtTip" template="tFontSmall,tElement" halignText="center" valignText="center" text="SID_BEST_DEAL" />	
+		</image>
+	</image>
+</templates>
+
+<screen name="uiShop" template="tPopUpJennyTab" >	
+	<image name="uiImgBg" >		
+		<image name="uiTabBar" >			
+			<image name="uiBGTab0" >
+				<button name="uiBtTab">
+					<image name="uiImgTabIcon" image="dynamic/bee.png" />
+				</button>
+			</image>
+			<image name="uiBGTab1" >	
+				<button name="uiBtTab">
+					<image name="uiImgTabIcon" image="ui/life.png" />
+				</button>
+			</image>
+			<image name="uiBGTab2" visible="true">	
+				<button name="uiBtTab">
+					<image name="uiImgTabIcon" image="ui/gold.png" >
+						<image image="particles/flare.png" width="70" height="70" halign="right" valign="top" x="3" y="-18" animation="pling" />
+					</image>
+				</button>
+			</image>
+		</image>
+	</image>
+			
+	<element name="uiContent" >		
+		<text name="uiTxtTabText" template="tFontWhite,tFontLarge" width="100%" height="120" halignText="center" valignText="center" text="SID_SHOP" />
+		<element template="tElement" marginTop="130" marginRight="30" marginLeft="30" >
+			<button name="uiBtGold" template="tResourceStatBox" pivotY="1.0" halign="center">
+				<state state="tab0" halign="center" />
+				<state state="tab1" halign="left" />
+				<state state="tab2" halign="center" />
+				<image name="uiBG" >
+					<image name="uiImgPlus" >					
+						<state state="earnGoldAvailable" visible="true" />
+						<state state="earnGoldUnavailable" visible="false" />
+					</image>
+				</image>
+				<image name="uiImgIcon" image="ui/gold.png" />
+				<text name="uiTxtAmount" template="tElement,tFontWhite,tFontMedium" halignText="right" valignText="center" >
+					<state state="earnGoldAvailable" marginRight="90" />
+					<state state="earnGoldUnavailable" marginRight="30" />
+				</text>
+			</button>	
+			<button name="uiBtLife" template="tResourceStatBox" pivotY="1.0" halign="right" clickable="false">
+				<state state="tab0" visible="false" />
+				<state state="tab1" visible="true" />
+				<state state="tab2" visible="false" />
+				<image name="uiImgIcon" image="ui/life.png" y="5" />
+				<image name="uiBG" >
+					<image name="uiImgPlus" visible="false" />						
+				</image>
+				<text name="uiTxtAmount" template="tElement,tFontWhite,tFontMedium" halignText="right" valignText="center" marginRight="30" />	
+			</button>	
+		</element>
+		<element template="tElement" marginTop="260" >
+			<list name="uiListPackages" template="tElement,tList" marginTop="0" marginLeft="115" marginRight="25" gap="30">
+				<image name="uiImgScrollbar" width="45" />
+				<!--buy template="tSmallConti" y="-30" halign="left" package="shop_starter_line" />
+				<buy template="tSmallConti" y="-30" halign="center" package="shop_starter_skunk" />
+				<buy template="tSmallConti" y="-30" halign="right" package="shop_starter_orb" />
+					
+				<buy template="tSmallConti" y="210" halign="left" package="shop_single_hit">
+					<image name="uiImgIcon" y="0" ratio="0.8474576" />
+				</buy>
+				<buy template="tSmallConti" y="210" halign="center" package="shop_row_hit" />
+				<buy template="tSmallConti" y="210" halign="right" package="shop_column_hit" />
+					
+				<buy template="tSmallConti" y="420" halign="center" package="shop_swizzle" /-->	
+			</list>
+			<element name="uiMtxTab" template="tElement" marginLeft="35" marginRight="35">
+				<rewardedAd name="uiRewardedAd" width="640" y="0" halign="center" valign="top" template="tRewardedAd" reward="reward_mtx" event="shop_gold" unless="payment" >
+					<image name="uiImgRewardConti2" width="140" height="140" halign="right" valign="center" >
+						<image image="particles/flare.png" width="70" height="70" halign="right" valign="top" x="3" y="-18" animation="pling" />
+					</image>
+				</rewardedAd>		
+				<list name="uiListMtxPackages" template="tList,tElement" marginLeft="20" marginRight="20" gap="35" if="payment" />
+			</element>		
+			<element name="uiLifeTab" template="tElement" width="640" halign="center" >				
+				<rewardedAd name="uiBtRewardedAdForLive" width="100%"valign="top" template="tRewardedAd" reward="reward_life" event="shop_life"/>
+				<element name="uiPackages" template="tElement" marginTop="300" >
+					<buy template="tSmallConti" package="extra_life" halign="left"/>					
+					<buy template="tSmallConti" package="extra_lifes" halign="right"/>
+				</element>
+			</element>		
+		</element>
+	</element>
+	<image name="uiImgJennyBack" >
+		<state state="landscape" visible="true" halign="leftOf" height="2000" x="420" valign="bottomOf" y="-940" />
+	</image>
+</screen>

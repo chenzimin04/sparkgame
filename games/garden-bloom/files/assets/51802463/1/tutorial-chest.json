@@ -1,0 +1,5 @@
+[
+    { "type": "swap", "tile1": { "x": 1, "y": 5 } , "tile2": { "x": 2, "y": 5 }, "dialog": "tutorial-chest-1", "index": 0 },
+    { "type": "waitForCascade" },
+    { "type": "swap", "tile1": { "x": 3, "y": 3 } , "tile2": { "x": 3, "y": 2 }, "dialog": "tutorial-chest-2", "index": 0 }
+]

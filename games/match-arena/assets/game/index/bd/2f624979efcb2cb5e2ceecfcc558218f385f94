@@ -1,0 +1,1025 @@
+ID,pt-BR
+ad_failed.button,Ok
+ad_failed.message,Não há vídeos disponíveis no momento. Tente novamente mais tarde.
+ad_failed.title,Opa...
+ad_magic.button,Assistir
+ad_magic.message,Assista a um breve clipe para receber uma recompensa.
+ad_magic.title,Mágica do Porquinho
+android_app.button,Instalar
+android_app.text.release,"Caros amigos, é um prazer informar que nosso jogo está disponível no Android. Faça o download do aplicativo agora mesmo!"
+android_app.title,Agora estamos no Android!
+android_update.restart.no,Mais tarde
+android_update.restart.text,Instalar agora?
+android_update.restart.title,Atualização pronta!
+android_update.restart.yes,Sim.
+avatar_already_changed.button,Ok
+avatar_already_changed.message,Sua foto de perfil já foi alterada. Você só pode mudá-la UMA VEZ.
+bookmark.daily,Desafio
+bookmark.friends,Amigos
+bookmark.settings,Configurar
+booster_hint.cross,%booster_shop.hint.ingame.cross%
+booster_hint.hammer,%booster_shop.hint.ingame.hammer%
+booster_hint.hand,%booster_shop.hint.ingame.hand%
+booster_shop.buy,Obter #count por
+booster_shop.hint.ingame.cross,Use a Varinha Mágica para remover uma linha e uma coluna de peças
+booster_shop.hint.ingame.hammer,Esmague as peças com o Martelo para removê-las!
+booster_shop.hint.ingame.hand,Use a Luva para para trocar peças adjacentes
+booster_shop.hint.prelevel.add_bomb,Comece qualquer nível com uma Bomba no tabuleiro!
+booster_shop.hint.prelevel.add_line,Comece qualquer nível com uma linha no tabuleiro!
+booster_shop.hint.prelevel.add_omni,Comece qualquer nível com um Relâmpago no tabuleiro!
+booster_shop.hint.prelevel.add_tint,Comece qualquer nível com Tinta no tabuleiro!
+booster_shop.hint.prelevel.double_fly,Duplique os Vaga-lumes criados neste nível!
+booster_shop.title.ingame.cross,Varinha mágica
+booster_shop.title.ingame.hammer,Martelo
+booster_shop.title.ingame.hand,Luva
+booster_shop.title.prelevel.add_bomb,Impulso Bomba
+booster_shop.title.prelevel.add_line,Impulso Linha
+booster_shop.title.prelevel.add_omni,Impulso Relâmpago
+booster_shop.title.prelevel.add_tint,Impulso Tinta
+booster_shop.title.prelevel.double_fly,Impulso Vaga-lume x2
+chest_open.collection_complete,Recebido!
+chest_open.ok,Ok
+chest_opening.button,Excelente!
+chest_opening.reward,Recompensa
+conflict_popup.continue,Continuar
+conflict_popup.hint_syncing,Sincronizando...
+conflict_popup.skip,Continuar Offline
+credits.art,Design de arte
+credits.artists,"Muito carinho por nossos amigos artistas visuais
+pelos lindos personagens!"
+credits.gamedesign,Design do jogo
+credits.mentions,"Um agradecimento especial
+a nossos amigos"
+credits.programming,Programação
+credits.title,Nossa equipe!
+daily_help.button,Ok
+daily_help.chest,Grande prêmio
+daily_help.reward,Recompensas únicas
+daily_help.text,"Todos os dias os jogadores demonstram suas habilidades e competem em um único nível.
+
+O jogador com a pontuação mais alta recebe o prêmio do dia: a Coroa e um Baú de Joias!"
+daily_help.title,Desafio Diário
+daily_reward.button,Excelente!
+daily_reward.reward,Recompensa
+daily_reward.title.place_1,"Você venceu
+o Desafio Diário!"
+daily_reward.title.place_generic,"Desafio Diário concluído
+Você ficou em \##place lugar!"
+daily.drag_to_update,Puxe para atualizar
+daily.epic_sunday_ribbon,Desafio Amigável
+daily.finishes_in,O Desafio termina em #time
+daily.finishes_now,O Desafio terminou!
+daily.high_score,Novo recorde de pontuação!
+daily.medal_chest_text,Colete {amount|#amount medalha|#amount medalhas}!
+daily.next_time,O próximo Desafio Diário será em #time
+daily.next_time_now,Um novo Desafio Diário começou!
+daily.no_yesterday_yet,Você não participou do Desafio Diário anterior
+daily.play,Jogar
+daily.retry_submit,Repetir
+daily.rewards_tab,Recompensas do Desafio Diário
+daily.rewards.bubble,"Colete estrelas e medalhas
+para abrir baús com tesouros!"
+daily.score_not_accepted,Este resultado não conta no ranking porque você terminou de jogar depois do fim do Desafio Diário.
+daily.star_chest_claim,Abrir
+daily.star_chest_collected_text,Volte amanhã para receber outro baú
+daily.star_chest_text,Complete sete Desafios Diários seguidos com três estrelas!
+daily.submit_error,Não foi possível enviar os resultados
+daily.today,Desafio Diário
+daily.today_mark,Hoje
+daily.update_error,Sem conexão à Internet
+daily.wait_text,
+daily.watch_replay.button,Assistir
+daily.watch_replay.text,Replay do jogo
+daily.welcome_reward_first,%daily_help.text%
+daily.welcome_text,Oba! Um novo Desafio Diário começou!
+daily.yesterday,Classificação de ontem
+daily.yesterday_updating,Buscando resultados...
+demo.finished.text,"Parabéns, você concluiu a versão de teste! Jogue a versão completa de graça em <p class=""ma-link"">PecPoc.com<p class=""demo-hint"">. Você não vai perder seu progresso"
+demo.nag.text,"A versão completa oferece bônus grátis. Continue jogando em <p class=""ma-link"">PecPoc.com <p class=""demo-hint"">. Você não vai perder seu progresso"
+event_ny.next_in_hint,Obtenha o próximo presente em: #time
+event_ny.title,Presentes de Ano Novo
+fake_ad.reward_in,Recompensa em...
+fake_ad.tutorial,"Não há vídeos disponíveis no momento...
+Mas não se preocupe, ainda temos a Magia do Porquinho!"
+fake_ad.your_ad_here,Seu anúncio aqui
+fb_login_failed.message,Não foi possível conectar ao Facebook. Tentar novamente?
+fb_notification.button,Conectar
+fb_notification.message,Conecte-se ao Facebook para sincronizar seu progresso on-line!
+fb_notification.no_post_hint,Nunca publicaremos nada sem sua autorização.
+fb_notification.title,Salvar progresso
+feedback.failed.button,Continuar
+feedback.failed.message,"Não foi possível enviar sua opinião.
+Verifique a conexão à Internet."
+feedback.failed.title,Opa...
+feedback.ok.button,Ok
+feedback.ok.message,"Recebemos sua opinião.
+Agradecemos pela ajuda."
+feedback.ok.title,Opinião enviada!
+friends_tab.failed_social.button,Verifique
+friends_tab.failed_social.text,Precisamos verificar a conexão para atualizar a lista de amigos.
+friends_tab.has_fb.button,Convidar amigos
+friends_tab.has_fb.text,"Quanto mais amigos você tiver, mais presentes receberá!"
+friends_tab.no_fb.button,Conectar
+friends_tab.no_fb.hint,Nunca publicaremos nada sem sua autorização.
+friends_tab.no_fb.text,"Conecte-se ao Facebook, receba presentes de amigos e siga o progresso deles."
+friends_tab.no_permission.button,Sim.
+friends_tab.no_permission.text,Permitir o acesso à sua lista de amigos para receber mais presentes?
+friends_tab.no_social.text,Conecte-se às redes sociais e receba presentes de amigos e siga o seu progresso.
+friends_tab.no_y8.button,Conectar
+friends_tab.no_y8.text,Conecte-se ao Y8 e receba presentes de amigos e siga o seu progresso.
+friends_tab.ok_invite_button,Convidar amigos
+friends_tab.ok_invite_gift_text,"Quanto mais amigos você tiver, mais presentes receberá!"
+friends_tab.ok_invite_text,"Quanto mais amigos você tiver, mais presentes receberá!"
+friends_tab.title,Amigos
+friends_tab.vk_friends_permission_button,Sim.
+friends_tab.vk_friends_permission_text,Permitir o acesso à sua lista de amigos para receber mais presentes?
+friends_tab.vk_invite_button,Convidar amigos
+friends_tab.vk_invite_text,"Quanto mais amigos você tiver, mais presentes receberá!"
+friends.gift.claim,Abrir
+game_results.click_to_continue,Clique para continuar
+game_results.tap_to_continue,Clique para continuar
+game.click_to_continue,Clique para continuar
+game.info.ahead,VOCÊ ESTÁ {num|#fmtnum JOGADA|#fmtnum JOGADAS} À FRENTE
+game.info.behind,VOCÊ ESTÁ {num|#fmtnum JOGADA|#fmtnum JOGADAS} ATRÁS
+game.info.goals,Objetivo
+game.info.moves,JOGADAS
+game.info.pause,PAUSAR
+game.info.undo,DESFAZER
+game.pause.continue,"<font color=""\#408fda"">Continuar jogo"
+game.pause.leave_forfeit,"<font color=""\#ff0000"">Terminar jogo"
+game.pause.leave_safe,Terminar jogo
+game.pause.title,Pausa
+game.shoutout.their_game_result,Pontuação: #score
+game.shoutout.well_done,Muito bem!
+game.shoutout.your_game_result,Sua pontuação: #score
+game.tap_to_continue,Clique para continuar
+game.tutorial.continue,Continuar
+gamemode.capital.aquarium,PEIXES
+gamemode.capital.bird,PÁSSAROS
+gamemode.capital.bubble,Bolhas
+gamemode.capital.cats,Gatinhos
+gamemode.capital.chocolate,LAVA
+gamemode.capital.diamonds,DIAMANTES
+gamemode.capital.ducks,Patinhos
+gamemode.capital.energy_cube_reciever,Cristais
+gamemode.capital.energycube,GELATINA
+gamemode.capital.fishes,CENOURAS
+gamemode.capital.flower,FLORES
+gamemode.capital.food,BOLOTA
+gamemode.capital.fossils,POLVOS
+gamemode.capital.frog,Sapos
+gamemode.capital.grass,GRAMA
+gamemode.capital.gum,GOO
+gamemode.capital.honeybee,URSOS
+gamemode.capital.hotlava,LAVA
+gamemode.capital.ice,GELO
+gamemode.capital.jam,ENERGIA
+gamemode.capital.jam_reciever,Cristais
+gamemode.capital.pearl,PÉROLAS
+gamemode.capital.road,PORQUINHO
+gamemode.capital.sausage,SALSICHAS
+gamemode.capital.statue,CÃES
+gamemode.capital.stone,PEDRAS
+gamemode.capital.tasks,PEDIDOS
+gamemode.capital.tiles,GRAMA
+gamemode.capital.waterfish,PEIXES
+gamemode.capital.blooplet,BLOOPLETS
+gameresult.adventure.completed_continue,Continuar
+gameresult.adventure.leave,Sair
+gameresult.adventure.play_next,Continuar
+gameresult.adventure.retry,tentar novamente
+gameresult.boosters,Selecionar impulso
+gameresult.complete.line1,Nível
+gameresult.complete.line2,Concluído!
+gameresult.continue,Continuar
+gameresult.daily.continue,Continuar
+gameresult.daily.leave,Sair
+gameresult.daily.retry,Jogar
+gameresult.dash,-
+gameresult.forfeit,Você desistiu!
+gameresult.map.continue,Continuar
+gameresult.map.retry,Repetir
+gameresult.pvp.continue,Continuar
+gameresult.pvp.play_another,Nível diferente
+gameresult.pvp.play_next,Nível diferente
+gameresult.pvp.rematch_lose,Revanche
+gameresult.pvp.rematch_win_draw,Jogar novamente
+gameresult.rematch,Revanche
+gameresult.rematch_bet,#bet bet
+gameresult.required_ticket,Requeridos
+gameresult.retry,Jogar de novo
+gameresult.rewards,Recompensa
+gameresult.title.completed,"<font color=""\#20ea6d""> Nível completo!"
+gameresult.title.draw,"<font color=""\#5885B8"">Empate"
+gameresult.title.lose,"<font color=""\#ff5666"">Você perdeu"
+gameresult.title.win,"<font color=""\#20ea6d"">Você venceu!"
+gameresult.vs,Vs.
+gameresults.inter_ad_in_large,#count joga até
+gameresults.inter_ad_in_small,#count joga até
+gems_shop.title,Loja de Joias
+global.click_to_continue,Clique para continuar
+global.default_player_name,Jogador
+global.tap_to_continue,Toque para continuar
+home.hint_daiy,Jogar o Desafio Diário
+home.hint_play_pvp,Você ainda pode duelar se não tiver mais vidas!
+home.play,Jogar
+html.loading,Carregando
+iap_failed.button,Ok
+iap_failed.message,Compra não bem-sucedida.
+iap_need_facebook.message,Conecte-se ao Facebook para recarregar as Joias.
+iap_pending.button,Ok
+iap_pending.message,O seu pedido está a ser processado.
+intro_screen.another_device,Com código
+intro_screen.login_back,Voltar
+intro_screen.login_button,Entrar
+intro_screen.login_fb,Facebook
+intro_screen.login_ok,Odnoklassniki
+intro_screen.login_singular,Entrar
+intro_screen.login_vk,Vkontakte
+intro_screen.login_with,Entre com
+intro_screen.login_y8,Y8
+intro_screen.login_yandex,Yandex
+intro_screen.new_player,Novo jogador
+introprofile.accept_avatar,Selecionar
+introprofile.accept_name,Continuar
+introprofile.editavatar,Escolha a foto do perfil
+introprofile.editname,Insira seu nome
+invite_request.message,Vamos jogar o melhor jogo de combinar peças juntos!
+invite_request.title,Selecione os amigos para vocês jogarem Skydom juntos
+level_popup.goals,Objetivo
+level_popup.play,Jogar
+level_popup.prelevel_boosters,Selecionar impulso
+level_popup.title,Nível #level
+level_popup.title_hard,Difícil
+level_popup.title_ultra_hard,Super difícil!
+level_popup.title_very_hard,Muito difícil.
+link.support,https://Skydom.freshdesk.com/en/support/solutions
+link.support_beta,https://Skydombeta.freshdesk.com/en/support/solutions
+lives_shop.buy_all,Comprar 5
+lives_shop.hint,"Você precisa de vidas para 
+continuar jogando o modo Aventura"
+lives_shop.recharge,Próxima vida: #time
+lives_shop.title,Vidas
+lives_shop.watch_ad_button,Assistir
+lives_shop.watch_ad_text,1 grátis
+load_player.almost_done,Quase pronto...
+load_player.continue_offline,Continuar Offline
+load_player.loading_save,Carregando dados do jogador...
+load_player.loading_save_failed,Não foi possível carregar os dados do jogador.
+load_player.loading_save_failed_in,"Não foi possível carregar os dados do jogador.
+Tentando novamente em #time..."
+load_player.logging_in,Entrando...
+load_player.logging_in_failed,Não consegui fazer login.
+load_player.logging_in_failed_in,"Não consegui fazer login.
+Tentando novamente em #time..."
+load_player.new_player,Sou um novo jogador.
+load_player.retry_now,Tente Novamente
+login_failed.button,Repetir
+login_failed.title,Erro de conexão
+magic.click_to_continue,Clique para continuar
+magic.reward,Recompensa
+magic.tap_to_continue,Toque para continuar
+map.gates_coming_soon,"Novos níveis
+chegando em breve!"
+match3.level_complete.line1,Todos os objetivos
+match3.level_complete.line2,foram alcançados!
+match3.score_pve,#score / #required
+match3.shoutout.1_move,Última jogada!
+match3.shoutout.2_moves,2 jogadas
+match3.shoutout.5_moves,5 jogadas
+match3.shoutout.no_moves,Acabaram as jogadas
+match3.shoutout.no_reshuffle,"Não é possível embaralhar
+Não há jogadas possíveis"
+merge.button.mine,Escolher
+merge.button.their,Escolher
+merge.description.account_merge,"Parece que você já jogou Skydom.
+Escolha o perfil que você quer usar!"
+merge.description.ingame_conflict,%merge.description.login_conflict%
+merge.description.login_conflict,"Você jogou em diversos dispositivos.
+Escolha o arquivo que você quer manter."
+merge.hint.mine,local
+merge.hint.their,do servidor
+merge.title,Sincronização do progresso
+modal.adblock.button,Ok
+modal.adblock.text,Parece que você está usando um bloqueador de anúncios.<br>Desative-o nesta página para assistir a um vídeo.
+modal.adblock.title,Bloqueador de anúncios
+modal.error.button,Atualizar
+modal.error.text,Ocorreu um erro. Atualize a página.
+modal.error.title,Opa! Algo deu errado...
+modal.fb_login_proxy.button,Continuar
+modal.fb_login_proxy.text,Conectando-se ao Facebook
+modal.fb_login_proxy.title,
+modal.fb_purchase_proxy.button,Continuar
+modal.fb_purchase_proxy.gems,Joias
+modal.first_login_failed.button,Repetir
+modal.first_login_failed.text,Não é possível se conectar ao Skydom no momento. Tente novamente mais tarde.
+modal.first_login_failed.title,Erro de conexão
+modal.gpu_error.button,Mais informações
+modal.gpu_error.text,"Você precisa ativar a aceleração gráfica
+do navegador para executar o jogo."
+modal.gpu_error.title,Hmm..
+modal.maintenance.button,OK.
+modal.maintenance.text,Manutenção será realizada em<br> <b>#time</b><br> por 3 horas.<br>Salvamento na nuvem e sincronização de progresso não funcionarão.
+modal.maintenance.title,Manutenção
+modal.no_hardware_accel_ff.button,Ok
+modal.no_hardware_accel_ff.text,"Seu navegador informa um problema de desempenho, o jogo pode rodar muito lento!
+
+Para consertar, por favor leia <a target=""_blank""  href=""https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features"">https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features</a>"
+modal.no_hardware_accel_ff.title,Problemas de desempenho
+modal.no_hardware_accel.button,Ok
+modal.no_hardware_accel_vk.button,Ok
+modal.no_hardware_accel.text,"Seu navegador relata um problema de desempenho, o jogo pode rodar muito lento!
+
+Para consertar, por favor leia <a target=""_blank""  href=""https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm"">https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm</a>"
+modal.no_hardware_accel_vk.text,"Seu navegador informa sobre um problema de desempenho, o jogo pode rodar muito lento!
+
+Para corrigir, por favor leia <a target=""_blank"" href=""https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery"">https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery</a>"
+modal.no_hardware_accel.title,Problemas de desempenho
+modal.no_hardware_accel_vk.title,Problemas de desempenho
+modal.nolocalstorage.button,OK
+modal.nolocalstorage.text,"Parece que o seu navegador não nos permite salvar o seu jogo. Isso pode ser causado por usar o modo anônimo no seu navegador.
+<p>
+Por favor, faça login para evitar perder o seu progresso!"
+modal.nolocalstorage.title,Modo Incógnito
+modal.oom.button,Mais informações
+modal.oom.text,Parece que não há memória disponível.
+modal.oom.title,Hmm..
+modal.out_of_sync.button,Atualizar
+modal.out_of_sync.text,Parece que o Skydom está aberto em várias janelas do navegador.<br>Atualize para continuar jogando nesta janela.
+modal.out_of_sync.title,O Skydom está aberto em várias janelas?
+modal.vk_inapp_not_allowed.button,Ir
+modal.vk_inapp_not_allowed.text,"As compras estão disponíveis apenas em <a href=""https://m.vk.com/app7409298"" target=""_blank"">m.vk.com</a>"
+modal.vk_inapp_not_allowed.title,
+modal.wasm.button,Mais informações
+modal.wasm.text,Parece que seu navegador não é compatível com WebAssembly
+modal.wasm.title,Hmm..
+modal.webgl.button,Mais informações
+modal.webgl.text,Parece que seu navegador não é compatível com WebGL
+modal.webgl.title,Hmm..
+modal.yandexsdk.text,"O SDK do Yandex não carregou corretamente.
+
+Tentar novamente?"
+modal.yandexsdk.title,Oops
+modal.yandexsdk.button,OK
+name_already_changed.button,Ok
+name_already_changed.message,O nome já foi mudado. Você só pode mudar UMA VEZ.
+networks.hint,"Encorajamos-te a ligar-te às redes sociais!
+ - Não percas o teu progresso ao guardá-lo na nuvem
+ - Joga com amigos e recebe presentes
+ - Não publicamos sem a tua permissão"
+nickname.default,Nome
+nickname.default_friend,Coelhinho
+nickname.trainer,Treinador #nickname
+nickname.tutorial_001,Treinadora Anna
+nickname.tutorial_002,Treinador Jonny
+nickname.tutorial_003,Treinadora Polly
+nickname.you,Você
+notification.daily_lead_1,👑 #Name está na liderança do Desafio Diário! Quer recuperar o primeiro lugar?
+notification.daily_lead_2,👑 #Name está na liderança do Desafio Diário!
+notification.daily_lead_3,👑 O Desafio Diário de hoje está disputado! #Name está na liderança.
+notification.daily_lead_4,👑 #Name está na liderança do Desafio. Quer recuperá-la?
+notification.daily_lead_5,👑 Parece que #Name acabou de passar você no Desafio Diário.
+notification.daily_lead.meta,"@{""variants"":5}"
+notification.reminder_1,😏 Novos oponentes estão esperando pelo jogador mais promissor! 😎
+notification.reminder_10,Quem será o vencedor do Desafio Diário hoje?
+notification.reminder_11,🙄 Quase esquecemos como todos foram esmagados por #PlayerName!
+notification.reminder_12,"💆 Que dia legal para jogar Skydom, não é? 💪"
+notification.reminder_13,🙈😬 Há um par de caras aqui sonhando em te superar. Acham que têm uma chance?
+notification.reminder_14,🐰 Coelho tem um presente para você! 🎁
+notification.reminder_15,"😎 #PlayerName, é hora de ganhar de novo! 🕹"
+notification.reminder_16,É hora de dar uma pausa e ir em busca de vitórias 🤗
+notification.reminder_17,🌟🌟🌟 Níveis não se completam sozinhos! Vamos jogar? 🥇😉
+notification.reminder_18,"#PlayerName, alguém quer te derrotar. Acha que vão conseguir? 😬😬😬"
+notification.reminder_19,👋 É hora de relaxar e ganhar algumas vezes? 🤔
+notification.reminder_2,Ainda nem todos perderam para #PlayerName! Dê-lhes uma chance?
+notification.reminder_20,🦄 Já conheceste o nosso Unicórnio Arco-íris?
+notification.reminder_3,Magia do Porquinho te espera! 🐽
+notification.reminder_4,🙈 Não vi o melhor jogador de Match3 há um tempo! Ele ainda está por aqui? 👀
+notification.reminder_5,Já ganhaste hoje? 🏆
+notification.reminder_6,❤️❤️❤️❤️❤️ Todas as vidas recarregadas! É hora de vencer!
+notification.reminder_7,🖐🎟 5 tokens estão esperando para serem gastos!
+notification.reminder_8,🐰😍 Coelho tem um presente para você! 🎁
+notification.reminder_9,👑💎 O Desafio Diário começou! Quem vai ganhar a coroa e uma pilha de gemas?
+ny.button_claim,Abra o presente.
+ny.button_next_in,Presente em: #time
+ok_login_failed.message,Não consegui conectar ao Odnoklassniki. Tentar de novo?
+ok.share_tick,Compartilhar
+out_of_moves.continue_buy_moves,Jogar por #price
+out_of_moves.continue_watch,Assistir
+out_of_moves.give_up,Desistir
+out_of_moves.press_to_view,"Toque aqui 
+para ver a classificação"
+out_of_moves.title.almost_there,Quase...
+out_of_moves.title.regular,Acabaram os movimentos
+outofgems.button,Loja
+outofgems.message,Acabaram as Joias... visite a Loja para comprar mais!
+outofgems.title,Não há Joias suficientes
+page.loading.hint_1,Carregando...
+page.loading.hint_2,Renderizando efeitos💎💎💎
+page.loading.hint_3,"Não se preocupa, não travou! 😜"
+page.loading.hint_4,🚀 O jogo será carregado em breve! 🚀
+page.loading.hint_5,O primeiro carregamento demora um pouco mais👌
+page.loading.hint_6,🔥 quase lá…👾
+page.loading.hint_7,Só mais um pouquinho 😊
+placeholder.hint_daily,Conclua 10 níveis para desbloquear!
+placeholder.timestring,12h 34min 56seg
+placeholder.title_daily,"Desafio diário
+Bloqueado"
+popup_name.accept_name,Continuar
+popup_name.not_now,Agora não
+prelevel_text.002,"Combine mais <font color=""\#ff5503"">peças amarelas</font> que seu oponente!"
+prelevel_text.004,"Combine mais <font color=""\#ff8800"">cenouras</font> que seu oponente!"
+prelevel_text.006,"Combine mais <font color=""\#4499ff"">gelo</font> que seu oponente!"
+promo_reforged.button,Reivindicar
+promo_reforged.text,"Uau! Lançamos um novo mod de jogo - Skydom Reforged! Para celebrar o lançamento, oferecemos um pacote Mega Booster de graça! Pegar agora?"
+promo_reforged.title,Skydom Reforjado!
+rate_us.description,Você gosta do Skydom?
+rate_us.feedback.cancel,Agora não
+rate_us.feedback.description,Insira seu e-mail se quiser receber uma resposta.
+rate_us.feedback.email_hint,E-mail
+rate_us.feedback.message_hint,Como podemos melhorar o jogo?
+rate_us.feedback.submit,Enviar
+rate_us.star_1,Odiei
+rate_us.star_2,Não gostei
+rate_us.star_3,Bom
+rate_us.star_4,Gostei
+rate_us.star_5,Amei
+rate_us.submit,Enviar
+rate_us.write_review.cancel,Agora não
+rate_us.write_review.google_play,Compartilhe suas opiniões sobre o jogo ou avalie-o no Google Play!
+rate_us.write_review.submit,É claro!
+rate_us.write_review.yandex,Compartilhe suas opiniões sobre o jogo ou avalie-o no Yandex Games!
+rematch_pvp.asks_for_rematch_draw,#name quer outra tentativa
+rematch_pvp.asks_for_rematch_player_lose,#name oferece uma revanche!
+rematch_pvp.asks_for_rematch_player_won,#name quer uma revanche!
+reward.coins,{amount|Moeda|Moedas}
+reward.gems,{amount|Joia|Joias}
+reward.lives,{amount|Vida|Vidas}
+reward.prelevel.add_bomb,Impulso Bomba
+reward.prelevel.add_line,Impulso Linha
+reward.prelevel.add_omni,Impulso Relâmpago
+reward.prelevel.add_tint,Impulso Tinta
+reward.prelevel.double_fly,Impulso Vaga-lume x2
+reward.tickets,{amount|Ficha|Fichas}
+reward.undo,{amount|Desfazer|Desfazer}
+search.cannot_connect,Sem conexão à Internet
+search.failed,Opa! Algo deu errado...
+search.loading,Carregando...
+search.playing_with_trainer,Jogando com um treinador
+search.readying,Adversário encontrado!
+search.readying_rematch,Preparar!
+search.rejected,O adversário fugiu
+search.searching,Procurando adversário...
+search.vs,Vs.
+search.waiting_opp,Aguardando adversário...
+settings.change_avatar,Mudar foto do perfil
+settings.change_avatar.connect_fb,Conectar
+settings.change_avatar.continue,Continuar
+settings.change_avatar.title,Escolha a nova foto do perfil
+settings.change_avatar.warning,"Atenção: 
+- Você só pode mudar a foto de perfil UMA VEZ
+- Conecte-se ao Facebook para usar sua foto de perfil"
+settings.change_avatar.warning_no_fb,"Atenção, você só pode mudar sua foto do perfil UMA VEZ"
+settings.change_name,Mudar nome
+settings.change_name.accept_name,Continuar
+settings.change_name.do_not_match,Os nomes não são iguais. Tente novamente.
+settings.change_name.edit,Insira o novo nome:
+settings.change_name.reenter,Insira seu novo nome novamente:
+settings.change_name.same_name,O novo nome é igual ao atual
+settings.change_name.too_long,O nome é longo demais. O limite é 15 caracteres
+settings.change_name.too_short,O nome é curto demais =)
+settings.change_name.warning,"Atenção, você só pode mudar seu nome UMA VEZ"
+settings.confirm_avatar.cancel,Cancelar
+settings.confirm_avatar.change,Mudar
+settings.confirm_avatar.title,"Tem certeza que deseja mudar
+a foto do perfil?
+A nova foto do perfil:"
+settings.confirm_avatar.warning,"Atenção: você só pode mudar sua
+foto do perfil UMA VEZ"
+settings.confirm_name.cancel,Cancelar
+settings.confirm_name.change,Confirmar
+settings.confirm_name.title,Tem certeza que deseja mudar seu nome? O novo nome será:
+settings.confirm_name.warning,"Atenção, você só pode mudar seu nome UMA VEZ"
+settings.connect_fb,Conectar ao Facebook
+settings.connect_ok,Conecte-se ao Odnoklassniki
+settings.connect_vk,Conecte VK
+settings.connect_y8,Conecte Y8
+settings.connect_yandex,Conecte o Yandex.
+settings.connected_fb,Facebook
+settings.connected_ok,Odnoklassniki
+settings.connected_vk,VK
+settings.connected_y8,Y8
+settings.connected_yandex,Yandex
+settings.coupon,Código promocional
+settings.coupon_title,Código promocional
+settings.coupon.enter,Aplicar
+settings.coupon.enter_hint,Insira o código promocional
+settings.coupon.invalid_code,"<font color=""\#e90047"">Código inválido. Use outro código."
+settings.coupon.missing_code,"<font color=""\#e90047"">Insira o código promocional"
+settings.coupon.ok,Resgate de código concluído!
+settings.credits,Créditos
+settings.eula,Termos de Serviço
+settings.fb_hint,Conecte-se ao Facebook para jogar com amigos e sincronizar seu progresso
+settings.general,GERAIS
+settings.generate_key,Criar código
+settings.invite_friends,Convidar amigos
+settings.language,Idioma
+settings.language_header,ESCOLHER IDIOMA
+settings.move_hints,Dicas
+settings.music,Música
+settings.networks,Conexões
+settings.networks_hint,Conecte redes sociais para jogar com amigos e sincronize seu progresso!
+settings.notifications,Notificações
+settings.notifications.daily,Desafio Diário
+settings.notifications.disable_all,Desabilitar todas
+settings.notifications.disable_night,Desativar entre 23h e 8h
+settings.notifications.gifts,Brindes
+settings.notifications.others,Outros lembretes
+settings.open_support,Suporte ao jogador
+settings.open_vk_group,Grupo de Jogos
+settings.player_id,Copiar código do jogador
+settings.policy,Política de Privacidade
+settings.rate_us,Avalie o aplicativo
+settings.report_problem,Relatar um problema
+settings.sound,Som
+settings.support,SUPORTE
+settings.telegram_channel,Siga nosso canal no Telegram
+settings.telegram_channel_hint,Todas as notícias sobre Skydom
+settings.telegram_support,Chat no Telegram
+settings.title,Configurações
+settings.update,Atualizar
+settings.y8_hint,Conecte-se ao Y8 para sincronizar seu progresso online!
+settings.yandex_hint,Conecte-se ao Yandex para sincronizar seu progresso online!
+shop.gems_restored.accept,Excelente!
+shop.gems_restored.title,Compra de Joias concluída
+shop.not_available,Indisponível
+shop.remove_ads_remain_time,Anúncios removidos por #tempo
+shop.remove_ads_text,"Faça uma compra para
+remover os anúncios entre os níveis"
+shop.remove_ads_timed,"Remova anúncios entre níveis
+com qualquer compra por um mês"
+social_notification.button,Conectar
+social_notification.message,Conecte-se a uma rede social para sincronizar seu progresso online!
+social_notification.no_post_hint,Nunca publicaremos nada sem sua autorização.
+social_notification.title,Salvar progresso
+social_share.button,Compartilhar
+social_share.chooser_hint,Compartilhar em
+social_share.message,Ei! Enfrente outros jogadores neste jogo exclusivo de combinar peças! Visite https://PecPoc.com
+social_share.subject,Confira um novo e divertidíssimo jogo: Skydom
+social_share.title,"Compartilhe o jogo com outras pessoas!
+É mais divertido jogar com amigos!"
+tempkey_login.button,Continuar
+tempkey_login.empty_key,Não inseriu nenhum código.
+tempkey_login.input.default_hint,Digite o código
+tempkey_login.invalid_key,Código errado
+tempkey_login.message_top,"Continue jogando aqui - pegue o código onde você jogou antes nas Configurações, sob ""Criar código""."
+tempkey_login.no_connection,Não foi possível conectar
+tempkey.fail.button,OK.
+tempkey.fail.message,Verifique sua conexão à internet ou tente mais tarde.
+tempkey.fail.title,Não foi possível criar o código
+tempkey.ok.copied,Copiado!
+tempkey.ok.copy,Copiar
+tempkey.ok.hint,O código expira após 4 horas.
+tempkey.ok.message,#tempkey
+tempkey.ok.title,Seu código:
+tickets_shop.boost_text,Velocidade de recarga x2
+tickets_shop.buy_all,Comprar #amount
+tickets_shop.hint,Você precisa de Fichas para jogar o desafio diário
+tickets_shop.hint_out_of,"<font color=""\#e90047"">Sem Fichas da Sorte</font>"
+tickets_shop.recharge,Nova ficha em: #time
+tickets_shop.title,Fichas
+tickets_shop.watch_ad_button,Assistir
+tickets_shop.watch_ad_text,Obter 1 grátis
+time.days_hours,"#days<font size=""-15""> </font><font size=""-10"">d</font> #hours<font size=""-15""> </font><font size=""-10"">h</font>"
+time.hours,"#hours<font size=""-15""> </font><font size=""-10"">h</font>"
+time.hours_minutes,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #minutes<font size=""-15""> </font><font size=""-10"">min</font>"
+time.hours_minutes_seconds,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #minutes<font size=""-15""> </font><font size=""-10"">min</font> #seconds<font size=""-15""> </font><font size=""-10"">seg</font>"
+time.hours_seconds,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #seconds<font size=""-15""> </font><font size=""-10"">seg</font>"
+time.less_than_minute,"1<font size=""-15""> </font><font size=""-10"">min</font>"
+time.minutes,"#minutes<font size=""-15""> </font><font size=""-10"">min</font>"
+time.minutes_seconds,"#minutes<font size=""-15""> </font><font size=""-10"">m</font> #seconds<font size=""-15""> </font><font size=""-10"">seg</font>"
+time.seconds,"#seconds<font size=""-15""> </font><font size=""-10"">seg</font>"
+tutorial_home.play,Jogar
+tutorial.001.dialog_tutorial,"Combine <font color=""\#5885b8"">três peças da mesma cor</font> para removê-las"
+tutorial.001.hint,"Objetivo
+Combine 12 peças verdes!"
+tutorial.001.turn_1,Troque as peças adjacentes para combinar três da mesma cor
+tutorial.002.hint,Combine mais peças amarelas do que seu oponente!
+tutorial.skip,Pular
+undo_shop.buy_undos,Obter #count por
+undo_shop.hint,Desfaz sua última jogada
+undo_shop.recharge,"Próximo ""Desfazer"" em: #time"
+undo_shop.title,Desfazer
+undo_shop.watch_ad_button,Assistir
+undo_shop.watch_ad_text,Obter 1 grátis
+undo_shop.you_have,Você tem {amount|#amount Desfazer|#amount desfazer|#amount Desfazer}
+update.button,Atualizar
+update.new_version,Atualize para a versão mais recente!
+update.new_version_value,"<font color=""\#5885b8"">#version"
+update.old_version,Você está utilizando uma versão antiga
+update.old_version_value,"<font color=""\#a5a7aa"">#version"
+update.text,"Você está usando uma versão antiga.
+Por favor, atualize para a versão mais recente!"
+update.title,Uma nova versão está disponível!
+update.web.button,Atualizar
+update.web.message,Atualize a página.
+update.web.title,Uma nova versão está disponível!
+vk_login_failed.message,Não consegui conectar ao VK. Tentar de novo?
+vk_promo.title,Presente do VK!
+vk.share_tick,Compartilhar
+watch_for_gems.button,Assistir
+watch_for_gems.text,+#amount
+web.webg_context_lost,"Contexto WebGL perdido, restaurando..."
+welcome_bonus.speech_1,"Olá, #PlayerName!
+Tenho alguns presentes para você.
+Escolha um deles!"
+welcome_bonus.speech_2,"Os pensamentos estão se materializando... Ohmmm!
+Eu pensei em alguns presentes e veja o que aconteceu =)"
+welcome_bonus.speech_3,"Encontrei dois baús
+na sua ausência! Abra um deles!"
+welcome_bonus.speech_4,"Que bom que você voltou, #PlayerName!
+Veja o que caiu
+do céu!"
+welcome_bonus.speech_5,"Algumas cegonhas passaram por aqui...
+E não trouxeram apenas crianças!"
+welcome_bonus.speech_6,"Que bom que você voltou, #PlayerName!
+Escolha um baú!"
+welcome_bonus.speech_7,"Que saudades, #PlayerName! Preparei um pequeno presente para você!"
+welcome_bonus.speech_8,"Coisas estranhas acontecem. Parei, pensei,
+e 2 baús apareceram do nada!"
+welcome_pack.open,Abrir
+welcome_pack.play,Jogar
+welcome_pack.speech_1,"Muito tempo sem ver, #PlayerName! Eu tenho um presente para você!"
+welcome_pack.speech_2,"Oh, #PlayerName, eu senti sua falta! Vamos abrir o presente e jogar!"
+welcome_pack.speech_3,"#PlayerName, bom ver você novamente! Apresse -se e abra o peito."
+welcome_pack.speech_gift,"#PlayerName, temos um presente especial para você =) Abra -o rápido!"
+welcome_pack.speech_reforged,"#PlayerName, temos um presente especial para você =) Abra-o rápido!"
+y8_login_failed.message,Não consegui conectar ao Y8. Tentar de novo?
+yandex_login_failed.message,Não foi possível conectar ao Yandex. Tente novamente?
+yandex_notification.button,Conectar
+yandex_notification.message,Ligue para o Yandex para sincronizar o seu progresso online!
+yandex_notification.title,Salvar seu progresso
+gamemode.capital.leaf,FOLHAS
+yandex_login_has_attachment.message,Outro perfil Yandex foi vinculado a este perfil de jogo.
+fb_login_has_attachment.message,Outro perfil do Facebook foi vinculado a este perfil de jogo.
+ok_login_has_attachment.message,Outro perfil OK foi vinculado a este perfil de jogo.
+vk_login_has_attachment.message,Outro perfil do VK foi vinculado a este perfil de jogo.
+y8_login_has_attachment.message,Outro perfil Y8 foi vinculado a este perfil de jogo.
+android_app.text.beta,Queridos amigos! Estamos felizes de informar que lançamos testes Beta do nosso jogo no Android. Todos são bem vindos!
+bookmark.play,Casa
+bookmark.quest,Quests
+chest_opening.bronze,Bronze
+chest_opening.continue,Fácil
+chest_opening.division,Divisão III
+chest_opening.golden,Ouro
+chest_opening.silver,Prata
+chest_opening.togoldenleague,"você pode conseguir
+a Liga de Ouro?"
+chest_opening.welcome,"Bem-vindo ao Ligas
+de Jogo Arena!"
+chest_opening.yourebronze,"você alcançado
+Bronze liga III"
+chest.open,Abrir
+chest.opens_now,Brilhante! O peito é seu para abrir!
+chest.wins_left_1,mais uma vitória!
+chest.wins_left_2,Apenas 2 vitórias e é seu!
+chest.wins_left_3,Bem feito! mais 3 vitórias!
+chest.wins_left_4,4 ganha para abrir
+chest.wins_to_open,#num ganha para abrir
+forge_help.block_1,Ganhar duelos para ganhar moedas
+forge_help.block_2,Use moedas para começar Forges e obter barras de ouro
+forge_help.block_3,Recolha barras de ouro para subir as ligas
+forge_help.block_4,Quanto maior for a liga quanto maior o desafio
+forge_help.continue,Consegui
+forge_help.title,Ligas e Forges
+forge.add,Adicionar
+forge.boost,Impulso
+forge.boost_free,"Vamos acelerar esta Forja!
+Primeira vez é de graça!"
+forge.boost_free_ok,Impulsionar
+forge.buy_1,bronze Forge
+forge.buy_2,prata Forge
+forge.buy_3,ouro Forge
+forge.buy_4,rubi Forge
+forge.buy_now,Adicionar
+forge.cheat_boost,ENGANAÇÃO? ENGANAÇÃO!
+forge.name_1,bronze Forge
+forge.name_2,prata Forge
+forge.name_3,ouro Forge
+forge.name_4,rubi Forge
+forge.not_enough_coins,Nem moedas suficientes para iniciar
+forge.ok,Está bem
+forge.open,Abrir
+forge.open_now,Abra agora
+forge.other_in_progress,Outra Forge ainda está em andamento!
+forge.popup_boost,Aumentar a -30 min
+forge.popup_boost_speedup,Aumentar a -15 min
+forge.progress,#bars em: #time
+forge.speedup_no,Não
+forge.speedup_offer,"<font color=""\#5885b8""> Aumento </font> a velocidade do Forge <font color=""\#5885b8""> por 2x? </font>"
+forge.speedup_ok,Está bem
+forge.speedup_success,Forge foi impulsionado!
+forge.speedup_yes,sim
+forge.start,Começar
+forge.time_1,3 horas
+forge.time_2,6 horas
+forge.time_3,12 horas
+forge.time_4,24 horas
+forge.tutorial.collect_coins,Ganhe moedas 1000 para iniciar o Forge
+forge.tutorial.open_now,"Excelente! Fusão é completa!
+Nós podemos abrir o Forge!"
+forge.tutorial.smelt_more,Continuar a criar barras de ouro para chegar à próxima divisão
+forge.tutorial.start_forge,"Bem feito, você ganhou 1000 moedas!
+Agora podemos começar a Forge!"
+forge.tutorial.wait_ready,"Ganhar mais moedas, enquanto o seu Forge é trabalhar"
+forge.watch_ad,Ver
+gamemode.chocolate,Lava
+gamemode.diamonds,diamantes
+gamemode.energycube,Geléia
+gamemode.fishes,Cenouras
+gamemode.food,bolotas
+gamemode.fossils,polvos
+gamemode.grass,Grama
+gamemode.honeybee,Bears
+gamemode.ice,Gelo
+gamemode.jam,Energia
+gamemode.road,porquinho
+gamemode.stone,pedras
+gamemode.tasks,ordens
+gamemode.tiles,Grama
+home.bars_need_more,Você precisa #more
+home.bars_progress,#current / #total
+home.bet,moedas apostadas #count
+home.coins,#count
+home.gems,#count
+home.hint_quest_book,Novas quests disponíveis!
+home.hint_quest_book.claim,Yay! Alguém vai ser recompensado!
+home.hint_quest_book.new,Uau! New quest!
+home.league_indev,Em seguida liga em breve!
+home.rematch.asks_for_rematch_draw,#name quer outra chance
+home.rematch.asks_for_rematch_player_lose,#name oferece revanche
+home.rematch.asks_for_rematch_player_won,#name pede revanche!
+home.xp,#count
+ingame_booster_shop.buy,Obter #count para
+ingame_booster_shop.hint.cross,Use a varinha mágica para remover uma linha e uma coluna de peças
+ingame_booster_shop.hint.hammer,Remover azulejos smasning-los com o martelo!
+ingame_booster_shop.hint.hand,Use luvas para trocar quaisquer peças adjacentes
+ingame_booster_shop.title.cross,Varinha mágica
+ingame_booster_shop.title.hammer,Martelo
+ingame_booster_shop.title.hand,Luva
+league.Bronze,bronze League
+league.div_1,I divisão
+league.div_2,divisão II
+league.div_3,divisão III
+league.div_4,divisão IV
+league.div_5,divisão V
+league.E001,Bronze III
+league.E002,Bronze II
+league.E003,Bronze I
+league.E004,Prata IV
+league.E005,Prata III
+league.E006,Prata II
+league.E007,Prata I
+league.E008,Ouro V
+league.E009,Ouro IV
+league.E010,Ouro III
+league.E011,Ouro II
+league.E012,Ouro I
+league.E013,Platina V
+league.E014,Platina IV
+league.E015,Platina III
+league.E016,Platina II
+league.E017,Platina I
+league.E018,Mestre 1
+league.Gold,Liga Dourada
+league.Master,Liga Mestre
+league.MasterN,Mestre #div
+league.GrandMaster,Mestre-Gran
+league.GrandMasterN,Grande Mestre #div
+league.Platinum,Liga Platina
+league.Silver,Liga Prata
+levelup.continue,Impressionante!
+levelup.reward,Recompensa
+levelup.title_division,"Parabéns!
+Nova divisão!"
+levelup.title_league,"Parabéns!!
+Nova liga!"
+ma2transfer.install,Instalar
+ma2transfer.message,"O Match Arena foi para o novo App!
+
+Importante! Use o código abaixo para transferir seu progresso."
+nickname.tutorial_004,Sensei Michael
+nickname.tutorial_005,Professor Frank
+nickname.tutorial_006,Rainha Matcha
+nickname.tutorial_007,professor Leo
+nickname.tutorial_008,treinador Carl
+nickname.tutorial_009,tutor Beardy
+nickname.tutorial_010,guru Vicky
+placeholder.hint_friends,"Desafie seus amigos
+e mostrar que você é capaz!"
+placeholder.hint_quests,"Alcançar o Bronze Liga I
+descobrir!"
+placeholder.hint_settings,estará pronto em breve :)
+placeholder.title_friends,"Jogar com amigos
+em breve"
+placeholder.title_quests,missões impressionantes
+placeholder.title_settings,Configurações em construção
+quest_help.block_1,Complete as missões para receber recompensas!
+quest_help.block_2,Complete todas as Quests para abrir o baú.
+quest_help.block_3,"Complete todas as Quests antes da próxima Divisão, senão você vai perder o baú!"
+quest_help.continue,Consegui
+quest_help.title,busca Livro
+quest.aquarium,Colete #amount peixes
+quest.bar,#progress de #amount
+quest.bar_completed,Missão completa!
+quest.bar_last_try,tentativa anterior: #progress de #amount
+quest.bar_special_not_tried,#progress de #amount
+quest.best_so_far,Melhor resultado: #progress
+quest.butterfly,Colete #amount borboletas
+quest.buy_now,Obter agora #amount
+quest.cat,Colete #amount Gatinhos
+quest.chip_destroy,Recolhe #amount de quaisquer peças
+quest.chip_destroy_bird,Colete #amount pássaros
+quest.chip_destroy_blue,Recolhe #amount peças azuis
+quest.chip_destroy_diamond,Colete #amount diamantes
+quest.chip_destroy_fish,Recolhe #amount Cenouras
+quest.chip_destroy_fish_blue,Recolhe #amount Cenouras azul
+quest.chip_destroy_fish_green,Colete #amount Cenouras verdes.
+quest.chip_destroy_fish_orange,Colete #amount cenouras laranjas
+quest.chip_destroy_fish_purple,Recolhe #amount Cenouras roxo
+quest.chip_destroy_fish_red,Colete #amount Cenouras vermelhas
+quest.chip_destroy_fish_yellow,Colete #amount cenouras amarelas.
+quest.chip_destroy_food,Retirar #amount bolotas
+quest.chip_destroy_frog,Colete #amount Rãs
+quest.chip_destroy_green,Colete #amount peças verdes
+quest.chip_destroy_orange,Recolhe #amount pedaços de laranja
+quest.chip_destroy_purple,Recolhe #amount pedaços roxo
+quest.chip_destroy_red,Recolhe #amount partes vermelhas
+quest.chip_destroy_snail,Colete #amount caracóis
+quest.chip_destroy_super,Colete #amount peças super
+quest.chip_destroy_wafer,Colete #amount minérios de ouro
+quest.chip_destroy_with_bomb,Colete #amount peças usando bomba
+quest.chip_destroy_with_line,Colete #amount peças com bônus de linha!
+quest.chip_destroy_with_mine,Colete #amount peças com bônus de Vespa Luminosa
+quest.chip_destroy_with_omni,Colete #amount peças com relâmpago bônus
+quest.chip_destroy_yellow,Recolhe #amount pedaços amarelo
+quest.chip_destroy_waterfish,Colete #amount peixes de água
+quest.chip_recolor,Recolorindo #amount peças com bônus de pintura
+quest.claim,Recompensa reivindicação
+quest.complete_chest,Todas as missões completas.
+quest.cover_destroy_bee,Recolhe #amount ursos
+quest.cover_destroy_bound,Desbloquear #amount peças
+quest.cover_destroy_chocolate,Retirar #amount peças com Lava
+quest.cover_destroy_fizzblue,Colete #amount fizz
+quest.cover_destroy_fizzpurple,Colete #amount fizz
+quest.cover_destroy_frozen,Remova o Frost de #amount peças
+quest.cover_destroy_honey,Limpar #amount azulejos com mel
+quest.cover_destroy_hotlava,Remova #amount peças de Lava Quente
+quest.cover_destroy_receiver_energycube,Colete #amount cristais de gelatina
+quest.cover_destroy_receiver_jam,Colete #amount cristais de energia
+quest.cover_destroy_statue,Colete #amount cães
+quest.cover_destroy_stone,Retirar #amount peças de pedra
+quest.cover_destroy_leaf,Limpe #amount folhas
+quest.division_done_card,Novas missões em próxima divisão!
+quest.duck,Colete #amount patos
+quest.energy_flow,Puxe energia através de #amount telhas
+quest.energycube_flow,Encha #amount azulejos com Jelly
+quest.fossil,Recolhe #amount Octopuses
+quest.gum,Colete #amount pedaços de goma
+quest.new_quest,New quest!
+quest.new_quest_in,Próxima quest em:
+quest.on_arena_splash_score,Pontuação #amount em Arena Crescimento!
+quest.on_arena_splash_use_bonus,Salve #amount bônus para Arena Boom!
+quest.plate_destroy,Retirar #amount separações
+quest.play,Toque
+quest.pvp_score,Pontue #amount em duelos
+quest.reward,Recompensa:
+quest.snakes,Colete #amount Zmêek
+quest.tile_destroy_gold,Colete #amount azulejos com grama
+quest.tile_destroy_grass,Colete #amount azulejos com grama
+quest.title,busca Livro
+quest.use_bonus,Use #amount bônus
+quest.use_bonus_bomb,Use #amount bônus bomba
+quest.use_bonus_line,Use #amount bônus de linha
+quest.use_bonus_mine,Use #amount bônus Firefly
+quest.use_bonus_omni,Use bônus raios #amount vezes
+quest.use_bonus_tint,Use #amount bônus Pinte
+quest.use_combo_bomb_bomb,Fazer combo-bônus bomba + Bomba #amount vezes
+quest.use_combo_bomb_omni,Faça o bônus combo Relâmpago + Bomba #amount vezes
+quest.use_combo_bomb_tint,Faça o bônus combo Pintar+Bomba #amount vezes.
+quest.use_combo_line_bomb,Fazer combo-bônus bomba + Linha #amount vezes
+quest.use_combo_line_line,Faça + Line combo bônus #amount vezes
+quest.use_combo_line_omni,Fazer combo-bônus relâmpago + Linha #amount vezes
+quest.use_combo_line_tint,Fazer combo-bônus de pintura + Linha #amount vezes
+quest.use_combo_mine_bomb,Fazer combo-bônus Firefly + Bomba #amount vezes
+quest.use_combo_mine_line,Fazer combo-bônus Firefly + Linha #amount vezes
+quest.use_combo_mine_mine,Fazer combo-bônus Firefly + Firefly #amount vezes
+quest.use_combo_mine_omni,Fazer combo-bônus relâmpago + Firefly #amount vezes
+quest.use_combo_mine_tint,Faça o bônus combo Pintura+Vaga-lume #amount vezes
+quest.use_combo_omni_omni,Fazer combo-bônus relâmpago + relâmpago #amount vezes
+quest.use_combo_omni_tint,Fazer combo-bônus de pintura + Raio #amount vezes
+quest.use_combo_tint_tint,Faça o bônus de combo Pintura+Pintura #amount vezes.
+quest.walk,Caminhe Piggy #amount passos
+quest.watch_for_new,- #time
+quest.win,Ganhar #amount duelos
+quest.win_coins,Ganhar #amount moedas em duelos
+quest.win_hard_level,nível duro completa
+quest.win_rematch,Ganhar #amount rematches
+quest.win_streak,Ganhar #amount duelos seguidos
+quest.chip_destroy_clam,Colete #amount Pérolas
+quest.chip_destroy_egg,Colete #amount ovos
+quest.gardenflower,Colete #amount Flores
+quest.sausages,Colete #amount salsichas
+rematch.asks_for_rematch_draw,"#name quer outra chance
+#bet bet"
+rematch.asks_for_rematch_player_lose,"#name oferece uma revanche
+#bet bet"
+rematch.asks_for_rematch_player_won,"#name quer uma revanche!
+#bet bet"
+rematch.rematch_bet,#bet bet
+report.body,
+report.subject,Emissão com MatchArena
+reward.bars,Barras de ouro
+reward.coins_amt,+#amount
+reward.gems_amt,+#amount
+reward.levels,novos níveis
+reward.levels_amt,+#amount
+reward.levelup,"Parabéns!
+Novo nível!"
+reward.new_levels,"Novo
+níveis!"
+reward.talisman,talismãs
+reward.xp_amt,+#amount
+search.prize_fund,Prêmio em dinheiro
+settings.friends_and_partners,Amigos e Parceiros
+settings.language.help_us_translate,"Quer nos ajudar a traduzir Jogo Arena para os idiomas que você fala? Deixe-nos cair uma linha em <font color=""\#0000EE""> support@matcharenagame.com."
+settings.notifications.duels,Desafio para duelos
+shop.indev,Em breve!
+splash.hint_chocolate,Remover o máximo Lava que puder
+splash.hint_diamonds,Recolher o maior número possível de diamantes
+splash.hint_energycube,"Preencha como muitos azulejos, como você pode com Jelly"
+splash.hint_fishes,Coletar tantas cenouras que puder
+splash.hint_food,Remover o máximo bolotas como você pode
+splash.hint_fossils,Salvar como muitos polvos que puder
+splash.hint_honeybee,Recolher o máximo de ursos que puder
+splash.hint_ice,Remover o máximo de gelo como você pode
+splash.hint_jam,Preencha como muitos azulejos como possível com Energia
+splash.hint_road,Caminhe Piggy na medida do possível
+splash.hint_stone,Remover o máximo Pedras que puder
+splash.hint_tasks,Completar tantas ordens como você pode
+splash.hint_tiles,Recolher o máximo de grama quanto possível
+splash.mode_chocolate,Goal - Lava
+splash.mode_diamonds,Goal - diamantes
+splash.mode_fishes,Objetivo - Cenouras
+splash.mode_food,Goal - bolotas
+splash.mode_jam,Goal - Energia
+splash.mode_road,Goal - Piggy
+splash.mode_tasks,Goal - Ordens
+splash.mode_tiles,Goal - Grama
+talismans_shop.ask_button,Facebook
+talismans_shop.ask_text,Pergunte para amigos
+talismans_shop.boost_text,velocidade de recarga x2
+talismans_shop.buy_all,Obter #amount para
+talismans_shop.hint,Moedas duplas ganhas.
+talismans_shop.recharge,Próxima talismã em: #time
+talismans_shop.title,Talismã
+talismans_shop.watch_ad_button,Ver
+talismans_shop.watch_ad_text,Ganhe 1 grátis
+tickets_shop.ask_button,Facebook
+tickets_shop.ask_text,Pergunte para amigos
+tutorial.001.collect_more_fishes,"Recolha o máximo de <font color=""\#5885b8""> cenouras </font>, como você pode"
+tutorial.001.continue_to_collect_fishes,Mantenha coleta cenouras!
+tutorial.001.first_swap_red_down,"Mover a peça vermelha para baixo
+para combinar <font color=""\#5885b8""> três em linha </font>"
+tutorial.001.remind_collect_three_in_a_row,"Recolha <font color=""\#5885b8""> três peças </font> de uma cor <font color=""\#5885b8""> em uma fileira </font>"
+tutorial.001.second_swap_green_left,"Mover a peça verde para a esquerda
+para combinar <font color=""\#5885b8""> três em linha </font>"
+tutorial.001.third_swap_fish,"<font color=""\#5885b8""> cenouras </font> também pode ser
+combinava três em uma fileira"
+tutorial.001.you_are_doing_well,Você está indo bem!
+tutorial.002.get_bonus_line,"... para obter <font color=""\#5885b8""> bônus - Linha </font>"
+tutorial.002.try_four_in_a_row,"Tente combinar <font color=""\#5885b8""> 4 em linha! </font>"
+tutorial.002.use_line_bonus,"Jogo <font color=""\#5885b8""> três em linha com bônus </font> para contemplar o poder da linha!"
+tutorial.003.hint,Coletar mais Cenouras do que o seu adversário!
+tutorial.003.try_l_or_t,"combinar peças <font color=""\#5885b8""> em forma de T ou L! </font>"
+tutorial.003.use_bomb_bonus,"... para obter <font color=""\#5885b8""> bônus - Bomba </font>
+Vamos fazê-lo explodir!"
+tutorial.004.clear_gold_tiles,"Fazer jogos na <font color=""\#5885b8""> grama </font>
+para coletá-lo!"
+tutorial.004.combine_omni_with_blue,"Trocar <font color=""\#5885b8""> Lightning peças </font> com a peça azul para remover todas as peças azuis
+do campo!"
+tutorial.004.try_five_in_a_row,"Experimente e obter <font color=""\#5885b8""> 5 em uma fileira! </font>"
+tutorial.005.two_bonus_can_combine,"Qualquer <font color=""\#5885b8""> dois bônus podem ser mescladas </font> para obter um bônus ainda maior!"
+tutorial.007.collect_food,"Fazer jogos ao lado de <font color=""\#5885b8""> Bolotas </font>"
+tutorial.007.move_character,"Colete bolotas para
+<font color=""\#5885b8""> mover Piggy frente! </font>"
+tutorial.008.make_mine_bonus,"Jogo <font color=""\#5885b8""> quatro peças em um quadrado </font>
+e receba um bónus - Firefly!"
+tutorial.008.use_mine_bonus,"Jogo de três em uma linha com <font color=""\#5885b8""> Firefly </font>
+para usá-lo!"
+tutorial.009.make_tint_bonus,"Faça a <font color=""\#5885b8""> a forma grande Т </font> e
+receber um bônus - Paint!"
+tutorial.009.use_tint_bonus,"<font color=""\#5885b8""> Paint </font> pode ser trocado com qualquer peça!"
+level_popup.adventure.title,Nível
+lives_shop.ma_hint,"Você precisa de vidas para 
+continuar jogando o modo Aventura"

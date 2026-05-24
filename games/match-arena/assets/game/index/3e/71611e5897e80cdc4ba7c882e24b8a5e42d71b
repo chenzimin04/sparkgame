@@ -1,0 +1,1038 @@
+ID,iw-IL
+ad_failed.button,אוקי
+ad_failed.message,"אין כרגע וידאו זמין, אנא נסו שוב מאוחר יותר."
+ad_failed.title,אופס...
+ad_magic.button,צפו
+ad_magic.message,צפו בסרטון קצר כדי לקבל פרס.
+ad_magic.title,חסוך חסוכי הקסמים
+android_app.button,התקן
+android_app.text.release,חברים יקרים! אנחנו שמחים להודיע שהמשחק שלנו כעת זמין על אנדרואיד. הורידו את האפליקציה ותהנו!
+android_app.title,עכשיו ב-Android!
+android_update.restart.no,מאוחר יותר
+android_update.restart.text,התקן עכשיו?
+android_update.restart.title,עדכון מוכן!
+android_update.restart.yes,כן
+avatar_already_changed.button,אוקי
+avatar_already_changed.message,תמונת הפרופיל שלך כבר הוחלפה. אתה יכול לשנות את תמונת הפרופיל שלך רק פעם אחת.
+bookmark.daily,אתגר
+bookmark.friends,חברים
+bookmark.settings,הגדרות
+booster_hint.cross,%booster_shop.hint.ingame.cross%
+booster_hint.hammer,%booster_shop.hint.ingame.hammer%
+booster_hint.hand,%booster_shop.hint.ingame.hand%
+booster_shop.buy,קבל #count
+booster_shop.hint.ingame.cross,השתמשו במקל הקסם כדי להסיר שורה אחת ועמודה אחת של חתיכות.
+booster_shop.hint.ingame.hammer,השתמשו במפתח כדי להסיר את האריחים!
+booster_shop.hint.ingame.hand,השתמשו במצע כדי להחליף כל חלקים שכפולים המצויים ליד זה את זה!
+booster_shop.hint.prelevel.add_bomb,התחל כל רמה עם פעמון כבר על הלוח!
+booster_shop.hint.prelevel.add_line,התחל כל רמה עם קו כבר בלוח!
+booster_shop.hint.prelevel.add_omni,התחל כל רמה עם מהיר כבר על הלוח!
+booster_shop.hint.prelevel.add_tint,התחל כל רמה עם צבע כבר בלוח!
+booster_shop.hint.prelevel.double_fly,כפל את כל הפרפרים שנוצרו בשלב הזה!
+booster_shop.title.ingame.cross,שרביט קסום
+booster_shop.title.ingame.hammer,מטר
+booster_shop.title.ingame.hand,מצחם
+booster_shop.title.prelevel.add_bomb,בוסטר פצצה
+booster_shop.title.prelevel.add_line,בוסטר קו
+booster_shop.title.prelevel.add_omni,בוסטר להב
+booster_shop.title.prelevel.add_tint,בוסטר צבע
+booster_shop.title.prelevel.double_fly,בוסטר פנפנים x2
+chest_open.collection_complete,אוסף!
+chest_open.ok,בסדר
+chest_opening.button,מצוין!
+chest_opening.reward,פרס
+conflict_popup.continue,המשך
+conflict_popup.hint_syncing,מסנכרן...
+conflict_popup.skip,המשך לא מקוון
+credits.art,עיצוב אמנות
+credits.artists,"הרבה אהבה לחברי אומנים הגרפים שלנו
+לדמויות האווטר היפות!
+"
+credits.gamedesign,עיצוב משחק
+credits.mentions,"תודה מיוחדת
+לחברינו
+"
+credits.programming,תכנות
+credits.title,הצוות שלנו!
+daily_help.button,אוקי
+daily_help.chest,פרס ראשי
+daily_help.reward,פרסים חד פעמיים
+daily_help.text,"כל יום שחקנים מראים את המיומנות שלהם ומתחרים ברמה אחת.
+
+השחקן שיצביע את הניקוד הגבוה ביותר יקבל את פרס היום - כתר וארון של אבנים!"
+daily_help.title,אתגר יומי
+daily_reward.button,מצוין!
+daily_reward.reward,פרס
+daily_reward.title.place_1,אתה הנבחר של האתגר היומי!
+daily_reward.title.place_generic,"האתגר היומי הושלם
+הדרגה שלך \##place!"
+daily.drag_to_update,גרור כדי לרענן
+daily.epic_sunday_ribbon,אתגר חברתי
+daily.finishes_in,האתגר מסתיים בעוד #time
+daily.finishes_now,האתגר הסתיים!
+daily.high_score,ניקוד גבוה חדש!
+daily.medal_chest_text,אסוף #amount מדליות!
+daily.next_time,האתגר היומי הבא יתחיל בעוד #time
+daily.next_time_now,התחיל אתגר יומי חדש!
+daily.no_yesterday_yet,לא השתתפת בעונה היומית הקודמת
+daily.play,לשחק
+daily.retry_submit,נסה שוב
+daily.rewards_tab,פרסי אתגר יומי
+daily.rewards.bubble,"אסוף כוכבים ומדליות
+כדי לפתוח ארונות עם אוצרות!"
+daily.score_not_accepted,תוצאה זו אינה נספרת בלוח התוצאות משום שהסתיימת לשחק לאחר סיום האתגר היומי.
+daily.star_chest_claim,פתח
+daily.star_chest_collected_text,בוא מחר לארוחת אחרת
+daily.star_chest_text,השלם עם 3 כוכבים 7 אתגרים יומיים ברציפות!
+daily.submit_error,לא הצלחנו לשלוח את התוצאות
+daily.today,אתגר יומי
+daily.today_mark,היום
+daily.update_error,אין חיבור לאינטרנט
+daily.wait_text,
+daily.watch_replay.button,צפו
+daily.watch_replay.text,הקלטת משחק
+daily.welcome_reward_first,%daily_help.text%
+daily.welcome_text,הנה! האתגר היומי החדש החל!
+daily.yesterday,הדרגה של אתמול
+daily.yesterday_updating,משיג תוצאות...
+demo.finished.text,"ברכותינו, השלמת את גרסת המבחן! שחק בגרסה מלאה בחינם ב-<p class=""ma-link"">PecPoc.com<p class=""demo-hint"">התקדמותך לא תאבד"
+demo.nag.text,"בונוסים חינם זמינים רק בגרסה המלאה. המשך לשחק בגרסה המלאה ב-<p class=""ma-link"">PecPoc.com<p class=""demo-hint"">התקדמותך לא תאבד"
+event_ny.next_in_hint,קבל מתנה הבא בעוד: #time
+event_ny.title,מתנות שנה חדשה
+fake_ad.reward_in,פרס ב...
+fake_ad.tutorial,"אופס, אין לנו סרטון זמין כרגע...
+אל דאגה, במקום זה ננחה קצת קסם של חזיר!"
+fake_ad.your_ad_here,הפרסום שלך כאן
+fb_login_failed.message,לא הצלחנו להתחבר לפייסבוק. לנסות שוב?
+fb_notification.button,חבר
+fb_notification.message,התחבר לפייסבוק כדי לסנכרן את התקדמותך באופן מקוון!
+fb_notification.no_post_hint,אנחנו לעולם לא נפרסם ללא הסכמתך.
+fb_notification.title,שמור את התקדמותך
+feedback.failed.button,המשך
+feedback.failed.message,"לא ניתן היה לשלוח את המשוב.
+בדוק את חיבור האינטרנט שלך.
+"
+feedback.failed.title,אופס...
+feedback.ok.button,בסדר
+feedback.ok.message,"קיבלנו את משובך.
+תודה שעוזרים לנו לשפר את המשחק.
+"
+feedback.ok.title,משוב נשלח!
+friends_tab.failed_social.button,בדוק
+friends_tab.failed_social.text,אנחנו צריכים לבדוק את החיבור כדי לעדכן את רשימת החברים
+friends_tab.has_fb.button,הזמן חברים
+friends_tab.has_fb.text,"ככל שיש לך יותר חברים, כך יש לך יותר מתנות!"
+friends_tab.no_fb.button,חבר
+friends_tab.no_fb.hint,אנחנו לעולם לא נפרסם ללא הסכמתך.
+friends_tab.no_fb.text,התחבר לפייסבוק וקבל מתנות מחברים ועקוב אחר התקדמותם.
+friends_tab.no_permission.button,כן
+friends_tab.no_permission.text,אפשר גישה לרשימת החברים שלך כדי לקבל יותר מתנות?
+friends_tab.no_social.text,התחבר לרשתות חברתיות וקבל מתנות מחברים ועקוב אחר התקדמותם.
+friends_tab.no_y8.button,חבר
+friends_tab.no_y8.text,התחבר אל Y8 וקבל מתנות מחברים ועקוב אחר ההתקדמות שלהם.
+friends_tab.ok_invite_button,הזמן חברים
+friends_tab.ok_invite_gift_text,"הכי הרבה חברים שתקבלו, כך הרבה מתנות תקבלו!"
+friends_tab.ok_invite_text,"ככל שיש לך יותר חברים, כך יש לך יותר מתנות!"
+friends_tab.title,חברים
+friends_tab.vk_friends_permission_button,כן
+friends_tab.vk_friends_permission_text,אפשר גישה לרשימת החברים שלך כדי לקבל יותר מתנות?
+friends_tab.vk_invite_button,הזמן חברים
+friends_tab.vk_invite_text,"ככל שיש לך יותר חברים, כך יש לך יותר מתנות!"
+friends.gift.claim,פתח
+game_results.click_to_continue,לחץ כדי להמשיך
+game_results.tap_to_continue,לחץ כדי להמשיך
+game.click_to_continue,לחץ כדי להמשיך
+game.info.ahead,אתה מוצא עצמך #fmtnum צעדים קדימה
+game.info.behind,אתה מאחורה ב-#fmtnum מעברים
+game.info.goals,מטרה
+game.info.moves,מעברים
+game.info.pause,השהייה
+game.info.undo,בטל
+game.pause.continue,"<font color=""\#408fda"">המשך משחק"
+game.pause.leave_forfeit,"<font color=""\#ff0000"">סיים משחק"
+game.pause.leave_safe,סיים משחק
+game.pause.title,השהייה
+game.shoutout.their_game_result,ציון: #score
+game.shoutout.well_done,מצוין!
+game.shoutout.your_game_result,התוצאה שלך: #score
+game.tap_to_continue,לחץ כדי להמשיך
+game.tutorial.continue,המשך
+gamemode.capital.aquarium,דגים
+gamemode.capital.bird,ציפורים
+gamemode.capital.bubble,בועות
+gamemode.capital.cats,חתולים
+gamemode.capital.chocolate,לבה
+gamemode.capital.diamonds,אבני יהלום
+gamemode.capital.ducks,צפרדעים
+gamemode.capital.energy_cube_reciever,קריסטלים
+gamemode.capital.energycube,ג'לי
+gamemode.capital.fishes,גזר
+gamemode.capital.flower,פרחים
+gamemode.capital.food,אגוזים
+gamemode.capital.fossils,תנכים
+gamemode.capital.frog,צפרדעים
+gamemode.capital.grass,דשא
+gamemode.capital.gum,גו
+gamemode.capital.honeybee,דבורים
+gamemode.capital.hotlava,לבה
+gamemode.capital.ice,קרח
+gamemode.capital.jam,אנרגיה
+gamemode.capital.jam_reciever,קריסטלים
+gamemode.capital.pearl,פטנטים
+gamemode.capital.road,חזיר
+gamemode.capital.sausage,נקניקים
+gamemode.capital.statue,כלבים
+gamemode.capital.stone,אבנים
+gamemode.capital.tasks,הזמנות
+gamemode.capital.tiles,דשא
+gamemode.capital.waterfish,דגים
+gamemode.capital.blooplet,בלופלטס
+gameresult.adventure.completed_continue,המשך
+gameresult.adventure.leave,לצאת
+gameresult.adventure.play_next,המשך
+gameresult.adventure.retry,נסה שוב
+gameresult.boosters,בחר מגברים
+gameresult.complete.line1,רמה
+gameresult.complete.line2,הושלם!
+gameresult.continue,המשך
+gameresult.daily.continue,המשך
+gameresult.daily.leave,יציאה
+gameresult.daily.retry,לשחק
+gameresult.dash,-
+gameresult.forfeit,התנצלת!
+gameresult.map.continue,המשך
+gameresult.map.retry,נסה שוב
+gameresult.pvp.continue,המשך
+gameresult.pvp.play_another,רמה שונה
+gameresult.pvp.play_next,רמה שונה
+gameresult.pvp.rematch_lose,התחדשות
+gameresult.pvp.rematch_win_draw,שחק שוב
+gameresult.rematch,התחדשות
+gameresult.rematch_bet,המחזור #bet
+gameresult.required_ticket,נדרש
+gameresult.retry,שחק שוב
+gameresult.rewards,פרס
+gameresult.title.completed,"<font color=""\#47f05f"">רמה הושלמה!"
+gameresult.title.draw,"<font color=""\#5885B8"">הצבעה"
+gameresult.title.lose,"<font color=""\#ff5666"">הפסדת"
+gameresult.title.win,"<font color=""\#47f05f"">הצלחת!"
+gameresult.vs,VS
+gameresults.inter_ad_in_large,#count משחקים עד
+gameresults.inter_ad_in_small,#count משחקים עד
+gems_shop.title,חנות אבנים
+global.click_to_continue,לחץ כדי להמשיך
+global.default_player_name,שחקן
+global.tap_to_continue,לחץ כדי להמשיך
+home.hint_daiy,נסה את האתגר היומי
+home.hint_play_pvp,אתה עדיין יכול לשחק בדואלים אפילו כאשר אתה מחוסר חיים!
+home.play,לשחק
+html.loading,טעינה
+iap_failed.button,אוקי
+iap_failed.message,רכישה לא הצליחה
+iap_need_facebook.message,התחבר לפייסבוק כדי לטפס אבנים.
+iap_pending.button,אוקי
+iap_pending.message,הרכישה שלך בתהליך עיבוד
+intro_screen.another_device,עם קוד
+intro_screen.login_back,חזרה
+intro_screen.login_button,התחבר
+intro_screen.login_fb,Facebook
+intro_screen.login_ok,Odnoklassniki
+intro_screen.login_singular,התחבר
+intro_screen.login_vk,Vkontakte
+intro_screen.login_with,התחבר עם
+intro_screen.login_y8,Y8
+intro_screen.login_yandex,Yandex
+intro_screen.new_player,שחקן חדש
+introprofile.accept_avatar,בחר
+introprofile.accept_name,המשך
+introprofile.editavatar,בחר תמונת פרופיל
+introprofile.editname,הכנס את שמך
+invite_request.message,בואו נשחק במשחק התאים הכי טוב ביחד!
+invite_request.title,בחר חברים כדי לשחק ב-Skydom ביחד
+level_popup.goals,מטרה
+level_popup.play,לשחק
+level_popup.prelevel_boosters,בחר מגברים
+level_popup.title,רמה #level
+level_popup.title_hard,קשה
+level_popup.title_ultra_hard,קשה מאוד
+level_popup.title_very_hard,קשה מאוד
+link.support,https://Skydom.freshdesk.com/en/support/solutions
+link.support_beta,https://Skydombeta.freshdesk.com/en/support/solutions
+lives_shop.buy_all,קנה 5
+lives_shop.hint,"צריך חיים כדי
+להמשיך לשחק במשחק המפלצת
+"
+lives_shop.recharge,חייה הבאה: #time
+lives_shop.title,חיים
+lives_shop.watch_ad_button,צפו
+lives_shop.watch_ad_text,חינם 1
+load_player.almost_done,כמעט סיימנו...
+load_player.continue_offline,המשך לא מקוון
+load_player.loading_save,טוען נתוני שחקן...
+load_player.loading_save_failed,לא ניתן לטעון נתוני שחקן.
+load_player.loading_save_failed_in,"לא ניתן היה לטעון נתוני שחקן.
+בנסיון מחדש בעוד #time...
+"
+load_player.logging_in,מתחברים...
+load_player.logging_in_failed,לא הצלחתי להתחבר
+load_player.logging_in_failed_in,"לא הצלחנו להתחבר.
+מנסים שוב בעוד #time...
+"
+load_player.new_player,אני שחקן חדש
+load_player.retry_now,נסה עכשיו
+login_failed.button,נסה שוב
+login_failed.title,נכשל בחיבור
+magic.click_to_continue,לחץ כדי להמשיך
+magic.reward,פרס
+magic.tap_to_continue,לחץ כדי להמשיך
+map.gates_coming_soon,"רמות חדשות
+בקרוב!"
+match3.level_complete.line1,כל המטרות
+match3.level_complete.line2,הושג!
+match3.score_pve,#score/#required
+match3.shoutout.1_move,הזזה אחרונה!
+match3.shoutout.2_moves,2 מעברים
+match3.shoutout.5_moves,5 מעברים
+match3.shoutout.no_moves,אין עוד מהלכים
+match3.shoutout.no_reshuffle,"לא ניתן לערובב
+אין מסעים אפשריים
+"
+merge.button.mine,בחר
+merge.button.their,בחר
+merge.description.account_merge,"נראה שכבר שחקת ב-Skydom.
+בחר פרופיל מועדף!
+"
+merge.description.ingame_conflict,%merge.description.login_conflict%
+merge.description.login_conflict,"השתמשת במספר מכשירים.
+בחר שמירה מועדפת.
+"
+merge.hint.mine,מקומי
+merge.hint.their,מהשרת
+merge.title,סינכרון התקדמות
+modal.adblock.button,אוקי
+modal.adblock.text,אנחנו שמענו שאתם משתמשים במנגנון חסימת פרסומות.<br>אנא כבהו את מנגנון חסימת הפרסומות בדף הזה כדי שתוכלו לצפות בסרטון.
+modal.adblock.title,מנגנון חסימת פרסומות
+modal.error.button,רענן
+modal.error.text,"סליחה, אירעה שגיאה. אנא רענן את הדף."
+modal.error.title,אופס! משהו השתבש...
+modal.fb_login_proxy.button,המשך
+modal.fb_login_proxy.text,חיבור לפייסבוק
+modal.fb_login_proxy.title,
+modal.fb_purchase_proxy.button,המשך
+modal.fb_purchase_proxy.gems,אבנים
+modal.first_login_failed.button,נסה שוב
+modal.first_login_failed.text,לא ניתן להתחבר ל-Skydom כרגע. אנא נסה להתחבר שוב מאוחר יותר.
+modal.first_login_failed.title,נכשל בניסיון להתחבר
+modal.gpu_error.button,מידע נוסף
+modal.gpu_error.text,נראה שעליך להפעיל את האצות של הGPU בדפדפן שלך כדי להריץ את המשחק.
+modal.gpu_error.title,המם...
+modal.maintenance.button,בסדר
+modal.maintenance.text,תהליך תחזוקה יתבצע ב<br> <b>#time</b><br> למשך 3 שעות.<br> השמירה בענן וסינכרון התקדמות לא יעבדו.
+modal.maintenance.title,תחזוקה
+modal.no_hardware_accel_ff.button,אוקי
+modal.no_hardware_accel_ff.text,"הדפדפן שלך מדווח על בעיות בביצועים, המשחק עשוי לרוץ בצורה איטית!
+
+כדי לתקן, אנא קראו <a target=""_blank"" href=""https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features"">https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features</a>
+"
+modal.no_hardware_accel_ff.title,בעיות בביצוע
+modal.no_hardware_accel.button,אוקי
+modal.no_hardware_accel_vk.button,אוקי
+modal.no_hardware_accel.text,"הדפדפן שלך מדווח על בעיות בביצועים, המשחק עשוי לרוץ בצורה איטית!
+
+כדי לתקן, אנא קראו <a target=""_blank""  href=""https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm"">https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm</a>
+"
+modal.no_hardware_accel_vk.text,"הדפדפן שלך מדווח על בעיות בביצוע, המשחק עשוי לרוץ בצורה איטית!
+
+כדי לתקן, אנא קראו <a target=""_blank"" href=""https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery"">https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery</a>"
+modal.no_hardware_accel.title,בעיות בביצוע
+modal.no_hardware_accel_vk.title,בעיות בביצוע
+modal.nolocalstorage.button,אוקי
+modal.nolocalstorage.text,"נראה שהדפדפן שלך אינו מאפשר לנו לשמור את המשחק. זה יכול להיות גורם של שימוש במצב בלתי נראה בדפדפן שלך.
+<p>
+אנא התחבר כדי למנוע את אבדן התקדמותך!"
+modal.nolocalstorage.title,מצב חבוי
+modal.oom.button,מידע נוסף
+modal.oom.text,נראה שאין מספיק זיכרון.
+modal.oom.title,הם..
+modal.out_of_sync.button,רענן
+modal.out_of_sync.text,נראה שפתחת את Skydom בכמה חלונות דפדפן. <br>אנא רענן כדי להמשיך לשחק בחלון זה.
+modal.out_of_sync.title,מספר חלונות עם Skydom?
+modal.vk_inapp_not_allowed.button,לעבור
+modal.vk_inapp_not_allowed.text,"רכישות זמינות רק ב-<a href=""https://m.vk.com/app7409298"" target=""_blank"">m.vk.com</a>"
+modal.vk_inapp_not_allowed.title,
+modal.wasm.button,מידע נוסף
+modal.wasm.text,נראה שהדפדפן שלך אינו תומך ב־WebAssembly
+modal.wasm.title,המם...
+modal.webgl.button,מידע נוסף
+modal.webgl.text,נראה שהדפדפן שלך אינו תומך ב־WebGL
+modal.webgl.title,המם...
+modal.yandexsdk.text,"ה-SDK של ינדקס לא טען בהצלחה.
+
+לנסות שוב?"
+modal.yandexsdk.title,אופס
+modal.yandexsdk.button,אוקי
+name_already_changed.button,אוקי
+name_already_changed.message,שם הפרטי שלך שונה כבר. אתה יכול לשנות את שמך רק פעם אחת.
+networks.hint,"אנו ממליצים לך להתחבר לרשתות חברתיות!
+ - אל תאבד את ההתקדמות שלך על ידי שמירתה בענן
+ - שחק עם חברים וקבל מתנות
+ - אנחנו לא פורסמים מבלי אישורך
+"
+nickname.default,שחקן
+nickname.default_friend,ארנב
+nickname.trainer,מאמן #nickname
+nickname.tutorial_001,מאמן אנה
+nickname.tutorial_002,מאמן ג'וני
+nickname.tutorial_003,מאמן פולי
+nickname.you,אתה
+notification.daily_lead_1,👑 #Name לקח את הראשות באתגר היומי! רוצה להחזיר את המקום הראשון?
+notification.daily_lead_2,👑 #Name לקח את הראשונות באתגר היומי!
+notification.daily_lead_3,👑 היום חם באתגר היומי! #Name לקח את המקום הראשון שלך.
+notification.daily_lead_4,👑 #Name לקח את הראשונות. רוצה לשחזר את הנהגות באתגר?
+notification.daily_lead_5,👑 נראה ש#Name עבר אותך בתחרות היומית.
+notification.daily_lead.meta,"@{""variants"":5}"
+notification.reminder_1,😏 אויבים חדשים מחכים לשחקן המבטיח ביותר! 😎
+notification.reminder_10,👸🤴 מי יהיה הנצח של האתגר היומי היום?
+notification.reminder_11,🙄 כמעט שכחנו איך כולם נפצעו על ידי #PlayerName!
+notification.reminder_12,"💆 יום נחמד לשחק ב-Skydom, איך אתה חושב? 💪"
+notification.reminder_13,🙈😬 ישנם שני גברים שחלום להכות אותך. חושבים שיש להם סיכוי?
+notification.reminder_14,🐰 הארנב הגיע עם מתנה לך! לפתוח? 🎁
+notification.reminder_15,"😎 #PlayerName, הגענו לנצח שוב! 🕹"
+notification.reminder_16,👾👀 הגיע הזמן לעשות הפסקה ולהתחיל סדר ניצחונות! 🤗
+notification.reminder_17,🌟🌟🌟 רמות לא ישלמו בעצמן! נשחק? 🥇😉
+notification.reminder_18,"#PlayerName, מישהו רוצה להכות אותך. האם אתה חושב שהוא יצליח? 😬😬😬"
+notification.reminder_19,👋 האם הגיע הזמן להנות ולנצח מספר פעמים? 🤔
+notification.reminder_2,לא כולם אבדו עדיין ל#PlayerName! תתן להם הזדמנות?
+notification.reminder_20,🦄 האם הכרת את האינקורן הקשתי שלנו?
+notification.reminder_3,🐷 מגיפה של חזיר מקסימה ממתינה! 🐽
+notification.reminder_4,🙈 אין לי מצב לראות את השחקן הטוב ביותר של משחק התאים לשלושה! האם הוא עדיין כאן? 👀
+notification.reminder_5,🏆 האם יש לך ניצחון היום?
+notification.reminder_6,❤️❤️❤️❤️❤️ כל החיים מופעלים מחדש! זה הזמן לנצח!
+notification.reminder_7,🖐🎟 5 אסימונים מחכים להיות שוקללים!
+notification.reminder_8,🐰😍 הארנב הכין לך מתנה! 🎁
+notification.reminder_9,👑💎 האתגר היומי החל! מי יקבל את הכתר והרבה אבנים?
+ny.button_claim,פתח מתנה
+ny.button_next_in,מתנה ב: #time
+ok_login_failed.message,לא הצלחנו להתחבר לאודנוקלסניקי. לנסות שוב?
+ok.share_tick,שתף
+out_of_moves.continue_buy_moves,שחק #price
+out_of_moves.continue_watch,צפו
+out_of_moves.give_up,להתפסד
+out_of_moves.press_to_view,"לחץ כאן כדי 
+להציג את הלוח"
+out_of_moves.title.almost_there,כמעט הגיע...
+out_of_moves.title.regular,הצעדים הסתיימו
+outofgems.button,חנות
+outofgems.message,אתה אזל מאבנים. בקר בחנות כדי לקבל עוד!
+outofgems.title,לא מספיק אבנים
+page.loading.hint_1,טוען...
+page.loading.hint_2,אפקטים של הצגה 💎💎💎
+page.loading.hint_3,"אל תדאגו, זה לא נעוץ! 😜"
+page.loading.hint_4,🚀 המשחק יטען בקרוב! 🚀
+page.loading.hint_5,הטעינה הראשונה לוקחת קצת זמן יותר👌
+page.loading.hint_6,🔥 כמעט שם...👾
+page.loading.hint_7,עוד קצת קטן 😊
+placeholder.hint_daily,השלם 10 רמות כדי לבטל את הנעילה!
+placeholder.timestring,12 שעות 34 דקות 56 שניות
+placeholder.title_daily,"אתגר יומי
+נעול"
+popup_name.accept_name,המשך
+popup_name.not_now,לא עכשיו
+prelevel_text.002,"אסוף יותר <font color=""\#ff5503"">חתיכות צהובות</font> מאשר היריב שלך!"
+prelevel_text.004,"אסוף יותר <font color=""\#ff8800"">גזרים</font> מאשר היריב שלך!"
+prelevel_text.006,"נקה יותר <font color=""\#4499ff"">קרח</font> מאשר היריב!"
+promo_reforged.button,לתבוע!
+promo_reforged.text,"ירוקים! הפעלנו מוד חדש - סקיידום ריפורג'ד! כדי לחגוג את השקתו, נתנו חבילת מגה בוסטר חינם! לקחת את המתנה?"
+promo_reforged.title,סקיידום מתחדש!
+rate_us.description,איך אתה אוהב את סקיידום?
+rate_us.feedback.cancel,לא עכשיו
+rate_us.feedback.description,"הכנס את כתובת הדוא""ל שלך אם ברצונך לקבל תשובה."
+rate_us.feedback.email_hint,E-mail
+rate_us.feedback.message_hint,איך אפשר לשפר את המשחק עבורך?
+rate_us.feedback.submit,שלח
+rate_us.star_1,שנאתי את זה
+rate_us.star_2,לא אהבתי את זה
+rate_us.star_3,זה בסדר
+rate_us.star_4,אהבתי את זה
+rate_us.star_5,אהבתי את זה
+rate_us.submit,שלח
+rate_us.write_review.cancel,לא עכשיו
+rate_us.write_review.google_play,שתפו את חוויותיכם על המשחק או דרגו אותו ב-Google Play!
+rate_us.write_review.submit,בבעלות עונג!
+rate_us.write_review.yandex,שתפו את החוויות שלכם על המשחק או דרגו אותו ב-Yandex Games!
+rematch_pvp.asks_for_rematch_draw,#name מבקש ניסיון נוסף
+rematch_pvp.asks_for_rematch_player_lose,#name מציע/ה שחק שוב!
+rematch_pvp.asks_for_rematch_player_won,#name רוצה משחק חוזר!
+reward.coins,מטבעות
+reward.gems,אבנים
+reward.lives,חיים
+reward.prelevel.add_bomb,בוסטר פצצה
+reward.prelevel.add_line,בוסטר קו
+reward.prelevel.add_omni,בוסטר להב
+reward.prelevel.add_tint,בוסטר צבע
+reward.prelevel.double_fly,בוסטר פנפנים x2
+reward.tickets,אסימונים
+reward.undo,ביטולים
+search.cannot_connect,אין חיבור לאינטרנט
+search.failed,אופס! משהו השתבש...
+search.loading,טוען...
+search.playing_with_trainer,משחק עם מאמן
+search.readying,נמצא אויב!
+search.readying_rematch,הכנו אתכם!
+search.rejected,היריב נמלט
+search.searching,חיפוש אופן...
+search.vs,VS
+search.waiting_opp,מחכה ליריב...
+settings.change_avatar,שנה תמונת פרופיל
+settings.change_avatar.connect_fb,חבר
+settings.change_avatar.continue,המשך
+settings.change_avatar.title,בחר תמונת פרופיל חדשה
+settings.change_avatar.warning,"הערה: 
+- אתה יכול לשנות את תמונת הפרופיל שלך פעם אחת בלבד
+- התחבר לפייסבוק כדי להשתמש בתמונת פרופיל פייסבוק"
+settings.change_avatar.warning_no_fb,הערה: אתה יכול לשנות את תמונת הפרופיל שלך רק פעם אחת
+settings.change_name,שנה שם
+settings.change_name.accept_name,המשך
+settings.change_name.do_not_match,שמות אינם תואמים. אנא נסה שוב.
+settings.change_name.edit,הכנס שם חדש:
+settings.change_name.reenter,הכנס שם חדש שוב:
+settings.change_name.same_name,שם חדש תואם לקיים
+settings.change_name.too_long,שם זה ארוך מדי - מגבלת 15 סמלים
+settings.change_name.too_short,שם זה קצר מדי =)
+settings.change_name.warning,הערה: אתה יכול לשנות את שמך רק פעם אחת.
+settings.confirm_avatar.cancel,ביטול
+settings.confirm_avatar.change,שינוי
+settings.confirm_avatar.title,"האם אתה בטוח שברצונך לשנות את תמונת הפרופיל שלך?
+תמונת הפרופיל החדשה שלך:
+"
+settings.confirm_avatar.warning,הערה: אתה יכול לשנות את תמונת הפרופיל שלך רק פעם אחת.
+settings.confirm_name.cancel,ביטול
+settings.confirm_name.change,אשר
+settings.confirm_name.title,האם אתה בטוח שברצונך לשנות את שמך? שמך החדש יהיה:
+settings.confirm_name.warning,הערה: אתה יכול לשנות את שמך רק פעם אחת.
+settings.connect_fb,חבר Facebook
+settings.connect_ok,התחבר אודנוקלסניקי
+settings.connect_vk,חבר את VK
+settings.connect_y8,חבר Y8
+settings.connect_yandex,חבר Yandex
+settings.connected_fb,Facebook
+settings.connected_ok,Odnoklassniki
+settings.connected_vk,VK
+settings.connected_y8,Y8
+settings.connected_yandex,Yandex
+settings.coupon,קוד פרומו
+settings.coupon_title,קוד פרומו
+settings.coupon.enter,החל
+settings.coupon.enter_hint,הכנס את קוד ההנחה שלך כאן
+settings.coupon.invalid_code,"<font color=""\#e90047"">קוד זה אינו חוקי. אנא נסה קוד אחר."
+settings.coupon.missing_code,"<font color=""\#e90047"">הכנס קוד הפרומו"
+settings.coupon.ok,קוד הוחל בהצלחה!
+settings.credits,קרדיטים
+settings.eula,תנאי שימוש
+settings.fb_hint,התחבר לפייסבוק כדי לשחק עם חברים ולסנכרן את התקדמותך
+settings.general,כללי
+settings.generate_key,צור קוד
+settings.invite_friends,הזמן חברים
+settings.language,שפה
+settings.language_header,בחר שפה
+settings.move_hints,רמזים
+settings.music,מוזיקה
+settings.networks,חיבורים
+settings.networks_hint,התחבר לרשתות חברתיות כדי לשחק עם חברים ולסנכרן את התקדמותך
+settings.notifications,התראות
+settings.notifications.daily,אתגר יומי
+settings.notifications.disable_all,כבה הכל
+settings.notifications.disable_night,כבה מ-23:00 עד 8:00
+settings.notifications.gifts,מתנות
+settings.notifications.others,תזכורות אחרות
+settings.open_support,תמיכת שחקן
+settings.open_vk_group,קבוצת המשחקים
+settings.player_id,העתק מזהה שחקן
+settings.policy,מדיניות פרטיות
+settings.rate_us,דרג אותנו
+settings.report_problem,דווח על בעיה
+settings.sound,צליל
+settings.support,תמיכה
+settings.telegram_channel,עקוב אחרי ערוץ הטלגרם שלנו
+settings.telegram_channel_hint,כל החדשות האחרונות אודות Skydom
+settings.telegram_support,צ'אט חברים ב-Telegram
+settings.title,הגדרות
+settings.update,עדכן
+settings.y8_hint,התחבר אל Y8 כדי לסנכרן את התקדמותך באינטרנט!
+settings.yandex_hint,התחבר אל Yandex כדי לסנכרן את ההתקדמות שלך באינטרנט!
+shop.gems_restored.accept,מצוין!
+shop.gems_restored.title,רכישת אבנים הושלמה
+shop.not_available,לא זמין
+shop.remove_ads_remain_time,הפרסומות הוסרו למשך #time
+shop.remove_ads_text,"כל רכישה תסיר את המודעות
+בין הרמות
+"
+shop.remove_ads_timed,"כל רכישה תסיר את המודעות
+בין הרמות למשך חודש
+"
+social_notification.button,חבר
+social_notification.message,התחבר לרשת חברתית כדי לסנכרן את התקדמותך באופן מקוון!
+social_notification.no_post_hint,אנחנו לעולם לא נפרסם ללא הסכמתך.
+social_notification.title,שמור את התקדמותך
+social_share.button,שתף
+social_share.chooser_hint,שתף באמצעות
+social_share.message,שלום! האם כבר נסעת במשחק התאים של 3 ברצף עם אויבים אמיתיים? הורד אותו באתר https://PecPoc.com
+social_share.subject,בדקו את המשחק המגניב - Skydom
+social_share.title,"שתפו את המשחק עם אחרים!
+ככה המשחק יהיה יותר כיף לשחק!"
+tempkey_login.button,המשך
+tempkey_login.empty_key,לא הזנת קוד כלשהו
+tempkey_login.input.default_hint,הזן קוד
+tempkey_login.invalid_key,קוד שגוי
+tempkey_login.message_top,"כדי להמשיך לשחק כאן, עליך ליצור קוד. 
+
+עבור אל ההגדרות של המשחק, שם שבו השחקת, ולחץ על ""יצירת קוד""."
+tempkey_login.no_connection,לא הצלחנו להתחבר
+tempkey.fail.button,בסדר
+tempkey.fail.message,בדוק את חיבור האינטרנט שלך או נסה מאוחר יותר
+tempkey.fail.title,לא הצלחתי ליצור קוד
+tempkey.ok.copied,הועתק!
+tempkey.ok.copy,העתק
+tempkey.ok.hint,הקוד פג תוקף לאחר 4 שעות.
+tempkey.ok.message,#tempkey
+tempkey.ok.title,קודך:
+tickets_shop.boost_text,x2 מהירות מילוי
+tickets_shop.buy_all,קנה #amount
+tickets_shop.hint,אתה צריך את האסימונים כדי לשחק באתגר יומי
+tickets_shop.hint_out_of,"<font color=""\#e90047"">אין עוד אסימוני מזל</font>"
+tickets_shop.recharge,אסימון חדש בעוד: #time
+tickets_shop.title,אסימונים מצויינים
+tickets_shop.watch_ad_button,צפו
+tickets_shop.watch_ad_text,קבל 1 חינם
+time.days_hours,"#days<font size=""-15""> </font><font size=""-10"">יום</font> #hours<font size=""-15""> </font><font size=""-10"">שעה</font>"
+time.hours,"#hours<font size=""-15""> </font><font size=""-10"">שעות</font>"
+time.hours_minutes,"#hours<font size=""-15""> </font><font size=""-10"">שעות</font> #minutes<font size=""-15""> </font><font size=""-10"">דקות</font>"
+time.hours_minutes_seconds,"#hours<font size=""-15""> </font><font size=""-10"">שעות</font> #minutes<font size=""-15""> </font><font size=""-10"">דקות</font> #seconds<font size=""-15""> </font><font size=""-10"">שניות</font>"
+time.hours_seconds,"#hours<font size=""-15""> </font><font size=""-10"">שעות</font> #seconds<font size=""-15""> </font><font size=""-10"">שניות</font>"
+time.less_than_minute,"1<font size=""-15""> </font><font size=""-10"">דקה</font>"
+time.minutes,"#minutes<font size=""-15""> </font><font size=""-10"">דקות</font>"
+time.minutes_seconds,"#minutes<font size=""-15""> </font><font size=""-10"">דקות</font> #seconds<font size=""-15""> </font><font size=""-10"">שניות</font>"
+time.seconds,"#seconds<font size=""-15""> </font><font size=""-10"">שניות</font>"
+tutorial_home.play,לשחק
+tutorial.001.dialog_tutorial,"התאם <font color=""\#5885b8"">3 חלקים באותו צבע בשורה</font> כדי להסיר אותם"
+tutorial.001.hint,"מטרה
+לאסוף 12 חלקים ירוקים!"
+tutorial.001.turn_1,התאם 3 חתיכות באותו צבע על ידי החלפת החתיכות המצומצמות לצידן
+tutorial.002.hint,אסוף יותר חתיכות צהובות מאשר היריב שלך!
+tutorial.skip,דלג
+undo_shop.buy_undos,לקנות #count
+undo_shop.hint,החזרת הצעד האחרון יכולה לבטל את הצעד האחרון
+undo_shop.recharge,הביטול הבא בעוד: #time
+undo_shop.title,ביטול פעולה
+undo_shop.watch_ad_button,צפו
+undo_shop.watch_ad_text,קבל 1 חינם
+undo_shop.you_have,יש לך #amount ביטולים
+update.button,עדכן
+update.new_version,עדכנו לגרסה האחרונה!
+update.new_version_value,"<font color=""\#5885b8"">#version"
+update.old_version,אתה משתמש בגרסה ישנה
+update.old_version_value,"<font color=""\#a5a7aa"">#version"
+update.text,"אתה משתמש בגרסה ישנה.
+אנא עדכן לגרסה האחרונה!"
+update.title,גרסה חדשה זמינה!
+update.web.button,רענן
+update.web.message,אנא רענן את הדף
+update.web.title,גרסה חדשה זמינה!
+vk_login_failed.message,לא הצלחנו להתחבר ל-VK. לנסות שוב?
+vk_promo.title,מתנה מ-VK!
+vk.share_tick,שתף
+watch_for_gems.button,צפו
+watch_for_gems.text,+#amount
+web.webg_context_lost,"ההקשר WebGL אבד, משחזר..."
+welcome_bonus.speech_1,"שלום, #PlayerName!
+יש לי מתנות עבורך.
+בחר אחת!
+"
+welcome_bonus.speech_2,"מחשבות מתחזקות... אוהם!
+בונה חלומות על מתנות וראה מה קרה =)"
+welcome_bonus.speech_3,מצאתי שתי ארונות בזמן שאתה לא היה שם! פתח אחד!
+welcome_bonus.speech_4,"ברוך הבא שוב, #PlayerName!
+ראה מה נפל מהעננים!
+"
+welcome_bonus.speech_5,עופות עברו... נראה שהם לא מביאים רק ילדים!
+welcome_bonus.speech_6,"נעים לראות אותך חזר, #PlayerName!
+בחר ארון!
+"
+welcome_bonus.speech_7,"חסרתי אותך כל כך הרבה, #PlayerName, שהכנתי לך מתנה קטנה!"
+welcome_bonus.speech_8,"דברים מוזרים קורים. ישבת, מרודדת ושני ארונות מגיעים מן הכחול!"
+welcome_pack.open,פתח
+welcome_pack.play,לשחק
+welcome_pack.speech_1,"אהלן! #PlayerName, זה הזמן שלא ראינו איתך! יש לי מתנה לך!"
+welcome_pack.speech_2,"אוה, #PlayerName, חסרתי אותך! בוא נפתח את המתנה ונשחק!"
+welcome_pack.speech_3,"#PlayerName, טוב לראות אותך שוב! מהר ופתח את הארון."
+welcome_pack.speech_gift,"#PlayerName, יש לנו מתנה מיוחדת עבורך =) פתח אותה מהר!"
+welcome_pack.speech_reforged,"#PlayerName, יש לנו מתנה מיוחדת עבורך =) פתח אותה מהר!"
+y8_login_failed.message,לא הצלחנו להתחבר ל-Y8. לנסות שוב?
+yandex_login_failed.message,לא הצלחנו להתחבר ל-Yandex. לנסות שוב?
+yandex_notification.button,לחבר
+yandex_notification.message,התחבר ל-Yandex כדי לסנכרן את התקדמותך באינטרנט!
+yandex_notification.title,שמור את התקדמותך
+gamemode.capital.leaf,עלים
+yandex_login_has_attachment.message,חשבון Yandex אחר הוחבר לפרופיל המשחק הזה.
+fb_login_has_attachment.message,חשבון פייסבוק אחר הוקלד לפרופיל המשחק הזה.
+ok_login_has_attachment.message,חשבון אחר של OK הוקשר לפרופיל המשחק הזה.
+vk_login_has_attachment.message,חשבון VK אחר הוקלד לפרופיל המשחק הזה.
+y8_login_has_attachment.message,חשבון Y8 אחר הוקשר לפרופיל המשחק הזה.
+android_app.text.beta,חברים יקרים! אנחנו שמחים להודיע שאנחנו מתחילים בבדיקת בטא של המשחק שלנו ב-Android ומזמינים את כולם!
+bookmark.play,בית
+bookmark.quest,משימות
+chest_opening.bronze,ברונזה
+chest_opening.continue,קל
+chest_opening.division,יחידה שלישית
+chest_opening.golden,זהב
+chest_opening.silver,כסף
+chest_opening.togoldenleague,"האם אתה יכול להשיג
+הליגה הזהבה?"
+chest_opening.welcome,"ברוכים הבאים ל
+ליגות של ארגז התאמה!"
+chest_opening.yourebronze,"השגתם
+ליגת הברונזה III
+"
+chest.open,פתח
+chest.opens_now,מדהים! הארון שלך לפתוח!
+chest.wins_left_1,עוד ניצחון אחד!
+chest.wins_left_2,רק 2 ניצחונות והוא שלך!
+chest.wins_left_3,מצוין! עוד 3 ניצחונות!
+chest.wins_left_4,צריך 4 ניצחונות כדי לפתוח את הארון!
+chest.wins_to_open,יש לך #num ניצחונות כדי לפתוח
+forge_help.block_1,נצחונות כדי לזכות במטבעות
+forge_help.block_2,השתמשו במטבעות כדי להתחיל את המפעלים ולקבל ברזל ברים
+forge_help.block_3,אסוף ברזל מטבעות כדי לעלות בליגות
+forge_help.block_4,ליגות חדשות - רמות חדשות!
+forge_help.continue,הצלחתי
+forge_help.title,ליגות ומפעלים
+forge.add,הוסף
+forge.boost,הגבר
+forge.boost_free,"בואו נעצור את החרס!
+
+בפעם הראשונה זה חינם!"
+forge.boost_free_ok,הגבר
+forge.buy_1,מסגרת נחושת
+forge.buy_2,מסגרת כסף
+forge.buy_3,מסגרת זהב
+forge.buy_4,מפעל רובי
+forge.buy_now,להוסיף
+forge.cheat_boost,חיש? חיש!
+forge.name_1,מפעל נחושת
+forge.name_2,מסגרת כסף
+forge.name_3,מסגרת זהב
+forge.name_4,מפעל רובי
+forge.not_enough_coins,אין מספיק מטבעות כדי להתחיל
+forge.ok,בסדר
+forge.open,פתח
+forge.open_now,פתח עכשיו
+forge.other_in_progress,פתחו כבר מפעל נוסף!
+forge.popup_boost,הגבר -30 דקות
+forge.popup_boost_speedup,הגבר -15 דקות
+forge.progress,#bars בתוך: #time
+forge.speedup_no,לא
+forge.speedup_offer,"האם אתה רוצה <font color=""\#5885b8"">להאיץ</font> את הפעולה של החרטה <font color=""\#5885b8"">ב2 פעמים?</font>"
+forge.speedup_ok,בסדר
+forge.speedup_success,החרס הוגבר!
+forge.speedup_yes,כן
+forge.start,התחל
+forge.time_1,3 שעות
+forge.time_2,6 שעות
+forge.time_3,12 שעות
+forge.time_4,24 שעות
+forge.tutorial.collect_coins,הרוויחו 1000 מטבעות כדי להתחיל את החרס
+forge.tutorial.open_now,"מצוין! הפשטות הושלמה!
+אפשר לפתוח את החרס!"
+forge.tutorial.smelt_more,המשך לחרות מחצית זהב כדי להגיע לחלק הבא
+forge.tutorial.start_forge,"כל הכבוד, הרבצת 1000 מטבעות!
+עכשיו אפשר להתחיל את הפורג'!"
+forge.tutorial.wait_ready,"בעת הפעולה של המפעל, אנחנו יכולים לזכות בעוד מטבעות..."
+forge.watch_ad,צפו
+gamemode.chocolate,לבה
+gamemode.diamonds,אבני יהלום
+gamemode.energycube,ג'לי
+gamemode.fishes,גזרים
+gamemode.food,אגוזים
+gamemode.fossils,תפוחי ים
+gamemode.grass,דשא
+gamemode.honeybee,דבורים
+gamemode.ice,קרח
+gamemode.jam,אנרגיה
+gamemode.road,חזיר
+gamemode.stone,אבנים
+gamemode.tasks,הזמנות
+gamemode.tiles,דשא
+home.bars_need_more,אתה צריך #more
+home.bars_progress,#current / #total
+home.bet,הצבעה #count מטבעות
+home.coins,#count
+home.gems,#count
+home.hint_quest_book,משימות חדשות זמינות!
+home.hint_quest_book.claim,יופי! מישהו יקבל פרס!
+home.hint_quest_book.new,אוה! משימה חדשה!
+home.league_indev,ליגה הבאה בקרוב!
+home.rematch.asks_for_rematch_draw,#name מבקש נסיון נוסף
+home.rematch.asks_for_rematch_player_lose,#name מציע שחקן חוזר
+home.rematch.asks_for_rematch_player_won,#name מבקש משחק חוזר!
+home.xp,#count
+ingame_booster_shop.buy,לקנות #count
+ingame_booster_shop.hint.cross,השתמשו במקל הקסם כדי להסיר שורה אחת ועמודה אחת של חתיכות.
+ingame_booster_shop.hint.hammer,השתמשו במפתח כדי להסיר את האריחים!
+ingame_booster_shop.hint.hand,השתמשו במצע כדי להחליף כל חלקים שכפולים המצויים ליד זה את זה.
+ingame_booster_shop.title.cross,מקל קסמים
+ingame_booster_shop.title.hammer,מטחן
+ingame_booster_shop.title.hand,מצע
+league.Bronze,ליגת ברונזה
+league.div_1,דיביזיון I
+league.div_2,דיביזיון II
+league.div_3,דיביזיון III
+league.div_4,דיביזיון IV
+league.div_5,דיביזיון V
+league.E001,ברונזה III
+league.E002,ברונזה II
+league.E003,ברונזה I
+league.E004,כסף IV
+league.E005,כסף III
+league.E006,כסף II
+league.E007,כסף I
+league.E008,זהב V
+league.E009,זהב IV
+league.E010,זהב III
+league.E011,זהב II
+league.E012,זהב I
+league.E013,פלטינום V
+league.E014,פלטינום IV
+league.E015,פלטינום III
+league.E016,פלטינום II
+league.E017,פלטינום I
+league.E018,מאסטר 1
+league.Gold,ליגה הזהב
+league.Master,ליגת מאסטר
+league.MasterN,מנהיג #div
+league.GrandMaster,גרנדמאסטר
+league.GrandMasterN,גראנדמאסטר #div
+league.Platinum,ליגת פלטינה
+league.Silver,ליגה כסף
+levelup.continue,מדהים!
+levelup.reward,פרס
+levelup.title_division,"מזל טוב!
+מחלקה חדשה!"
+levelup.title_league,"מזל טוב!
+ליגה חדשה!"
+ma2transfer.install,התקן
+ma2transfer.message,"הארנה התעברה לאפליקציה החדשה!
+
+חשוב! השתמש בקוד שלהלן כדי להעביר את ההתקדמות שלך."
+nickname.tutorial_004,סנסי מיכאל
+nickname.tutorial_005,פרופסור פרנק
+nickname.tutorial_006,מלכה מאצ'ה
+nickname.tutorial_007,מורה לאו
+nickname.tutorial_008,טרנר קרל
+nickname.tutorial_009,מורה ברדי
+nickname.tutorial_010,גורו ויקי
+placeholder.hint_friends,"אתגר את חבריך
+והראה מה אתה יכול!"
+placeholder.hint_quests,"הגש את ליגת הברונזה I
+לגלות!"
+placeholder.hint_settings,מוכן בקרוב :)
+placeholder.title_friends,"שחק עם חברים
+בקרוב"
+placeholder.title_quests,"משימות מדהימות
+נעולות
+"
+placeholder.title_settings,הגדרות בבנייה
+quest_help.block_1,השלמו משימות כדי לקבל פרסים!
+quest_help.block_2,השלם את כל המשימות כדי לפתוח את הארון.
+quest_help.block_3,"השלמו את כל המשימות לפני החלק הבא, אחרת תאבדו את הארון!"
+quest_help.continue,הצלחתי
+quest_help.title,ספר מטלות
+quest.aquarium,אסוף #amount דגים
+quest.bar,#progress / #amount
+quest.bar_completed,משימה הושלמה!
+quest.bar_last_try,ניסיון קודם: #progress מתוך #amount
+quest.bar_special_not_tried,#progress / #amount
+quest.best_so_far,תוצאה הטובה ביותר: #progress
+quest.butterfly,אסוף #amount פרפרים
+quest.buy_now,קבל עכשיו #amount
+quest.cat,אסוף #amount חתולים
+quest.chip_destroy,אסוף #amount של כל חתיכה
+quest.chip_destroy_bird,אסוף #amount ציפורים
+quest.chip_destroy_blue,אסוף #amount חתיכות כחול
+quest.chip_destroy_diamond,אסוף #amount יהלומים
+quest.chip_destroy_fish,אסוף #amount גזרים
+quest.chip_destroy_fish_blue,אסוף #amount שעועית כחולה
+quest.chip_destroy_fish_green,אסוף #amount תרדים ירוקים
+quest.chip_destroy_fish_orange,אסוף #amount כרות כתום
+quest.chip_destroy_fish_purple,אסוף #amount גזרים סגולים
+quest.chip_destroy_fish_red,אסוף #amount גזרים אדומים
+quest.chip_destroy_fish_yellow,אסוף #amount גזרים צהובים
+quest.chip_destroy_food,הסר #amount חסכונות
+quest.chip_destroy_frog,אסוף #amount צפרדעים
+quest.chip_destroy_green,אסוף #amount חתיכות ירוקות
+quest.chip_destroy_orange,אסוף #amount חתיכות כתום
+quest.chip_destroy_purple,אסוף #amount חלקים סגולים
+quest.chip_destroy_red,אסוף #amount חתיכות אדומות
+quest.chip_destroy_snail,אסוף #amount שבלות
+quest.chip_destroy_super,אסוף #amount חלקים מעולים
+quest.chip_destroy_wafer,אסוף #amount אבני זהב
+quest.chip_destroy_with_bomb,אסוף #amount חתיכות באמצעות פצצה
+quest.chip_destroy_with_line,אסוף #amount חתיכות עם בונוס קו
+quest.chip_destroy_with_mine,אסוף #amount חתיכות עם בונוס פרפיי
+quest.chip_destroy_with_omni,אסוף #amount חתיכות עם בונוס להב
+quest.chip_destroy_yellow,אסוף #amount חתיכות צהובות
+quest.chip_destroy_waterfish,אסוף #amount דגים מים
+quest.chip_recolor,צבע #amount חתיכות עם בונוס צביעה
+quest.claim,לקחת פרס
+quest.complete_chest,כל המשימות הושלמו
+quest.cover_destroy_bee,אסוף #amount דגים
+quest.cover_destroy_bound,פתח #amount חתיכות
+quest.cover_destroy_chocolate,הסר #amount חלקים עם לבה
+quest.cover_destroy_fizzblue,אסוף #amount פעמונים
+quest.cover_destroy_fizzpurple,אסוף #amount פיז
+quest.cover_destroy_frozen,הסר #amount קרח מהחלקים
+quest.cover_destroy_honey,נקה #amount אבני דבש
+quest.cover_destroy_hotlava,הסר #amount חלקים של לבנת חום
+quest.cover_destroy_receiver_energycube,אסוף #amount קריסטלי ג'לי
+quest.cover_destroy_receiver_jam,אסוף #amount קריסטלי אנרגיה
+quest.cover_destroy_statue,אסוף #amount כלבים
+quest.cover_destroy_stone,הסר #amount חתיכות אבן
+quest.cover_destroy_leaf,נקה #amount עלים
+quest.division_done_card,משימות חדשות בחלק הבא!
+quest.duck,אסוף #amount ברובעים
+quest.energy_flow,גרור את האנרגיה דרך #amount אריחים
+quest.energycube_flow,מלאו #amount אריחים עם ג'לי
+quest.fossil,אסוף #amount תפוחי ים
+quest.gum,אסוף #amount חתיכות גום
+quest.new_quest,משימה חדשה!
+quest.new_quest_in,המשימה הבאה:
+quest.on_arena_splash_score,צייר #amount נקודות בארנה בום!
+quest.on_arena_splash_use_bonus,שמור #amount בונוסים עבור ארזה בום!
+quest.plate_destroy,הסר #amount הפרידות
+quest.play,לשחק
+quest.pvp_score,צייר #amount נקודות בקרבות
+quest.reward,פרס:
+quest.snakes,אסוף #amount נחשים
+quest.tile_destroy_gold,אסוף #amount אריחים עם דשא
+quest.tile_destroy_grass,אסוף #amount אריחים עם דשא
+quest.title,ספר מטלות
+quest.use_bonus,השתמש #amount בונוסים
+quest.use_bonus_bomb,השתמשו ב#amount בונוסים בומבה
+quest.use_bonus_line,השתמש #amount בונוסים קו
+quest.use_bonus_mine,השתמשו ב#amount בונוסים של פייפלי
+quest.use_bonus_omni,השתמש #amount פעמים בבונוס מוקש
+quest.use_bonus_tint,השתמשו ב#amount בונוסים לצביעה
+quest.use_combo_bomb_bomb,צרו קומבו-בונוס פצצה+פצצה #amount פעמים
+quest.use_combo_bomb_omni,צרו קומבו-בונוס חוצץ+בומבה #amount פעמים
+quest.use_combo_bomb_tint,צרו קומבו-בונוס צבע+בום #amount פעמים
+quest.use_combo_line_bomb,צרו קומבו-בונוס פענח+קו #amount פעמים
+quest.use_combo_line_line,צרף בונוס קומבו #amount פעמים
+quest.use_combo_line_omni,צרו קומבו-בונוס חוצץ+קו #amount פעמים
+quest.use_combo_line_tint,צרף בונוס קומבו צבע + קו #amount פעמים
+quest.use_combo_mine_bomb,צרו קומבו-בונוס פחם + נרקיס #amount פעמים
+quest.use_combo_mine_line,צרף את הבונוס הקומבו פענח+קו #amount פעמים
+quest.use_combo_mine_mine,צרף את הבונוס הקומבו פרפר+פרפר #amount פעמים
+quest.use_combo_mine_omni,צרו קומבו-בונוס חוח+פענח #amount פעמים
+quest.use_combo_mine_tint,צרו קומבו-בונוס צבע+פספס #amount פעמים
+quest.use_combo_omni_omni,צרו קומבו-בונוס חוצפה+חוצפה #amount פעמים
+quest.use_combo_omni_tint,צרו קומבו-בונוס צבע+ברק #amount פעמים
+quest.use_combo_tint_tint,צרו קומבו-בונוס צבע+צבע #amount פעמים
+quest.walk,הלך חזיר #amount צעדים
+quest.watch_for_new,- #time
+quest.win,נצח #amount דואלים
+quest.win_coins,הרוויחו #amount מטבעות בקרבות
+quest.win_hard_level,השלם רמה קשה
+quest.win_rematch,נצח #amount משחקים מחדש
+quest.win_streak,נצח #amount קרבים ברציפות
+quest.chip_destroy_clam,אסוף #amount פנינים
+quest.chip_destroy_egg,אסוף #amount ביצים
+quest.gardenflower,אסוף #amount פרחים
+quest.sausages,אסוף #amount נקניקים
+rematch.asks_for_rematch_draw,"#name רוצה ניסיון נוסף
+הימור #bet
+"
+rematch.asks_for_rematch_player_lose,"#name מציע שחק שוב
+הצבעה #bet
+"
+rematch.asks_for_rematch_player_won,"#name רוצה שחק שוב!
+הצבעה #bet
+"
+rematch.rematch_bet,המחיר #bet
+report.body,
+report.subject,בעיית משחק MatchArena
+reward.bars,פסים של זהב
+reward.coins_amt,+#amount
+reward.gems_amt,+#amount
+reward.levels,רמות חדשות
+reward.levels_amt,+#amount
+reward.levelup,"מזל טוב!
+רמה חדשה!"
+reward.new_levels,רמות חדשות!
+reward.talisman,טליסמנים
+reward.xp_amt,+#amount
+search.prize_fund,כסף פרס
+settings.friends_and_partners,חברים ושותפים
+settings.language.help_us_translate,"האם אתם רוצים לעזור לנו לתרגם את Match Arena לשפות שאתם מדברים? שלחו לנו מכתב בכתובת <font color=""\#0000EE"">support@matcharenagame.com."
+settings.notifications.duels,הזמנה לדואל
+shop.indev,בעוד קצת!
+splash.hint_chocolate,הסר כמה שיותר מהלבה
+splash.hint_diamonds,אסוף כמה שיותר אבני יהלום
+splash.hint_energycube,מלא כמה שיותר משבצות עם ג'לי
+splash.hint_fishes,אסוף כמה שיותר מרפואות
+splash.hint_food,הסר כמה שיותר של בצלעות
+splash.hint_fossils,שמור כמה שיותר כפות ים שתוכל
+splash.hint_honeybee,אסוף כמה שיותר של דובים
+splash.hint_ice,הסר כמה שיותר קרח
+splash.hint_jam,מלאו כמה שיותר משבצות עם אנרגיה
+splash.hint_road,הלך חזיר ככל האפשר
+splash.hint_stone,הסר כמה שיותר אבנים
+splash.hint_tasks,השלמו כמה שיותר הזמנות שאתם יכולים
+splash.hint_tiles,אסוף כמה שיותר של דשא
+splash.mode_chocolate,מטרה - לבה
+splash.mode_diamonds,מטרה - יהלומים
+splash.mode_fishes,מטרה - גזרים
+splash.mode_food,מטרה - בצלעות
+splash.mode_jam,מטרה - אנרגיה
+splash.mode_road,מטרה - חזיר
+splash.mode_tasks,מטרה של רמה - הזמנות
+splash.mode_tiles,מטרה - דשא
+talismans_shop.ask_button,פייסבוק
+talismans_shop.ask_text,שאל חברים
+talismans_shop.boost_text,x2 מהירות מילוי
+talismans_shop.buy_all,קבל #amount
+talismans_shop.hint,מטבעות כפולות נצחו
+talismans_shop.recharge,התליסמן הבא בעוד: #time
+talismans_shop.title,טליסמנים
+talismans_shop.watch_ad_button,צפו
+talismans_shop.watch_ad_text,קבל 1 חינם
+tickets_shop.ask_button,פייסבוק
+tickets_shop.ask_text,שאל חברים
+tutorial.001.collect_more_fishes,"אסוף כמה שיותר <font color=""\#5885b8"">גזרים</font> שאתה יכול!"
+tutorial.001.continue_to_collect_fishes,המשך לאסוף גזרים!
+tutorial.001.first_swap_red_down,"הזז את החתיכה האדומה למטה
+להתאים <font color=""\#5885b8"">שלושה בשורה</font>"
+tutorial.001.remind_collect_three_in_a_row,"אסוף <font color=""\#5885b8"">שלוש חתיכות</font> באותו צבע <font color=""\#5885b8"">בשורה</font>"
+tutorial.001.second_swap_green_left,"הזז את החלק הירוק שמאלה, כדי להתאים <font color=""\#5885b8"">שלושה בשורה</font>"
+tutorial.001.third_swap_fish,"<font color=""\#5885b8"">גזרים</font> גם יכולים להתאמן שלושה בשורה
+"
+tutorial.001.you_are_doing_well,אתה עושה טוב!
+tutorial.002.get_bonus_line,"...לקבל <font color=""\#5885b8"">בונוס - קו!</font>"
+tutorial.002.try_four_in_a_row,"נסה להתאים <font color=""\#5885b8"">4 ברציפות!</font>"
+tutorial.002.use_line_bonus,"התאם <font color=""\#5885b8"">שלושה בשורה עם בונוס</font> כדי לראות את כוח השורה!"
+tutorial.003.hint,אסוף יותר גזרים מאשר היריב שלך!
+tutorial.003.try_l_or_t,"התאם חתיכות <font color=""\#5885b8"">בצורת T או L!</font>"
+tutorial.003.use_bomb_bonus,"...לקבל <font color=""\#5885b8"">בונוס - פצצה!</font>
+בואו נפצץ אותה!"
+tutorial.004.clear_gold_tiles,"הצלח להתאים על ה<font color=""\#5885b8"">דשא</font> כדי לאסוף אותו!"
+tutorial.004.combine_omni_with_blue,"החלף <font color=""\#5885b8"">חתיכת הברק</font> עם החתיכה הכחולה כדי להסיר את כל החתיכות הכחולות מהלוח!"
+tutorial.004.try_five_in_a_row,"נסה להשיג <font color=""\#5885b8"">5 ברציפות!</font>"
+tutorial.005.two_bonus_can_combine,"ניתן ל<font color=""\#5885b8"">מזג שני בונוסים</font> כדי לקבל בונוס גדול יותר!"
+tutorial.007.collect_food,"עשו התאמות ליד <font color=""\#5885b8"">חסכונות</font>"
+tutorial.007.move_character,"איסוף אגוזים כדי ל<font color=""\#5885b8"">הזז את חזירה קדימה!</font>"
+tutorial.008.make_mine_bonus,"התאם <font color=""\#5885b8"">ארבע חלקים במרבע</font> וקבל בונוס - נבעור!"
+tutorial.008.use_mine_bonus,"התאם שלושה בשורה עם <font color=""\#5885b8"">פנפנה</font> כדי להשתמש בו!"
+tutorial.009.make_tint_bonus,"צרו צורה <font color=""\#5885b8"">גדולה של טי</font> וקבלו בונוס - צבע!"
+tutorial.009.use_tint_bonus,"<font color=""\#5885b8"">צבע</font> ניתן להחליף עם כל חתיכה!"
+level_popup.adventure.title,רמה
+lives_shop.ma_hint,"צריך חיים כדי
+להמשיך לשחק במשחק המפלצת
+"

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+
+<screen name="uiScreenPopUp" template="tPopUpJenny" label="SID_TOURNAMENT" >	
+	<element name="uiContent">
+		<text y="10" name="uiTxtTournamentText" relativeWidth="1" height="100" halignText="center" valignText="center" halign="center" valign="top" template="tFontWhite,tFontMedium" />				
+		
+		<element y="170" width="100%" halign="center" height="420" marginLeft="100" marginRight="100">
+			<image width="200" height="80" valign="top" padding="10" template="tBox">
+				<text name="uiTxtRank" text="#1" template="tElement,tFontLarge" halignText="center" valignText="center" y="-5" />
+			</image>
+			<image width="200" height="80" halign="right" valign="top" padding="10" template="tBox">
+				<image x="25" width="70" ratio="1" halign="leftOf" valign="center" image="ui/star_on.png" />
+				<text name="uiTxtStars" template="tElement,tFontLarge" halignText="center" valignText="center" marginLeft="20" y="-5" />
+			</image>
+				
+			<image relativeWidth="1.0" height="300" valign="bottom" padding="10" template="tBox">
+				<element name="uiRewardConti" width="200" ratio="1" halign="center" valign="center" visible="false">
+					<image template="tRays" halign="center" valign="center" scale="4" />
+					<element name="uiReward" template="tElement" />
+				</element>
+				<text name="uiTxtRewardHint" template="tElement,tFontMedium" halignText="center" valignText="center" />
+			</image>	
+		</element>
+		<button name="uiBtOk" label="SID_OK" icon="ui/ok.png" template="tButton" halign="center" valign="bottom"/>
+	</element>	
+	<image name="uiImgJennyBack" image="" />
+	<image name="uiImgJennyFront" template="tJennyTrophy" height="1500" ratio="0.5470588235" x="550" y="-650" >
+		<state state="landscape" visible="true" halign="leftOf" height="1600" x="300" valign="bottomOf" y="-650" />
+		<state state="portrait" x="430" y="-600" height="1200" />
+	</image>
+</screen>

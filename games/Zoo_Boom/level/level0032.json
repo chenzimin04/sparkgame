@@ -1,0 +1,13 @@
+ {
+	"size":7,
+	"stars":{"avg":8, "top":14 },
+	"moves":45,
+	"tasks":[
+		{ "type":"COIN", "count":35 }
+	],
+	"add":[
+		{ "x":0, "y":0, "dy":7, "type":"COINS" },
+		{ "x":1, "y":0, "dy":7, "dx":3, "type":"BOX", "count":true }
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_GREEN","GEM_RED","GEM_YELLOW"]
+ }

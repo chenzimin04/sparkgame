@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Game Detail - PlaySpark</title>
+  <link rel="stylesheet" href="styles.css?v=20260524">
+</head>
+<body data-page="detail">
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="brand">
+        <button class="menu-button" type="button" aria-label="Menu"><span></span></button>
+        <a class="brand-copy" href="index.html">
+          <div class="logo-mark"><b>Play</b><b>Spark</b><b>Go</b><b>!</b></div>
+          <div class="logo-sub">casual games portal</div>
+        </a>
+      </div>
+
+      <nav class="nav-group">
+        <a class="nav-link active" href="index.html"><i class="nav-icon orange"></i><span>All</span></a>
+        <a class="nav-link" href="index.html#featured"><i class="nav-icon blue"></i><span>Featured</span></a>
+        <a class="nav-link" href="index.html#new"><i class="nav-icon red"></i><span>New Games</span></a>
+        <a class="nav-link" href="index.html#sports"><i class="nav-icon green"></i><span>Sports</span></a>
+        <a class="nav-link" href="index.html#puzzle"><i class="nav-icon orange"></i><span>Puzzle</span></a>
+      </nav>
+
+      <div class="sidebar-footer">
+        <a href="#">About</a>
+        <a href="#">Privacy</a>
+        <a href="#">Terms</a>
+        <div class="copyright">© 2026 PlaySpark</div>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div class="search-shell">
+          <span class="search-icon" aria-hidden="true"></span>
+          <input id="detailSearchInput" class="search-input" type="search" placeholder="Search Games">
+          <button id="detailSearchButton" class="search-button" type="button">Search</button>
+        </div>
+        <div class="install">
+          <div class="install-icon"><span class="install-arrow"></span></div>
+          <span>Game Detail</span>
+        </div>
+      </header>
+
+      <div class="content">
+        <div class="game-layout">
+          <aside>
+            <div class="panel">
+              <h3 class="panel-title">More Like This</h3>
+              <div id="sideSuggestions" class="mini-stack"></div>
+            </div>
+          </aside>
+
+          <section class="stage-card">
+            <section id="detailPlayerSection" class="detail-player-shell">
+              <div class="detail-player-head">
+                <h3 class="panel-title">Play Now</h3>
+                <div class="detail-player-tools">
+                  <a id="detailInlineRawLink" class="ghost-button compact" href="#" target="_blank" rel="noreferrer">Open Raw</a>
+                  <button id="detailInlineFullscreen" class="cta-button compact" type="button">Fullscreen</button>
+                </div>
+              </div>
+              <div id="detailPlayerFrame" class="player-frame detail-player-frame">
+                <iframe id="detailGameFrame" title="Game Player" allowfullscreen loading="eager"></iframe>
+              </div>
+            </section>
+            <div class="detail-title-bar">
+              <h1 id="detailTitle" class="detail-stage-title"></h1>
+            </div>
+            <div class="detail-legacy" hidden aria-hidden="true">
+              <p id="detailCategory"></p>
+              <p id="detailDescription"></p>
+              <div id="detailFooterTitle"></div>
+              <div id="detailMeta"></div>
+              <img id="detailIcon" alt="">
+              <a id="playNowButton" href="#detailPlayerSection">Back To Player</a>
+              <a id="openSourceButton" href="#" target="_blank" rel="noreferrer">Open Source Page</a>
+            </div>
+          </section>
+
+          <aside class="detail-side">
+            <div class="panel summary-panel">
+              <img id="summaryThumb" class="summary-thumb" alt="">
+              <h2 id="summaryTitle" class="summary-title"></h2>
+              <div class="summary-stats">
+                <span id="summaryRating" class="rating-pill"></span>
+                <span id="summaryPlayers"></span>
+              </div>
+            </div>
+
+            <div class="panel">
+              <h3 class="panel-title">Recommended</h3>
+              <div id="recommendGrid" class="recommend-grid"></div>
+            </div>
+          </aside>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script src="app.js?v=20260524"></script>
+</body>
+</html>

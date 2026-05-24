@@ -1,0 +1,293 @@
+
+Onion.png
+size: 1253,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect-Base
+  rotate: false
+  xy: 675, 60
+  size: 223, 95
+  orig: 223, 95
+  offset: 0, 0
+  index: -1
+Effect-Particle
+  rotate: true
+  xy: 959, 3
+  size: 8, 12
+  orig: 10, 14
+  offset: 1, 1
+  index: -1
+Effect-White
+  rotate: false
+  xy: 736, 3
+  size: 175, 55
+  orig: 175, 55
+  offset: 0, 0
+  index: -1
+Onion-Blink-L
+  rotate: false
+  xy: 260, 4
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+Onion-Blink-R
+  rotate: false
+  xy: 260, 4
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+Onion-Ear-L
+  rotate: true
+  xy: 970, 62
+  size: 93, 89
+  orig: 93, 89
+  offset: 0, 0
+  index: -1
+Onion-Ear-R
+  rotate: true
+  xy: 1134, 72
+  size: 83, 76
+  orig: 83, 76
+  offset: 0, 0
+  index: -1
+Onion-Eyeball-L
+  rotate: false
+  xy: 1168, 4
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Onion-Eyeball-R
+  rotate: false
+  xy: 1140, 2
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Onion-Eyebrow-L
+  rotate: false
+  xy: 229, 4
+  size: 29, 8
+  orig: 29, 8
+  offset: 0, 0
+  index: -1
+Onion-Eyebrow-R
+  rotate: false
+  xy: 913, 2
+  size: 34, 7
+  orig: 34, 7
+  offset: 0, 0
+  index: -1
+Onion-Face
+  rotate: true
+  xy: 2, 5
+  size: 150, 225
+  orig: 150, 225
+  offset: 0, 0
+  index: -1
+Onion-L-Hand
+  rotate: false
+  xy: 1086, 24
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+Onion-L-Leg
+  rotate: true
+  xy: 335, 3
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+Onion-L-Palm-Fall
+  rotate: false
+  xy: 1212, 68
+  size: 38, 22
+  orig: 38, 22
+  offset: 0, 0
+  index: -1
+Onion-L-Palm-Fold
+  rotate: false
+  xy: 1201, 35
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Onion-L-Palm-Fold-1
+  rotate: true
+  xy: 1171, 31
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+Onion-L-Palm-Open
+  rotate: true
+  xy: 1212, 92
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+Onion-L-Palm-Open-1
+  rotate: true
+  xy: 1015, 18
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+Onion-L-Shoe
+  rotate: true
+  xy: 286, 53
+  size: 102, 59
+  orig: 102, 59
+  offset: 0, 0
+  index: -1
+Onion-L-Shorts
+  rotate: true
+  xy: 289, 2
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+Onion-Mouth-Happy-Open
+  rotate: true
+  xy: 959, 13
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+Onion-Mouth-Sad-Idle
+  rotate: false
+  xy: 1051, 3
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+Onion-Mouth-Sad-Open
+  rotate: true
+  xy: 492, 4
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+Onion-Nose
+  rotate: false
+  xy: 1086, 4
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+Onion-R-Hand
+  rotate: false
+  xy: 988, 14
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+Onion-R-Leg
+  rotate: true
+  xy: 670, 7
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+Onion-R-Palm-Fall
+  rotate: true
+  xy: 1116, 24
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+Onion-R-Palm-Fold
+  rotate: false
+  xy: 1192, 2
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+Onion-R-Palm-Fold-1
+  rotate: true
+  xy: 1140, 29
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+Onion-R-Palm-Open
+  rotate: false
+  xy: 1051, 20
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+Onion-R-Palm-Open-1
+  rotate: false
+  xy: 1212, 120
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+Onion-R-Shoe
+  rotate: true
+  xy: 1061, 66
+  size: 89, 71
+  orig: 89, 71
+  offset: 0, 0
+  index: -1
+Onion-R-Shorts
+  rotate: true
+  xy: 913, 11
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+Onion-Specs
+  rotate: true
+  xy: 229, 14
+  size: 141, 55
+  orig: 141, 55
+  offset: 0, 0
+  index: -1
+Onion_Shadow
+  rotate: false
+  xy: 347, 57
+  size: 326, 98
+  orig: 326, 98
+  offset: 0, 0
+  index: -1
+tint-Onion-Body
+  rotate: false
+  xy: 900, 61
+  size: 68, 94
+  orig: 68, 94
+  offset: 0, 0
+  index: -1
+tint-Onion-L-Shoulder
+  rotate: false
+  xy: 602, 5
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+tint-Onion-L-Socks
+  rotate: true
+  xy: 519, 5
+  size: 50, 81
+  orig: 50, 81
+  offset: 0, 0
+  index: -1
+tint-Onion-R-Shoulder
+  rotate: false
+  xy: 636, 5
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+tint-Onion-R-Socks
+  rotate: true
+  xy: 401, 3
+  size: 52, 89
+  orig: 52, 89
+  offset: 0, 0
+  index: -1

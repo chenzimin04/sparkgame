@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+
+<screen name="uiShortInfo" width="1000" height="200" y="-300" halign="center" valign="center">	
+	<image name="uiImgBg" template="tElement,tBox" alpha="3" />
+	<text name="uiTxtMessage" halignText="center" valignText="center" halign="center" valign="center" template="tFont,tElement,tFontMedium" />
+</screen>

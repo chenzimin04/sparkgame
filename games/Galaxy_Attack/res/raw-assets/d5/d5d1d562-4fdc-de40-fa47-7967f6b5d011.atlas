@@ -1,0 +1,188 @@
+
+skel_mainplane_1.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 329, 95
+  size: 61, 42
+  orig: 61, 42
+  offset: 0, 0
+  index: -1
+010001
+  rotate: false
+  xy: 180, 325
+  size: 189, 186
+  orig: 189, 186
+  offset: 0, 0
+  index: -1
+010002
+  rotate: false
+  xy: 180, 138
+  size: 189, 186
+  orig: 189, 186
+  offset: 0, 0
+  index: -1
+010003
+  rotate: false
+  xy: 370, 325
+  size: 189, 186
+  orig: 189, 186
+  offset: 0, 0
+  index: -1
+010004
+  rotate: false
+  xy: 370, 138
+  size: 189, 186
+  orig: 189, 186
+  offset: 0, 0
+  index: -1
+010005
+  rotate: false
+  xy: 560, 325
+  size: 189, 186
+  orig: 189, 186
+  offset: 0, 0
+  index: -1
+010006
+  rotate: false
+  xy: 560, 140
+  size: 185, 184
+  orig: 185, 184
+  offset: 0, 0
+  index: -1
+aaaa
+  rotate: false
+  xy: 936, 333
+  size: 180, 178
+  orig: 180, 178
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 180, 23
+  size: 34, 78
+  orig: 34, 78
+  offset: 0, 0
+  index: -1
+cccc
+  rotate: false
+  xy: 267, 75
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+feijig
+  rotate: false
+  xy: 750, 337
+  size: 185, 174
+  orig: 185, 174
+  offset: 0, 0
+  index: -1
+fury_left
+  rotate: true
+  xy: 560, 1
+  size: 138, 210
+  orig: 138, 210
+  offset: 0, 0
+  index: -1
+fury_tale
+  rotate: true
+  xy: 1117, 343
+  size: 28, 102
+  orig: 28, 102
+  offset: 0, 0
+  index: -1
+huo
+  rotate: false
+  xy: 1117, 372
+  size: 158, 139
+  orig: 158, 139
+  offset: 0, 0
+  index: -1
+jetpack
+  rotate: true
+  xy: 1425, 379
+  size: 28, 56
+  orig: 28, 56
+  offset: 0, 0
+  index: -1
+left_engine
+  rotate: true
+  xy: 1516, 477
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1
+left_head
+  rotate: false
+  xy: 1425, 408
+  size: 42, 103
+  orig: 42, 103
+  offset: 0, 0
+  index: -1
+left_jet
+  rotate: true
+  xy: 329, 76
+  size: 18, 56
+  orig: 18, 56
+  offset: 0, 0
+  index: -1
+left_longwing
+  rotate: false
+  xy: 180, 58
+  size: 86, 79
+  orig: 86, 79
+  offset: 0, 0
+  index: -1
+left_machine
+  rotate: false
+  xy: 1468, 451
+  size: 47, 60
+  orig: 47, 60
+  offset: 0, 0
+  index: -1
+left_wing
+  rotate: false
+  xy: 1468, 408
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+qq1
+  rotate: false
+  xy: 1, 267
+  size: 178, 244
+  orig: 178, 244
+  offset: 0, 0
+  index: -1
+qq2
+  rotate: false
+  xy: 1, 22
+  size: 178, 244
+  orig: 178, 244
+  offset: 0, 0
+  index: -1
+quan
+  rotate: true
+  xy: 1276, 369
+  size: 142, 148
+  orig: 142, 148
+  offset: 0, 0
+  index: -1
+tale
+  rotate: true
+  xy: 1, 1
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+turbo
+  rotate: false
+  xy: 1220, 349
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1

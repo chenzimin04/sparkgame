@@ -1,0 +1,272 @@
+
+Blossom@0.5x.png
+size: 766,198
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blossom-Effect-Base
+  rotate: true
+  xy: 471, 85
+  size: 111, 47
+  orig: 111, 47
+  offset: 0, 0
+  index: -1
+Blossom-Effect-Particle
+  rotate: true
+  xy: 129, 1
+  size: 4, 6
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+Blossom-Effect-White
+  rotate: false
+  xy: 129, 6
+  size: 87, 27
+  orig: 87, 27
+  offset: 0, 0
+  index: -1
+Blossom-Eye-Close-L
+  rotate: true
+  xy: 432, 3
+  size: 54, 84
+  orig: 54, 84
+  offset: 0, 0
+  index: -1
+Blossom-Eye-Close-R
+  rotate: false
+  xy: 574, 106
+  size: 81, 91
+  orig: 81, 91
+  offset: 0, 0
+  index: -1
+Blossom-Eye-White-L
+  rotate: true
+  xy: 517, 3
+  size: 54, 84
+  orig: 54, 84
+  offset: 0, 0
+  index: -1
+Blossom-Eye-White-R
+  rotate: false
+  xy: 602, 14
+  size: 81, 91
+  orig: 81, 91
+  offset: 0, 0
+  index: -1
+Blossom-EyeBall-L
+  rotate: true
+  xy: 685, 53
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+Blossom-EyeBall-R
+  rotate: false
+  xy: 685, 103
+  size: 75, 74
+  orig: 75, 74
+  offset: 0, 0
+  index: -1
+Blossom-EyeBall-W-L
+  rotate: false
+  xy: 711, 1
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Blossom-EyeBall-W-R
+  rotate: false
+  xy: 734, 2
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Blossom-Eyebrow-Angry-L
+  rotate: true
+  xy: 276, 42
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+Blossom-Eyebrow-Angry-R
+  rotate: false
+  xy: 602, 1
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+Blossom-Face
+  rotate: true
+  xy: 276, 53
+  size: 143, 121
+  orig: 143, 121
+  offset: 0, 0
+  index: -1
+Blossom-Hair-Front
+  rotate: false
+  xy: 295, 1
+  size: 136, 51
+  orig: 136, 51
+  offset: 0, 0
+  index: -1
+Blossom-Hair-Long
+  rotate: false
+  xy: 149, 42
+  size: 125, 155
+  orig: 125, 155
+  offset: 0, 0
+  index: -1
+Blossom-Hand-L
+  rotate: true
+  xy: 53, 4
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+Blossom-Hand-R
+  rotate: true
+  xy: 471, 59
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+Blossom-Kick-FX
+  rotate: false
+  xy: 398, 58
+  size: 72, 138
+  orig: 72, 138
+  offset: 0, 0
+  index: -1
+Blossom-Kick-Ray-FX
+  rotate: false
+  xy: 1, 35
+  size: 147, 162
+  orig: 147, 162
+  offset: 0, 0
+  index: -1
+Blossom-Leg-L
+  rotate: false
+  xy: 266, 2
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+Blossom-Leg-R
+  rotate: true
+  xy: 522, 67
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+Blossom-Leg-R-Top
+  rotate: true
+  xy: 562, 67
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+Blossom-Mouth-Happy
+  rotate: false
+  xy: 102, 5
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+Blossom-Mouth-Idle
+  rotate: false
+  xy: 657, 109
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+Blossom-Mouth-O
+  rotate: false
+  xy: 752, 82
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+Blossom-Mouth-Sad-Idle
+  rotate: false
+  xy: 613, 2
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+Blossom-Mouth-Sad-Open
+  rotate: true
+  xy: 685, 10
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+Blossom-Ribbon
+  rotate: false
+  xy: 520, 95
+  size: 53, 101
+  orig: 53, 101
+  offset: 0, 0
+  index: -1
+Blossom-Ribbon-2
+  rotate: false
+  xy: 733, 28
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Blossom-Shadow
+  rotate: false
+  xy: 685, 178
+  size: 80, 18
+  orig: 80, 18
+  offset: 0, 0
+  index: -1
+Blossom-Shoe-L
+  rotate: false
+  xy: 657, 145
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+Blossom-Shoe-R
+  rotate: false
+  xy: 657, 171
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+Blossom-Shorts-L
+  rotate: false
+  xy: 1, 1
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+Blossom-Shorts-R
+  rotate: false
+  xy: 27, 1
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+tint-Blossom-Body
+  rotate: true
+  xy: 217, 1
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+tint-Blossom-Socks-L
+  rotate: false
+  xy: 657, 124
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+tint-Blossom-Socks-R
+  rotate: true
+  xy: 711, 26
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1

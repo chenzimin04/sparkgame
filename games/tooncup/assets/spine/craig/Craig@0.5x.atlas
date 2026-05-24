@@ -1,0 +1,279 @@
+
+Craig@0.5x.png
+size: 571,118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Craig-Arm-L
+  rotate: false
+  xy: 476, 3
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+Craig-Arm-R
+  rotate: true
+  xy: 204, 30
+  size: 17, 42
+  orig: 17, 42
+  offset: 0, 0
+  index: -1
+Craig-EB-L
+  rotate: true
+  xy: 486, 55
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+Craig-EB-R
+  rotate: true
+  xy: 479, 54
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Craig-EBall-L
+  rotate: true
+  xy: 337, 52
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+Craig-EBall-R
+  rotate: true
+  xy: 321, 52
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+Craig-Effect-Base
+  rotate: true
+  xy: 127, 6
+  size: 111, 47
+  orig: 111, 47
+  offset: 0, 0
+  index: -1
+Craig-Effect-Particle
+  rotate: true
+  xy: 127, 1
+  size: 4, 6
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+Craig-Effect-White
+  rotate: true
+  xy: 176, 30
+  size: 87, 27
+  orig: 87, 27
+  offset: 0, 0
+  index: -1
+Craig-Eye-Half-L
+  rotate: true
+  xy: 504, 3
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+Craig-Eye-Half-R
+  rotate: true
+  xy: 538, 84
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+Craig-Eye-TightB
+  rotate: true
+  xy: 249, 49
+  size: 68, 43
+  orig: 68, 43
+  offset: 0, 0
+  index: -1
+Craig-Eye-TightC
+  rotate: true
+  xy: 204, 48
+  size: 69, 44
+  orig: 69, 44
+  offset: 0, 0
+  index: -1
+Craig-Face
+  rotate: false
+  xy: 1, 5
+  size: 125, 112
+  orig: 125, 112
+  offset: 0, 0
+  index: -1
+Craig-Hip
+  rotate: false
+  xy: 319, 32
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+Craig-L-Leg
+  rotate: true
+  xy: 464, 38
+  size: 14, 41
+  orig: 14, 41
+  offset: 0, 0
+  index: -1
+Craig-L-Shoe
+  rotate: false
+  xy: 506, 42
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+Craig-L-Shorts
+  rotate: true
+  xy: 282, 30
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+Craig-Mouth-Happy
+  rotate: false
+  xy: 176, 1
+  size: 66, 28
+  orig: 66, 28
+  offset: 0, 0
+  index: -1
+Craig-Mouth-Idle
+  rotate: false
+  xy: 243, 1
+  size: 66, 28
+  orig: 66, 28
+  offset: 0, 0
+  index: -1
+Craig-Mouth-Sad
+  rotate: true
+  xy: 293, 51
+  size: 66, 27
+  orig: 66, 27
+  offset: 0, 0
+  index: -1
+Craig-Mouth-Sad-Close
+  rotate: true
+  xy: 321, 62
+  size: 55, 25
+  orig: 55, 25
+  offset: 0, 0
+  index: -1
+Craig-Nock
+  rotate: true
+  xy: 547, 60
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Craig-Offpant-pache
+  rotate: true
+  xy: 470, 54
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+Craig-Palm-L-Fall
+  rotate: false
+  xy: 435, 53
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+Craig-Palm-L-Fold
+  rotate: false
+  xy: 442, 1
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+Craig-Palm-L-Open
+  rotate: true
+  xy: 332, 4
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Craig-Palm-R-Fall
+  rotate: false
+  xy: 395, 52
+  size: 39, 15
+  orig: 39, 15
+  offset: 0, 0
+  index: -1
+Craig-Palm-R-Fold
+  rotate: false
+  xy: 408, 1
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+Craig-Palm-R-Open
+  rotate: true
+  xy: 370, 2
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+Craig-R-Leg
+  rotate: true
+  xy: 354, 34
+  size: 16, 41
+  orig: 16, 41
+  offset: 0, 0
+  index: -1
+Craig-R-Shoe
+  rotate: true
+  xy: 512, 77
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+Craig-R-Shorts
+  rotate: true
+  xy: 247, 30
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+Craig_Shadow
+  rotate: false
+  xy: 348, 68
+  size: 163, 49
+  orig: 163, 49
+  offset: 0, 0
+  index: -1
+tint-Craig-Body
+  rotate: true
+  xy: 528, 3
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+tint-Craig-L-Shoulder
+  rotate: true
+  xy: 396, 36
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+tint-Craig-L-Socks
+  rotate: true
+  xy: 422, 36
+  size: 14, 41
+  orig: 14, 41
+  offset: 0, 0
+  index: -1
+tint-Craig-R-Shoulder
+  rotate: false
+  xy: 310, 1
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+tint-Craig-R-Socks
+  rotate: true
+  xy: 352, 51
+  size: 16, 42
+  orig: 16, 42
+  offset: 0, 0
+  index: -1

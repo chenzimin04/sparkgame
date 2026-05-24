@@ -1,0 +1,216 @@
+
+Tobias@0.5x.png
+size: 301, 157
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Tobias-Effect-Base
+  rotate: false
+  xy: 226, 127
+  size: 67, 28
+  orig: 67, 28
+  offset: 0, 0
+  index: -1
+Tobias-Effect-Particle
+  rotate: true
+  xy: 294, 153
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+Tobias-Effect-White
+  rotate: true
+  xy: 255, 43
+  size: 52, 16
+  orig: 52, 16
+  offset: 0, 0
+  index: -1
+Tobias-Eye-White-L
+  rotate: false
+  xy: 209, 1
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+Tobias-Eye-White-R
+  rotate: false
+  xy: 171, 68
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+Tobias-Eye_happy
+  rotate: false
+  xy: 171, 43
+  size: 37, 22
+  orig: 48, 27
+  offset: 5, 2
+  index: -1
+Tobias-Eyeball-L
+  rotate: false
+  xy: 221, 28
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Tobias-Eyeball-R
+  rotate: false
+  xy: 221, 28
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Tobias-Eyeblink-R
+  rotate: false
+  xy: 245, 1
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+Tobias-Eyebrow-L
+  rotate: false
+  xy: 221, 19
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+Tobias-Eyebrow-R
+  rotate: true
+  xy: 211, 73
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+Tobias-Eyebrow-R-Sad
+  rotate: true
+  xy: 237, 30
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Tobias-Face
+  rotate: true
+  xy: 1, 2
+  size: 154, 169
+  orig: 154, 169
+  offset: 0, 0
+  index: -1
+Tobias-Hip-Patch
+  rotate: false
+  xy: 222, 67
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+Tobias-L-Hand
+  rotate: true
+  xy: 226, 96
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+Tobias-L-Leg
+  rotate: false
+  xy: 268, 15
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+Tobias-R-Leg
+  rotate: false
+  xy: 268, 15
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+Tobias-L-Shoe
+  rotate: true
+  xy: 171, 6
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+Tobias-R-Shoe
+  rotate: true
+  xy: 171, 6
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+Tobias-L-Shorts
+  rotate: false
+  xy: 245, 10
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+Tobias-Mouth-Excited
+  rotate: true
+  xy: 273, 35
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+Tobias-Mouth-Happy
+  rotate: false
+  xy: 171, 117
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+Tobias-Mouth-Sad
+  rotate: true
+  xy: 277, 77
+  size: 49, 23
+  orig: 49, 23
+  offset: 0, 0
+  index: -1
+Tobias-R-Hand
+  rotate: true
+  xy: 171, 86
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+Tobias-R-Shorts
+  rotate: true
+  xy: 221, 44
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+Tobias-Shadow
+  rotate: true
+  xy: 209, 18
+  size: 48, 11
+  orig: 48, 11
+  offset: 0, 0
+  index: -1
+tint-Tobias-L-Band
+  rotate: false
+  xy: 269, 3
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+tint-Tobias-L-Socks
+  rotate: false
+  xy: 197, 5
+  size: 11, 37
+  orig: 11, 37
+  offset: 0, 0
+  index: -1
+tint-Tobias-R-Socks
+  rotate: false
+  xy: 197, 5
+  size: 11, 37
+  orig: 11, 37
+  offset: 0, 0
+  index: -1
+tint-Tobias-R-Band
+  rotate: false
+  xy: 280, 24
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1

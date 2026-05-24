@@ -1,0 +1,11 @@
+{
+  "display" : "fullscreen",
+  "icons" : [ {
+    "sizes" : "180x180",
+    "src" : "https://www.jmbilegame.com/La_Football/0b1feed11387470f694fc0b8cdd98913_icon.png"
+  } ],
+  "name" : "La Football",
+  "scope" : ".",
+  "short_name" : "La Football",
+  "start_url" : "./index.html?utm_source=h5sdk_shortcut"
+}

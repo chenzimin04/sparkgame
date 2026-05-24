@@ -1,0 +1,41 @@
+
+shatandonghua.png
+size: 1654,289
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chauna
+  rotate: false
+  xy: 674, 58
+  size: 182, 150
+  orig: 182, 150
+  offset: 0, 0
+  index: -1
+chuanb
+  rotate: true
+  xy: 406, 3
+  size: 68, 91
+  orig: 68, 91
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 2, 210
+  size: 1650, 77
+  orig: 1650, 77
+  offset: 0, 0
+  index: -1
+yea
+  rotate: false
+  xy: 2, 2
+  size: 402, 206
+  orig: 402, 206
+  offset: 0, 0
+  index: -1
+yeb
+  rotate: false
+  xy: 406, 73
+  size: 266, 135
+  orig: 266, 135
+  offset: 0, 0
+  index: -1

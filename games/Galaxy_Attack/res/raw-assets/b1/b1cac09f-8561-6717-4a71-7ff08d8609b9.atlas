@@ -1,0 +1,62 @@
+
+skel_battlePass_lock.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 1, 213
+  size: 295, 297
+  orig: 295, 297
+  offset: 0, 0
+  index: -1
+lantiao50%
+  rotate: true
+  xy: 297, 150
+  size: 360, 70
+  orig: 360, 70
+  offset: 0, 0
+  index: -1
+suo1
+  rotate: false
+  xy: 226, 193
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+suo2
+  rotate: true
+  xy: 474, 464
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+suo3
+  rotate: false
+  xy: 1, 63
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+suo3 - 副本
+  rotate: false
+  xy: 368, 405
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 1, 161
+  size: 224, 51
+  orig: 224, 51
+  offset: 0, 0
+  index: -1
+xian
+  rotate: true
+  xy: 368, 283
+  size: 121, 23
+  orig: 121, 23
+  offset: 0, 0
+  index: -1

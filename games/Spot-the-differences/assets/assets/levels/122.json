@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "robot_on_desk_a.jpg",
+  "image2": "robot_on_desk_b.jpg",
+  "differences":
+  [
+    {
+      "x": 172.0,
+      "y": 252.0,
+      "size": 110.0
+    },
+    {
+      "x": 702.0,
+      "y": 280.0,
+      "size": 110.0
+    },
+    {
+      "x": 503.0,
+      "y": 147.0,
+      "size": 60.0
+    },
+    {
+      "x": 457.0,
+      "y": 438.0,
+      "size": 50.0
+    },
+    {
+      "x": 551.0,
+      "y": 438.0,
+      "size": 50.0
+    }
+  ]
+}

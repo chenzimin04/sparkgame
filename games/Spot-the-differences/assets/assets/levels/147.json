@@ -1,0 +1,32 @@
+{
+   "resolution":"standard",
+   "image1":"medieval_city_a.jpg",
+   "image2":"medieval_city_b.jpg",
+   "differences":[
+      {
+         "x":338.5,
+         "y":414.0,
+         "size":98.2
+      },
+      {
+         "x":390.5,
+         "y":130.0,
+         "size":152.1
+      },
+      {
+         "x":542.5,
+         "y":586.0,
+         "size":100.0
+      },
+      {
+         "x":732.5,
+         "y":468.0,
+         "size":93.30000000000001
+      },
+      {
+         "x":936.5,
+         "y":154.0,
+         "size":196.2
+      }
+   ]
+}

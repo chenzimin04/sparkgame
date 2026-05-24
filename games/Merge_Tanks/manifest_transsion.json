@@ -1,0 +1,11 @@
+{
+  "display" : "fullscreen",
+  "icons" : [ {
+    "sizes" : "180x180",
+    "src" : "https://www.gzhuandougame.com/Merge_Tanks/a5d4e059d8bde9b52f1df18e0af2b72c_icon.png"
+  } ],
+  "name" : "Merge Tanks",
+  "scope" : ".",
+  "short_name" : "Merge Tanks",
+  "start_url" : "./index.html?utm_source=h5sdk_shortcut"
+}

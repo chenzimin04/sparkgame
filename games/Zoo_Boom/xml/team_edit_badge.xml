@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+<templates>
+	<image id="tPlayerContainerMember" template="tPlayerContainerStars">
+		<player name="uiPlayer" >
+			<text name="uiTxtPlayerName" halign="rightOf" valign="top" />
+			<text name="uiTxtMemberRank" halign="rightOf" valign="bottom" width="600" height="50" halignText="left" valignText="center" template="tFontMedium" x="14" text="Chef" />
+		</player>			
+		<image name="uiImgStarBox" width="200" />
+	</image>
+	<element id="tEditItem" ratio="1.0" width="120" halign="center" valign="top">
+		<button name="uiBtPrevious" image="ui/arrow_white.png" ratio="1.0" width="80%" halign="leftOf" valign="center" scaleX="-1" x="30" />
+		<button name="uiBtNext" image="ui/arrow_white.png" ratio="1.0" width="80%" halign="rightOf" valign="center" x="-30" />
+		<image name="uiImgItem" ratio="1.0" width="100%" halign="center" valign="center" />				
+		<button name="uiBtColor" width="100%" height="100%" halign="center" valign="bottomOf" template="tBlock" >
+			<image template="tElement,tFrame" marginBottom="-5" marginRight="-5" />
+		</button>
+	</element>
+</templates>
+
+<screen name="uiScreenTeamBadgeEdit" template="tPopUpJennyCurious">	
+	<element name="uiContent">
+		<text name="uiTxtHeadText" text="SID_EDIT_TEAM" template="tFontWhite,tFontLarge" width="100%" height="50" halignText="center" valignText="center" />
+		<team name="uiEditBadge" width="350" ratio="1" halign="center" y="100">
+			<image name="uiImg0" template="tElement"/>
+			<image name="uiImg1" template="tElement"/>			
+			<element template="tTeamItem" halign="center" valign="center" scale="0.5"/>
+			<button name="uiBtRandom" width="120" template="tSquareButton" halign="rightOf" valign="center" x="100" >
+				<image name="uiImgIcon" image="dynamic/switch.png" />
+			</button>
+		</team>	
+		<element width="90%" height="100%" marginTop="560" halign="center" marginLeft="50" marginRight="50">
+			<element name="uiItem0" template="tEditItem" halign="left" />
+			<element name="uiItem1" template="tEditItem" />
+			<element name="uiItem2" template="tEditItem" halign="right" >
+				<image name="uiImgOverlay" template="tElement" />	
+			</element>
+		</element>
+		<button name="uiBtOk" label="SID_OK" template="tButton" halign="center" valign="bottom"/>		
+	</element>
+</screen>

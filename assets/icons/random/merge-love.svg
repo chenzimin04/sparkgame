@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1024" y2="1024" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4b50ff"/>
+      <stop offset="1" stop-color="#15d8c3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="220" fill="url(#bg)"/>
+  <circle cx="272" cy="210" r="168" fill="#ffffff" opacity="0.16"/>
+  <g transform="translate(-360, 34) scale(0.9)">
+    <rect x="938" y="238" width="92" height="92" rx="24" fill="#ffffff" opacity="0.92"/>
+<rect x="1056" y="332" width="112" height="112" rx="28" fill="#ffda57" opacity="0.95"/>
+<rect x="1206" y="252" width="126" height="126" rx="32" fill="#7ef3ff" opacity="0.92"/>
+<rect x="948" y="482" width="144" height="144" rx="38" fill="#ffffff" opacity="0.16"/>
+<rect x="1120" y="492" width="182" height="90" rx="32" fill="#182f4a" opacity="0.22"/>
+  </g>
+  <rect x="122" y="716" width="260" height="150" rx="68" fill="#2e328f" opacity="0.22"/>
+  <text x="252" y="816" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="108" font-weight="900" fill="#ffffff">ML</text>
+</svg>

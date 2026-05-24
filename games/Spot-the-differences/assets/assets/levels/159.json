@@ -1,0 +1,32 @@
+{
+   "resolution":"standard",
+   "image1":"desert_village_a.jpg",
+   "image2":"desert_village_b.jpg",
+   "differences":[
+      {
+         "x":609.5,
+         "y":120.0,
+         "size":132.5
+      },
+      {
+         "x":835.0,
+         "y":130.0,
+         "size":132.5
+      },
+      {
+         "x":926.5,
+         "y":552.0,
+         "size":157.0
+      },
+      {
+         "x":694.5,
+         "y":566.0,
+         "size":117.8
+      },
+      {
+         "x":382.5,
+         "y":564.0,
+         "size":112.89999999999999
+      }
+   ]
+}

@@ -1,0 +1,34 @@
+
+skel_goldship_fire.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+j001
+  rotate: false
+  xy: 1, 123
+  size: 315, 123
+  orig: 315, 123
+  offset: 0, 0
+  index: -1
+j002
+  rotate: true
+  xy: 1, 52
+  size: 70, 233
+  orig: 70, 233
+  offset: 0, 0
+  index: -1
+j003
+  rotate: true
+  xy: 1, 1
+  size: 50, 191
+  orig: 50, 191
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 317, 17
+  size: 150, 229
+  orig: 150, 229
+  offset: 0, 0
+  index: -1

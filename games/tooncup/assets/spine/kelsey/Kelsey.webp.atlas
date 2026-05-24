@@ -1,0 +1,384 @@
+
+Kelsey.webp
+size: 427,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 102, 514
+  size: 117, 50
+  orig: 117, 50
+  offset: 0, 0
+  index: -1
+AA
+  rotate: true
+  xy: 359, 490
+  size: 78, 47
+  orig: 78, 47
+  offset: 0, 0
+  index: -1
+AAA
+  rotate: false
+  xy: 338, 54
+  size: 71, 36
+  orig: 71, 36
+  offset: 0, 0
+  index: -1
+E
+  rotate: false
+  xy: 135, 201
+  size: 73, 24
+  orig: 73, 24
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 838
+  size: 250, 192
+  orig: 250, 192
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: false
+  xy: 145, 322
+  size: 78, 58
+  orig: 78, 58
+  offset: 0, 0
+  index: -1
+Kelsey_Bird
+  rotate: false
+  xy: 2, 56
+  size: 119, 138
+  orig: 119, 138
+  offset: 0, 0
+  index: -1
+Kelsey_Bird_1
+  rotate: false
+  xy: 254, 669
+  size: 117, 136
+  orig: 117, 136
+  offset: 0, 0
+  index: -1
+Kelsey_Ears_R
+  rotate: false
+  xy: 309, 227
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+Kelsey_Shadow
+  rotate: true
+  xy: 2, 510
+  size: 326, 98
+  orig: 326, 98
+  offset: 0, 0
+  index: -1
+Kelsey_body1
+  rotate: true
+  xy: 145, 382
+  size: 130, 61
+  orig: 130, 61
+  offset: 0, 0
+  index: -1
+Kelsey_eyes_L
+  rotate: true
+  xy: 365, 301
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+Kelsey_eyes_R
+  rotate: true
+  xy: 365, 301
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+Kelsey_eyes_L_brows
+  rotate: false
+  xy: 338, 25
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+Kelsey_eyes_R_brows
+  rotate: false
+  xy: 373, 679
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+Kelsey_eyesbrows_L_close
+  rotate: true
+  xy: 412, 770
+  size: 36, 13
+  orig: 36, 13
+  offset: 0, 0
+  index: -1
+Kelsey_eyesbrows_R_close
+  rotate: true
+  xy: 412, 732
+  size: 36, 13
+  orig: 36, 13
+  offset: 0, 0
+  index: -1
+Kelsey_eyesdots_L
+  rotate: false
+  xy: 406, 322
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+Kelsey_eyesdots_R
+  rotate: false
+  xy: 408, 868
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Kelsey_hair_1
+  rotate: true
+  xy: 102, 566
+  size: 270, 150
+  orig: 270, 150
+  offset: 0, 0
+  index: -1
+Kelsey_hair_2
+  rotate: false
+  xy: 357, 92
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+Kelsey_hair_3
+  rotate: false
+  xy: 208, 404
+  size: 61, 108
+  orig: 61, 108
+  offset: 0, 0
+  index: -1
+Kelsey_hair_5
+  rotate: false
+  xy: 2, 196
+  size: 131, 134
+  orig: 131, 134
+  offset: 0, 0
+  index: -1
+Kelsey_hand_L
+  rotate: true
+  xy: 196, 16
+  size: 76, 67
+  orig: 76, 67
+  offset: 0, 0
+  index: -1
+Kelsey_hand_L_close
+  rotate: false
+  xy: 224, 235
+  size: 83, 64
+  orig: 83, 64
+  offset: 0, 0
+  index: -1
+Kelsey_hand_L_close_BS
+  rotate: true
+  xy: 359, 414
+  size: 74, 51
+  orig: 74, 51
+  offset: 0, 0
+  index: -1
+Kelsey_hand_R
+  rotate: false
+  xy: 224, 166
+  size: 75, 67
+  orig: 75, 67
+  offset: 0, 0
+  index: -1
+Kelsey_hand_R_close
+  rotate: true
+  xy: 374, 145
+  size: 74, 51
+  orig: 74, 51
+  offset: 0, 0
+  index: -1
+Kelsey_hand_back_L
+  rotate: false
+  xy: 271, 389
+  size: 86, 89
+  orig: 86, 89
+  offset: 0, 0
+  index: -1
+Kelsey_hand_back_R
+  rotate: false
+  xy: 123, 2
+  size: 71, 90
+  orig: 71, 90
+  offset: 0, 0
+  index: -1
+Kelsey_hand_open_L
+  rotate: false
+  xy: 254, 582
+  size: 104, 85
+  orig: 104, 85
+  offset: 0, 0
+  index: -1
+Kelsey_handhold_R
+  rotate: false
+  xy: 2, 2
+  size: 92, 52
+  orig: 92, 52
+  offset: 0, 0
+  index: -1
+Kelsey_leg_L
+  rotate: true
+  xy: 365, 341
+  size: 71, 60
+  orig: 71, 60
+  offset: 0, 0
+  index: -1
+Kelsey_leg_L_pant
+  rotate: false
+  xy: 271, 480
+  size: 86, 100
+  orig: 86, 100
+  offset: 0, 0
+  index: -1
+Kelsey_leg_L_shoe
+  rotate: true
+  xy: 373, 708
+  size: 98, 37
+  orig: 98, 37
+  offset: 0, 0
+  index: -1
+Kelsey_leg_R
+  rotate: false
+  xy: 301, 164
+  size: 71, 61
+  orig: 71, 61
+  offset: 0, 0
+  index: -1
+Kelsey_leg_R_pant
+  rotate: false
+  xy: 123, 94
+  size: 86, 100
+  orig: 86, 100
+  offset: 0, 0
+  index: -1
+Kelsey_leg_R_shoe
+  rotate: true
+  xy: 360, 570
+  size: 97, 37
+  orig: 97, 37
+  offset: 0, 0
+  index: -1
+Kelsey_nose
+  rotate: false
+  xy: 265, 2
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Kelsey_wings_L
+  rotate: false
+  xy: 271, 301
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+Kelsey_wings_R
+  rotate: true
+  xy: 135, 227
+  size: 93, 87
+  orig: 93, 87
+  offset: 0, 0
+  index: -1
+Tackle-Effect-Base
+  rotate: true
+  xy: 254, 807
+  size: 223, 95
+  orig: 223, 95
+  offset: 0, 0
+  index: -1
+Tackle-Effect-Particle
+  rotate: true
+  xy: 373, 669
+  size: 8, 12
+  orig: 10, 14
+  offset: 1, 1
+  index: -1
+Tackle-Effect-White
+  rotate: true
+  xy: 351, 855
+  size: 175, 55
+  orig: 175, 55
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 211, 94
+  size: 70, 71
+  orig: 70, 71
+  offset: 0, 0
+  index: -1
+hand_holder
+  rotate: true
+  xy: 96, 8
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+hand_holder_EFX
+  rotate: false
+  xy: 380, 221
+  size: 41, 78
+  orig: 41, 78
+  offset: 0, 0
+  index: -1
+hand_holder_top
+  rotate: true
+  xy: 221, 518
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 408, 887
+  size: 143, 17
+  orig: 143, 17
+  offset: 0, 0
+  index: -1
+tint-Kelsey_body
+  rotate: true
+  xy: 2, 332
+  size: 176, 141
+  orig: 176, 141
+  offset: 0, 0
+  index: -1
+tint-Kelsey_hand_L_shoulder
+  rotate: false
+  xy: 265, 25
+  size: 71, 67
+  orig: 71, 67
+  offset: 0, 0
+  index: -1
+tint-Kelsey_leg_L_sock
+  rotate: true
+  xy: 225, 328
+  size: 74, 44
+  orig: 74, 44
+  offset: 0, 0
+  index: -1
+tint-Kelsey_leg_R_sock
+  rotate: false
+  xy: 351, 808
+  size: 74, 45
+  orig: 74, 45
+  offset: 0, 0
+  index: -1
+tint-elsey_hand_R_shoulder
+  rotate: false
+  xy: 284, 94
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1

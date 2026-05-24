@@ -1,0 +1,39 @@
+ {
+	"size":9,
+	"stars":{"avg":7, "top":14 },
+	"moves":45,
+	"tasks":[
+		{ "type":"COIN", "count":40 }
+	],
+	"add":[		
+		{ "x":1, "y":1, "dx":1, "dy":1, "type":"COINS"  },
+		{ "x":4, "y":1, "dx":1, "dy":1, "type":"COINS"  },
+		{ "x":7, "y":1, "dx":1, "dy":1, "type":"COINS"  },
+		
+		{ "x":1, "y":3, "dx":1, "dy":1, "type":"COINS"  },
+		{ "x":4, "y":3, "dx":1, "dy":1, "type":"COINS"  },
+		{ "x":7, "y":3, "dx":1, "dy":1, "type":"COINS"  },
+				
+		{ "x":0, "y":0, "dx":9, "dy":1, "type":"BLOB", "count":true},
+		{ "x":0, "y":4, "dx":9, "dy":1, "type":"BLOB", "count":true},
+		{ "x":0, "y":1, "dx":1, "dy":3, "type":"BLOB", "count":true},
+		{ "x":2, "y":1, "dx":2, "dy":3, "type":"BLOB", "count":true},
+		{ "x":5, "y":1, "dx":2, "dy":3, "type":"BLOB", "count":true},
+		{ "x":8, "y":1, "dx":1, "dy":3, "type":"BLOB", "count":true},		
+		{ "x":1, "y":2, "dx":1, "dy":1, "type":"BLOB", "count":true},		
+		{ "x":4, "y":2, "dx":1, "dy":1, "type":"BLOB", "count":true},		
+		{ "x":7, "y":2, "dx":1, "dy":1, "type":"BLOB", "count":true}
+		
+	],
+	"allowedGemTypes":["GEM_YELLOW","GEM_GREEN","GEM_RED","GEM_BLUE"],
+	"field":[ 
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx"]
+ }

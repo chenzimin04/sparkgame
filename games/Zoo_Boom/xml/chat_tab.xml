@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+<templates>
+	<element id="tMessageContainerOptions" width="100%" height="150" valign="bottom" >
+		<button name="uiBtOpen" x="-180" width="95" ratio="1" image="dynamic/open.png" halign="center" valign="top" />
+		<button name="uiBtDelete" x="-60" width="95" ratio="1" image="ui/SquareButton.png" halign="center" valign="top" >
+			<image width="60" ratio="1" image="dynamic/delete.png" halign="center" valign="center" />			
+		</button>
+		<button name="uiBtClose" x="60" width="100" ratio="1" template="tClose" halign="center" valign="top"/>
+	</element>
+	<image id="tMessageContainer" width="100%" height="100" marginRight="20" data='{}'>
+		<element name="uiHead" height="100" ratio="1" valign="top" y="1">
+			<state state="default" halign="left" />
+			<state state="self" halign="right" />
+			<player name="uiPlayer" height="100" ratio="1" valign="top" />
+			<team name="uiTeam" width="100" ratio="1" clickable="true" visible="false">
+				<state state="default" visible="true" />
+			</team>
+		</element>
+		<image name="uiImgMessage" width="100%" template="tBox,tElement" padding="20" >
+			<state state="default" marginLeft="120" marginRight="50" />
+			<state state="self" marginLeft="50" marginRight="120" />
+			<text name="uiTxtMessage" template="tFontMedium,tElement" valignText="top" >
+				<state state="default" template="tFontWhite" />
+				<state state="self" template="tFontGold" />
+			</text>
+			<text name="uiTxtTime" template="tFontSmall,tElement" y="5" halignText="right" valignText="bottom" alpha="0.8" />		
+		</image>
+	</image>
+	<image id="tTeamInvitationContainer" height="200" template="tMessageContainer" data='{"add":130}' clickable="false">
+		<player name="uiPlayer" visible="false" />
+		<team name="uiTeam" width="100" ratio="1" clickable="true" />
+		<image name="uiImgMessage" width="100%" template="tBox,tElement" padding="20" >
+			<state state="default" marginLeft="120" marginRight="50" />
+			<state state="self" marginLeft="50" marginRight="120" />	
+			<text name="uiTxtMessage" halignText="center" />			
+			<element width="50%" height="100" halign="center" valign="bottom">
+				<button name="uiBtAcceptInvitation" template="tSquareButton" valign="bottom" >
+					<image image="dynamic/yes.png" template="tElement" margin="15" />
+				</button>
+				<button name="uiBtDeclineInvitation" template="tSquareButton" image="ui/close.png" valign="bottom" halign="right" />
+			</element>
+		</image>
+	</image>
+	<element id="tMessageContainerMTX" height="100" template="tMessageContainer" data='{"add":80}'>
+		<image name="uiImgMTX" width="100" ratio="1" image="ui/gold.png" halign="center" valign="center"/>
+		<image name="uiImgMessage" image="ui/rewardground.png" />
+	</element>
+</templates>
+
+<screen name="uiScreenChat" template="tElement">				
+	<button name="uiBtPlayer" width="100%" height="100" margin="50" marginLeft="100" marginRight="100" >
+		<state state="player" visible="true" />
+		<state state="team" visible="false" />
+		<text name="uiTxtOtherPlayerName" template="tElement,tFontLarge,tFontSpecial" halignText="center" valignText="center" />			
+	</button>
+	<!--button name="uiBtBlock" x="40" y="40" height="80" ratio="1" halign="left" valign="top" image="dynamic/btn_blocked.png" >
+		<state state="jenny" visible="false" />
+		<state state="default" visible="true" />
+	</button-->
+	<element marginTop="100" template="tElement" >			
+		<state state="player" marginTop="100" />
+		<state state="team" marginTop="0" />
+		<text name="uiTxtIgnoreHelp" width="100%" height="100%" template="tFontLarge" text="SID_IGNORED_HELP" halignText="center" valignText="top" visible="false" marginTop="50" >
+			<state state="blocked" visible="true" />
+			<state state="unblocked" visible="false" />
+		</text>
+		<element name="uiChat" template="tElement">
+			<state state="blocked" visible="false" />
+			<state state="unblocked" visible="true" />
+			<list name="uiListChat" template="tElement,tList" gap="20" marginBottom="160">
+				<element name="uiListField" template="tElement">
+					<state state="scrollbarOff" marginRight="50"/>
+				</element>
+			</list>
+			<element name="uiInputBlock" template="tElement" marginBottom="10">
+				<element template="tBaseTextInput" valign="bottom" marginRight="120">
+					<input name="uiInput" initial="SID_WRITE_MESSAGE"/>		
+				</element>
+				<button name="uiBtSend" image="dynamic/play.png" width="100" ratio="1" halign="right" valign="bottom" x="5" />
+			</element>
+		</element>
+	</element>	
+</screen>

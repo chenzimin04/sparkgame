@@ -1,0 +1,384 @@
+
+Gumball@0.5x.png
+size: 506,166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gumball-Hand-L
+  rotate: false
+  xy: 413, 89
+  size: 15, 37
+  orig: 15, 37
+  offset: 0, 0
+  index: -1
+Gumball-Hand-R
+  rotate: false
+  xy: 413, 89
+  size: 15, 37
+  orig: 15, 37
+  offset: 0, 0
+  index: -1
+Gumball-Hand-finger-L
+  rotate: true
+  xy: 420, 70
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+Gumball-Hand-finger1-R
+  rotate: true
+  xy: 420, 70
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+Gumball-Hand-finger-R
+  rotate: true
+  xy: 472, 24
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+Gumball-Hand-finger-open2-L
+  rotate: false
+  xy: 472, 1
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+Gumball-Hand-fingerclose-L
+  rotate: false
+  xy: 476, 69
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+Gumball-Hand-fingerclose-R
+  rotate: false
+  xy: 476, 46
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+Gumball-Hand-fingerclose1-L
+  rotate: true
+  xy: 452, 90
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+Gumball-Hand-fingerclose1-R
+  rotate: true
+  xy: 476, 92
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+Gumball-Hand-fingeropen-L
+  rotate: false
+  xy: 471, 119
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+Gumball-Hand-fingeropen-R
+  rotate: true
+  xy: 451, 59
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+Gumball-Hand-fingeropen1-L
+  rotate: false
+  xy: 429, 90
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+Gumball-Hand-fingeropen1-R
+  rotate: true
+  xy: 237, 55
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+Gumball-ear-L
+  rotate: true
+  xy: 242, 1
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+Gumball-ear-R
+  rotate: true
+  xy: 302, 110
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+Gumball-eye-L
+  rotate: false
+  xy: 190, 1
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+Gumball-eye-R
+  rotate: false
+  xy: 302, 2
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+Gumball-eyeball-L
+  rotate: false
+  xy: 432, 1
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+Gumball-eyeball-R
+  rotate: false
+  xy: 452, 1
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+Gumball-eyebrow-L
+  rotate: true
+  xy: 456, 141
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+Gumball-eyebrow-R
+  rotate: false
+  xy: 386, 2
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+Gumball-eyebrow-sad-L
+  rotate: false
+  xy: 412, 55
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+Gumball-eyebrow-sad-R
+  rotate: false
+  xy: 409, 2
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+Gumball-eyebrow1-L
+  rotate: true
+  xy: 303, 55
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+Gumball-eyebrow1-R
+  rotate: true
+  xy: 339, 55
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+Gumball-eyeclose-L
+  rotate: true
+  xy: 354, 6
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+Gumball-eyeclose-R
+  rotate: true
+  xy: 358, 117
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+Gumball-head
+  rotate: true
+  xy: 51, 9
+  size: 155, 138
+  orig: 155, 138
+  offset: 0, 0
+  index: -1
+Gumball-hip
+  rotate: true
+  xy: 430, 21
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Gumball-hip1
+  rotate: true
+  xy: 441, 144
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+Gumball-leg-L
+  rotate: true
+  xy: 376, 55
+  size: 12, 35
+  orig: 12, 35
+  offset: 0, 0
+  index: -1
+Gumball-leg-R
+  rotate: true
+  xy: 376, 55
+  size: 12, 35
+  orig: 12, 35
+  offset: 0, 0
+  index: -1
+Gumball-mouth
+  rotate: true
+  xy: 406, 127
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+Gumball-mouth-NN
+  rotate: true
+  xy: 265, 102
+  size: 62, 36
+  orig: 62, 36
+  offset: 0, 0
+  index: -1
+Gumball-nose
+  rotate: true
+  xy: 389, 119
+  size: 45, 15
+  orig: 45, 15
+  offset: 0, 0
+  index: -1
+Gumball-nose-sad
+  rotate: true
+  xy: 376, 69
+  size: 47, 14
+  orig: 47, 14
+  offset: 0, 0
+  index: -1
+Gumball-nose1
+  rotate: false
+  xy: 441, 117
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+Gumball-pant-light
+  rotate: true
+  xy: 56, 3
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+Gumball-shadow
+  rotate: true
+  xy: 1, 2
+  size: 163, 49
+  orig: 163, 49
+  offset: 0, 0
+  index: -1
+Gumball-shoue-L
+  rotate: false
+  xy: 471, 144
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+Gumball-shoue-R
+  rotate: false
+  xy: 471, 144
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+Gumball-tail
+  rotate: true
+  xy: 409, 20
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+Gumball-thight-L
+  rotate: false
+  xy: 386, 19
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+Gumball-thight-R
+  rotate: false
+  xy: 391, 80
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+Tackle-Effect-Base
+  rotate: true
+  xy: 190, 54
+  size: 110, 46
+  orig: 110, 46
+  offset: 0, 0
+  index: -1
+Tackle-Effect-Particle
+  rotate: false
+  xy: 51, 2
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+Tackle-Effect-White
+  rotate: true
+  xy: 237, 78
+  size: 86, 26
+  orig: 86, 26
+  offset: 0, 0
+  index: -1
+tint-Gumball-body
+  rotate: false
+  xy: 265, 55
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+tint-Gumball-body-back
+  rotate: false
+  xy: 391, 70
+  size: 27, 9
+  orig: 27, 9
+  offset: 0, 0
+  index: -1
+tint-Gumball-shocks-L
+  rotate: false
+  xy: 436, 55
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+tint-Gumball-shocks-R
+  rotate: false
+  xy: 436, 55
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+tint-Gumball-shoulder-R
+  rotate: false
+  xy: 456, 21
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+tint-Gumball-shoulderL
+  rotate: false
+  xy: 456, 21
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1

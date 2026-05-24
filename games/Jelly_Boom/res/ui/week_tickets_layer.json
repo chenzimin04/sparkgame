@@ -1,0 +1,1254 @@
+{
+  "ID": "3fcc5ee0-4abf-413b-b5a5-8f04a14cdd72",
+  "Version": "3.10.0.0",
+  "Name": "week_tickets_layer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 64,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/scalesprite3.png",
+              "Plist": "csi/scaleplist.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 65,
+            "Scale9OriginY": 65,
+            "Scale9Width": 68,
+            "Scale9Height": 69,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 359.999,
+              "Y": 656.2306
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5127
+            },
+            "PreSize": {
+              "X": 0.875,
+              "Y": 0.3731
+            },
+            "LeftMargin": 44.999,
+            "RightMargin": 45.001,
+            "TopMargin": 384.9944,
+            "BottomMargin": 417.4556,
+            "Tag": 65,
+            "ActionTag": -246761072,
+            "Size": {
+              "X": 630.0,
+              "Y": 477.55
+            },
+            "Name": "bg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/n_titlebg1.png",
+              "Plist": "csi/csi_2.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 362.5006,
+              "Y": 891.3362
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5035,
+              "Y": 0.6964
+            },
+            "PreSize": {
+              "X": 0.9361,
+              "Y": 0.1289
+            },
+            "LeftMargin": 25.5006,
+            "RightMargin": 20.4994,
+            "TopMargin": 306.1638,
+            "BottomMargin": 808.8362,
+            "Tag": 69,
+            "ActionTag": 1357044867,
+            "Size": {
+              "X": 674.0,
+              "Y": 165.0
+            },
+            "Name": "n_titlebg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/n_piaodai2.png",
+              "Plist": "csi/csi_2.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 362.5017,
+              "Y": 944.877
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5035,
+              "Y": 0.7382
+            },
+            "PreSize": {
+              "X": 0.5958,
+              "Y": 0.1039
+            },
+            "LeftMargin": 148.0017,
+            "RightMargin": 142.9983,
+            "TopMargin": 268.623,
+            "BottomMargin": 878.377,
+            "Tag": 68,
+            "ActionTag": 8872846,
+            "Size": {
+              "X": 429.0,
+              "Y": 133.0
+            },
+            "Name": "n_piaodai",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "weekgame/tickettitle.png",
+              "Plist": "csi/weekgameplist1.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 362.5043,
+              "Y": 957.9709
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5035,
+              "Y": 0.7484
+            },
+            "PreSize": {
+              "X": 0.4069,
+              "Y": 0.0523
+            },
+            "LeftMargin": 216.0043,
+            "RightMargin": 210.9957,
+            "TopMargin": 288.5291,
+            "BottomMargin": 924.4709,
+            "Tag": 67,
+            "ActionTag": 1636973349,
+            "Size": {
+              "X": 293.0,
+              "Y": 67.0
+            },
+            "Name": "ticketstitle",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/n_close.png",
+              "Plist": "csi/csi_2.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 654.9938,
+              "Y": 932.4414
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9097,
+              "Y": 0.7285
+            },
+            "PreSize": {
+              "X": 0.0986,
+              "Y": 0.0578
+            },
+            "LeftMargin": 619.4938,
+            "RightMargin": 29.5062,
+            "TopMargin": 310.5586,
+            "BottomMargin": 895.4414,
+            "Tag": 66,
+            "ActionTag": -359774580,
+            "Size": {
+              "X": 71.0,
+              "Y": 74.0
+            },
+            "Name": "closebtn",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/scalesprite9.png",
+              "Plist": "csi/scaleplist.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 37,
+            "Scale9OriginY": 34,
+            "Scale9Width": 39,
+            "Scale9Height": 37,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 359.9995,
+              "Y": 644.9113
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5038
+            },
+            "PreSize": {
+              "X": 0.7694,
+              "Y": 0.2109
+            },
+            "LeftMargin": 82.9995,
+            "RightMargin": 83.0005,
+            "TopMargin": 500.0887,
+            "BottomMargin": 509.9113,
+            "Tag": 70,
+            "ActionTag": 1354947058,
+            "Size": {
+              "X": 554.0,
+              "Y": 270.0
+            },
+            "Name": "bg2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 720.0,
+            "TopMargin": 1280.0,
+            "Tag": 72,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "public/scalesprite13.png",
+                  "Plist": "csi/scaleplist.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 29,
+                "Scale9OriginY": 29,
+                "Scale9Width": 32,
+                "Scale9Height": 32,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 361.3778,
+                  "Y": 644.2341
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 100.3778,
+                "RightMargin": -622.3778,
+                "TopMargin": -730.2341,
+                "BottomMargin": 558.2341,
+                "Tag": 73,
+                "ActionTag": 1719240402,
+                "Size": {
+                  "X": 522.0,
+                  "Y": 172.0
+                },
+                "Name": "bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "weekgame/ticketdes1.png",
+                  "Plist": "csi/weekgameplist1.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 295.9075,
+                  "Y": 644.2316
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 104.9075,
+                "RightMargin": -486.9075,
+                "TopMargin": -727.2316,
+                "BottomMargin": 561.2316,
+                "Tag": 74,
+                "ActionTag": -438855077,
+                "Size": {
+                  "X": 382.0,
+                  "Y": 166.0
+                },
+                "Name": "ticketsicon",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "Challenge + 1",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/jellyboom_font.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 531.5964,
+                  "Y": 675.4248
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 431.5964,
+                "RightMargin": -631.5964,
+                "TopMargin": -695.4248,
+                "BottomMargin": 655.4248,
+                "Tag": 78,
+                "ActionTag": 700861703,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 40.0
+                },
+                "Name": "changenum",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "public/publicbtn13.png",
+                  "Plist": "csi/csi_2.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 526.4288,
+                  "Y": 619.2134
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 439.9288,
+                "RightMargin": -612.9288,
+                "TopMargin": -652.7134,
+                "BottomMargin": 585.7134,
+                "Tag": 75,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "resurgence/diamond.png",
+                      "Plist": "csi/csi_2.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 110.0,
+                      "Y": 38.4012
+                    },
+                    "Scale": {
+                      "ScaleX": 0.7,
+                      "ScaleY": 0.7
+                    },
+                    "RotationSkewX": 4.0,
+                    "RotationSkewY": 4.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6358,
+                      "Y": 0.5732
+                    },
+                    "PreSize": {
+                      "X": 0.4104,
+                      "Y": 0.9254
+                    },
+                    "LeftMargin": 74.5,
+                    "RightMargin": 27.5,
+                    "TopMargin": -2.4012,
+                    "BottomMargin": 7.4012,
+                    "Tag": 76,
+                    "ActionTag": -778233969,
+                    "Size": {
+                      "X": 71.0,
+                      "Y": 62.0
+                    },
+                    "Name": "gemicon",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "30000",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 30.0,
+                      "Y": 38.4008
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1734,
+                      "Y": 0.5731
+                    },
+                    "PreSize": {
+                      "X": 0.289,
+                      "Y": 0.2985
+                    },
+                    "LeftMargin": 30.0,
+                    "RightMargin": 93.0,
+                    "TopMargin": 18.5992,
+                    "BottomMargin": 28.4008,
+                    "Tag": 77,
+                    "ActionTag": 2083528863,
+                    "Size": {
+                      "X": 50.0,
+                      "Y": 20.0
+                    },
+                    "Name": "aw_fnttype4_gemnum",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -2043603030,
+                "Size": {
+                  "X": 173.0,
+                  "Y": 67.0
+                },
+                "Name": "addticketbtn",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1721495649,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "ticket_1",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 720.0,
+            "TopMargin": 1280.0,
+            "Tag": 79,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "public/scalesprite13.png",
+                  "Plist": "csi/scaleplist.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 29,
+                "Scale9OriginY": 29,
+                "Scale9Width": 32,
+                "Scale9Height": 32,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 357.1465,
+                  "Y": 593.2649
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 96.1465,
+                "RightMargin": -618.1465,
+                "TopMargin": -679.2649,
+                "BottomMargin": 507.2649,
+                "Tag": 80,
+                "ActionTag": -1349302432,
+                "Size": {
+                  "X": 522.0,
+                  "Y": 172.0
+                },
+                "Name": "bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "weekgame/ticketdes2.png",
+                  "Plist": "csi/weekgameplist1.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 291.6768,
+                  "Y": 593.2661
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 100.6768,
+                "RightMargin": -482.6768,
+                "TopMargin": -676.2661,
+                "BottomMargin": 510.2661,
+                "Tag": 81,
+                "ActionTag": -71070566,
+                "Size": {
+                  "X": 382.0,
+                  "Y": 166.0
+                },
+                "Name": "ticketsicon",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "public/publicbtn14.png",
+                  "Plist": "csi/csi_2.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 522.1969,
+                  "Y": 568.2441
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 435.6969,
+                "RightMargin": -608.6969,
+                "TopMargin": -601.7441,
+                "BottomMargin": 534.7441,
+                "Tag": 83,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "weekgame/watchdes.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 106.0,
+                      "Y": 37.32
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6127,
+                      "Y": 0.557
+                    },
+                    "PreSize": {
+                      "X": 0.4855,
+                      "Y": 0.3582
+                    },
+                    "LeftMargin": 64.0,
+                    "RightMargin": 25.0,
+                    "TopMargin": 17.68,
+                    "BottomMargin": 25.32,
+                    "Tag": 84,
+                    "ActionTag": 1235672007,
+                    "Size": {
+                      "X": 84.0,
+                      "Y": 24.0
+                    },
+                    "Name": "geticon",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "weekgame/watchicon.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 40.0,
+                      "Y": 36.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2312,
+                      "Y": 0.5373
+                    },
+                    "PreSize": {
+                      "X": 0.2081,
+                      "Y": 0.4776
+                    },
+                    "LeftMargin": 22.0,
+                    "RightMargin": 115.0,
+                    "TopMargin": 15.0,
+                    "BottomMargin": 20.0,
+                    "Tag": 63,
+                    "ActionTag": 1008724450,
+                    "Size": {
+                      "X": 36.0,
+                      "Y": 32.0
+                    },
+                    "Name": "watchicon_1",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 340448304,
+                "Size": {
+                  "X": 173.0,
+                  "Y": 67.0
+                },
+                "Name": "addticketbtn",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 631253935,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "VisibleForFrame": false,
+            "Name": "ticket_2",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 720.0,
+            "TopMargin": 1280.0,
+            "Tag": 92,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "public/scalesprite13.png",
+                  "Plist": "csi/scaleplist.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 29,
+                "Scale9OriginY": 29,
+                "Scale9Width": 32,
+                "Scale9Height": 32,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 355.7194,
+                  "Y": 404.6908
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 94.7194,
+                "RightMargin": -616.7194,
+                "TopMargin": -490.6908,
+                "BottomMargin": 318.6908,
+                "Tag": 93,
+                "ActionTag": 1571911017,
+                "Size": {
+                  "X": 522.0,
+                  "Y": 172.0
+                },
+                "Name": "bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "weekgame/ticketdes3.png",
+                  "Plist": "csi/weekgameplist1.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 290.2499,
+                  "Y": 404.6917
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 99.2499,
+                "RightMargin": -481.2499,
+                "TopMargin": -487.6917,
+                "BottomMargin": 321.6917,
+                "Tag": 94,
+                "ActionTag": -1012634949,
+                "Size": {
+                  "X": 382.0,
+                  "Y": 166.0
+                },
+                "Name": "ticketsicon",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "public/publicbtn14.png",
+                  "Plist": "csi/csi_2.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 520.7775,
+                  "Y": 379.6701
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 434.2775,
+                "RightMargin": -607.2775,
+                "TopMargin": -413.1701,
+                "BottomMargin": 346.1701,
+                "Tag": 95,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "weekgame/watchdes.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 106.0,
+                      "Y": 35.9999
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6127,
+                      "Y": 0.5373
+                    },
+                    "PreSize": {
+                      "X": 0.4855,
+                      "Y": 0.3582
+                    },
+                    "LeftMargin": 64.0,
+                    "RightMargin": 25.0,
+                    "TopMargin": 19.0001,
+                    "BottomMargin": 23.9999,
+                    "Tag": 96,
+                    "ActionTag": 142612560,
+                    "Size": {
+                      "X": 84.0,
+                      "Y": 24.0
+                    },
+                    "Name": "geticon",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "weekgame/watchicon.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 39.8049,
+                      "Y": 36.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2301,
+                      "Y": 0.5373
+                    },
+                    "PreSize": {
+                      "X": 0.2081,
+                      "Y": 0.4776
+                    },
+                    "LeftMargin": 21.8049,
+                    "RightMargin": 115.1951,
+                    "TopMargin": 15.0,
+                    "BottomMargin": 20.0,
+                    "Tag": 64,
+                    "ActionTag": 970371453,
+                    "Size": {
+                      "X": 36.0,
+                      "Y": 32.0
+                    },
+                    "Name": "watchicon_2",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 304485096,
+                "Size": {
+                  "X": 173.0,
+                  "Y": 67.0
+                },
+                "Name": "addticketbtn",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 723562658,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "VisibleForFrame": false,
+            "Name": "ticket_3",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "weekgame/ticketdes_gray1.png",
+              "Plist": "csi/weekgameplist2.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 357.15,
+              "Y": 593.73
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.496,
+              "Y": 0.4639
+            },
+            "PreSize": {
+              "X": 0.725,
+              "Y": 0.1344
+            },
+            "LeftMargin": 96.15,
+            "RightMargin": 101.85,
+            "TopMargin": 600.27,
+            "BottomMargin": 507.73,
+            "Tag": 131,
+            "ActionTag": 1664452527,
+            "Size": {
+              "X": 522.0,
+              "Y": 172.0
+            },
+            "VisibleForFrame": false,
+            "Name": "ticket_gray2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "weekgame/ticketdes_gray2.png",
+              "Plist": "csi/weekgameplist2.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 357.15,
+              "Y": 404.69
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.496,
+              "Y": 0.3162
+            },
+            "PreSize": {
+              "X": 0.725,
+              "Y": 0.1344
+            },
+            "LeftMargin": 96.15,
+            "RightMargin": 101.85,
+            "TopMargin": 789.31,
+            "BottomMargin": 318.69,
+            "Tag": 132,
+            "ActionTag": -1122056156,
+            "Size": {
+              "X": 522.0,
+              "Y": 172.0
+            },
+            "VisibleForFrame": false,
+            "Name": "ticket_gray3",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 720.0,
+          "Y": 1280.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../csi/csi_2.plist",
+        "../csi/csi_2.png",
+        "../csi/scaleplist.plist",
+        "../csi/scaleplist.png",
+        "../csi/weekgameplist1.plist",
+        "../csi/weekgameplist1.png",
+        "../csi/weekgameplist2.plist",
+        "../csi/weekgameplist2.png",
+        "../font/jellyboom_font.ttf",
+        "../weekgame/watchdes.png",
+        "../weekgame/watchicon.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

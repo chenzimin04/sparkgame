@@ -1,0 +1,236 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cover Admin - PlaySpark</title>
+  <link rel="stylesheet" href="styles.css?v=20260524">
+</head>
+<body data-page="cover-admin">
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="brand">
+        <button class="menu-button" type="button" aria-label="Menu"><span></span></button>
+        <a class="brand-copy" href="index.html">
+          <div class="logo-mark"><b>Play</b><b>Spark</b><b>Go</b><b>!</b></div>
+          <div class="logo-sub">cover review workspace</div>
+        </a>
+      </div>
+
+      <nav class="nav-group">
+        <a class="nav-link" href="index.html"><i class="nav-icon orange"></i><span>Home</span></a>
+        <a class="nav-link active" href="cover-admin.html"><i class="nav-icon blue"></i><span>Cover Admin</span></a>
+        <a class="nav-link" href="game.html"><i class="nav-icon green"></i><span>Detail Page</span></a>
+      </nav>
+
+      <nav class="nav-group">
+        <a class="nav-link" href="#reviewQueue"><i class="nav-icon red"></i><span>Review Queue</span></a>
+        <a class="nav-link" href="#editor"><i class="nav-icon orange"></i><span>Editor</span></a>
+        <a class="nav-link" href="#export"><i class="nav-icon purple"></i><span>Export</span></a>
+      </nav>
+
+      <div class="sidebar-footer">
+        <a href="index.html">Back To Portal</a>
+        <a href="game.html">Detail Template</a>
+        <div class="copyright">Copyright 2026 PlaySpark</div>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div class="search-shell">
+          <span class="search-icon" aria-hidden="true"></span>
+          <input id="adminSearchInput" class="search-input" type="search" placeholder="Search game title or slug">
+          <button id="adminSearchButton" class="search-button" type="button">Search</button>
+        </div>
+        <div class="install">
+          <div class="install-icon"><span class="install-arrow"></span></div>
+          <span>Cover Admin</span>
+        </div>
+      </header>
+
+      <div class="content admin-content">
+        <section class="section">
+          <div class="section-head">
+            <h2 class="section-title">Workflow</h2>
+            <div id="adminStats" class="section-note"></div>
+          </div>
+          <div class="admin-banner">
+            <div class="admin-banner-copy">
+              <strong>Visual cover manager</strong>
+              <span>Pick a game, compare candidates, tune output, and export updated cover data.</span>
+            </div>
+            <div class="admin-banner-actions">
+              <button id="scanFolderButton" class="ghost-button" type="button">Scan Folder</button>
+              <button id="writeBackButton" class="cta-button" type="button">Write Back</button>
+              <button id="resetDraftButton" class="ghost-button" type="button">Reset Draft</button>
+              <button id="downloadDraftButton" class="ghost-button" type="button">Download Draft</button>
+            </div>
+          </div>
+          <div id="adminServerStatus" class="admin-server-status"></div>
+        </section>
+
+        <div class="admin-layout">
+          <aside id="reviewQueue" class="panel admin-sidebar-panel">
+            <div class="section-head compact">
+              <h3 class="panel-title">Review Queue</h3>
+              <span id="queueCount" class="section-note"></span>
+            </div>
+            <div class="admin-filter-row">
+              <select id="adminCategoryFilter" class="filter-select">
+                <option value="All">All Categories</option>
+              </select>
+              <select id="adminStatusFilter" class="filter-select">
+                <option value="all">All Status</option>
+                <option value="queue">In Queue</option>
+                <option value="mapped">Mapped</option>
+                <option value="draft">Draft Changed</option>
+              </select>
+            </div>
+            <div id="adminGameList" class="admin-game-list"></div>
+          </aside>
+
+          <section id="editor" class="admin-main">
+            <div class="panel admin-editor-panel">
+              <div class="section-head">
+                <div>
+                  <h2 id="editorTitle" class="section-title">Select a game</h2>
+                  <div id="editorMeta" class="section-note"></div>
+                </div>
+                <a id="editorOpenGame" class="subtle-link" href="game.html" target="_blank" rel="noreferrer">Open Detail Page</a>
+              </div>
+
+              <div class="admin-preview-grid">
+                <div class="admin-preview-card">
+                  <div class="admin-preview-label">Shelf Cover</div>
+                  <div class="admin-preview-frame wide">
+                    <img id="previewShelf" alt="">
+                  </div>
+                  <div id="previewShelfPath" class="admin-path"></div>
+                </div>
+
+                <div class="admin-preview-card">
+                  <div class="admin-preview-label">Featured Cover</div>
+                  <div class="admin-preview-frame wide">
+                    <img id="previewFeatured" alt="">
+                  </div>
+                  <div id="previewFeaturedPath" class="admin-path"></div>
+                </div>
+
+                <div class="admin-preview-card">
+                  <div class="admin-preview-label">Icon / Random</div>
+                  <div class="admin-preview-frame square">
+                    <img id="previewIcon" alt="">
+                  </div>
+                  <div id="previewIconPath" class="admin-path"></div>
+                </div>
+              </div>
+
+              <div class="admin-form-grid">
+                <label class="admin-field">
+                  <span>Shelf Cover</span>
+                  <input id="fieldShelfCover" type="text" placeholder="games/... or assets/...">
+                </label>
+                <label class="admin-field">
+                  <span>Featured Cover</span>
+                  <input id="fieldFeaturedCover" type="text" placeholder="Optional homepage hero image">
+                </label>
+                <label class="admin-field">
+                  <span>Random Icon</span>
+                  <input id="fieldRandomIcon" type="text" placeholder="Square or safe small image">
+                </label>
+                <label class="admin-field">
+                  <span>Icon</span>
+                  <input id="fieldIcon" type="text" placeholder="Usually same as random icon">
+                </label>
+                <label class="admin-field">
+                  <span>Fit</span>
+                  <select id="fieldFit">
+                    <option value="">cover</option>
+                    <option value="contain">contain</option>
+                  </select>
+                </label>
+                <label class="admin-field">
+                  <span>Quality</span>
+                  <select id="fieldQuality">
+                    <option value="manual">manual</option>
+                    <option value="review">review</option>
+                    <option value="legacy-review">legacy-review</option>
+                  </select>
+                </label>
+                <label class="admin-field">
+                  <span>Mode</span>
+                  <select id="fieldMode">
+                    <option value="real-art">real-art</option>
+                    <option value="custom-cover">custom-cover</option>
+                    <option value="needs-review">needs-review</option>
+                  </select>
+                </label>
+              </div>
+
+              <div class="admin-action-row">
+                <button id="mirrorIconButton" class="ghost-button" type="button">Use Shelf For Icons</button>
+                <button id="applyFormButton" class="cta-button" type="button">Apply Draft</button>
+              </div>
+            </div>
+
+            <div class="panel admin-editor-panel">
+              <div class="section-head compact">
+                <h3 class="panel-title">Upload Screenshot</h3>
+                <span class="section-note">Upload a screenshot from the game page, then assign it to shelf, featured, or icon.</span>
+              </div>
+              <div class="upload-zone" id="uploadZone">
+                <input id="uploadScreenshotInput" class="upload-input" type="file" accept="image/png,image/jpeg,image/webp,image/gif">
+                <div class="upload-zone-copy">
+                  <strong>Drop screenshot here or choose a file</strong>
+                  <span>Best for direct game screenshots and manual promo shots.</span>
+                </div>
+                <div class="upload-zone-actions">
+                  <button id="chooseScreenshotButton" class="ghost-button" type="button">Choose File</button>
+                  <button id="pasteScreenshotButton" class="ghost-button" type="button">Paste From Clipboard</button>
+                </div>
+              </div>
+              <div class="upload-preview-shell">
+                <div class="upload-preview-frame">
+                  <img id="uploadPreviewImage" alt="">
+                </div>
+                <div class="upload-preview-meta">
+                  <div id="uploadPreviewName" class="admin-path">No uploaded screenshot yet.</div>
+                  <div class="upload-assign-actions">
+                    <button id="uploadAsShelfButton" class="mini-action" type="button">Set As Shelf</button>
+                    <button id="uploadAsFeaturedButton" class="mini-action" type="button">Set As Featured</button>
+                    <button id="uploadAsIconButton" class="mini-action" type="button">Set As Icon</button>
+                    <button id="saveUploadButton" class="cta-button" type="button">Upload And Save</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="panel admin-editor-panel">
+              <div class="section-head compact">
+                <h3 class="panel-title">Candidates</h3>
+                <span id="candidateCount" class="section-note"></span>
+              </div>
+              <div id="candidateGrid" class="candidate-grid"></div>
+            </div>
+
+            <div class="panel admin-editor-panel">
+              <div class="section-head compact">
+                <h3 class="panel-title">JSON Export</h3>
+                <span class="section-note">Copy or download the draft when you are happy with the visual result.</span>
+              </div>
+              <div id="export" class="admin-export-tools">
+                <button id="copySelectionButton" class="ghost-button" type="button">Copy Current Entry</button>
+                <button id="copyDraftButton" class="ghost-button" type="button">Copy Draft JSON</button>
+              </div>
+              <textarea id="adminJsonOutput" class="admin-json-output" spellcheck="false"></textarea>
+            </div>
+          </section>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script src="app.js?v=20260524"></script>
+</body>
+</html>

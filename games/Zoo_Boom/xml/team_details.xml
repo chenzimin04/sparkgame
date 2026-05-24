@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+<templates>
+	<element id="tMemberOptions" width="100%" height="100" valign="bottomOf" >
+		<button name="uiBtPromote" x="-180" width="95" template="tSquareButton" halign="center" valign="center">
+			<image name="uiImgIcon" image="dynamic/down.png" scaleY="-1" />			
+		</button>
+		<button name="uiBtDemote" x="-60" width="95" template="tSquareButton" halign="center" valign="center">
+			<image name="uiImgIcon" image="dynamic/down.png" />			
+		</button>
+		<button name="uiBtRemove" x="60" width="95" ratio="1" image="dynamic/quit.png" halign="center" valign="center"/>
+		<button name="uiBtClose" x="180" width="100" ratio="1" template="tClose" halign="center" valign="center"/>
+	</element>
+	<image id="tPlayerContainerMember" template="tPlayerContainerStars">
+		<player name="uiPlayer" clickable="true">
+			<text name="uiTxtPlayerName" halign="rightOf" valign="top" />
+			<text name="uiTxtMemberRank" halign="rightOf" valign="bottom" width="600" height="50" halignText="left" valignText="center" template="tFontMedium" x="14" text="Chef" />
+		</player>			
+		<image name="uiImgStarBox" width="200" />
+	</image>
+	<element id="tEditItem" ratio="1.0" width="100" halign="center" valign="top">
+		<button name="uiBtPrevious" image="ui/arrow_white.png" ratio="1.0" width="80" halign="leftOf" valign="center" scaleX="-1" x="30" />
+		<button name="uiBtNext" image="ui/arrow_white.png" ratio="1.0" width="80" halign="rightOf" valign="center" x="-30" />
+		<image name="uiImgItem" ratio="1.0" width="100" halign="center" valign="center" />				
+		<button name="uiBtColor" width="100" height="100" halign="center" valign="bottomOf" template="tBlock" >
+			<image template="tElement,tFrame" marginBottom="-5" marginRight="-5" />
+		</button>
+	</element>
+	<element id="tMessageContainerOptions" width="100%" height="100" valign="bottomOf" >
+		<button name="uiBtOpen" x="-180" width="95" ratio="1" image="dynamic/open.png" halign="center" valign="center" />
+		<button name="uiBtDelete" x="-60" width="95" ratio="1" image="ui/SquareButton.png" halign="center" valign="center" >
+			<image width="60" ratio="1" image="dynamic/delete.png" halign="center" valign="center" />			
+		</button>
+		<button name="uiBtClose" x="60" width="100" ratio="1" template="tClose" halign="center" valign="center"/>
+	</element>
+	<image id="tMessageContainer" width="100%" height="100" marginRight="20" data='{}'>
+		<element name="uiHead" height="100%" ratio="1" valign="top" y="1">
+			<player name="uiPlayer" height="100" ratio="1" valign="top" >
+				<state state="default" halign="left" />
+				<state state="self" halign="right" />
+			</player>
+			<team name="uiTeam" width="100" ratio="1" clickable="true" visible="false">
+				<state state="default" visible="true" />
+			</team>
+		</element>
+		<image name="uiImgMessage" width="100%" template="tBox,tElement" padding="20" >
+			<state state="default" marginLeft="120" marginRight="50" />
+			<state state="self" marginLeft="50" marginRight="120" />
+			<text name="uiTxtMessage" template="tFontMedium,tElement" valignText="top" >
+				<state state="default" template="tFontWhite" />
+				<state state="self" template="tFontGold" />
+			</text>
+			<text name="uiTxtTime" template="tFontSmall,tElement" y="5" halignText="right" valignText="bottom" alpha="0.8" />		
+		</image>
+	</image>
+	<image id="tTeamInvitationContainer" height="200" template="tMessageContainer" data='{"add":130}' clickable="false">
+		<player name="uiPlayer" visible="false" />
+		<team name="uiTeam" width="100" ratio="1" clickable="true" />
+		<image name="uiImgMessage" width="100%" template="tBox,tElement" padding="20" >
+			<state state="default" marginLeft="120" marginRight="50" />
+			<state state="self" marginLeft="50" marginRight="120" />	
+			<text name="uiTxtMessage" halignText="center" />			
+			<element width="50%" height="100" halign="center" valign="bottom">
+				<button name="uiBtAcceptInvitation" template="tSquareButton" valign="bottom" >
+					<image image="dynamic/yes.png" template="tElement" margin="15" />
+				</button>
+				<button name="uiBtDeclineInvitation" template="tSquareButton" image="ui/close.png" valign="bottom" halign="right" />
+			</element>
+		</image>
+	</image>
+	<element id="tMessageContainerMTX" height="100" template="tMessageContainer" data='{"add":80}'>
+		<image name="uiImgMTX" width="100" ratio="1" image="ui/gold.png" halign="center" valign="center"/>
+		<image name="uiImgMessage" image="ui/rewardground.png" />
+	</element>
+</templates>
+
+<screen name="uiScreenTeamDetails" template="tPopUpJennyTab">	
+	<image name="uiImgBg" >		
+		<state state="self"  />
+		<state state="default" template="tBG" />
+		<image name="uiTabBar" >
+			<state state="self" visible="true" />
+			<state state="default" visible="false" />
+			<image name="uiBGTab0" >
+				<button name="uiBtTab">
+					<image name="uiImgTabIcon" image="dynamic/team.png" />
+				</button>
+			</image>
+			<image name="uiBGTab1">	
+				<button name="uiBtTab">
+					<image name="uiImgTabIcon" image="dynamic/mail_big.png" >
+						<element name="uiUnread" width="50" ratio="1" halign="right" valign="bottom" x="10" y="10" >
+							<animation name="mailWobble" animation="wobble" speed="0" angle="2.0" size="1.0" />
+							<image name="uiImgNumUnread" image="ui/barbutton_01.png" width="50" height="100%" halign="center" nss="45,35,11,3" nssScale="0.6" />
+							<text name="uiTxtGlobalNumUnread" template="tFontMedium,tElement" valignText="center" halignText="center" />
+						</element>
+					</image>
+				</button>
+			</image>
+			<!--image name="uiBGTab2" visible="true">	
+				<button name="uiBtTab">
+					<image name="uiImgTabIcon" image="dynamic/bag.png" />
+				</button>
+			</image-->
+		</image>
+	</image>
+		
+	<element name="uiContent" marginLeft="50" marginRight="50" >		
+		<state state="self"  marginTop="130" marginBottom="30" />
+		<state state="default" marginTop="100" marginBottom="25" />
+		<element name="uiChat" template="tElement">
+			<text width="100%" height="170" halignText="center" valignText="center" halign="center" template="tFontSpecial,tFontUltra" text="SID_TEAM_CHAT" />
+			<element name="uiChatHook" template="tElement" marginTop="80" />			
+		</element>
+		<element name="uiDetails" template="tElement">
+			<element width="85%" height="250" halign="center" y="30">
+				<image name="uiImgDesc" marginLeft="90" width="100%" height="100%" halign="center" valign="center" marginTop="25" marginBottom="25" visible="true" template="tBox">						
+					<button name="uiBtEditDesc" template="tElement" clickable="true">
+						<text name="uiTxtDesc" marginLeft="120" halignText="left" valignText="center" template="tElement,tFontSmall" margin="20" />
+					</button>	
+				</image>
+				<button name="uiBtEditBadge" width="250" ratio="1.0" halign="center" x="-230" >
+					<team name="uiTeam" big="true" width="250" ratio="1" halign="center" />						
+				</button>
+				<text name="uiTxtTeamName" x="0" y="0" width="730" height="70" halignText="center" valignText="center" halign="center" valign="bottomOf" template="tFontSpecial,tFontUltra" />
+			</element>		
+			<image width="300" height="80" template="tBox" y="380">
+				<image image="ui/trophy.png" ratio="1.25" height="130%" valign="center"/>
+				<text name="uiTxtTeamTournaments" halignText="right" valignText="center" template="tFontMedium,tElement" text="1/2" margin="15" />
+			</image>	
+			<image width="300" height="80" template="tBox" y="380" halign="right">
+				<image image="ui/star_on.png" ratio="1.0" height="130%" valign="center"/>
+				<text name="uiTxtTeamStars" halignText="right" valignText="center" template="tFontMedium,tElement" text="11.234" margin="15" />
+			</image>
+			<element name="uiMembers" template="tElement" marginTop="420">
+				<list name="uiListMembers" template="tElement,tList" gap="20" marginTop="100" />
+			</element>			
+		</element>
+	</element>
+	<button name="uiBtClose" >
+		<state state="self" x="-23" y="40" />
+		<state state="default" x="-21" y="21" />
+	</button>	
+</screen>

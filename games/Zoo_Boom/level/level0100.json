@@ -1,0 +1,19 @@
+ {
+	"size":9,
+	"moves":55,
+	"fill":"up",
+	"stars":{"avg":13, "top":23 },
+	"add":[		
+		{ "x":0, "y":6, "dx":9, "dy":1, "type":"COLOR_BOX", "params":{ "color": "BLUE" }, "count":true },
+		{ "x":0, "y":2, "dx":9, "dy":1, "type":"COLOR_BOX", "params":{ "color": "GREEN" }, "count":true },
+		
+		{ "x":0, "y":4, "dx":1, "dy":1, "type":"BOX", "params":{ "count": 3 }, "count":true },
+		{ "x":2, "y":4, "dx":1, "dy":1, "type":"BOX", "params":{ "count": 3 }, "count":true },
+		{ "x":4, "y":4, "dx":1, "dy":1, "type":"BOX", "params":{ "count": 3 }, "count":true },
+		{ "x":6, "y":4, "dx":1, "dy":1, "type":"BOX", "params":{ "count": 3 }, "count":true },
+		{ "x":8, "y":4, "dx":1, "dy":1, "type":"BOX", "params":{ "count": 3 }, "count":true },
+		
+		{ "x":0, "y":0, "dx":9, "dy":2, "type":"SOFT_CAGE", "count":true }		
+	],
+	"allowedGemTypes":["GEM_YELLOW","GEM_GREEN","GEM_RED","GEM_BLUE"]
+ }

@@ -1,0 +1,23 @@
+{
+  "resolution": "standard",
+  "image1": "leaves_a.jpg",
+  "image2": "leaves_b.jpg",
+  "differences":
+  [
+    {
+      "x": 107.0,
+      "y": 458.0,
+      "size": 100.0
+    },
+    {
+      "x": 283.0,
+      "y": 279.0,
+      "size": 100.0
+    } ,
+    {
+      "x": 726.0,
+      "y": 412.0,
+      "size": 150.0
+    }    
+  ]
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a1130"/><stop offset="1" stop-color="#302d76"/></linearGradient></defs>
+  <rect width="640" height="380" fill="url(#bg)"/>
+  <g fill="#9fdcff" opacity=".55"><circle cx="86" cy="70" r="3"/><circle cx="149" cy="109" r="2"/><circle cx="481" cy="88" r="3"/><circle cx="560" cy="48" r="2"/></g>
+  <path d="M320 110 362 210 320 190 278 210Z" fill="#5ff0ff"/><path d="M320 138 338 184 320 174 302 184Z" fill="#1d8dff"/>
+  <g fill="#ff5e69"><path d="M146 94 170 130 122 130Z"/><path d="M514 112 538 148 490 148Z"/></g>
+  <g stroke="#8ad7ff" stroke-width="8" stroke-linecap="round"><path d="M146 150 146 218"/><path d="M514 168 514 236"/><path d="M320 212 320 292"/></g>
+  <path d="M286 228 320 334 354 228" fill="none" stroke="#ffd768" stroke-width="10" stroke-linecap="round"/>
+  <text x="173" y="84" fill="#ffffff" font-size="56" font-family="Segoe UI, Arial, sans-serif" font-weight="800">GALAXY ATTACK</text>
+</svg>

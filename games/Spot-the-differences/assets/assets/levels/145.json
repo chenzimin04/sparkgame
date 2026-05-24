@@ -1,0 +1,32 @@
+{
+   "resolution":"standard",
+   "image1":"red_and_yellow_flowers_b.jpg",
+   "image2":"red_and_yellow_flowers_a.jpg",
+   "differences":[
+      {
+         "x":252.5,
+         "y":586.0,
+         "size":171.70000000000002
+      },
+      {
+         "x":306.5,
+         "y":372.0,
+         "size":269.7
+      },
+      {
+         "x":585.5,
+         "y":291.0,
+         "size":255.0
+      },
+      {
+         "x":760.5,
+         "y":132.0,
+         "size":215.79999999999998
+      },
+      {
+         "x":940.5,
+         "y":459.0,
+         "size":201.1
+      }
+   ]
+}

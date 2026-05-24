@@ -1,0 +1,28 @@
+ {
+	"sizeX":9,
+	"sizeY":7,
+	"stars":{"avg":4, "top":10 },
+	"moves":40,
+	"tasks":[
+		{ "type":"COIN", "count":45 }
+	],
+	"add":[
+		{ "x":8, "y":1, "dy":5, "dx":1, "type":"COINS"},
+		
+		{ "x":6, "y":0, "dy":7, "dx":1, "type":"COIN", "count":true },
+		{ "x":7, "y":0, "dy":7, "dx":1, "type":"BOX", "count":true },
+		{ "x":7, "y":0, "dy":7, "dx":1, "type":"SOFT_CAGE", "count":true },
+		{ "x":4, "y":0, "dy":7, "dx":1, "type":"COIN", "count":true },
+		{ "x":5, "y":0, "dy":7, "dx":1, "type":"BOX", "count":true },
+		{ "x":5, "y":0, "dy":7, "dx":1, "type":"SOFT_CAGE", "count":true }
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_RED","GEM_PURPLE"],
+	"field":[ 
+		"xxxxxxxxo",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxo"]
+ }

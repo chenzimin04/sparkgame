@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "woman_hat_flowers_a.jpg",
+  "image2": "woman_hat_flowers_b.jpg",
+  "differences":
+  [
+    {
+      "x": 2.0,
+      "y": 594.0,
+      "size": 250.0
+    },
+    {
+      "x": 311.0,
+      "y": 535.0,
+      "size": 160.0
+    },
+    {
+      "x": 584.0,
+      "y": 360.0,
+      "size": 100.0
+    },
+    {
+      "x": 512.0,
+      "y": 143.0,
+      "size": 150.0
+    },
+    {
+      "x": 913.0,
+      "y": 97.0,
+      "size": 240.0
+    }
+  ]
+}

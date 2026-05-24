@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+<templates>
+</templates>
+
+<screen name="uiScreenTeamCreate" template="tTab" marginLeft="50" marginRight="50" >
+	<text name="uiTxtHeadText" width="100%" height="100" valign="top" halignText="center" valignText="center" template="tFontWhite,tFontUltra" text="SID_CREATE_TEAM"/>
+	<element name="uiInputName" template="tBaseTextInput" valign="top" y="100" >
+		<input name="uiInput" initial="SID_TEAM_NAME" maxlength="32"/>		
+	</element>
+	
+	<element width="70%" height="250" halign="center" valign="center" y="-130">
+		<button name="uiBtEditBadge" width="300" ratio="1.0" halign="center" >
+			<team name="uiTeam" big="true" width="250" ratio="1" halign="center" />						
+		</button>
+		<button name="uiBtRandom" width="120" ratio="1.0" halign="right" valign="top" template="tSquareButton" >
+			<image name="uiImgIcon" image="dynamic/switch.png" />
+		</button>
+		<button name="uiBtEditBadge2" width="120" ratio="1.0" halign="right" valign="bottom" template="tSquareButton" >
+			<image name="uiImgIcon" image="dynamic/edit.png" />
+		</button>
+	</element>
+	
+	<element name="uiInputDesc" template="tBaseTextInput" valign="bottom" height="300" y="-180" >
+		<input name="uiInput" initial="SID_TEAM_DESC" maxlength="128" multiLine="true" />		
+	</element>
+	<button name="uiBtCreate" label="SID_CREATE" template="tBtMTX" halign="center" valign="bottom" width="550"/>		
+</screen>

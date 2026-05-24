@@ -1,0 +1,15 @@
+ {
+	"size":9,
+	"moves":40,
+	"stars":{"avg":5, "top":12 },
+	"add":[
+		{ "x":0, "y":0, "dy":1, "dx":9, "type":"CRACKLING", "count":true },
+		{ "x":0, "y":2, "dy":1, "dx":9, "type":"CRACKLING", "count":true },
+		{ "x":0, "y":4, "dy":1, "dx":9, "type":"CRACKLING", "count":true },
+		{ "x":0, "y":6, "dy":1, "dx":9, "type":"CRACKLING", "count":true },
+		{ "x":0, "y":8, "dy":1, "dx":9, "type":"CRACKLING", "count":true },
+		
+		{ "x":2, "y":5, "dy":1, "dx":2, "type":"GEM_RED" },
+		{ "x":2, "y":3, "dy":1, "dx":2, "type":"GEM_YELLOW" }
+	]
+ }

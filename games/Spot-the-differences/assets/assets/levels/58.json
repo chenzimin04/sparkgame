@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "baby_sheeps_a.jpg",
+  "image2": "baby_sheeps_b.jpg",
+  "differences":
+  [
+    {
+    "x": 312.0,
+    "y": 507.0,
+    "size": 120.0
+    },
+    {
+    "x": 506.0,
+    "y": 206.0,
+    "size": 80.0
+    },
+    {
+    "x": 672.0,
+    "y": 517.0,
+    "size": 100.0
+    },
+    {
+    "x": 698.0,
+    "y": 262.0,
+    "size": 110.0
+    },
+    {
+    "x": 986.0,
+    "y": 600.0,
+    "size": 150.0
+    }
+  ]
+}

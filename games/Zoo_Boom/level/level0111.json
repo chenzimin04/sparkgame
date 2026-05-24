@@ -1,0 +1,37 @@
+ {
+	"size":9,
+	"moves":32,
+	"fill":"up",
+	"add":[			
+		{ "x":0, "y":6, "dx":1, "dy":1, "type":"BOX", "params":{"count":3},  "count":true },
+		{ "x":1, "y":5, "dx":1, "dy":1, "type":"BOX", "params":{"count":3},  "count":true },		
+		{ "x":2, "y":4, "dx":1, "dy":1, "type":"BOX", "params":{"count":3},  "count":true },		
+		{ "x":3, "y":3, "dx":1, "dy":1, "type":"BOX", "params":{"count":3},  "count":true },		
+		{ "x":4, "y":2, "dx":1, "dy":1, "type":"BOX", "params":{"count":3},  "count":true },		
+		{ "x":5, "y":3, "dx":1, "dy":1, "type":"BOX", "params":{"count":3},  "count":true },		
+		{ "x":6, "y":4, "dx":1, "dy":1, "type":"BOX", "params":{"count":3},  "count":true },		
+		{ "x":7, "y":5, "dx":1, "dy":1, "type":"BOX", "params":{"count":3},  "count":true },		
+		{ "x":8, "y":6, "dx":1, "dy":1, "type":"BOX", "params":{"count":3},  "count":true },
+		
+		{ "x":0, "y":4, "dx":1, "dy":3, "type":"SOFT_CAGE", "count":true },
+		{ "x":1, "y":3, "dx":1, "dy":3, "type":"SOFT_CAGE", "count":true },		
+		{ "x":2, "y":2, "dx":1, "dy":3, "type":"SOFT_CAGE", "count":true },		
+		{ "x":3, "y":1, "dx":1, "dy":3, "type":"SOFT_CAGE", "count":true },		
+		{ "x":4, "y":0, "dx":1, "dy":3, "type":"SOFT_CAGE", "count":true },		
+		{ "x":5, "y":1, "dx":1, "dy":3, "type":"SOFT_CAGE", "count":true },		
+		{ "x":6, "y":2, "dx":1, "dy":3, "type":"SOFT_CAGE", "count":true },		
+		{ "x":7, "y":3, "dx":1, "dy":3, "type":"SOFT_CAGE", "count":true },		
+		{ "x":8, "y":4, "dx":1, "dy":3, "type":"SOFT_CAGE", "count":true }		
+	],
+	"allowedGemTypes":["GEM_YELLOW","GEM_GREEN","GEM_RED","GEM_BLUE"],
+	"field":[ 		
+		"xxxoooxxx",
+		"xxxxoxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"oxxxxxxxo",
+		"ooxxxxxoo",
+		"oooxxxooo",
+		"ooooxooox"]
+ }

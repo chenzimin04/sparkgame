@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "ladybug_on_flower_a.jpg",
+  "image2": "ladybug_on_flower_b.jpg",
+  "differences":
+  [
+    {
+      "x": 534.0,
+      "y": 174.0,
+      "size": 80.0
+    },
+    {
+      "x": 586.0,
+      "y": 537.0,
+      "size": 70.0
+    },
+    {
+      "x": 741.0,
+      "y": 415.0,
+      "size": 90.0
+    },
+    {
+      "x": 904.0,
+      "y": 584.0,
+      "size": 200.0
+    },
+    {
+      "x": 488.0,
+      "y": 359.0,
+      "size": 110.0
+    }
+  ]
+}

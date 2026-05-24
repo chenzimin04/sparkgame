@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"bg2_1_1_1","texture":"30t5Qxe7ROe7BgTugyCqFc","rect":[1,1,722,1282],"offset":[0,0],"originalSize":[722,1282],"capInsets":[0,0,0,0]}},{"__type__":"cc.SpriteAtlas","_name":"chapter2_map1.plist","_spriteFrames":{"bg2_1_1_1":{"__uuid__":"c06Lbaxi1Jib8OTqT0taWI"}}}]

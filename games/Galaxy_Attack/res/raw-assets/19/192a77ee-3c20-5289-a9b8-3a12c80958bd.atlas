@@ -1,0 +1,20 @@
+
+skel_expicon.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ddd1
+  rotate: false
+  xy: 1, 1
+  size: 160, 180
+  orig: 160, 180
+  offset: 0, 0
+  index: -1
+tttt1
+  rotate: false
+  xy: 162, 8
+  size: 41, 173
+  orig: 41, 173
+  offset: 0, 0
+  index: -1

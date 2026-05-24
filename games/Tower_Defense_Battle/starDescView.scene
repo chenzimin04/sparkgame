@@ -1,0 +1,593 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 0,
+				"x": 0,
+				"var": "pngBg",
+				"top": 0,
+				"skin": "images/grid/maskGray.png",
+				"sizeGrid": "2,2,2,2",
+				"right": 0,
+				"left": 0,
+				"bottom": 0
+			},
+			"compId": 65
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 290,
+				"x": 7,
+				"width": 736,
+				"var": "centerBox",
+				"rotation": 0,
+				"height": 753
+			},
+			"compId": 3,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 752,
+						"x": 737,
+						"width": 736,
+						"skin": "images/solider/icon_tc_bg.png",
+						"rotation": 180,
+						"height": 500
+					},
+					"compId": 100
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 1,
+						"x": 1,
+						"width": 736,
+						"skin": "images/solider/icon_tc_bg.png",
+						"height": 513
+					},
+					"compId": 81
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 117,
+						"x": 16,
+						"width": 229,
+						"var": "starBg1",
+						"skin": "images/solider/icon_sxtj_bg2.png",
+						"sizeGrid": "14,14,15,15",
+						"height": 320
+					},
+					"compId": 103,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 228,
+								"x": 11,
+								"skin": "images/solider/icon_sxtj_fgx.png",
+								"rotation": 0
+							},
+							"compId": 108
+						},
+						{
+							"type": "Image",
+							"props": {
+								"skin": "images/solider/icon_sxtj_bg1.png"
+							},
+							"compId": 140,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 18,
+										"x": 94,
+										"skin": "images/solider/icon_sxtj_word1.png"
+									},
+									"compId": 141
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 238,
+								"x": 77,
+								"var": "iconSucc1",
+								"skin": "images/solider/icon_sxtj_wc.png"
+							},
+							"compId": 146
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 117,
+						"x": 253,
+						"width": 229,
+						"var": "starBg2",
+						"skin": "images/solider/icon_sxtj_bg2.png",
+						"sizeGrid": "14,14,15,15",
+						"height": 320
+					},
+					"compId": 104,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 228,
+								"x": 11,
+								"skin": "images/solider/icon_sxtj_fgx.png",
+								"rotation": 0
+							},
+							"compId": 109
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 0,
+								"x": 0,
+								"skin": "images/solider/icon_sxtj_bg1.png"
+							},
+							"compId": 142,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 19,
+										"x": 97,
+										"skin": "images/solider/icon_sxtj_word2.png"
+									},
+									"compId": 143
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 238,
+								"x": 77,
+								"var": "iconSucc2",
+								"skin": "images/solider/icon_sxtj_wc.png"
+							},
+							"compId": 147
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 117,
+						"x": 490,
+						"width": 229,
+						"var": "starBg3",
+						"skin": "images/solider/icon_sxtj_bg2.png",
+						"sizeGrid": "14,14,15,15",
+						"height": 320
+					},
+					"compId": 105,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 228,
+								"x": 11,
+								"skin": "images/solider/icon_js_fgx.png",
+								"rotation": 0
+							},
+							"compId": 110
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 0,
+								"x": 0,
+								"skin": "images/solider/icon_sxtj_bg1.png"
+							},
+							"compId": 144,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 19,
+										"x": 97,
+										"skin": "images/solider/icon_sxtj_word3.png"
+									},
+									"compId": 145
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 238,
+								"x": 77,
+								"var": "iconSucc3",
+								"skin": "images/solider/icon_sxtj_wwc.png"
+							},
+							"compId": 148
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 590,
+						"x": 17,
+						"width": 706,
+						"skin": "images/solider/signMask.png",
+						"sizeGrid": "20,17,18,20",
+						"height": 140,
+						"alpha": 0.42
+					},
+					"compId": 106
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 661,
+						"x": 370,
+						"width": 58,
+						"var": "iconPatch1",
+						"skin": "images/obj/sp_3.png",
+						"height": 61,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 124,
+					"child": [
+						{
+							"type": "Box",
+							"props": {
+								"y": 50,
+								"x": 44,
+								"width": 40,
+								"var": "iconNum1",
+								"height": 28
+							},
+							"compId": 127
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 662,
+						"x": 295,
+						"width": 58,
+						"var": "iconPatch2",
+						"skin": "images/obj/sp_25.png",
+						"height": 61,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 125,
+					"child": [
+						{
+							"type": "Box",
+							"props": {
+								"y": 50,
+								"x": 44,
+								"width": 40,
+								"var": "iconNum2",
+								"height": 28
+							},
+							"compId": 128
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 662,
+						"x": 455,
+						"width": 58,
+						"var": "iconPatch3",
+						"skin": "images/obj/sp_31.png",
+						"height": 61,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 126,
+					"child": [
+						{
+							"type": "Box",
+							"props": {
+								"y": 50,
+								"x": 44,
+								"width": 40,
+								"var": "iconNum3",
+								"height": 28
+							},
+							"compId": 129
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 662,
+						"x": 215,
+						"width": 58,
+						"var": "iconPatch4",
+						"skin": "images/obj/sp_28.png",
+						"height": 61,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 149,
+					"child": [
+						{
+							"type": "Box",
+							"props": {
+								"y": 50,
+								"x": 42,
+								"width": 40,
+								"var": "iconNum4",
+								"height": 28
+							},
+							"compId": 151
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 662,
+						"x": 535,
+						"width": 58,
+						"var": "iconPatch5",
+						"skin": "images/obj/sp_43.png",
+						"height": 61,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 150,
+					"child": [
+						{
+							"type": "Box",
+							"props": {
+								"y": 50,
+								"x": 42,
+								"width": 40,
+								"var": "iconNum5",
+								"height": 28
+							},
+							"compId": 152
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 2,
+						"x": 2,
+						"width": 734,
+						"var": "imgTopBanner",
+						"skin": "images/solider/icon_tc_pzbg_5.png",
+						"sizeGrid": "0,21,0,22",
+						"height": 90
+					},
+					"compId": 76,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 47,
+								"x": 683,
+								"var": "btnClose",
+								"skin": "images/solider/button_gb.png",
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 35
+						},
+						{
+							"type": "Label",
+							"props": {
+								"y": 27,
+								"x": 100,
+								"width": 400,
+								"text": "3Star clearance conditions",
+								"strokeColor": "#e2ae40",
+								"stroke": 3,
+								"fontSize": 38,
+								"color": "#ffffff",
+								"bold": true,
+								"align": "center"
+							},
+							"compId": 10
+						},
+						{
+							"type": "Label",
+							"props": {
+								"y": 538,
+								"x": 252,
+								"text": "First 3star bonus",
+								"strokeColor": "#cac4c4",
+								"stroke": 1,
+								"fontSize": 28,
+								"color": "#ffffff",
+								"bold": true
+							},
+							"compId": 107
+						},
+						{
+							"type": "Label",
+							"props": {
+								"y": 242,
+								"x": 8,
+								"width": 240,
+								"var": "labTitle1",
+								"text": "职业条件",
+								"fontSize": 24,
+								"color": "#ffffff",
+								"bold": true,
+								"align": "center"
+							},
+							"compId": 136,
+							"child": [
+								{
+									"type": "Label",
+									"props": {
+										"y": 40,
+										"x": 0,
+										"width": 240,
+										"var": "labDesc1",
+										"text": "建造限造击杀数",
+										"fontSize": 22,
+										"color": "#ffffff",
+										"bold": true,
+										"align": "center"
+									},
+									"compId": 137
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 132,
+										"x": 0,
+										"width": 240,
+										"var": "labEnd1",
+										"text": "职业计数",
+										"fontSize": 24,
+										"color": "#ffffff",
+										"bold": true,
+										"align": "center"
+									},
+									"compId": 138
+								}
+							]
+						},
+						{
+							"type": "Label",
+							"props": {
+								"y": 242,
+								"x": 245,
+								"width": 240,
+								"var": "labTitle2",
+								"text": "职业条件",
+								"fontSize": 24,
+								"color": "#ffffff",
+								"bold": true,
+								"align": "center"
+							},
+							"compId": 133,
+							"child": [
+								{
+									"type": "Label",
+									"props": {
+										"y": 40,
+										"x": 0,
+										"width": 240,
+										"var": "labDesc2",
+										"text": "建造限造击杀数",
+										"fontSize": 22,
+										"color": "#ffffff",
+										"bold": true,
+										"align": "center"
+									},
+									"compId": 134
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 132,
+										"x": 0,
+										"width": 240,
+										"var": "labEnd2",
+										"text": "职业计数",
+										"fontSize": 24,
+										"color": "#ffffff",
+										"bold": true,
+										"align": "center"
+									},
+									"compId": 135
+								}
+							]
+						},
+						{
+							"type": "Label",
+							"props": {
+								"y": 242,
+								"x": 482,
+								"width": 240,
+								"var": "labTitle3",
+								"text": "职业条件",
+								"fontSize": 24,
+								"color": "#ffffff",
+								"bold": true,
+								"align": "center"
+							},
+							"compId": 117,
+							"child": [
+								{
+									"type": "Label",
+									"props": {
+										"y": 40,
+										"x": 0,
+										"width": 240,
+										"var": "labDesc3",
+										"text": "建造限造击杀数",
+										"fontSize": 22,
+										"color": "#ffffff",
+										"bold": true,
+										"align": "center"
+									},
+									"compId": 118
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 132,
+										"x": 0,
+										"width": 240,
+										"var": "labEnd3",
+										"text": "职业计数",
+										"fontSize": 24,
+										"color": "#ffffff",
+										"bold": true,
+										"align": "center"
+									},
+									"compId": 122
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/grid/maskGray.png",
+		"images/solider/icon_tc_bg.png",
+		"images/solider/icon_sxtj_bg2.png",
+		"images/solider/icon_sxtj_fgx.png",
+		"images/solider/icon_sxtj_bg1.png",
+		"images/solider/icon_sxtj_word1.png",
+		"images/solider/icon_sxtj_wc.png",
+		"images/solider/icon_sxtj_word2.png",
+		"images/solider/icon_js_fgx.png",
+		"images/solider/icon_sxtj_word3.png",
+		"images/solider/icon_sxtj_wwc.png",
+		"images/solider/signMask.png",
+		"images/obj/sp_3.png",
+		"images/obj/sp_25.png",
+		"images/obj/sp_31.png",
+		"images/obj/sp_28.png",
+		"images/obj/sp_43.png",
+		"images/solider/icon_tc_pzbg_5.png",
+		"images/solider/button_gb.png"
+	],
+	"loadList3D": []
+}

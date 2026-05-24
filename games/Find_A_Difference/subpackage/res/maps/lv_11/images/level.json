@@ -1,0 +1,54 @@
+{
+    "skins": {
+        "slots": [
+            {
+                "name": "layer",
+                "layer": "standart",
+                "x": 800,
+                "y": -500,
+                "width": 1602,
+                "height": 1002
+            },
+            {
+                "name": "Bag",
+                "layer": "LayerAMiddle",
+                "x": 627,
+                "y": -357,
+                "width": 90,
+                "height": 182
+            },
+            {
+                "name": "Dog",
+                "layer": "LayerAMiddle",
+                "x": 1198,
+                "y": -353.5,
+                "width": 228,
+                "height": 155
+            },
+            {
+                "name": "Present",
+                "layer": "LayerBMiddle",
+                "x": 1374,
+                "y": -577,
+                "width": 52,
+                "height": 54
+            },
+            {
+                "name": "scarf",
+                "layer": "LayerBMiddle",
+                "x": 178.5,
+                "y": -203.5,
+                "width": 77,
+                "height": 113
+            },
+            {
+                "name": "skiing",
+                "layer": "LayerBMiddle",
+                "x": 574,
+                "y": -748,
+                "width": 84,
+                "height": 224
+            }
+        ]
+    }
+}

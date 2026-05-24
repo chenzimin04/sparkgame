@@ -1,0 +1,36 @@
+ {
+	"size":9,
+	"moves":44,
+	"tasks":[
+		{ "type":"COIN", "count":30 }
+	],
+	"stars":{"avg":20, "top":27 },
+	"add":[
+		{ "x":1, "y":0, "type":"COINS" },
+		{ "x":3, "y":0, "type":"COINS" },
+		{ "x":5, "y":0, "type":"COINS" },
+		{ "x":7, "y":0, "type":"COINS" },
+		
+		{ "x":0, "y":1, "type":"COINS" },
+		{ "x":0, "y":3, "type":"COINS" },
+		{ "x":0, "y":5, "type":"COINS" },
+		{ "x":0, "y":7, "type":"COINS" },
+		
+		{ "x":8, "y":1, "type":"COINS" },
+		{ "x":8, "y":3, "type":"COINS" },
+		{ "x":8, "y":5, "type":"COINS" },
+		{ "x":8, "y":7, "type":"COINS" },
+		{ "x":2, "y":1, "dx":2, "dy":1, "type":"GEM_GREEN" }
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_GREEN","GEM_RED","GEM_YELLOW"],
+	"field":[ 
+		"oxxxxxxxo",
+		"xxxxxxxxx",
+		"oxxxxxxxo",
+		"xxxxxxxxx",
+		"oxxxxxxxo",
+		"xxxxxxxxx",
+		"oxxxxxxxo",
+		"xxxxxxxxx",
+		"oxoxoxoxo"]
+ }

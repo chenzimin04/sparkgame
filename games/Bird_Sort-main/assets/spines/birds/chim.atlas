@@ -1,0 +1,1119 @@
+
+chim.png
+size: 1009,598
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chim_10_Ellipse 1 copy(2)(2)(2)(2)
+  rotate: false
+  xy: 970, 4
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+chim_10_Layer 4 copy 9_stroke
+  rotate: false
+  xy: 142, 2
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+chim_10_Layer62(2)(2)(2)(2)
+  rotate: false
+  xy: 996, 102
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+chim_10_Linework14
+  rotate: false
+  xy: 81, 42
+  size: 90, 132
+  orig: 90, 132
+  offset: 0, 0
+  index: -1
+chim_10_Linework14_stroke
+  rotate: true
+  xy: 597, 392
+  size: 104, 146
+  orig: 104, 146
+  offset: 0, 0
+  index: -1
+chim_10_Linework3a
+  rotate: true
+  xy: 942, 4
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+chim_10_Vector3
+  rotate: false
+  xy: 361, 9
+  size: 65, 97
+  orig: 65, 97
+  offset: 0, 0
+  index: -1
+chim_10_Vector3_stroke
+  rotate: true
+  xy: 546, 111
+  size: 81, 111
+  orig: 81, 111
+  offset: 0, 0
+  index: -1
+chim_10_Vector8(2)
+  rotate: true
+  xy: 877, 143
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+chim_10_Vector8(2)_stroke
+  rotate: true
+  xy: 963, 271
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+chim_10_eyeclose
+  rotate: false
+  xy: 977, 57
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+chim_11_Ellipse 1 copy(2)(2)(2)(2)(2)
+  rotate: false
+  xy: 950, 90
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+chim_11_Layer 4 copy 10
+  rotate: false
+  xy: 942, 126
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+chim_11_Layer 4 copy 10_stroke
+  rotate: true
+  xy: 924, 209
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+chim_11_Layer63(2)(2)(2)(2)(2)
+  rotate: false
+  xy: 81, 329
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+chim_11_Linework15
+  rotate: false
+  xy: 2, 49
+  size: 77, 148
+  orig: 77, 148
+  offset: 0, 0
+  index: -1
+chim_11_Linework15_stroke
+  rotate: true
+  xy: 769, 505
+  size: 91, 162
+  orig: 91, 162
+  offset: 0, 0
+  index: -1
+chim_11_Linework3a
+  rotate: false
+  xy: 960, 126
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+chim_11_Linework3a_stroke
+  rotate: true
+  xy: 964, 202
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+chim_11_Vector1
+  rotate: false
+  xy: 266, 210
+  size: 59, 107
+  orig: 59, 107
+  offset: 0, 0
+  index: -1
+chim_11_Vector1_stroke
+  rotate: false
+  xy: 933, 475
+  size: 74, 121
+  orig: 74, 121
+  offset: 0, 0
+  index: -1
+chim_11_Vector9(2)
+  rotate: false
+  xy: 461, 2
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+chim_11_Vector9(2)_stroke
+  rotate: true
+  xy: 964, 233
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+chim_11_eyeclose
+  rotate: false
+  xy: 977, 40
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+chim_12_Ellipse 1 copy(2)(2)(2)(2)(2)(2)
+  rotate: false
+  xy: 729, 2
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+chim_12_Layer62(2)(2)(2)(2)(2)(2)
+  rotate: false
+  xy: 859, 2
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+chim_12_Linework16
+  rotate: false
+  xy: 275, 97
+  size: 84, 111
+  orig: 84, 111
+  offset: 0, 0
+  index: -1
+chim_12_Linework16_stroke
+  rotate: false
+  xy: 166, 192
+  size: 98, 125
+  orig: 98, 125
+  offset: 0, 0
+  index: -1
+chim_12_Linework3a
+  rotate: false
+  xy: 978, 126
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+chim_12_Vector3
+  rotate: true
+  xy: 906, 405
+  size: 68, 100
+  orig: 68, 100
+  offset: 0, 0
+  index: -1
+chim_12_Vector3_stroke
+  rotate: true
+  xy: 447, 210
+  size: 80, 114
+  orig: 80, 114
+  offset: 0, 0
+  index: -1
+chim_12_Vector7
+  rotate: false
+  xy: 428, 2
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+chim_12_Vector7_stroke
+  rotate: false
+  xy: 829, 55
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+chim_12_Vector9(2)(2)
+  rotate: false
+  xy: 487, 2
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+chim_12_Vector9(2)(2)_stroke
+  rotate: true
+  xy: 879, 209
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+chim_12_eyeclose
+  rotate: false
+  xy: 526, 58
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+chim_1_Layer 4
+  rotate: false
+  xy: 906, 477
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+chim_6_Layer 4 copy 5
+  rotate: false
+  xy: 906, 477
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+chim_1_Layer 4_stroke
+  rotate: true
+  xy: 924, 240
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+chim_12_Linework3a_stroke
+  rotate: true
+  xy: 924, 240
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+chim_1_Linework3a_stroke
+  rotate: true
+  xy: 924, 240
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+chim_2_Linework3a_stroke
+  rotate: true
+  xy: 924, 240
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+chim_5_Layer 4 copy 4_stroke
+  rotate: true
+  xy: 924, 240
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+chim_5_Linework3a_stroke
+  rotate: true
+  xy: 924, 240
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+chim_8_Layer 4 copy 7_stroke
+  rotate: true
+  xy: 924, 240
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+chim_1_Layer62(3)(2)(2)
+  rotate: false
+  xy: 996, 141
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+chim_1_Layer67
+  rotate: false
+  xy: 897, 2
+  size: 15, 18
+  orig: 16, 18
+  offset: 1, 0
+  index: -1
+chim_1_Layer68
+  rotate: false
+  xy: 173, 68
+  size: 100, 122
+  orig: 100, 122
+  offset: 0, 0
+  index: -1
+chim_1_Layer68_stroke
+  rotate: false
+  xy: 334, 313
+  size: 113, 135
+  orig: 113, 135
+  offset: 0, 0
+  index: -1
+chim_1_Linework3a
+  rotate: true
+  xy: 750, 7
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+chim_1_Vector3
+  rotate: false
+  xy: 773, 101
+  size: 59, 88
+  orig: 59, 88
+  offset: 0, 0
+  index: -1
+chim_1_Vector3_stroke
+  rotate: false
+  xy: 678, 189
+  size: 72, 101
+  orig: 72, 101
+  offset: 0, 0
+  index: -1
+chim_1_Vector8(2)(2)
+  rotate: false
+  xy: 625, 2
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+chim_1_Vector8(2)(2)_stroke
+  rotate: true
+  xy: 829, 17
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+chim_1_eyeclose
+  rotate: true
+  xy: 933, 22
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+chim_2_Ellipse 1 copy(3)(2)
+  rotate: true
+  xy: 985, 154
+  size: 16, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+chim_2_Layer 4 copy
+  rotate: true
+  xy: 778, 7
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+chim_12_Layer 4 copy 11
+  rotate: true
+  xy: 778, 7
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+chim_3_Layer 4 copy 2
+  rotate: true
+  xy: 778, 7
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+chim_9_Layer 4 copy 8
+  rotate: true
+  xy: 778, 7
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+chim_2_Layer 4 copy_stroke
+  rotate: false
+  xy: 882, 104
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+chim_2_Layer63(3)(2)
+  rotate: false
+  xy: 585, 399
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+chim_2_Linework3a
+  rotate: true
+  xy: 911, 151
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+chim_2_Linework4
+  rotate: false
+  xy: 2, 199
+  size: 77, 189
+  orig: 77, 189
+  offset: 0, 0
+  index: -1
+chim_2_Linework4_stroke
+  rotate: false
+  xy: 2, 390
+  size: 93, 206
+  orig: 112, 213
+  offset: 11, 7
+  index: -1
+chim_2_Vector5
+  rotate: false
+  xy: 752, 191
+  size: 65, 100
+  orig: 65, 100
+  offset: 0, 0
+  index: -1
+chim_2_Vector5_stroke
+  rotate: true
+  xy: 659, 108
+  size: 79, 112
+  orig: 79, 112
+  offset: 0, 0
+  index: -1
+chim_2_Vector8(2)(2)(2)
+  rotate: false
+  xy: 651, 2
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+chim_2_Vector8(2)(2)(2)_stroke
+  rotate: false
+  xy: 924, 301
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+chim_6_Vector8(2)(2)(2)(2)(2)(2)(2)_stroke
+  rotate: false
+  xy: 924, 301
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+chim_2_eyeclose
+  rotate: false
+  xy: 978, 109
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+chim_3_Ellipse 1 copy(3)
+  rotate: false
+  xy: 81, 372
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+chim_3_Layer 4 copy 2_stroke
+  rotate: false
+  xy: 877, 169
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+chim_3_Layer62(3)
+  rotate: false
+  xy: 719, 380
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+chim_3_Linework3a
+  rotate: false
+  xy: 905, 40
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+chim_3_Linework3a_stroke
+  rotate: true
+  xy: 962, 172
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+chim_4_Linework3a_stroke
+  rotate: true
+  xy: 962, 172
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+chim_3_Linework6
+  rotate: false
+  xy: 222, 440
+  size: 110, 156
+  orig: 110, 156
+  offset: 0, 0
+  index: -1
+chim_3_Linework6_stroke
+  rotate: false
+  xy: 97, 428
+  size: 123, 168
+  orig: 123, 168
+  offset: 0, 0
+  index: -1
+chim_3_Vector3
+  rotate: true
+  xy: 428, 35
+  size: 65, 96
+  orig: 65, 96
+  offset: 0, 0
+  index: -1
+chim_3_Vector3_stroke
+  rotate: false
+  xy: 546, 2
+  size: 77, 107
+  orig: 77, 107
+  offset: 0, 0
+  index: -1
+chim_3_Vector8(2)(2)(2)(2)
+  rotate: false
+  xy: 904, 68
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+chim_3_Vector8(2)(2)(2)(2)_troke
+  rotate: true
+  xy: 819, 194
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+chim_3_eyeclose
+  rotate: true
+  xy: 546, 194
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+chim_4_Ellipse 1 copy
+  rotate: true
+  xy: 875, 2
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+chim_4_Layer 4 copy 3
+  rotate: false
+  xy: 923, 40
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+chim_4_Layer 4 copy 3_stroke
+  rotate: false
+  xy: 874, 61
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+chim_4_Layer63
+  rotate: false
+  xy: 81, 342
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+chim_7_Layer62(2)(2)(2)
+  rotate: false
+  xy: 81, 342
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+chim_4_Linework3a
+  rotate: true
+  xy: 905, 22
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+chim_4_Linework8
+  rotate: true
+  xy: 563, 194
+  size: 96, 113
+  orig: 96, 113
+  offset: 0, 0
+  index: -1
+chim_4_Linework8_stroke
+  rotate: true
+  xy: 97, 319
+  size: 107, 125
+  orig: 107, 125
+  offset: 0, 0
+  index: -1
+chim_4_Vector4
+  rotate: true
+  xy: 743, 25
+  size: 74, 84
+  orig: 74, 84
+  offset: 0, 0
+  index: -1
+chim_4_Vector4_stroke
+  rotate: true
+  xy: 719, 293
+  size: 85, 95
+  orig: 85, 95
+  offset: 0, 0
+  index: -1
+chim_4_Vector8(2)(2)(2)(2)(2)
+  rotate: true
+  xy: 912, 114
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+chim_4_Vector8(2)(2)(2)(2)(2)_stroke
+  rotate: false
+  xy: 834, 100
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+chim_4_eyeclose
+  rotate: false
+  xy: 526, 80
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+chim_5_Ellipse 1 copy(2)
+  rotate: false
+  xy: 968, 91
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+chim_5_Layer 4 copy 4
+  rotate: true
+  xy: 914, 4
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+chim_8_Layer 4 copy 7
+  rotate: true
+  xy: 914, 4
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+chim_5_Layer62(2)
+  rotate: false
+  xy: 867, 221
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+chim_5_Linework3a
+  rotate: true
+  xy: 957, 154
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+chim_5_Linework9
+  rotate: true
+  xy: 585, 292
+  size: 98, 132
+  orig: 98, 132
+  offset: 0, 0
+  index: -1
+chim_5_Linework9_stroke
+  rotate: false
+  xy: 334, 450
+  size: 113, 146
+  orig: 113, 146
+  offset: 0, 0
+  index: -1
+chim_5_Vector4
+  rotate: false
+  xy: 278, 8
+  size: 81, 87
+  orig: 81, 87
+  offset: 0, 0
+  index: -1
+chim_5_Vector4_stroke
+  rotate: false
+  xy: 361, 108
+  size: 94, 100
+  orig: 94, 100
+  offset: 0, 0
+  index: -1
+chim_5_Vector8(2)(2)(2)(2)(2)(2)
+  rotate: true
+  xy: 513, 3
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+chim_5_Vector8(2)(2)(2)(2)(2)(2)_stroke
+  rotate: true
+  xy: 39, 4
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+chim_5_eyeclose
+  rotate: false
+  xy: 903, 331
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+chim_6_Ellipse 1 copy(2)(2)
+  rotate: true
+  xy: 526, 40
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+chim_6_Layer 4 copy 5_stroke
+  rotate: false
+  xy: 907, 169
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+chim_12_Layer 4 copy 11_stroke
+  rotate: false
+  xy: 907, 169
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+chim_6_Layer62(2)(2)
+  rotate: false
+  xy: 996, 128
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+chim_6_Linework10
+  rotate: false
+  xy: 457, 102
+  size: 87, 106
+  orig: 87, 106
+  offset: 0, 0
+  index: -1
+chim_6_Linework10_stroke
+  rotate: true
+  xy: 327, 210
+  size: 101, 118
+  orig: 101, 118
+  offset: 0, 0
+  index: -1
+chim_6_Linework3a
+  rotate: false
+  xy: 932, 86
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+chim_6_Linework3a_stroke
+  rotate: false
+  xy: 80, 2
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+chim_10_Linework3a_stroke
+  rotate: false
+  xy: 80, 2
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+chim_7_Linework3_stroke
+  rotate: false
+  xy: 80, 2
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+chim_9_Layer 4 copy 8_stroke
+  rotate: false
+  xy: 80, 2
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+chim_6_Vector6
+  rotate: false
+  xy: 879, 247
+  size: 43, 82
+  orig: 43, 82
+  offset: 0, 0
+  index: -1
+chim_6_Vector6_stroke
+  rotate: false
+  xy: 819, 233
+  size: 58, 96
+  orig: 58, 96
+  offset: 0, 0
+  index: -1
+chim_6_Vector8(2)(2)(2)(2)(2)(2)(2)
+  rotate: false
+  xy: 677, 2
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+chim_6_eyeclose
+  rotate: true
+  xy: 806, 7
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+chim_7_Ellipse 1 copy(2)(2)(2)
+  rotate: false
+  xy: 939, 156
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+chim_7_Layer 4 copy 6
+  rotate: true
+  xy: 932, 68
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+chim_10_Layer 4 copy 9
+  rotate: true
+  xy: 932, 68
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+chim_7_Layer 4 copy 6_stroke
+  rotate: true
+  xy: 924, 270
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+chim_7_Layer64(2)(2)(2)
+  rotate: false
+  xy: 826, 2
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+chim_7_Linework11
+  rotate: false
+  xy: 224, 319
+  size: 103, 119
+  orig: 103, 119
+  offset: 0, 0
+  index: -1
+chim_7_Linework11_stroke
+  rotate: true
+  xy: 449, 292
+  size: 117, 134
+  orig: 118, 134
+  offset: 1, 0
+  index: -1
+chim_7_Linework3
+  rotate: false
+  xy: 941, 40
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+chim_7_Vector4(2)
+  rotate: true
+  xy: 817, 331
+  size: 74, 84
+  orig: 74, 84
+  offset: 0, 0
+  index: -1
+chim_7_Vector4(2)_stroke
+  rotate: false
+  xy: 817, 407
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: -1
+chim_7_Vector8(2)(2)(2)(2)(2)(2)(2)(2)
+  rotate: false
+  xy: 703, 2
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+chim_7_Vector8(2)(2)(2)(2)(2)(2)(2)(2)_stroke
+  rotate: true
+  xy: 963, 309
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+chim_7_eyeclose
+  rotate: false
+  xy: 960, 73
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+chim_8_Ellipse 1 copy(2)(2)
+  rotate: false
+  xy: 960, 108
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+chim_8_Layer62(2)(2)
+  rotate: false
+  xy: 996, 115
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+chim_8_Linework12
+  rotate: true
+  xy: 449, 411
+  size: 85, 146
+  orig: 85, 146
+  offset: 0, 0
+  index: -1
+chim_8_Linework12_stroke
+  rotate: true
+  xy: 449, 498
+  size: 98, 160
+  orig: 98, 160
+  offset: 0, 0
+  index: -1
+chim_8_Linework3
+  rotate: false
+  xy: 959, 40
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+chim_8_Linework3_stroke
+  rotate: false
+  xy: 111, 2
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+chim_9_Linework3a_stroke
+  rotate: false
+  xy: 111, 2
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+chim_8_Vector1
+  rotate: true
+  xy: 173, 10
+  size: 56, 103
+  orig: 56, 103
+  offset: 0, 0
+  index: -1
+chim_8_Vector1_stroke
+  rotate: true
+  xy: 625, 36
+  size: 70, 116
+  orig: 70, 116
+  offset: 0, 0
+  index: -1
+chim_8_Vector8
+  rotate: false
+  xy: 937, 174
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+chim_8_Vector8_stroke
+  rotate: false
+  xy: 2, 2
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+chim_8_eyeclose
+  rotate: false
+  xy: 977, 74
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+chim_9_Ellipse 1 copy(2)(2)(2)
+  rotate: false
+  xy: 81, 356
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+chim_9_Layer62(2)(2)(2)
+  rotate: false
+  xy: 729, 25
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+chim_9_Linework13
+  rotate: false
+  xy: 81, 176
+  size: 83, 141
+  orig: 83, 141
+  offset: 0, 0
+  index: -1
+chim_9_Linework13_stroke
+  rotate: true
+  xy: 611, 498
+  size: 98, 156
+  orig: 99, 156
+  offset: 1, 0
+  index: -1
+chim_9_Linework3a
+  rotate: true
+  xy: 950, 22
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+chim_9_Vector1
+  rotate: true
+  xy: 903, 347
+  size: 56, 103
+  orig: 56, 103
+  offset: 0, 0
+  index: -1
+chim_9_Vector1_stroke
+  rotate: false
+  xy: 745, 380
+  size: 70, 116
+  orig: 70, 116
+  offset: 0, 0
+  index: -1
+chim_9_Vector9
+  rotate: false
+  xy: 875, 23
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+chim_9_Vector9_stroke
+  rotate: false
+  xy: 834, 143
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+chim_9_eyeclose
+  rotate: false
+  xy: 844, 2
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1

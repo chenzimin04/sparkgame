@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e8f5ff"/>
+      <stop offset="0.58" stop-color="#f6fbff"/>
+      <stop offset="1" stop-color="#dff0ff"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.88"/>
+      <stop offset="0.5" stop-color="#f6fbff" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#d7e9ff" stop-opacity="0.88"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="380" rx="26" fill="url(#bg)"/>
+  <g opacity="0.8">
+    <circle cx="90" cy="70" r="34" fill="#dbeeff"/>
+    <circle cx="548" cy="66" r="28" fill="#e6f3ff"/>
+    <circle cx="588" cy="116" r="24" fill="#edf7ff"/>
+  </g>
+  <text x="44" y="84" fill="#7ba6df" font-size="54" font-family="Segoe UI, Arial, sans-serif" font-weight="900">BALL SORT MASTER</text>
+  <g transform="translate(124 120)">
+    <g transform="translate(0 0)">
+      <rect x="0" y="0" width="58" height="174" rx="28" fill="none" stroke="#9ec5ff" stroke-width="8"/>
+      <rect x="8" y="64" width="42" height="96" rx="20" fill="#79b9ff"/>
+      <circle cx="29" cy="134" r="16" fill="#4f95ff"/>
+      <circle cx="29" cy="98" r="16" fill="#ffe36a"/>
+    </g>
+    <g transform="translate(116 0)">
+      <rect x="0" y="0" width="58" height="174" rx="28" fill="none" stroke="#9ec5ff" stroke-width="8"/>
+      <rect x="8" y="44" width="42" height="116" rx="20" fill="#ff9f84"/>
+      <circle cx="29" cy="124" r="16" fill="#ffce59"/>
+      <circle cx="29" cy="88" r="16" fill="#ff7b70"/>
+    </g>
+    <g transform="translate(232 0)">
+      <rect x="0" y="0" width="58" height="174" rx="28" fill="none" stroke="#9ec5ff" stroke-width="8"/>
+      <rect x="8" y="84" width="42" height="76" rx="20" fill="#7ee48f"/>
+      <circle cx="29" cy="128" r="16" fill="#4ecb77"/>
+      <circle cx="29" cy="92" r="16" fill="#6fe6ff"/>
+    </g>
+  </g>
+  <g fill="url(#glass)" opacity="0.8">
+    <rect x="135" y="128" width="12" height="154" rx="6"/>
+    <rect x="251" y="128" width="12" height="154" rx="6"/>
+    <rect x="367" y="128" width="12" height="154" rx="6"/>
+  </g>
+</svg>

@@ -1,0 +1,265 @@
+
+NanaZanana.webp
+size: 1173, 396
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+NanaZanana-Body
+  rotate: true
+  xy: 29, 11
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+NanaZanana-Effect-Base
+  rotate: true
+  xy: 446, 173
+  size: 221, 93
+  orig: 221, 93
+  offset: 0, 0
+  index: -1
+NanaZanana-Effect-Particle
+  rotate: true
+  xy: 215, 2
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+NanaZanana-Effect-White
+  rotate: false
+  xy: 446, 118
+  size: 173, 53
+  orig: 173, 53
+  offset: 0, 0
+  index: -1
+NanaZanana-Eye-Close-L
+  rotate: true
+  xy: 1066, 113
+  size: 89, 105
+  orig: 89, 105
+  offset: 0, 0
+  index: -1
+NanaZanana-Eye-Close-R
+  rotate: true
+  xy: 384, 3
+  size: 112, 105
+  orig: 112, 105
+  offset: 0, 0
+  index: -1
+NanaZanana-Eye-White-L
+  rotate: false
+  xy: 491, 2
+  size: 78, 114
+  orig: 78, 114
+  offset: 0, 0
+  index: -1
+NanaZanana-Eye-White-R
+  rotate: false
+  xy: 1066, 3
+  size: 99, 108
+  orig: 99, 108
+  offset: 0, 0
+  index: -1
+NanaZanana-EyeBall-L
+  rotate: false
+  xy: 621, 122
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+NanaZanana-EyeBall-R
+  rotate: true
+  xy: 328, 80
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: -1
+NanaZanana-Eyebrow-Angry-L
+  rotate: true
+  xy: 657, 123
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+NanaZanana-Eyebrow-Angry-R
+  rotate: true
+  xy: 2, 5
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+NanaZanana-Face
+  rotate: false
+  xy: 957, 204
+  size: 212, 190
+  orig: 212, 190
+  offset: 0, 0
+  index: -1
+NanaZanana-Hand-L
+  rotate: false
+  xy: 869, 57
+  size: 41, 96
+  orig: 41, 96
+  offset: 0, 0
+  index: -1
+NanaZanana-Hand-R
+  rotate: true
+  xy: 835, 9
+  size: 42, 97
+  orig: 42, 97
+  offset: 0, 0
+  index: -1
+NanaZanana-Kick-FX
+  rotate: false
+  xy: 299, 117
+  size: 145, 277
+  orig: 145, 277
+  offset: 0, 0
+  index: -1
+NanaZanana-Kick-Ray-FX
+  rotate: false
+  xy: 2, 70
+  size: 295, 324
+  orig: 295, 324
+  offset: 0, 0
+  index: -1
+NanaZanana-Leg-L
+  rotate: false
+  xy: 746, 43
+  size: 37, 130
+  orig: 37, 130
+  offset: 0, 0
+  index: -1
+NanaZanana-Leg-R
+  rotate: false
+  xy: 746, 43
+  size: 37, 130
+  orig: 37, 130
+  offset: 0, 0
+  index: -1
+NanaZanana-Mouth-Idle
+  rotate: false
+  xy: 720, 7
+  size: 77, 24
+  orig: 77, 24
+  offset: 0, 0
+  index: -1
+NanaZanana-Mouth-Idle_2
+  rotate: true
+  xy: 571, 7
+  size: 109, 100
+  orig: 120, 120
+  offset: 8, 12
+  index: -1
+NanaZanana-Mouth-Idle_4
+  rotate: true
+  xy: 785, 53
+  size: 120, 82
+  orig: 120, 82
+  offset: 0, 0
+  index: -1
+NanaZanana-Shadow
+  rotate: true
+  xy: 681, 12
+  size: 161, 37
+  orig: 161, 37
+  offset: 0, 0
+  index: -1
+NanaZanana-Wing-L
+  rotate: true
+  xy: 215, 12
+  size: 56, 167
+  orig: 56, 167
+  offset: 0, 0
+  index: -1
+NanaZanana-Wing-R
+  rotate: false
+  xy: 957, 20
+  size: 107, 182
+  orig: 107, 182
+  offset: 0, 0
+  index: -1
+NanaZanana-headband
+  rotate: false
+  xy: 720, 33
+  size: 24, 140
+  orig: 24, 140
+  offset: 0, 0
+  index: -1
+reference
+  rotate: true
+  xy: 541, 175
+  size: 219, 414
+  orig: 220, 414
+  offset: 0, 0
+  index: -1
+tint-NanaZanana-Body
+  rotate: true
+  xy: 106, 11
+  size: 57, 70
+  orig: 57, 70
+  offset: 0, 0
+  index: -1
+tint-NanaZanana-Hand-L
+  rotate: true
+  xy: 785, 33
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+tint-NanaZanana-Hand-R
+  rotate: true
+  xy: 810, 33
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+tint-NanaZanana-Shoe-L
+  rotate: true
+  xy: 912, 122
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+tint-NanaZanana-Shoe-R
+  rotate: true
+  xy: 912, 122
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+tint-NanaZanana-Shorts-L
+  rotate: false
+  xy: 934, 155
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+tint-NanaZanana-Shorts-R
+  rotate: true
+  xy: 799, 8
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+tint-NanaZanana-Socks-L
+  rotate: false
+  xy: 299, 74
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+tint-NanaZanana-Socks-R
+  rotate: false
+  xy: 299, 74
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+tint-NanaZanana-hips-R
+  rotate: true
+  xy: 178, 11
+  size: 57, 35
+  orig: 57, 35
+  offset: 0, 0
+  index: -1

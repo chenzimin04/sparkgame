@@ -1,0 +1,36 @@
+ {
+	"sizeX":9,
+	"sizeY":9,
+	"stars":{"avg":10, "top":18 },
+	"moves":25,
+	"add":[		
+		
+		{ "x":3, "y":4, "type":"ORE", "count":true },
+		{ "x":5, "y":4, "type":"ORE", "count":true },
+		{ "x":4, "y":3, "type":"ORE", "count":true },
+		{ "x":4, "y":5, "type":"ORE", "count":true },
+		
+		
+		{ "x":0, "y":4, "type":"ORE", "count":true },
+		{ "x":1, "y":4, "type":"ORE", "count":true },
+		{ "x":7, "y":4, "type":"ORE", "count":true },
+		{ "x":8, "y":4, "type":"ORE", "count":true },
+		{ "x":4, "y":0, "type":"ORE", "count":true },
+		{ "x":4, "y":1, "type":"ORE", "count":true },
+		{ "x":4, "y":7, "type":"ORE", "count":true },
+		{ "x":4, "y":8, "type":"ORE", "count":true },
+		
+		{ "x":4, "y":4, "type":"SKUNK" }
+	],
+	"allowedGemTypes":["GEM_PURPLE","GEM_GREEN","GEM_RED","GEM_BLUE"],
+	"field":[ 
+		"oooxxxooo",
+		"oooxxxooo",
+		"ooxxxxxoo",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"ooxxxxxoo",
+		"oooxxxooo",
+		"oooxxxooo"]
+ }

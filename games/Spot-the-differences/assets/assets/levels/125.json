@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "steampunk_person_a.jpg",
+  "image2": "steampunk_person_b.jpg",
+  "differences":
+  [
+    {
+      "x": 650.0,
+      "y": 107.0,
+      "size": 90.0
+    },
+    {
+      "x": 569.0,
+      "y": 321.0,
+      "size": 90.0
+    },
+    {
+      "x": 689.0,
+      "y": 305.0,
+      "size": 60.0
+    },
+    {
+      "x": 572.0,
+      "y": 458.0,
+      "size": 70.0
+    },
+    {
+      "x": 621.0,
+      "y": 540.0,
+      "size": 60.0
+    }
+  ]
+}

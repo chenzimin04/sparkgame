@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+
+<templates>
+	<template id="tBaseReward" width="100%" height="100%" template="tBaseReward" >
+		<image name="uiImgRewardIcon">			
+			<text name="uiTxtRewardAmount" template="tFontWhite,tFontLarge" />
+		</image>
+	</template>
+</templates>
+
+<screen name="uiScreenPopUp" template="tPopUpJenny" label="SID_PLAY_WITH_FRIENDS">			
+	<element name="uiContent" >			
+		<element width="580" height="250" halign="center" y="190" >
+			<image template="tRays" halign="center" valign="center" scale="6" />
+			<element name="uiRewardConti2" width="180" ratio="1" halign="left" valign="center" animation="wobble" >							
+				<emitter template="tEmitter" range="80" />
+			</element>	
+			<element name="uiRewardConti3" width="150" ratio="1" halign="right" valign="center" animation="wobble" >							
+				<emitter template="tEmitter" range="80" />
+			</element>	
+			<element name="uiRewardConti" width="250" ratio="1" halign="center" animation="wobble" >							
+				<emitter template="tEmitter" range="80" />
+			</element>	
+			
+			<!--text text="SID_REWARD" width="100%" height="50" halign="center" template="tFontMedium" halignText="center" valignText="center" y="-10" /-->
+		</element>
+		
+		<text text="SID_REGISTER_TEXT" template="tElement,tFontMedium" height="150" halignText="center" valignText="center"  marginLeft="50" marginRight="50" />
+		<element name="uiSignIn" valign="bottom" width="60%" height="400" halign="center" y="-110" >
+			<button name="uiBtFacebook" width="100%" ratio="5" image="dynamic/facebook-sign-in.png" halign="center" valign="top"  />
+			<button name="uiBtGoogle" y="-10" width="100%" ratio="3.88" image="dynamic/google-sign-in.png" halign="center" valign="center" />
+			<button name="uiBtEmail" width="100%" ratio="4.4" halign="center" valign="bottom" template="tButton" label="SID_SIGN_IN_WITH_EMAIL" >
+				<text name="uiTxtLabel" template="tFontMedium" />
+			</button>
+			<button name="uiBtTerms" width="150%" height="130" halign="center" valign="bottomOf">
+				<text text="SID_ACCEPT_TERMS" template="tElement,tFontSmall" halignText="center" valignText="center" />
+			</button>
+		</element>
+	</element>
+</screen>

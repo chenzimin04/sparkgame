@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+
+<screen name="uiScreenPopUp" template="tPopUpJenny">	
+	<element name="uiContent" >
+		<image image="ui/ZooBoom_Logo.png" width="480" ratio="2.4" y="-100" halign="center" />
+		<button name="uiBtBrand" halign="center" valign="top" width="400" height="168" y="140" />		
+		<image name="uiImgDeco" width="500" ratio="1" halign="center" valign="center" image="dynamic/deco01.png" y="30" />
+		<image name="uiImgFamobiLogo" image="dynamic/logo.png" width="300" height="126" halign="center" valign="bottom" y="-150" />		
+		<button name="uiBtOk" template="tButton" halign="center" valign="bottom" label="SID_OK" />	
+	</element>	
+</screen>

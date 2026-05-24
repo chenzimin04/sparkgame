@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "space_ship_dark_a.jpg",
+  "image2": "space_ship_dark_b.jpg",
+  "differences":
+  [
+    {
+      "x": 295.0,
+      "y": 516.0,
+      "size": 130.0
+    },
+    {
+      "x": 397.0,
+      "y": 479.0,
+      "size": 80.0
+    },
+    {
+      "x": 470.0,
+      "y": 223.0,
+      "size": 110.0
+    },
+    {
+      "x": 159.0,
+      "y": 191.0,
+      "size": 110.0
+    },
+    {
+      "x": 774.0,
+      "y": 156.0,
+      "size": 100.0
+    }
+  ]
+}

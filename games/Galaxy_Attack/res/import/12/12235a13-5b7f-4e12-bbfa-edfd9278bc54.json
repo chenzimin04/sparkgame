@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"atk2","_duration":0.03333333333333333,"sample":30,"curveData":{"paths":{"1":{"props":{"y":[{"frame":0,"value":0},{"frame":0.03333333333333333,"value":0.01}]}}}},"events":[{"frame":0,"func":"onShoot","params":[]}]}

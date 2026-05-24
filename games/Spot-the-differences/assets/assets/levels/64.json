@@ -1,0 +1,38 @@
+{
+  "resolution": "standard",
+  "image1": "space_ship_galaxy_a.jpg",
+  "image2": "space_ship_galaxy_b.jpg",
+  "differences":
+  [
+    {
+    "x": 123.0,
+    "y": 419.0,
+    "size": 50.0
+    },
+    {
+    "x": 517.0,
+    "y": 400.0,
+    "size": 100.0
+    },
+    {
+    "x": 788.0,
+    "y": 412.0,
+    "size": 80.0
+    },
+    {
+    "x": 376.0,
+    "y": 182.0,
+    "size": 100.0
+    },
+    {
+    "x": 620.0,
+    "y": 210.0,
+    "size": 90.0
+    },
+    {
+    "x": 888.0,
+    "y": 79.0,
+    "size": 100.0
+    }
+  ]
+}

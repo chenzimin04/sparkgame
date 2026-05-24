@@ -1,0 +1,258 @@
+
+Finn.webp
+size: 1569,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Finn-Effect-Base
+  rotate: false
+  xy: 333, 76
+  size: 223, 95
+  orig: 223, 95
+  offset: 0, 0
+  index: -1
+Finn-Effect-Particle
+  rotate: true
+  xy: 1519, 6
+  size: 8, 12
+  orig: 10, 14
+  offset: 1, 1
+  index: -1
+Finn-Effect-White
+  rotate: false
+  xy: 675, 47
+  size: 175, 55
+  orig: 175, 55
+  offset: 0, 0
+  index: -1
+Finn-Eyeball
+  rotate: false
+  xy: 169, 9
+  size: 72, 16
+  orig: 72, 16
+  offset: 0, 0
+  index: -1
+Finn-Eyelid
+  rotate: true
+  xy: 1519, 16
+  size: 74, 15
+  orig: 74, 15
+  offset: 0, 0
+  index: -1
+Finn-Face
+  rotate: false
+  xy: 558, 82
+  size: 115, 89
+  orig: 115, 89
+  offset: 0, 0
+  index: -1
+Finn-Head
+  rotate: false
+  xy: 169, 27
+  size: 162, 144
+  orig: 162, 144
+  offset: 0, 0
+  index: -1
+Finn-Hip
+  rotate: false
+  xy: 853, 111
+  size: 157, 60
+  orig: 157, 64
+  offset: 0, 4
+  index: -1
+Finn-L-Hand
+  rotate: true
+  xy: 852, 12
+  size: 57, 127
+  orig: 57, 127
+  offset: 0, 0
+  index: -1
+Finn-L-Leg
+  rotate: true
+  xy: 333, 30
+  size: 44, 135
+  orig: 44, 135
+  offset: 0, 0
+  index: -1
+Finn-L-Palm-Fold
+  rotate: false
+  xy: 333, 4
+  size: 28, 24
+  orig: 28, 25
+  offset: 0, 1
+  index: -1
+Finn-L-Palm_idle
+  rotate: true
+  xy: 1420, 15
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+Finn-L-Pant
+  rotate: true
+  xy: 558, 43
+  size: 37, 103
+  orig: 37, 103
+  offset: 0, 0
+  index: -1
+Finn-L-Shoe
+  rotate: false
+  xy: 799, 18
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+Finn-Mouth-Excited
+  rotate: false
+  xy: 606, 16
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+Finn-Mouth-Happy
+  rotate: false
+  xy: 363, 6
+  size: 45, 22
+  orig: 45, 22
+  offset: 0, 0
+  index: -1
+Finn-Mouth-Idle
+  rotate: false
+  xy: 410, 12
+  size: 43, 16
+  orig: 43, 16
+  offset: 0, 0
+  index: -1
+Finn-Mouth-Sad-Idle
+  rotate: true
+  xy: 998, 82
+  size: 27, 6
+  orig: 27, 6
+  offset: 0, 0
+  index: -1
+Finn-R-Leg
+  rotate: true
+  xy: 663, 2
+  size: 43, 134
+  orig: 43, 134
+  offset: 0, 0
+  index: -1
+Finn-R-Palm-Fold
+  rotate: false
+  xy: 1536, 9
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Finn-R-Shoe
+  rotate: true
+  xy: 1536, 42
+  size: 48, 31
+  orig: 49, 31
+  offset: 1, 0
+  index: -1
+Finn-R-Shorts
+  rotate: true
+  xy: 470, 2
+  size: 39, 134
+  orig: 39, 134
+  offset: 0, 0
+  index: -1
+Finn-R-Thigh
+  rotate: true
+  xy: 1284, 10
+  size: 39, 134
+  orig: 39, 134
+  offset: 0, 0
+  index: -1
+Finn-R-palm-idle
+  rotate: false
+  xy: 981, 24
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+Finn-Shadow
+  rotate: true
+  xy: 1482, 12
+  size: 159, 35
+  orig: 161, 37
+  offset: 1, 1
+  index: -1
+Finn_L_Hand-full
+  rotate: true
+  xy: 1012, 51
+  size: 59, 232
+  orig: 59, 232
+  offset: 0, 0
+  index: -1
+Finn_R_Hand
+  rotate: true
+  xy: 853, 71
+  size: 38, 143
+  orig: 38, 143
+  offset: 0, 0
+  index: -1
+Finn_R_Hand-full
+  rotate: true
+  xy: 1012, 112
+  size: 59, 233
+  orig: 59, 233
+  offset: 0, 0
+  index: -1
+tint-Finn-L-Hand
+  rotate: true
+  xy: 470, 45
+  size: 29, 73
+  orig: 29, 73
+  offset: 0, 0
+  index: -1
+tint-Finn-L-Socks
+  rotate: true
+  xy: 1011, 5
+  size: 44, 135
+  orig: 44, 135
+  offset: 0, 0
+  index: -1
+tint-Finn-R-Shoulder
+  rotate: false
+  xy: 1519, 92
+  size: 46, 79
+  orig: 46, 80
+  offset: 0, 1
+  index: -1
+tint-Finn-R-Socks
+  rotate: true
+  xy: 1148, 6
+  size: 43, 134
+  orig: 43, 134
+  offset: 0, 0
+  index: -1
+tint-Finn-body
+  rotate: true
+  xy: 2, 8
+  size: 163, 165
+  orig: 163, 165
+  offset: 0, 0
+  index: -1
+tint-Finn_L_Hand-full
+  rotate: true
+  xy: 1246, 51
+  size: 59, 232
+  orig: 59, 232
+  offset: 0, 0
+  index: -1
+tint-Finn_R_Hand-full
+  rotate: true
+  xy: 1247, 112
+  size: 59, 233
+  orig: 59, 233
+  offset: 0, 0
+  index: -1
+white-patch
+  rotate: false
+  xy: 675, 104
+  size: 176, 67
+  orig: 176, 67
+  offset: 0, 0
+  index: -1

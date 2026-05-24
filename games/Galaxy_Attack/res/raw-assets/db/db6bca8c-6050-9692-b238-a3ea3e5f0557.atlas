@@ -1,0 +1,41 @@
+
+skel_gift_firedragon1.png
+size: 427,427
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E_lizi0564
+  rotate: false
+  xy: 241, 64
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+guangtiao
+  rotate: false
+  xy: 1, 105
+  size: 239, 87
+  orig: 239, 87
+  offset: 0, 0
+  index: -1
+heitiao
+  rotate: true
+  xy: 362, 197
+  size: 229, 37
+  orig: 229, 37
+  offset: 0, 0
+  index: -1
+heiyun
+  rotate: false
+  xy: 1, 193
+  size: 360, 233
+  orig: 360, 233
+  offset: 0, 0
+  index: -1
+huomiao
+  rotate: false
+  xy: 1, 1
+  size: 157, 103
+  orig: 157, 103
+  offset: 0, 0
+  index: -1

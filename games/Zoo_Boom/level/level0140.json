@@ -1,0 +1,27 @@
+ {
+	"size":8,
+	"moves":43,
+	"add":[			
+		{ "x":0, "y":0, "dx":4, "dy":7, "type":"COIN", "count":true },
+		{ "x":6, "y":0, "dx":1, "dy":1, "type":"ORE", "count":true },
+		{ "x":7, "y":1, "dx":1, "dy":1, "type":"ORE", "count":true },
+		{ "x":6, "y":2, "dx":1, "dy":1, "type":"ORE", "count":true },
+		{ "x":5, "y":3, "dx":1, "dy":1, "type":"ORE", "count":true },
+		{ "x":6, "y":4, "dx":1, "dy":1, "type":"ORE", "count":true },
+		{ "x":7, "y":5, "dx":1, "dy":1, "type":"ORE", "count":true },
+		{ "x":6, "y":6, "dx":1, "dy":1, "type":"ORE", "count":true },
+		{ "x":5, "y":7, "dx":1, "dy":1, "type":"ORE", "count":true },
+		{ "x":1, "y":7, "dx":2, "dy":1, "type":"GEM_BLUE" }
+		
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_RED","GEM_PURPLE","GEM_YELLOW"],
+	"field":[
+		"xxxxoxoo",
+		"xxxxooxo",
+		"xxxxooox",
+		"xxxxooxo",
+		"xxxxoxoo",
+		"xxxxooxo",
+		"xxxxooox",
+		"xxxxooxo"]
+ }

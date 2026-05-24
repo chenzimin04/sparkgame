@@ -1,0 +1,23 @@
+ {
+	"size":8,
+	"stars":{"avg":13, "top":23 },
+	"moves":40,
+	"add":[
+		{ "x":2, "y":0, "dx":1, "dy":8, "type":"COIN", "count": true },
+		{ "x":3, "y":0, "dx":2, "dy":6, "type":"COIN", "count": true },
+		{ "x":5, "y":0, "dx":1, "dy":8, "type":"COIN", "count": true },
+		
+		{ "x":3, "y":6, "type":"FAT_ANVIL", "count": true }
+		
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_GREEN","GEM_RED","GEM_YELLOW"],
+	"field":[ 
+		"xxxxxxxx",
+		"xxxxxxxx",
+		"xxxxxxxx",
+		"oxxxxxxo",
+		"oxxxxxxo",
+		"xxxxxxxx",
+		"xxxxxxxx",
+		"xxxxxxxx"]
+ }

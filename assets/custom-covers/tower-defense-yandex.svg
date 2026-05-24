@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e364c"/>
+      <stop offset="0.6" stop-color="#376f9e"/>
+      <stop offset="1" stop-color="#88d56d"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" fill="url(#bg)"/>
+  <path d="M0 303c84-27 145-25 219 13 69 35 144 39 222 11 58-20 113-18 199 11v82H0Z" fill="#27415e"/>
+  <path d="M130 264h44v74h-44zM245 220h54v118h-54zM370 242h48v96h-48zM484 204h61v134h-61z" fill="#1a2d44"/>
+  <path d="M152 222h84l18 24-60 40-66-14Z" fill="#7cd76b"/>
+  <path d="M264 176h95l20 28-67 52-71-20Z" fill="#ffb03f"/>
+  <path d="M494 164h76l18 24-52 54-70-16Z" fill="#ff6955"/>
+  <g stroke="#fff3c4" stroke-width="8" stroke-linecap="round">
+    <path d="M198 216 143 171"/><path d="M309 171 283 117"/><path d="M535 159 565 103"/>
+  </g>
+  <text x="54" y="88" fill="#ffffff" font-size="52" font-family="Segoe UI, Arial, sans-serif" font-weight="800">TOWER DEFENSE</text>
+  <text x="54" y="138" fill="#ffd36e" font-size="40" font-family="Segoe UI, Arial, sans-serif" font-weight="800">YANDEX EDITION</text>
+</svg>

@@ -1,0 +1,18 @@
+{
+  "resolution": "standard",
+  "image1": "manor_a.jpg",
+  "image2": "manor_b.jpg",
+  "differences":
+  [
+    {
+      "x": 324.0,
+      "y": 60.0,
+      "size": 100.0
+    },
+    {
+      "x": 745.0,
+      "y": 281.0,
+      "size": 100.0
+    }    
+  ]
+}

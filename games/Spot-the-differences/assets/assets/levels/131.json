@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "vase_transparent_a.jpg",
+  "image2": "vase_transparent_b.jpg",
+  "differences":
+  [
+    {
+      "x": 484.0,
+      "y": 382.0,
+      "size": 100.0
+    },
+    {
+      "x": 564.0,
+      "y": 323.0,
+      "size": 80.0
+    },
+    {
+      "x": 710.0,
+      "y": 219.0,
+      "size": 90.0
+    },
+    {
+      "x": 440.0,
+      "y": 154.0,
+      "size": 80.0
+    },
+    {
+      "x": 785.0,
+      "y": 161.0,
+      "size": 80.0
+    }
+  ]
+}

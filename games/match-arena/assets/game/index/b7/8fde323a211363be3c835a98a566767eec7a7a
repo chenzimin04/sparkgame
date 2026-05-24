@@ -1,0 +1,1020 @@
+ID,tr-TR
+ad_failed.button,Tamam
+ad_failed.message,"Şu anda uygun Video yok, lütfen daha sonra tekrar dene."
+ad_failed.title,Hay aksi...
+ad_magic.button,İzle
+ad_magic.message,Ödül almak için kısa bir klip izle.
+ad_magic.title,Tatlı Domuzcuk Sihri
+android_app.button,Yükle
+android_app.text.release,Sevgili arkadaşlar! Oyunumuzun artık Android'de de olduğunu size bildirmekten mutluluk duyuyoruz. Hadi hemen uygulamayı indirin!
+android_app.title,Şimdi Android'de!
+android_update.restart.no,Sonra
+android_update.restart.text,Şimdi yüklemek ister misin?
+android_update.restart.title,Güncelleme Hazır!
+android_update.restart.yes,Evet
+avatar_already_changed.button,Tamam
+avatar_already_changed.message,Profil resmin zaten değiştirildi. Profil resmini yalnızca BİR KEZ değiştirebilirsin.
+bookmark.daily,Turnuva
+bookmark.friends,Arkadaşlar
+bookmark.settings,Ayarlar
+booster_hint.cross,%booster_shop.hint.ingame.cross%
+booster_hint.hammer,%booster_shop.hint.ingame.hammer%
+booster_hint.hand,%booster_shop.hint.ingame.hand%
+booster_shop.buy,#count adet ücreti
+booster_shop.hint.ingame.cross,Bir parça satırını ve sütununu kaldırmak için Sihirli Değneği kullan
+booster_shop.hint.ingame.hammer,Fayansları Çekiç ile parçalayarak kaldır!
+booster_shop.hint.ingame.hand,Bitişik parçaları değiştirmek için Eldiveni kullan
+booster_shop.hint.prelevel.add_bomb,Zaten gemide olan bir Bombayla herhangi bir seviyeye başla!
+booster_shop.hint.prelevel.add_line,Zaten gemide olan bir Çizgiyle herhangi bir seviyeye başla!
+booster_shop.hint.prelevel.add_omni,Zaten gemide olan bir Şimşekle herhangi bir seviyeye başla!
+booster_shop.hint.prelevel.add_tint,Zaten gemide olan bir Boyayla herhangi bir seviyeye başla!
+booster_shop.hint.prelevel.double_fly,Bu seviyede oluşturulan tüm Ateş Böceklerini ikiye katla!
+booster_shop.title.ingame.cross,Sihirli Değnek
+booster_shop.title.ingame.hammer,Çekiç
+booster_shop.title.ingame.hand,Eldiven
+booster_shop.title.prelevel.add_bomb,Bomba Takviyesi
+booster_shop.title.prelevel.add_line,Çizgi Takviyesi
+booster_shop.title.prelevel.add_omni,Şimşek Takviyesi
+booster_shop.title.prelevel.add_tint,Boya Takviyesi
+booster_shop.title.prelevel.double_fly,Ateş Böceği x2 Takviyesi
+chest_open.collection_complete,Toplandı!
+chest_open.ok,Tamam
+chest_opening.button,Harika!
+chest_opening.reward,Ödül
+conflict_popup.continue,Devam et
+conflict_popup.hint_syncing,Senkronize ediliyor...
+conflict_popup.skip,Çevrimdışı Devam Et
+credits.art,Görüntü tasarımı
+credits.artists,"Grafik sanatçısı arkadaşlarımıza
+güzel avatar karakterleri için sevgiler!"
+credits.gamedesign,Oyun tasarımı
+credits.mentions,"Arkadaşlarımıza
+özel teşekkürler"
+credits.programming,Programlama
+credits.title,Ekibimiz!
+daily_help.button,Tamam
+daily_help.chest,Büyük ödül
+daily_help.reward,Tek seferlik ödüller
+daily_help.text,"Her gün oyuncular becerilerini gösterir ve tek bir seviyede rekabet ederler.
+
+En yüksek puanı alan oyuncu günün ödülünü alır: Taç ve Mücevher Sandığı!"
+daily_help.title,Günlük Turnuva
+daily_reward.button,Harika!
+daily_reward.reward,Ödül
+daily_reward.title.place_1,"Günlük Turnuvanın
+kazananı sensin!"
+daily_reward.title.place_generic,"Günlük Turnuva tamamlandı
+\##place. sıradasın!"
+daily.drag_to_update,Yenilemek için çek
+daily.epic_sunday_ribbon,Dostça Meydan Okuma
+daily.finishes_in,Turnuva #time içinde bitiyor
+daily.finishes_now,Turnuva sona erdi!
+daily.high_score,Yeni Yüksek Puan!
+daily.medal_chest_text,{amount|#amount madalya|#amount madalya} topla!
+daily.next_time,Sonraki Günlük Turnuva #time içinde
+daily.next_time_now,Yeni Günlük Turnuva başladı!
+daily.no_yesterday_yet,Önceki Günlük Turnuvaya katılmadın
+daily.play,Oyna
+daily.retry_submit,Tekrar
+daily.rewards_tab,Günlük Turnuva Ödülleri
+daily.rewards.bubble,"Hazineler içeren sandıkları açmak için
+yıldız ve madalya topla!"
+daily.score_not_accepted,"Bu sonuç, Günlük Zorluk bitiminden sonra oynadığın için lider tablosunda sayılmıyor."
+daily.star_chest_claim,Açık
+daily.star_chest_collected_text,Başka bir sandık için yarın tekrar gel
+daily.star_chest_text,Arka arkaya 3 yıldız 7 Günlük Turnuva ile tamamla!
+daily.submit_error,Sonuçlar gönderilemedi
+daily.today,Günlük Turnuva
+daily.today_mark,Bugün
+daily.update_error,İnternet bağlantısı yok
+daily.wait_text,
+daily.watch_replay.button,İzle
+daily.watch_replay.text,Oyun tekrarı
+daily.welcome_reward_first,%daily_help.text%
+daily.welcome_text,"Yaşasın! Yeni Günlük Turnuva 
+başladı!"
+daily.yesterday,Dünkü Sıralama
+daily.yesterday_updating,Sonuçlar getiriliyor...
+demo.finished.text,"Tebrikler, deneme sürümünü tamamladın! <p class=""ma-link"">PecPoc.com<p class=""demo-hint""> üzerinde tam sürümü oyna. İlerlemen kaybolmaz"
+demo.nag.text,"Ücretsiz bonuslar sadece tam sürümde kullanılabilir. <p class=""ma-link"">PecPoc.com<p class=""demo-hint""> üzerinde tam sürümü oynamaya devam et. İlerlemen kaybolmaz"
+event_ny.next_in_hint,Bir sonraki hediyeyi alın: #time
+event_ny.title,Yeni Yıl Hediyeleri
+fake_ad.reward_in,Ödülün...
+fake_ad.tutorial,"Şu anda uygun Video yok...
+Endişelenme, bunun yerine biraz Domuzcuk Sihri alalım!"
+fake_ad.your_ad_here,Reklamın burada
+fb_login_failed.message,Facebook'a bağlanılamadı. Tekrar denensin mi?
+fb_notification.button,Bağlan
+fb_notification.message,İlerlemeni çevrimiçi senkronize etmek için Facebook'a bağlan!
+fb_notification.no_post_hint,İznin olmadan asla ileti yayınlamayız.
+fb_notification.title,İlerlemeni kaydet
+feedback.failed.button,Devam et
+feedback.failed.message,"Geri bildirim gönderilemedi.
+İnternet bağlantını kontrol et."
+feedback.failed.title,Hay aksi...
+feedback.ok.button,Tamam
+feedback.ok.message,"Geri bildirimini aldık.
+Oyunu geliştirmemize yardımcı olduğun için teşekkür ederiz."
+feedback.ok.title,Geri bildirim gönderildi!
+friends_tab.failed_social.button,Kontrol
+friends_tab.failed_social.text,"Bağlantıyı kontrol etmemiz gerekiyor, arkadaş listesini güncellemek için."
+friends_tab.has_fb.button,Arkadaşlarını Davet Et
+friends_tab.has_fb.text,Ne kadar çok arkadaşın olursa o kadar çok hediye alırsın!
+friends_tab.no_fb.button,Bağlan
+friends_tab.no_fb.hint,İznin olmadan asla ileti yayınlamayız.
+friends_tab.no_fb.text,Facebook'a bağlanarak arkadaşlarından hediyeler al ve ilerlemelerini takip et.
+friends_tab.no_permission.button,Evet
+friends_tab.no_permission.text,"Arkadaş listenize erişime izin verin, daha fazla hediye alın?"
+friends_tab.no_social.text,Sosyal ağlara bağlan ve arkadaşlarından hediyeler al ve onların ilerlemesini takip et.
+friends_tab.no_y8.button,Bağlan
+friends_tab.no_y8.text,Y8'i bağla ve arkadaşlarından hediyeler al ve onların ilerlemesini takip et.
+friends_tab.ok_invite_button,Arkadaşlarını Davet Et
+friends_tab.ok_invite_gift_text,Ne kadar çok arkadaşın olursa o kadar çok hediye alırsın!
+friends_tab.ok_invite_text,Ne kadar çok arkadaşın olursa o kadar çok hediye alırsın!
+friends_tab.title,Arkadaşlar
+friends_tab.vk_friends_permission_button,Evet
+friends_tab.vk_friends_permission_text,"Arkadaş listenize erişime izin verin, daha fazla hediye alın?"
+friends_tab.vk_invite_button,Arkadaşlarını Davet Et
+friends_tab.vk_invite_text,Ne kadar çok arkadaşın olursa o kadar çok hediye alırsın!
+friends.gift.claim,Açık
+game_results.click_to_continue,Devam etmek için tıklayın.
+game_results.tap_to_continue,Devam etmek için dokun.
+game.click_to_continue,Devam etmek için tıklayın.
+game.info.ahead,{num|#fmtnum HAMLE|#fmtnum HAMLE} ÖNDESİN
+game.info.behind,{num|#fmtnum HAMLE|#fmtnum HAMLE} GERİDESİN
+game.info.goals,Hedef
+game.info.moves,HAMLELER
+game.info.pause,DURAKLAT
+game.info.undo,GERİ AL
+game.pause.continue,"<font color=""\#408fda"">Oyunu devam ettir"
+game.pause.leave_forfeit,"<font color=""\#ff0000"">Oyunu bitir"
+game.pause.leave_safe,Oyunu bitir
+game.pause.title,Duraklat
+game.shoutout.their_game_result,Puan: #score
+game.shoutout.well_done,Aferin!
+game.shoutout.your_game_result,Puanın: #score
+game.tap_to_continue,Devam etmek için dokun.
+game.tutorial.continue,Devam et
+gamemode.capital.aquarium,BALIKLAR
+gamemode.capital.bird,KUŞLAR
+gamemode.capital.bubble,Balonlar
+gamemode.capital.cats,KEDİLER
+gamemode.capital.chocolate,LAV
+gamemode.capital.diamonds,ELMASLAR
+gamemode.capital.ducks,ÖRDENKLER
+gamemode.capital.energy_cube_reciever,KRİSTALLER
+gamemode.capital.energycube,JÖLE
+gamemode.capital.fishes,HAVUÇLAR
+gamemode.capital.flower,Çiçekler
+gamemode.capital.food,PALAMUTLAR
+gamemode.capital.fossils,AHTAPOTLAR
+gamemode.capital.frog,Kurbağalar
+gamemode.capital.grass,ÇİM
+gamemode.capital.gum,GOO
+gamemode.capital.honeybee,AYILAR
+gamemode.capital.hotlava,LAV
+gamemode.capital.ice,BUZ
+gamemode.capital.jam,ENERJİ
+gamemode.capital.jam_reciever,KRİSTALLER
+gamemode.capital.pearl,INCI
+gamemode.capital.road,DOMUZCUK
+gamemode.capital.sausage,Sosisler
+gamemode.capital.statue,KÖPEKLER
+gamemode.capital.stone,TAŞLAR
+gamemode.capital.tasks,EMİRLER
+gamemode.capital.tiles,ÇİM
+gamemode.capital.waterfish,BALIKLAR
+gamemode.capital.blooplet,BLOOPLETLER
+gameresult.adventure.completed_continue,Devam et
+gameresult.adventure.leave,Git
+gameresult.adventure.play_next,Devam et
+gameresult.adventure.retry,Tekrar Dene
+gameresult.boosters,Takviye Seç
+gameresult.complete.line1,Seviye
+gameresult.complete.line2,Tamamlandı!
+gameresult.continue,Devam et
+gameresult.daily.continue,Devam et
+gameresult.daily.leave,Çıkış
+gameresult.daily.retry,Oyna
+gameresult.dash,-
+gameresult.forfeit,Pes ettin!
+gameresult.map.continue,Devam et
+gameresult.map.retry,Tekrar
+gameresult.pvp.continue,Devam et
+gameresult.pvp.play_another,Farklı Seviye
+gameresult.pvp.play_next,Farklı Seviye
+gameresult.pvp.rematch_lose,Rövanş
+gameresult.pvp.rematch_win_draw,Tekrar Oyna
+gameresult.rematch,Rövanş
+gameresult.rematch_bet,#bet bahis yap
+gameresult.required_ticket,Gerekli
+gameresult.retry,Tekrar Oyna
+gameresult.rewards,Ödül
+gameresult.title.completed,"<font color=""\#47f05f"">Seviye tamamlandı!"
+gameresult.title.draw,"<font color=""\#5885B8"">Berabere"
+gameresult.title.lose,"<font color=""\#ff5666"">Kaybettin"
+gameresult.title.win,"<font color=""\#20ea6d"">Kazandın!"
+gameresult.vs,-
+gameresults.inter_ad_in_large,#count oynayıncaya kadar
+gameresults.inter_ad_in_small,#count kadar oynayın
+gems_shop.title,Mücevher Mağazası
+global.click_to_continue,Devam etmek için tıkla
+global.default_player_name,Oyuncu
+global.tap_to_continue,Devam etmek için dokun
+home.hint_daiy,Günlük Turnuvayı dene
+home.hint_play_pvp,Canın bitmiş olsa bile düello oynayabilirsin!
+home.play,Oyna
+html.loading,Yükleniyor
+iap_failed.button,Tamam
+iap_failed.message,Satın alma başarısız.
+iap_need_facebook.message,Mücevher almak için Facebook'a bağlan.
+iap_pending.button,Tamam
+iap_pending.message,Satın almanız işleniyor.
+intro_screen.another_device,Kod ile
+intro_screen.login_back,Geri
+intro_screen.login_button,Giriş yap
+intro_screen.login_fb,Facebook
+intro_screen.login_ok,Odnoklassniki
+intro_screen.login_singular,Giriş yap
+intro_screen.login_vk,Vkontakte
+intro_screen.login_with,Giriş yap
+intro_screen.login_y8,Y8
+intro_screen.login_yandex,Yandex
+intro_screen.new_player,Yeni Oyuncu
+introprofile.accept_avatar,Seç
+introprofile.accept_name,Devam et
+introprofile.editavatar,Profil resmi seç
+introprofile.editname,Adını gir
+invite_request.message,Birlikte en iyi eşleştirme 3 oyunu oynayalım!
+invite_request.title,Birlikte Skydom Oynamak İçin Arkadaş Seç
+level_popup.goals,Hedef
+level_popup.play,Oyna
+level_popup.prelevel_boosters,Takviye Seç
+level_popup.title,Seviye #level
+level_popup.title_hard,Zor.
+level_popup.title_ultra_hard,Çok zor!
+level_popup.title_very_hard,Çok zor.
+link.support,https://Skydom.freshdesk.com/en/support/solutions
+link.support_beta,https://Skydombeta.freshdesk.com/en/support/solutions
+lives_shop.buy_all,5 tane satın al
+lives_shop.hint,"Macerayı oynamaya devam etmek için
+cana ihtiyacın var"
+lives_shop.recharge,Sonraki can: #time
+lives_shop.title,Canlar
+lives_shop.watch_ad_button,İzle
+lives_shop.watch_ad_text,Ücretsiz 1
+load_player.almost_done,Neredeyse bitti...
+load_player.continue_offline,Çevrimdışı Devam Et
+load_player.loading_save,Oyuncu verileri yükleniyor...
+load_player.loading_save_failed,Oyuncu verileri yüklenemedi.
+load_player.loading_save_failed_in,"Veri yüklenemedi.
+#time içinde yeniden deneniyor..."
+load_player.logging_in,Giriş yapılıyor...
+load_player.logging_in_failed,Giriş yapamadım.
+load_player.logging_in_failed_in,"Giriş yapamadım.
+#time içinde tekrar deniyorum..."
+load_player.new_player,Yeni bir oyuncuyum.
+load_player.retry_now,Şimdi Yeniden Dene
+login_failed.button,Tekrar
+login_failed.title,Bağlantı başarısız
+magic.click_to_continue,Devam etmek için tıkla
+magic.reward,Ödül
+magic.tap_to_continue,Devam etmek için dokun
+map.gates_coming_soon,"Yeni seviyeler
+ yakında geliyor!"
+match3.level_complete.line1,Tüm Hedefler
+match3.level_complete.line2,Elde edildi!
+match3.score_pve,#score / #required
+match3.shoutout.1_move,Son hamle!
+match3.shoutout.2_moves,2 hamle
+match3.shoutout.5_moves,5 hamle
+match3.shoutout.no_moves,Hamle kalmadı
+match3.shoutout.no_reshuffle,"Yeniden karıştırılamıyor
+Olası hamle yok"
+merge.button.mine,Seç
+merge.button.their,Seç
+merge.description.account_merge,"Görünüşe göre zaten Skydom oynuyordun.
+Tercih ettiğin profili seç!"
+merge.description.ingame_conflict,%merge.description.login_conflict%
+merge.description.login_conflict,"Birden fazla cihazdan oynadın.
+Tercih ettiğin kaydı seç."
+merge.hint.mine,yerel
+merge.hint.their,sunucudan
+merge.title,İlerleme Senkronizasyonu
+modal.adblock.button,Tamam
+modal.adblock.text,Bir Reklam Engelleyici kullandığını fark ettik.<br>Bu sayfada Video izlenebilmesi için lütfen Reklam Engelleyiciyi devre dışı bırak.
+modal.adblock.title,Reklam Engelleyici
+modal.error.button,Yenile
+modal.error.text,"Üzgünüz, bir hata oluştu. Lütfen sayfayı yenile."
+modal.error.title,Hay aksi! Bir şeyler ters gitti...
+modal.fb_login_proxy.button,Devam et
+modal.fb_login_proxy.text,Facebook'a bağlanıyor
+modal.fb_login_proxy.title,
+modal.fb_purchase_proxy.button,Devam et
+modal.fb_purchase_proxy.gems,Mücevher
+modal.first_login_failed.button,Tekrar
+modal.first_login_failed.text,Şu anda Skydom'a bağlanılamıyor. Lütfen bağlanmayı daha sonra tekrar dene.
+modal.first_login_failed.title,Bağlantı başarısız
+modal.gpu_error.button,Daha Fazla Bilgi
+modal.gpu_error.text,"Oyunu çalıştırmak için tarayıcında GPU-Acceleration'ı 
+etkinleştirmen gerekiyor gibi görünüyor."
+modal.gpu_error.title,Hmm..
+modal.maintenance.button,Tamam.
+modal.maintenance.text,Bakım <b>#time</b> saatinde 3 saat sürecek.<br> Bulut kaydetme ve ilerleme senkronizasyonu çalışmayacak.
+modal.maintenance.title,Bakım
+modal.no_hardware_accel_ff.button,Tamam
+modal.no_hardware_accel_ff.text,"Tarayıcınız performans sorunu bildiriyor, oyun çok yavaş çalışabilir!
+
+Düzeltmek için lütfen <a target=""_blank""  href=""https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features"">https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features</a> adresini okuyun."
+modal.no_hardware_accel_ff.title,Performans Sorunları
+modal.no_hardware_accel.button,Tamam
+modal.no_hardware_accel_vk.button,Tamam
+modal.no_hardware_accel.text,"Tarayıcınız performans sorunu bildiriyor, oyun çok yavaş çalışabilir!
+
+Düzeltmek için lütfen <a target=""_blank""  href=""https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm"">https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm</a> adresini okuyun."
+modal.no_hardware_accel_vk.text,"Tarayıcınız performans sorunu bildiriyor, oyun çok yavaş çalışabilir!
+
+Düzeltmek için lütfen <a target=""_blank""  href=""https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery"">https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery</a> adresini okuyun."
+modal.no_hardware_accel.title,Performans Sorunları
+modal.no_hardware_accel_vk.title,Performans Sorunları
+modal.nolocalstorage.button,Tamam.
+modal.nolocalstorage.text,"Görünüşe göre tarayıcınız bizim oyunu kaydetmemize izin vermiyor. Bu, tarayıcınızda Gizli Modu kullanmanızdan kaynaklanabilir.
+<p>
+Lütfen ilerlemenizi kaybetmekten kaçınmak için giriş yapın!"
+modal.nolocalstorage.title,Gizli Mod
+modal.oom.button,Daha Fazla Bilgi
+modal.oom.text,Yeterli bellek yok gibi görünüyor.
+modal.oom.title,Hmm..
+modal.out_of_sync.button,Yenile
+modal.out_of_sync.text,Görünüşe göre Skydom birkaç tarayıcı penceresinde açılmış. <br>Bu pencerede oynamaya devam etmek için lütfen yenile.
+modal.out_of_sync.title,Skydom ile birkaç pencere mi?
+modal.vk_inapp_not_allowed.button,Geç
+modal.vk_inapp_not_allowed.text,"Sadece <a href=""https://m.vk.com/app7409298"" target=""_blank"">m.vk.com</a> üzerinden alışveriş yapılabilir."
+modal.vk_inapp_not_allowed.title,
+modal.wasm.button,Daha Fazla Bilgi
+modal.wasm.text,Tarayıcın WebAssembly'yi desteklemiyor gibi görünüyor
+modal.wasm.title,Hmm..
+modal.webgl.button,Daha fazla bilgi
+modal.webgl.text,Tarayıcın WebGL'yi desteklemiyor gibi görünüyor
+modal.webgl.title,Hmm..
+modal.yandexsdk.text,"Yandex SDK doğru şekilde yüklenemedi.
+
+Tekrar deneyelim mi?"
+modal.yandexsdk.title,Üzgünüm
+modal.yandexsdk.button,Tamam
+name_already_changed.button,Tamam
+name_already_changed.message,Adın zaten değiştirildi. Adını yalnızca BİR KEZ değiştirebilirsin.
+networks.hint,"Sen sosyal ağlara bağlanmayı teşvik ediyoruz!
+ - İlerlemeni bulutta saklamayarak kaybetme
+ - Arkadaşlarla oyna ve hediyeler al
+ - İzinin olmadan hiçbir şey paylaşmıyoruz."
+nickname.default,Oyuncu
+nickname.default_friend,Tavşan
+nickname.trainer,Koç #nickname
+nickname.tutorial_001,Koç Anna
+nickname.tutorial_002,Koç Jonny
+nickname.tutorial_003,Koç Polly
+nickname.you,Sen
+notification.daily_lead_1,👑 #Name Günlük Turnuvada liderliği devraldı! İlk etapta geri almak ister misin?
+notification.daily_lead_2,👑 #Name Günlük Turnuvada liderliği devraldı!
+notification.daily_lead_3,👑 Günlük Turnuvada işler kızıştı! #Name ilk sırayı kaptı.
+notification.daily_lead_4,👑 #Name birinciliği kaptı. Günlük Turnuvada liderliği devralmak ister misin?
+notification.daily_lead_5,👑 Görünüşe göre #Name Günlük Turnuvada seni geçti.
+notification.daily_lead.meta,"@{""variants"":5}"
+notification.reminder_1,😏 En iyi oyuncuya bekleyen yeni rakipler var! 😎
+notification.reminder_10,👸🤴 Bugün Günlük Zorlukta kim kazanacak?
+notification.reminder_11,🙄 #PlayerName tarafından herkesin nasıl ezildiğini neredeyse unuttuk!
+notification.reminder_12,"Güzel bir gün Skydom oynamak için, değil mi? 💪"
+notification.reminder_13,🙈😬 Burada seni geçmeyi hayal eden birkaç kişi var. Sanıyorlar ki şansları var mı?
+notification.reminder_14,🐰 Tavşan sana bir hediye aldı! 🎁
+notification.reminder_15,"😎 #PlayerName, yeniden kazanmak için zaman! 🕹"
+notification.reminder_16,👾👀 Zaman mola vermek ve kazanma serüvenine çıkmak için 🤗
+notification.reminder_17,🌟🌟🌟 Seviyeler kendilerini bitirmez! Oynayalım mı? 🥇😉
+notification.reminder_18,"#PlayerName, seni yenmek isteyen birisi var. Onların başarılı olacağını düşünüyor musun? 😬😬😬"
+notification.reminder_19,Selam! Zamanı rahatlamak ve birkaç kez kazanmak mı? 🤔
+notification.reminder_2,#PlayerName'a henüz herkes kaybetmedi! Onlara bir şans vermek mi?
+notification.reminder_20,🦄 Güneşinin Tacımızı tanıdın mı?
+notification.reminder_3,🐷 Domuzcuk Sihri bekliyor! 🐽
+notification.reminder_4,🙈 Bir süre önce en iyi Match3 oyuncusunu görmedim! Hala orada mı? 👀
+notification.reminder_5,Bugün zaten bir kazanç elde ettin mi? 🏆
+notification.reminder_6,❤️❤️❤️❤️❤️ Tüm canlar yenilendi! Kazanmak için zaman!
+notification.reminder_7,🖐🎟 5 jeton bekliyor harcanmaya!
+notification.reminder_8,🐰😍 Tavşan sana bir hediye aldı! 🎁
+notification.reminder_9,👑💎 Günlük Zorluk başladı! Kim tahtı ve bir yığın mücevher alacak?
+ny.button_claim,Hediye Aç
+ny.button_next_in,#time içinde hediye
+ok_login_failed.message,Odnoklassniki'ye bağlanamadık. Tekrar denemek ister misin?
+ok.share_tick,Paylaş
+out_of_moves.continue_buy_moves,Oyuna Devam Et #price
+out_of_moves.continue_watch,İzle
+out_of_moves.give_up,Pes et
+out_of_moves.press_to_view,"Tabloda görmek için
+buraya dokun"
+out_of_moves.title.almost_there,Neredeyse oluyordu...
+out_of_moves.title.regular,Hamle Kalmadı
+outofgems.button,Mağaza
+outofgems.message,Mücevherin kalmadı. Mücevher almak için Mağazayı ziyaret et!
+outofgems.title,Yeterli Mücevher yok
+page.loading.hint_1,Yükleniyor...
+page.loading.hint_2,Efektler hazırlanıyor 💎💎💎
+page.loading.hint_3,"Merak etme, sıkışmadı! 😜"
+page.loading.hint_4,🚀 Oyun yakında yüklenecek! 🚀
+page.loading.hint_5,İlk yükleme biraz daha uzun sürer👌
+page.loading.hint_6,🔥 neredeyse bitti…👾
+page.loading.hint_7,Sadece birazcık kaldı 😊
+placeholder.hint_daily,Kilidi açmak için 10 seviyeyi tamamla!
+placeholder.timestring,12 sa 34 dk 56 sn
+placeholder.title_daily,"Günlük Turnuva
+Kilitli"
+popup_name.accept_name,Devam et
+popup_name.not_now,Şimdi değil
+prelevel_text.002,"Rakibinden daha fazla <font color=""\#ff5503"">sarı Parça</font> topla!"
+prelevel_text.004,"Rakibinden daha fazla <font color=""\#ff8800"">Havuç</font> topla!"
+prelevel_text.006,"Rakibinden daha fazla <font color=""\#4499ff"">Buz</font> temizle!"
+promo_reforged.button,İddia
+promo_reforged.text,"Evet! Yeni bir oyun modu - Skydom Reforged - başlattık! Lanse etmeyi kutlamak için, ücretsiz Mega Booster paketi veriyoruz! Şimdi almak ister misin?"
+promo_reforged.title,Skydom yeniden şekillendirildi!
+rate_us.description,Skydom oyununu nasıl buldun?
+rate_us.feedback.cancel,Şimdi değil
+rate_us.feedback.description,Yanıt almak istiyorsan e-postanı gir.
+rate_us.feedback.email_hint,E-posta
+rate_us.feedback.message_hint,Oyunu senin için nasıl daha iyi hale getirebiliriz?
+rate_us.feedback.submit,Gönder
+rate_us.star_1,Nefret ettim
+rate_us.star_2,Sevmedim
+rate_us.star_3,Fena değil
+rate_us.star_4,Sevdim
+rate_us.star_5,Bayıldım
+rate_us.submit,Gönder
+rate_us.write_review.cancel,Şimdi değil
+rate_us.write_review.google_play,Oyun hakkındaki düşüncelerini paylaş veya Google Play'de oy ver!
+rate_us.write_review.submit,Memnuniyetle!
+rate_us.write_review.yandex,Oyun hakkında düşüncelerinizi paylaşın veya Yandex Oyunlar'da puan verin!
+rematch_pvp.asks_for_rematch_draw,#name tekrar denemek istiyor
+rematch_pvp.asks_for_rematch_player_lose,#name rövanş teklif ediyor!
+rematch_pvp.asks_for_rematch_player_won,#name rövanş istiyor!
+reward.coins,{amount|Sikke|Sikke}
+reward.gems,{amount|Mücevher|Mücevher}
+reward.lives,{amount|Can|Can}
+reward.prelevel.add_bomb,Bomba Takviyesi
+reward.prelevel.add_line,Çizgi Takviyesi
+reward.prelevel.add_omni,Şimşek Takviyesi
+reward.prelevel.add_tint,Boya Takviyesi
+reward.prelevel.double_fly,Ateş Böceği x2 Takviyesi
+reward.tickets,{amount|Jeton|Jeton}
+reward.undo,{amount|Geri Alma|Geri Alma}
+search.cannot_connect,İnternet bağlantısı yok
+search.failed,Hay aksi! Bir şeyler ters gitti...
+search.loading,Yükleniyor...
+search.playing_with_trainer,Koçla oynanıyor
+search.readying,Rakip bulundu!
+search.readying_rematch,Hazırlan!
+search.rejected,Rakip kaçtı
+search.searching,Rakip aranıyor...
+search.vs,-
+search.waiting_opp,Rakip bekleniyor...
+settings.change_avatar,Profil Resmini Değiştir
+settings.change_avatar.connect_fb,Bağlan
+settings.change_avatar.continue,Devam et
+settings.change_avatar.title,Yeni profil resmi seç
+settings.change_avatar.warning,"Not: 
+- Profil resmini yalnızca BİR KEZ değiştirebilirsin
+- Facebook profil resmini kullanmak için Facebook'a bağlan"
+settings.change_avatar.warning_no_fb,Not: Profil resmini yalnızca BİR KEZ değiştirebilirsin
+settings.change_name,Adı Değiştir
+settings.change_name.accept_name,Devam et
+settings.change_name.do_not_match,Adlar eşleşmiyor. Lütfen tekrar dene.
+settings.change_name.edit,Yeni ad gir:
+settings.change_name.reenter,Yeni adını tekrar gir:
+settings.change_name.same_name,Yeni ad var olan adla eşleşiyor
+settings.change_name.too_long,Bu ad çok uzun - 15 sembol sınırı
+settings.change_name.too_short,Bu ad çok kısa =)
+settings.change_name.warning,Not: Yalnızca BİR KEZ adını değiştirebilirsin
+settings.confirm_avatar.cancel,İptal et
+settings.confirm_avatar.change,Değiştir
+settings.confirm_avatar.title,"Profil resmini değiştirmek istediğinden
+emin misin?
+Yeni profil resmin:"
+settings.confirm_avatar.warning,"Not: Profil resmini
+yalnızca BİR KEZ değiştirebilirsin"
+settings.confirm_name.cancel,İptal et
+settings.confirm_name.change,Onayla
+settings.confirm_name.title,Adını değiştirmek istediğinden emin misin? Yeni adın:
+settings.confirm_name.warning,Not: Adını yalnızca BİR KEZ değiştirebilirsin
+settings.connect_fb,Facebook'a bağlan
+settings.connect_ok,Odnoklassniki'yi bağlayın.
+settings.connect_vk,VK'yi bağlayın.
+settings.connect_y8,Y8'i bağla
+settings.connect_yandex,Yandex'i bağla
+settings.connected_fb,Facebook
+settings.connected_ok,Odnoklassniki
+settings.connected_vk,VK
+settings.connected_y8,Y8
+settings.connected_yandex,Yandex
+settings.coupon,Promosyon Kodu
+settings.coupon_title,Promosyon Kodu
+settings.coupon.enter,Uygula
+settings.coupon.enter_hint,Promosyon kodunu buraya gir
+settings.coupon.invalid_code,"<font color=""\#e90047"">Bu kod geçersiz. Lütfen başka bir kod dene."
+settings.coupon.missing_code,"<font color=""\#e90047"">Promosyon kodunu gir"
+settings.coupon.ok,Kod başarıyla kullanıldı!
+settings.credits,Katkıda Bulunanlar
+settings.eula,Kullanım Şartları
+settings.fb_hint,Arkadaşlarınla oynamak ve ilerlemeni senkronize etmek için Facebook'a bağlan
+settings.general,GENEL
+settings.generate_key,Kod oluştur
+settings.invite_friends,Arkadaşlarını Davet Et
+settings.language,Dil
+settings.language_header,DİL SEÇ
+settings.move_hints,İpuçları
+settings.music,Müzik
+settings.networks,Bağlantılar
+settings.networks_hint,"Sosyal ağları bağla, arkadaşlarınla oynamak ve ilerlemeni senkronize etmek için!"
+settings.notifications,Bildirimler
+settings.notifications.daily,Günlük Turnuva
+settings.notifications.disable_all,Tümünü devre dışı bırak
+settings.notifications.disable_night,23:00 - 08:00 arasında devre dışı bırak
+settings.notifications.gifts,Hediyeler
+settings.notifications.others,Diğer hatırlatıcılar
+settings.open_support,Oyuncu desteği
+settings.open_vk_group,Oyun Grubu
+settings.player_id,Oyuncu kimliğini kopyala
+settings.policy,Gizlilik Politikası
+settings.rate_us,Değerlendir
+settings.report_problem,Sorun bildir
+settings.sound,Ses
+settings.support,DESTEK
+settings.telegram_channel,Telegram kanalımızı takip et
+settings.telegram_channel_hint,Skydom hakkında en son haberler
+settings.telegram_support,Telegram'da hayran sohbeti
+settings.title,Ayarlar
+settings.update,Güncelle
+settings.y8_hint,Y8'e bağlanarak ilerlemeni çevrimiçi olarak senkronize et!
+settings.yandex_hint,Yandex'e bağlanarak ilerlemeni çevrimiçi olarak senkronize et!
+shop.gems_restored.accept,Mükemmel!
+shop.gems_restored.title,Mücevher alımı tamamlandı
+shop.not_available,Kullanılamıyor
+shop.remove_ads_remain_time,Reklamlar #time için kaldırıldı.
+shop.remove_ads_text,"Herhangi bir satın alma işlemiyle 
+seviyeler arasındaki Reklamları kaldır"
+shop.remove_ads_timed,Aylık herhangi bir satın alma ile seviye arasındaki Reklamları kaldır.
+social_notification.button,Bağlan
+social_notification.message,Sosyal ağa bağlanarak ilerlemeni çevrimiçi olarak senkronize et!
+social_notification.no_post_hint,İznin olmadan asla ileti yayınlamayız.
+social_notification.title,İlerlemeni kaydet
+social_share.button,Paylaş
+social_share.chooser_hint,Şununla paylaş:
+social_share.message,Hey! Bu eşsiz PvP Eşleştirme 3 oyununa göz at! https://PecPoc.com adresinden edin
+social_share.subject,Yeni ve eğlenceli oyuna göz at - Skydom
+social_share.title,"Oyunu arkadaşlarınla paylaş!
+Arkadaşlarla oynamak daha eğlenceli!"
+tempkey_login.button,Devam et
+tempkey_login.empty_key,Kod girmediniz.
+tempkey_login.input.default_hint,Kodu girin.
+tempkey_login.invalid_key,Yanlış kod
+tempkey_login.message_top,"Devam et burada - önce oynadığın yerin ayarlarında ""Kod oluştur"" altından kodu al."
+tempkey_login.no_connection,Bağlanamadı.
+tempkey.fail.button,Tamam.
+tempkey.fail.message,İnternet bağlantını kontrol et ya da daha sonra tekrar dene.
+tempkey.fail.title,Kod oluşturulamadı.
+tempkey.ok.copied,Kopyalandı!
+tempkey.ok.copy,Kopyala
+tempkey.ok.hint,"Kod, 4 saat sonra sona eriyor."
+tempkey.ok.message,#tempkey
+tempkey.ok.title,Kodunuz:
+tickets_shop.boost_text,x2 dolum hızı
+tickets_shop.buy_all,#amount satın al
+tickets_shop.hint,Günlük Turnuvada oynamak için Jetona ihtiyacın var
+tickets_shop.hint_out_of,"<font color=""\#e90047"">Başka Şanslı Jeton yok</font>"
+tickets_shop.recharge,Yeni jetona kalan süre: #time
+tickets_shop.title,Jeton
+tickets_shop.watch_ad_button,İzle
+tickets_shop.watch_ad_text,1 ücretsiz kazan
+time.days_hours,"#days<font size=""-15""> </font><font size=""-10"">d</font> #hours<font size=""-15""> </font><font size=""-10"">h</font>"
+time.hours,"#hours<font size=""-15""> </font><font size=""-10"">sa</font>"
+time.hours_minutes,"#hours<font size=""-15""> </font><font size=""-10"">sa</font> #minutes<font size=""-15""> </font><font size=""-10"">dk</font>"
+time.hours_minutes_seconds,"#hours<font size=""-15""> </font><font size=""-10"">sa</font> #minutes<font size=""-15""> </font><font size=""-10"">dk</font> #seconds<font size=""-15""> </font><font size=""-10"">sn</font>"
+time.hours_seconds,"#hours<font size=""-15""> </font><font size=""-10"">sa</font> #seconds<font size=""-15""> </font><font size=""-10"">sn</font>"
+time.less_than_minute,"1<font size=""-15""> </font><font size=""-10"">dk</font>"
+time.minutes,"#minutes<font size=""-15""> </font><font size=""-10"">dk</font>"
+time.minutes_seconds,"#minutes<font size=""-15""> </font><font size=""-10"">dk</font> #seconds<font size=""-15""> </font><font size=""-10"">sn</font>"
+time.seconds,"#seconds<font size=""-15""> </font><font size=""-10"">sn</font>"
+tutorial_home.play,Oyna
+tutorial.001.dialog_tutorial,"<font color=""\#5885b8"">Arka arkaya aynı renkteki 3 parçayı</font> kaldırmak için eşleştir"
+tutorial.001.hint,"Hedef
+12 yeşil parça topla!"
+tutorial.001.turn_1,Bitişik olanları değiştirerek aynı renkteki 3 parçayı eşleştir
+tutorial.002.hint,Rakibinden daha fazla sarı parça topla!
+tutorial.skip,Atla
+undo_shop.buy_undos,1 adet ücreti
+undo_shop.hint,"Geri alma, son hamleni geri alır"
+undo_shop.recharge,Sonraki geri alma: #time
+undo_shop.title,Geri al
+undo_shop.watch_ad_button,İzle
+undo_shop.watch_ad_text,1 ücretsiz kazan
+undo_shop.you_have,{amount|#amount Geri alma|#amount geri alma|#amount Geri alma} hakkın kaldı
+update.button,Güncelle
+update.new_version,En son sürüme güncelle!
+update.new_version_value,"<font color=""\#5885b8"">#version"
+update.old_version,Eski bir sürüm kullanıyorsun
+update.old_version_value,"<font color=""\#a5a7aa"">#version"
+update.text,"Sen eski bir sürüm kullanıyorsun.
+Lütfen en son sürüme güncelle!"
+update.title,Yeni sürüm mevcut!
+update.web.button,Yenile
+update.web.message,Lütfen sayfayı yenile.
+update.web.title,Yeni sürüm mevcut!
+vk_login_failed.message,VK'ya bağlanamadık. Tekrar denemek ister misin?
+vk_promo.title,VK'den hediye!
+vk.share_tick,Paylaş
+watch_for_gems.button,İzle
+watch_for_gems.text,+#amount
+web.webg_context_lost,"WebGL bağlamı kaybedildi, geri yükleniyor..."
+welcome_bonus.speech_1,"Merhaba, #PlayerName!
+Sana birkaç hediyem var.
+Birini seç!"
+welcome_bonus.speech_2,"Düşünceler gerçekleşiyor... Ohmmm!
+Birkaç hediye düşünüyordum ve neler olduğuna bak =)"
+welcome_bonus.speech_3,"Sen orada yokken iki sandık buldum!
+Birini aç!"
+welcome_bonus.speech_4,"Seni tekrar gördüğüme sevindim #PlayerName!
+Bak bulutlardan
+ne düştü!"
+welcome_bonus.speech_5,"Leylekler uçarak geçti...
+Meğer sadece çocuk getirmiyorlarmış!"
+welcome_bonus.speech_6,"Seni tekrar gördüğüme sevindim #PlayerName!
+Bir sandık seç!"
+welcome_bonus.speech_7,"Seni çok özledim #PlayerName, bu yüzden senin için küçük bir hediye hazırladım!"
+welcome_bonus.speech_8,"Garip şeyler oluyor. Oturma, takılma ve birden 2 sandığın
+ortaya çıkması!"
+welcome_pack.open,Açık
+welcome_pack.play,Oyna
+welcome_pack.speech_1,"Uzun zamandır, #PlayerName! Senin için bir hediyem var!"
+welcome_pack.speech_2,"Oh, #PlayerName, seni özledim! Hediyeyi açalım ve oynayalım!"
+welcome_pack.speech_3,"#PlayerName, seni tekrar görmek güzel! Acele et ve göğsü aç."
+welcome_pack.speech_gift,"#PlayerName, sizin için özel bir hediyemiz var =) Hızlı açın!"
+welcome_pack.speech_reforged,"#PlayerName, sana özel bir hediye var =) Hemen aç!"
+y8_login_failed.message,Y8'e bağlanamadık. Tekrar denemek ister misin?
+yandex_login_failed.message,Não foi possível conectar ao Yandex. Tente novamente?
+yandex_notification.button,Conectar
+yandex_notification.message,Ligue para o Yandex para sincronizar o seu progresso online!
+yandex_notification.title,Salvar seu progresso
+gamemode.capital.leaf,YAPRAKLAR
+yandex_login_has_attachment.message,Bu oyun profiline başka bir Yandex hesabı bağlandı.
+fb_login_has_attachment.message,Bu oyun profiline başka bir Facebook hesabı bağlandı.
+ok_login_has_attachment.message,Bu oyun profiline başka bir OK hesabı bağlandı.
+vk_login_has_attachment.message,Bu oyun profiline başka bir VK hesabı bağlandı.
+y8_login_has_attachment.message,Bu oyun profiline başka bir Y8 hesabı bağlandı.
+android_app.text.beta,Merhaba arkadaşlar! Android için oyunumuzun Beta sürümünün testlerine başladığımızı size duyurmaktan mutluluk duyuyoruz. Herkes hoş geldin!
+bookmark.play,Ev
+bookmark.quest,Görevler
+chest_opening.bronze,Bronz
+chest_opening.continue,Kolay.
+chest_opening.division,III Bölüm
+chest_opening.golden,Altın
+chest_opening.silver,Gümüş
+chest_opening.togoldenleague,Sen Altın Lig'e ulaşabilecek misin?
+chest_opening.welcome,"Hoş geldiniz Leagues 
+of Match Arena'ya!"
+chest_opening.yourebronze,Sen Bronze ligi III'e ulaştın.
+chest.open,Aç
+chest.opens_now,Harika! Sandığı açmak sana kalıyor!
+chest.wins_left_1,Bir daha kazan!
+chest.wins_left_2,Sadece 2 kazanma ve senin!
+chest.wins_left_3,İyi yapıldı! 3 galibiyet daha!
+chest.wins_left_4,4 galibiyetle sandığı aç!
+chest.wins_to_open,#num kazanarak açılır.
+forge_help.block_1,Kazanma yarışları para kazanmak için!
+forge_help.block_2,Madenleri başlatmak için jetonları kullan ve altın çubukları al!
+forge_help.block_3,Alt liglere tırmanmak için altın çubukları topla!
+forge_help.block_4,Yeni ligler - yeni seviyeler!
+forge_help.continue,Anladım.
+forge_help.title,Ligler ve Çelik Ocakları
+forge.add,Ekle
+forge.boost,Güçlendir
+forge.boost_free,"Hadi bu Forge'u artıralım!
+İlk kez ücretsiz!"
+forge.boost_free_ok,Güçlendir
+forge.buy_1,Bronz Dökümhanesi
+forge.buy_2,Gümüş Döküm
+forge.buy_3,Altın Çelik
+forge.buy_4,Ruby Köprüsü
+forge.buy_now,Ekle
+forge.cheat_boost,Hile yapmak mı? Hile yap!
+forge.name_1,Bronz Dökümhanesi
+forge.name_2,Gümüş Döküm
+forge.name_3,Altın Çelik
+forge.name_4,Ruby Köprüsü
+forge.not_enough_coins,Yeterli madeni para başlamak için yok.
+forge.ok,Tamam.
+forge.open,Aç
+forge.open_now,Şimdi açık.
+forge.other_in_progress,Bir başka Çalışma devam ediyor!
+forge.popup_boost,Güçlendir -30 dakika
+forge.popup_boost_speedup,Güçlendir -15 dakika
+forge.progress,#bars içinde: #time
+forge.speedup_no,Hayır
+forge.speedup_offer,"<font color=""\#5885b8"">Hafifletmeyi</font> 2 katına çıkarmak ister misin?"
+forge.speedup_ok,Tamam.
+forge.speedup_success,Çekiç artık güçlendirildi!
+forge.speedup_yes,Evet
+forge.start,Başla
+forge.time_1,3 saat
+forge.time_2,6 saat
+forge.time_3,12 saat
+forge.time_4,24 saat
+forge.tutorial.collect_coins,1000 coin kazanarak Çekiç başlat!
+forge.tutorial.open_now,"Harika! Erime tamamlandı!
+Külhanı açabiliriz!"
+forge.tutorial.smelt_more,"Altın çubukları dövmeye devam et, bir sonraki bölüme ulaşmak için."
+forge.tutorial.start_forge,"Tebrikler, 1000 madeni para kazandın!
+Şimdi Külhan'a başlayabiliriz!"
+forge.tutorial.wait_ready,"Daha fazla madeni para kazan, çalışan Çekiçinle!"
+forge.watch_ad,İzle
+gamemode.chocolate,Lav
+gamemode.diamonds,Elmaslar
+gamemode.energycube,Jöle
+gamemode.fishes,Havuçlar
+gamemode.food,Yılancıklar
+gamemode.fossils,Octopuslar
+gamemode.grass,Çim
+gamemode.honeybee,Ayılar
+gamemode.ice,Buz
+gamemode.jam,Enerji
+gamemode.road,Domuz
+gamemode.stone,Taşlar
+gamemode.tasks,Siparişler
+gamemode.tiles,Çim
+home.bars_need_more,#more gerekiyor.
+home.bars_progress,#current / #total
+home.bet,#count kadar jeton oynayın.
+home.coins,#count
+home.gems,#count
+home.hint_quest_book,Yeni görevler mevcut!
+home.hint_quest_book.claim,Evet! Birisi ödüllendirilecek!
+home.hint_quest_book.new,Aman yavrum! Yeni görev!
+home.league_indev,Son lig yakında geliyor!
+home.rematch.asks_for_rematch_draw,#name bir daha denemek istiyor.
+home.rematch.asks_for_rematch_player_lose,#name yeniden maç teklif ediyor.
+home.rematch.asks_for_rematch_player_won,#name yeniden maç istiyor!
+home.xp,#count
+ingame_booster_shop.buy,#count al
+ingame_booster_shop.hint.cross,Magic Wand'u kullanarak bir satır ve bir sütun parçayı kaldır.
+ingame_booster_shop.hint.hammer,Çekiçle onları yok et!
+ingame_booster_shop.hint.hand,Eldiveni kullanarak bitişik parçaları değiştir.
+ingame_booster_shop.title.cross,Sihirli Değnek
+ingame_booster_shop.title.hammer,Çekiç
+ingame_booster_shop.title.hand,Eldiven
+league.Bronze,Bronz Lig
+league.div_1,Bölüm I
+league.div_2,Bölüm II
+league.div_3,Bölüm III
+league.div_4,Bölüm IV
+league.div_5,Bölüm V
+league.E001,Bronz III
+league.E002,Bronz II
+league.E003,Bronz I
+league.E004,Gümüş IV
+league.E005,Gümüş III
+league.E006,Gümüş II
+league.E007,Gümüş I
+league.E008,Altın V
+league.E009,Altın IV
+league.E010,Altın III
+league.E011,Altın II
+league.E012,Altın I
+league.E013,Platin V
+league.E014,Platin IV
+league.E015,Platin III
+league.E016,Platin II
+league.E017,Platin I
+league.E018,Usta 1
+league.Gold,Altın Lig
+league.Master,Usta Ligi
+league.MasterN,Usta #div
+league.GrandMaster,Usta
+league.GrandMasterN,Usta Grandmaster #div
+league.Platinum,Platin Lig
+league.Silver,Gümüş Lig
+levelup.continue,Harika!
+levelup.reward,Ödül
+levelup.title_division,"Tebrikler!
+Yeni bölüm!"
+levelup.title_league,"Tebrikler!!
+Yeni lig!"
+ma2transfer.install,Kurulum
+ma2transfer.message,"Arena Eşleştirme yeni Uygulamaya taşındı!
+
+Önemli! İlerlemeni aktarabilmek için aşağıdaki kodu kullan."
+nickname.tutorial_004,Sensei Michael
+nickname.tutorial_005,Profesör Frank
+nickname.tutorial_006,Kraliçe Matcha
+nickname.tutorial_007,Öğretmen Leo
+nickname.tutorial_008,Koç Carl
+nickname.tutorial_009,Tutor Beardy
+nickname.tutorial_010,Guru Vicky
+placeholder.hint_friends,"Arkadaşlarınla yarış
+ve neyin mümkün olduğunu göster!"
+placeholder.hint_quests,"Bronz Lig'e ulaşın I
+keşfetmek için!"
+placeholder.hint_settings,Yakında hazır olacak :)
+placeholder.title_friends,"Arkadaşlarla oyna
+ yakında geliyor"
+placeholder.title_quests,"Harika Görevler
+Kilitli"
+placeholder.title_settings,Ayarlar inşa ediliyor.
+quest_help.block_1,"Görevleri tamamla, ödülleri al!"
+quest_help.block_2,"Bütün görevleri tamamlayın, sandığı açın."
+quest_help.block_3,"Tüm görevleri bir sonraki Bölüme kadar tamamla, aksi takdirde sandığı kaybedeceksin!"
+quest_help.continue,Anladım.
+quest_help.title,Görev Kitabı
+quest.aquarium,#amount balık topla
+quest.bar,#progress / #amount
+quest.bar_completed,Görev tamamlandı!
+quest.bar_last_try,Önceki deneme: #amount için #progress
+quest.bar_special_not_tried,#progress / #amount
+quest.best_so_far,En iyi sonuç: #progress
+quest.butterfly,#amount kelebek topla
+quest.buy_now,Şimdi #amount al
+quest.cat,#amount Kedi topla
+quest.chip_destroy,#amount adet herhangi bir parçayı topla.
+quest.chip_destroy_bird,#amount kuş topla
+quest.chip_destroy_blue,#amount mavi parçayı topla
+quest.chip_destroy_diamond,#amount Elmas toplayın.
+quest.chip_destroy_fish,#amount Havuç topla
+quest.chip_destroy_fish_blue,#amount mavi Havuç topla
+quest.chip_destroy_fish_green,#amount adet yeşil Havuç topla.
+quest.chip_destroy_fish_orange,#amount adet turuncu Havuç topla.
+quest.chip_destroy_fish_purple,#amount mor Havuç topla
+quest.chip_destroy_fish_red,#amount Kırmızı Havuç topla.
+quest.chip_destroy_fish_yellow,#amount adet sarı Havuç topla
+quest.chip_destroy_food,#amount Adak Çıkar
+quest.chip_destroy_frog,#amount Kurbağa Topla
+quest.chip_destroy_green,#amount adet yeşil parçayı topla
+quest.chip_destroy_orange,#amount adet turuncu parçayı topla.
+quest.chip_destroy_purple,#amount mor parçayı topla
+quest.chip_destroy_red,#amount kırmızı parçayı topla
+quest.chip_destroy_snail,#amount yumurtlayıcıyı topla.
+quest.chip_destroy_super,#amount adet süper parçaları topla
+quest.chip_destroy_wafer,#amount Altın maden toplayın.
+quest.chip_destroy_with_bomb,Bomb kullanarak #amount parça topla!
+quest.chip_destroy_with_line,#amount parçayı Line bonusuyla topla!
+quest.chip_destroy_with_mine,#amount parçayı Firefly bonusuyla topla!
+quest.chip_destroy_with_omni,#amount parçayı Şimşek bonusu ile topla!
+quest.chip_destroy_yellow,#amount adet sarı parçayı topla
+quest.chip_destroy_waterfish,#amount adet su balığı topla
+quest.chip_recolor,#amount parçayı Boya bonusuyla yeniden renklendir.
+quest.claim,Ödül Talep Et
+quest.complete_chest,Tüm görevler tamamlandı.
+quest.cover_destroy_bee,#amount Ayı toplayın.
+quest.cover_destroy_bound,#amount parçayı kilitle
+quest.cover_destroy_chocolate,#amount adet parçayı Lava ile kaldır.
+quest.cover_destroy_fizzblue,#amount fizz topla
+quest.cover_destroy_fizzpurple,#amount fizz topla
+quest.cover_destroy_frozen,#amount parçadan Frost'u kaldır.
+quest.cover_destroy_honey,#amount tahtayı Bal ile temizle.
+quest.cover_destroy_hotlava,#amount adet Sıcak Lava kaldır.
+quest.cover_destroy_receiver_energycube,#amount adet jöle kristalleri topla
+quest.cover_destroy_receiver_jam,#amount enerji kristalleri topla
+quest.cover_destroy_statue,#amount köpek topla
+quest.cover_destroy_stone,#amount Ta taş parçasını kaldır
+quest.cover_destroy_leaf,#amount Yaprakları Temizle
+quest.division_done_card,Yeni görevler bir sonraki bölümde!
+quest.duck,#amount ördek topla
+quest.energy_flow,#amount tahtadan enerji çekin.
+quest.energycube_flow,#amount tane jöleyi doldur.
+quest.fossil,#amount Octopus toplayın.
+quest.gum,#amount adet çikolata parçası topla
+quest.new_quest,Yeni görev!
+quest.new_quest_in,Sonraki görevde:
+quest.on_arena_splash_score,Arena Boom'da #amount skora ulaş!
+quest.on_arena_splash_use_bonus,Arena Boom için #amount bonusu kaydet!
+quest.plate_destroy,#amount Ayırmayı Kaldır
+quest.play,Oyna
+quest.pvp_score,Duellere #amount skor al.
+quest.reward,Ödül:
+quest.snakes,#amount Yılan topla
+quest.tile_destroy_gold,#amount tane Çim topla!
+quest.tile_destroy_grass,#amount tane Çim topla!
+quest.title,Görev Kitabı
+quest.use_bonus,#amount bonus kullanın.
+quest.use_bonus_bomb,#amount bonus bomb kullanın.
+quest.use_bonus_line,#amount bonus kullanın Satır
+quest.use_bonus_mine,#amount bonus kullanın Firefly
+quest.use_bonus_omni,Bonus şimşek kullan #amount kez!
+quest.use_bonus_tint,#amount bonus kullanın Boya
+quest.use_combo_bomb_bomb,Bomb+Bomb kombosu ile #amount kez bonus yap!
+quest.use_combo_bomb_omni,Şimşek + Bomba kombosu ile #amount kez bonus kazan!
+quest.use_combo_bomb_tint,Kombi bonusu Paint+Bomb #amount kez yap!
+quest.use_combo_line_bomb,Bomb+Line kombosu ile #amount kez bonus yap!
+quest.use_combo_line_line,Line+Line kombosu yap #amount kez bonus al!
+quest.use_combo_line_omni,Şimşek+Satır kombosu ile #amount kez bonus kazan!
+quest.use_combo_line_tint,Kombi bonusu Paint+Line #amount kez yap!
+quest.use_combo_mine_bomb,Kombolu bonus Bomb+Firefly #amount kez yap!
+quest.use_combo_mine_line,Firefly+Line kombosu ile #amount kez bonus yap!
+quest.use_combo_mine_mine,Firefly+Firefly ile #amount kez kombo bonusu yap!
+quest.use_combo_mine_omni,Şimşek + Kırlangıç kombosu ile #amount kez bonus kazan!
+quest.use_combo_mine_tint,Kombi bonusu Paint+Firefly #amount kez yap!
+quest.use_combo_omni_omni,Şimşek+Şimşek kombosu ile #amount kez bonus kazan!
+quest.use_combo_omni_tint,Kombi bonusu Paint+Lightning #amount kez yap!
+quest.use_combo_tint_tint,Kombi bonusu Paint+Paint #amount kez yap!
+quest.walk,Domuzcuk #amount adım yürü
+quest.watch_for_new,- #time
+quest.win,#amount düelloyu kazan
+quest.win_coins,Duellere #amount kadar coin kazan!
+quest.win_hard_level,Zor seviyeyi tamamla.
+quest.win_rematch,#amount yeniden maç kazanın.
+quest.win_streak,#amount tane arka arkaya düelloyu kazan!
+quest.chip_destroy_clam,#amount inci topla
+quest.chip_destroy_egg,#amount Yumurta Topla
+quest.gardenflower,#amount Çiçeği topla
+quest.sausages,#amount Sosis topla
+rematch.asks_for_rematch_draw,"#name bir daha denemek istiyor
+Bahis #bet"
+rematch.asks_for_rematch_player_lose,"#name yeniden maç teklif ediyor
+Bahis #bet"
+rematch.asks_for_rematch_player_won,"#name yeniden maç istiyor!
+Bahis #bet"
+rematch.rematch_bet,#bet bahis yap
+report.body,
+report.subject,MatchArena ile ilgili sorun
+reward.bars,Altın çubuklar
+reward.coins_amt,+#amount
+reward.gems_amt,+#amount
+reward.levels,Yeni seviyeler
+reward.levels_amt,+#amount
+reward.levelup,"Tebrikler!
+Yeni seviye!"
+reward.new_levels,Yeni seviyeler!
+reward.talisman,Talismanlar
+reward.xp_amt,+#amount
+search.prize_fund,Ödül para.
+settings.friends_and_partners,Arkadaşlar ve Ortaklar
+settings.language.help_us_translate,"Bizimle Match Arena'yı konuştuğun diller için çevirmekte yardım etmek ister misin? Bize <font color=""\#0000EE"">support@matcharenagame.com adresinden bir satır bırak."
+settings.notifications.duels,Düellolara meydan oku!
+shop.indev,Yakında!
+splash.hint_chocolate,Lava'yı mümkün olduğu kadar çıkar.
+splash.hint_diamonds,Mümkün olduğunca çok Elmas topla.
+splash.hint_energycube,Seninle olabildiğince çok tahta doldurmak için Jöleyi kullan!
+splash.hint_fishes,Carrotları olabildiğince topla!
+splash.hint_food,Acornları ne kadar çok silebilirsen sile.
+splash.hint_fossils,Octopuşları ne kadar çok kurtarabilirsen o kadar iyi.
+splash.hint_honeybee,Olabildiğince çok Ayı topla!
+splash.hint_ice,Olabildiğince çok buzu sil!
+splash.hint_jam,Enerji ile olabildiğince çok kare doldur.
+splash.hint_road,Piggy'yi olabildiğince uzaklara yürü.
+splash.hint_stone,Taşları mümkün olduğu kadar çıkar.
+splash.hint_tasks,En çok siparişi tamamla!
+splash.hint_tiles,En çok çim toplamaya çalış!
+splash.mode_chocolate,Hedef - Lava
+splash.mode_diamonds,Hedef - Elmaslar
+splash.mode_fishes,Hedef - Havuçlar
+splash.mode_food,Hedef - Yılancıklar
+splash.mode_jam,Hedef - Enerji
+splash.mode_road,Hedef - Domuz
+splash.mode_tasks,Hedef - Siparişler
+splash.mode_tiles,Hedef - Çim
+talismans_shop.ask_button,Facebook
+talismans_shop.ask_text,Arkadaşları sor
+talismans_shop.boost_text,x2 hızla doldurma
+talismans_shop.buy_all,#amount al
+talismans_shop.hint,İki kat para kazanıldı.
+talismans_shop.recharge,Son talisman: #time
+talismans_shop.title,Talismanlar
+talismans_shop.watch_ad_button,İzle
+talismans_shop.watch_ad_text,Ücretsiz 1 alın.
+tickets_shop.ask_button,Facebook
+tickets_shop.ask_text,Arkadaşları sor
+tutorial.001.collect_more_fishes,"<font color=""\#5885b8"">Havuçları</font> olabildiğince topla!"
+tutorial.001.continue_to_collect_fishes,Havuçları toplamaya devam et!
+tutorial.001.first_swap_red_down,"Kırmızı parçayı aşağıya taşı
+üçü bir sıra oluşturmak için"
+tutorial.001.remind_collect_three_in_a_row,"<font color=""\#5885b8"">Bir renkte</font> üç parça <font color=""\#5885b8"">sırayla</font> topla."
+tutorial.001.second_swap_green_left,"Yeşil parçayı sola hareket ettir
+üçü bir sıra oluşturmak için"
+tutorial.001.third_swap_fish,"<font color=""\#5885b8"">Havuçlar</font> da üçlü olarak eşleştirilebilir."
+tutorial.001.you_are_doing_well,İyi gidiyorsun!
+tutorial.002.get_bonus_line,...bonus - Line almak için!
+tutorial.002.try_four_in_a_row,"<font color=""\#5885b8"">Dörtlü sırayı eşlemeye çalış!</font>"
+tutorial.002.use_line_bonus,"<font color=""\#5885b8"">Üçüncü sıradaki bonus</font> ile eşleştir ve Line'ın gücünü gör!"
+tutorial.003.hint,Daha fazla Havuç topla rakibinden!
+tutorial.003.try_l_or_t,"Parçaları <font color=""\#5885b8"">T veya L şeklinde eşleştir!</font>"
+tutorial.003.use_bomb_bonus,"...bonus - Bomb! almak için!
+Hadi patlatalım!"
+tutorial.004.clear_gold_tiles,Çim üzerinde eşleşmeler yaparak onu topla!
+tutorial.004.combine_omni_with_blue,Şimşek parçasını mavi parçayla değiştirerek tahtadan tüm mavi parçaları kaldır!
+tutorial.004.try_five_in_a_row,"Denemeye çalış ve <font color=""\#5885b8"">5'i sıraya koy!</font>"
+tutorial.005.two_bonus_can_combine,"<font color=""\#5885b8"">İki bonus birleştirilerek</font> daha büyük bir bonus elde edilebilir!"
+tutorial.007.collect_food,"<font color=""\#5885b8"">Kestanelere</font> yanında eşleşmeler yap!"
+tutorial.007.move_character,"Yıldızları topla
+<font color=""\#5885b8"">Küçük Domuzu ileri taşı!</font>"
+tutorial.008.make_mine_bonus,"Çapraza dört parça eşleştir 
+ve bir bonus al - Ateşböceği!"
+tutorial.008.use_mine_bonus,"Üçünü sırayla eşleştir <font color=""\#5885b8"">Firefly</font> ile
+onu kullanmak için!"
+tutorial.009.make_tint_bonus,"Yap bir <font color=""\#5885b8"">büyük T şekli</font> ve 
+ödül al - Boya!"
+tutorial.009.use_tint_bonus,"<font color=""\#5885b8"">Boyama</font> herhangi bir parçayla değiştirilebilir!"
+level_popup.adventure.title,Seviye
+lives_shop.ma_hint,"Macerayı oynamaya devam etmek için
+cana ihtiyacın var"

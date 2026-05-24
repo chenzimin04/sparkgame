@@ -1,0 +1,20 @@
+
+skel_synTip.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+j0002 - 副本
+  rotate: false
+  xy: 1, 33
+  size: 149, 69
+  orig: 149, 69
+  offset: 0, 0
+  index: -1
+j0003
+  rotate: false
+  xy: 1, 1
+  size: 152, 31
+  orig: 152, 31
+  offset: 0, 0
+  index: -1

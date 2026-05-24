@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+
+<templates>
+	<image id="tRewardItem" width="170" height="170" halign="center" valign="center" scale="1.0" visible="false" >
+		<image name="uiGlow" width="320" ratio="1" image="ui/glow.png" halign="center" valign="center" animation="rotation" />		
+	</image>
+</templates>
+
+<screen name="uiScreenPopUp" template="tPopUpJenny" >
+	<button name="uiBtClose" visible="false" />		
+	<imageSpecial name="uiImgBg" template="tBGSmall" />		
+	<element name="uiContent">
+		<element name="uiOpenLayer" template="tElement" visible="false">
+			<image name="uiImgReward0" x="-220" y="-235" template="tRewardItem"  />
+			<image name="uiImgReward1" x="0" y="-275" template="tRewardItem" />
+			<image name="uiImgReward2" x="220" y="-235" template="tRewardItem"/>	
+			
+			<image name="uiImgChest" y="50" image="ui/chest_open.png" width="400" ratio="1.46" halign="center" valign="center" animation="wobble" />		
+					
+			<button name="uiBtCollect" label="SID_COLLECT" icon="ui/ok.png" template="tButton" visible="false" halign="center" valign="bottom"/>			
+		</element>
+		<element name="uiInfoLayer" template="tElement" visible="false">
+			<text name="uiTxtInfo" relativeWidth="1" height="360" halignText="center" valignText="center" halign="center" valign="top" template="tFontWhite,tFontMedium"  />
+			<image name="uiImgChest2" y="0" image="ui/chest.png" width="400" ratio="1.46" halign="center" valign="center" animation="wobble" />
+			
+			<element name="uiProgress" width="400" height="90" halign="center" valign="bottom" y="-140" >
+				<image image="ui/button5.png" template="tElement" color="0x00" alpha="0.5" nss="10,7,4,25" />
+				<image name="uiImgProgress" image="ui/button5.png" template="tElement" width="50%" nss="10,7,4,25" />
+				<text name="uiTxtProgress" template="tFontWhite,tElement,tFontLarge" halignText="center" valignText="center" halign="center" valign="center" />	
+				<image name="uiImgStar" x="30" image="ui/star_on.png" height="100" ratio="1.0" valign="center" halign="right" />
+			</element>			
+		</element>
+	</element>
+</screen>

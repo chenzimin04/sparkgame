@@ -1,0 +1,1015 @@
+ID,el-GR
+ad_failed.button,Εντάξει.
+ad_failed.message,"Δεν υπάρχει βίντεο διαθέσιμο αυτή τη στιγμή, παρακαλώ δοκιμάστε ξανά αργότερα."
+ad_failed.title,Ωχ...
+ad_magic.button,Παρακολουθήστε
+ad_magic.message,Δείτε ένα μικρό βίντεο για να λάβετε μια ανταμοιβή.
+ad_magic.title,Γλυκό Μαγικό Γουρουνάκι
+android_app.button,Εγκαταστήστε
+android_app.text.release,Αγαπητοί φίλοι! Είμαστε χαρούμενοι να σας ενημερώσουμε ότι το παιχνίδι μας είναι τώρα διαθέσιμο στο Android. Πηγαίνετε και κατεβάστε την εφαρμογή!
+android_app.title,Τώρα για Android!
+android_update.restart.no,Αργότερα
+android_update.restart.text,Εγκαταστήστε τώρα;
+android_update.restart.title,Έτοιμη ενημέρωση!
+android_update.restart.yes,Ναι
+avatar_already_changed.button,Εντάξει
+avatar_already_changed.message,Το φωτογραφικό σου προφίλ έχει ήδη αλλάξει. Μπορείς να αλλάξεις το φωτογραφικό σου προφίλ μόνο ΜΙΑ ΦΟΡΑ.
+bookmark.daily,Πρόκληση
+bookmark.friends,Φίλοι
+bookmark.settings,Ρυθμίσεις
+booster_hint.cross,%booster_shop.hint.ingame.cross%
+booster_hint.hammer,%booster_shop.hint.ingame.hammer%
+booster_hint.hand,%booster_shop.hint.ingame.hand%
+booster_shop.buy,Πάρτε #count για
+booster_shop.hint.ingame.cross,Χρησιμοποίησε το Μαγικό Ραβδί για να αφαιρέσεις μία γραμμή και μία στήλη των κομματιών.
+booster_shop.hint.ingame.hammer,Αφαίρεσε τα πλακίδια με το Χάμαρ!
+booster_shop.hint.ingame.hand,Χρησιμοποίησε το Γάντι για να ανταλλάξεις οποιαδήποτε γειτονικά κομμάτια.
+booster_shop.hint.prelevel.add_bomb,Ξεκινήστε οποιοδήποτε επίπεδο με μια Βόμβα ήδη στο ταμπλό!
+booster_shop.hint.prelevel.add_line,Ξεκινήστε οποιοδήποτε επίπεδο με μια Γραμμή ήδη στον πίνακα!
+booster_shop.hint.prelevel.add_omni,Ξεκινήστε οποιοδήποτε επίπεδο με ένα Κεραυνό ήδη στο ταμπλό!
+booster_shop.hint.prelevel.add_tint,Ξεκινήστε οποιοδήποτε επίπεδο με ένα Πάιντ ήδη στο ταμπλό!
+booster_shop.hint.prelevel.double_fly,Αναπληρώστε τα όλα τα Φλοιόφωτα που δημιουργήθηκαν κατά το επίπεδο αυτό!
+booster_shop.title.ingame.cross,Μαγικό Ραβδί
+booster_shop.title.ingame.hammer,Μπάντος
+booster_shop.title.ingame.hand,Γάντι
+booster_shop.title.prelevel.add_bomb,Ενισχυτής Βόμβας
+booster_shop.title.prelevel.add_line,Γραμμή Ενισχυτής
+booster_shop.title.prelevel.add_omni,Φωτιστικό Ενισχυτή
+booster_shop.title.prelevel.add_tint,Ενισχυτής ζωγραφικής.
+booster_shop.title.prelevel.double_fly,Φαιντερφλαι x2 Ενισχυτής
+chest_open.collection_complete,Συλλέχθηκε!
+chest_open.ok,Εντάξει.
+chest_opening.button,Ωραία!
+chest_opening.reward,Ανταμοιβή
+conflict_popup.continue,Συνέχεια
+conflict_popup.hint_syncing,Συγχρονίζοντας...
+conflict_popup.skip,Συνεχίστε Εκτός Σύνδεσης
+credits.art,Σχεδιασμός τέχνης
+credits.artists,"Πολλή αγάπη στους φίλους των γραφικών μας
+για τα όμορφα χαρακτήρες των avatars!"
+credits.gamedesign,Διαχείριση παιχνιδιού
+credits.mentions,"Ήδηρος ευχαριστίες
+στους φίλους μας"
+credits.programming,Προγραμματισμός
+credits.title,Η ομάδα μας!
+daily_help.button,Εντάξει.
+daily_help.chest,Μεγάλο διακριτικό
+daily_help.reward,Μια φορά ανταμοιβές
+daily_help.text,"Κάθε μέρα οι παίκτες δείχνουν τις ικανότητές τους και ανταγωνίζονται σε ένα επίπεδο.
+
+Ο παίκτης με το υψηλότερο σκορ θα λάβει το δώρο της ημέρας - Το Κούρεμα και το Στεφάνι των Λίθων!"
+daily_help.title,Καθημερινό Πρόκληση
+daily_reward.button,Ωραία!
+daily_reward.reward,Ανταμοιβή
+daily_reward.title.place_1,"Είσαι ο νικητής 
+της Καθημερινής Προκλήσεως!"
+daily_reward.title.place_generic,"Ολοκληρώθηκε το Καθημερινό Πρόκληση
+Κατέταξες \##place!"
+daily.drag_to_update,Τραβήξτε για να ανανεώσετε.
+daily.epic_sunday_ribbon,Φιλική Προκληση
+daily.finishes_in,Το πρόκληση λήγει σε #time
+daily.finishes_now,Τελείωσε η πρόκληση!
+daily.high_score,Νέο υψηλό σκορ!
+daily.medal_chest_text,Συλλέξτε #amount μετάλλια!
+daily.next_time,Επόμενη Καθημερινή Πρόκληση σε #time
+daily.next_time_now,Ξεκίνησε νέο καθημερινό Πρόκληση!
+daily.no_yesterday_yet,Δεν συμμετείχες στην προηγούμενη Καθημερινή Πρόκληση.
+daily.play,Παίξτε
+daily.retry_submit,Ξαναδοκιμάστε
+daily.rewards_tab,Ανταμοιβές Καθημερινού Προκλήσεων
+daily.rewards.bubble,"Συλλέξτε αστέρια και μετάλλια
+για να ανοίξετε θησαυροφυλάκια με θησαυρούς!"
+daily.score_not_accepted,Αυτό το αποτέλεσμα δεν μετράει στον κατάλογο ηγετών γιατί ολοκλήρωσες το παιχνίδι μετά το τέλος της Ημερήσιας Προκλήσεως.
+daily.star_chest_claim,Ανοιχτό
+daily.star_chest_collected_text,Έλα αύριο για άλλο κουτί!
+daily.star_chest_text,Ολοκλήρωσε 7 Καθημερινές Προκλήσεις με 3 αστέρια ταυτόχρονα!
+daily.submit_error,Δεν μπορούσα να στείλω τα αποτελέσματα.
+daily.today,Καθημερινό Πρόκληση
+daily.today_mark,Σήμερα
+daily.update_error,Δεν υπάρχει σύνδεση στο διαδίκτυο.
+daily.wait_text,
+daily.watch_replay.button,Παρακολουθήστε
+daily.watch_replay.text,Επανάληψη παιχνιδιού
+daily.welcome_reward_first,%daily_help.text%
+daily.welcome_text,Γεια! Ξεκίνησε ένα νέο Καθημερινό Πρόκληση!
+daily.yesterday,Αύριο Κλίμακα
+daily.yesterday_updating,Φέρνοντας τα αποτελέσματα...
+demo.finished.text,"Συγχαρητήρια, ολοκλήρωσες την δοκιμαστική έκδοση! Παίξε την πλήρη έκδοση δωρεάν στο <p class=""ma-link"">PecPoc.com<p class=""demo-hint"">Τα πρόοδος σου δεν θα χαθεί."
+demo.nag.text,"Τα δωρεάν bonus είναι διαθέσιμα μόνο στην πλήρη έκδοση. Συνεχίστε το παιχνίδι στην πλήρη έκδοση στο <p class=""ma-link""> PecPoc.com <p class=""demo-hint""> Το πρόοδό σας δεν θα χαθεί."
+event_ny.next_in_hint,Πάρτε το επόμενο παρόν στο: #time
+event_ny.title,Νέα Χρονιά Δώρα
+fake_ad.reward_in,Ανταμοιβή σε...
+fake_ad.tutorial,"Δεν υπάρχει βίντεο διαθέσιμο αυτή τη στιγμή...
+Μην ανησυχείς, δοκιμάστε μερική Πίγκι-Μαγικά αντί για αυτό!"
+fake_ad.your_ad_here,Η δική σου διαφήμιση εδώ
+fb_login_failed.message,Δεν μπορούσα να συνδεθώ στο Facebook. Θα δοκιμάσω ξανά;
+fb_notification.button,Συνδέστε
+fb_notification.message,Συνδέσου στο Facebook για να συγχρονίσεις την πρόοδό σου διαδικτυακά!
+fb_notification.no_post_hint,Δεν θα δημοσιεύουμε ποτέ χωρίς την άδειά σας.
+fb_notification.title,Αποθηκεύστε την πρόοδό σας.
+feedback.failed.button,Συνέχεια
+feedback.failed.message,"Δεν μπορούσα να στείλω την ανατροφοδότηση.
+Ελέγξτε τη σύνδεσή σας στο διαδίκτυο."
+feedback.failed.title,Ωχ...
+feedback.ok.button,Εντάξει.
+feedback.ok.message,"Λάβαμε την ανατροφοδότησή σας.
+Ευχαριστούμε που μας βοηθάτε να βελτιώσουμε το παιχνίδι."
+feedback.ok.title,Το σχόλιο εστάλη!
+friends_tab.failed_social.button,Έλεγχος
+friends_tab.failed_social.text,Χρειάζεται να ελέγξουμε τη σύνδεση για να ενημερώσουμε τη λίστα φίλων.
+friends_tab.has_fb.button,Προσκαλέστε Φίλους
+friends_tab.has_fb.text,"Όσοι περισσότεροι φίλοι έχεις, τόσους περισσότερα δώρα θα λάβεις!"
+friends_tab.no_fb.button,Συνδέστε
+friends_tab.no_fb.hint,Δεν θα δημοσιεύουμε ποτέ χωρίς την άδειά σας.
+friends_tab.no_fb.text,Συνδέσου στο Facebook και λάβε δώρα από φίλους και ακολούθησε την πρόοδό τους.
+friends_tab.no_permission.button,Ναι
+friends_tab.no_permission.text,Να επιτραπεί η πρόσβαση στη λίστα φίλων σας για να λάβετε περισσότερα δώρα;
+friends_tab.no_social.text,Συνδέσου σε κοινωνικά δίκτυα και λάβε δώρα από φίλους και ακολούθησε την πρόοδό τους.
+friends_tab.no_y8.button,Συνδέστε
+friends_tab.no_y8.text,Συνδέστε το Y8 και λάβετε δώρα από φίλους και ακολουθήστε την πρόοδό τους.
+friends_tab.ok_invite_button,Προσκαλέστε Φίλους
+friends_tab.ok_invite_gift_text,"Περισσότεροι φίλοι, περισσότερα δώρα!"
+friends_tab.ok_invite_text,"Περισσότεροι φίλοι έχεις, τα περισσότερα δώρα κερδίζεις!"
+friends_tab.title,Φίλοι
+friends_tab.vk_friends_permission_button,Ναι
+friends_tab.vk_friends_permission_text,Να επιτραπεί η πρόσβαση στη λίστα φίλων σας για να λάβετε περισσότερα δώρα;
+friends_tab.vk_invite_button,Προσκαλέστε Φίλους
+friends_tab.vk_invite_text,"Περισσότεροι φίλοι, περισσότερα δώρα!"
+friends.gift.claim,Ανοιχτό
+game_results.click_to_continue,Κάντε κλικ για να συνεχίσετε
+game_results.tap_to_continue,Πατήστε για να συνεχίσετε
+game.click_to_continue,Κάντε κλικ για να συνεχίσετε
+game.info.ahead,Είσαι #fmtnum κινήσεις μπροστά!
+game.info.behind,Είσαι #fmtnum κινήσεις πίσω!
+game.info.goals,Στόχος
+game.info.moves,ΚΙΝΗΣΕΙΣ
+game.info.pause,ΠΑΥΣΗ
+game.info.undo,ΑΝΑΙΡΕΣΗ
+game.pause.continue,Συνέχισε το παιχνίδι.
+game.pause.leave_forfeit,"<font color=""\#ff0000"">Τέλος παιχνιδιού"
+game.pause.leave_safe,Τέλος παιχνιδιού
+game.pause.title,Παύση
+game.shoutout.their_game_result,Βαθμολογία: #score
+game.shoutout.well_done,Συγχαρητήρια!
+game.shoutout.your_game_result,Το σκορ σου: #score
+game.tap_to_continue,Πατήστε για να συνεχίσετε
+game.tutorial.continue,Συνέχεια
+gamemode.capital.aquarium,ΨΑΡΙΑ
+gamemode.capital.bird,ΠΟΥΛΙΑ
+gamemode.capital.bubble,Σπίρτα
+gamemode.capital.cats,ΓΑΤΕΣ
+gamemode.capital.chocolate,ΛΑΒΑ
+gamemode.capital.diamonds,ΔΙΑΜΑΝΤΙΑ
+gamemode.capital.ducks,ΠΑΠΙΔΙΑ
+gamemode.capital.energy_cube_reciever,Κρυστάλλινα
+gamemode.capital.energycube,ΜΑΛΑΚΙ
+gamemode.capital.fishes,ΚΑΡΟΤΑ
+gamemode.capital.flower,ΛΟΥΛΟΥΔΙΑ
+gamemode.capital.food,ΚΑΡΠΟΙ
+gamemode.capital.fossils,ΟΚΤΩΠΟΥΔΑ
+gamemode.capital.frog,ΒΑΤΡΑΧΟΙ
+gamemode.capital.grass,ΓΡΑΣΣΑ
+gamemode.capital.gum,ΓΚΟΟ
+gamemode.capital.honeybee,ΑΡΚΟΥΔΕΣ
+gamemode.capital.hotlava,ΛΑΒΑ
+gamemode.capital.ice,ΠΑΓΟΣ
+gamemode.capital.jam,ΕΝΕΡΓΕΙΑ
+gamemode.capital.jam_reciever,Κρυστάλλινα
+gamemode.capital.pearl,ΜΑΡΓΑΡΙΤΑΡΙΑ
+gamemode.capital.road,ΓΟΥΡΟΥΝΙ
+gamemode.capital.sausage,ΣΟΥΣΑΓΙΕΣ
+gamemode.capital.statue,ΣΚΥΛΟΙ
+gamemode.capital.stone,ΠΕΤΡΑ
+gamemode.capital.tasks,ΠΑΡΑΓΓΕΛΙΕΣ
+gamemode.capital.tiles,ΓΡΑΣΣΑ
+gamemode.capital.waterfish,ΨΑΡΙΑ
+gamemode.capital.blooplet,ΜΙΚΡΟΤΣΙΚΛΙΔΕΣ
+gameresult.adventure.completed_continue,Συνέχεια
+gameresult.adventure.leave,Φεύγεις
+gameresult.adventure.play_next,Συνέχεια
+gameresult.adventure.retry,Ξαναπροσπαθήστε
+gameresult.boosters,Επιλέξτε Ενισχυτές
+gameresult.complete.line1,Επίπεδο
+gameresult.complete.line2,Ολοκληρώθηκε!
+gameresult.continue,Συνέχεια
+gameresult.daily.continue,Συνέχεια
+gameresult.daily.leave,Έξοδος
+gameresult.daily.retry,Παίξτε
+gameresult.dash,-
+gameresult.forfeit,Τελείωσες!
+gameresult.map.continue,Συνέχεια
+gameresult.map.retry,Ξαναδοκιμάστε
+gameresult.pvp.continue,Συνέχεια
+gameresult.pvp.play_another,Διαφορετικό Επίπεδο
+gameresult.pvp.play_next,Διαφορετικό Επίπεδο
+gameresult.pvp.rematch_lose,Επανάληψη
+gameresult.pvp.rematch_win_draw,Παίξτε Ξανά
+gameresult.rematch,Επανάληψη
+gameresult.rematch_bet,Παίξτε #bet
+gameresult.required_ticket,Απαιτείται
+gameresult.retry,Παίξτε Ξανά
+gameresult.rewards,Ανταμοιβή
+gameresult.title.completed,Το επίπεδο ολοκληρώθηκε!
+gameresult.title.draw,Σχεδιάστε.
+gameresult.title.lose,"<font color=""\#ff5666"">Χάσατε."
+gameresult.title.win,Νικάς!
+gameresult.vs,ΕΝΑΝΤΙΟΝ
+gameresults.inter_ad_in_large,#count παίζει μέχρι
+gameresults.inter_ad_in_small,#count παιχνίδια μέχρι
+gems_shop.title,Κατάστημα Πέτρων
+global.click_to_continue,Κάντε κλικ για να συνεχίσετε
+global.default_player_name,Παίκτης
+global.tap_to_continue,Πατήστε για να συνεχίσετε
+home.hint_daiy,Προσπαθήστε την Καθημερινή Πρόκληση.
+home.hint_play_pvp,Μπορείς ακόμα να παίζεις διαμαχές ακόμα και αν έχεις εξαντλήσει τις ζωές σου!
+home.play,Παίξτε
+html.loading,Φόρτωση
+iap_failed.button,Εντάξει
+iap_failed.message,Η αγορά δεν ήταν επιτυχής.
+iap_need_facebook.message,Συνδέσου στο Facebook για να φορτώσεις Πέτρες.
+iap_pending.button,Εντάξει
+iap_pending.message,Η αγορά σας επεξεργάζεται.
+intro_screen.another_device,Με Κώδικα
+intro_screen.login_back,Πίσω
+intro_screen.login_button,Σύνδεση
+intro_screen.login_fb,Facebook
+intro_screen.login_ok,Odnoklassniki
+intro_screen.login_singular,Σύνδεση
+intro_screen.login_vk,Vkontakte
+intro_screen.login_with,Συνδεθείτε με
+intro_screen.login_y8,Y8
+intro_screen.login_yandex,Yandex
+intro_screen.new_player,Νέος Παίκτης
+introprofile.accept_avatar,Επιλέξτε
+introprofile.accept_name,Συνέχεια
+introprofile.editavatar,Επιλέξτε εικόνα προφίλ
+introprofile.editname,Εισάγετε το όνομά σας
+invite_request.message,Ας παίξουμε το καλύτερο παιχνίδι match 3 μαζί!
+invite_request.title,Επιλέξτε φίλους για να παίξετε Skydom μαζί!
+level_popup.goals,Στόχος
+level_popup.play,Παίξτε
+level_popup.prelevel_boosters,Επιλέξτε Ενισχυτές
+level_popup.title,Επίπεδο #level
+level_popup.title_hard,δύσκολο
+level_popup.title_ultra_hard,Πολύ δύσκολο.
+level_popup.title_very_hard,Πολύ δύσκολο.
+link.support,https://Skydom.freshdesk.com/en/support/solutions
+link.support_beta,https://Skydombeta.freshdesk.com/en/support/solutions
+lives_shop.buy_all,Αγοράστε 5
+lives_shop.hint,Χρειάζεσαι ζωές για να συνεχίσεις να παίζεις το Adventure
+lives_shop.recharge,Επόμενη ζωή: #time
+lives_shop.title,Ζωές
+lives_shop.watch_ad_button,Παρακολουθήστε
+lives_shop.watch_ad_text,Ελεύθερο 1
+load_player.almost_done,Σχεδόν έτοιμο...
+load_player.continue_offline,Συνεχίστε Εκτός Σύνδεσης
+load_player.loading_save,Φόρτωση δεδομένων παίκτη...
+load_player.loading_save_failed,Δεν μπορούσα να φορτώσω τα δεδομένα του παίκτη.
+load_player.loading_save_failed_in,"Δεν μπορούσα να φορτώσω τα δεδομένα του παίκτη.
+Δοκιμάζω ξανά σε #time..."
+load_player.logging_in,Συνδέονται...
+load_player.logging_in_failed,Δεν μπορούσα να συνδεθώ.
+load_player.logging_in_failed_in,"Δεν μπορούσα να συνδεθώ.
+Προσπαθώ ξανά σε #time..."
+load_player.new_player,Είμαι ένας νέος παίκτης.
+load_player.retry_now,Ξαναδοκιμάστε τώρα
+login_failed.button,Ξαναδοκιμάστε
+login_failed.title,Αποτυχία σύνδεσης.
+magic.click_to_continue,Κάντε κλικ για να συνεχίσετε
+magic.reward,Ανταμοιβή
+magic.tap_to_continue,Πατήστε για να συνεχίσετε
+map.gates_coming_soon,"Νέα επίπεδα
+σύντομα έρχονται!"
+match3.level_complete.line1,Όλα τα Στόχοι
+match3.level_complete.line2,Επιτευχθη!
+match3.score_pve,#score / #required
+match3.shoutout.1_move,Τελευταία κίνηση!
+match3.shoutout.2_moves,2 κινήσεις
+match3.shoutout.5_moves,5 κινήσεις
+match3.shoutout.no_moves,Δεν υπάρχουν περισσότερες κίνησεις.
+match3.shoutout.no_reshuffle,"Δεν μπορεί να επαναδιατάξει
+Δεν υπάρχουν δυνατές κινήσεις"
+merge.button.mine,Επιλέξτε
+merge.button.their,Επιλέξτε
+merge.description.account_merge,"Φαίνεται ότι έχετε ήδη παίξει το Skydom.
+Επιλέξτε το προτιμώμενο προφίλ!"
+merge.description.ingame_conflict,%merge.description.login_conflict%
+merge.description.login_conflict,"Παίξατε από πολλαπλές συσκευές.
+Επιλέξτε την προτιμώμενη αποθήκευση."
+merge.hint.mine,τοπικό
+merge.hint.their,από τον διακομιστή
+merge.title,Συγχρονισμός Προόδου
+modal.adblock.button,Εντάξει
+modal.adblock.text,Έχουμε εντοπίσει ότι χρησιμοποιείτε ένα Ad Blocker.<br>Παρακαλούμε απενεργοποιήστε το Ad Blocker για αυτή τη σελίδα για να μπορέσετε να παρακολουθήσετε ένα βίντεο.
+modal.adblock.title,Αποκλειστής διαφημίσεων
+modal.error.button,Ανανέωση
+modal.error.text,"Συγνώμη, παρουσιάστηκε ένα σφάλμα. Παρακαλώ ανανεώστε τη σελίδα."
+modal.error.title,Ωχ! Κάτι πήγε στραβά...
+modal.fb_login_proxy.button,Συνέχεια
+modal.fb_login_proxy.text,Σύνδεση στο Facebook
+modal.fb_login_proxy.title,
+modal.fb_purchase_proxy.button,Συνέχεια
+modal.fb_purchase_proxy.gems,Κουκούλες
+modal.first_login_failed.button,Ξαναδοκιμάστε
+modal.first_login_failed.text,Δεν μπορώ να συνδεθώ στο Skydom αυτή τη στιγμή. Παρακαλώ δοκιμάστε να συνδεθείτε ξανά αργότερα.
+modal.first_login_failed.title,Αποτυχία σύνδεσης.
+modal.gpu_error.button,Περισσότερες Πληροφορίες
+modal.gpu_error.text,Φαίνεται ότι χρειάζεται να ενεργοποιήσεις την επιτάχυνση GPU στον browser σου για να τρέξει το παιχνίδι.
+modal.gpu_error.title,Ωχ..
+modal.maintenance.button,Εντάξει.
+modal.maintenance.text,Θα γίνει ενημέρωση στις<br> <b>#time</b><br> για 3 ώρες. <br>Η αποθήκευση στο νέφος και η συγχρονισμός της προόδου δεν θα λειτουργούν.
+modal.maintenance.title,Συντήρηση
+modal.no_hardware_accel_ff.button,Εντάξει
+modal.no_hardware_accel_ff.text,"Ο φυλλομετρητής σου αναφέρει ένα πρόβλημα απόδοσης, η παιχνίδι μπορεί να τρέξει πολύ αργά!
+
+Για να το διορθώσεις, παρακαλώ διάβασε το <a target=""_blank""  href=""https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features"">https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features</a>"
+modal.no_hardware_accel_ff.title,Προβλήματα Επιδόσεων
+modal.no_hardware_accel.button,Εντάξει
+modal.no_hardware_accel_vk.button,Εντάξει
+modal.no_hardware_accel.text,"Το πρόγραμμα περιήγησής σου αναφέρει ένα πρόβλημα απόδοσης, η παιχνίδι μπορεί να τρέξει πολύ αργά!
+
+Για να το διορθώσεις, διάβασε το <a target=""_blank""  href=""https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm"">https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm</a>"
+modal.no_hardware_accel_vk.text,"Ο φυλλομετρητής σας αναφέρει ένα πρόβλημα απόδοσης, η παιχνίδι μπορεί να τρέξει πολύ αργά!
+
+Για να διορθώσετε, διαβάστε <a target=""_blank"" href=""https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery"">https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery</a>"
+modal.no_hardware_accel.title,Προβλήματα Επιδόσεων
+modal.no_hardware_accel_vk.title,Προβλήματα Επιδόσεων
+modal.nolocalstorage.button,Εντάξει
+modal.nolocalstorage.text,"Φαίνεται ότι ο φυλλομετρητής σας δεν μας επιτρέπει να αποθηκεύσουμε το παιχνίδι σας. Αυτό μπορεί να προκληθεί από τη χρήση της λειτουργίας Incognito στον φυλλομετρητή σας.
+<p>
+Παρακαλούμε συνδεθείτε για να αποφύγετε την απώλεια της προόδου σας!"
+modal.nolocalstorage.title,Λειτουργία Ανώνυμης Περιήγησης
+modal.oom.button,Περισσότερες Πληροφορίες
+modal.oom.text,Φαίνεται ότι δεν υπάρχει αρκετή μνήμη.
+modal.oom.title,Ωχ..
+modal.out_of_sync.button,Ανανέωση
+modal.out_of_sync.text,Φαίνεται ότι έχετε ανοίξει το Skydom σε διάφορα παράθυρα του browser. <br>Παρακαλώ ανανεώστε για να συνεχίσετε να παίζετε σε αυτό το παράθυρο.
+modal.out_of_sync.title,Πολλά παράθυρα με Skydom;
+modal.vk_inapp_not_allowed.button,Μεταβείτε
+modal.vk_inapp_not_allowed.text,"Οι αγορές είναι διαθέσιμες μόνο στο <a href=""https://m.vk.com/app7409298"" target=""_blank"">m.vk.com</a>"
+modal.vk_inapp_not_allowed.title,
+modal.wasm.button,Περισσότερες Πληροφορίες
+modal.wasm.text,Δεν φαίνεται να υποστηρίζει ο φυλλομετρητής σου WebAssembly.
+modal.wasm.title,Ωχ..
+modal.webgl.button,Περισσότερες Πληροφορίες
+modal.webgl.text,Δεν φαίνεται να υποστηρίζει ο φυλλομετρητής σου WebGL.
+modal.webgl.title,Ωχ..
+modal.yandexsdk.text,"Το SDK του Yandex δεν φορτώθηκε σωστά.
+Θέλετε να δοκιμάσετε ξανά;"
+modal.yandexsdk.title,Ωχ
+modal.yandexsdk.button,Εντάξει
+name_already_changed.button,Εντάξει
+name_already_changed.message,Το όνομά σου έχει ήδη αλλάξει. Μπορείς να αλλάξεις το όνομά σου μία φορά μόνο.
+networks.hint,"Σας ενθαρρύνουμε να συνδεθείτε σε κοινωνικά δίκτυα!
+ - Μην χάσετε την πρόοδό σας αποθηκεύοντας την στον νέφος
+ - Παίξτε με φίλους και λάβετε δώρα
+ - Δεν δημοσιεύουμε χωρίς την άδειά σας"
+nickname.default,Παίκτης
+nickname.default_friend,Κουνέλι
+nickname.trainer,Συντρόφος #nickname
+nickname.tutorial_001,Καθηγήτρια Άννα
+nickname.tutorial_002,Καθηγητής Jonny
+nickname.tutorial_003,Καθηγητής Πόλλυ
+nickname.you,Εσείς
+notification.daily_lead_1,Το #Name έγινε η ηγεσία στο Daily Challenge! Θέλεις να επανακτήσεις την πρώτη θέση;
+notification.daily_lead_2,Ο #Name έγινε ο ηγέτης στην Καθημερινή Πρόκληση!
+notification.daily_lead_3,Σήμερα είναι ζεστό στο Daily Challenge! #Name κατέλαβε την πρώτη θέση σου.
+notification.daily_lead_4,Το #Name έγινε η κύρια δύναμη. Θέλεις να επανακτήσεις την ηγεσία στο Πρόκληση;
+notification.daily_lead_5,Φαίνεται ότι ο #Name σε πέρασε στην Καθημερινή Πρόκληση!
+notification.daily_lead.meta,"@{""variants"":5}"
+notification.reminder_1,😏 Νέοι αντιπάλοι περιμένουν τον πιο ελπιδοφόρο παίκτη! 😎
+notification.reminder_10,Ποιος θα είναι ο νικητής της Ημερήσιας Προκλήσεως σήμερα;
+notification.reminder_11,"Ωχ, ξεχάσαμε σχεδόν πώς ο καθένας έπαιξε καταπληκτικά με τον #PlayerName!"
+notification.reminder_12,"Ωραίο μέρα για να παίζεις Skydom, δεν είναι; 💪"
+notification.reminder_13,🙈😬 Υπάρχουν δυο άντρες εδώ που ονειρεύονται να σε νικήσουν. Νομίζεις ότι έχουν την ευκαιρία;
+notification.reminder_14,Το κουνέλι έστειλε ένα δώρο για εσένα! 🎁
+notification.reminder_15,"😎 #PlayerName, έχει ήρθε η ώρα να κερδίσεις ξανά! 🕹"
+notification.reminder_16,Ήρθε η ώρα να λάβεις μια διαλειμματική διακοπή και να ξεκινήσεις μια επιτυχημένη περιοδεία 🤗
+notification.reminder_17,🌟🌟🌟 Τα επίπεδα δεν θα ολοκληρωθούν από μόνα τους! Ας παίξουμε; 🥇😉
+notification.reminder_18,"#PlayerName, κάποιος θέλει να σε νικήσει. Μπορείς να φανταστείς θα το καταφέρει; 😬😬😬"
+notification.reminder_19,Γεια σου! Ήρθε η ώρα να χαλαρώσεις και να κερδίσεις λίγες φορές; 🤔
+notification.reminder_2,Δεν έχει ακόμα χάσει κανείς στον #PlayerName! Να τους δώσουμε μια ευκαιρία;
+notification.reminder_20,Έχεις γνωρίσει τον Ουράνιο Άνθρωπο μας; 🦄
+notification.reminder_3,Το Μαγικό Γουρουνάκι είναι εδώ! 🐽
+notification.reminder_4,🙈 Δεν έχω δει τον καλύτερο παίκτη Match3 για λίγο! Είναι ακόμα εδώ; 👀
+notification.reminder_5,Έχεις ήδη κερδίσει σήμερα; 🏆
+notification.reminder_6,❤️❤️❤️❤️❤️ Όλες οι ζωές ανανεώθηκαν! Ήρθε η ώρα να κερδίσεις!
+notification.reminder_7,🖐🎟 Υπάρχουν 5 δωρεάν διακριτικά που περιμένουν να ξοδευτούν!
+notification.reminder_8,🐰😍 Το κουνέλι έστειλε ένα δώρο για εσένα! 🎁
+notification.reminder_9,Ξεκίνησε η Καθημερινή Πρόκληση! Ποιος θα πάρει το κουράγιο και μια συσσωρευμένη πέτρες;
+ny.button_claim,Ανοίξτε Δώρο
+ny.button_next_in,Δώρο σε: #time
+ok_login_failed.message,Δεν μπορούσα να συνδεθώ στο Odnoklassniki. Θα δοκιμάσω ξανά;
+ok.share_tick,Μοιραστείτε
+out_of_moves.continue_buy_moves,Παίξτε Συνεχώς #price
+out_of_moves.continue_watch,Παρακολουθήστε
+out_of_moves.give_up,Αποθαρρύνου.
+out_of_moves.press_to_view,"Πατήστε εδώ για
+να δείτε την ταμπέλα"
+out_of_moves.title.almost_there,Έτσι Κοντά...
+out_of_moves.title.regular,Εξαντλήθηκαν οι κινήσεις
+outofgems.button,Κατάστημα
+outofgems.message,Έχεις εξαντλήσει τα δαχτυλίδια. Επίσκεψη το κατάστημα για να πάρεις λίγα ακόμα!
+outofgems.title,Δεν υπάρχουν αρκετά Λίθοι.
+page.loading.hint_1,Φόρτωση...
+page.loading.hint_2,Αποτελέσματα αποδόσεων 💎💎💎
+page.loading.hint_3,"Μην ανησυχείς, δεν είναι κολλημένο! 😜"
+page.loading.hint_4,Το παιχνίδι θα φορτωθεί σύντομα! 🚀
+page.loading.hint_5,Το πρώτο φορά φόρτωσης θα διαρκέσει λίγο μεγαλύτερο👌
+page.loading.hint_6,🔥 Σχεδόν εκεί...👾
+page.loading.hint_7,Μόνο μικρότερο λιγότερο απομένει 😊
+placeholder.hint_daily,Ολοκλήρωσε 10 επίπεδα για να ξεκλειδώσεις!
+placeholder.timestring,12ω 34λ 56δ
+placeholder.title_daily,"Καθημερινό Πρόκληση
+Κλειδωμένο"
+popup_name.accept_name,Συνέχεια
+popup_name.not_now,Όχι τώρα
+prelevel_text.002,"Συλλέξτε περισσότερα <font color=""\#ff5503"">Κόκκινα Κομμάτια</font> από τον αντίπαλό σας!"
+prelevel_text.004,"Συλλέξτε περισσότερα <font color=""\#ff8800"">Καρότα</font> από τον αντίπαλό σας!"
+prelevel_text.006,"Καθαρίστε περισσότερο <font color=""\#4499ff"">Πάγο</font> από τον αντίπαλό σας!"
+promo_reforged.button,Απαίτηση
+promo_reforged.text,"Χαιρετισμοί! Έχουμε ξεκινήσει ένα νέο μοντέλο παιχνιδιού - Skydom Reforged! Για να γιορτάσουμε την έναρξη, δίνουμε δωρεάν Mega Booster pack! Θέλετε να το κλέψετε τώρα;"
+promo_reforged.title,Ανακατασκευασμένο Skydom!
+rate_us.description,Πως σου αρέσει το Skydom;
+rate_us.feedback.cancel,Όχι τώρα
+rate_us.feedback.description,Εισάγετε το email σας αν θέλετε να λάβετε μια απάντηση.
+rate_us.feedback.email_hint,Ηλεκτρονικό ταχυδρομείο.
+rate_us.feedback.message_hint,Πώς μπορούμε να βελτιώσουμε το παιχνίδι για εσάς;
+rate_us.feedback.submit,Υποβάλετε
+rate_us.star_1,Απέναντι σε αυτό.
+rate_us.star_2,Δεν μου άρεσε.
+rate_us.star_3,Είναι ΟΚ
+rate_us.star_4,Σου άρεσε.
+rate_us.star_5,Αγαπήσαμε το!
+rate_us.submit,Υποβάλετε
+rate_us.write_review.cancel,Όχι τώρα
+rate_us.write_review.google_play,Μοιραστείτε τις σκέψεις σας για το παιχνίδι ή βαθμολογήστε το στο Google Play!
+rate_us.write_review.submit,Πρόθυμα!
+rate_us.write_review.yandex,Μοιραστείτε τις σκέψεις σας για το παιχνίδι ή βαθμολογήστε το στο Yandex Games!
+rematch_pvp.asks_for_rematch_draw,#name θέλει άλλη προσπάθεια.
+rematch_pvp.asks_for_rematch_player_lose,#name προσφέρει επανάληψη!
+rematch_pvp.asks_for_rematch_player_won,#name θέλει ένα επανάληψη!
+reward.coins,Νομίσματα
+reward.gems,Κουκούλες
+reward.lives,Ζωές
+reward.prelevel.add_bomb,Ενισχυτής Βόμβας
+reward.prelevel.add_line,Γραμμή Ενισχυτής
+reward.prelevel.add_omni,Φωτιστικό Ενισχυτή
+reward.prelevel.add_tint,Ενισχυτής ζωγραφικής.
+reward.prelevel.double_fly,Φαιντερφλαι x2 Ενισχυτής
+reward.tickets,Τα διακριτικά
+reward.undo,Άνοδος
+search.cannot_connect,Δεν υπάρχει σύνδεση στο διαδίκτυο.
+search.failed,Ωχ! Κάτι πήγε στραβά...
+search.loading,Φόρτωση...
+search.playing_with_trainer,Παίζοντας με τον Διευθυντή
+search.readying,Βρέθηκε αντίπαλος!
+search.readying_rematch,Προετοιμασου!
+search.rejected,Ο αντίπαλος δραπέτευσε.
+search.searching,Αναζητώντας αντίπαλο...
+search.vs,ΕΝΑΝΤΙΟΝ
+search.waiting_opp,Αναμονή για αντίπαλο...
+settings.change_avatar,Αλλαγή Εικόνας Προφίλ
+settings.change_avatar.connect_fb,Συνδέστε
+settings.change_avatar.continue,Συνέχεια
+settings.change_avatar.title,Επιλέξτε νέα εικόνα προφίλ
+settings.change_avatar.warning,"Σημείωση:
+- Μπορείς να αλλάξεις την εικόνα του προφίλ σου ΜΟΝΟ ΜΙΑ ΦΟΡΑ
+- Συνδέσου με το Facebook για να χρησιμοποιήσεις την εικόνα του προφίλ του Facebook"
+settings.change_avatar.warning_no_fb,Σημείωση: Μπορείτε να αλλάξετε την εικόνα του προφίλ σας μία φορά μόνο.
+settings.change_name,Αλλάξτε Όνομα
+settings.change_name.accept_name,Συνέχεια
+settings.change_name.do_not_match,Τα ονόματα δεν ταιριάζουν. Παρακαλώ δοκιμάστε ξανά.
+settings.change_name.edit,Εισάγετε νέο όνομα:
+settings.change_name.reenter,Εισάγετε ξανά το νέο σας όνομα:
+settings.change_name.same_name,Νέο όνομα ταιριάζει με τα υπάρχοντα.
+settings.change_name.too_long,Αυτό το όνομα είναι πολύ μεγάλο - όριο 15 συμβόλων
+settings.change_name.too_short,Αυτό το όνομα είναι πολύ μικρό =)
+settings.change_name.warning,Σημείωση: Μπορείτε να αλλάξετε το όνομά σας μία φορά μόνο.
+settings.confirm_avatar.cancel,Ακύρωση
+settings.confirm_avatar.change,Αλλαγή
+settings.confirm_avatar.title,"Είσαι σίγουρος ότι θέλεις να αλλάξεις
+την εικόνα του προφίλ σου;
+Η νέα εικόνα του προφίλ σου:"
+settings.confirm_avatar.warning,Σημείωση: Μπορείτε να αλλάξετε την εικόνα του προφίλ σας μία και μόνο φορά.
+settings.confirm_name.cancel,Ακύρωση
+settings.confirm_name.change,Επιβεβαιώστε
+settings.confirm_name.title,Είσαι σίγουρος/η ότι θέλεις να αλλάξεις το όνομά σου; Το νέο σου όνομα θα είναι:
+settings.confirm_name.warning,Σημείωση: Μπορείτε να αλλάξετε το όνομά σας μία φορά μόνο.
+settings.connect_fb,Συνδέστε το Facebook
+settings.connect_ok,Συνδέστε το Odnoklassniki
+settings.connect_vk,Συνδέστε το VK
+settings.connect_y8,Συνδέστε Y8
+settings.connect_yandex,Συνδέστε το Yandex
+settings.connected_fb,Facebook
+settings.connected_ok,Odnoklassniki
+settings.connected_vk,VK
+settings.connected_y8,Y8
+settings.connected_yandex,Yandex
+settings.coupon,Κωδικός Προώθησης
+settings.coupon_title,Κωδικός Προώθησης
+settings.coupon.enter,Εφαρμογή
+settings.coupon.enter_hint,Εισάγετε τον κωδικό προώθησής σας εδώ
+settings.coupon.invalid_code,Αυτός ο κωδικός δεν είναι έγκυρος. Παρακαλώ δοκιμάστε έναν άλλο κωδικό. #e
+settings.coupon.missing_code,Εισάγετε τον κωδικό προώθησής σας #e90047
+settings.coupon.ok,Επιτυχής εξαργυρώσεις κωδικού!
+settings.credits,Πιστωτικές Μονάδες
+settings.eula,Όροι Χρήσης
+settings.fb_hint,Συνδέσου στο Facebook για να παίξεις με φίλους και να συγχρονίσεις την πρόοδό σου!
+settings.general,ΓΕΝΙΚΑ
+settings.generate_key,Δημιουργήστε κώδικα.
+settings.invite_friends,Προσκαλέστε Φίλους
+settings.language,Γλώσσα
+settings.language_header,ΕΠΙΛΕΞΤΕ ΓΛΩΣΣΑ
+settings.move_hints,Υποδείξεις
+settings.music,Μουσική
+settings.networks,Συνδέσεις
+settings.networks_hint,Συνδέστε τα κοινωνικά δίκτυα για να παίξετε με φίλους και να συγχρονίσετε την πρόοδό σας!
+settings.notifications,Ειδοποιήσεις
+settings.notifications.daily,Καθημερινό Πρόκληση
+settings.notifications.disable_all,Απενεργοποιήστε όλα
+settings.notifications.disable_night,Απενεργοποιήστε από τις 11μμ μέχρι τις 8πμ.
+settings.notifications.gifts,Δώρα
+settings.notifications.others,Άλλες Υπενθυμίσεις
+settings.open_support,Υποστήριξη Παικτών
+settings.open_vk_group,Ομάδα Παιχνιδιού
+settings.player_id,Αντιγράψτε τον Αναγνωριστικό Παίκτη
+settings.policy,Πολιτική Απορρήτου.
+settings.rate_us,Βαθμολογήστε μας!
+settings.report_problem,Αναφέρετε ένα θέμα.
+settings.sound,Ήχος
+settings.support,ΥΠΟΣΤΗΡΙΞΗ
+settings.telegram_channel,Ακολουθήστε το κανάλι μας Telegram
+settings.telegram_channel_hint,Όλες οι τελευταίες ειδήσεις για το Skydom!
+settings.telegram_support,Φίλοι συζήτησης στο Telegram
+settings.title,Ρυθμίσεις
+settings.update,Ενημέρωση
+settings.y8_hint,Συνδέσου στο Y8 για να συγχρονίσεις την πρόοδό σου στο διαδίκτυο!
+settings.yandex_hint,Συνδέσου με το Yandex για να συγχρονίσεις την πρόοδό σου διαδικτυακά!
+shop.gems_restored.accept,Ωραία!
+shop.gems_restored.title,Ολοκλήρωση αγοράς λίθων
+shop.not_available,Δεν διατίθεται
+shop.remove_ads_remain_time,Οι διαφημίσεις αφαιρέθηκαν για #time
+shop.remove_ads_text,"Αφαιρέστε τις διαφημίσεις μεταξύ των επιπέδων
+με οποιαδήποτε αγορά!"
+shop.remove_ads_timed,"Αφαιρέστε τις διαφημίσεις μεταξύ των επιπέδων
+με οποιαδήποτε αγορά για ένα μήνα."
+social_notification.button,Συνδέστε
+social_notification.message,Συνδέσου σε ένα κοινωνικό δίκτυο για να συγχρονίσεις την πρόοδό σου online!
+social_notification.no_post_hint,Δεν θα δημοσιεύουμε ποτέ χωρίς την άδειά σας.
+social_notification.title,Αποθηκεύστε την πρόοδό σας.
+social_share.button,Κοινοποίηση
+social_share.chooser_hint,Κοινοποίηση μέσω
+social_share.message,Γεια σου! Ελέγξτε αυτό το μοναδικό PvP Match-3 παιχνίδι! Αποκτήστε το στο https://PecPoc.com
+social_share.subject,Ελέγξτε το νέο διασκεδαστικό παιχνίδι - Skydom!
+social_share.title,"Μοιράσου το παιχνίδι με άλλους!
+Είναι πιο διασκεδαστικό να παίζεις με φίλους!"
+tempkey_login.button,Συνέχεια
+tempkey_login.empty_key,Δεν έχετε εισάγει κάποιο κωδικό.
+tempkey_login.input.default_hint,Εισάγετε κωδικό
+tempkey_login.invalid_key,Λανθασμένος κωδικός
+tempkey_login.message_top,"Συνεχίστε να παίζετε εδώ - δείτε τον κωδικό στις Ρυθμίσεις κάτω από ""Δημιουργία κωδικού""."
+tempkey_login.no_connection,Δεν μπορούσα να συνδεθώ.
+tempkey.fail.button,Εντάξει.
+tempkey.fail.message,Ελέγξτε την σύνδεσή σας στο διαδίκτυο ή δοκιμάστε αργότερα.
+tempkey.fail.title,Δεν μπορούσα να δημιουργήσω κώδικα.
+tempkey.ok.copied,Αντιγράφηκε!
+tempkey.ok.copy,Αντιγράφω
+tempkey.ok.hint,Ο κωδικός λήγει μετά από 4 ώρες.
+tempkey.ok.message,#tempkey
+tempkey.ok.title,Ο κωδικός σας:
+tickets_shop.boost_text,x2 γεμίστε ταχύτητα
+tickets_shop.buy_all,Αγοράστε #amount
+tickets_shop.hint,Χρειάζεσαι Τοκεν για να παίξεις στην Καθημερινή Πρόκληση.
+tickets_shop.hint_out_of,"Δεν υπάρχουν πια Ευτυχισμένα Κουπόνια <font color=""\#e90047"">#e</font>"
+tickets_shop.recharge,Νέο δείγμα σε: #time
+tickets_shop.title,Τα διακριτικά
+tickets_shop.watch_ad_button,Παρακολουθήστε
+tickets_shop.watch_ad_text,Λάβετε 1 δωρεάν.
+time.days_hours,"#days<font size=""-15""> </font><font size=""-10"">d</font> #hours<font size=""-15""> </font><font size=""-10"">h</font>"
+time.hours,"#hours<font size=""-15""> </font><font size=""-10"">h</font>"
+time.hours_minutes,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #minutes<font size=""-15""> </font><font size=""-10"">min</font>"
+time.hours_minutes_seconds,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #minutes<font size=""-15""> </font><font size=""-10"">min</font> #seconds<font size=""-15""> </font><font size=""-10"">sec</font>"
+time.hours_seconds,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #seconds<font size=""-15""> </font><font size=""-10"">sec</font>"
+time.less_than_minute,"1<font size=""-15""> </font><font size=""-10"">min</font>"
+time.minutes,"#minutes<font size=""-15""> </font><font size=""-10"">min</font>"
+time.minutes_seconds,"#minutes<font size=""-15""> </font><font size=""-10"">min</font> #seconds<font size=""-15""> </font><font size=""-10"">sec</font>"
+time.seconds,"#seconds<font size=""-15""> </font><font size=""-10"">sec</font>"
+tutorial_home.play,Παίξτε
+tutorial.001.dialog_tutorial,"Συγκρίνετε <font color=""\#5885b8"">3 κομμάτια του ίδιου χρώματος σε μια γραμμή</font> για να τα αφαιρέσετε."
+tutorial.001.hint,"Στόχος
+Συλλέξτε 12 παραλλαγές πράσινου!"
+tutorial.001.turn_1,Συγκρίνετε 3 κομμάτια του ίδιου χρώματος ανταλλάζοντας τα γειτονικά.
+tutorial.002.hint,Συλλέξτε περισσότερα κίτρινα κομμάτια από τον αντίπαλό σας!
+tutorial.skip,Παράλειψη
+undo_shop.buy_undos,Πάρτε #count για
+undo_shop.hint,Αναιρέστε την τελευταία σας κίνηση!
+undo_shop.recharge,Επόμενη αναίρεση σε: #time
+undo_shop.title,Αναίρεση
+undo_shop.watch_ad_button,Παρακολουθήστε
+undo_shop.watch_ad_text,Λάβετε 1 δωρεάν.
+undo_shop.you_have,Έχετε #amount αναίρεσης
+update.button,Ενημέρωση
+update.new_version,Ενημερώστε την τελευταία έκδοση!
+update.new_version_value,"<font color=""\#5885b8"">#έκδοση"
+update.old_version,Χρησιμοποιείτε μια παλαιότερη έκδοση.
+update.old_version_value,"<font color=""\#a5a7aa"">#version"
+update.text,"Χρησιμοποιείς μια παλιά έκδοση.
+Παρακαλώ ενημερώστε στην τελευταία έκδοση!"
+update.title,Νέα έκδοση διαθέσιμη!
+update.web.button,Ανανέωση
+update.web.message,Παρακαλώ ανανεώστε τη σελίδα.
+update.web.title,Νέα έκδοση διαθέσιμη!
+vk_login_failed.message,Δεν μπορούσα να συνδεθώ στο VK. Θα δοκιμάσω ξανά;
+vk_promo.title,Δώρο από τον VK!
+vk.share_tick,Μοιραστείτε
+watch_for_gems.button,Παρακολουθήστε
+watch_for_gems.text,+#amount
+web.webg_context_lost,"Περιβάλλον WebGL χαμένο, επαναφορά..."
+welcome_bonus.speech_1,"Γεια σου, #PlayerName!
+Έχω κάποια δώρα για εσένα.
+Διάλεξε ένα!"
+welcome_bonus.speech_2,"Νους ενεργείται ... Ωμμμ!
+Σκέφτηκα κάποια δώρα και δείτε τι συνέβη =)"
+welcome_bonus.speech_3,Βρήκα δύο κασετίνες ενώ δεν ήσουνε εκεί! Άνοιξε μία!
+welcome_bonus.speech_4,"Ωραίο να σε δω πίσω, #PlayerName!
+Δες τι πέφτει από τα νεφά!"
+welcome_bonus.speech_5,"Τα γερακιά έφτασαν...
+Φαίνεται ότι δεν μόνο παιδιά μας φέρνουν!"
+welcome_bonus.speech_6,"Ωραίο να σε δω πίσω, #PlayerName!
+Διάλεξε ένα κουτί!"
+welcome_bonus.speech_7,"Με λείπεις πολύ, #PlayerName, οπότε έχω έτοιμο ένα μικρό δώρο για εσένα!"
+welcome_bonus.speech_8,"Παραδοσιακά πράγματα συμβαίνουν. Κάθομαι, ξεκουράζομαι και έχουν έρθει 2 κιβώτια από το μπλε!"
+welcome_pack.open,Ανοιχτό
+welcome_pack.play,Παίξτε
+welcome_pack.speech_1,"Πολύ καιρό δεν βλέπω, #PlayerName! Έχω ένα δώρο για σένα!"
+welcome_pack.speech_2,"Ω, #PlayerName, μου λείπεις! Ας ανοίξουμε το δώρο και να παίξουμε!"
+welcome_pack.speech_3,"#PlayerName, χαίρομαι που σε βλέπω ξανά! Βιαστείτε και ανοίξτε το στήθος."
+welcome_pack.speech_gift,"#PlayerName, έχουμε ένα ειδικό δώρο για εσάς =) Ανοίξτε το γρήγορα!"
+welcome_pack.speech_reforged,"#PlayerName, έχουμε ένα ειδικό δώρο για εσένα =) Ανοίξτο το ταχύ!"
+y8_login_failed.message,Δεν μπορούσα να συνδεθώ στο Y8. Θα δοκιμάσω ξανά;
+yandex_login_failed.message,Não foi possível conectar ao Yandex. Tente novamente?
+yandex_notification.button,Conectar
+yandex_notification.message,Ligue para o Yandex para sincronizar o seu progresso online!
+yandex_notification.title,Salvar seu progresso
+gamemode.capital.leaf,ΦΥΛΛΑ
+yandex_login_has_attachment.message,Ένας άλλος λογαριασμός Yandex έχει συνδεθεί σε αυτό το προφίλ παιχνιδιού.
+fb_login_has_attachment.message,Ένας άλλος λογαριασμός Facebook ήταν συνδεδεμένος με αυτό το προφίλ παιχνιδιού.
+ok_login_has_attachment.message,Ένα άλλο λογαριασμό OK έχει συνδεθεί με αυτό το προφίλ παιχνιδιού.
+vk_login_has_attachment.message,Ένας άλλος λογαριασμός VK έχει συνδεθεί με αυτό το προφίλ παιχνιδιού.
+y8_login_has_attachment.message,Ένας άλλος λογαριασμός Y8 ήταν συνδεδεμένος με αυτό το προφίλ παιχνιδιού.
+android_app.text.beta,Αγαπητοί φίλοι! Είμαστε χαρούμενοι να σας ενημερώσουμε ότι ξεκινάμε το δοκιμαστικό διάστημα του παιχνιδιού μας στο Android. Καλωσορίζουμε όλους!
+bookmark.play,Σπίτι
+bookmark.quest,Αποστολές.
+chest_opening.bronze,Χαλκός
+chest_opening.continue,Εύκολο
+chest_opening.division,ΙΙΙ Διαίρεση
+chest_opening.golden,Χρυσός
+chest_opening.silver,Ασημένιο
+chest_opening.togoldenleague,"Μπορείς να φτάσεις
+στην Χρυσή Λίγκα;"
+chest_opening.welcome,Καλώς ήρθατε στα Πρωταθλήματα της Αρένας Ταιριοποίησης!
+chest_opening.yourebronze,"Φτάσατε
+Παγκόσμια Λιγκ III Χρυσού"
+chest.open,Ανοιχτό
+chest.opens_now,Ωραία! Το σφαίρι είναι σου για να ανοίξεις!
+chest.wins_left_1,Ένα νέο νίκη!
+chest.wins_left_2,Μόλις 2 νίκες και είναι δική σου!
+chest.wins_left_3,Συγχαρητήρια! Ακόμα 3 νίκες!
+chest.wins_left_4,Τέσσερις νίκες για να ανοίξεις το κουτί!
+chest.wins_to_open,#num νίκες για να ανοίξετε
+forge_help.block_1,Κερδίστε διαμαχές για να κερδίσετε νομίσματα!
+forge_help.block_2,Χρησιμοποίησε νομίσματα για να ξεκινήσεις Φοργκες και να πάρεις χρυσά ζυγά!
+forge_help.block_3,Συλλέξτε χρυσά καράτια για να πάτε πάνω στις ομάδες!
+forge_help.block_4,Νέες ομάδες - νέα επίπεδα!
+forge_help.continue,Το έχω.
+forge_help.title,Λίγκες και Φοργκές
+forge.add,Προσθέστε
+forge.boost,Ενίσχυση
+forge.boost_free,"Ας ενισχύσουμε αυτό το Forge!
+Πρώτη φορά είναι δωρεάν!"
+forge.boost_free_ok,Ενίσχυση
+forge.buy_1,Χαλκοχύτης
+forge.buy_2,Αργυρού Πηγής
+forge.buy_3,Χρυσή Φορέας
+forge.buy_4,Ρουμπί Forge
+forge.buy_now,Προσθέστε
+forge.cheat_boost,Κανονισμούς; Κανονισμούς!
+forge.name_1,Χαλκοχύτης
+forge.name_2,Αργυρού Πηγής
+forge.name_3,Χρυσή Φορέας
+forge.name_4,Ρουμπί Forge
+forge.not_enough_coins,Δεν έχεις αρκετά νομίσματα για να ξεκινήσεις!
+forge.ok,Εντάξει.
+forge.open,Ανοιχτό
+forge.open_now,Άνοιξε τώρα
+forge.other_in_progress,Ένα άλλο Φορέας είναι ακόμα σε εξέλιξη!
+forge.popup_boost,Ενίσχυση -30 λεπτά
+forge.popup_boost_speedup,Ενίσχυση -15 λεπτά
+forge.progress,#bars σε: #time
+forge.speedup_no,Όχι
+forge.speedup_offer,Μπορείς να επιταχύνεις την Τηξίπολη κατά 2x;
+forge.speedup_ok,Εντάξει.
+forge.speedup_success,Η Φοργκέ έχει ενισχυθεί!
+forge.speedup_yes,Ναι
+forge.start,Ξεκίνημα
+forge.time_1,3 ώρες
+forge.time_2,6 ώρες
+forge.time_3,12 ώρες
+forge.time_4,24 ώρες
+forge.tutorial.collect_coins,Κερδίστε 1000 νομίσματα για να ξεκινήσετε την Ανάπτυξη!
+forge.tutorial.open_now,"Ωραία! Η λήξη έγινε!
+Μπορούμε να ανοίξουμε την Άποθήκη!"
+forge.tutorial.smelt_more,Συνεχίστε να κτίζετε χρυσά ράβδους για να φτάσετε στην επόμενη διαίρεση.
+forge.tutorial.start_forge,"Μπράβο, κέρδισες 1000 μονάδες!
+Τώρα μπορούμε να ξεκινήσουμε την Οξύπλαση!"
+forge.tutorial.wait_ready,Κερδίστε περισσότερα νομίσματα ενώ η Φορέα σας δουλεύει!
+forge.watch_ad,Παρακολουθήστε
+gamemode.chocolate,Λάβα
+gamemode.diamonds,Διαμάντια
+gamemode.energycube,Μαρμελάδα
+gamemode.fishes,Καρότα
+gamemode.food,Καρπούζια
+gamemode.fossils,Οκτώπους
+gamemode.grass,Φυτό
+gamemode.honeybee,Αρκούδες
+gamemode.ice,Πάγος
+gamemode.jam,Ενέργεια
+gamemode.road,Γουρουνάκι
+gamemode.stone,Πέτρες
+gamemode.tasks,Παραγγελίες
+gamemode.tiles,Φυτό
+home.bars_need_more,Χρειάζεστε #more
+home.bars_progress,#current / #total
+home.bet,Παίξτε #count μονάδες.
+home.coins,#count
+home.gems,#count
+home.hint_quest_book,Νέες αποστολές διαθέσιμες!
+home.hint_quest_book.claim,Γεια! Κάποιος θα απολαμβάνει μια ανταμοιβή!
+home.hint_quest_book.new,Ωχ! Νέα αποστολή!
+home.league_indev,Επόμενη ομάδα σύντομα!
+home.rematch.asks_for_rematch_draw,#name θέλει άλλη προσπάθεια.
+home.rematch.asks_for_rematch_player_lose,#name προσφέρει επανάληψη.
+home.rematch.asks_for_rematch_player_won,#name ζητά να ξαναπαίξει!
+home.xp,#count
+ingame_booster_shop.buy,Πάρτε #count για
+ingame_booster_shop.hint.cross,Χρησιμοποίησε το Μαγικό Ραβδί για να αφαιρέσεις μία γραμμή και μία στήλη των κομματιών.
+ingame_booster_shop.hint.hammer,Αφαίρεσε τα πλακίδια με το Χάμαρ!
+ingame_booster_shop.hint.hand,Χρησιμοποίησε το Γάντι για να ανταλλάξεις οποιαδήποτε γειτονικά κομμάτια.
+ingame_booster_shop.title.cross,Μαγικό Ραβδί
+ingame_booster_shop.title.hammer,Μπάντος
+ingame_booster_shop.title.hand,Γάντι
+league.Bronze,Λιγκα Χάλκινου
+league.div_1,Τμήμα Ι
+league.div_2,Τμήμα Β
+league.div_3,Τμήμα Τρίτο
+league.div_4,Τμήμα IV
+league.div_5,Τμήμα Ε΄
+league.E001,Χρυσός III
+league.E002,Χρυσός II
+league.E003,Χρυσός I
+league.E004,Ασημένιο IV
+league.E005,Ασημένιο ΙΙΙ
+league.E006,Ασημένιο Β'
+league.E007,Ασημένιο I
+league.E008,Χρυσή V
+league.E009,Χρυσή IV
+league.E010,Χρυσή III
+league.E011,Χρυσή II
+league.E012,Χρυσή I
+league.E013,Πλατίνα V
+league.E014,Πλατινέμ IV
+league.E015,Πλατινέμ III
+league.E016,Πλατίνα II
+league.E017,Πλατίνα I
+league.E018,Μάστερ 1
+league.Gold,Χρυσή Λίγκα
+league.Master,Κύρια Λίγκα
+league.MasterN,Μάστερ #div
+league.GrandMaster,Μεγαλομάθης
+league.GrandMasterN,Μεγαλομάθημα #div
+league.Platinum,Πλατινέ Λιγκ
+league.Silver,Λίγκα Ασημένιου
+levelup.continue,Ωραίο!
+levelup.reward,Ανταμοιβή
+levelup.title_division,"Συγχαρητήρια!
+Νέα διαίρεση!"
+levelup.title_league,"Συγχαρητήρια!!
+Νέα λίγκα!"
+ma2transfer.install,Εγκαταστήστε
+ma2transfer.message,"Το Match Arena μετακινήθηκε στη νέα Εφαρμογή!
+
+Σημαντικό! Χρησιμοποιήστε τον παρακάτω κωδικό για να μεταφέρετε την πρόοδό σας."
+nickname.tutorial_004,Σύμβουλος Μιχαήλ
+nickname.tutorial_005,Ο Καθηγητής Φρανκ
+nickname.tutorial_006,Βασίλισσα Matcha
+nickname.tutorial_007,Καθηγητής Λέων
+nickname.tutorial_008,Προπονητής Καρλ
+nickname.tutorial_009,Εκπαιδευτής Μπέαρντι
+nickname.tutorial_010,Γουρού Βίκυ
+placeholder.hint_friends,"Προκαλέστε τους φίλους σας
+και δείξτε τι μπορείτε να κάνετε!"
+placeholder.hint_quests,"Φτάστε την Χαλκή Λίγκα I
+για να ανακαλύψετε!"
+placeholder.hint_settings,Θα είμαι έτοιμος σύντομα :)
+placeholder.title_friends,"Παίξτε με φίλους
+σύντομα έρχεται"
+placeholder.title_quests,"Εκπληκτικές Αποστολές
+Κλειδωμένο"
+placeholder.title_settings,Ρυθμίσεις υπό κατασκευή
+quest_help.block_1,Ολοκλήρωσε τις αποστολές για να λάβεις ανταμοιβές!
+quest_help.block_2,Ολοκλήρωσε όλες τις Αποστολές για να ανοίξεις το κουτί.
+quest_help.block_3,"Ολοκλήρωσε όλες τις Αποστολές πριν την επόμενη Διαίρεση, αλλιώς θα χάσεις το κουτί!"
+quest_help.continue,Το έχω.
+quest_help.title,Βιβλίο Αποστολής
+quest.aquarium,Συλλέξτε #amount ψάρια
+quest.bar,#progress / #amount
+quest.bar_completed,Η αποστολή ολοκληρώθηκε!
+quest.bar_last_try,Προηγούμενη προσπάθεια: #progress από #amount
+quest.bar_special_not_tried,#progress / #amount
+quest.best_so_far,Καλύτερο αποτέλεσμα: #progress
+quest.butterfly,Συλλέξτε #amount πεταλούδες
+quest.buy_now,Πάρτε τώρα #amount
+quest.cat,Συλλέξτε #amount Γατάκια
+quest.chip_destroy,Συλλέξτε #amount από οποιαδήποτε κομμάτια.
+quest.chip_destroy_bird,Συλλέξτε #amount πουλιά
+quest.chip_destroy_blue,Συλλέξτε #amount μπλε κομμάτια
+quest.chip_destroy_diamond,Συλλέξτε #amount Διαμάντια
+quest.chip_destroy_fish,Συλλέξτε #amount Καρότα
+quest.chip_destroy_fish_blue,Συλλέξτε #amount μπλε Καρότα
+quest.chip_destroy_fish_green,Συλλέξτε #amount πράσινα Καρότα
+quest.chip_destroy_fish_orange,Συλλέξτε #amount πορτοκαλί Καρότα
+quest.chip_destroy_fish_purple,Συλλέξτε #amount μωβ Καροτσάκια
+quest.chip_destroy_fish_red,Συλλέξτε #amount κόκκινα Καρότα
+quest.chip_destroy_fish_yellow,Συλλέξτε #amount κίτρινα καρότα
+quest.chip_destroy_food,Αφαιρέστε #amount Καρπούζια
+quest.chip_destroy_frog,Συλλέξτε #amount Βάτραχοι
+quest.chip_destroy_green,Συλλέξτε #amount πινελιές πράσινου χρώματος.
+quest.chip_destroy_orange,Συλλέξτε #amount κομμάτια πορτοκαλιού
+quest.chip_destroy_purple,Συλλέξτε #amount μωβ περιστατικά
+quest.chip_destroy_red,Συλλέξτε #amount κόκκινα κομμάτια
+quest.chip_destroy_snail,Συλλέξτε #amount κατασκοπίδια
+quest.chip_destroy_super,Συλλέξτε #amount εξαιρετικά κομμάτια
+quest.chip_destroy_wafer,Συλλέξτε #amount χρυσά ορυχεία
+quest.chip_destroy_with_bomb,Συλλέξτε #amount κομμάτια με τη χρήση της Βόμβας!
+quest.chip_destroy_with_line,Συλλέξτε #amount κομμάτια με την επιπλέον γραμμή!
+quest.chip_destroy_with_mine,Συλλέξτε #amount κομμάτια με την επιπλέον προνόμιο του Φαιντερφλάι.
+quest.chip_destroy_with_omni,Συλλέξτε #amount κομμάτια με την επιπλέον προνόμιο του Αστραπής!
+quest.chip_destroy_yellow,Συλλέξτε #amount κίτρινα κομμάτια
+quest.chip_destroy_waterfish,Συλλέξτε #amount θαλασσινά ψάρια
+quest.chip_recolor,Αναφράστε #amount κομμάτια με την επιλογή Μπονάτο Μολύβι!
+quest.claim,Αποκτήστε Ανταμοιβή
+quest.complete_chest,Όλες οι αποστολές ολοκληρώθηκαν.
+quest.cover_destroy_bee,Συλλέξτε #amount Αρκούδες
+quest.cover_destroy_bound,Ξεκλείδωσε #amount κομμάτια
+quest.cover_destroy_chocolate,Αφαίρεσε #amount κομμάτια με Λάβα!
+quest.cover_destroy_fizzblue,Συλλέξτε #amount fizz
+quest.cover_destroy_fizzpurple,Συλλέξτε #amount φυσαλίδα
+quest.cover_destroy_frozen,Αφαιρέστε το Πάγο από #amount κομμάτια
+quest.cover_destroy_honey,Καθαρίστε #amount τουλάχιστον κεριά με τη μέλι!
+quest.cover_destroy_hotlava,Αφαίρεσε #amount κομμάτια Καύσωνας Λάβας!
+quest.cover_destroy_receiver_energycube,Συλλέξτε #amount ζαχαροπλαστικά κρύσταλλα
+quest.cover_destroy_receiver_jam,Συλλέξτε #amount ενέργεια κρύσταλλα
+quest.cover_destroy_statue,Συλλέξτε #amount σκύλους
+quest.cover_destroy_stone,Αφαιρέστε #amount Κομμάτια Πέτρας
+quest.cover_destroy_leaf,Καθάρισε #amount φύλλα
+quest.division_done_card,Νέες αποστολές στην επόμενη διαίρεση!
+quest.duck,Συλλέξτε #amount πάπιες
+quest.energy_flow,Σύρετε την Ενέργεια μέσα από #amount τα πλακίδια
+quest.energycube_flow,Συμπληρώστε #amount Πλακίδια με Μαρμελάδα!
+quest.fossil,Συλλέξτε #amount Οκτώπους
+quest.gum,Συλλέξτε #amount κομμάτια γαμάτου
+quest.new_quest,Νέα αποστολή!
+quest.new_quest_in,Επόμενη αποστολή σε:
+quest.on_arena_splash_score,Κερδίστε #amount στο Arena Boom!
+quest.on_arena_splash_use_bonus,Αποθηκεύστε #amount μπόνους για το Arena Boom!
+quest.plate_destroy,Αφαιρέστε #amount Διαχωρισμούς
+quest.play,Παίξτε
+quest.pvp_score,Κατακτήστε #amount σε δούλες.
+quest.reward,Ανταμοιβή:
+quest.snakes,Συλλέξτε #amount Φιδιά
+quest.tile_destroy_gold,Συλλέξτε #amount τούβλα με Φυτιά!
+quest.tile_destroy_grass,Συλλέξτε #amount τούβλα με Φυτιά!
+quest.title,Βιβλίο Αποστολής
+quest.use_bonus,Χρησιμοποιήστε #amount μπόνους
+quest.use_bonus_bomb,Χρησιμοποιήστε #amount μπόνους Βόμβα
+quest.use_bonus_line,Χρησιμοποιήστε #amount μπόνους Γραμμή
+quest.use_bonus_mine,Χρησιμοποιήστε #amount μπόνους Firefly
+quest.use_bonus_omni,Χρησιμοποίησε το bonus Lightning #amount φορές!
+quest.use_bonus_tint,Χρησιμοποιήστε #amount μπόνους ζωγραφικής.
+quest.use_combo_bomb_bomb,Κάνε combo-bonus Bomb+Bomb #amount φορές!
+quest.use_combo_bomb_omni,Κάνε combo-bonus Αστραπή+Βόμβα #amount φορές!
+quest.use_combo_bomb_tint,Κάνε combo-bonus Paint+Bomb #amount φορές!
+quest.use_combo_line_bomb,Κάνε το κομβο-μπόνους Βόμβα+Γραμμή #amount φορές!
+quest.use_combo_line_line,Κάνε το κομβο-μπόνους Γραμμή+Γραμμή #amount φορές!
+quest.use_combo_line_omni,Κάνε combo-bonus Αστραπή+Γραμμή #amount φορές!
+quest.use_combo_line_tint,Κάνε combo-bonus Paint+Line #amount φορές!
+quest.use_combo_mine_bomb,Κάνε combo-bonus Βόμβα+Φαιντερόφυλλο #amount φορές!
+quest.use_combo_mine_line,Κάνε combo-bonus Firefly+Line #amount φορές!
+quest.use_combo_mine_mine,Κάνε combo-bonus Firefly+Firefly #amount φορές!
+quest.use_combo_mine_omni,Κάνε combo-bonus Αστραπή+Φαιντεριά #amount φορές!
+quest.use_combo_mine_tint,Κάνε combo-bonus Paint+Firefly #amount φορές!
+quest.use_combo_omni_omni,Κάνε combo-bonus Αστραπή+Αστραπή #amount φορές!
+quest.use_combo_omni_tint,Κάνε combo-bonus Paint+Lightning #amount φορές!
+quest.use_combo_tint_tint,Κάνε combo-bonus Paint+Paint #amount φορές!
+quest.walk,Περπατήστε το Γουρούνι #amount βήματα
+quest.watch_for_new,- #time
+quest.win,Κερδίστε #amount διαμαχές
+quest.win_coins,Κερδίστε #amount μονάδες μέσα από δούλεμα!
+quest.win_hard_level,Ολοκλήρωση δύσκολου επιπέδου
+quest.win_rematch,Κερδίστε #amount επαναγώνες
+quest.win_streak,Κερδίστε #amount νικές μαζί!
+quest.chip_destroy_clam,Συλλέξτε #amount μαργαριτάρια
+quest.chip_destroy_egg,Συλλέξτε #amount Αυγά
+quest.gardenflower,Συλλέξτε #amount λουλούδια
+quest.sausages,Συλλέξτε #amount λουκάνικα
+rematch.asks_for_rematch_draw,"#name θέλει άλλη προσπάθεια
+Παίξε #bet"
+rematch.asks_for_rematch_player_lose,"Ο #name προσφέρει ένα επανάληψη.
+Ποντάρετε #bet!"
+rematch.asks_for_rematch_player_won,"#name θέλει να ξαναπαίξει!
+Ποντάρισμα #bet"
+rematch.rematch_bet,Παίξτε #bet
+report.body,
+report.subject,Πρόβλημα με το MatchArena
+reward.bars,Ταμπλέτες χρυσού
+reward.coins_amt,+#amount
+reward.gems_amt,+#amount
+reward.levels,Νέα επίπεδα
+reward.levels_amt,+#amount
+reward.levelup,"Συγχαρητήρια!
+Νέο επίπεδο!"
+reward.new_levels,"Νέα
+επίπεδα!"
+reward.talisman,Ταλισμάντες
+reward.xp_amt,+#amount
+search.prize_fund,Χρηματικό Βραβείο
+settings.friends_and_partners,Φίλοι και Συνεργάτες
+settings.language.help_us_translate,"Θέλεις να μας βοηθήσεις να μεταφράσουμε το Match Arena για τις γλώσσες που μιλάς; Στείλε μας ένα μήνυμα στο <font color=""\#0000EE"">support@matcharenagame.com."
+settings.notifications.duels,Πρόκληση σε δούλες
+shop.indev,Άφιξη σύντομα!
+splash.hint_chocolate,Αφαίρεσε όσο το δυνατόν περισσότερο Λάβα!
+splash.hint_diamonds,Συλλέξτε όσα δυνατά διαμάντια!
+splash.hint_energycube,Γεμίστε όσα περισσότερα κελιά μπορείτε με Ζέλι!
+splash.hint_fishes,Συλλέξτε όσο το δυνατόν περισσότερα Καρότα!
+splash.hint_food,Αφαίρεσε όσα περισσότερα καρύδια μπορείς!
+splash.hint_fossils,Αποθηκεύστε όσους Ακτινοπόδειλους μπορείτε!
+splash.hint_honeybee,Συλλέξτε όσο το δυνατόν περισσότερους Αρκούδες!
+splash.hint_ice,Αφαίρεσε όσο το δυνατόν περισσότερο Πάγο.
+splash.hint_jam,Γεμίστε όσα περισσότερα ταινίες με Ενέργεια μπορείτε!
+splash.hint_road,Περπάτησε τον Γουρούνι όσο το δυνατόν περισσότερο!
+splash.hint_stone,Αφαίρεσε όσο περισσότερα λίθια μπορείς!
+splash.hint_tasks,Ολοκλήρωσε όσες Παραγγελίες μπορείς!
+splash.hint_tiles,Συλλέξτε όσο το δυνατόν περισσότερο Φυτό!
+splash.mode_chocolate,Στόχος - Λάβα
+splash.mode_diamonds,Στόχος - Διαμάντια
+splash.mode_fishes,Στόχος - Καρότα
+splash.mode_food,Στόχος - Καρπούζια
+splash.mode_jam,Στόχος - Ενέργεια
+splash.mode_road,Στόχος - Γουρούνι
+splash.mode_tasks,Στόχος - Παραγγελίες
+splash.mode_tiles,Στόχος - Φύλλο
+talismans_shop.ask_button,Φειδεσμπουκ
+talismans_shop.ask_text,Ζητήστε από τους φίλους.
+talismans_shop.boost_text,x2 γεμίστε ταχύτητα
+talismans_shop.buy_all,Πάρτε #amount για
+talismans_shop.hint,Διπλασιασμένα νομίσματα κερδισμένα
+talismans_shop.recharge,Επόμενο ταλισμός σε: #time
+talismans_shop.title,Ταλισμάντες
+talismans_shop.watch_ad_button,Παρακολουθήστε
+talismans_shop.watch_ad_text,Λάβετε 1 δωρεάν.
+tickets_shop.ask_button,Φειδεσμπουκ
+tickets_shop.ask_text,Ζητήστε από τους φίλους.
+tutorial.001.collect_more_fishes,"Συλλέξτε όσα <font color=""\#5885b8"">Καρότα</font> μπορείτε!"
+tutorial.001.continue_to_collect_fishes,Συνεχίστε να συλλέγετε Καρότα!
+tutorial.001.first_swap_red_down,"Μετακίνησε το κόκκινο κομμάτι κάτω
+για να ταιριάξεις τρία σε γραμμή."
+tutorial.001.remind_collect_three_in_a_row,"Συλλέξτε <font color=""\#5885b8"">τρία κομμάτια</font> ενός χρώματος <font color=""\#5885b8"">σε μια γραμμή</font>."
+tutorial.001.second_swap_green_left,"Μετακίνησε το πράσινο κομμάτι προς τα αριστερά
+για να ταιριάξεις τρία σε μια γραμμή."
+tutorial.001.third_swap_fish,"<font color=""\#5885b8"">Μπανάνες</font> επίσης μπορούν να ταιριάξουν τρία σε μια γραμμή."
+tutorial.001.you_are_doing_well,Καλά παίζεις!
+tutorial.002.get_bonus_line,"...για να πάρεις <font color=""\#5885b8"">μπόνους - Γραμμή!</font>"
+tutorial.002.try_four_in_a_row,"Προσπάθησε να ταιριάξεις <font color=""\#5885b8"">4 σε μια γραμμή!</font>"
+tutorial.002.use_line_bonus,Συγκρίνετε τρία σε μια γραμμή με επιπλέον για να δείτε τη δύναμη της Γραμμής!
+tutorial.003.hint,Συλλέξτε περισσότερα Καρότα από τον ανταγωνιστή σας!
+tutorial.003.try_l_or_t,"Ταιριάστε τα κομμάτια <font color=""\#5885b8"">σε μορφή Τ ή Γ!</font>"
+tutorial.003.use_bomb_bonus,"Για να πάρεις <font color=""\#5885b8"">μπόνους - Βόμβα!</font>
+Ας το ξεφορτωθούμε!"
+tutorial.004.clear_gold_tiles,"Κάνε ματς στο <font color=""\#5885b8"">Χόρτο</font>
+για να το συλλέξεις!"
+tutorial.004.combine_omni_with_blue,"Ανταλλάξτε το κομμάτι <font color=""\#5885b8"">Αστραπής</font> με το μπλε κομμάτι για να αφαιρέσετε όλα τα μπλε κομμάτια από την πίνακα!"
+tutorial.004.try_five_in_a_row,"Προσπάθησε να πάρεις <font color=""\#5885b8"">5 σε γραμμή!</font>"
+tutorial.005.two_bonus_can_combine,"Οποιαδήποτε <font color=""\#5885b8"">δύο επιπλέον μπόνους</font> μπορούν να συγχωνευτούν για να πάρουν ένα ακόμα μεγαλύτερο μπόνους!"
+tutorial.007.collect_food,"Κάνε ματς δίπλα στα <font color=""\#5885b8"">Καρύδια</font>!"
+tutorial.007.move_character,"Συλλέξτε καρπούζια για να
+<font color=""\#5885b8"">προχωρήσετε με τον Γουρουνάκι!</font>"
+tutorial.008.make_mine_bonus,"Ταιριάστε τα <font color=""\#5885b8"">τέσσερα κομμάτια σε ένα τετράγωνο</font> 
+και κερδίστε μια επιπλέον επιλογή - Firefly!"
+tutorial.008.use_mine_bonus,"Συγκρίνε τρία μεταξύ τους με το <font color=""\#5885b8"">Firefly</font>
+για να το χρησιμοποιήσεις!"
+tutorial.009.make_tint_bonus,"Κάνε μια μεγάλη Τ μορφή και 
+πάρε μια επιπλέον - Ζωγραφίστε!"
+tutorial.009.use_tint_bonus,"<font color=""\#5885b8"">Το ζωγραφικό</font> μπορεί να ανταλλαχθεί με οποιοδήποτε κομμάτι!"
+level_popup.adventure.title,Επίπεδο
+lives_shop.ma_hint,Χρειάζεσαι ζωές για να συνεχίσεις να παίζεις το Adventure

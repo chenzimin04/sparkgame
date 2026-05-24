@@ -1,0 +1,33 @@
+ {
+	"size":9,
+	"stars":{"avg":5, "top":13 },
+	"fill":"up",
+	"moves":45,
+	"add":[
+		{ "x":0, "y":0, "dy":3, "dx":3, "type":"CRACKLING", "count":true },		
+		{ "x":6, "y":0, "dy":3, "dx":3, "type":"CRACKLING", "count":true },		
+		{ "x":6, "y":6, "dy":3, "dx":3, "type":"CRACKLING", "count":true },	
+		
+		{ "x":3, "y":0, "dy":1, "dx":3, "type":"BOX", "count":true },
+		
+		{ "x":3, "y":1, "dy":2, "dx":1, "type":"BOX", "count":true },
+		{ "x":5, "y":1, "dy":2, "dx":1, "type":"BOX", "count":true },
+		
+		{ "x":0, "y":3, "dy":1, "dx":4, "type":"BOX", "count":true },
+		{ "x":5, "y":3, "dy":1, "dx":4, "type":"BOX", "count":true },
+		
+		{ "x":0, "y":4, "dy":1, "dx":1, "type":"BOX", "count":true },
+		{ "x":8, "y":4, "dy":1, "dx":1, "type":"BOX", "count":true },
+		
+		{ "x":0, "y":5, "dy":1, "dx":4, "type":"BOX", "count":true },
+		{ "x":5, "y":5, "dy":1, "dx":4, "type":"BOX", "count":true },
+		
+		
+		{ "x":3, "y":6, "dy":2, "dx":1, "type":"BOX", "count":true },
+		{ "x":5, "y":6, "dy":2, "dx":1, "type":"BOX", "count":true },
+		
+		
+		{ "x":3, "y":8, "dy":1, "dx":3, "type":"BOX", "count":true }
+	],
+	"allowedGemTypes":["GEM_YELLOW","GEM_RED","GEM_GREEN","GEM_PURPLE"]
+ }

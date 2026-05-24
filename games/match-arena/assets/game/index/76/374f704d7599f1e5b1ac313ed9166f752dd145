@@ -1,0 +1,1035 @@
+ID,bg-BG
+ad_failed.button,ОК
+ad_failed.message,"В момента няма налично видео, моля опитайте отново по-късно."
+ad_failed.title,Опа...
+ad_magic.button,Гледай
+ad_magic.message,Гледай кратък клип за да получиш награда.
+ad_magic.title,Сладка Прасе-Магия
+android_app.button,Инсталирай
+android_app.text.release,"Друзи! С радост съобщаваме, че нашата игра вече е достъпна за Android. Отидете напред и изтеглете приложението!"
+android_app.title,Сега на Android!
+android_update.restart.no,По-късно
+android_update.restart.text,Инсталирай сега?
+android_update.restart.title,Актуализацията е готова!
+android_update.restart.yes,Да
+avatar_already_changed.button,ОК
+avatar_already_changed.message,Вашата профилна снимка вече е променена. Можете да промените профилната си снимка САМО ВЕДНЪЖ.
+bookmark.daily,Предизвикателство
+bookmark.friends,Приятели
+bookmark.settings,Настройки
+booster_hint.cross,%booster_shop.hint.ingame.cross%
+booster_hint.hammer,%booster_shop.hint.ingame.hammer%
+booster_hint.hand,%booster_shop.hint.ingame.hand%
+booster_shop.buy,Вземете #count
+booster_shop.hint.ingame.cross,"Използвайте Вълшебната Палка, за да премахнете един ред и една колона от фишки!"
+booster_shop.hint.ingame.hammer,"Премахнете плочките, като ги смахнете с Молотка!"
+booster_shop.hint.ingame.hand,"Използвайте Ръкавицата, за да размените всяка съседна парчета!"
+booster_shop.hint.prelevel.add_bomb,Започнете всеки ниво с бомба вече на дъската!
+booster_shop.hint.prelevel.add_line,Започнете всеки ниво с бонус Линия вече на дъската!
+booster_shop.hint.prelevel.add_omni,Започнете всеки ниво с бонус Мълния вече на дъската!
+booster_shop.hint.prelevel.add_tint,Започнете всяко ниво с бонус Малък вече на дъската!
+booster_shop.hint.prelevel.double_fly,"Удвоете всички Фаерфлайци, създадени по време на този ниво!"
+booster_shop.title.ingame.cross,Вълшебна Пръчка
+booster_shop.title.ingame.hammer,Чук
+booster_shop.title.ingame.hand,Ръкавица
+booster_shop.title.prelevel.add_bomb,Бустер Бомба
+booster_shop.title.prelevel.add_line,Бустер Линия
+booster_shop.title.prelevel.add_omni,Бустер Мълния
+booster_shop.title.prelevel.add_tint,Бустер За Оцветяване
+booster_shop.title.prelevel.double_fly,Бустър Светлинарка х2
+chest_open.collection_complete,Събрано!
+chest_open.ok,Добре
+chest_opening.button,Отлично!
+chest_opening.reward,Награда
+conflict_popup.continue,Продължи
+conflict_popup.hint_syncing,Синхронизираме...
+conflict_popup.skip,Продължете офлайн
+credits.art,Арт дизайн
+credits.artists,"Много любов на нашите приятели графични художници
+за прекрасните аватарни персонажи!
+"
+credits.gamedesign,Дизайн на играта
+credits.mentions,"Особена благодарност
+на нашите приятели ;)"
+credits.programming,Програмиране
+credits.title,Нашият екип!
+daily_help.button,ОК
+daily_help.chest,Главен приз
+daily_help.reward,Еднократна награда
+daily_help.text,"Всеки ден играчите показват своя умение и се конкурират на един уровен.
+
+Най-високото оцеляло играчче ще получи наградата на деня - Корона и Съкровищница с Драгоценности!"
+daily_help.title,Дневен Изпит
+daily_reward.button,Отлично!
+daily_reward.reward,Награда
+daily_reward.title.place_1,"Вие сте победител на Дневното Предизвикателство!
+"
+daily_reward.title.place_generic,"Дневно предизвикателство завършено
+Вие сте на \##място!"
+daily.drag_to_update,"Изтеглете, за да обновите"
+daily.epic_sunday_ribbon,Дружеско Предизвикателство
+daily.finishes_in,Предизвикателството завършва след #time
+daily.finishes_now,Предизвикателството приключи!
+daily.high_score,Нов рекорд!
+daily.medal_chest_text,Съберете #amount медали!
+daily.next_time,Следващият дневен предизвикателство ще започне след #time
+daily.next_time_now,Започна ново дневно предизвикателство!
+daily.no_yesterday_yet,Не сте участвали в предишния Дневен Изпит.
+daily.play,Играй
+daily.retry_submit,Опитай пак
+daily.rewards_tab,Награди за дневно предизвикателство
+daily.rewards.bubble,"Събирай звезди и медали,
+за да отваряш съкровищници!"
+daily.score_not_accepted,"Този резултат не се брои в таблицата с резултати, защото свършихте играта след края на Дневното Изпитание."
+daily.star_chest_claim,Отвори
+daily.star_chest_collected_text,Дойде утре за друг съкровищеница
+daily.star_chest_text,Завършете с 3 звезди 7 Дневни Предизвикателства подред!
+daily.submit_error,Не можахме да изпратим резултатите
+daily.today,Дневен Изпит
+daily.today_mark,Днес
+daily.update_error,Няма връзка с интернет
+daily.wait_text,
+daily.watch_replay.button,Гледай
+daily.watch_replay.text,Запис на играта
+daily.welcome_reward_first,%daily_help.text%
+daily.welcome_text,Ура! Започна новото Дневно Предизвикателство!
+daily.yesterday,Вчерашната Ледер
+daily.yesterday_updating,Извличане на резултати...
+demo.finished.text,"Поздравления, Вие приключихте пробната версия! Играйте пълна версия безплатно на <p class=""ma-link"">PecPoc.com<p class=""demo-hint"">Вашият прогрес няма да бъде загубен"
+demo.nag.text,"Безплатни бонуси са достъпни само в пълната версия. Продължете да играете пълната версия на <p class=""ma-link"">PecPoc.com<p class=""demo-hint"">Вашият прогрес няма да бъде загубен."
+event_ny.next_in_hint,Вземете следващия подарък в: #time
+event_ny.title,Новогодишни подаръци
+fake_ad.reward_in,Награда в...
+fake_ad.tutorial,"В момента няма достъпно видео...
+Не се притеснявайте, нека имаме магията на Прасето вместо това!"
+fake_ad.your_ad_here,Вашата реклама тук
+fb_login_failed.message,Не можахме да се свържем с Facebook. Да опитаме отново?
+fb_notification.button,Свързване
+fb_notification.message,"Свържете се към Facebook, за да синхронизирате прогреса си онлайн!"
+fb_notification.no_post_hint,Никога няма да публикуваме без вашето разрешение.
+fb_notification.title,Запазете вашия прогрес
+feedback.failed.button,Продължи
+feedback.failed.message,"Не можахме да изпратим обратната връзка.
+Проверете вашата интернет връзка.
+"
+feedback.failed.title,Опа...
+feedback.ok.button,Добре
+feedback.ok.message,"Получихме вашият отзив.
+Благодарим ви, че ни помагате да усъвършенстваме играта."
+feedback.ok.title,Обратна връзка изпратена!
+friends_tab.failed_social.button,Провери
+friends_tab.failed_social.text,"Ние трябва да проверим връзката, за да актуализираме списъка с приятели."
+friends_tab.has_fb.button,Покани приятели
+friends_tab.has_fb.text,"Колкото повече приятели, толкова повече подаръци!"
+friends_tab.no_fb.button,Свържи
+friends_tab.no_fb.hint,Никога няма да публикуваме без вашето разрешение.
+friends_tab.no_fb.text,Свържете се с Facebook и получавайте подаръци от приятели и следвайте техния прогрес.
+friends_tab.no_permission.button,Да
+friends_tab.no_permission.text,"Дайте достъп до вашия списък с приятели, за да получите повече подаръци?"
+friends_tab.no_social.text,Свържете се със социалните мрежи и получавайте подаръци от приятели и проследявайте техния прогрес.
+friends_tab.no_y8.button,Свържи
+friends_tab.no_y8.text,Свържете се с Y8 и получавайте подаръци от приятели и следвайте техния прогрес.
+friends_tab.ok_invite_button,Покани приятели
+friends_tab.ok_invite_gift_text,Пригласете 10 приятели и получете 100 диаманта!
+friends_tab.ok_invite_text,"Колкото повече приятели, толкова повече подаръци!"
+friends_tab.title,Приятели
+friends_tab.vk_friends_permission_button,Да
+friends_tab.vk_friends_permission_text,"Дайте достъп до вашия списък с приятели, за да получите повече подаръци?"
+friends_tab.vk_invite_button,Покани приятели
+friends_tab.vk_invite_text,"Колкото повече приятели, толкова повече подаръци!"
+friends.gift.claim,Отвори
+game_results.click_to_continue,"Натиснете, за да продължите"
+game_results.tap_to_continue,"Натиснете, за да продължите"
+game.click_to_continue,"Натиснете, за да продължите"
+game.info.ahead,ВИЕ СТЕ НА #fmtnum ХОДА НАПРЕД
+game.info.behind,ВИЕ СТЕ #fmtnum ХОДА ПОЗАДИ
+game.info.goals,Цел
+game.info.moves,ПОТЕНЦИАЛНИ ХОДОВЕ
+game.info.pause,ПАУЗА
+game.info.undo,ОТМЕНИ
+game.pause.continue,"<font color=""\#408fda"">Продължи играта"
+game.pause.leave_forfeit,"<font color=""\#ff0000"">Край на играта"
+game.pause.leave_safe,Край на играта
+game.pause.title,Пауза
+game.shoutout.their_game_result,Резултат: #score
+game.shoutout.well_done,Браво!
+game.shoutout.your_game_result,Вашият резултат: #score
+game.tap_to_continue,"Натиснете, за да продължите"
+game.tutorial.continue,Продължи
+gamemode.capital.aquarium,РИБИ
+gamemode.capital.bird,ПТИЦИ
+gamemode.capital.bubble,ПУЗИРИ
+gamemode.capital.cats,КОТКИ
+gamemode.capital.chocolate,ЛАВА
+gamemode.capital.diamonds,ДИАМАНТИ
+gamemode.capital.ducks,ПИЛЕТА
+gamemode.capital.energy_cube_reciever,КРИСТАЛИ
+gamemode.capital.energycube,ЖЕЛЕ
+gamemode.capital.fishes,МОРКОВИ
+gamemode.capital.flower,ЦВЕТОВЕ
+gamemode.capital.food,БОДЛИ
+gamemode.capital.fossils,ОСЪМИНИ
+gamemode.capital.frog,ЖАБИ
+gamemode.capital.grass,ТРАВА
+gamemode.capital.gum,ЛИПУЧКА
+gamemode.capital.honeybee,МЕДВЕДИ
+gamemode.capital.hotlava,ЛАВА
+gamemode.capital.ice,ЛЪД
+gamemode.capital.jam,ЕНЕРГИЯ
+gamemode.capital.jam_reciever,КРИСТАЛИ
+gamemode.capital.pearl,БИЖУТА
+gamemode.capital.road,Свинка
+gamemode.capital.sausage,Сосиски
+gamemode.capital.statue,КУЧЕТА
+gamemode.capital.stone,КАМЪНИ
+gamemode.capital.tasks,ПОРЪЧКИ
+gamemode.capital.tiles,ТРАВА
+gamemode.capital.waterfish,РИБИ
+gamemode.capital.blooplet,БЛУПЛЕТС
+gameresult.adventure.completed_continue,Продължи
+gameresult.adventure.leave,Напускане
+gameresult.adventure.play_next,Продължи
+gameresult.adventure.retry,Повтори
+gameresult.boosters,Изберете Бустери
+gameresult.complete.line1,Ниво
+gameresult.complete.line2,Завършено!
+gameresult.continue,Продължи
+gameresult.daily.continue,Продължи
+gameresult.daily.leave,Изход
+gameresult.daily.retry,Играй
+gameresult.dash,-
+gameresult.forfeit,Дадохте се!
+gameresult.map.continue,Продължи
+gameresult.map.retry,Повтори
+gameresult.pvp.continue,Продължи
+gameresult.pvp.play_another,Различен ниво
+gameresult.pvp.play_next,Различен ниво
+gameresult.pvp.rematch_lose,Ремач
+gameresult.pvp.rematch_win_draw,Играй отново
+gameresult.rematch,Ремач
+gameresult.rematch_bet,Ставка #bet
+gameresult.required_ticket,Задължително
+gameresult.retry,Играй отново
+gameresult.rewards,Награда
+gameresult.title.completed,"<font color=""\#47f05f"">Нивото е завършено!"
+gameresult.title.draw,"<font color=""\#5885B8"">Рисуване"
+gameresult.title.lose,"<font color=""\#ff5666"">Вие загубихте"
+gameresult.title.win,"<font color=""\#47f05f"">Победихте!"
+gameresult.vs,VS
+gameresults.inter_ad_in_large,#count игри до
+gameresults.inter_ad_in_small,#count игри до
+gems_shop.title,Магазин Драгоценности
+global.click_to_continue,"Натиснете, за да продължите"
+global.default_player_name,Играч
+global.tap_to_continue,"Натиснете, за да продължите"
+home.hint_daiy,Опитайте Дневно Предизвикателство
+home.hint_play_pvp,"Можете да играете дуели, дори и да имате изчерпани животи!"
+home.play,Играй
+html.loading,Зареждане
+iap_failed.button,ОК
+iap_failed.message,Неуспешна покупка.
+iap_need_facebook.message,Свържете се към Facebook за да добавите алмази.
+iap_pending.button,ОК
+iap_pending.message,Вашата покупка се обработва
+intro_screen.another_device,С Код
+intro_screen.login_back,Обратно
+intro_screen.login_button,Влез
+intro_screen.login_fb,Facebook
+intro_screen.login_ok,Odnoklassniki
+intro_screen.login_singular,Влез
+intro_screen.login_vk,Vkontakte
+intro_screen.login_with,Влезте с
+intro_screen.login_y8,Y8
+intro_screen.login_yandex,Yandex
+intro_screen.new_player,Нов играч
+introprofile.accept_avatar,Избери
+introprofile.accept_name,Продължи
+introprofile.editavatar,Изберете профилна снимка
+introprofile.editname,Въведете вашето име
+invite_request.message,Да играем заедно в най-добрата игра на три в ред!
+invite_request.title,"Изберете приятели, за да играете Skydom заедно"
+level_popup.goals,Цел
+level_popup.play,Играй
+level_popup.prelevel_boosters,Изберете Бустери
+level_popup.title,Ниво #level
+level_popup.title_hard,Трудно
+level_popup.title_ultra_hard,Супер трудно
+level_popup.title_very_hard,Много трудно
+link.support,https://Skydom.freshdesk.com/en/support/solutions
+link.support_beta,https://Skydombeta.freshdesk.com/en/support/solutions
+lives_shop.buy_all,Купи 5
+lives_shop.hint,"Нужни са животи, за да
+продължите да играете Приключението"
+lives_shop.recharge,Следваща живот: #time
+lives_shop.title,Животи
+lives_shop.watch_ad_button,Гледай
+lives_shop.watch_ad_text,Безплатно 1
+load_player.almost_done,Почти готово...
+load_player.continue_offline,Продължете офлайн
+load_player.loading_save,Зареждане на данните на играча...
+load_player.loading_save_failed,Не можахме да заредим данните на играча.
+load_player.loading_save_failed_in,"Не можахме да заредим данните на играча.
+Опитваме отново след #time...
+"
+load_player.logging_in,Влизане...
+load_player.logging_in_failed,Не можах да вляза.
+load_player.logging_in_failed_in,"Не можахме да се впишем.
+Опитваме отново след #time...
+"
+load_player.new_player,Аз съм нов играч
+load_player.retry_now,Опитайте отново
+login_failed.button,Опитай пак
+login_failed.title,Неуспешно свързване
+magic.click_to_continue,"Натиснете, за да продължите"
+magic.reward,Награда
+magic.tap_to_continue,"Натиснете, за да продължите"
+map.gates_coming_soon,"Нови нива 
+скоро ще дойдат!"
+match3.level_complete.line1,Всички Цели
+match3.level_complete.line2,Постигнато!
+match3.score_pve,#score/#required
+match3.shoutout.1_move,Последен мах!
+match3.shoutout.2_moves,2 места
+match3.shoutout.5_moves,5 движения
+match3.shoutout.no_moves,Няма повече ходов
+match3.shoutout.no_reshuffle,"Не може да се премести
+Няма възможни движения
+"
+merge.button.mine,Изберете
+merge.button.their,Изберете
+merge.description.account_merge,"Изглежда, че вече сте играли Skydom.
+Изберете предпочитан профил!
+"
+merge.description.ingame_conflict,%merge.description.login_conflict%
+merge.description.login_conflict,"Вие играхте от много устройства.
+Изберете предпочитано запазване.
+"
+merge.hint.mine,локално
+merge.hint.their,от сървъра
+merge.title,Синхронизиране на прогреса
+modal.adblock.button,ОК
+modal.adblock.text,"Заметихме, че използвате блокиращ на реклами.<br>Моля, изключете блокираща на тази страница, за да можете да гледате видео."
+modal.adblock.title,Блокирач на реклами
+modal.error.button,Обнови
+modal.error.text,"Съжаляваме, възникна грешка. Моля, презаредете страницата."
+modal.error.title,Опа! Нещо се обърка...
+modal.fb_login_proxy.button,Продължи
+modal.fb_login_proxy.text,Свързване към Facebook
+modal.fb_login_proxy.title,
+modal.fb_purchase_proxy.button,Продължи
+modal.fb_purchase_proxy.gems,Драгоценни стъкла
+modal.first_login_failed.button,Опитай отново
+modal.first_login_failed.text,"В момента не може да се свържете с Skydom. Моля, опитайте да се свържете отново по-късно."
+modal.first_login_failed.title,Неуспешно свързване
+modal.gpu_error.button,Повече информация
+modal.gpu_error.text,"Изглежда в браузъра ви трябва да активирате аппаратното ускорение, за да може да играете играта.
+"
+modal.gpu_error.title,Хмм...
+modal.maintenance.button,Добре
+modal.maintenance.text,Проведените на поддръжка ще бъдат извършени в<br> <b>#time</b><br> за 3 часа.<br> Облачното запазване и синхронизиране на прогреса няма да работят.
+modal.maintenance.title,Поддръжка
+modal.no_hardware_accel_ff.button,ОК
+modal.no_hardware_accel_ff.text,"Вашият браузър докладва за проблем с производителността, играта може да работи много бавно!
+
+За да отстраните проблема, моля прочетете <a target=""_blank""  href=""https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features"">https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features</a>"
+modal.no_hardware_accel_ff.title,Проблеми с производителността
+modal.no_hardware_accel.button,ОК
+modal.no_hardware_accel_vk.button,ОК
+modal.no_hardware_accel.text,"Вашият браузър докладва за проблем с производителността, играта може да работи много бавно!
+
+За да отстраните проблема, моля прочетете <a target=""_blank""  href=""https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm"">https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm</a>
+"
+modal.no_hardware_accel_vk.text,"Вашият браузър докладва за проблем с производителността, играта може да работи много бавно!
+
+За да отстраните проблема, моля прочетете <a target=""_blank"" href=""https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery"">https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery</a>"
+modal.no_hardware_accel.title,Проблеми с производителността
+modal.no_hardware_accel_vk.title,Проблеми с производителността
+modal.nolocalstorage.button,ОК
+modal.nolocalstorage.text,"Изглежда, че браузърът ви не позволява да запазим играта. Това може да бъде причинено от използването на режим Инкогнито.
+<p>
+Моля, влезте в играта, за да избегнете загуба на прогрес!"
+modal.nolocalstorage.title,Режим Анонимен
+modal.oom.button,Повече информация
+modal.oom.text,Изглежда няма достатъчно памет.
+modal.oom.title,Хмм..
+modal.out_of_sync.button,Обнови
+modal.out_of_sync.text,"Изглежда, че имате Skydom отворено в няколко прозорци на браузъра. <br>Моля, обновете за да продължите да играете в този прозорец."
+modal.out_of_sync.title,Няколко прозорци с Skydom?
+modal.vk_inapp_not_allowed.button,Преминаване
+modal.vk_inapp_not_allowed.text,"Покупките са достъпни само на <a href=""https://m.vk.com/app7409298"" target=""_blank"">m.vk.com</a>"
+modal.vk_inapp_not_allowed.title,
+modal.wasm.button,Повече информация
+modal.wasm.text,Изглежда вашият браузър не поддържа WebAssembly.
+modal.wasm.title,Хмм...
+modal.webgl.button,Повече информация
+modal.webgl.text,Изглежда браузърът ви не поддържа WebGL.
+modal.webgl.title,Хмм...
+modal.yandexsdk.text,Нещо Яндекс SDK не се зареди правилно. Опитаме отново?
+modal.yandexsdk.title,Опа
+modal.yandexsdk.button,ОК
+name_already_changed.button,ОК
+name_already_changed.message,Вашето име вече е променено. Можете да промените името САМО ВЕДНЪЖ.
+networks.hint,"Насърчаваме ви да се свържете със социалните мрежи!
+ - Не загубете прогреса си, като го запазите в облака.
+ - Играйте с приятели и получавайте подаръци.
+ - Нищо не публикуваме без вашето разрешение.
+"
+nickname.default,Играч
+nickname.default_friend,Заек
+nickname.trainer,Треньор #nickname
+nickname.tutorial_001,Треньор Анна
+nickname.tutorial_002,Треньор Йони
+nickname.tutorial_003,Треньор Поли
+nickname.you,Вие
+notification.daily_lead_1,👑 #Name взе предназначение на лидерство в Дневното предизвикателство! Искаш да възстановиш първото място?
+notification.daily_lead_2,👑 #Name взе предводство в Дневното предизвикателство!
+notification.daily_lead_3,👑 Днес в Дневното Предизвикателство е горещо! #Name завладя първото място.
+notification.daily_lead_4,👑 #Name взе предната позиция. Искаш ли да възстановиш лидерството в Предизвикателството?
+notification.daily_lead_5,👑 Изглежда #Name току-що те премина в Дневното предизвикателство.
+notification.daily_lead.meta,"@{""variants"":5}"
+notification.reminder_1,😏 Нови противници чакат най-обещаващия играч! 😎
+notification.reminder_10,👸🤴 Кой ще бъде победителят на Дневното предизвикателство днес?
+notification.reminder_11,🙄 Забравихме почти как всички бяха разбити от #PlayerName!
+notification.reminder_12,💆 Не е ли прекрасен ден за игра в Skydom? 💪
+notification.reminder_13,"🙈😬 Тук има двама момчета, които мечтаят да ви победят. Мислите ли, че имат шанс?"
+notification.reminder_14,🐰 Зайчето има подарък за теб! Отвори? 🎁
+notification.reminder_15,"😎 #PlayerName, е време да печелиш отново! 🕹"
+notification.reminder_16,👾👀 Време е да направите почивка и да започнете печеливша серия! 🤗
+notification.reminder_17,🌟🌟🌟 Нивото няма да се приключи само по себе си! Да играем? 🥇😉
+notification.reminder_18,"#PlayerName, някой иска да те победи. Мислиш ли, ще успее? 😬😬😬"
+notification.reminder_19,👋 Дали е време да се отпуснете и да спечелите няколко пъти? 🤔
+notification.reminder_2,Не всички още са загубили на #PlayerName! Давате им шанс?
+notification.reminder_20,🦄 Видял ли си нашия Рагужен Единорог?
+notification.reminder_3,🐷 Магията на прасето чака! 🐽
+notification.reminder_4,"🙈 Не виждам най-добрия играч на играта \""Три в ред\"" от дълго време! Той все още е тук? 👀"
+notification.reminder_5,🏆 Вече имаше победа днес?
+notification.reminder_6,❤️❤️❤️❤️❤️ Всички животи са попълнени! Време е да спечелим!
+notification.reminder_7,🖐🎟 5 токена чакат да бъдат изхарчени!
+notification.reminder_8,🐰😍 Зайчето ви подари подарък! 🎁
+notification.reminder_9,👑💎 Дневното предизвикателство започна! Кой ще получи короната и купа драгоценности?
+ny.button_claim,Отваряне на подарък
+ny.button_next_in,Подарък в: #time
+ok_login_failed.message,Не можахме да се свържем с Odnoklassniki. Да опитаме отново?
+ok.share_tick,Сподели
+out_of_moves.continue_buy_moves,Играй #price
+out_of_moves.continue_watch,Гледай
+out_of_moves.give_up,Отказвам се
+out_of_moves.press_to_view,"Натиснете тук, за да 
+видите дъската
+"
+out_of_moves.title.almost_there,Толкова близо...
+out_of_moves.title.regular,Няма повече ходове
+outofgems.button,Магазин
+outofgems.message,"Нямате достатъчно Драгоценни камъни. 
+Посетете магазина, за да получите още!"
+outofgems.title,Недостатъчно Драгоценни камъни
+page.loading.hint_1,Зареждане...
+page.loading.hint_2,Ефекти на изобразяване 💎💎💎
+page.loading.hint_3,"Не се притеснявайте, не сме застряли! 😜"
+page.loading.hint_4,🚀 Играта ще се зареди скоро! 🚀
+page.loading.hint_5,Първоначалното зареждане отнема малко повече време👌
+page.loading.hint_6,🔥 Почти готово…👾
+page.loading.hint_7,Още само малко 😊
+placeholder.hint_daily,"Приключете 10 нива, за да отключите!"
+placeholder.timestring,12 часа 34 минути 56 секунди
+placeholder.title_daily,"Дневен Изпит
+Заключено"
+popup_name.accept_name,Продължи
+popup_name.not_now,Не сега
+prelevel_text.002,"Съберете повече <font color=""\#ff5503"">Жълти Парчета</font> отколкото вашият противник!"
+prelevel_text.004,"Съберете повече <font color=""\#ff8800"">Зеленчуци</font> отколкото вашият противник!"
+prelevel_text.006,"Изчистете повече <font color=""\#4499ff"">Лед</font> отколкото вашият противник!"
+promo_reforged.button,Претендирай!
+promo_reforged.text,"Урааа! Запуснахме нов мод на играта - Скайдом Рефордж! За да празнуваме запуска, даваме безплатен Мега Бустер пакет! Да го получите сега?"
+promo_reforged.title,Скайдом Преобразувано!
+rate_us.description,Как ви харесвате Skydom?
+rate_us.feedback.cancel,Не сега
+rate_us.feedback.description,"Въведете имейла си, ако искате да получите отговор."
+rate_us.feedback.email_hint,E-mail
+rate_us.feedback.message_hint,Как можем да усъвършенстим играта за Вас?
+rate_us.feedback.submit,Изпрати
+rate_us.star_1,Отвратително
+rate_us.star_2,Не харесвам
+rate_us.star_3,Добре
+rate_us.star_4,Харесаха
+rate_us.star_5,Обичах го
+rate_us.submit,Изпрати
+rate_us.write_review.cancel,Не сега
+rate_us.write_review.google_play,Споделете мислите си за играта или дайте оценка в Google Play!
+rate_us.write_review.submit,С удоволствие!
+rate_us.write_review.yandex,Споделете мислите си за играта или дайте оценка в Yandex Игри!
+rematch_pvp.asks_for_rematch_draw,#name иска да опита отново
+rematch_pvp.asks_for_rematch_player_lose,#name предлага повторно да се играе!
+rematch_pvp.asks_for_rematch_player_won,#name иска повторен мач!
+reward.coins,Монети
+reward.gems,Драгоценни стъкла
+reward.lives,Животи
+reward.prelevel.add_bomb,Бустер Бомба
+reward.prelevel.add_line,Бустер Линия
+reward.prelevel.add_omni,Бустер Мълния
+reward.prelevel.add_tint,Бустер За Оцветяване
+reward.prelevel.double_fly,Бустър Светлинарка х2
+reward.tickets,Билети
+reward.undo,Отмени
+search.cannot_connect,Няма връзка с интернет
+search.failed,Опа! Нещо се обърка...
+search.loading,Зареждане...
+search.playing_with_trainer,Играем с треньор
+search.readying,Опонент намерен!
+search.readying_rematch,Готови се!
+search.rejected,Противникът беше бягство
+search.searching,Търсене на противник...
+search.vs,VS
+search.waiting_opp,Чакане на противник...
+settings.change_avatar,Промени Снимка на Профила
+settings.change_avatar.connect_fb,Свържи
+settings.change_avatar.continue,Продължи
+settings.change_avatar.title,Изберете нова профилна снимка
+settings.change_avatar.warning,"Забележка: 
+- Можете да смените профилната си снимка САМО ВЕДНЪЖ
+- Свържете се към Facebook, за да използвате Facebook профилна снимка"
+settings.change_avatar.warning_no_fb,Забележка: Можете да промените профилната си снимка САМО ВЕДНЪЖ
+settings.change_name,Промени име
+settings.change_name.accept_name,Продължи
+settings.change_name.do_not_match,"Имената не съвпадат. Моля, опитайте отново."
+settings.change_name.edit,Въведете ново имя:
+settings.change_name.reenter,Въведете новото си име отново:
+settings.change_name.same_name,Новото име съвпада със съществуващото
+settings.change_name.too_long,Това име е твърде дълго - ограничение от 15 символа.
+settings.change_name.too_short,Това име е твърде кратко =)
+settings.change_name.warning,Забележка: Можете да смените името си САМО ВЕДНЪЖ.
+settings.confirm_avatar.cancel,Отказ
+settings.confirm_avatar.change,Промени
+settings.confirm_avatar.title,"Наистина ли искате да смените профилната си снимка? Вашата нова профилна снимка:
+"
+settings.confirm_avatar.warning,Забележка: Можете да смените профилната си снимка САМО ВЕДНЪЖ.
+settings.confirm_name.cancel,Отказ
+settings.confirm_name.change,Потвърди
+settings.confirm_name.title,Наистина ли искате да промените името си? Вашето ново име ще бъде:
+settings.confirm_name.warning,Забележка: Можете да смените името си САМО ВЕДНЪЖ.
+settings.connect_fb,Свържете Facebook
+settings.connect_ok,Свържете Однокласники
+settings.connect_vk,Свържете VK
+settings.connect_y8,Свържете Y8
+settings.connect_yandex,Свържете Yandex
+settings.connected_fb,Facebook
+settings.connected_ok,Odnoklassniki
+settings.connected_vk,VK
+settings.connected_y8,Y8
+settings.connected_yandex,Yandex
+settings.coupon,Промо Код
+settings.coupon_title,Промо Код
+settings.coupon.enter,Приложи
+settings.coupon.enter_hint,Въведете вашия промо код тук
+settings.coupon.invalid_code,"<font color=""\#e90047"">Този код е невалиден. Моля, опитайте с друг код."
+settings.coupon.missing_code,"<font color=""\#e90047"">Въведете промо код"
+settings.coupon.ok,Кодът е успешно въведен!
+settings.credits,Заслуги
+settings.eula,Условия за ползване
+settings.fb_hint,"Свържете се към Facebook, за да играете с приятели и да синхронизирате вашия прогрес."
+settings.general,ОСНОВНИ
+settings.generate_key,Създай код
+settings.invite_friends,Покани приятели
+settings.language,Език
+settings.language_header,ИЗБЕРЕТЕ ЕЗИК
+settings.move_hints,Подсказки за ход
+settings.music,Музика
+settings.networks,Връзки
+settings.networks_hint,"Свържете социалните мрежи, за да играете с приятели и да синхронизирате вашия прогрес."
+settings.notifications,Известия
+settings.notifications.daily,Дневен предизвикателство
+settings.notifications.disable_all,Изключи всички
+settings.notifications.disable_night,Деактивиране от 23 часа до 8 часа
+settings.notifications.gifts,Подаръци
+settings.notifications.others,Други напомняния
+settings.open_support,Поддръжка
+settings.open_vk_group,Група Игри
+settings.player_id,Копирайте идентификационния номер на играча
+settings.policy,Политика за поверителност
+settings.rate_us,Оценете ни
+settings.report_problem,Докладване на проблем
+settings.sound,Звук
+settings.support,ПОДКРЕПА
+settings.telegram_channel,Следвайте нашият Telegram канал
+settings.telegram_channel_hint,Всички последни новини за Skydom
+settings.telegram_support,Фен чат в Telegram
+settings.title,Настройки
+settings.update,Актуализиране
+settings.y8_hint,"Свържете се към Y8, за да синхронизирате прогреса си онлайн!"
+settings.yandex_hint,"Свържете се към Yandex, за да синхронизирате прогреса си онлайн!"
+shop.gems_restored.accept,Отлично!
+shop.gems_restored.title,Покупката на драгоценни стъкла е завършена
+shop.not_available,Недостъпно
+shop.remove_ads_remain_time,Рекламите премахнати за #time
+shop.remove_ads_text,"Премахване на рекламите между нивата
+с всяка покупка
+"
+shop.remove_ads_timed,"Премахване на рекламите между нивата
+с всяка покупка за месец
+"
+social_notification.button,Свържи
+social_notification.message,"Свържете се към социалната мрежа, за да синхронизирате прогреса си онлайн!"
+social_notification.no_post_hint,Никога няма да публикуваме без вашето разрешение.
+social_notification.title,Запазете вашия прогрес
+social_share.button,Сподели
+social_share.chooser_hint,Сподели чрез
+social_share.message,"Здравейте! Видяхте ли уникалната ""три в ряд"" с истински съперници? Инсталирайте я от https://PecPoc.com"
+social_share.subject,Разгледайте новата забавна игра - Skydom
+social_share.title,"Споделете Skydom с другите!
+По-весело е да играете заедно с приятели!"
+tempkey_login.button,Продължи
+tempkey_login.empty_key,Не сте въвели код
+tempkey_login.input.default_hint,Въведете код
+tempkey_login.invalid_key,Грешен код
+tempkey_login.message_top,"Продължете да играете тук - получете кода, където сте играли преди в Настройките под ""Създаване на код""."
+tempkey_login.no_connection,Не можах да се свържа
+tempkey.fail.button,Добре
+tempkey.fail.message,Проверете вашата интернет връзка или опитайте по-късно
+tempkey.fail.title,Не можах да създам код
+tempkey.ok.copied,Копирано!
+tempkey.ok.copy,Копиране
+tempkey.ok.hint,Кодът изтича след 4 часа.
+tempkey.ok.message,#tempkey
+tempkey.ok.title,Вашият код:
+tickets_shop.boost_text,x2 скорост на попълване
+tickets_shop.buy_all,Купи #amount
+tickets_shop.hint,"Трябват ви Токени, за да играете в Дневно Предизвикателство"
+tickets_shop.hint_out_of,"<font color=""\#e90047"">Няма повече Щастливи Токени</font>"
+tickets_shop.recharge,Нов токен ще бъде достъпен след: #time
+tickets_shop.title,Щастливи билети
+tickets_shop.watch_ad_button,Гледай
+tickets_shop.watch_ad_text,Безплатно 1
+time.days_hours,"#days<font size=""-15""> </font><font size=""-10"">д</font> #hours<font size=""-15""> </font><font size=""-10"">ч</font>"
+time.hours,"#hours<font size=""-15""> </font><font size=""-10"">ч</font>"
+time.hours_minutes,"#hours<font size=""-15""> </font><font size=""-10"">ч</font> #minutes<font size=""-15""> </font><font size=""-10"">мин</font>"
+time.hours_minutes_seconds,"#hours<font size=""-15""> </font><font size=""-10"">ч</font> #minutes<font size=""-15""> </font><font size=""-10"">мин</font> #seconds<font size=""-15""> </font><font size=""-10"">сек</font>"
+time.hours_seconds,"#hours<font size=""-15""> </font><font size=""-10"">ч</font> #seconds<font size=""-15""> </font><font size=""-10"">сек</font>"
+time.less_than_minute,"1<font size=""-15""> </font><font size=""-10"">мин</font>"
+time.minutes,"#minutes<font size=""-15""> </font><font size=""-10"">мин</font>"
+time.minutes_seconds,"#minutes<font size=""-15""> </font><font size=""-10"">минути</font> #seconds<font size=""-15""> </font><font size=""-10"">секунди</font>"
+time.seconds,"#seconds<font size=""-15""> </font><font size=""-10"">сек</font>'"
+tutorial_home.play,Играй
+tutorial.001.dialog_tutorial,"Съпоставете <font color=""\#5885b8"">3 парчета от един и същи цвят в ред</font>, за да ги премахнете."
+tutorial.001.hint,"Цел
+Съберете 12 зелени парчета!"
+tutorial.001.turn_1,"Съпоставете 3 парчета от един и същи цвят, като разменяте съседните!"
+tutorial.002.hint,Съберете повече от жълтите парчета от противника си!
+tutorial.skip,Прескочи
+undo_shop.buy_undos,Вземете #count
+undo_shop.hint,Отмяната възстановява последното действие
+undo_shop.recharge,Следващо отмяна след: #time
+undo_shop.title,Отмяна
+undo_shop.watch_ad_button,Гледай
+undo_shop.watch_ad_text,Безплатно 1
+undo_shop.you_have,Имате #amount отмени
+update.button,Актуализиране
+update.new_version,Актуализирайте до последната версия!
+update.new_version_value,"<font color=""\#5885b8"">#version"
+update.old_version,Използвате стара версия
+update.old_version_value,"<font color=""\#a5a7aa"">#version"
+update.text,"Използвате стара версия.
+Моля, актуализирайте до последната версия!"
+update.title,Налична е нова версия!
+update.web.button,Обновяване
+update.web.message,"Моля, презаредете страницата."
+update.web.title,Налична е нова версия!
+vk_login_failed.message,Не можахме да се свържем с VK. Да опитаме отново?
+vk_promo.title,Подарък от ВК!
+vk.share_tick,Сподели
+watch_for_gems.button,Гледай
+watch_for_gems.text,+#amount
+web.webg_context_lost,"Загубен е контекст WebGL, възстановяваме..."
+welcome_bonus.speech_1,"Здравей, #PlayerName!
+Имам подаръци за теб.
+Кой избираш?
+"
+welcome_bonus.speech_2,"Мислите се материализират... Оммм!
+Тук мислех за подаръци и вижте какво се случи =)
+"
+welcome_bonus.speech_3,"Намерих два сандъка, докато не беше там! Отворете един!"
+welcome_bonus.speech_4,"Здравейте отново, #PlayerName!
+Погледни какво се случи от облаците!
+"
+welcome_bonus.speech_5,"Стръковете са прелетяли...
+Оказва се, че те не само деца донесат! ;)"
+welcome_bonus.speech_6,"Радвам се да те видя отново, #PlayerName!
+Избери съкровище!
+"
+welcome_bonus.speech_7,"Така си ми липсваше, #PlayerName, че подготвих малко подарък за теб!"
+welcome_bonus.speech_8,"Странни неща се случват. Сидиш, спокойно и два сандъци се появяват от никъде!"
+welcome_pack.open,Отваряне
+welcome_pack.play,Играй
+welcome_pack.speech_1,"Здравей, #PlayerName! Давно не сме видяли! Имам подарък за теб!"
+welcome_pack.speech_2,"Ооооо! #PlayerName, какво срещане! Липсвах Ви. Давай да отворим подаръка и да играем!"
+welcome_pack.speech_3,"#PlayerName, радвам се да те видя отново! Спеши да отвориш сандъка."
+welcome_pack.speech_gift,"#PlayerName, имаме специален подарък за теб =) Отвори го бързо!"
+welcome_pack.speech_reforged,"#PlayerName, имаме специален подарък за теб =) Отвори го бързо!"
+y8_login_failed.message,Не можахме да се свържем с Y8. Да опитаме отново?
+yandex_login_failed.message,Не можахме да се свържем с Yandex. Да опитаме отново?
+yandex_notification.button,Свържи
+yandex_notification.message,"Свържете се с Yandex, за да синхронизирате прогреса си онлайн!"
+yandex_notification.title,Запазете вашия прогрес
+gamemode.capital.leaf,ЛИСТА
+yandex_login_has_attachment.message,Към този профил на играта беше свързан друг Yandex акаунт.
+fb_login_has_attachment.message,Към този профил на играта беше свързан друг акаунт във Facebook.
+ok_login_has_attachment.message,Към този профил на играта беше свързан друг акаунт в Ок.
+vk_login_has_attachment.message,В този игров профил беше свързан друг VK акаунт.
+y8_login_has_attachment.message,В този профил на играта беше свързан друг Y8 акаунт.
+android_app.text.beta,"Друзи! С радост ви информираме, че започваме Бета тестване на нашата игра за Android и поканяме всички желаещи!"
+bookmark.play,Дом
+bookmark.quest,Задачи
+chest_opening.bronze,Бронза
+chest_opening.continue,Лесно
+chest_opening.division,III дивизия
+chest_opening.golden,Злато
+chest_opening.silver,Сребъро
+chest_opening.togoldenleague,"Можете ли да достигнете
+Златната лига?
+"
+chest_opening.welcome,"Добре дошли в
+Лигите на Мач Арената!"
+chest_opening.yourebronze,"Постигнахте
+Бронзова лига III
+"
+chest.open,Отваряне
+chest.opens_now,Отлично! Съкровищницата е ваша за отваряне!
+chest.wins_left_1,Още една печалба!
+chest.wins_left_2,Само 2 печалби и е твое!
+chest.wins_left_3,Браво! Още 3 печалби!
+chest.wins_left_4,"Нужни са 4 победи, за да отворите съкровищницата!"
+chest.wins_to_open,"Нужни са #num печеливши, за да отворите"
+forge_help.block_1,"Печелете дуели, за да заработвате монети."
+forge_help.block_2,"Използвайте монети, за да започнете Ковални и да получите златни браси."
+forge_help.block_3,"Събирайте златни барове, за да се премине в по-високи лиги."
+forge_help.block_4,Нови лиги - нови нива!
+forge_help.continue,Готово
+forge_help.title,Лиги и Ковални
+forge.add,Добавяне
+forge.boost,Ускоряване
+forge.boost_free,"Да подобрим тази переплавка!
+
+Първи път е безплатно!"
+forge.boost_free_ok,Ускоряване
+forge.buy_1,Купи Бронзова Ковалня
+forge.buy_2,Купи сребърна ковалня
+forge.buy_3,Златна Ковалня
+forge.buy_4,Купи Рубинова Ковалня
+forge.buy_now,Добави
+forge.cheat_boost,ЧИТ? ЧИТ!
+forge.name_1,Бронз
+forge.name_2,Сребърна Ковалня
+forge.name_3,Златна Ковалня
+forge.name_4,Рубинова Ковалня
+forge.not_enough_coins,Няма достатъчно монети за да започнете
+forge.ok,Добре
+forge.open,Отваряне
+forge.open_now,Отворете сега
+forge.other_in_progress,Продължава другото коване!
+forge.popup_boost,Ускорение -30 минути
+forge.popup_boost_speedup,Ускорете -15 минути
+forge.progress,#bars за: #time
+forge.speedup_no,Не
+forge.speedup_offer,"Искате ли да <font color=""\#5885b8"">ускорите</font> Форжа <font color=""\#5885b8"">с 2 пъти?</font>"
+forge.speedup_ok,Добре
+forge.speedup_success,Закаляването е подобрено!
+forge.speedup_yes,Да
+forge.start,Започнете
+forge.time_1,3 часа
+forge.time_2,6 часа
+forge.time_3,12 часа
+forge.time_4,24 часа
+forge.tutorial.collect_coins,"Съберете 1000 монети, за да стартирате Ковалнята"
+forge.tutorial.open_now,"Отлично! Плаването е завършено!
+Можем да отворим Кузницата!"
+forge.tutorial.smelt_more,"Продължете да плавите златни барове, за да достигнете до следващото отделение"
+forge.tutorial.start_forge,"Браво, печелихте 1000 монети!
+Сега можем да започнем Кузнята!"
+forge.tutorial.wait_ready,"Можем да печелим още монети, докато нашата Ковалня работи."
+forge.watch_ad,Гледай
+gamemode.chocolate,Лава
+gamemode.diamonds,Диаманти
+gamemode.energycube,Желе
+gamemode.fishes,Моркови
+gamemode.food,Бодли
+gamemode.fossils,Октоподи
+gamemode.grass,Трева
+gamemode.honeybee,Мечки
+gamemode.ice,Лед
+gamemode.jam,Енергия
+gamemode.road,Свинка
+gamemode.stone,Камъни
+gamemode.tasks,Поръчки
+gamemode.tiles,Трева
+home.bars_need_more,Трябва ви #more
+home.bars_progress,#current / #total
+home.bet,Залог #count монети
+home.coins,#count
+home.gems,#count
+home.hint_quest_book,Нови задачи са на разположение!
+home.hint_quest_book.claim,Ура! Някой ще бъде награден!
+home.hint_quest_book.new,Оу! Ново предизвикателство!
+home.league_indev,Следващата лига скоро ще дойде!
+home.rematch.asks_for_rematch_draw,#name иска да опита отново
+home.rematch.asks_for_rematch_player_lose,#name предлага повторно да се играе
+home.rematch.asks_for_rematch_player_won,#name поиска повторно игра!
+home.xp,#count
+ingame_booster_shop.buy,Вземете #count
+ingame_booster_shop.hint.cross,"Използвайте Вълшебната Пръчка, за да премахнете един ред и една колона от фишки!"
+ingame_booster_shop.hint.hammer,"Изтрийте плочките, като ги смахнете с Молотка!"
+ingame_booster_shop.hint.hand,"Използвайте Ръкавицата, за да размените всяка съседна парчета!"
+ingame_booster_shop.title.cross,Вълшебна Пръчка
+ingame_booster_shop.title.hammer,Чук
+ingame_booster_shop.title.hand,Ръкавица
+league.Bronze,Бронзова Лига
+league.div_1,Дивизия I
+league.div_2,Дивизия II
+league.div_3,Дивизия III
+league.div_4,Дивизия IV
+league.div_5,Дивизия V
+league.E001,Бронза III
+league.E002,Бронза II
+league.E003,Бронза I
+league.E004,Сребър IV
+league.E005,Сребър III
+league.E006,Сребър II
+league.E007,Сребър I
+league.E008,Златно V
+league.E009,Злато IV
+league.E010,Злато III
+league.E011,Злато II
+league.E012,Злато I
+league.E013,Платина V
+league.E014,Платина IV
+league.E015,Платина III
+league.E016,Платинум II
+league.E017,Платина I
+league.E018,Майстор 1
+league.Gold,Златна Лига
+league.Master,Майсторска Лига
+league.MasterN,Майстор #div
+league.GrandMaster,Грандмастър
+league.GrandMasterN,Грандмастър #div
+league.Platinum,Платинова Лига
+league.Silver,Сребърна Лига
+levelup.continue,Отлично!
+levelup.reward,Награда
+levelup.title_division,"Поздравления!
+Ново отделение!"
+levelup.title_league,"Поздравления!
+Нова лига!"
+ma2transfer.install,Инсталирай
+ma2transfer.message,"Матч Арена премести се в новото приложение!
+
+Важно! Използвайте кода по-долу, за да пренесете вашия прогрес."
+nickname.tutorial_004,Сенсей Михаил
+nickname.tutorial_005,Професор Франк
+nickname.tutorial_006,Кралица Матча
+nickname.tutorial_007,Учител Лео
+nickname.tutorial_008,Треньор Карл
+nickname.tutorial_009,Професор Бородат
+nickname.tutorial_010,Гуру Вики
+placeholder.hint_friends,Предизвикай приятелите си и покажи какво си способен!
+placeholder.hint_quests,"Достигнете Бронзовата лига I,
+за да откриете!"
+placeholder.hint_settings,Ще бъде готово скоро :)
+placeholder.title_friends,"Играй с приятели
+скоро ще бъде
+"
+placeholder.title_quests,"Забавни приключения
+Заключени
+"
+placeholder.title_settings,Настройките са в процес на разработка
+quest_help.block_1,"Завършете задачите, за да получите награди!"
+quest_help.block_2,"Завършете всички задачи, за да отворите сандъка."
+quest_help.block_3,"Завършете всички задачи преди да преминете в следващата дивизия, иначе ще загубите съкровищницата!"
+quest_help.continue,Готово
+quest_help.title,Книга на задачи
+quest.aquarium,Съберете #amount Риби
+quest.bar,#progress / #amount
+quest.bar_completed,Задачата е завършена!
+quest.bar_last_try,Предишна опит: #progress от #amount
+quest.bar_special_not_tried,#progress / #amount
+quest.best_so_far,Най-добър резултат: #progress
+quest.butterfly,Съберете #amount Пеперуди
+quest.buy_now,Вземете сега #amount
+quest.cat,Съберете #amount Котенца
+quest.chip_destroy,Съберете #amount от всякакви парчета
+quest.chip_destroy_bird,Съберете #amount птици
+quest.chip_destroy_blue,Съберете #amount сини парчета
+quest.chip_destroy_diamond,Съберете #amount Диаманти
+quest.chip_destroy_fish,Съберете #amount Моркови
+quest.chip_destroy_fish_blue,Съберете #amount сини Морковки
+quest.chip_destroy_fish_green,Съберете #amount зелени Морковки
+quest.chip_destroy_fish_orange,Съберете #amount оранжеви Моркови
+quest.chip_destroy_fish_purple,Съберете #amount цветни моркови
+quest.chip_destroy_fish_red,Съберете #amount червени Моркови
+quest.chip_destroy_fish_yellow,Съберете #amount жълти Морковки
+quest.chip_destroy_food,Премахнете #amount Бодли
+quest.chip_destroy_frog,Съберете #amount Жаби
+quest.chip_destroy_green,Съберете #amount зелени парчета
+quest.chip_destroy_orange,Съберете #amount оранжеви парчета
+quest.chip_destroy_purple,Съберете #amount цветни парчета
+quest.chip_destroy_red,Съберете #amount червени парчета
+quest.chip_destroy_snail,Съберете #amount Улитки
+quest.chip_destroy_super,Съберете #amount супер парчета
+quest.chip_destroy_wafer,Съберете #amount Златни руди
+quest.chip_destroy_with_bomb,Съберете #amount парчета с помощта на Бомба.
+quest.chip_destroy_with_line,Съберете #amount парчета с бонус Линия
+quest.chip_destroy_with_mine,Съберете #amount парчета с бонус Огнена буба
+quest.chip_destroy_with_omni,Съберете #amount парчета с бонус Мълния
+quest.chip_destroy_yellow,Съберете #amount жълти парчета
+quest.chip_destroy_waterfish,Съберете #amount водни риби
+quest.chip_recolor,Прецветете #amount парчета с бонус Малката
+quest.claim,Получете награда
+quest.complete_chest,Всички задачи са завършени
+quest.cover_destroy_bee,Съберете #amount Мечки
+quest.cover_destroy_bound,Отключете #amount парчета
+quest.cover_destroy_chocolate,Премахнете #amount парчета с Лава
+quest.cover_destroy_fizzblue,Съберете #amount пухкави
+quest.cover_destroy_fizzpurple,Съберете #amount пухкави
+quest.cover_destroy_frozen,Премахнете #amount лед от парчета
+quest.cover_destroy_honey,Изчистете #amount плочки с мед
+quest.cover_destroy_hotlava,Премахнете #amount броя Гореща Лава
+quest.cover_destroy_receiver_energycube,Съберете #amount Желе Кристали
+quest.cover_destroy_receiver_jam,Съберете #amount Кристали на Енергия
+quest.cover_destroy_statue,Съберете #amount Кучета
+quest.cover_destroy_stone,Премахнете #amount Камъни
+quest.cover_destroy_leaf,Изчисти #amount листа
+quest.division_done_card,Нови задачи в следващото дивизион!
+quest.duck,Съберете #amount патици
+quest.energy_flow,Извлечете Енергия през #amount плочки
+quest.energycube_flow,Пълнете #amount плочки с Желе
+quest.fossil,Съберете #amount Октоподи
+quest.gum,Съберете #amount бонбони
+quest.new_quest,Ново предизвикателство!
+quest.new_quest_in,Следващо задание
+quest.on_arena_splash_score,Наберете #amount точки в Арена Бум!
+quest.on_arena_splash_use_bonus,Запазете #amount бонуси за Арена Бум!
+quest.plate_destroy,Премахнете #amount Отделяния
+quest.play,Играй
+quest.pvp_score,Наберете #amount точки в дуелите
+quest.reward,Награда:
+quest.snakes,Съберете #amount Змии
+quest.tile_destroy_gold,Съберете #amount плочки с трева
+quest.tile_destroy_grass,Съберете #amount плочки с трева
+quest.title,Книга на задачи
+quest.use_bonus,Използвайте #amount бонуси
+quest.use_bonus_bomb,Използвайте #amount бонуси Бомба
+quest.use_bonus_line,Използвайте #amount бонуси Линия
+quest.use_bonus_mine,Използвайте #amount бонуси Светлинарка
+quest.use_bonus_omni,Използвайте бонус Молния #amount пъти
+quest.use_bonus_tint,Използвайте #amount бонуси Зачервяване
+quest.use_combo_bomb_bomb,Направете комбо-бонус Бомба+Бомба #amount пъти
+quest.use_combo_bomb_omni,Направете комбо-бонус Мълния+Бомба #amount пъти
+quest.use_combo_bomb_tint,Направете комбо-бонус Молив+Бомба #amount пъти
+quest.use_combo_line_bomb,Направете комбо-бонус Бомба+Линия #amount пъти
+quest.use_combo_line_line,Направете комбо-бонус Линия+Линия #amount пъти
+quest.use_combo_line_omni,Направете комбо-бонус Мълния+Линия #amount пъти
+quest.use_combo_line_tint,Направете комбо-бонус Молив+Линия #amount пъти
+quest.use_combo_mine_bomb,Направете комбо-бонус Бомба+Светлина #amount пъти
+quest.use_combo_mine_line,Направете комбо-бонус Светлина+Линия #amount пъти
+quest.use_combo_mine_mine,Направете комбо-бонус Светлинар+Светлинар #amount пъти
+quest.use_combo_mine_omni,Направете комбо-бонус Мълния+Светлинар #amount пъти
+quest.use_combo_mine_tint,Направете комбо-бонус Молив+Светлинар #amount пъти
+quest.use_combo_omni_omni,Направете комбо-бонус Мълния+Мълния #amount пъти
+quest.use_combo_omni_tint,Направете комбо-бонус Малка+Светлина #amount пъти
+quest.use_combo_tint_tint,Направете комбо-бонус Малка+Малка #amount пъти
+quest.walk,Проведете Прасето #amount стъпки
+quest.watch_for_new,- #time
+quest.win,Печели #amount дуела
+quest.win_coins,Спечелете #amount монети в дуелите
+quest.win_hard_level,Приключете трудно ниво
+quest.win_rematch,Спечелете #amount повторни мачове
+quest.win_streak,Печелете #amount дуела поред
+quest.chip_destroy_clam,Съберете #amount Бижута
+quest.chip_destroy_egg,Съберете #amount Яйца
+quest.gardenflower,Съберете #amount Цветя
+quest.sausages,Съберете #amount Колбаси
+rematch.asks_for_rematch_draw,"#name иска да опита отново
+Залог #bet"
+rematch.asks_for_rematch_player_lose,"#name предлага повторно да се играе
+Залог #bet"
+rematch.asks_for_rematch_player_won,"#name иска повторен мач!
+Залог #bet"
+rematch.rematch_bet,Залог #bet
+report.body,
+report.subject,Проблема с MatchArena
+reward.bars,Златни барове
+reward.coins_amt,+#amount
+reward.gems_amt,+#amount
+reward.levels,Нови нива
+reward.levels_amt,+#amount
+reward.levelup,"Поздравления!
+Ново ниво!"
+reward.new_levels,"Нови
+нива!"
+reward.talisman,Талисмани
+reward.xp_amt,+#amount
+search.prize_fund,Наградни пари
+settings.friends_and_partners,Приятели и партньори
+settings.language.help_us_translate,"Искате ли да ни помогнете да преведете Match Arena на езиците, които говорите? Изпратете ни писмо на <font color=""\#0000EE"">support@matcharenagame.com."
+settings.notifications.duels,Предизвикателство към дуели
+shop.indev,Наскоро!
+splash.hint_chocolate,Премахнете възможно най-много Лава
+splash.hint_diamonds,Съберете възможно най-много Диаманти
+splash.hint_energycube,Попълнете колкото можете плочки с Джели
+splash.hint_fishes,Съберете възможно най-много Моркови
+splash.hint_food,Премахнете възможно най-много Бадеми
+splash.hint_fossils,Спасете колкото се може повече Октоподи
+splash.hint_honeybee,Съберете колкото можете повече Мечки
+splash.hint_ice,Премахнете възможно най-много лед
+splash.hint_jam,Попълнете колкото е възможно повече плочки с енергия.
+splash.hint_road,Проведете Прасето колкото е възможно по-далече
+splash.hint_stone,Премахнете възможно най-много Камъни
+splash.hint_tasks,Изпълнете възможно най-много Поръчки
+splash.hint_tiles,Съберете възможно най-много Трева
+splash.mode_chocolate,Целта на нивото - Лава
+splash.mode_diamonds,Целта на нивото - Диаманти
+splash.mode_fishes,Целта на нивото - Моркови
+splash.mode_food,Цел на нивото - Бушки
+splash.mode_jam,Целта на нивото - Енергия
+splash.mode_road,Целта на нивото - Свинка
+splash.mode_tasks,Цел на нивото - Поръчки
+splash.mode_tiles,Целта на нивото - Трева
+talismans_shop.ask_button,Фейсбук
+talismans_shop.ask_text,Помоли се на приятели
+talismans_shop.boost_text,x2 скорост на попълване
+talismans_shop.buy_all,Вземете #amount
+talismans_shop.hint,Двойни монети спечелени
+talismans_shop.recharge,Следващ талисман в: #time
+talismans_shop.title,Талисмани
+talismans_shop.watch_ad_button,Гледай
+talismans_shop.watch_ad_text,Безплатно 1
+tickets_shop.ask_button,Фейсбук
+tickets_shop.ask_text,Помоли се на приятели
+tutorial.001.collect_more_fishes,"Съберете възможно най-много <font color=""\#5885b8"">Моркови!</font>"
+tutorial.001.continue_to_collect_fishes,Продължавай да събираш Моркови!
+tutorial.001.first_swap_red_down,"Преместете червения парче надолу, за да съберете <font color=""\#5885b8"">три в ред</font>
+"
+tutorial.001.remind_collect_three_in_a_row,"Съберете <font color=""\#5885b8"">три парчета в ред</font> еднакъв цвят."
+tutorial.001.second_swap_green_left,"Преместете зеления парче наляво, за да съберете <font color=""\#5885b8"">три в ред</font>
+"
+tutorial.001.third_swap_fish,"<font color=""\#5885b8"">Зеленчуци</font> също могат да бъдат събрани три в ред
+"
+tutorial.001.you_are_doing_well,Ти се справяш добре!
+tutorial.002.get_bonus_line,"...за да получите <font color=""\#5885b8"">бонус - Линия!</font>"
+tutorial.002.try_four_in_a_row,"Опитайте се да съберете <font color=""\#5885b8"">4 в ред!</font>"
+tutorial.002.use_line_bonus,"Съпоставете <font color=""\#5885b8"">три в ред с бонус</font>, за да видите силата на Линията!"
+tutorial.003.hint,Съберете повече моркови от вашия противник!
+tutorial.003.try_l_or_t,"Съпоставяйте парчета <font color=""\#5885b8"">в форма на Т или Л!</font>"
+tutorial.003.use_bomb_bonus,"...да получите <font color=""\#5885b8"">бонус - Бомба!</font>
+Да изведем ядрото!"
+tutorial.004.clear_gold_tiles,"Направете съвпадения на <font color=""\#5885b8"">Тревата</font>, за да я съберете!"
+tutorial.004.combine_omni_with_blue,"Разменете <font color=""\#5885b8"">Молниената</font> фишка с блу фишката, за да премахнете всички сини фишки от дъската!"
+tutorial.004.try_five_in_a_row,"Опитайте се да съберете <font color=""\#5885b8"">5 в ред!</font>"
+tutorial.005.two_bonus_can_combine,"Всеки <font color=""\#5885b8"">два бонуса може да бъдат слети</font> за да получите още по-голям бонус!"
+tutorial.007.collect_food,"Направете съвпадения до <font color=""\#5885b8"">Орехите</font>"
+tutorial.007.move_character,"Събирайте бушки, за да <font color=""\#5885b8"">водите Прасето напред!</font>"
+tutorial.008.make_mine_bonus,"Съпоставете <font color=""\#5885b8"">четири парчета в квадрат</font> и получете бонус - Светлинарка!"
+tutorial.008.use_mine_bonus,"Събери три в ред с <font color=""\#5885b8"">Светлинка</font>, за да я използваш!"
+tutorial.009.make_tint_bonus,"Направете <font color=""\#5885b8"">голяма Т форма</font> и 
+ще получите бонус - Малка!"
+tutorial.009.use_tint_bonus,"<font color=""\#5885b8"">Боядисването</font> може да бъде заменено с всяка парче!"
+level_popup.adventure.title,Ниво
+lives_shop.ma_hint,"Нужни са животи, за да
+продължите да играете Приключението"

@@ -1,0 +1,46 @@
+{
+	"name": "People Onet",
+	"short_name": "People Onet",
+	"description": "People Onet",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "20x20",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-32.png",
+			"sizes": "40x40",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-64.png",
+			"sizes": "80x80",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-80.png",
+			"sizes": "100x100",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-128.png",
+			"sizes": "160x160",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-256.png",
+			"sizes": "320x320",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-512.png",
+			"sizes": "640x640",
+			"type": "image/png"
+		}
+	]
+}

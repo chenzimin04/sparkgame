@@ -1,0 +1,18 @@
+{
+  "resolution": "standard",
+  "image1": "strawberry_garden_a.jpg",
+  "image2": "strawberry_garden_b.jpg",
+  "differences":
+  [
+    {
+      "x": 872.0,
+      "y": 583.0,
+      "size": 145.0
+    },
+    {
+      "x": 705.0,
+      "y": 399.0,
+      "size": 260.0
+    }    
+  ]
+}

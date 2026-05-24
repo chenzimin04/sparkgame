@@ -1,0 +1,365 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 530,
+				"x": 375,
+				"var": "pngBg",
+				"top": 0,
+				"skin": "images/grid/maskGray.png",
+				"sizeGrid": "2,3,4,3",
+				"right": 0,
+				"left": 0,
+				"bottom": 0,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 3
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 217,
+				"x": 0,
+				"width": 750,
+				"var": "centerBox",
+				"height": 900
+			},
+			"compId": 5,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 0,
+						"x": 690,
+						"var": "btnClose",
+						"skin": "images/result/button_gb.png",
+						"label": "label",
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 37
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 179,
+						"x": 370,
+						"var": "imgLight",
+						"skin": "images/egg/bgLight_1.png",
+						"scaleY": 1.5,
+						"scaleX": 1.5,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 35
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 178,
+						"x": 373,
+						"var": "iconSolider",
+						"skin": "images/man/soliderA1_1.png",
+						"rotation": 90,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 6
+				},
+				{
+					"type": "Box",
+					"props": {
+						"y": 277,
+						"x": 227,
+						"width": 300,
+						"var": "boxStar",
+						"height": 52
+					},
+					"compId": 43
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 350,
+						"x": 0,
+						"width": 375,
+						"skin": "images/result/icon_gq_btbg.png",
+						"sizeGrid": "23,0,35,359",
+						"height": 166
+					},
+					"compId": 17,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 0,
+								"x": 750,
+								"width": 375,
+								"skin": "images/result/icon_gq_btbg.png",
+								"sizeGrid": "23,0,35,359",
+								"scaleX": -1,
+								"height": 166
+							},
+							"compId": 20
+						},
+						{
+							"type": "Label",
+							"props": {
+								"y": 29,
+								"x": 77,
+								"width": 600,
+								"var": "labTitle",
+								"text": "哇！偶遇一枚传说士兵！",
+								"stroke": 1,
+								"fontSize": 26,
+								"color": "#ffffff",
+								"bold": true,
+								"align": "center"
+							},
+							"compId": 32
+						},
+						{
+							"type": "Label",
+							"props": {
+								"y": 72,
+								"x": 73,
+								"wordWrap": true,
+								"width": 600,
+								"var": "labRemark",
+								"valign": "middle",
+								"text": "快快邀请他加入战斗吧",
+								"stroke": 1,
+								"leading": 8,
+								"height": 62,
+								"fontSize": 23,
+								"color": "#ffffff",
+								"align": "left"
+							},
+							"compId": 33
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 795,
+						"x": 375,
+						"width": 330,
+						"var": "btnVideo",
+						"skin": "images/result/button_yellow.png",
+						"sizeGrid": "0,57,0,62",
+						"label": "label",
+						"height": 116,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 18,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 24,
+								"x": 38,
+								"var": "iconAd",
+								"skin": "images/result/button_sp.png",
+								"label": "label"
+							},
+							"compId": 23
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 23,
+								"x": 117,
+								"skin": "images/result/button_word_mfyq.png",
+								"label": "label"
+							},
+							"compId": 24
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 676,
+						"x": 375,
+						"width": 330,
+						"var": "btnFree",
+						"skin": "images/result/button_yellow.png",
+						"sizeGrid": "0,57,0,62",
+						"label": "label",
+						"height": 116,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 38,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 23,
+								"x": 71,
+								"skin": "images/result/button_word_ljyq.png",
+								"label": "label"
+							},
+							"compId": 40
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 635,
+						"x": 375,
+						"width": 330,
+						"var": "btnDaimond",
+						"skin": "images/result/button_blue.png",
+						"sizeGrid": "0,57,0,62",
+						"height": 116,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 15,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 29,
+								"x": 52,
+								"skin": "images/result/fly1.png"
+							},
+							"compId": 31
+						},
+						{
+							"type": "Label",
+							"props": {
+								"y": 32,
+								"x": 112,
+								"var": "labDaimond",
+								"text": "100钻邀请",
+								"fontSize": 36,
+								"color": "#ffffff",
+								"bold": true
+							},
+							"compId": 36
+						}
+					]
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": -10,
+						"x": 255,
+						"width": 240,
+						"var": "labName",
+						"text": "label",
+						"stroke": 1,
+						"fontSize": 34,
+						"color": "#ffffff",
+						"bold": true,
+						"align": "center"
+					},
+					"compId": 41
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 635,
+						"x": 375,
+						"width": 330,
+						"var": "btnGold",
+						"skin": "images/result/button_green.png",
+						"sizeGrid": "0,57,0,62",
+						"height": 116,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 45,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 29,
+								"x": 21,
+								"skin": "images/result/icon_zy_jb.png"
+							},
+							"compId": 46
+						},
+						{
+							"type": "Label",
+							"props": {
+								"y": 38,
+								"x": 68,
+								"width": 243,
+								"var": "labGold",
+								"text": "12888金币邀请",
+								"height": 30,
+								"fontSize": 30,
+								"color": "#ffffff",
+								"bold": true,
+								"align": "center"
+							},
+							"compId": 47
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 856,
+						"x": 266,
+						"width": 45,
+						"visible": false,
+						"var": "iconMore",
+						"skin": "images/result/icon_zy_jq.png",
+						"rotation": 1,
+						"height": 42
+					},
+					"compId": 49,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 8,
+								"x": 46.94140625,
+								"text": "+180(开局优势)",
+								"strokeColor": "#e5af4f",
+								"stroke": 1,
+								"height": 26,
+								"fontSize": 26,
+								"color": "#ffffff",
+								"bold": true
+							},
+							"compId": 48
+						}
+					]
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/grid/maskGray.png",
+		"images/result/button_gb.png",
+		"images/egg/bgLight_1.png",
+		"images/man/soliderA1_1.png",
+		"images/result/icon_gq_btbg.png",
+		"images/result/button_yellow.png",
+		"images/result/button_sp.png",
+		"images/result/button_word_mfyq.png",
+		"images/result/button_word_ljyq.png",
+		"images/result/button_blue.png",
+		"images/result/fly1.png",
+		"images/result/button_green.png",
+		"images/result/icon_zy_jb.png",
+		"images/result/icon_zy_jq.png"
+	],
+	"loadList3D": []
+}

@@ -1,0 +1,1032 @@
+ID,ko-KR
+ad_failed.button,확인
+ad_failed.message,지금 비디오를 찾을 수 없습니다. 나중에 다시 시도해주세요.
+ad_failed.title,이런...
+ad_magic.button,보기
+ad_magic.message,보는 것으로 보상을 받으시겠습니까?
+ad_magic.title,달콤한 돼지 매직
+android_app.button,설치
+android_app.text.release,친구들! 우리 게임이 안드로이드에서 이용할 수 있게 되었습니다. 어서 앱을 다운로드하세요!
+android_app.title,이제 안드로이드에서 하세요!
+android_update.restart.no,나중에
+android_update.restart.text,지금 설치하시겠습니까?
+android_update.restart.title,업데이트 준비 완료!
+android_update.restart.yes,네
+avatar_already_changed.button,확인
+avatar_already_changed.message,아바타를 이미 변경했습니다. 아바타는 한 번만 변경할 수 있습니다.
+bookmark.daily,도전
+bookmark.friends,친구
+bookmark.settings,설정
+booster_hint.cross,%booster_shop.hint.ingame.cross%
+booster_hint.hammer,%booster_shop.hint.ingame.hammer%
+booster_hint.hand,%booster_shop.hint.ingame.hand%
+booster_shop.buy,#count를 구매하세요
+booster_shop.hint.ingame.cross,마법의 지팡이를 사용하여 한 행과 한 열의 피스를 제거하세요.
+booster_shop.hint.ingame.hammer,망치로 타일을 제거하세요!
+booster_shop.hint.ingame.hand,근접한 각각의 조각들을 교환하기 위해 장갑을 사용하세요!
+booster_shop.hint.prelevel.add_bomb,보너스 폭탄이 이미 보드에 있는 어떤 레벨도 시작하세요!
+booster_shop.hint.prelevel.add_line,보드에 이미 라인이 있는 어떤 레벨도 시작하세요!
+booster_shop.hint.prelevel.add_omni,이미 보드에 있는 번개로 어떤 레벨도 시작하세요!
+booster_shop.hint.prelevel.add_tint,이미 보드에 있는 페인트로 어떤 레벨도 시작하세요!
+booster_shop.hint.prelevel.double_fly,이 레벨에서 만들어진 모든 반딧불을 두 배로 늘려라!
+booster_shop.title.ingame.cross,마법의 지팡이
+booster_shop.title.ingame.hammer,망치
+booster_shop.title.ingame.hand,장갑
+booster_shop.title.prelevel.add_bomb,봄브 부스터
+booster_shop.title.prelevel.add_line,라인 부스터
+booster_shop.title.prelevel.add_omni,번개 부스터
+booster_shop.title.prelevel.add_tint,페인트 부스터
+booster_shop.title.prelevel.double_fly,불꽃놀이 강화 x2
+chest_open.collection_complete,수집되었습니다!
+chest_open.ok,확인
+chest_opening.button,멋지다!
+chest_opening.reward,보상
+conflict_popup.continue,계속하기
+conflict_popup.hint_syncing,동기화 중...
+conflict_popup.skip,오프라인으로 계속하기
+credits.art,아트 디자인
+credits.artists,"그래픽 아티스트 친구들에게 많은 사랑을!
+아름다운 아바타 캐릭터들을 위해!
+"
+credits.gamedesign,게임 디자인
+credits.mentions,"특별한 감사를 
+우리 친구들에게
+"
+credits.programming,프로그래밍
+credits.title,우리 팀!
+daily_help.button,확인
+daily_help.chest,대상
+daily_help.reward,한 번만 보상
+daily_help.text,"매일 최고의 플레이어들이 하나의 레벨에서 스킬과 경쟁을 보여줍니다.
+
+가장 높은 점수를 기록한 플레이어는 데이의 상금 - 관과 보석 상자를 받게 됩니다!"
+daily_help.title,매일 도전
+daily_reward.button,멋지다!
+daily_reward.reward,보상
+daily_reward.title.place_1,당신은 매일 도전의 승리자입니다!
+daily_reward.title.place_generic,"일일 도전 완료
+\##place 등급을 획득했습니다!"
+daily.drag_to_update,새로고침하려면 끌어오세요
+daily.epic_sunday_ribbon,친근한 도전
+daily.finishes_in,#time 내에 경기가 종료됩니다.
+daily.finishes_now,도전 종료되었습니다!
+daily.high_score,새로운 기록!
+daily.medal_chest_text,#amount 메달을 수집하세요!
+daily.next_time,다음 데일리 도전은 #time 후에 시작합니다.
+daily.next_time_now,새로운 데일리 챌린지가 시작되었습니다!
+daily.no_yesterday_yet,이전 데일리 챌린지에 참여하지 않았습니다.
+daily.play,플레이
+daily.retry_submit,다시 시도하다
+daily.rewards_tab,데일리 도전 보상
+daily.rewards.bubble,"별과 메달을 모으세요
+보물이 든 상자를 열어보세요!"
+daily.score_not_accepted,이 결과는 데일리 챌린지가 끝난 후에 게임을 마치셨기 때문에 리더보드에 기록되지 않습니다.
+daily.star_chest_claim,열기
+daily.star_chest_collected_text,내일 또 다른 상자를 찾아오세요
+daily.star_chest_text,3 별로 7개의 데일리 도전을 연속으로 완료하세요!
+daily.submit_error,결과를 보낼 수 없었습니다.
+daily.today,매일 도전
+daily.today_mark,오늘
+daily.update_error,인터넷 연결이 없습니다.
+daily.wait_text,
+daily.watch_replay.button,보기
+daily.watch_replay.text,게임 리플레이
+daily.welcome_reward_first,%daily_help.text%
+daily.welcome_text,와아아! 새로운 일일 도전이 시작되었습니다!
+daily.yesterday,어제의 사다리
+daily.yesterday_updating,결과를 가져오는 중...
+demo.finished.text,"축하합니다, 트라이얼 버전을 완료했습니다! <p class=""ma-link"">PecPoc.com<p class=""demo-hint"">에서 전체 버전을 무료로 플레이하세요. 귀하의 진행 상황은 손실되지 않습니다."
+demo.nag.text,"무료 보너스는 전체 버전에서만 사용할 수 있습니다. <p class=""ma-link"">PecPoc.com<p class=""demo-hint"">에서 전체 버전을 계속해서 플레이하세요. 귀하의 진행 상황은 손실되지 않습니다."
+event_ny.next_in_hint,다음 선물을 받으세요: #time
+event_ny.title,새해 선물
+fake_ad.reward_in,보상은...
+fake_ad.tutorial,"앗, 지금 비디오가 없어요...
+걱정 마세요, 돼지 마법으로 대신해 볼까요!"
+fake_ad.your_ad_here,귀하의 광고가 여기에 있습니다.
+fb_login_failed.message,페이스북에 연결하지 못했습니다. 다시 시도하시겠습니까?
+fb_notification.button,연결하기
+fb_notification.message,프로그램 진행 상황을 온라인으로 동기화하기 위해 페이스북에 연결하세요!
+fb_notification.no_post_hint,우리는 당신의 허락 없이 게시하지 않습니다.
+fb_notification.title,진행 상황 저장하기
+feedback.failed.button,계속하기
+feedback.failed.message,"피드백을 보낼 수 없습니다.
+인터넷 연결을 확인하세요.
+"
+feedback.failed.title,이런...
+feedback.ok.button,확인
+feedback.ok.message,"우리는 당신의 피드백을 받았습니다.
+게임을 개선하는 데 도움이 되어 감사합니다."
+feedback.ok.title,피드백 전송되었습니다!
+friends_tab.failed_social.button,확인
+friends_tab.failed_social.text,친구 목록을 업데이트하기 위해 연결을 확인해야합니다.
+friends_tab.has_fb.button,친구를 초대하기
+friends_tab.has_fb.text,더 많은 친구를 가지면 더 많은 선물을 받을 수 있습니다!
+friends_tab.no_fb.button,연결하기
+friends_tab.no_fb.hint,우리는 당신의 허락 없이 게시하지 않습니다.
+friends_tab.no_fb.text,Facebook에 연결하여 친구들로부터 선물을 받고 그들의 진행 상황을 확인하세요.
+friends_tab.no_permission.button,네
+friends_tab.no_permission.text,친구 목록에 접근하여 더 많은 선물을 받으시겠습니까?
+friends_tab.no_social.text,소셜 네트워크에 연결하여 친구들로부터 선물을 받고 그들의 진행 상황을 볼 수 있습니다.
+friends_tab.no_y8.button,연결하기
+friends_tab.no_y8.text,Y8 연결하여 친구들로부터 선물을 받고 그들의 진행 상황을 따라가보세요.
+friends_tab.ok_invite_button,친구를 초대하기
+friends_tab.ok_invite_gift_text,친구를 더 많이 모으면 더 많은 선물을 받아보세요!
+friends_tab.ok_invite_text,더 많은 친구를 가지면 더 많은 선물을 받을 수 있습니다!
+friends_tab.title,친구
+friends_tab.vk_friends_permission_button,네
+friends_tab.vk_friends_permission_text,친구 목록에 접근하여 더 많은 선물을 받으시겠습니까?
+friends_tab.vk_invite_button,친구를 초대하기
+friends_tab.vk_invite_text,더 많은 친구를 가지면 더 많은 선물을 받을 수 있습니다!
+friends.gift.claim,열기
+game_results.click_to_continue,계속하려면 클릭하세요
+game_results.tap_to_continue,탭하여 계속하세요
+game.click_to_continue,계속하려면 클릭하세요
+game.info.ahead,당신은 #fmtnum 번 움직이고 있습니다.
+game.info.behind,#fmtnum 단계 뒤에 있습니다.
+game.info.goals,목표
+game.info.moves,이동
+game.info.pause,일시 정지
+game.info.undo,취소
+game.pause.continue,"<font color=""\#408fda"">게임 재개"
+game.pause.leave_forfeit,"<font color=""\#ff0000"">게임 종료"
+game.pause.leave_safe,게임 종료
+game.pause.title,일시 정지
+game.shoutout.their_game_result,점수: #score
+game.shoutout.well_done,잘 하셨습니다!
+game.shoutout.your_game_result,당신의 점수: #score
+game.tap_to_continue,탭하여 계속하세요
+game.tutorial.continue,계속하기
+gamemode.capital.aquarium,물고기
+gamemode.capital.bird,새
+gamemode.capital.bubble,버블
+gamemode.capital.cats,고양이
+gamemode.capital.chocolate,라바
+gamemode.capital.diamonds,다이아몬드
+gamemode.capital.ducks,오리 새끼
+gamemode.capital.energy_cube_reciever,크리스탈
+gamemode.capital.energycube,젤리
+gamemode.capital.fishes,당근
+gamemode.capital.flower,꽃바구니
+gamemode.capital.food,단풍나무 열매
+gamemode.capital.fossils,오징어
+gamemode.capital.frog,개구리
+gamemode.capital.grass,풀
+gamemode.capital.gum,꿀
+gamemode.capital.honeybee,곰
+gamemode.capital.hotlava,라바
+gamemode.capital.ice,얼음
+gamemode.capital.jam,에너지
+gamemode.capital.jam_reciever,크리스탈
+gamemode.capital.pearl,보석
+gamemode.capital.road,돼지고기
+gamemode.capital.sausage,소시지
+gamemode.capital.statue,개
+gamemode.capital.stone,돌
+gamemode.capital.tasks,주문
+gamemode.capital.tiles,풀
+gamemode.capital.waterfish,물고기
+gamemode.capital.blooplet,블루플렛스
+gameresult.adventure.completed_continue,계속하기
+gameresult.adventure.leave,떠나가기
+gameresult.adventure.play_next,계속하기
+gameresult.adventure.retry,다시 시도하기
+gameresult.boosters,부스터 선택
+gameresult.complete.line1,레벨
+gameresult.complete.line2,완료!
+gameresult.continue,계속하기
+gameresult.daily.continue,계속하기
+gameresult.daily.leave,나가기
+gameresult.daily.retry,플레이
+gameresult.dash,-
+gameresult.forfeit,당신은 포기했습니다!
+gameresult.map.continue,계속하기
+gameresult.map.retry,다시 시도하기
+gameresult.pvp.continue,계속하기
+gameresult.pvp.play_another,다른 레벨
+gameresult.pvp.play_next,다른 레벨
+gameresult.pvp.rematch_lose,리매치
+gameresult.pvp.rematch_win_draw,다시 시작하기
+gameresult.rematch,리매치
+gameresult.rematch_bet,베팅 #bet
+gameresult.required_ticket,필요합니다
+gameresult.retry,다시 시작하기
+gameresult.rewards,보상
+gameresult.title.completed,"<font color=""\#20ea6d"">레벨 완료!"
+gameresult.title.draw,"<font color=""\#5885B8"">무승부"
+gameresult.title.lose,"<font color=""\#ff5666"">지금 졌어요"
+gameresult.title.win,"<font color=""\#47f05f"">당신이 이겼습니다!"
+gameresult.vs,VS
+gameresults.inter_ad_in_large,#count 플레이까지
+gameresults.inter_ad_in_small,#count 플레이까지
+gems_shop.title,보석 상점
+global.click_to_continue,계속하려면 클릭하세요
+global.default_player_name,플레이어
+global.tap_to_continue,탭하여 계속하세요
+home.hint_daiy,매일 도전해보세요
+home.hint_play_pvp,라이프가 다 떨어졌더라도 듀얼을 여전히 할 수 있습니다!
+home.play,플레이
+html.loading,로딩
+iap_failed.button,확인
+iap_failed.message,구매가 실패했습니다.
+iap_need_facebook.message,페이스북에 연결하여 보석을 충전하세요.
+iap_pending.button,확인
+iap_pending.message,구매가 처리 중입니다.
+intro_screen.another_device,코드로
+intro_screen.login_back,뒤로
+intro_screen.login_button,로그인
+intro_screen.login_fb,Facebook
+intro_screen.login_ok,Odnoklassniki
+intro_screen.login_singular,로그인
+intro_screen.login_vk,Vkontakte
+intro_screen.login_with,로그인하기
+intro_screen.login_y8,Y8
+intro_screen.login_yandex,Yandex
+intro_screen.new_player,새로운 플레이어
+introprofile.accept_avatar,선택
+introprofile.accept_name,계속하기
+introprofile.editavatar,프로필 사진 선택
+introprofile.editname,이름을 입력하세요
+invite_request.message,우리 함께 최고의 매치 3 게임을 해보자!
+invite_request.title,친구들을 초대해 Skydom 함께하기
+level_popup.goals,목표
+level_popup.play,플레이
+level_popup.prelevel_boosters,부스터 선택
+level_popup.title,레벨 #level
+level_popup.title_hard,어려움
+level_popup.title_ultra_hard,슈퍼 하드
+level_popup.title_very_hard,매우 어려움
+link.support,https://Skydom.freshdesk.com/en/support/solutions
+link.support_beta,https://Skydombeta.freshdesk.com/en/support/solutions
+lives_shop.buy_all,5개 구매하기
+lives_shop.hint,"모험을 계속하려면 
+라이프가 필요합니다.
+"
+lives_shop.recharge,다음 생명: #time
+lives_shop.title,라이브
+lives_shop.watch_ad_button,보기
+lives_shop.watch_ad_text,무료 1
+load_player.almost_done,거의 끝났어요...
+load_player.continue_offline,오프라인으로 계속하기
+load_player.loading_save,플레이어 데이터를 불러오는 중...
+load_player.loading_save_failed,플레이어 데이터를 불러올 수 없습니다.
+load_player.loading_save_failed_in,"플레이어 데이터를 불러올 수 없습니다.
+#time 후 다시 시도합니다...
+"
+load_player.logging_in,로그인 중...
+load_player.logging_in_failed,로그인하지 못했습니다.
+load_player.logging_in_failed_in,로그인하지 못했습니다. #time 후 다시 시도합니다...
+load_player.new_player,나는 새로운 플레이어입니다.
+load_player.retry_now,지금 다시 시도하기
+login_failed.button,다시 시도하다
+login_failed.title,연결하지 못했습니다
+magic.click_to_continue,계속하려면 클릭하세요
+magic.reward,보상
+magic.tap_to_continue,탭하여 계속하세요
+map.gates_coming_soon,"새로운 레벨
+곧 나옵니다!"
+match3.level_complete.line1,모든 목표
+match3.level_complete.line2,달성되었습니다!
+match3.score_pve,#score/#required
+match3.shoutout.1_move,마지막 이동!
+match3.shoutout.2_moves,2 이동
+match3.shoutout.5_moves,5 동작
+match3.shoutout.no_moves,더 이상 이동할 수 없습니다.
+match3.shoutout.no_reshuffle,"재섞이 불가능합니다
+가능한 이동이 없습니다"
+merge.button.mine,선택하기
+merge.button.their,선택하기
+merge.description.account_merge,"스카이돔을 이미 플레이하셨군요.
+선호하는 프로필을 선택해주세요!
+"
+merge.description.ingame_conflict,%merge.description.login_conflict%
+merge.description.login_conflict,"다수의 장치에서 플레이했습니다.
+선호하는 저장을 선택하세요.
+"
+merge.hint.mine,로컬
+merge.hint.their,서버에서
+merge.title,진행 싱크로나이제이션
+modal.adblock.button,확인
+modal.adblock.text,우리는 당신이 광고 차단기를 사용하고 있다는 것을 알았습니다.<br>이 페이지에서 비디오를 보려면 광고 차단기를 비활성화하거나 백리스트에 추가하십시오.
+modal.adblock.title,광고 차단기
+modal.error.button,새로고침
+modal.error.text,죄송합니다. 오류가 발생했습니다. 페이지를 새로고침해주세요.
+modal.error.title,앗! 뭔가 잘못됐네요...
+modal.fb_login_proxy.button,계속하기
+modal.fb_login_proxy.text,Facebook에 연결하기
+modal.fb_login_proxy.title,
+modal.fb_purchase_proxy.button,계속하기
+modal.fb_purchase_proxy.gems,보석
+modal.first_login_failed.button,다시 시도하기
+modal.first_login_failed.text,지금 Skydom에 연결할 수 없습니다. 나중에 다시 연결해 보세요.
+modal.first_login_failed.title,연결하지 못했습니다.
+modal.gpu_error.button,자세한 정보
+modal.gpu_error.text,브라우저에서 GPU 가속을 활성화해야 게임을 실행할 수 있는 것 같습니다.
+modal.gpu_error.title,흠..
+modal.maintenance.button,확인
+modal.maintenance.text,점검이<br> <b>#time</b><br> 3시간 동안 진행됩니다.<br> 클라우드 저장 및 진행 상황 동기화가 작동하지 않습니다.
+modal.maintenance.title,유지 보수
+modal.no_hardware_accel_ff.button,확인
+modal.no_hardware_accel_ff.text,"브라우저가 성능 문제를 보고하고 있습니다. 게임이 매우 느려질 수 있습니다!
+
+해결하려면 <a target=""_blank"" href=""https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features"">https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features</a>을 읽어주세요."
+modal.no_hardware_accel_ff.title,성능 문제
+modal.no_hardware_accel.button,확인
+modal.no_hardware_accel_vk.button,확인
+modal.no_hardware_accel.text,"브라우저가 성능 문제를 보고하고 있습니다. 게임이 매우 느릴 수 있습니다!
+
+해결하려면 <a target=""_blank"" href=""https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm"">https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm</a>을 읽어주세요."
+modal.no_hardware_accel_vk.text,"브라우저가 성능 문제를 보고하고 있습니다. 게임이 매우 느려질 수 있습니다!
+
+해결하려면 <a target=""_blank"" href=""https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery"">https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery</a>을 읽어주세요."
+modal.no_hardware_accel.title,성능 문제
+modal.no_hardware_accel_vk.title,성능 문제
+modal.nolocalstorage.button,확인
+modal.nolocalstorage.text,"브라우저가 게임 저장을 허용하지 않는 것 같습니다. 이것은 브라우저의 익명 모드를 사용하여 발생할 수 있습니다.
+<p>
+진행 상황을 잃지 않도록 로그인하십시오!"
+modal.nolocalstorage.title,익명 모드
+modal.oom.button,자세한 정보
+modal.oom.text,게임에 충분한 메모리가 없는 것 같습니다.
+modal.oom.title,아쉽게도 메모리가 부족합니다.
+modal.out_of_sync.button,새로고침
+modal.out_of_sync.text,브라우저 여러 탭에서 스카이돔이 열려 있는 것 같습니다.<br>이 탭에서 계속하여 게임을 하기 위해서는 새로고침을 해주세요.
+modal.out_of_sync.title,스카이돔과 관련된 여러 개의 창?
+modal.vk_inapp_not_allowed.button,가기
+modal.vk_inapp_not_allowed.text,"구매는 <a href=""https://m.vk.com/app7409298"" target=""_blank"">m.vk.com</a>에서만 가능합니다."
+modal.vk_inapp_not_allowed.title,
+modal.wasm.button,자세한 정보
+modal.wasm.text,브라우저가 WebAssembly을 지원하지 않는 것 같습니다.
+modal.wasm.title,흠..
+modal.webgl.button,자세한 정보
+modal.webgl.text,브라우저가 WebGL을 지원하지 않는 것 같습니다.
+modal.webgl.title,흠..
+modal.yandexsdk.text,"양덱스 SDK가 제대로 로드되지 않았습니다.
+
+다시 시도하시겠습니까?
+"
+modal.yandexsdk.title,이런
+modal.yandexsdk.button,확인
+name_already_changed.button,확인
+name_already_changed.message,이름이 이미 변경되었습니다. 이름을 변경할 수는 한 번뿐입니다.
+networks.hint,"소셜 네트워크에 연결하는 것을 추천합니다!
+ - 클라우드에 저장하여 진행 상황을 잃지 마십시오.
+ - 친구들과 함께하고 선물을 받으세요.
+ - 우리는 당신의 허락 없이 게시하지 않습니다.
+"
+nickname.default,플레이어
+nickname.default_friend,토끼
+nickname.trainer,코치 #nickname
+nickname.tutorial_001,코치 안나
+nickname.tutorial_002,코치 조니
+nickname.tutorial_003,코치 폴리
+nickname.you,당신
+notification.daily_lead_1,👑 #Name이 데일리 챌린지에서 지도권을 차지했습니다! 첫 번째 자리를 되찾고 싶으신가요?
+notification.daily_lead_2,👑 #Name이 데일리 챌린지에서 지도권을 차지했습니다!
+notification.daily_lead_3,👑 오늘 데일리 챌린지에는 뜨거워요! #Name이 당신의 첫 번째 자리를 차지했습니다.
+notification.daily_lead_4,👑 #Name이 이겼습니다. 도전에서 리더십을 되찾고 싶으신가요?
+notification.daily_lead_5,"👑 이런, #Name 이 오늘의 도전에서 당신을 앞질렀네요."
+notification.daily_lead.meta,"@{""variants"":5}"
+notification.reminder_1,😏 최고의 플레이어를 위해 새로운 상대가 기다리고 있습니다! 😎
+notification.reminder_10,👸🤴 오늘 일일 도전에서 승자가 누구가 될까요?
+notification.reminder_11,🙄 우리는 #PlayerName에 의해 얼마나 큰 패배를 당했는지 거의 잊어버렸네요!
+notification.reminder_12,💆 스카이돔을 하기에 좋은 날이군요! 💪
+notification.reminder_13,🙈😬 여기 이기기를 꿈꾸는 두 남자가 있어요. 그들이 이길 기회가 있을까요?
+notification.reminder_14,🐰 토끼가 당신에게 선물을 준비했어요! 🎁
+notification.reminder_15,"😎 #PlayerName, 다시 이기는 시간이야! 🕹"
+notification.reminder_16,👾👀 쉬는 시간이라 승리를 추구해보자! 🤗
+notification.reminder_17,🌟🌟🌟 레벨이 스스로 완료되지 않습니다! 함께 놀아볼까요? 🥇😉
+notification.reminder_18,"#PlayerName, 누군가 당신을 이기고 싶어합니다. 성공할까요? 😬😬😬"
+notification.reminder_19,👋 이제 편하게 쉬고 몇 번 이길 시간이 되었나요? 🤔
+notification.reminder_2,아직 #PlayerName에게 패배하지 않은 사람들이 있습니다! 기회를 주시겠습니까?
+notification.reminder_20,🦄 우리 무지개 유니콘을 만났나요?
+notification.reminder_3,🐷 돼지 매직이 기다리고 있어요! 🐽
+notification.reminder_4,🙈 좋은 매치3 플레이어를 오랫동안 보지 못했네요! 그는 여전히 여기 있나요? 👀
+notification.reminder_5,🏆 오늘 이미 승리가 있었나요?
+notification.reminder_6,❤️❤️❤️❤️❤️ 모든 라이프가 회복되었습니다! 이제 승리하세요!
+notification.reminder_7,🖐🎟 5 토큰이 사용되기를 기다리고 있습니다!
+notification.reminder_8,🐰😍 토끼가 너한테 선물을 준비했어! 🎁
+notification.reminder_9,👑💎 일일 도전이 시작되었습니다! 가장 먼저 공식 메달과 보석을 받을 사람은 누구일까요?
+ny.button_claim,선물 열기
+ny.button_next_in,선물 받을 시간: #time
+ok_login_failed.message,오도노클라시니키에 연결하지 못했습니다. 다시 시도하시겠습니까?
+ok.share_tick,공유하기
+out_of_moves.continue_buy_moves,플레이 온 #price
+out_of_moves.continue_watch,보기
+out_of_moves.give_up,포기하기
+out_of_moves.press_to_view,"여기를 눌러 
+보드를 보세요
+"
+out_of_moves.title.almost_there,거의 다 됐네요...
+out_of_moves.title.regular,행동이 끝났습니다
+outofgems.button,상점
+outofgems.message,"금속이 부족하시군요.
+상점에서 더 사세요!"
+outofgems.title,보석이 부족합니다.
+page.loading.hint_1,로딩 중...
+page.loading.hint_2,렌더링 효과 💎💎💎
+page.loading.hint_3,"걱정하지 마세요, 고정되지 않았어요! 😜"
+page.loading.hint_4,🚀 게임이 곧 로드됩니다! 🚀
+page.loading.hint_5,처음 로딩은 조금 걸릴 수 있습니다👌
+page.loading.hint_6,🔥 거의 다 됐어요...👾
+page.loading.hint_7,조금만 남았어요 😊
+placeholder.hint_daily,10 레벨을 완료하면 잠금이 해제됩니다!
+placeholder.timestring,12시 34분 56초
+placeholder.title_daily,"매일 도전
+잠김
+"
+popup_name.accept_name,계속하기
+popup_name.not_now,지금은 아니오
+prelevel_text.002,"당신의 상대보다 더 많은 <font color=""\#ff5503"">노란 조각</font>을 수집하세요!"
+prelevel_text.004,"당신의 상대보다 더 많은 <font color=""\#ff8800"">당근</font>을 수집하세요!"
+prelevel_text.006,"당신의 상대보다 더 많은 <font color=""\#4499ff"">얼음</font>을 제거하세요!"
+promo_reforged.button,그것을 주워라!
+promo_reforged.text,와우! 새로운 게임 모드 - 스카이돔 리포지드를 런칭했습니다! 런칭을 기념하여 무료 메가 부스터 팩을 증정합니다! 지금 받으시겠습니까?
+promo_reforged.title,스카이돔 리포지드!
+rate_us.description,스카이돔이 어떠세요?
+rate_us.feedback.cancel,지금은 아니오
+rate_us.feedback.description,응답을 받고 싶으면 이메일을 입력하세요.
+rate_us.feedback.email_hint,이메일
+rate_us.feedback.message_hint,우리가 여러분을 위해 게임을 어떻게 개선할 수 있을까요?
+rate_us.feedback.submit,제출하기
+rate_us.star_1,싫어해요
+rate_us.star_2,싫어함
+rate_us.star_3,괜찮아요
+rate_us.star_4,좋아해요
+rate_us.star_5,좋아해요
+rate_us.submit,제출하기
+rate_us.write_review.cancel,지금은 아니오
+rate_us.write_review.google_play,게임에 대한 생각을 공유하거나 Google Play에서 평가해주세요!
+rate_us.write_review.submit,"네, 반갑습니다!"
+rate_us.write_review.yandex,게임에 대한 생각을 공유하거나 Yandex Games에서 평가해보세요!
+rematch_pvp.asks_for_rematch_draw,#name은 다시 한 번 시도하고 싶어합니다.
+rematch_pvp.asks_for_rematch_player_lose,#name이 다시 한 번 대결을 제안합니다!
+rematch_pvp.asks_for_rematch_player_won,#name이 리매치를 원합니다!
+reward.coins,동전
+reward.gems,보석
+reward.lives,라이브
+reward.prelevel.add_bomb,봄브 부스터
+reward.prelevel.add_line,라인 부스터
+reward.prelevel.add_omni,번개 부스터
+reward.prelevel.add_tint,페인트 부스터
+reward.prelevel.double_fly,불꽃놀이 강화 x2
+reward.tickets,토큰
+reward.undo,취소
+search.cannot_connect,인터넷 연결이 없습니다.
+search.failed,앗! 뭔가 잘못됐네요...
+search.loading,로딩 중...
+search.playing_with_trainer,코치와 함께 놀기
+search.readying,상대방 발견!
+search.readying_rematch,준비하세요!
+search.rejected,상대가 도망갔습니다.
+search.searching,상대를 찾는 중...
+search.vs,VS
+search.waiting_opp,상대방을 기다리는 중...
+settings.change_avatar,프로필 사진 변경
+settings.change_avatar.connect_fb,연결하기
+settings.change_avatar.continue,계속하기
+settings.change_avatar.title,새로운 프로필 사진 선택
+settings.change_avatar.warning,"참고: 
+- 프로필 사진은 한 번만 변경할 수 있습니다.
+- Facebook에 연결하여 Facebook 프로필 사진을 사용하세요."
+settings.change_avatar.warning_no_fb,주의: 프로필 사진을 변경할 수는 한 번만 가능합니다.
+settings.change_name,이름 변경
+settings.change_name.accept_name,계속하기
+settings.change_name.do_not_match,이름이 일치하지 않습니다. 다시 시도해주세요.
+settings.change_name.edit,새로운 이름 입력:
+settings.change_name.reenter,새 이름을 다시 입력하세요:
+settings.change_name.same_name,새로운 이름이 기존과 일치합니다.
+settings.change_name.too_long,이 이름이 너무 길어요 - 15글자까지 가능합니다.
+settings.change_name.too_short,이 이름이 너무 짧네요 =)
+settings.change_name.warning,참고: 이름을 변경할 수는 한 번뿐입니다.
+settings.confirm_avatar.cancel,취소
+settings.confirm_avatar.change,변경
+settings.confirm_avatar.title,"프로필 사진을 바꾸시겠습니까?
+당신의 새로운 프로필 사진:
+"
+settings.confirm_avatar.warning,참고: 프로필 사진을 변경할 수는 한 번만 있습니다.
+settings.confirm_name.cancel,취소
+settings.confirm_name.change,확인
+settings.confirm_name.title,이름을 바꾸기로 확실합니까? 새로운 이름은 다음과 같습니다:
+settings.confirm_name.warning,참고: 이름을 변경할 수는 한 번뿐입니다.
+settings.connect_fb,페이스북 연결
+settings.connect_ok,오드노클라시니키 연결하기
+settings.connect_vk,VK 연결하기
+settings.connect_y8,Y8 연결하기
+settings.connect_yandex,Yandex 연결하기
+settings.connected_fb,Facebook
+settings.connected_ok,Odnoklassniki
+settings.connected_vk,VK
+settings.connected_y8,Y8
+settings.connected_yandex,Yandex
+settings.coupon,프로모 코드
+settings.coupon_title,프로모 코드
+settings.coupon.enter,적용하기
+settings.coupon.enter_hint,여기에 프로모션 코드를 입력하세요
+settings.coupon.invalid_code,"<font color=""\#e90047"">이 코드가 잘못되었습니다. 다른 코드를 입력해주세요."
+settings.coupon.missing_code,"<font color=""\#e90047"">프로모션 코드를 입력하세요"
+settings.coupon.ok,코드가 성공적으로 교환되었습니다!
+settings.credits,크레딧
+settings.eula,이용 약관
+settings.fb_hint,페이스북에 연결하여 친구들과 함께 게임하고 진행 상황을 동기화하세요.
+settings.general,일반
+settings.generate_key,코드 만들기
+settings.invite_friends,친구를 초대하기
+settings.language,언어
+settings.language_header,언어 선택
+settings.move_hints,힌트
+settings.music,음악
+settings.networks,연결
+settings.networks_hint,소셜 네트워크를 연결하여 친구들과 함께 게임하고 진행 상황을 동기화하세요.
+settings.notifications,알림
+settings.notifications.daily,데일리 도전
+settings.notifications.disable_all,모두 비활성화
+settings.notifications.disable_night,11시부터 8시까지 비활성화하기
+settings.notifications.gifts,선물
+settings.notifications.others,기타 알림
+settings.open_support,플레이어 지원
+settings.open_vk_group,게임 그룹
+settings.player_id,플레이어 ID 복사
+settings.policy,개인정보 취급방침
+settings.rate_us,우리 게임 평가하기
+settings.report_problem,문제 보고하기
+settings.sound,소리
+settings.support,지원
+settings.telegram_channel,우리 텔레그램 채널을 따라가세요
+settings.telegram_channel_hint,Skydom의 모든 최신 뉴스를 따라주세요.
+settings.telegram_support,텔레그램에서 팬 채팅
+settings.title,설정
+settings.update,업데이트
+settings.y8_hint,Y8에 연결하여 온라인으로 진행 상황을 동기화하세요!
+settings.yandex_hint,Yandex에 연결하여 진행 상황을 동기화하세요!
+shop.gems_restored.accept,우수합니다!
+shop.gems_restored.title,보석 구매 완료
+shop.not_available,사용할 수 없음
+shop.remove_ads_remain_time,광고가 #time 동안 제거되었습니다.
+shop.remove_ads_text,"레벨 간에 광고를 제거하려면
+어떤 구매라도 하세요
+"
+shop.remove_ads_timed,"레벨 간에 광고를 제거하려면
+한 달 동안 어떤 구매를 해야 합니다."
+social_notification.button,연결하기
+social_notification.message,진행 상황을 온라인으로 동기화하기 위해 소셜 네트워크에 연결합시다!
+social_notification.no_post_hint,우리는 당신의 허락 없이 게시하지 않습니다.
+social_notification.title,진행 상황 저장하기
+social_share.button,공유하기
+social_share.chooser_hint,공유하기
+social_share.message,안녕하세요! 이 고유한 PvP 매치 3 게임을 확인해 보세요! https://PecPoc.com에서 다운로드하세요.
+social_share.subject,Skydom을 확인해보세요!
+social_share.title,"Skydom을 공유하세요!
+친구들과 함께 놀아보세요!"
+tempkey_login.button,계속하기
+tempkey_login.empty_key,코드를 입력하지 않았습니다.
+tempkey_login.input.default_hint,코드 입력
+tempkey_login.invalid_key,잘못된 코드
+tempkey_login.message_top,"이곳에서 게임을 계속하려면 설정에서 ""코드 생성""을 클릭하여 이전에 플레이한 코드를 가져와야 합니다.
+"
+tempkey_login.no_connection,연결할 수 없습니다.
+tempkey.fail.button,확인
+tempkey.fail.message,인터넷 연결을 확인하거나 나중에 다시 시도하세요.
+tempkey.fail.title,코드를 만들지 못했습니다.
+tempkey.ok.copied,복사되었습니다!
+tempkey.ok.copy,복사
+tempkey.ok.hint,코드는 4시간 후에 만료됩니다.
+tempkey.ok.message,#tempkey
+tempkey.ok.title,당신의 코드:
+tickets_shop.boost_text,"x2 재생 속도
+"
+tickets_shop.buy_all,#amount 구매하기
+tickets_shop.hint,데일리 챌린지에서 플레이하려면 토큰이 필요합니다.
+tickets_shop.hint_out_of,"<font color=""\#e90047"">럭키 토큰이 더 이상 없습니다."
+tickets_shop.recharge,#time 뒤에 새로운 토큰이 나타납니다.
+tickets_shop.title,기프티콘
+tickets_shop.watch_ad_button,보기
+tickets_shop.watch_ad_text,무료 1
+time.days_hours,"#days<font size=""-15""> </font><font size=""-10"">일</font> #hours<font size=""-15""> </font><font size=""-10"">시간</font>"
+time.hours,"#hours<font size=""-15""> </font><font size=""-10"">시간</font>"
+time.hours_minutes,"#hours<font size=""-15""> </font><font size=""-10"">시간</font> #minutes<font size=""-15""> </font><font size=""-10"">분</font>"
+time.hours_minutes_seconds,"#hours<font size=""-15""> </font><font size=""-10"">시간</font> #minutes<font size=""-15""> </font><font size=""-10"">분</font> #seconds<font size=""-15""> </font><font size=""-10"">초</font>"
+time.hours_seconds,"#hours<font size=""-15""> </font><font size=""-10"">시간</font> #seconds<font size=""-15""> </font><font size=""-10"">초</font>"
+time.less_than_minute,"1<font size=""-15""> </font><font size=""-10"">분</font>"
+time.minutes,"#minutes<font size=""-15""> </font><font size=""-10"">분</font>"
+time.minutes_seconds,"#minutes<font size=""-15""> </font><font size=""-10"">분</font> #seconds<font size=""-15""> </font><font size=""-10"">초</font>"
+time.seconds,"#seconds<font size=""-15""> </font><font size=""-10"">초</font>"
+tutorial_home.play,놀다
+tutorial.001.dialog_tutorial,"<font color=""\#5885b8"">3개의 동일한 색상의 객체를 연속해서 매칭</font>하여 제거하세요."
+tutorial.001.hint,"목표
+12개의 녹색 피스를 수집하세요!"
+tutorial.001.turn_1,인접한 것들을 교환하여 같은 색상의 3개의 조각을 매칭하세요!
+tutorial.002.hint,상대보다 더 많은 노란 조각을 수집하세요!
+tutorial.skip,건너뛰기
+undo_shop.buy_undos,#count를 구매하세요.
+undo_shop.hint,되돌리기는 마지막 이동을 되돌릴 수 있습니다.
+undo_shop.recharge,다음 실행 취소까지: #time
+undo_shop.title,행동 취소
+undo_shop.watch_ad_button,보기
+undo_shop.watch_ad_text,무료 1
+undo_shop.you_have,당신은 #amount 취소가 있습니다.
+update.button,업데이트
+update.new_version,최신 버전으로 업데이트하세요!
+update.new_version_value,"<font color=""\#5885b8"">#version"
+update.old_version,오래된 버전을 사용하고 있습니다.
+update.old_version_value,"<font color=""\#a5a7aa"">#version"
+update.text,"이전 버전을 사용하고 계십니다.
+최신 버전으로 업데이트해 주세요!"
+update.title,새로운 버전이 출시되었습니다!
+update.web.button,새로고침
+update.web.message,페이지를 새로 고치십시오.
+update.web.title,게임 업데이트가 출시되었습니다!
+vk_login_failed.message,VK에 연결하지 못했습니다. 다시 시도하시겠습니까?
+vk_promo.title,VK에서의 선물!
+vk.share_tick,공유하기
+watch_for_gems.button,보기
+watch_for_gems.text,+#amount
+web.webg_context_lost,"WebGL 컨텍스트가 손실되었습니다, 복원 중..."
+welcome_bonus.speech_1,"안녕하세요, #PlayerName!
+나는 당신에게 선물을 가지고 있어요.
+하나를 선택해주세요!
+"
+welcome_bonus.speech_2,"생각이 현실화되고 있어요... 오옴!
+선물을 생각하고 보니 이렇게 됐네요 =)"
+welcome_bonus.speech_3,너가 없을 때 두 개의 상자를 발견했어! 어느 것을 열어볼까?
+welcome_bonus.speech_4,"#PlayerName님, 돌아오셨군요!
+구름 속에서 떨어진 것을 보세요!"
+welcome_bonus.speech_5,앵무새가 날아왔어요... 그들은 아이들만 아니라 다른 것도 가져오는 걸 알았어요! ;)
+welcome_bonus.speech_6,"다시 뵙겠습니다, #PlayerName!
+상자를 고르세요!
+"
+welcome_bonus.speech_7,"너무 보고 싶었어, #PlayerName, 그래서 작은 선물을 준비했어!"
+welcome_bonus.speech_8,"이상한 일이 벌어지고 있었습니다. 앉아 있고 쉬고 있는데, 갑자기 두 개의 상자가 나타났습니다!"
+welcome_pack.open,열다
+welcome_pack.play,놀다
+welcome_pack.speech_1,"오랜만에 봐요, #PlayerName! 나는 너한테 선물이 있어요!"
+welcome_pack.speech_2,"오오오! #PlayerName, 보고 싶었어! 선물을 열고 놀자고요!"
+welcome_pack.speech_3,"#PlayerName, 다시 뵙게 되어 반갑습니다! 금세 상자를 열어보세요."
+welcome_pack.speech_gift,"#PlayerName, 우리는 당신에게 특별한 선물을 가지고 있어요 =) 빨리 열어보세요!"
+welcome_pack.speech_reforged,"#PlayerName, 우리는 당신에게 특별한 선물을 가지고 있어요 =) 빨리 열어보세요!"
+y8_login_failed.message,Y8에 연결하지 못했습니다. 다시 시도하시겠습니까?
+yandex_login_failed.message,얀덱스에 연결하지 못했습니다. 다시 시도하시겠습니까?
+yandex_notification.button,연결하다
+yandex_notification.message,Yandex에 연결하여 온라인으로 진행 상황을 동기화하세요!
+yandex_notification.title,진행 상황 저장하기
+gamemode.capital.leaf,잎
+yandex_login_has_attachment.message,이 게임 프로필에 다른 Yandex 계정이 연결되었습니다.
+fb_login_has_attachment.message,이 게임 프로필에 다른 페이스북 계정이 연결되었습니다.
+ok_login_has_attachment.message,이 게임 프로필에 다른 오크 계정이 연결되었습니다.
+vk_login_has_attachment.message,이 게임 프로필에 다른 VK 계정이 연결되었습니다.
+y8_login_has_attachment.message,이 게임 프로필에 다른 Y8 계정이 연결되었습니다.
+android_app.text.beta,친구들! 우리가 안드로이드에서 베타 테스트를 시작하게 되어 기쁩니다. 누구나 환영합니다!
+bookmark.play,게임하기
+bookmark.quest,퀘스트
+chest_opening.bronze,브론즈
+chest_opening.continue,쉽게
+chest_opening.division,III 분대
+chest_opening.golden,금
+chest_opening.silver,은
+chest_opening.togoldenleague,"너는 골든 리그에 도달할 수 있겠니?
+"
+chest_opening.welcome,리그 오브 매치 아레나에 오신 것을 환영합니다!
+chest_opening.yourebronze,"당신은
+브론즈 리그 III에 도달했습니다.
+"
+chest.open,열다
+chest.opens_now,멋진 것이에요! 상자를 열 수 있습니다!
+chest.wins_left_1,한 번 더 승리하세요!
+chest.wins_left_2,두 번 이겨도 네 것이다!
+chest.wins_left_3,잘 하셨습니다! 3개의 승리가 더 남았습니다!
+chest.wins_left_4,상자를 열기 위해 4개의 승리가 필요합니다!
+chest.wins_to_open,#num 승리해야 열립니다.
+forge_help.block_1,도전을 이기면 동전을 얻을 수 있습니다.
+forge_help.block_2,동전을 사용하여 가마를 시작하고 금바를 얻으세요.
+forge_help.block_3,금주를 수집하여 리그를 올라가세요.
+forge_help.block_4,각 리그마다 새로운 레벨!
+forge_help.continue,잘 했어요
+forge_help.title,리그와 가마
+forge.add,추가하다
+forge.boost,가속
+forge.boost_free,"이 강화소를 가속해보자!
+
+처음은 무료입니다!"
+forge.boost_free_ok,가속
+forge.buy_1,브론즈 포지 사기
+forge.buy_2,실버 포지 사기
+forge.buy_3,금속 제련소
+forge.buy_4,루비 포지 사기
+forge.buy_now,구입하다
+forge.cheat_boost,치트? 치트!
+forge.name_1,브론즈 포지
+forge.name_2,은제련소
+forge.name_3,금색 제련소
+forge.name_4,루비 포지
+forge.not_enough_coins,시작하기에 코인이 부족합니다.
+forge.ok,확인
+forge.open,열다
+forge.open_now,지금 열기
+forge.other_in_progress,다른 가공이 진행 중입니다!
+forge.popup_boost,-30분 부스트
+forge.popup_boost_speedup,-15분 부스트
+forge.progress,#bars 마다: #time
+forge.speedup_no,아니오
+forge.speedup_offer,"<font color=""\#5885b8"">2배</font>로 포지 속도를 <font color=""\#5885b8"">가속</font>하시겠습니까?"
+forge.speedup_ok,확인
+forge.speedup_success,열광이 강화되었습니다!
+forge.speedup_yes,네
+forge.start,시작하다
+forge.time_1,3 시간
+forge.time_2,6 시간
+forge.time_3,12 시간
+forge.time_4,24 시간
+forge.tutorial.collect_coins,1000 코인을 얻어 가공소를 시작하세요.
+forge.tutorial.open_now,"완벽합니다! 용해가 완료되었습니다!
+우리는 가공소를 열 수 있습니다!"
+forge.tutorial.smelt_more,계속해서 금괴를 만들어 다음 단계로 나아가세요.
+forge.tutorial.start_forge,"잘 하셨습니다, 1000 코인을 얻었습니다!
+이제 우리는 가공소를 시작할 수 있습니다!"
+forge.tutorial.wait_ready,가열이 진행되는 동안 더 많은 동전을 얻을 수 있습니다.
+forge.watch_ad,보기
+gamemode.chocolate,라바
+gamemode.diamonds,다이아몬드
+gamemode.energycube,젤리
+gamemode.fishes,당근
+gamemode.food,도토리
+gamemode.fossils,오징어
+gamemode.grass,풀
+gamemode.honeybee,곰
+gamemode.ice,얼음
+gamemode.jam,에너지
+gamemode.road,돼지고기
+gamemode.stone,돌
+gamemode.tasks,주문
+gamemode.tiles,풀
+home.bars_need_more,#more가 필요합니다.
+home.bars_progress,#current / #total
+home.bet,#count 코인 베팅
+home.coins,#count
+home.gems,#count
+home.hint_quest_book,새로운 퀘스트가 이용 가능합니다!
+home.hint_quest_book.claim,와우! 누군가가 보상을 받게 될 거야!
+home.hint_quest_book.new,와우! 새로운 퀘스트!
+home.league_indev,다음 리그가 곧 찾아옵니다!
+home.rematch.asks_for_rematch_draw,#name 다시 한 번 하고 싶어합니다.
+home.rematch.asks_for_rematch_player_lose,#name 재경기를 제안합니다.
+home.rematch.asks_for_rematch_player_won,#name 재대결을 요청합니다!
+home.xp,#count
+ingame_booster_shop.buy,#count를 구매하세요.
+ingame_booster_shop.hint.cross,마법의 지팡이를 사용하여 한 행과 한 열의 피스를 제거하세요.
+ingame_booster_shop.hint.hammer,망치로 타일을 제거하세요!
+ingame_booster_shop.hint.hand,인접한 피스를 교환하기 위해 장갑을 사용하세요!
+ingame_booster_shop.title.cross,마법의 지팡이
+ingame_booster_shop.title.hammer,망치
+ingame_booster_shop.title.hand,장갑
+league.Bronze,브론즈 리그
+league.div_1,분할 I
+league.div_2,분할 II
+league.div_3,3분할
+league.div_4,분할 IV
+league.div_5,분할 V
+league.E001,브론즈 III
+league.E002,브론즈 II
+league.E003,브론즈 I
+league.E004,실버 IV
+league.E005,실버 3
+league.E006,실버 II
+league.E007,실버 I
+league.E008,금 V
+league.E009,골든 IV
+league.E010,골든 III
+league.E011,골든 II
+league.E012,금 I
+league.E013,플래티넘 V
+league.E014,플래티넘 IV
+league.E015,플래티넘 3
+league.E016,플래티넘 II
+league.E017,플래티넘 I
+league.E018,마스터 1
+league.Gold,골든 리그
+league.Master,마스터 리그
+league.MasterN,마스터 #div
+league.GrandMaster,그랜드마스터
+league.GrandMasterN,그랜드마스터 #div
+league.Platinum,플래티넘 리그
+league.Silver,실버 리그
+levelup.continue,멋진!
+levelup.reward,보상
+levelup.title_division,"축하합니다!
+새로운 분류!"
+levelup.title_league,"축하합니다!!
+새로운 리그!"
+ma2transfer.install,설치
+ma2transfer.message,"매치 아레나가 새로운 앱으로 이동했습니다!
+
+중요합니다! 진행 상황을 이전하기 위해 아래 코드를 사용하세요."
+nickname.tutorial_004,선생 마이클
+nickname.tutorial_005,프랭크 교수
+nickname.tutorial_006,퀸 매치
+nickname.tutorial_007,교사 레오
+nickname.tutorial_008,코치 칼
+nickname.tutorial_009,교수 비어디
+nickname.tutorial_010,구루 비키
+placeholder.hint_friends,"친구들에게 도전하고,
+네 능력을 보여라!"
+placeholder.hint_quests,"브론즈 리그 I에 도달하여
+발견하세요!"
+placeholder.hint_settings,내일 준비할게요 :)
+placeholder.title_friends,"친구들과 함께 놀자
+곧 찾아오겠습니다."
+placeholder.title_quests,"멋진 퀘스트
+잠겨있음
+"
+placeholder.title_settings,설정 준비 중
+quest_help.block_1,임무를 완료하면 보상을 받으세요!
+quest_help.block_2,모든 퀘스트를 완료하여 상자를 열어보세요.
+quest_help.block_3,다음 분류까지 모든 퀘스트를 완료하지 않으면 상자가 사라집니다!
+quest_help.continue,잘 했어요
+quest_help.title,퀘스트 북
+quest.aquarium,#amount 마리의 물고기를 수집하세요.
+quest.bar,#progress / #amount
+quest.bar_completed,퀘스트 완료!
+quest.bar_last_try,이전 시도: #amount 중 #progress
+quest.bar_special_not_tried,#progress / #amount
+quest.best_so_far,최고 결과: #progress
+quest.butterfly,#amount 마리의 나비를 수집하세요.
+quest.buy_now,지금 #amount 가져오기
+quest.cat,#amount개의 고양이를 수집하세요.
+quest.chip_destroy,#amount개의 장식품을 수집하세요.
+quest.chip_destroy_bird,#amount 마리의 새를 수집하세요.
+quest.chip_destroy_blue,#amount개의 파란색 피스를 수집하세요.
+quest.chip_destroy_diamond,#amount개의 다이아몬드를 수집하세요.
+quest.chip_destroy_fish,#amount개의 당근을 수집하세요.
+quest.chip_destroy_fish_blue,#amount개의 파란 당근을 수집하세요.
+quest.chip_destroy_fish_green,#amount개의 녹색 당근을 수집하세요.
+quest.chip_destroy_fish_orange,#amount개의 주황색 당근을 수집하세요.
+quest.chip_destroy_fish_purple,#amount개의 보라색 당근을 수집하세요.
+quest.chip_destroy_fish_red,#amount개의 빨간 당근을 수집하세요.
+quest.chip_destroy_fish_yellow,#amount개의 노란 당근을 수집하세요.
+quest.chip_destroy_food,#amount개의 도토리를 제거하세요.
+quest.chip_destroy_frog,#amount개의 개구리를 수집하세요.
+quest.chip_destroy_green,#amount개의 녹색 피스를 수집하세요.
+quest.chip_destroy_orange,#amount개의 주황색 피스를 수집하세요.
+quest.chip_destroy_purple,#amount개의 보라색 조각을 수집하세요.
+quest.chip_destroy_red,#amount개의 빨간 개조를 수집하세요.
+quest.chip_destroy_snail,#amount 달팽이를 수집하세요.
+quest.chip_destroy_super,#amount개의 슈퍼 피스를 수집하세요.
+quest.chip_destroy_wafer,#amount개의 금광을 수집하세요.
+quest.chip_destroy_with_bomb,밤비로 #amount 개의 조각을 수집하세요.
+quest.chip_destroy_with_line,라인 보너스로 #amount 개의 조각을 수집하세요.
+quest.chip_destroy_with_mine,저글링 보너스로 #amount 개의 조각을 수집하세요.
+quest.chip_destroy_with_omni,번개 보너스로 #amount 개의 조각을 수집하세요.
+quest.chip_destroy_yellow,#amount개의 노란색 피스를 수집하세요.
+quest.chip_destroy_waterfish,#amount개의 물고기를 수집하세요.
+quest.chip_recolor,페인트 보너스로 #amount 개의 조각을 재색칠하세요.
+quest.claim,보상 수령하기
+quest.complete_chest,모든 퀘스트가 완료되었습니다.
+quest.cover_destroy_bee,#amount개의 곰을 수집하세요.
+quest.cover_destroy_bound,#amount 개의 조각을 잠금 해제하세요.
+quest.cover_destroy_chocolate,#amount개의 라바 피스를 제거하세요.
+quest.cover_destroy_fizzblue,#amount개의 피즈를 수집하세요.
+quest.cover_destroy_fizzpurple,#amount개의 피즈를 수집하세요.
+quest.cover_destroy_frozen,#amount개의 조각에서 빙하를 제거하세요.
+quest.cover_destroy_honey,#amount개의 꿀로 타일을 제거하세요.
+quest.cover_destroy_hotlava,#amount개의 뜨거운 용암 제거하기
+quest.cover_destroy_receiver_energycube,#amount개의 젤리 결정을 수집하세요.
+quest.cover_destroy_receiver_jam,#amount개의 에너지 크리스탈을 수집하세요.
+quest.cover_destroy_statue,#amount개의 개를 수집하세요.
+quest.cover_destroy_stone,#amount개의 돌 조각을 제거하세요.
+quest.cover_destroy_leaf,#amount 잎을 제거하세요
+quest.division_done_card,다음 분배에서 새로운 퀘스트가 나타납니다!
+quest.duck,#amount 마리의 오리를 수집하세요.
+quest.energy_flow,#amount개의 타일을 통해 에너지를 끌어모아라
+quest.energycube_flow,#amount개의 타일을 젤리로 채우세요.
+quest.fossil,#amount개의 문어를 수집하세요.
+quest.gum,#amount개의 껌 조각을 수집하세요.
+quest.new_quest,새로운 퀘스트!
+quest.new_quest_in,다음 퀘스트:
+quest.on_arena_splash_score,아레나 붐에서 #amount 점을 획득하세요!
+quest.on_arena_splash_use_bonus,아레나 붐에 #amount 개의 보너스를 저장하세요!
+quest.plate_destroy,#amount 개의 구분을 제거하세요.
+quest.play,놀다
+quest.pvp_score,듀얼에서 #amount 점을 얻으세요
+quest.reward,보상:
+quest.snakes,#amount개의 뱀을 수집하세요.
+quest.tile_destroy_gold,#amount개의 풀을 수집하세요.
+quest.tile_destroy_grass,#amount개의 풀을 수집하세요.
+quest.title,퀘스트 북
+quest.use_bonus,#amount 보너스를 사용하세요.
+quest.use_bonus_bomb,#amount 보너스 폭탄을 사용하세요.
+quest.use_bonus_line,#amount 보너스 라인을 사용하세요.
+quest.use_bonus_mine,#amount 보너스를 사용하여 반딧불을 사용하세요.
+quest.use_bonus_omni,#amount번 번개 보너스를 사용하세요.
+quest.use_bonus_tint,#amount 보너스를 사용해서 그리세요.
+quest.use_combo_bomb_bomb,보너스 콤보 박스 + 박스 #amount 번 구성하기
+quest.use_combo_bomb_omni,콤보 보너스 번개 + 폭탄 #amount 번 결합하기
+quest.use_combo_bomb_tint,콤보 보너스 페인트 + 밤 #amount 번 결합하기
+quest.use_combo_line_bomb,#amount번 방치+줄 콤보 보너스를 만들어보세요.
+quest.use_combo_line_line,콤보 보너스 라인 + 라인 #amount 번 결합하기
+quest.use_combo_line_omni,#amount번 라이트닝+라인 콤보 보너스를 만들어보세요.
+quest.use_combo_line_tint,콤보 보너스 페인트 + 라인 #amount 번 결합하기
+quest.use_combo_mine_bomb,#amount번 박쥐 + 폭탄 콤보 보너스를 만들어보세요.
+quest.use_combo_mine_line,#amount번 라인 + 반딧불 콤보 보너스를 만들어보세요.
+quest.use_combo_mine_mine,콤보 보너스 반딧불+반딧불 #amount 번 구성하기
+quest.use_combo_mine_omni,#amount번 번개 + 반딧불 콤보 보너스를 만들어보세요.
+quest.use_combo_mine_tint,#amount번 만큼 콤보 보너스 페인트+반딧불을 만들어보세요.
+quest.use_combo_omni_omni,번개 + 번개 콤보 보너스를 #amount 번 얻으세요.
+quest.use_combo_omni_tint,#amount번 만큼 컬러+번개 콤보 보너스를 만들어보세요.
+quest.use_combo_tint_tint,콤보 보너스 페인트 + 페인트 #amount 번 결합하기
+quest.walk,피기를 #amount 보내세요
+quest.watch_for_new,- #time
+quest.win,#amount 승리하기
+quest.win_coins,듀얼에서 #amount 코인을 얻어보세요
+quest.win_hard_level,어려운 레벨을 완료하세요.
+quest.win_rematch,#amount개의 리매치를 이겨보세요!
+quest.win_streak,#amount 연승하세요
+quest.chip_destroy_clam,#amount개의 진주를 수집하세요.
+quest.chip_destroy_egg,#amount개의 달걀을 수집하세요.
+quest.gardenflower,#amount 개의 꽃을 수집하세요.
+quest.sausages,#amount개의 소시지를 수집하세요.
+rematch.asks_for_rematch_draw,"#name 다시 한 번 하고 싶어합니다
+베팅 #bet
+"
+rematch.asks_for_rematch_player_lose,"#name이 다시 한 번 대결을 제안합니다.
+베팅 #bet."
+rematch.asks_for_rematch_player_won,"#name이 리매치를 원합니다!
+베팅 #bet
+"
+rematch.rematch_bet,베팅 #bet
+report.body,
+report.subject,MatchArena 게임 문제
+reward.bars,금제봉
+reward.coins_amt,+#amount
+reward.gems_amt,+#amount
+reward.levels,새로운 레벨
+reward.levels_amt,+#amount
+reward.levelup,"축하합니다!
+새로운 레벨!"
+reward.new_levels,"새로운
+레벨!"
+reward.talisman,탈리스만
+reward.xp_amt,+#amount
+search.prize_fund,상금
+settings.friends_and_partners,친구와 파트너
+settings.language.help_us_translate,"당신이 자신의 언어로 Match Arena를 번역할 수 있다면, <font color=""\#0000EE"">support@matcharenagame.com</font>으로 연락해주세요."
+settings.notifications.duels,듀얼 챌린지
+shop.indev,곧 찾아뵙겠습니다!
+splash.hint_chocolate,라바를 최대한 많이 제거하세요.
+splash.hint_diamonds,최대한 많은 다이아몬드를 수집하세요.
+splash.hint_energycube,젤리로 최대한 많은 타일을 채우세요.
+splash.hint_fishes,많은 당근을 수집하세요.
+splash.hint_food,최대한 많은 도토리를 제거하세요.
+splash.hint_fossils,최대한 많은 문어를 구하세요.
+splash.hint_honeybee,많은 곰을 수집하세요.
+splash.hint_ice,최대한 많은 얼음을 제거하세요.
+splash.hint_jam,에너지로 최대한 많은 타일을 채우세요.
+splash.hint_road,가능한 한 멀리 피기를 걸어가세요
+splash.hint_stone,최대한 많은 돌을 제거하세요.
+splash.hint_tasks,최대한 많은 주문을 완료하세요.
+splash.hint_tiles,최대한 많은 잔디를 수집하세요.
+splash.mode_chocolate,목표 - 용암
+splash.mode_diamonds,목표 - 다이아몬드
+splash.mode_fishes,목표 - 당근
+splash.mode_food,목표 - 도토리
+splash.mode_jam,목표 - 에너지
+splash.mode_road,목표 - 돼지
+splash.mode_tasks,목표 레벨 - 주문
+splash.mode_tiles,목표 - 풀
+talismans_shop.ask_button,페이스북
+talismans_shop.ask_text,친구들에게 부탁하기
+talismans_shop.boost_text,"x2 재생 속도
+"
+talismans_shop.buy_all,#amount를 얻으세요.
+talismans_shop.hint,승리하면 동전이 두 배가 됩니다.
+talismans_shop.recharge,다음 탈리스만 나타나는 시간: #time
+talismans_shop.title,탈리스만
+talismans_shop.watch_ad_button,보기
+talismans_shop.watch_ad_text,무료 1
+tickets_shop.ask_button,페이스북
+tickets_shop.ask_text,친구들에게 부탁하기
+tutorial.001.collect_more_fishes,"최대한 많은 <font color=""\#5885b8"">당근</font>을 수집하세요!"
+tutorial.001.continue_to_collect_fishes,당근을 수집하세요!
+tutorial.001.first_swap_red_down,"빨간 조각을 아래로 이동하여 <font color=""\#5885b8"">3개를 연속으로 맞춰보세요</font>"
+tutorial.001.remind_collect_three_in_a_row,"한 가지 색깔의 <font color=""\#5885b8"">세 개의 피스를 연속으로 수집하세요.</font>"
+tutorial.001.second_swap_green_left,"3개를 연속으로 맞추기 위해서는 <font color=""\#5885b8"">초록색 피스를 왼쪽으로 이동</font>해야합니다."
+tutorial.001.third_swap_fish,"<font color=""\#5885b8"">당근</font>도 세 개를 연결해 매칭할 수 있습니다."
+tutorial.001.you_are_doing_well,잘하고 있어요!
+tutorial.002.get_bonus_line,"...<font color=""\#5885b8"">보너스 - 라인을</font> 획득하세요!"
+tutorial.002.try_four_in_a_row,"<font color=""\#5885b8"">4개를 연속으로 맞춰보세요!</font>"
+tutorial.002.use_line_bonus,"<font color=""\#5885b8"">보너스를 이용해 3개를 연결</font>하면 라인의 힘을 느낄 수 있습니다!"
+tutorial.003.hint,상대보다 더 많은 당근을 수집하세요!
+tutorial.003.try_l_or_t,"<font color=""\#5885b8"">T 나 L 모양으로 맞춰보세요!</font>"
+tutorial.003.use_bomb_bonus,"...<font color=""\#5885b8"">보너스 - 폭탄!</font>을 얻으려면
+우리 폭탄을 터뜨려보자!"
+tutorial.004.clear_gold_tiles,"<font color=""\#5885b8"">잔디</font>에서 매치를 하여 잔디를 수집하세요!"
+tutorial.004.combine_omni_with_blue,"보드에서 모든 파란 조각을 제거하려면 <font color=""\#5885b8"">번개 조각</font>과 파란 조각을 교환하세요!"
+tutorial.004.try_five_in_a_row,"<font color=""\#5885b8"">5개를 연속으로 맞춰보세요!</font>"
+tutorial.005.two_bonus_can_combine,"임의의 <font color=""\#5885b8"">두 개의 보너스는 합쳐질 수 있습니다</font> 더 큰 보너스를 얻을 수 있습니다!"
+tutorial.007.collect_food,"<font color=""\#5885b8"">도토리</font> 옆에 매치를 만들어보세요."
+tutorial.007.move_character,"고추를 모으세요, <font color=""\#5885b8"">돼지를 앞으로 나아가게 합니다!</font>"
+tutorial.008.make_mine_bonus,"<font color=""\#5885b8"">4개의 조각을 사각형으로 맞추</font>어 보너스로 반딧불을 받으세요!"
+tutorial.008.use_mine_bonus,"<font color=""\#5885b8"">반복불</font>을 이용해 3개를 연결하여 사용하세요!"
+tutorial.009.make_tint_bonus,"<font color=""\#5885b8"">큰 T 모양</font>을 만들면 보너스 - 페인트를 얻을 수 있습니다!"
+tutorial.009.use_tint_bonus,"<font color=""\#5885b8"">페인트</font>는 어떤 피스와도 교환할 수 있습니다!"
+level_popup.adventure.title,레벨
+lives_shop.ma_hint,"모험을 계속하려면 
+라이프가 필요합니다.
+"

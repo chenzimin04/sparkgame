@@ -1,0 +1,11 @@
+{
+  "display" : "fullscreen",
+  "icons" : [ {
+    "sizes" : "180x180",
+    "src" : "https://www.hzsdgame.com/Galaga_Assault/0dba1ba1c371be83e37d77d591661fbf_icon.png"
+  } ],
+  "name" : "Galaga Assault Wars",
+  "scope" : ".",
+  "short_name" : "Galaga Assault Wars",
+  "start_url" : "./index.html?utm_source=h5sdk_shortcut"
+}

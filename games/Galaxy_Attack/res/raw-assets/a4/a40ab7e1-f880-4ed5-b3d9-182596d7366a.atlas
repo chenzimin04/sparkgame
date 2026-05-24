@@ -1,0 +1,83 @@
+
+skel_boss_waterwave_1.png
+size: 955,955
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shui/0_00000
+  rotate: false
+  xy: 382, 192
+  size: 188, 300
+  orig: 250, 300
+  offset: 20, 0
+  index: -1
+shui/0_00002
+  rotate: true
+  xy: 493, 542
+  size: 193, 300
+  orig: 250, 300
+  offset: 16, 0
+  index: -1
+shui/0_00004
+  rotate: true
+  xy: 342, 1
+  size: 190, 300
+  orig: 250, 300
+  offset: 19, 0
+  index: -1
+shui/0_00006
+  rotate: false
+  xy: 765, 241
+  size: 189, 300
+  orig: 250, 300
+  offset: 20, 0
+  index: -1
+shui/0_00008
+  rotate: false
+  xy: 571, 241
+  size: 193, 300
+  orig: 250, 300
+  offset: 16, 0
+  index: -1
+shuihua/0_00000
+  rotate: false
+  xy: 493, 736
+  size: 329, 218
+  orig: 329, 218
+  offset: 0, 0
+  index: -1
+shuihua/0_00001
+  rotate: false
+  xy: 1, 493
+  size: 491, 461
+  orig: 491, 461
+  offset: 0, 0
+  index: -1
+shuihua/0_00002
+  rotate: false
+  xy: 1, 222
+  size: 380, 270
+  orig: 447, 273
+  offset: 21, 0
+  index: -1
+shuihua/0_00003
+  rotate: false
+  xy: 643, 65
+  size: 275, 175
+  orig: 275, 175
+  offset: 0, 0
+  index: -1
+shuihua/4_00003
+  rotate: false
+  xy: 1, 46
+  size: 340, 175
+  orig: 392, 181
+  offset: 26, 0
+  index: -1
+shuihua/5_00002
+  rotate: false
+  xy: 823, 770
+  size: 127, 184
+  orig: 155, 192
+  offset: 14, 8
+  index: -1

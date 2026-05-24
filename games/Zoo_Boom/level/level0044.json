@@ -1,0 +1,31 @@
+ {
+	"size":9,
+	"stars":{"avg":8, "top":17 },
+	"moves":40,
+	"add":[
+		
+		{ "x":1, "y":8, "dy":1, "dx":1, "type":"ANVIL", "count":true },
+		{ "x":3, "y":8, "dy":1, "dx":1, "type":"ANVIL", "count":true },
+		{ "x":5, "y":8, "dy":1, "dx":1, "type":"ANVIL", "count":true },
+		{ "x":7, "y":8, "dy":1, "dx":1, "type":"ANVIL", "count":true },
+		
+		{ "x":0, "y":0, "dy":2, "dx":1, "type":"COINS" },
+		{ "x":8, "y":0, "dy":2, "dx":1, "type":"COINS" },
+		{ "x":0, "y":5, "dy":2, "dx":1, "type":"COINS" },
+		{ "x":8, "y":5, "dy":2, "dx":1, "type":"COINS" }
+	],
+	"tasks":[
+		{ "type":"COIN", "count":30 }
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_RED","GEM_YELLOW","GEM_PURPLE"],
+	"field":[ 
+		"oxoxoxoxo",
+		"ooooooooo",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"oxxxxxxxo",
+		"oxxxxxxxo",
+		"oxxxxxxxo",
+		"xxxxxxxxx",
+		"xxxxxxxxx"]
+ }

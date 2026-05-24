@@ -1,0 +1,314 @@
+
+Robin.webp
+size: 822,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Robin-Effect-Base
+  rotate: false
+  xy: 364, 172
+  size: 223, 95
+  orig: 223, 95
+  offset: 0, 0
+  index: -1
+Robin-Effect-Particle
+  rotate: true
+  xy: 181, 29
+  size: 8, 12
+  orig: 10, 14
+  offset: 1, 1
+  index: -1
+Robin-Effect-White
+  rotate: true
+  xy: 589, 92
+  size: 175, 55
+  orig: 175, 55
+  offset: 0, 0
+  index: -1
+Robin-Eye-Mask
+  rotate: false
+  xy: 202, 82
+  size: 126, 75
+  orig: 126, 75
+  offset: 0, 0
+  index: -1
+Robin-Eye-Mask-Blink
+  rotate: false
+  xy: 202, 27
+  size: 124, 53
+  orig: 124, 53
+  offset: 0, 0
+  index: -1
+Robin-Face
+  rotate: true
+  xy: 2, 72
+  size: 195, 198
+  orig: 195, 198
+  offset: 0, 0
+  index: -1
+Robin-Hair1
+  rotate: false
+  xy: 691, 44
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+Robin-Hair2
+  rotate: true
+  xy: 463, 6
+  size: 125, 38
+  orig: 125, 38
+  offset: 0, 0
+  index: -1
+Robin-Hair3
+  rotate: false
+  xy: 585, 18
+  size: 104, 72
+  orig: 104, 72
+  offset: 0, 0
+  index: -1
+Robin-Hair4
+  rotate: true
+  xy: 734, 126
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+Robin-Hip-Patch
+  rotate: true
+  xy: 791, 133
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+Robin-L-Elbow
+  rotate: false
+  xy: 785, 225
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+Robin-L-Glous
+  rotate: true
+  xy: 328, 2
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+Robin-L-Glous-Palm-Fist
+  rotate: true
+  xy: 375, 2
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+Robin-L-Glous-Palm-Fold
+  rotate: true
+  xy: 691, 3
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+Robin-L-Glous-Palm-Idle
+  rotate: false
+  xy: 748, 41
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+Robin-L-Hand
+  rotate: false
+  xy: 503, 83
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+Robin-L-Hand-Hold
+  rotate: false
+  xy: 735, 2
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+Robin-L-Leg
+  rotate: false
+  xy: 691, 88
+  size: 41, 66
+  orig: 41, 66
+  offset: 0, 0
+  index: -1
+Robin-L-Shoe
+  rotate: false
+  xy: 89, 7
+  size: 90, 63
+  orig: 90, 63
+  offset: 0, 0
+  index: -1
+Robin-L-Shorts
+  rotate: false
+  xy: 330, 42
+  size: 29, 57
+  orig: 29, 57
+  offset: 0, 0
+  index: -1
+Robin-L-Thigh
+  rotate: false
+  xy: 791, 44
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+Robin-Mouth-Excited
+  rotate: true
+  xy: 790, 2
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+Robin-Mouth-Idle
+  rotate: true
+  xy: 181, 39
+  size: 31, 10
+  orig: 31, 10
+  offset: 0, 0
+  index: -1
+Robin-Mouth-Sad
+  rotate: false
+  xy: 551, 13
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Robin-Neck
+  rotate: false
+  xy: 646, 156
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+Robin-R-Elbow
+  rotate: false
+  xy: 791, 91
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+Robin-R-Glous
+  rotate: true
+  xy: 734, 91
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+Robin-R-Glous-Palm-Fold
+  rotate: false
+  xy: 422, 3
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+Robin-R-Glous-Palm-Idle
+  rotate: false
+  xy: 646, 108
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+Robin-R-Hand
+  rotate: true
+  xy: 181, 2
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+Robin-R-Hand-Hold
+  rotate: false
+  xy: 755, 183
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+Robin-R-Leg
+  rotate: true
+  xy: 503, 40
+  size: 40, 69
+  orig: 40, 69
+  offset: 0, 0
+  index: -1
+Robin-R-Shoe
+  rotate: false
+  xy: 2, 4
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+Robin-R-Shorts
+  rotate: true
+  xy: 503, 4
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Robin-R-Thigh
+  rotate: true
+  xy: 229, 2
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+Robin-Shadow
+  rotate: false
+  xy: 364, 133
+  size: 161, 37
+  orig: 161, 37
+  offset: 0, 0
+  index: -1
+Robin-belt
+  rotate: true
+  xy: 330, 101
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+Robin-cape
+  rotate: true
+  xy: 202, 159
+  size: 108, 160
+  orig: 108, 160
+  offset: 0, 0
+  index: -1
+tint-Robin-Body
+  rotate: true
+  xy: 363, 39
+  size: 92, 98
+  orig: 92, 98
+  offset: 0, 0
+  index: -1
+tint-Robin-L-Shoulder
+  rotate: true
+  xy: 734, 223
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+tint-Robin-L-Socks
+  rotate: true
+  xy: 646, 211
+  size: 56, 86
+  orig: 56, 86
+  offset: 0, 0
+  index: -1
+tint-Robin-R-Shoulder
+  rotate: true
+  xy: 703, 165
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+tint-Robin-R-Socks
+  rotate: false
+  xy: 527, 82
+  size: 56, 88
+  orig: 56, 88
+  offset: 0, 0
+  index: -1

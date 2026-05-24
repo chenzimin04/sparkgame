@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6fbff"/><stop offset="1" stop-color="#ffffff"/></linearGradient></defs>
+  <rect width="640" height="380" fill="url(#bg)"/>
+  <g stroke="#cbe2ff" stroke-width="8" fill="none" stroke-linecap="round">
+    <path d="M88 74h86"/><path d="M476 74h94"/><path d="M536 144v162"/><path d="M152 214v92"/>
+  </g>
+  <g fill="none" stroke="#b7d6ff" stroke-width="8" stroke-linecap="round">
+    <path d="M88 92v212c0 14 11 25 25 25s25-11 25-25V92"/><path d="M272 144v160c0 14 11 25 25 25s25-11 25-25V144"/>
+    <path d="M456 104v200c0 14 11 25 25 25s25-11 25-25V104"/>
+  </g>
+  <g fill="#ffffff"><circle cx="112" cy="190" r="17"/><circle cx="112" cy="232" r="17"/><circle cx="296" cy="184" r="17"/><circle cx="480" cy="196" r="17"/></g>
+  <text x="54" y="84" fill="#7ea8d6" font-size="52" font-family="Segoe UI, Arial, sans-serif" font-weight="800">BALL SORT MASTER</text>
+</svg>

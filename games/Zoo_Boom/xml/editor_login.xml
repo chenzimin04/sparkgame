@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+
+<templates>
+</templates>
+
+<screen name="uiLogin" template="tElement" >	
+	<image name="uiMiddleBlock" relativeHeight="0.7" ratio="1" halign="center" valign="center" template="tBG" padding="70" >
+		<text name="uiTxtMessage" text="Login" relativeWidth="1" height="90" size="90.0" halignText="center" valignText="center" halign="center" valign="top" template="tFontWhite" />
+		
+		<image y="-100" width="700" height="100" halign="center" valign="center"  template="tBox" padding="10" >
+			<input name="uiInputEmail" template="tElement" clickable="true" size="50" autocomplete="email" />
+			<text text="E-Mail" y="-20" relativeWidth="1" height="50" size="50.0" halignText="left" valignText="center" halign="center" valign="topOf" template="tFontWhite" />
+		</image>
+		<image y="100" width="700" height="100" halign="center" valign="center"  template="tBox" padding="10" >
+			<input name="uiInputPassword" template="tElement" clickable="true" size="50" autocomplete="password" password="true" />
+			<text text="Password" y="-20" relativeWidth="1" height="50" size="50.0" halignText="left" valignText="center" halign="center" valign="topOf" template="tFontWhite" />
+		</image>
+		
+		<button name="uiBtLogin" halign="center" valign="bottom" template="tButton" label="Login" />
+	</image>
+</screen>

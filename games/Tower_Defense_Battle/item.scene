@@ -1,0 +1,83 @@
+{
+	"type": "View",
+	"props": {
+		"width": 220,
+		"height": 228
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 108,
+				"x": 109,
+				"var": "lightBg",
+				"skin": "images/obj/sun.png",
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 3
+		},
+		{
+			"type": "Image",
+			"props": {
+				"y": 108,
+				"x": 109,
+				"var": "iconImg",
+				"skin": "images/obj/obj502.png",
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 5
+		},
+		{
+			"type": "Label",
+			"props": {
+				"y": 200,
+				"x": -50,
+				"width": 320,
+				"var": "labDesc",
+				"text": "itemNamex1",
+				"fontSize": 22,
+				"color": "#fdffdb",
+				"align": "center"
+			},
+			"compId": 6
+		},
+		{
+			"type": "Label",
+			"props": {
+				"y": 27,
+				"x": -40,
+				"width": 300,
+				"visible": false,
+				"var": "luckyDesc",
+				"text": "itemNum",
+				"fontSize": 32,
+				"color": "#fdffdb",
+				"bold": true,
+				"align": "center"
+			},
+			"compId": 7
+		},
+		{
+			"type": "Label",
+			"props": {
+				"y": 104,
+				"x": 173,
+				"width": 300,
+				"visible": false,
+				"var": "passAwardDesc",
+				"text": "itemNum",
+				"fontSize": 26,
+				"color": "#402110"
+			},
+			"compId": 8
+		}
+	],
+	"loadList": [
+		"images/obj/sun.png",
+		"images/obj/obj502.png"
+	],
+	"loadList3D": []
+}

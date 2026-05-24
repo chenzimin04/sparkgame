@@ -1,0 +1,1023 @@
+ID,sv-SE
+ad_failed.button,OK
+ad_failed.message,"Det finns ingen video tillgänglig just nu, försök igen senare."
+ad_failed.title,Ops...
+ad_magic.button,Titta
+ad_magic.message,Titta på en kort film för att få belöning.
+ad_magic.title,Söt Gris-Magi
+android_app.button,Installera
+android_app.text.release,Hej vänner! Vi är glada att meddela att vårt spel nu finns tillgängligt på Android. Gå och ladda ner appen!
+android_app.title,Nu på Android!
+android_update.restart.no,Senare
+android_update.restart.text,Installera nu?
+android_update.restart.title,Uppdatering klar!
+android_update.restart.yes,Ja
+avatar_already_changed.button,OK
+avatar_already_changed.message,Din profilbild har redan ändrats. Du kan bara ändra din profilbild EN GÅNG.
+bookmark.daily,Utmaning
+bookmark.friends,Vänner
+bookmark.settings,Inställningar
+booster_hint.cross,%booster_shop.hint.ingame.cross%
+booster_hint.hammer,%booster_shop.hint.ingame.hammer%
+booster_hint.hand,%booster_shop.hint.ingame.hand%
+booster_shop.buy,Få #count för
+booster_shop.hint.ingame.cross,Använd magiska vanden för att ta bort en rad och en kolumn med bitar!
+booster_shop.hint.ingame.hammer,Ta bort brickor genom att krossa dem med hammaren!
+booster_shop.hint.ingame.hand,Använd handsken för att byta ut några grannar bitar
+booster_shop.hint.prelevel.add_bomb,Börja varje nivå med en bomb redan på brädet!
+booster_shop.hint.prelevel.add_line,Börja varje nivå med en linje redan på brädet!
+booster_shop.hint.prelevel.add_omni,Börja varje nivå med en Blixt redan på brädet!
+booster_shop.hint.prelevel.add_tint,Börja varje nivå med en färg redan på brädet!
+booster_shop.hint.prelevel.double_fly,Dubbla alla fyrverkerier som skapas under denna nivå!
+booster_shop.title.ingame.cross,Magiska vanden
+booster_shop.title.ingame.hammer,Hammare
+booster_shop.title.ingame.hand,Handske
+booster_shop.title.prelevel.add_bomb,Bombförstärkare
+booster_shop.title.prelevel.add_line,Linje Booster
+booster_shop.title.prelevel.add_omni,Blixtförstärkare
+booster_shop.title.prelevel.add_tint,Färg Booster
+booster_shop.title.prelevel.double_fly,Firefly x2 Booster
+chest_open.collection_complete,Samlat!
+chest_open.ok,OK
+chest_opening.button,Superbra!
+chest_opening.reward,Belöning
+conflict_popup.continue,Fortsätt
+conflict_popup.hint_syncing,Synkroniserar...
+conflict_popup.skip,Fortsätt offline
+credits.art,Konstdesign
+credits.artists,"Massor av kärlek till våra grafiska konstnärer vänner
+för de vackra avatar-karaktärerna!"
+credits.gamedesign,Spel design
+credits.mentions,"Speciellt tack
+till våra vänner"
+credits.programming,Programmering
+credits.title,Vårt team!
+daily_help.button,OK
+daily_help.chest,Stort pris
+daily_help.reward,En gång belöningar
+daily_help.text,"Varje dag visar spelare sina färdigheter och tävlar på en enda nivå.
+
+Den spelare med högst poäng kommer att få priset för dagen - Krone och Kista med Ädelstenar!"
+daily_help.title,Dagliga utmaningar
+daily_reward.button,Superbra!
+daily_reward.reward,Belöning
+daily_reward.title.place_1,"Du är vinnaren 
+av dagens utmaning!"
+daily_reward.title.place_generic,"Dagens utmaning klar
+Du rankades \##place!"
+daily.drag_to_update,Dra för att uppdatera
+daily.epic_sunday_ribbon,Vänlig utmaning
+daily.finishes_in,Utmaningen slutar om #time
+daily.finishes_now,Tiden är ute!
+daily.high_score,Nytt högt poäng!
+daily.medal_chest_text,Samla #amount medaljer!
+daily.next_time,Nästa dagliga utmaning om #time
+daily.next_time_now,Ny daglig utmaning har börjat!
+daily.no_yesterday_yet,Du deltog inte i den föregående dagliga utmaningen.
+daily.play,Spela
+daily.retry_submit,Försök igen
+daily.rewards_tab,Dagliga utmaningsbelöningar
+daily.rewards.bubble,"Samla stjärnor och medaljer
+för att öppna lådor med skatter!"
+daily.score_not_accepted,Det här resultatet räknas inte med i topplistan eftersom du slutade spela efter att dagens utmaning var över.
+daily.star_chest_claim,Öppna
+daily.star_chest_collected_text,Kom imorgon för en annan kista!
+daily.star_chest_text,Fyll 7 dagliga utmaningar i rad med 3 stjärnor!
+daily.submit_error,Kunde inte skicka resultaten
+daily.today,Dagliga utmaningar
+daily.today_mark,Idag
+daily.update_error,Ingen internetanslutning.
+daily.wait_text,
+daily.watch_replay.button,Titta
+daily.watch_replay.text,Spelomspelning
+daily.welcome_reward_first,%daily_help.text%
+daily.welcome_text,Yeey! Ny daglig utmaning har börjat!
+daily.yesterday,Igår steg
+daily.yesterday_updating,Hämtar resultat...
+demo.finished.text,"Grattis, du har slutfört provversionen! Spela fullversionen gratis på <p class=""ma-link"">PecPoc.com<p class=""demo-hint"">Din framsteg kommer inte att förloras."
+demo.nag.text,"Gratis bonusar finns bara i fullversionen. Fortsätt spela fullversionen på <p class=""ma-link""> PecPoc.com <p class=""demo-hint""> Din framsteg kommer inte att förloras."
+event_ny.next_in_hint,Få nästa present i: #time
+event_ny.title,Nyårs presenter
+fake_ad.reward_in,Belöning i...
+fake_ad.tutorial,"Det finns inget video tillgängligt just nu...
+Oroa dig inte, låt oss ha lite Gris-Magi istället!"
+fake_ad.your_ad_here,Din annons här
+fb_login_failed.message,Kunde inte ansluta till Facebook. Försök igen?
+fb_notification.button,Anslut
+fb_notification.message,Anslut till Facebook för att synka din framsteg online!
+fb_notification.no_post_hint,Vi kommer aldrig att posta utan din tillåtelse.
+fb_notification.title,Spara ditt framsteg
+feedback.failed.button,Fortsätt
+feedback.failed.message,"Kunde inte skicka feedbacken.
+Kolla din internetanslutning."
+feedback.failed.title,Oj då...
+feedback.ok.button,OK
+feedback.ok.message,"Vi fick din feedback.
+Tack för att du hjälper oss att förbättra spelet."
+feedback.ok.title,Feedback skickad!
+friends_tab.failed_social.button,Kolla
+friends_tab.failed_social.text,Vi måste kolla upp anslutningen för att uppdatera vännerlistan.
+friends_tab.has_fb.button,Bjud in vänner
+friends_tab.has_fb.text,"Ju fler vänner du har, desto fler presenter får du!"
+friends_tab.no_fb.button,Anslut
+friends_tab.no_fb.hint,Vi kommer aldrig att posta utan din tillåtelse.
+friends_tab.no_fb.text,Anslut till Facebook och ta emot gåvor från vänner och följ deras framsteg.
+friends_tab.no_permission.button,Ja
+friends_tab.no_permission.text,Få tillgång till din vänlista för att få fler gåvor?
+friends_tab.no_social.text,Anslut till sociala nätverk och ta emot gåvor från vänner och följ deras framsteg.
+friends_tab.no_y8.button,Anslut
+friends_tab.no_y8.text,Anslut Y8 och ta emot gåvor från vänner och följ deras framsteg.
+friends_tab.ok_invite_button,Bjud in vänner
+friends_tab.ok_invite_gift_text,"Ju fler vänner du har, desto fler presenter får du!"
+friends_tab.ok_invite_text,"Ju fler vänner du har, desto fler presenter får du!"
+friends_tab.title,Vänner
+friends_tab.vk_friends_permission_button,Ja
+friends_tab.vk_friends_permission_text,Få tillgång till din vänlista för att få fler gåvor?
+friends_tab.vk_invite_button,Bjud in vänner
+friends_tab.vk_invite_text,"Ju fler vänner du har, desto fler gåvor får du!"
+friends.gift.claim,Öppna
+game_results.click_to_continue,Klicka för att fortsätta
+game_results.tap_to_continue,Tryck för att fortsätta
+game.click_to_continue,Klicka för att fortsätta
+game.info.ahead,Du är #fmtnum drag före!
+game.info.behind,Du är #fmtnum drag efter
+game.info.goals,Mål
+game.info.moves,DRAG
+game.info.pause,PAUS
+game.info.undo,ÅNGRA
+game.pause.continue,"<font color=""\#408fda"">Återuppta spelet"
+game.pause.leave_forfeit,"<font color=""\#ff0000"">Avsluta spelet"
+game.pause.leave_safe,Avsluta spelet
+game.pause.title,Paus
+game.shoutout.their_game_result,Poäng: #score
+game.shoutout.well_done,Bra gjort!
+game.shoutout.your_game_result,Din poäng: #score
+game.tap_to_continue,Tryck för att fortsätta
+game.tutorial.continue,Fortsätt
+gamemode.capital.aquarium,FISKAR
+gamemode.capital.bird,FÅGLAR
+gamemode.capital.bubble,Bubblor
+gamemode.capital.cats,KATTUNGAR
+gamemode.capital.chocolate,LAVA
+gamemode.capital.diamonds,DIAMANTER
+gamemode.capital.ducks,ANKUNGAR
+gamemode.capital.energy_cube_reciever,KRISTALLER
+gamemode.capital.energycube,GELÉ
+gamemode.capital.fishes,MORÖTTER
+gamemode.capital.flower,BLOMMOR
+gamemode.capital.food,EKORNA
+gamemode.capital.fossils,OCTOPUSER
+gamemode.capital.frog,GRÖNAR
+gamemode.capital.grass,GRÄS
+gamemode.capital.gum,GÅ
+gamemode.capital.honeybee,BJÖRNAR
+gamemode.capital.hotlava,LAVA
+gamemode.capital.ice,IS
+gamemode.capital.jam,ENERGI
+gamemode.capital.jam_reciever,KRISTALLER
+gamemode.capital.pearl,PÄRLOR
+gamemode.capital.road,GRIS
+gamemode.capital.sausage,KORVAR
+gamemode.capital.statue,HUNDAR
+gamemode.capital.stone,STENAR
+gamemode.capital.tasks,BESTÄLLNINGAR
+gamemode.capital.tiles,GRÄS
+gamemode.capital.waterfish,FISKAR
+gamemode.capital.blooplet,BLOPPAR
+gameresult.adventure.completed_continue,Fortsätt
+gameresult.adventure.leave,Lämna
+gameresult.adventure.play_next,Fortsätt
+gameresult.adventure.retry,Försök igen
+gameresult.boosters,Välj Booster
+gameresult.complete.line1,Nivå
+gameresult.complete.line2,Klart!
+gameresult.continue,Fortsätt
+gameresult.daily.continue,Fortsätt
+gameresult.daily.leave,Avsluta
+gameresult.daily.retry,Spela
+gameresult.dash,-
+gameresult.forfeit,Du gav upp!
+gameresult.map.continue,Fortsätt
+gameresult.map.retry,Försök igen
+gameresult.pvp.continue,Fortsätt
+gameresult.pvp.play_another,Olika nivåer
+gameresult.pvp.play_next,Olika nivåer
+gameresult.pvp.rematch_lose,Omstart
+gameresult.pvp.rematch_win_draw,Spela igen
+gameresult.rematch,Omstart
+gameresult.rematch_bet,Satsa #bet
+gameresult.required_ticket,Krävs
+gameresult.retry,Spela igen
+gameresult.rewards,Belöning
+gameresult.title.completed,"<font color=""\#20ea6d"">Nivå klar!"
+gameresult.title.draw,"<font color=""\#5885B8"">Dra"
+gameresult.title.lose,"<font color=""\#ff5666"">Du förlorade"
+gameresult.title.win,Du vinner!
+gameresult.vs,VS
+gameresults.inter_ad_in_large,#count spelar tills
+gameresults.inter_ad_in_small,#count spelar tills
+gems_shop.title,Juvelbutik
+global.click_to_continue,Klicka för att fortsätta
+global.default_player_name,Spelare
+global.tap_to_continue,Tryck för att fortsätta
+home.hint_daiy,Försök Dagliga Utmaningen
+home.hint_play_pvp,Du kan fortfarande spela dueller även om du är utan liv!
+home.play,Spela
+html.loading,Laddar
+iap_failed.button,OK
+iap_failed.message,Köpet misslyckades
+iap_need_facebook.message,Anslut till Facebook för att fylla på Gems.
+iap_pending.button,OK
+iap_pending.message,Din beställning bearbetas
+intro_screen.another_device,Med kod
+intro_screen.login_back,Tillbaka
+intro_screen.login_button,Logga in
+intro_screen.login_fb,Facebook
+intro_screen.login_ok,Odnoklassniki
+intro_screen.login_singular,Logga in
+intro_screen.login_vk,Vkontakte
+intro_screen.login_with,Logga in med
+intro_screen.login_y8,Y8
+intro_screen.login_yandex,Yandex
+intro_screen.new_player,Ny spelare
+introprofile.accept_avatar,Välj
+introprofile.accept_name,Fortsätt
+introprofile.editavatar,Välj profilbild
+introprofile.editname,Ange ditt namn
+invite_request.message,Låt oss spela det bästa match 3-spelet tillsammans!
+invite_request.title,Välj dina vänner för att spela Skydom tillsammans!
+level_popup.goals,Mål
+level_popup.play,Spela
+level_popup.prelevel_boosters,Välj Booster
+level_popup.title,Nivå #level
+level_popup.title_hard,Svårt
+level_popup.title_ultra_hard,Super svårt
+level_popup.title_very_hard,Mycket svårt
+link.support,https://Skydom.freshdesk.com/en/support/solutions
+link.support_beta,https://Skydombeta.freshdesk.com/en/support/solutions
+lives_shop.buy_all,Köp 5
+lives_shop.hint,"Du behöver liv för att
+fortsätta spela Äventyr"
+lives_shop.recharge,Nästa liv: #tid
+lives_shop.title,Liv
+lives_shop.watch_ad_button,Titta
+lives_shop.watch_ad_text,Gratis 1
+load_player.almost_done,Nästan klart...
+load_player.continue_offline,Fortsätt offline
+load_player.loading_save,Laddar spelar data...
+load_player.loading_save_failed,Kunde inte ladda spelardata.
+load_player.loading_save_failed_in,"Kunde inte ladda spelardata.
+Försöker igen om #time..."
+load_player.logging_in,Logga in...
+load_player.logging_in_failed,Kunde inte logga in.
+load_player.logging_in_failed_in,"Kunde inte logga in.
+Försöker igen om #time..."
+load_player.new_player,Jag är en ny spelare.
+load_player.retry_now,Försök igen nu
+login_failed.button,Försök igen
+login_failed.title,Misslyckades att ansluta
+magic.click_to_continue,Klicka för att fortsätta
+magic.reward,Belöning
+magic.tap_to_continue,Tryck för att fortsätta
+map.gates_coming_soon,"Nya nivåer
+kommer snart!"
+match3.level_complete.line1,Alla mål
+match3.level_complete.line2,Uppnådd!
+match3.score_pve,#score / #required
+match3.shoutout.1_move,Sista draget!
+match3.shoutout.2_moves,2 drag
+match3.shoutout.5_moves,5 drag
+match3.shoutout.no_moves,Inga fler drag
+match3.shoutout.no_reshuffle,"Kan inte omarrangera
+Inga möjliga drag"
+merge.button.mine,Välj
+merge.button.their,Välj
+merge.description.account_merge,"Verkar som att du redan har spelat Skydom.
+Välj önskat profil!"
+merge.description.ingame_conflict,%merge.description.login_conflict%
+merge.description.login_conflict,"Du spelade från flera enheter.
+Välj önskad spara."
+merge.hint.mine,lokal
+merge.hint.their,Från server
+merge.title,Framsteg Synkronisering
+modal.adblock.button,OK
+modal.adblock.text,Vi har märkt att du använder en Ad Blocker.<br>Vänligen stäng av Ad Blocker för den här sidan för att kunna titta på en video.
+modal.adblock.title,Annonsblockerare
+modal.error.button,Uppdatera
+modal.error.text,"Förlåt, ett fel har uppstått. Vänligen uppdatera sidan."
+modal.error.title,Oj då! Något gick fel...
+modal.fb_login_proxy.button,Fortsätt
+modal.fb_login_proxy.text,Ansluter till Facebook
+modal.fb_login_proxy.title,
+modal.fb_purchase_proxy.button,Fortsätt
+modal.fb_purchase_proxy.gems,Juveler
+modal.first_login_failed.button,Försök igen
+modal.first_login_failed.text,Kan inte ansluta till Skydom just nu. Försök att ansluta igen senare.
+modal.first_login_failed.title,Misslyckades att ansluta
+modal.gpu_error.button,Mer info
+modal.gpu_error.text,"Verkar som att du måste aktivera GPU-Acceleration 
+i din webbläsare för att köra spelet."
+modal.gpu_error.title,Hm..
+modal.maintenance.button,OK
+modal.maintenance.text,Underhåll kommer att utföras vid<br> <b>#time</b><br> i 3 timmar. <br>Molnlagring och synkronisering av framsteg kommer inte att fungera.
+modal.maintenance.title,Underhåll
+modal.no_hardware_accel_ff.button,OK
+modal.no_hardware_accel_ff.text,"Din webbläsare rapporterar ett prestandaproblem, spelet kan köras mycket långsamt!
+
+För att fixa det, läs <a target=""_blank""  href=""https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features"">https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features</a>"
+modal.no_hardware_accel_ff.title,Prestandaproblem
+modal.no_hardware_accel.button,OK
+modal.no_hardware_accel_vk.button,OK
+modal.no_hardware_accel.text,"Din webbläsare rapporterar ett prestandaproblem, spelet kan köras mycket långsamt!
+
+För att fixa det, läs <a target=""_blank""  href=""https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm"">https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm</a>"
+modal.no_hardware_accel_vk.text,"Din webbläsare rapporterar ett prestandaproblem, spelet kan köras mycket långsamt!
+
+För att fixa det, läs <a target=""_blank""  href=""https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery"">https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery</a> för att få hjälp."
+modal.no_hardware_accel.title,Prestandaproblem
+modal.no_hardware_accel_vk.title,Prestandaproblem
+modal.nolocalstorage.button,OK
+modal.nolocalstorage.text,"Ser ut som att din webbläsare inte tillåter oss att spara ditt spel. Detta kan bero på att du använder Incognito-läge i din webbläsare.
+<p>
+Logga in för att undvika att förlora dina framsteg!"
+modal.nolocalstorage.title,Inkognitoläge
+modal.oom.button,Mer info
+modal.oom.text,Verkar inte finnas tillräckligt med minne.
+modal.oom.title,Hmm..
+modal.out_of_sync.button,Uppdatera
+modal.out_of_sync.text,Det verkar som att du har Skydom öppnat i flera webbläsarfönster. <br>Vänligen uppdatera för att fortsätta spela i det här fönstret.
+modal.out_of_sync.title,Flera fönster med Skydom?
+modal.vk_inapp_not_allowed.button,Gå
+modal.vk_inapp_not_allowed.text,"Köp är bara tillgängliga på <a href=""https://m.vk.com/app7409298"" target=""_blank"">m.vk.com</a>"
+modal.vk_inapp_not_allowed.title,
+modal.wasm.button,Mer info
+modal.wasm.text,Din webbläsare verkar inte stödja WebAssembly
+modal.wasm.title,Hmm..
+modal.webgl.button,Mer info
+modal.webgl.text,Din webbläsare verkar inte stödja WebGL
+modal.webgl.title,Hmm..
+modal.yandexsdk.text,"Yandex SDK laddades inte in korrekt.
+
+Försök igen?"
+modal.yandexsdk.title,Oj
+modal.yandexsdk.button,OK
+name_already_changed.button,OK
+name_already_changed.message,Ditt namn har redan ändrats. Du kan bara ändra ditt namn EN GÅNG.
+networks.hint,"Vi uppmuntrar dig att ansluta till sociala nätverk!
+ - Förlora inte ditt framsteg genom att spara det i molnet
+ - Spela med vänner och ta emot gåvor
+ - Vi postar inte utan din tillåtelse"
+nickname.default,Spelare
+nickname.default_friend,Kanin
+nickname.trainer,Coach #nickname
+nickname.tutorial_001,Tränare Anna
+nickname.tutorial_002,Tränare Jonny
+nickname.tutorial_003,Tränare Polly
+nickname.you,Du
+notification.daily_lead_1,👑 #Name tog över ledarskapet i Dagliga Utmaningen! Vill du återta första platsen?
+notification.daily_lead_2,👑 #Name tog över ledarskapet i Dagliga Utmaningen!
+notification.daily_lead_3,👑 Det är hett i dagens utmaning! #Name tog din första plats.
+notification.daily_lead_4,👑 #Name tog över. Vill du återta ledarskapet i utmaningen?
+notification.daily_lead_5,👑 Det verkar som att #Name precis tog över dig i dagens utmaning.
+notification.daily_lead.meta,"@{""variants"":5}"
+notification.reminder_1,😏 Ny motståndare väntar på den mest lovande spelaren! 😎
+notification.reminder_10,👸🤴 Vem kommer att bli vinnaren av dagens utmaning idag?
+notification.reminder_11,🙄 Vi hade nästan glömt hur alla blev smällda av #PlayerName!
+notification.reminder_12,"💆 Schysst dag att spela Skydom, eller hur? 💪"
+notification.reminder_13,🙈😬 Det finns ett par killar här som drömmer om att slå dig. Tror dom att dom har en chans?
+notification.reminder_14,🐰 Kaninen har fått en present till dig! 🎁
+notification.reminder_15,"😎 #PlayerName, det är dags att vinna igen! 🕹"
+notification.reminder_16,👾👀 Det är dags att ta en paus och gå på en vinststräcka 🤗
+notification.reminder_17,🌟🌟🌟 Nivåer kommer inte att slutföras själva! Låt oss spela? 🥇😉
+notification.reminder_18,"#PlayerName, någon vill slå dig. Tror du att de kommer lyckas? 😬😬😬"
+notification.reminder_19,👋 Är det dags att slappna av och vinna några gånger? 🤔
+notification.reminder_2,Inte alla har ännu förlorat mot #PlayerName! Ge dem en chans?
+notification.reminder_20,🦄 Har du träffat vår Regnbågs-enhörning?
+notification.reminder_3,🐷 Gris-magi väntar! 🐽
+notification.reminder_4,🙈 Har inte sett den bästa Match3-spelaren på ett tag! Finns han fortfarande kvar? 👀
+notification.reminder_5,🏆 Har du redan vunnit idag?
+notification.reminder_6,❤️❤️❤️❤️❤️ Alla liv återladdade! Det är dags att vinna!
+notification.reminder_7,🖐🎟 5 token väntar på att spenderas!
+notification.reminder_8,🐰😍 Kaninen har fått en present till dig! 🎁
+notification.reminder_9,👑💎 Dagens utmaning har börjat! Vem kommer att få kronan och en hög med ädelstenar?
+ny.button_claim,Öppna gåva
+ny.button_next_in,Present in: #time
+ok_login_failed.message,Kunde inte ansluta till Odnoklassniki. Försök igen?
+ok.share_tick,Dela
+out_of_moves.continue_buy_moves,Spela på #price
+out_of_moves.continue_watch,Titta
+out_of_moves.give_up,Ge upp
+out_of_moves.press_to_view,"Tryck här för
+att se brädet"
+out_of_moves.title.almost_there,Så nära...
+out_of_moves.title.regular,Slut på drag
+outofgems.button,Butik
+outofgems.message,Du har slut på Gems. Besök Butiken för att få lite mer!
+outofgems.title,Inte tillräckligt med pärlor
+page.loading.hint_1,Laddar...
+page.loading.hint_2,Rendera effekter 💎💎💎
+page.loading.hint_3,"Oroa dig inte, det är inte fast! 😜"
+page.loading.hint_4,🚀 Spelet laddas snart! 🚀
+page.loading.hint_5,Första gången tar det lite längre tid👌
+page.loading.hint_6,🔥 Nästan där...👾
+page.loading.hint_7,Bara en liten bit kvar 😊
+placeholder.hint_daily,Klarar du 10 nivåer så låser du upp!
+placeholder.timestring,12h 34min 56sec
+placeholder.title_daily,"Daglig utmaning
+Låst"
+popup_name.accept_name,Fortsätt
+popup_name.not_now,Inte nu
+prelevel_text.002,"Samla fler <font color=""\#ff5503"">gula bitar</font> än din motståndare!"
+prelevel_text.004,"Samla fler <font color=""\#ff8800"">Morötter</font> än din motståndare!"
+prelevel_text.006,"Rensa mer <font color=""\#4499ff"">Is</font> än din motståndare!"
+promo_reforged.button,Anspråk
+promo_reforged.text,Hooray! Vi har lanserat en ny spelmod - Skydom Reforged! För att fira lanseringen ger vi bort en gratis Mega Booster-pack! Hämta den nu?
+promo_reforged.title,Skydom omformad!
+rate_us.description,Hur gillar du Skydom?
+rate_us.feedback.cancel,Inte nu
+rate_us.feedback.description,Skriv in din e-post om du vill få ett svar.
+rate_us.feedback.email_hint,E-post
+rate_us.feedback.message_hint,Hur kan vi förbättra spelet för dig?
+rate_us.feedback.submit,Skicka in
+rate_us.star_1,Hade det inte gillat det.
+rate_us.star_2,Ogillade det.
+rate_us.star_3,Det är OK.
+rate_us.star_4,Gillade det!
+rate_us.star_5,Älskade det!
+rate_us.submit,Skicka in
+rate_us.write_review.cancel,Inte nu
+rate_us.write_review.google_play,Dela dina tankar om spelet eller betygsätt det på Google Play!
+rate_us.write_review.submit,Gärna!
+rate_us.write_review.yandex,Dela dina tankar om spelet eller betygsätt det på Yandex Games!
+rematch_pvp.asks_for_rematch_draw,#name vill ha ett annat försök
+rematch_pvp.asks_for_rematch_player_lose,#name erbjuder en ommatch!
+rematch_pvp.asks_for_rematch_player_won,#name vill ha en revansch!
+reward.coins,Mynt
+reward.gems,Juveler
+reward.lives,Liv
+reward.prelevel.add_bomb,Bombförstärkare
+reward.prelevel.add_line,Linje Booster
+reward.prelevel.add_omni,Blixtförstärkare
+reward.prelevel.add_tint,Färg Booster
+reward.prelevel.double_fly,Firefly x2 Booster
+reward.tickets,Token
+reward.undo,Ångra
+search.cannot_connect,Ingen internetanslutning.
+search.failed,Oj då! Något gick fel...
+search.loading,Laddar...
+search.playing_with_trainer,Spela med Coach
+search.readying,Motståndare hittad!
+search.readying_rematch,Klart!
+search.rejected,Motståndaren flydde
+search.searching,Söker efter motståndare...
+search.vs,VS
+search.waiting_opp,Väntar på motståndare...
+settings.change_avatar,Ändra Profilbild
+settings.change_avatar.connect_fb,Anslut
+settings.change_avatar.continue,Fortsätt
+settings.change_avatar.title,Välj ny profilbild
+settings.change_avatar.warning,"Obs!
+- Du kan bara ändra din profilbild EN GÅNG
+- Anslut till Facebook för att använda Facebook-profilbilden"
+settings.change_avatar.warning_no_fb,Obs! Du kan bara ändra din profilbild EN GÅNG.
+settings.change_name,Ändra namn
+settings.change_name.accept_name,Fortsätt
+settings.change_name.do_not_match,Namn matchar inte. Var vänlig försök igen.
+settings.change_name.edit,Ange nytt namn:
+settings.change_name.reenter,Ange ditt nya namn:
+settings.change_name.same_name,Nytt namn matchar befintligt.
+settings.change_name.too_long,Det här namnet är för långt - 15 tecken gräns
+settings.change_name.too_short,Detta namn är för kort =)
+settings.change_name.warning,OBS! Du kan bara ändra ditt namn EN GÅNG.
+settings.confirm_avatar.cancel,Avbryt
+settings.confirm_avatar.change,Ändra
+settings.confirm_avatar.title,"Är du säker på att du vill ändra
+din profilbild?
+Din nya profilbild:"
+settings.confirm_avatar.warning,"Obs: Du kan bara ändra din
+profilbild EN GÅNG"
+settings.confirm_name.cancel,Avbryt
+settings.confirm_name.change,Bekräfta
+settings.confirm_name.title,Är du säker på att du vill ändra ditt namn? Ditt nya namn kommer att bli:
+settings.confirm_name.warning,OBS! Du kan bara ändra ditt namn EN GÅNG.
+settings.connect_fb,Anslut Facebook
+settings.connect_ok,Anslut Odnoklassniki
+settings.connect_vk,Anslut VK
+settings.connect_y8,Anslut Y8
+settings.connect_yandex,Anslut Yandex
+settings.connected_fb,Facebook
+settings.connected_ok,Odnoklassniki
+settings.connected_vk,VK
+settings.connected_y8,Y8
+settings.connected_yandex,Yandex
+settings.coupon,Promokod
+settings.coupon_title,Promokod
+settings.coupon.enter,Ansök
+settings.coupon.enter_hint,Skriv in din rabattkod här
+settings.coupon.invalid_code,"<font color=""\#e90047"">Denna kod är ogiltig. Var vänlig försök med en annan kod."
+settings.coupon.missing_code,Skriv in din #e90047promokod
+settings.coupon.ok,Koden har lösts in!
+settings.credits,Krediter
+settings.eula,Användarvillkor
+settings.fb_hint,Anslut till Facebook för att spela med vänner och synka ditt framsteg!
+settings.general,ALLMÄNT
+settings.generate_key,Skapa kod
+settings.invite_friends,Bjud in vänner
+settings.language,Språk
+settings.language_header,VÄLJ SPRÅK
+settings.move_hints,Ledtrådar
+settings.music,Musik
+settings.networks,Anslutningar
+settings.networks_hint,Anslut sociala nätverk för att spela med vänner och synka ditt framsteg!
+settings.notifications,Notifikationer
+settings.notifications.daily,Dagliga utmaningar
+settings.notifications.disable_all,Inaktivera alla
+settings.notifications.disable_night,Stäng av från 23 till 8 på morgonen.
+settings.notifications.gifts,Gåvor
+settings.notifications.others,Andra påminnelser
+settings.open_support,Spelarstöd
+settings.open_vk_group,Gruppspel
+settings.player_id,Kopiera spelar-ID
+settings.policy,Sekretesspolicy
+settings.rate_us,Betygsätt oss
+settings.report_problem,Rapportera ett problem
+settings.sound,Ljud
+settings.support,STÖD
+settings.telegram_channel,Följ vår Telegram-kanal
+settings.telegram_channel_hint,Alla senaste nyheter om Skydom!
+settings.telegram_support,Chatta med fansen på Telegram.
+settings.title,Inställningar
+settings.update,Uppdatera
+settings.y8_hint,Anslut till Y8 för att synka din framsteg online!
+settings.yandex_hint,Anslut till Yandex för att synka din framsteg online!
+shop.gems_restored.accept,Fantastiskt!
+shop.gems_restored.title,Dina köp av ädelstenar är klara.
+shop.not_available,Inte tillgänglig
+shop.remove_ads_remain_time,Annonser borttagna för #time
+shop.remove_ads_text,"Ta bort reklam mellan nivåer
+med någon köp"
+shop.remove_ads_timed,"Ta bort annonser mellan nivåer
+med någon köp för en månad"
+social_notification.button,Anslut
+social_notification.message,Anslut till ett socialt nätverk för att synka din framsteg online!
+social_notification.no_post_hint,Vi kommer aldrig att posta utan din tillåtelse.
+social_notification.title,Spara ditt framsteg
+social_share.button,Dela
+social_share.chooser_hint,Dela via
+social_share.message,Hej! Kolla in det här unika PvP Match-3-spelet! Hämta det på https://PecPoc.com
+social_share.subject,Kolla in det nya roliga spelet - Skydom!
+social_share.title,"Dela spelet med andra!
+Det är roligare att spela med vänner!"
+tempkey_login.button,Fortsätt
+tempkey_login.empty_key,Du skrev inte in någon kod
+tempkey_login.input.default_hint,Ange kod
+tempkey_login.invalid_key,Fel kod
+tempkey_login.message_top,"Fortsätt spela här - hämta koden där du spelade innan i Inställningar under ""Skapa kod"""
+tempkey_login.no_connection,Kunde inte ansluta
+tempkey.fail.button,OK
+tempkey.fail.message,Kolla din internetanslutning eller försök senare.
+tempkey.fail.title,Kunde inte skapa kod
+tempkey.ok.copied,Kopierat!
+tempkey.ok.copy,Kopiera
+tempkey.ok.hint,Koden går ut efter 4 timmar.
+tempkey.ok.message,#tempkey
+tempkey.ok.title,Din kod:
+tickets_shop.boost_text,x2 fyll hastighet
+tickets_shop.buy_all,Köp #amount
+tickets_shop.hint,Du behöver Tokens för att spela i Dagliga Utmaningen.
+tickets_shop.hint_out_of,"<font color=""\#e90047"">Inga fler lyckotoken</font>"
+tickets_shop.recharge,Ny token in: #time
+tickets_shop.title,Token
+tickets_shop.watch_ad_button,Titta
+tickets_shop.watch_ad_text,Få 1 gratis
+time.days_hours,"#days<font size=""-15""> </font><font size=""-10"">d</font> #hours<font size=""-15""> </font><font size=""-10"">h</font>"
+time.hours,"#hours<font size=""-15""> </font><font size=""-10"">h</font>"
+time.hours_minutes,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #minutes<font size=""-15""> </font><font size=""-10"">min</font>"
+time.hours_minutes_seconds,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #minutes<font size=""-15""> </font><font size=""-10"">min</font> #seconds<font size=""-15""> </font><font size=""-10"">sec</font>"
+time.hours_seconds,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #seconds<font size=""-15""> </font><font size=""-10"">sec</font>"
+time.less_than_minute,"1<font size=""-15""> </font><font size=""-10"">min</font>"
+time.minutes,"#minutes<font size=""-15""> </font><font size=""-10"">min</font>"
+time.minutes_seconds,"#minutes<font size=""-15""> </font><font size=""-10"">min</font> #seconds<font size=""-15""> </font><font size=""-10"">sec</font>"
+time.seconds,"#seconds<font size=""-15""> </font><font size=""-10"">sec</font>"
+tutorial_home.play,Spela
+tutorial.001.dialog_tutorial,"Matcha <font color=""\#5885b8"">3 bitar av samma färg i rad</font> för att ta bort dem."
+tutorial.001.hint,"Mål
+Samla 12 gröna bitar!"
+tutorial.001.turn_1,Matcha 3 bitar av samma färg genom att byta plats på de som ligger intill.
+tutorial.002.hint,Samla fler gula bitar än din motståndare!
+tutorial.skip,Hoppa över
+undo_shop.buy_undos,Få #count för
+undo_shop.hint,Ångra går tillbaka ditt senaste drag
+undo_shop.recharge,Nästa ångra i: #time
+undo_shop.title,Ångra
+undo_shop.watch_ad_button,Titta
+undo_shop.watch_ad_text,Få 1 gratis
+undo_shop.you_have,Du har #amount ångra
+update.button,Uppdatera
+update.new_version,Uppdatera till den senaste versionen!
+update.new_version_value,"<font color=""\#5885b8"">#version"
+update.old_version,Du använder en äldre version.
+update.old_version_value,"<font color=""\#a5a7aa"">#version"
+update.text,"Du använder en gammal version.
+Var vänlig uppdatera till den senaste versionen!"
+update.title,Ny version tillgänglig!
+update.web.button,Uppdatera
+update.web.message,Vänligen uppdatera sidan.
+update.web.title,Ny version tillgänglig!
+vk_login_failed.message,Kunde inte ansluta till VK. Försök igen?
+vk_promo.title,Present från VK!
+vk.share_tick,Dela
+watch_for_gems.button,Titta
+watch_for_gems.text,+#amount
+web.webg_context_lost,"WebGL-kontext förlorad, återställer..."
+welcome_bonus.speech_1,"Hej #PlayerName!
+Jag har några presenter till dig.
+Välj en!"
+welcome_bonus.speech_2,"Tankar materialiseras ... Ohmmm!
+Jag tänkte på några presenter och se vad som hände =)"
+welcome_bonus.speech_3,Jag hittade två lådor när du inte var där! Öppna en!
+welcome_bonus.speech_4,"Hej där, #PlayerName!
+Titta vad som föll
+från molnen!"
+welcome_bonus.speech_5,"Storkar har flygit förbi...
+Visar sig att de inte bara för med sig barn!"
+welcome_bonus.speech_6,"Hej där, #PlayerName!
+Välkommen tillbaka!
+Välj en skattkista!"
+welcome_bonus.speech_7,"Saknat dig så mycket, #PlayerName, så jag förberedde en liten present till dig!"
+welcome_bonus.speech_8,Konstiga saker händer. Sitter och slappar och plötsligt kommer det två lådor från ingenstans!
+welcome_pack.open,Öppna
+welcome_pack.play,Spela
+welcome_pack.speech_1,"Lång tid inte se, #PlayerName! Jag har en present till dig!"
+welcome_pack.speech_2,"Åh, #PlayerName, jag saknade dig! Låt oss öppna gåvan och spela!"
+welcome_pack.speech_3,"#PlayerName, bra att se dig igen! Skynda dig och öppna bröstet."
+welcome_pack.speech_gift,"#PlayerName, vi har en speciell present till dig =) Öppna det snabbt!"
+welcome_pack.speech_reforged,"#PlayerName, vi har en speciell gåva till dig =) Öppna den snabbt!"
+y8_login_failed.message,Kunde inte ansluta till Y8. Försök igen?
+yandex_login_failed.message,Não foi possível conectar ao Yandex. Tente novamente?
+yandex_notification.button,Conectar
+yandex_notification.message,Ligue para o Yandex para sincronizar o seu progresso online!
+yandex_notification.title,Salvar seu progresso
+gamemode.capital.leaf,LÖV
+yandex_login_has_attachment.message,Ett annat Yandex-konto har länkats till det här spelprofilen.
+fb_login_has_attachment.message,Ett annat Facebook-konto har länkats till det här spelprofilen.
+ok_login_has_attachment.message,Ett annat OK-konto har länkats till det här spelprofilen.
+vk_login_has_attachment.message,Ett annat VK-konto har länkats till det här spelprofilen.
+y8_login_has_attachment.message,Ett annat Y8-konto har länkats till det här spelets profil.
+android_app.text.beta,Hej vänner! Vi är glada att meddela att vi lanserar beta-test av vårt spel på Android. Alla är välkomna!
+bookmark.play,Hem
+bookmark.quest,Uppdrag
+chest_opening.bronze,Brons
+chest_opening.continue,Lätt
+chest_opening.division,III Divisionen
+chest_opening.golden,Guld
+chest_opening.silver,Silver
+chest_opening.togoldenleague,"Kan du nå
+den gyllene ligan?"
+chest_opening.welcome,"Välkommen till Leagues 
+av Match Arena!"
+chest_opening.yourebronze,"Du uppnådde
+Bronsliga III"
+chest.open,Öppna
+chest.opens_now,Fantastiskt! Byrån är din att öppna!
+chest.wins_left_1,En till vinst!
+chest.wins_left_2,Bara 2 segrar och den är din!
+chest.wins_left_3,Bra jobbat! 3 segrar till!
+chest.wins_left_4,4 segrar för att öppna lådan!
+chest.wins_to_open,#num vinster för att öppna
+forge_help.block_1,Vinn dueller för att tjäna mynt
+forge_help.block_2,Använd mynt för att starta smeder och få guldbarrer!
+forge_help.block_3,Samla guldstänger för att klättra upp i ligorna!
+forge_help.block_4,Ny liga - nya nivåer!
+forge_help.continue,Fattat!
+forge_help.title,Ligor och smeder
+forge.add,Lägg till
+forge.boost,Boosta
+forge.boost_free,"Låt oss boosta den här smeden!
+Första gången är det gratis!"
+forge.boost_free_ok,Boosta
+forge.buy_1,Brons smide
+forge.buy_2,Silver smedja
+forge.buy_3,Guld smide
+forge.buy_4,Rubinfästet
+forge.buy_now,Lägg till
+forge.cheat_boost,Fuska? Fuska!
+forge.name_1,Brons smide
+forge.name_2,Silver smedja
+forge.name_3,Guld smide
+forge.name_4,Rubinfästet
+forge.not_enough_coins,Inte tillräckligt med mynt för att börja
+forge.ok,OK
+forge.open,Öppna
+forge.open_now,Öppna nu
+forge.other_in_progress,En annan smide pågår fortfarande!
+forge.popup_boost,Boost -30 min
+forge.popup_boost_speedup,Boost -15 min
+forge.progress,#bars in: #time
+forge.speedup_no,Nej
+forge.speedup_offer,"<font color=""\#5885b8"">Boosta</font> hastigheten på Smidesverktyget <font color=""\#5885b8"">med 2x?</font>"
+forge.speedup_ok,OK
+forge.speedup_success,Forge har boostats!
+forge.speedup_yes,Ja
+forge.start,Starta
+forge.time_1,3 timmar
+forge.time_2,6 timmar
+forge.time_3,12 timmar
+forge.time_4,24 timmar
+forge.tutorial.collect_coins,Tjäna 1000 mynt för att starta smedjan!
+forge.tutorial.open_now,"Fantastiskt! Smältningen är klar!
+Vi kan öppna smedjan!"
+forge.tutorial.smelt_more,Fortsätt att smida guldbarrer för att komma till nästa division!
+forge.tutorial.start_forge,"Bra jobbat, du fick 1000 mynt!
+Nu kan vi börja smida!"
+forge.tutorial.wait_ready,Vinn fler mynt medan din smide jobbar
+forge.watch_ad,Titta
+gamemode.chocolate,Lava
+gamemode.diamonds,Diamanter
+gamemode.energycube,Gelé
+gamemode.fishes,Morötter
+gamemode.food,Ekar
+gamemode.fossils,Octopuser
+gamemode.grass,Gräs
+gamemode.honeybee,Björnar
+gamemode.ice,Is
+gamemode.jam,Energi
+gamemode.road,Gris
+gamemode.stone,Stenar
+gamemode.tasks,Beställningar
+gamemode.tiles,Gräs
+home.bars_need_more,Du behöver #mer
+home.bars_progress,#current / #total
+home.bet,Satsa #count mynt
+home.coins,#count
+home.gems,#count
+home.hint_quest_book,Ny quest tillgängliga!
+home.hint_quest_book.claim,Yippie! Någon kommer att belönas!
+home.hint_quest_book.new,Wow! Ny uppdrag!
+home.league_indev,Nästa liga kommer snart!
+home.rematch.asks_for_rematch_draw,#name vill ha ett annat försök
+home.rematch.asks_for_rematch_player_lose,#name erbjuder ommatch
+home.rematch.asks_for_rematch_player_won,#name vill ha en omgång till!
+home.xp,#count
+ingame_booster_shop.buy,Få #count för
+ingame_booster_shop.hint.cross,Använd magiska vanden för att ta bort en rad och en kolumn med bitar!
+ingame_booster_shop.hint.hammer,Ta bort brickor genom att krossa dem med hammaren!
+ingame_booster_shop.hint.hand,Använd handsken för att byta ut några grannar bitar
+ingame_booster_shop.title.cross,Magiska wanden
+ingame_booster_shop.title.hammer,Hammare
+ingame_booster_shop.title.hand,Handske
+league.Bronze,Bronsliga
+league.div_1,Division I
+league.div_2,Division II
+league.div_3,Division III
+league.div_4,Division IV
+league.div_5,Division V
+league.E001,Brons III
+league.E002,Brons II
+league.E003,Brons I
+league.E004,Silver IV
+league.E005,Silver III
+league.E006,Silver II
+league.E007,Silver I
+league.E008,Guld V
+league.E009,Guld IV
+league.E010,Guld III
+league.E011,Guld II
+league.E012,Guld I
+league.E013,Platina V
+league.E014,Platina IV
+league.E015,Platina III
+league.E016,Platina II
+league.E017,Platina I
+league.E018,Mästare 1
+league.Gold,Guldligaen
+league.Master,Mästarligan
+league.MasterN,Mästare #div
+league.GrandMaster,Grandmaster
+league.GrandMasterN,Grandmaster #div
+league.Platinum,Platina Ligan
+league.Silver,Silverligaen
+levelup.continue,Superbra!
+levelup.reward,Belöning
+levelup.title_division,"Grattis!
+Ny division!"
+levelup.title_league,"Grattis!!
+Ny liga!"
+ma2transfer.install,Installera
+ma2transfer.message,"Match Arena har flyttat till den nya appen!
+
+Viktigt! Använd koden nedan för att överföra din framsteg."
+nickname.tutorial_004,Sensei Michael
+nickname.tutorial_005,Professor Frank
+nickname.tutorial_006,Drottning Matcha
+nickname.tutorial_007,Lärare Leo
+nickname.tutorial_008,Coach Carl
+nickname.tutorial_009,Lärare Beardy
+nickname.tutorial_010,Guru Vicky
+placeholder.hint_friends,"Utmana dina vänner
+och visa vad du är kapabel att göra!"
+placeholder.hint_quests,"Nå bronsligan I
+för att upptäcka!"
+placeholder.hint_settings,Kommer bli klar snart :)
+placeholder.title_friends,"Spela med vänner
+Kommer snart"
+placeholder.title_quests,"Fantastiska uppdrag
+Låst"
+placeholder.title_settings,Inställningar under uppbyggnad
+quest_help.block_1,Slutför uppdrag för att få belöningar!
+quest_help.block_2,Slutför alla uppdrag för att öppna lådan.
+quest_help.block_3,"Slutför alla uppdrag innan nästa division, annars kommer du att förlora byrån!"
+quest_help.continue,Fattat!
+quest_help.title,Uppdragsbok
+quest.aquarium,Samla #amount fiskar
+quest.bar,#progress / #amount
+quest.bar_completed,Quest klar!
+quest.bar_last_try,Föregående försök: #progress av #amount
+quest.bar_special_not_tried,#progress / #amount
+quest.best_so_far,Bästa resultat: #progress
+quest.butterfly,Samla #amount fjärilar
+quest.buy_now,Få nu #amount
+quest.cat,Samla #amount Kattungar
+quest.chip_destroy,Samla #amount av vilka bitar som helst
+quest.chip_destroy_bird,Samla #amount fåglar
+quest.chip_destroy_blue,Samla #amount blå bitar
+quest.chip_destroy_diamond,Samla #amount Diamanter
+quest.chip_destroy_fish,Samla #amount morötter
+quest.chip_destroy_fish_blue,Samla #amount blå morötter
+quest.chip_destroy_fish_green,Samla #amount gröna morötter
+quest.chip_destroy_fish_orange,Samla #amount orange morötter
+quest.chip_destroy_fish_purple,Samla #amount lila morötter
+quest.chip_destroy_fish_red,Samla #amount röda morötter
+quest.chip_destroy_fish_yellow,Samla #amount gula morötter
+quest.chip_destroy_food,Ta bort #amount Ekollon
+quest.chip_destroy_frog,Samla #amount Grodor
+quest.chip_destroy_green,Samla #amount gröna bitar
+quest.chip_destroy_orange,Samla #amount orange bitar
+quest.chip_destroy_purple,Samla #amount lila bitar
+quest.chip_destroy_red,Samla #amount röda bitar
+quest.chip_destroy_snail,Samla #amount sniglar
+quest.chip_destroy_super,Samla #amount superbitar
+quest.chip_destroy_wafer,Samla #amount guldmalm
+quest.chip_destroy_with_bomb,Samla #amount bitar genom att använda Bomb!
+quest.chip_destroy_with_line,Samla #amount bitar med Linje bonus!
+quest.chip_destroy_with_mine,Samla #amount bitar med Firefly-bonus!
+quest.chip_destroy_with_omni,Samla #amount bitar med Blixtbonus!
+quest.chip_destroy_yellow,Samla #amount gula bitar
+quest.chip_destroy_waterfish,Samla #amount vatten fiskar
+quest.chip_recolor,Färglägg #amount bitar med Målarbonusen!
+quest.claim,Hävda Belöning
+quest.complete_chest,Alla uppdrag slutförda
+quest.cover_destroy_bee,Samla #amount Björnar
+quest.cover_destroy_bound,Lås upp #amount bitar
+quest.cover_destroy_chocolate,Ta bort #amount bitar med Lava
+quest.cover_destroy_fizzblue,Samla #amount fizz
+quest.cover_destroy_fizzpurple,Samla #amount fizz
+quest.cover_destroy_frozen,Ta bort frost från #amount bitar
+quest.cover_destroy_honey,Rensa #amount brickor med Honung
+quest.cover_destroy_hotlava,Ta bort #amount bitar av het lava
+quest.cover_destroy_receiver_energycube,Samla #amount gelékristaller
+quest.cover_destroy_receiver_jam,Samla #amount energi kristaller
+quest.cover_destroy_statue,Samla #amount hundar
+quest.cover_destroy_stone,Ta bort #amount stenbitar
+quest.cover_destroy_leaf,Rensa #amount löv
+quest.division_done_card,Nytt uppdrag i nästa division!
+quest.duck,Samla #amount ankor
+quest.energy_flow,Dra energi genom #amount rutor
+quest.energycube_flow,Fyll #amount rutor med gelé!
+quest.fossil,Samla #amount Octopuser
+quest.gum,Samla #amount tuggummin bitar
+quest.new_quest,Ny uppgift!
+quest.new_quest_in,Nästa uppdrag i:
+quest.on_arena_splash_score,Få #amount poäng i Arena Boom!
+quest.on_arena_splash_use_bonus,Spara #amount bonusar för Arena Boom!
+quest.plate_destroy,Ta bort #amount Separationer
+quest.play,Spela
+quest.pvp_score,Få #amount poäng i dueller
+quest.reward,Belöning:
+quest.snakes,Samla #amount ormar
+quest.tile_destroy_gold,Samla #amount brickor med Gräs
+quest.tile_destroy_grass,Samla #amount brickor med Gräs
+quest.title,Uppdragsbok
+quest.use_bonus,Använd #amount bonusar
+quest.use_bonus_bomb,Använd #amount bonusar Bomb
+quest.use_bonus_line,Använd #amount bonusar Rad
+quest.use_bonus_mine,Använd #amount bonusar Firefly
+quest.use_bonus_omni,Använd bonus Blixten #amount gånger
+quest.use_bonus_tint,Använd #amount bonusar Måla
+quest.use_combo_bomb_bomb,Gör kombobonus Bomb+Bomb #amount gånger
+quest.use_combo_bomb_omni,Gör kombobonusen Blixt+Bomb #amount gånger
+quest.use_combo_bomb_tint,Gör combo-bonus Färg+Bomb #amount gånger
+quest.use_combo_line_bomb,Gör kombobonus Bomb+Line #amount gånger
+quest.use_combo_line_line,Gör kombobonus Linje+Linje #amount gånger
+quest.use_combo_line_omni,Gör kombobonusen Blixt+Linje #amount gånger
+quest.use_combo_line_tint,Gör combo-bonus Paint+Line #amount gånger
+quest.use_combo_mine_bomb,Gör kombobonus Bomb+Firefly #amount gånger
+quest.use_combo_mine_line,Gör kombobonus Firefly+Line #amount gånger
+quest.use_combo_mine_mine,Gör kombobonus Firefly+Firefly #amount gånger
+quest.use_combo_mine_omni,Gör kombobonusen Blixt+Låge #amount gånger
+quest.use_combo_mine_tint,Gör combo-bonus Paint+Firefly #amount gånger
+quest.use_combo_omni_omni,Gör kombobonus Blixt+Blixt #amount gånger
+quest.use_combo_omni_tint,Gör combo-bonus Färg+Blixt #amount gånger
+quest.use_combo_tint_tint,Gör combo-bonus Färg+Färg #amount gånger
+quest.walk,Gå gris #amount steg
+quest.watch_for_new,- #time
+quest.win,Vinn #amount dueller
+quest.win_coins,Tjäna #amount mynt i dueller
+quest.win_hard_level,Slutför svår nivå
+quest.win_rematch,Vinna #amount omgångar
+quest.win_streak,Vinn #amount dueller i rad
+quest.chip_destroy_clam,Samla #amount pärlor
+quest.chip_destroy_egg,Samla #amount ägg
+quest.gardenflower,Samla #amount Blommor
+quest.sausages,Samla #amount korvar
+rematch.asks_for_rematch_draw,"#name vill ha ett till försök
+Satsa #bet"
+rematch.asks_for_rematch_player_lose,"#name erbjuder en återmatch
+Satsa #bet"
+rematch.asks_for_rematch_player_won,"#name vill ha en revansch!
+Satsa #bet"
+rematch.rematch_bet,Satsa #bet
+report.body,
+report.subject,Problem med MatchArena
+reward.bars,Guldstänger
+reward.coins_amt,+#amount
+reward.gems_amt,+#amount
+reward.levels,Ny nivåer
+reward.levels_amt,+#amount
+reward.levelup,"Grattis!
+Ny nivå!"
+reward.new_levels,"Nya
+nivåer!"
+reward.talisman,Talismaner
+reward.xp_amt,+#amount
+search.prize_fund,Prispengar
+settings.friends_and_partners,Vänner och Partner
+settings.language.help_us_translate,"Vill du hjälpa oss att översätta Match Arena till språk du kan? Skicka oss ett mail på <font color=""\#0000EE"">support@matcharenagame.com."
+settings.notifications.duels,Utmana till dueller
+shop.indev,Snart kommer det!
+splash.hint_chocolate,Ta bort så mycket lava som du kan!
+splash.hint_diamonds,Samla så många Diamanter som möjligt!
+splash.hint_energycube,Fyll så många rutor som du kan med gelé!
+splash.hint_fishes,Samla så många morötter som du kan!
+splash.hint_food,Ta bort så många ekollon som du kan!
+splash.hint_fossils,Rädda så många bläckfiskar som du kan!
+splash.hint_honeybee,Samla så många björnar som du kan!
+splash.hint_ice,Ta bort så mycket is som du kan!
+splash.hint_jam,Fyll så många rutor med energi som du kan!
+splash.hint_road,Gå gris så långt som möjligt!
+splash.hint_stone,Ta bort så många stenar som du kan!
+splash.hint_tasks,Kompletta så många beställningar som du kan!
+splash.hint_tiles,Samla så mycket gräs som möjligt!
+splash.mode_chocolate,Mål - Lava
+splash.mode_diamonds,Mål - Diamanter
+splash.mode_fishes,Mål - Morötter
+splash.mode_food,Mål - Ekar
+splash.mode_jam,Mål - Energi
+splash.mode_road,Mål - Gris
+splash.mode_tasks,Mål - Beställningar
+splash.mode_tiles,Mål - Gräs
+talismans_shop.ask_button,Facebook
+talismans_shop.ask_text,Fråga vänner
+talismans_shop.boost_text,x2 fyll hastighet
+talismans_shop.buy_all,Få #amount för
+talismans_shop.hint,Dubbla mynt vunnit
+talismans_shop.recharge,Nästa talisman om: #time
+talismans_shop.title,Talismaner
+talismans_shop.watch_ad_button,Titta
+talismans_shop.watch_ad_text,Få 1 gratis
+tickets_shop.ask_button,Facebook
+tickets_shop.ask_text,Fråga vänner
+tutorial.001.collect_more_fishes,"Samla så många <font color=""\#5885b8"">Morötter</font> som du kan!"
+tutorial.001.continue_to_collect_fishes,Fortsätt samla morötter!
+tutorial.001.first_swap_red_down,"Flytta den röda biten ner
+för att matcha tre i rad"
+tutorial.001.remind_collect_three_in_a_row,"Samla <font color=""\#5885b8"">tre bitar</font> av samma färg<font color=""\#5885b8""> i rad</font>"
+tutorial.001.second_swap_green_left,"Flytta den gröna biten till vänster
+för att matcha <font color=""\#5885b8"">tre i rad</font>"
+tutorial.001.third_swap_fish,"<font color=""\#5885b8"">Morötter</font> kan också matchas tre i rad"
+tutorial.001.you_are_doing_well,Du gör det bra!
+tutorial.002.get_bonus_line,"...för att få <font color=""\#5885b8"">bonus - Linje!</font>"
+tutorial.002.try_four_in_a_row,"Försök att matcha <font color=""\#5885b8"">4 i rad!</font>"
+tutorial.002.use_line_bonus,"Matcha <font color=""\#5885b8"">tre i rad med bonus</font> för att se kraften av raden!"
+tutorial.003.hint,Samla fler morötter än din motståndare!
+tutorial.003.try_l_or_t,"Matcha bitar <font color=""\#5885b8"">i en T eller L-form!</font>"
+tutorial.003.use_bomb_bonus,"...för att få <font color=""\#5885b8"">bonus - Bomb!</font>
+Låt oss spränga den!"
+tutorial.004.clear_gold_tiles,"Gör matchningar på <font color=""\#5885b8"">Gräset</font>
+för att samla in det!"
+tutorial.004.combine_omni_with_blue,"Byt <font color=""\#5885b8"">Blixt-biten</font> med den blå biten för att ta bort alla blå bitar från brädet!"
+tutorial.004.try_five_in_a_row,"Försök få <font color=""\#5885b8"">5 i rad!</font>"
+tutorial.005.two_bonus_can_combine,"Du kan <font color=""\#5885b8"">slå ihop två bonusar</font> för att få en ännu större bonus!"
+tutorial.007.collect_food,"Gör matchningar bredvid <font color=""\#5885b8"">Ekollon</font>!"
+tutorial.007.move_character,"Samla ekollon för att
+<font color=""\#5885b8"">flytta Piggy framåt!</font>"
+tutorial.008.make_mine_bonus,"Matcha fyra bitar i en fyrkant
+och få en bonus - Firefly!"
+tutorial.008.use_mine_bonus,"Matcha tre i rad med <font color=""\#5885b8"">Firefly</font>
+för att använda det!"
+tutorial.009.make_tint_bonus,"Gör en <font color=""\#5885b8"">stor T-form</font> och 
+få en bonus - Måla!"
+tutorial.009.use_tint_bonus,"<font color=""\#5885b8"">Måla</font> kan bytas ut med vilken bit som helst!"
+level_popup.adventure.title,Nivå
+lives_shop.ma_hint,"Du behöver liv för att
+fortsätta spela Äventyr"

@@ -1,0 +1,25 @@
+ {
+	"size":9,
+	"stars":{"avg":13, "top":33 },
+	"moves":55,
+	"add":[	
+		{ "x":2, "y":0, "dx":5, "dy":1, "type":"ORE", "count":true, "softCage":true  },
+		{ "x":2, "y":8, "dx":5, "dy":1, "type":"ORE", "count":true, "softCage":true  },
+		{ "x":8, "y":2, "dx":1, "dy":5, "type":"ORE", "count":true, "softCage":true  },
+		{ "x":0, "y":2, "dx":1, "dy":5, "type":"ORE", "count":true, "softCage":true  },
+		
+		{ "x":3, "y":3, "dx":3, "dy":3, "type":"BOX", "count":true}
+		
+	],
+	"allowedGemTypes":["GEM_YELLOW","GEM_GREEN","GEM_RED","GEM_BLUE"],
+	"field":[ 
+		"ooxxxxxoo",
+		"ooooooooo",
+		"xoxxxxxox",
+		"xoxxxxxox",
+		"xoxxxxxox",
+		"xoxxxxxox",
+		"xoxxxxxox",
+		"ooooooooo",
+		"ooxxxxxoo"]
+ }

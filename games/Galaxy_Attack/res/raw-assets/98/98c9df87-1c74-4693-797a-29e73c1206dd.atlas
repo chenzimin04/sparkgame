@@ -1,0 +1,174 @@
+
+skel_octopus_body.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images1/000
+  rotate: false
+  xy: 1436, 215
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+images2/000
+  rotate: false
+  xy: 1436, 215
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+images1/b1
+  rotate: false
+  xy: 1852, 239
+  size: 77, 84
+  orig: 77, 84
+  offset: 0, 0
+  index: -1
+images1/b2
+  rotate: true
+  xy: 1852, 161
+  size: 77, 84
+  orig: 77, 84
+  offset: 0, 0
+  index: -1
+images1/b3
+  rotate: false
+  xy: 1237, 60
+  size: 177, 135
+  orig: 177, 135
+  offset: 0, 0
+  index: -1
+images1/d8
+  rotate: false
+  xy: 774, 37
+  size: 250, 188
+  orig: 250, 188
+  offset: 0, 0
+  index: -1
+images1/guang11
+  rotate: true
+  xy: 1257, 196
+  size: 126, 178
+  orig: 126, 178
+  offset: 0, 0
+  index: -1
+images2/guang11
+  rotate: true
+  xy: 1257, 196
+  size: 126, 178
+  orig: 126, 178
+  offset: 0, 0
+  index: -1
+images1/tou1
+  rotate: false
+  xy: 467, 226
+  size: 394, 280
+  orig: 394, 280
+  offset: 0, 0
+  index: -1
+images1/tou2
+  rotate: false
+  xy: 467, 42
+  size: 306, 183
+  orig: 306, 183
+  offset: 0, 0
+  index: -1
+images1/ts1
+  rotate: false
+  xy: 1025, 43
+  size: 211, 182
+  orig: 211, 182
+  offset: 0, 0
+  index: -1
+images1/yan1
+  rotate: true
+  xy: 1722, 180
+  size: 137, 66
+  orig: 137, 66
+  offset: 0, 0
+  index: -1
+images2/yan1
+  rotate: true
+  xy: 1722, 180
+  size: 137, 66
+  orig: 137, 66
+  offset: 0, 0
+  index: -1
+images1/yan2
+  rotate: true
+  xy: 1789, 186
+  size: 131, 62
+  orig: 131, 62
+  offset: 0, 0
+  index: -1
+images2/yan2
+  rotate: true
+  xy: 1789, 186
+  size: 131, 62
+  orig: 131, 62
+  offset: 0, 0
+  index: -1
+images1/ying
+  rotate: false
+  xy: 1, 1
+  size: 465, 505
+  orig: 465, 505
+  offset: 0, 0
+  index: -1
+images2/ying
+  rotate: false
+  xy: 1, 1
+  size: 465, 505
+  orig: 465, 505
+  offset: 0, 0
+  index: -1
+images2/b1
+  rotate: false
+  xy: 1930, 239
+  size: 77, 84
+  orig: 77, 84
+  offset: 0, 0
+  index: -1
+images2/b2
+  rotate: false
+  xy: 1937, 154
+  size: 77, 84
+  orig: 77, 84
+  offset: 0, 0
+  index: -1
+images2/b3
+  rotate: false
+  xy: 1544, 182
+  size: 177, 135
+  orig: 177, 135
+  offset: 0, 0
+  index: -1
+images2/d8
+  rotate: false
+  xy: 1564, 318
+  size: 250, 188
+  orig: 250, 188
+  offset: 0, 0
+  index: -1
+images2/tou1
+  rotate: false
+  xy: 862, 226
+  size: 394, 280
+  orig: 394, 280
+  offset: 0, 0
+  index: -1
+images2/tou2
+  rotate: false
+  xy: 1257, 323
+  size: 306, 183
+  orig: 306, 183
+  offset: 0, 0
+  index: -1
+images2/ts1
+  rotate: false
+  xy: 1815, 324
+  size: 211, 182
+  orig: 211, 182
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,24 @@
+ {
+	"size":10,
+	"moves":42,
+	"fill":"up",
+	"add":[		
+		{ "x":4, "y":8, "type":"FAT_ANVIL",  "count":true },
+		{ "x":4, "y":6, "type":"FAT_MULTI",  "count":true },
+		{ "x":2, "y":0, "dx":2, "dy":8, "type":"BOX", "softCage":true, "count":true },
+		{ "x":6, "y":0, "dx":2, "dy":8, "type":"BOX", "softCage":true, "count":true }
+		
+	],
+	"allowedGemTypes":["GEM_YELLOW","GEM_GREEN","GEM_RED","GEM_BLUE"],
+	"field":[ 
+		"ooooxxoooo",
+		"ooooxxoooo",
+		"oxxxxxxxxo",
+		"oxxxxxxxxo",
+		"oxxxxxxxxo",
+		"oxxxxxxxxo",
+		"oxxxxxxxxo",
+		"oxxxxxxxxo",
+		"oxxxxxxxxo",
+		"oxxxxxxxxo"]
+ }

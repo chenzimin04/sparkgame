@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380">
+  <defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8ad4ff"/><stop offset="1" stop-color="#d9f1ff"/></linearGradient></defs>
+  <rect width="640" height="380" fill="url(#sky)"/>
+  <path d="M0 260h640v120H0z" fill="#58b654"/>
+  <path d="M0 250h640" stroke="#ffffff" stroke-width="6" opacity=".65"/>
+  <g>
+    <circle cx="210" cy="214" r="42" fill="#ffcc66"/><circle cx="210" cy="164" r="28" fill="#ffcc66"/><path d="M173 248 145 318h22l18-44 20 44h22l18-44 20 44h22l-28-70Z" fill="#3e5dd6"/>
+  </g>
+  <g>
+    <circle cx="430" cy="214" r="42" fill="#ffd090"/><circle cx="430" cy="164" r="28" fill="#ffd090"/><path d="M393 248 365 318h22l18-44 20 44h22l18-44 20 44h22l-28-70Z" fill="#ff5f5f"/>
+  </g>
+  <circle cx="319" cy="210" r="22" fill="#fff"/><path d="M319 188v44M297 210h44" stroke="#39444e" stroke-width="3"/>
+  <text x="94" y="82" fill="#1e4a7f" font-size="54" font-family="Segoe UI, Arial, sans-serif" font-weight="800">DUMMIES WORLD CUP</text>
+</svg>

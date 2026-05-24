@@ -1,0 +1,125 @@
+
+skel_mainblast.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 241, 629
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+d0001
+  rotate: false
+  xy: 90, 75
+  size: 86, 80
+  orig: 245, 260
+  offset: 74, 101
+  index: -1
+d0003
+  rotate: false
+  xy: 1, 529
+  size: 239, 242
+  orig: 245, 260
+  offset: 4, 12
+  index: -1
+d0005
+  rotate: true
+  xy: 213, 294
+  size: 171, 182
+  orig: 245, 260
+  offset: 44, 41
+  index: -1
+d0007
+  rotate: false
+  xy: 1, 772
+  size: 239, 246
+  orig: 245, 260
+  offset: 6, 13
+  index: -1
+d0009
+  rotate: false
+  xy: 241, 466
+  size: 195, 162
+  orig: 245, 260
+  offset: 31, 72
+  index: -1
+d0011
+  rotate: true
+  xy: 855, 823
+  size: 195, 164
+  orig: 245, 260
+  offset: 11, 70
+  index: -1
+d0013
+  rotate: false
+  xy: 1, 338
+  size: 211, 190
+  orig: 245, 260
+  offset: 12, 58
+  index: -1
+d0015
+  rotate: false
+  xy: 241, 830
+  size: 227, 188
+  orig: 245, 260
+  offset: 3, 57
+  index: -1
+d0017
+  rotate: false
+  xy: 469, 840
+  size: 198, 178
+  orig: 245, 260
+  offset: 2, 73
+  index: -1
+d0019
+  rotate: false
+  xy: 668, 844
+  size: 186, 174
+  orig: 245, 260
+  offset: 16, 72
+  index: -1
+quan
+  rotate: false
+  xy: 1, 156
+  size: 181, 181
+  orig: 181, 181
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 1, 70
+  size: 88, 85
+  orig: 88, 85
+  offset: 0, 0
+  index: -1
+s2
+  rotate: true
+  xy: 1, 9
+  size: 60, 83
+  orig: 60, 83
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 396, 375
+  size: 50, 90
+  orig: 50, 90
+  offset: 0, 0
+  index: -1
+s4
+  rotate: false
+  xy: 396, 304
+  size: 66, 70
+  orig: 66, 70
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 442, 691
+  size: 19, 138
+  orig: 19, 138
+  offset: 0, 0
+  index: -1

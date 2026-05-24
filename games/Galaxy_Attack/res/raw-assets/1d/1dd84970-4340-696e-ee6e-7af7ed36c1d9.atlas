@@ -1,0 +1,48 @@
+
+skel_expunlock.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 164, 128
+  size: 73, 82
+  orig: 73, 82
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 1, 1
+  size: 60, 12
+  orig: 60, 12
+  offset: 0, 0
+  index: -1
+suo1
+  rotate: true
+  xy: 139, 22
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+suo3
+  rotate: false
+  xy: 164, 116
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+suo4
+  rotate: false
+  xy: 1, 48
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+zou
+  rotate: false
+  xy: 1, 14
+  size: 137, 33
+  orig: 137, 33
+  offset: 0, 0
+  index: -1

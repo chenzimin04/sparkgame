@@ -1,0 +1,20 @@
+ {
+	"size":9,
+	"stars":{"avg":4, "top":8 },
+	"moves":30,
+	"tasks":[
+		{ "type":"GEM_RED", "count":200 }
+	],
+	"add":[],
+	"allowedGemTypes":["GEM_BLUE","GEM_RED","GEM_YELLOW"],
+	"field":[ 
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxoxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx"]
+ }

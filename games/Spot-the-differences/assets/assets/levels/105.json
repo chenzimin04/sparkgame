@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "flower_garden_animals_a.jpg",
+  "image2": "flower_garden_animals_b.jpg",
+  "differences":
+  [
+    {
+      "x": 397.0,
+      "y": 569.0,
+      "size": 70.0
+    },
+    {
+      "x": 313.0,
+      "y": 524.0,
+      "size": 70.0
+    },
+    {
+      "x": 309.0,
+      "y": 56.0,
+      "size": 100.0
+    },
+    {
+      "x": 833.0,
+      "y": 208.0,
+      "size": 100.0
+    },
+    {
+      "x": 783.0,
+      "y": 431.0,
+      "size": 80.0
+    }
+  ]
+}

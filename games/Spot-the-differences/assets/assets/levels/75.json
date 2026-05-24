@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "boy_with_dolls_a.jpg",
+  "image2": "boy_with_dolls_b.jpg",
+  "differences":
+  [
+    {
+      "x": 287.0,
+      "y": 265.0,
+      "size": 40.0
+    },
+    {
+      "x": 514.0,
+      "y": 245.0,
+      "size": 35.0
+    },
+    {
+      "x": 573.0,
+      "y": 648.0,
+      "size": 70.0
+    },
+    {
+      "x": 815.0,
+      "y": 376.0,
+      "size": 55.0
+    },
+    {
+      "x": 887.0,
+      "y": 373.0,
+      "size": 40.0
+    }
+  ]
+}

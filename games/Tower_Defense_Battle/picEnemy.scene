@@ -1,0 +1,65 @@
+{
+	"type": "View",
+	"props": {
+		"width": 140,
+		"height": 192
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 96,
+				"x": 70,
+				"var": "bgImg",
+				"skin": "images/solider/icon_lb_bg_gw1.png",
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 3,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 108,
+						"x": 70,
+						"var": "iconEnemy"
+					},
+					"compId": 5
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 168,
+						"x": 70,
+						"visible": false,
+						"var": "iconBoss",
+						"skin": "images/solider/icon_bs_boss.png"
+					},
+					"compId": 14
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 9,
+						"x": 0,
+						"width": 140,
+						"var": "labName",
+						"text": "小法师",
+						"strokeColor": "#000000",
+						"stroke": 3,
+						"fontSize": 18,
+						"bold": true,
+						"align": "center"
+					},
+					"compId": 4
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/solider/icon_lb_bg_gw1.png",
+		"images/solider/icon_bs_boss.png"
+	],
+	"loadList3D": []
+}

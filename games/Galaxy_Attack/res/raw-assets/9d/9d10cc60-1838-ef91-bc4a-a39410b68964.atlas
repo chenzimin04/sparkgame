@@ -1,0 +1,41 @@
+
+skel_bIce_blast.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bz0001
+  rotate: true
+  xy: 162, 1
+  size: 251, 152
+  orig: 280, 190
+  offset: 14, 17
+  index: -1
+bz0002
+  rotate: true
+  xy: 625, 60
+  size: 192, 152
+  orig: 280, 190
+  offset: 52, 17
+  index: -1
+bz0003
+  rotate: true
+  xy: 472, 38
+  size: 214, 152
+  orig: 280, 190
+  offset: 40, 17
+  index: -1
+bz0004
+  rotate: true
+  xy: 315, 20
+  size: 232, 156
+  orig: 280, 190
+  offset: 30, 16
+  index: -1
+bz0005
+  rotate: true
+  xy: 1, 4
+  size: 248, 160
+  orig: 280, 190
+  offset: 22, 12
+  index: -1

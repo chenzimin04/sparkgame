@@ -1,0 +1,167 @@
+
+skel_blast9.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ss0001
+  rotate: false
+  xy: 1806, 772
+  size: 41, 34
+  orig: 290, 520
+  offset: 131, 128
+  index: -1
+ss0002
+  rotate: false
+  xy: 1892, 467
+  size: 103, 79
+  orig: 290, 520
+  offset: 99, 103
+  index: -1
+ss0003
+  rotate: false
+  xy: 392, 55
+  size: 129, 102
+  orig: 290, 520
+  offset: 86, 92
+  index: -1
+ss0004
+  rotate: true
+  xy: 230, 1
+  size: 156, 161
+  orig: 290, 520
+  offset: 74, 79
+  index: -1
+ss0005
+  rotate: true
+  xy: 535, 29
+  size: 174, 179
+  orig: 290, 520
+  offset: 63, 69
+  index: -1
+ss0006
+  rotate: false
+  xy: 535, 204
+  size: 194, 198
+  orig: 290, 520
+  offset: 52, 58
+  index: -1
+ss0007
+  rotate: false
+  xy: 1806, 807
+  size: 212, 216
+  orig: 290, 520
+  offset: 42, 49
+  index: -1
+ss0008
+  rotate: false
+  xy: 1, 8
+  size: 228, 236
+  orig: 290, 520
+  offset: 33, 40
+  index: -1
+ss0009
+  rotate: true
+  xy: 284, 158
+  size: 244, 250
+  orig: 290, 520
+  offset: 24, 32
+  index: -1
+ss0010
+  rotate: true
+  xy: 289, 403
+  size: 260, 266
+  orig: 290, 520
+  offset: 15, 27
+  index: -1
+ss0011
+  rotate: true
+  xy: 1456, 462
+  size: 271, 291
+  orig: 290, 520
+  offset: 8, 18
+  index: -1
+ss0012
+  rotate: true
+  xy: 1151, 462
+  size: 285, 304
+  orig: 290, 520
+  offset: 1, 12
+  index: -1
+ss0013
+  rotate: true
+  xy: 1486, 734
+  size: 289, 319
+  orig: 290, 520
+  offset: 0, 11
+  index: -1
+ss0014
+  rotate: false
+  xy: 860, 693
+  size: 290, 330
+  orig: 290, 520
+  offset: 0, 13
+  index: -1
+ss0015
+  rotate: false
+  xy: 569, 684
+  size: 290, 339
+  orig: 290, 520
+  offset: 0, 11
+  index: -1
+ss0016
+  rotate: true
+  xy: 1151, 748
+  size: 275, 334
+  orig: 290, 520
+  offset: 10, 17
+  index: -1
+ss0017
+  rotate: false
+  xy: 289, 664
+  size: 279, 359
+  orig: 290, 520
+  offset: 8, 15
+  index: -1
+ss0018
+  rotate: false
+  xy: 1, 245
+  size: 282, 377
+  orig: 290, 520
+  offset: 5, 15
+  index: -1
+ss0019
+  rotate: false
+  xy: 1, 623
+  size: 287, 400
+  orig: 290, 520
+  offset: 2, 14
+  index: -1
+ss0020
+  rotate: false
+  xy: 1892, 547
+  size: 132, 259
+  orig: 290, 520
+  offset: 92, 109
+  index: -1
+ss0021
+  rotate: false
+  xy: 1892, 547
+  size: 132, 259
+  orig: 290, 520
+  offset: 92, 109
+  index: -1
+ss0023
+  rotate: false
+  xy: 1748, 462
+  size: 143, 271
+  orig: 290, 520
+  offset: 90, 115
+  index: -1
+ss0022
+  rotate: false
+  xy: 1748, 462
+  size: 143, 271
+  orig: 290, 520
+  offset: 90, 115
+  index: -1

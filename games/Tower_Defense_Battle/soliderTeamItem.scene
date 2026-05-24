@@ -1,0 +1,89 @@
+{
+	"type": "View",
+	"props": {
+		"width": 170,
+		"height": 190
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 67,
+				"x": 85,
+				"width": 136,
+				"var": "iconImg",
+				"skin": "images/man/soliderA7_1.png",
+				"scaleY": 1.1,
+				"scaleX": 1.1,
+				"rotation": 90,
+				"height": 136,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 4
+		},
+		{
+			"type": "Image",
+			"props": {
+				"y": 151,
+				"x": 85,
+				"width": 104,
+				"var": "imgLvBg",
+				"skin": "images/solider/icon_bd_lvbg.png",
+				"sizeGrid": "5,5,5,5",
+				"rotation": 0,
+				"height": 31,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 3
+		},
+		{
+			"type": "Image",
+			"props": {
+				"y": 132,
+				"x": 16,
+				"var": "iconJob",
+				"skin": "images/solider/icon_job_1.png",
+				"scaleY": 0.6,
+				"scaleX": 0.6
+			},
+			"compId": 13
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 128,
+				"x": 125,
+				"width": 20,
+				"var": "boxCanUp",
+				"height": 20
+			},
+			"compId": 14
+		},
+		{
+			"type": "Label",
+			"props": {
+				"y": 141,
+				"x": 47,
+				"width": 81,
+				"var": "labLv",
+				"text": "Lv.7",
+				"stroke": 1,
+				"height": 22,
+				"fontSize": 22,
+				"color": "#ffffff",
+				"bold": true,
+				"align": "center"
+			},
+			"compId": 7
+		}
+	],
+	"loadList": [
+		"images/man/soliderA7_1.png",
+		"images/solider/icon_bd_lvbg.png",
+		"images/solider/icon_job_1.png"
+	],
+	"loadList3D": []
+}

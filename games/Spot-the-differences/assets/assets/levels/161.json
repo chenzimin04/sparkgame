@@ -1,0 +1,32 @@
+{
+   "resolution":"standard",
+   "image1":"cats_watch_movie_a.jpg",
+   "image2":"cats_watch_movie_b.jpg",
+   "differences":[
+      {
+         "x":148.5,
+         "y":536.0,
+         "size":157.0
+      },
+      {
+         "x":827.5,
+         "y":538.0,
+         "size":137.4
+      },
+      {
+         "x":418.5,
+         "y":392.0,
+         "size":112.89999999999999
+      },
+      {
+         "x":640.5,
+         "y":256.0,
+         "size":108.0
+      },
+      {
+         "x":646.5,
+         "y":382.0,
+         "size":100.0
+      }
+   ]
+}

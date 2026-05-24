@@ -1,0 +1,19 @@
+ {
+	"size":9,
+	"stars":{"avg":8, "top":15 },
+	"moves":45,
+	"add":[
+		{ "x":0, "y":0, "dy":1, "dx":9, "type":"CRACKLING", "count":true },
+		{ "x":0, "y":8, "dy":1, "dx":9, "type":"CRACKLING", "count":true },		
+		{ "x":0, "y":1, "dy":7, "dx":1, "type":"CRACKLING", "count":true },
+		{ "x":8, "y":1, "dy":7, "dx":1, "type":"CRACKLING", "count":true },
+		
+		{ "x":2, "y":2, "dy":1, "dx":5, "type":"CRACKLING", "count":true },
+		{ "x":2, "y":6, "dy":1, "dx":5, "type":"CRACKLING", "count":true },		
+		{ "x":2, "y":3, "dy":3, "dx":1, "type":"CRACKLING", "count":true },
+		{ "x":6, "y":3, "dy":3, "dx":1, "type":"CRACKLING", "count":true },
+		
+		{ "x":4, "y":4, "dy":1, "dx":1, "type":"CRACKLING", "count":true }
+	],
+	"allowedGemTypes":["GEM_YELLOW","GEM_RED","GEM_BLUE","GEM_PURPLE"]
+ }

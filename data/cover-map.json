@@ -1,0 +1,953 @@
+{
+  "meta": {
+    "version": 1,
+    "updatedAt": "2026-05-23",
+    "description": "Final cover output consumed by the homepage. Manual entries here override legacy asset-map.json.",
+    "lastManualBatch": "game1"
+  },
+  "games": {
+    "2048-remastered": {
+      "featuredCover": "game1/2048-remastered.jpg",
+      "shelfCover": "game1/2048-remastered.jpg",
+      "randomIcon": "games/2048-remastered/v1.0.2/icons/icon-512.png",
+      "icon": "games/2048-remastered/v1.0.2/icons/icon-512.png",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "amazing-bubble-breaker": {
+      "featuredCover": "game1/Amazing-bubble-breaker.jpg",
+      "shelfCover": "game1/Amazing-bubble-breaker.jpg",
+      "randomIcon": "games/Amazing-bubble-breaker/assets/favicon@2x.png",
+      "icon": "games/Amazing-bubble-breaker/assets/favicon@2x.png",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "ballsortmaster": {
+      "featuredCover": "game1/BallSortMaster.jpg",
+      "shelfCover": "game1/BallSortMaster.jpg",
+      "randomIcon": "assets/custom-covers/ball-sort-master.svg",
+      "icon": "assets/custom-covers/ball-sort-master.svg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "ballsortpuzzle": {
+      "shelfCover": "game1/BallSortPuzzle.jpg",
+      "randomIcon": "games/BallSortPuzzle/images/logo.png",
+      "icon": "games/BallSortPuzzle/images/logo.png",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "basket-swooshes": {
+      "shelfCover": "game1/basket-swooshes.jpg",
+      "randomIcon": "games/basket-swooshes/loading-logo.png",
+      "icon": "games/basket-swooshes/loading-logo.png",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "basketball-crazy": {
+      "shelfCover": "game1/Basketball_Crazy.jpg",
+      "randomIcon": "games/Basketball_Crazy/res/native/imgLoading.jpg",
+      "icon": "games/Basketball_Crazy/res/native/imgLoading.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "basketball-legends-2020": {
+      "shelfCover": "game1/basketball-legends-2020.jpg",
+      "randomIcon": "games/basketball-legends-2020/assets/images/logo.png",
+      "icon": "games/basketball-legends-2020/assets/images/logo.png",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "basketball-real": {
+      "featuredCover": "game1/Basketball_REAL.jpg",
+      "shelfCover": "game1/Basketball_REAL.jpg",
+      "randomIcon": "games/Basketball_REAL/icon.png",
+      "icon": "games/Basketball_REAL/icon.png",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "bird-sort-main": {
+      "featuredCover": "game1/Bird_Sort-main.jpg",
+      "shelfCover": "game1/Bird_Sort-main.jpg",
+      "randomIcon": "games/Bird_Sort-main/icon.jpg",
+      "icon": "games/Bird_Sort-main/icon.jpg",
+      "position": "50% 24%",
+      "featuredPosition": "50% 18%",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "blastify2": {
+      "shelfCover": "game1/blastify2.jpg",
+      "randomIcon": "games/blastify2/v1.0.5/icons/icon-512.png",
+      "icon": "games/blastify2/v1.0.5/icons/icon-512.png",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "bubble-up": {
+      "shelfCover": "game1/bubble-up.jpg",
+      "randomIcon": "games/bubble-up/v1.0.5/icons/icon-512.png",
+      "icon": "games/bubble-up/v1.0.5/icons/icon-512.png",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "bubble-up-endless": {
+      "shelfCover": "game1/bubble-up-endless.jpg",
+      "randomIcon": "games/bubble-up-endless/v1.0.3/icons/icon-512.png",
+      "icon": "games/bubble-up-endless/v1.0.3/icons/icon-512.png",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "candycrush": {
+      "shelfCover": "game1/candyCrush.jpg",
+      "randomIcon": "games/candyCrush/assets/hd/images/BOOT-background_1.jpg",
+      "icon": "games/candyCrush/assets/hd/images/BOOT-background_1.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "crazy-parking": {
+      "featuredCover": "game1/crazy_parking.jpg",
+      "shelfCover": "game1/crazy_parking.jpg",
+      "randomIcon": "games/crazy_parking/icon.png",
+      "icon": "games/crazy_parking/icon.png",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "dance-battle": {
+      "shelfCover": "game1/Dance_Battle.jpg",
+      "randomIcon": "games/Dance_Battle/portal/html5games/images/tmp/DanceBattleTeaser.jpg",
+      "icon": "games/Dance_Battle/portal/html5games/images/tmp/DanceBattleTeaser.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "defendermaster1": {
+      "shelfCover": "game1/DefenderMaster1.jpg",
+      "randomIcon": "games/DefenderMaster1/glgame/assets/background/bg_main.png",
+      "icon": "games/DefenderMaster1/glgame/assets/background/bg_main.png",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "difference-fun": {
+      "shelfCover": "game1/Difference_Fun.jpg",
+      "randomIcon": "games/Difference_Fun/res/raw-assets/a3/a3c87224-4c9c-4298-9b10-c849f628fd8e.297d8.jpg",
+      "icon": "games/Difference_Fun/res/raw-assets/a3/a3c87224-4c9c-4298-9b10-c849f628fd8e.297d8.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "goodsortmaster": {
+      "shelfCover": "game1/GoodSortMaster.jpg",
+      "randomIcon": "games/GoodSortMaster/Build/GoodSortMaster.jpg",
+      "icon": "games/GoodSortMaster/Build/GoodSortMaster.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "hexagon-block-sort": {
+      "shelfCover": "game1/Hexagon_Block_Sort.jpg",
+      "randomIcon": "games/Hexagon_Block_Sort/TemplateData/banner.jpg",
+      "icon": "games/Hexagon_Block_Sort/TemplateData/banner.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "kitty-jewel-quest": {
+      "shelfCover": "game1/Kitty_Jewel_Quest.jpg",
+      "randomIcon": "games/Kitty_Jewel_Quest/files/assets/33766391/1/LevelSelectionBGcompressed.png",
+      "icon": "games/Kitty_Jewel_Quest/files/assets/33766391/1/LevelSelectionBGcompressed.png",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "la-football": {
+      "shelfCover": "game1/La_Football.jpg",
+      "randomIcon": "games/La_Football/0b1feed11387470f694fc0b8cdd98913_icon.png",
+      "icon": "games/La_Football/0b1feed11387470f694fc0b8cdd98913_icon.png",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "match-arena": {
+      "shelfCover": "game1/match-arena.jpg",
+      "randomIcon": "games/match-arena/assets/images/icon.png",
+      "icon": "games/match-arena/assets/images/icon.png",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "merge-world": {
+      "shelfCover": "game1/Merge_World.jpg",
+      "randomIcon": "games/Merge_World/TemplateData/banner.jpg",
+      "icon": "games/Merge_World/TemplateData/banner.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "monster-duo": {
+      "shelfCover": "game1/Monster-duo.jpg",
+      "randomIcon": "games/Monster-duo/images/startpage_background.webp",
+      "icon": "games/Monster-duo/images/startpage_background.webp",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "onet-world": {
+      "quality": "manual",
+      "mode": "real-art",
+      "shelfCover": "game1/onet-world.jpg"
+    },
+    "spot-the-differences": {
+      "shelfCover": "game1/Spot-the-differences.jpg",
+      "randomIcon": "games/Spot_The_Differences/TemplateData/banner.jpg",
+      "icon": "games/Spot_The_Differences/TemplateData/banner.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "sport-challenge": {
+      "shelfCover": "game1/sport-challenge.jpg",
+      "randomIcon": "games/sport-challenge/v1.0.2/icons/icon-512.png",
+      "icon": "games/sport-challenge/v1.0.2/icons/icon-512.png",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "world-cup-fever": {
+      "shelfCover": "game1/world-cup-fever.jpg",
+      "randomIcon": "games/world-cup-fever/v1.0.58/icons/icon-512.png",
+      "icon": "games/world-cup-fever/v1.0.58/icons/icon-512.png",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "alien-attack": {
+      "shelfCover": "game1/alien_attack.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "artofdefense": {
+      "shelfCover": "game1/ArtOfDefense.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "bear-boom": {
+      "shelfCover": "game1/Bear_Boom.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "blobopera": {
+      "shelfCover": "game1/BlobOpera.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "blockup-puzzle": {
+      "shelfCover": "game1/blockup-puzzle.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "blumgi-ball": {
+      "shelfCover": "game1/Blumgi_ball.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "buildingahouse": {
+      "shelfCover": "game1/BuildingAHouse.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "bus-driving": {
+      "shelfCover": "game1/Bus_Driving.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "bus-parking-king": {
+      "shelfCover": "game1/Bus_Parking_King.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "butterfly-shimai": {
+      "shelfCover": "game1/butterfly-shimai.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "candyblast": {
+      "shelfCover": "game1/CandyBlast.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "car-out": {
+      "shelfCover": "game1/car-out.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "christmas-connect": {
+      "shelfCover": "game1/Christmas_Connect.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "cocktailsort": {
+      "shelfCover": "game1/CocktailSort.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "cube-tower": {
+      "shelfCover": "game1/Cube_Tower.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "dd-2k-shoot": {
+      "shelfCover": "game1/DD-2K-Shoot.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "dd-blastify": {
+      "shelfCover": "game1/dd-blastify.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "dd-bottle-flip": {
+      "shelfCover": "game1/dd-bottle-flip.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "dd-pick-it": {
+      "shelfCover": "game1/dd-pick-it.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "dd-sand-sort-puzzle": {
+      "shelfCover": "game1/dd-sand-sort-puzzle.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "diamonddungeon": {
+      "shelfCover": "game1/DiamondDungeon.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "differences-find": {
+      "shelfCover": "game1/Differences_Find.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "dinosaurs": {
+      "shelfCover": "game1/Dinosaurs.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "donut-box": {
+      "shelfCover": "game1/donut-box.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "drawthedefense": {
+      "shelfCover": "game1/DrawTheDefense.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "dream-home-merge-design": {
+      "shelfCover": "game1/Dream_Home_Merge_Design.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "dummies-world-cup": {
+      "shelfCover": "game1/dummies-world-cup.jpg",
+      "quality": "manual",
+      "mode": "real-art",
+      "featuredCover": "game1/dummies-world-cup.jpg"
+    },
+    "endlessseige": {
+      "shelfCover": "game1/endlessseige.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "epic-blocollapse": {
+      "shelfCover": "game1/Epic_Blocollapse.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "fill-pix": {
+      "shelfCover": "game1/fill-pix.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "filling-lines": {
+      "shelfCover": "game1/filling-lines.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "findthedifferencebest": {
+      "shelfCover": "game1/FindTheDifferenceBest.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "findthedifferencefovere": {
+      "shelfCover": "game1/FindTheDifferenceFovere.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "find-500-difference": {
+      "shelfCover": "game1/Find_500_Difference.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "find-a-difference": {
+      "shelfCover": "game1/Find_A_Difference.jpg",
+      "quality": "manual",
+      "mode": "real-art",
+      "featuredCover": "game1/Find_A_Difference.jpg"
+    },
+    "find-differences": {
+      "shelfCover": "game1/Find_Differences.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "find-difference-2024": {
+      "shelfCover": "game1/Find_Difference_2024.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "food-puzzle": {
+      "shelfCover": "game1/food-puzzle.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "footballkick3d": {
+      "shelfCover": "game1/FootballKick3D.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "forgottentreasure2": {
+      "shelfCover": "game1/ForgottenTreasure2.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "free-birds": {
+      "shelfCover": "game1/free-birds.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "freekick-football-3d": {
+      "shelfCover": "game1/Freekick_Football_3D.jpg",
+      "quality": "manual",
+      "mode": "real-art",
+      "featuredCover": "game1/Freekick_Football_3D.jpg"
+    },
+    "frontline": {
+      "shelfCover": "game1/Frontline.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "fruitmas": {
+      "shelfCover": "game1/fruitmas.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "fruitmaster": {
+      "shelfCover": "game1/FruitMaster.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "fruits-slot-machine": {
+      "shelfCover": "game1/fruits-slot-machine.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "galaga-assault": {
+      "shelfCover": "game1/Galaga_Assault.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "galaxy-attack": {
+      "shelfCover": "game1/Galaxy_Attack.jpg",
+      "quality": "manual",
+      "mode": "real-art",
+      "featuredCover": "game1/Galaxy_Attack.jpg"
+    },
+    "galaxy-war": {
+      "shelfCover": "game1/Galaxy_War.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "garden-bloom": {
+      "shelfCover": "game1/garden-bloom.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "germ-war": {
+      "shelfCover": "game1/Germ_War.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "halloween-knife": {
+      "shelfCover": "game1/halloween-knife.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "happy-connect": {
+      "shelfCover": "game1/happy-connect.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "jelly-boom": {
+      "shelfCover": "game1/Jelly_Boom.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "jewels-blitz-6": {
+      "shelfCover": "game1/Jewels_Blitz_6.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "jigsaw-casual": {
+      "shelfCover": "game1/jigsaw-casual.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "kids-alphabet": {
+      "shelfCover": "game1/kids-alphabet.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "kids-coloring": {
+      "shelfCover": "game1/kids-coloring.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "kids-spelling": {
+      "shelfCover": "game1/kids-spelling.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "king-of-mahjong": {
+      "shelfCover": "game1/king-of-mahjong.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "liquidssort": {
+      "shelfCover": "game1/LiquidsSort.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "magic-tiles3-online-z": {
+      "shelfCover": "game1/Magic_Tiles3_Online_Z.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "marketsort": {
+      "shelfCover": "game1/MarketSort.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "match-shapes": {
+      "shelfCover": "game1/match-shapes.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "memory-match": {
+      "shelfCover": "game1/memory-match.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "merge-heroes-fix": {
+      "shelfCover": "game1/merge-heroes-fix.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "merge-push": {
+      "shelfCover": "game1/merge-push.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "mergeattack": {
+      "shelfCover": "game1/MergeAttack.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "mergefish": {
+      "shelfCover": "game1/mergefish.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "merge-battle": {
+      "shelfCover": "game1/Merge_Battle.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "merge-gun-elite-shooting": {
+      "shelfCover": "game1/Merge_Gun_Elite_Shooting.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "merge-love": {
+      "shelfCover": "game1/Merge_love.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "merge-tanks": {
+      "shelfCover": "game1/Merge_Tanks.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "meteorite-shooter": {
+      "shelfCover": "game1/Meteorite_Shooter.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "motox3m1": {
+      "shelfCover": "game1/motox3m1.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "motox3m2": {
+      "shelfCover": "game1/motox3m2.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "motox3m3": {
+      "shelfCover": "game1/motox3m3.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "motox3m4": {
+      "shelfCover": "game1/motox3m4.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "motox3m5": {
+      "shelfCover": "game1/motox3m5.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "motox3m6": {
+      "shelfCover": "game1/motox3m6.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "movethecar": {
+      "shelfCover": "game1/MoveTheCar.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "music-line-3d": {
+      "shelfCover": "game1/Music_Line_3D.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "music-surf-christmas": {
+      "shelfCover": "game1/Music_Surf_Christmas.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "oceanblastmatch3": {
+      "shelfCover": "game1/OceanBlastMatch3.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "ocho": {
+      "shelfCover": "game1/ocho.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "onet-fruit-classic": {
+      "shelfCover": "game1/onet-fruit-classic.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "onet-paradise": {
+      "shelfCover": "game1/onet-paradise.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "onet-link": {
+      "shelfCover": "game1/Onet_Link.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "one-connect-main": {
+      "shelfCover": "game1/One_Connect-main.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "parking-way": {
+      "shelfCover": "game1/parking-way.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "parkingout": {
+      "shelfCover": "game1/ParkingOut.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "parking-ace-3d": {
+      "shelfCover": "game1/Parking_Ace_3d.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "parking-fury": {
+      "shelfCover": "game1/Parking_Fury.jpg",
+      "quality": "manual",
+      "mode": "real-art",
+      "featuredCover": "game1/Parking_Fury.jpg"
+    },
+    "parking-slot": {
+      "shelfCover": "game1/Parking_Slot.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "parkmania": {
+      "shelfCover": "game1/parkmania.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "people-onet": {
+      "shelfCover": "game1/people-onet.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "perfect-piano-2": {
+      "shelfCover": "game1/Perfect_Piano_2.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "pianotitle": {
+      "shelfCover": "game1/PianoTitle.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "piano-fire": {
+      "shelfCover": "game1/Piano_Fire.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "piano-music-tiles": {
+      "shelfCover": "game1/Piano_Music_Tiles.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "pinao-keys": {
+      "shelfCover": "game1/Pinao_Keys.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "pixel-match": {
+      "shelfCover": "game1/pixel-match.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "plinko-frenzy": {
+      "shelfCover": "game1/plinko-frenzy.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "pocket-parking": {
+      "shelfCover": "game1/Pocket_Parking.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "powerpopblast": {
+      "shelfCover": "game1/PowerPopBlast.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "pretty-tiles": {
+      "shelfCover": "game1/pretty-tiles.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "puppy-blast": {
+      "shelfCover": "game1/Puppy_Blast.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "quiz-star": {
+      "shelfCover": "game1/quiz-star.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "rope-color-sort-3d": {
+      "shelfCover": "game1/rope-color-sort-3d.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "royalcrownblast": {
+      "shelfCover": "game1/RoyalCrownBlast.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "scooer-hero": {
+      "shelfCover": "game1/scooer_hero.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "shapes-puzzle": {
+      "shelfCover": "game1/shapes-puzzle.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "shootero": {
+      "shelfCover": "game1/Shootero.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "solitaire": {
+      "shelfCover": "game1/Solitaire.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "space-attack": {
+      "shelfCover": "game1/space_attack.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "space-shooter": {
+      "shelfCover": "game1/Space_Shooter.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "spotdiffers": {
+      "shelfCover": "game1/SpotDiffers.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "stacky-clown": {
+      "shelfCover": "game1/stacky-clown.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "star-boom": {
+      "shelfCover": "game1/Star_Boom.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "stickmerge": {
+      "shelfCover": "game1/StickMerge.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "subway-surfers-tokyo": {
+      "shelfCover": "game1/subway-surfers-tokyo.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "subway-surfers-venice": {
+      "shelfCover": "game1/subway-surfers-venice.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "subway-surfers-winter-holiday": {
+      "shelfCover": "game1/subway-surfers-winter-holiday.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "subway-surfers-zurich": {
+      "shelfCover": "game1/Subway-Surfers-Zurich.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "subway-surfers-san-francisco": {
+      "shelfCover": "game1/subway-surfers_san-francisco.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "subwaysurfers-vegas": {
+      "shelfCover": "game1/SubwaySurfers_vegas.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "subway-surfers-rio": {
+      "shelfCover": "game1/subway_surfers_rio.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "subway-surfer-hongkong": {
+      "shelfCover": "game1/Subway_Surfer_Hongkong.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "subway-surfer-iceisland": {
+      "shelfCover": "game1/Subway_Surfer_IceIsland.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "subway-surfer-marrakesh": {
+      "shelfCover": "game1/Subway_Surfer_Marrakesh.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "tetra-blocks": {
+      "shelfCover": "game1/tetra-blocks.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "the-pets-rush": {
+      "shelfCover": "game1/The_Pets_Rush.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "tile-connect": {
+      "shelfCover": "game1/Tile_Connect.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "tooncup": {
+      "shelfCover": "game1/tooncup.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "tower-defense-mingling": {
+      "shelfCover": "game1/tower-defense-mingling.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "towerdefense": {
+      "shelfCover": "game1/towerDefense.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "towerdefensegalaxy": {
+      "shelfCover": "game1/TowerDefenseGalaxy.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "towerdefenseyandex": {
+      "shelfCover": "game1/TowerDefenseYandex.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "tower-defense-battle": {
+      "shelfCover": "game1/Tower_Defense_Battle.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "two-dots-remastered": {
+      "shelfCover": "game1/two-dots-remastered.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "watersort": {
+      "shelfCover": "game1/WaterSort.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "wooden-slide": {
+      "shelfCover": "game1/wooden-slide.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "word-clues": {
+      "shelfCover": "game1/word-clues.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "word-haven": {
+      "shelfCover": "game1/word-haven.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "world-puzzle": {
+      "shelfCover": "game1/world-puzzle.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "xmas-tiles": {
+      "shelfCover": "game1/xmas-tiles.jpg",
+      "quality": "manual",
+      "mode": "real-art"
+    },
+    "zoo-boom": {
+      "shelfCover": "game1/Zoo_Boom.jpg",
+      "quality": "manual",
+      "mode": "real-art",
+      "featuredCover": "game1/Zoo_Boom.jpg"
+    }
+  }
+}

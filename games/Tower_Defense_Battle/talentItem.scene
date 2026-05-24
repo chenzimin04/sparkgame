@@ -1,0 +1,84 @@
+{
+	"type": "View",
+	"props": {
+		"width": 88,
+		"height": 88
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 44,
+				"x": 44,
+				"width": 88,
+				"var": "imgIcon",
+				"skin": "images/talent/talent_21.png",
+				"rotation": 0,
+				"height": 88,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 3,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 81,
+						"x": -2,
+						"width": 92,
+						"skin": "images/talent/icon_tftb_lvbg.png",
+						"sizeGrid": "0,16,0,15",
+						"height": 29
+					},
+					"compId": 6
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 85,
+						"x": -1,
+						"width": 90,
+						"var": "labLv",
+						"text": "未升级",
+						"rotation": 0,
+						"height": 22,
+						"fontSize": 22,
+						"color": "#2f2e2e",
+						"align": "center"
+					},
+					"compId": 8
+				},
+				{
+					"type": "Box",
+					"props": {
+						"y": 11,
+						"x": 13,
+						"width": 70,
+						"var": "boxLv",
+						"rotation": 0,
+						"height": 27
+					},
+					"compId": 4
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": -23,
+						"x": -23,
+						"var": "iconTap",
+						"skin": "images/talent/icon_xz.png",
+						"rotation": 0
+					},
+					"compId": 7
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/talent/talent_21.png",
+		"images/talent/icon_tftb_lvbg.png",
+		"images/talent/icon_xz.png"
+	],
+	"loadList3D": []
+}

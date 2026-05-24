@@ -1,0 +1,48 @@
+
+skel_crazylight.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d0001
+  rotate: false
+  xy: 371, 170
+  size: 90, 85
+  orig: 121, 108
+  offset: 23, 0
+  index: -1
+d0002
+  rotate: false
+  xy: 163, 147
+  size: 110, 108
+  orig: 121, 108
+  offset: 8, 0
+  index: -1
+d0003
+  rotate: false
+  xy: 1, 1
+  size: 89, 94
+  orig: 121, 108
+  offset: 24, 0
+  index: -1
+d0004
+  rotate: false
+  xy: 91, 11
+  size: 79, 84
+  orig: 121, 108
+  offset: 29, 0
+  index: -1
+q
+  rotate: false
+  xy: 274, 159
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+qq
+  rotate: false
+  xy: 1, 96
+  size: 161, 159
+  orig: 161, 159
+  offset: 0, 0
+  index: -1

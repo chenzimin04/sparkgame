@@ -1,0 +1,69 @@
+
+gaojiakaxiaoguo.png
+size: 838,521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baimengban
+  rotate: true
+  xy: 729, 392
+  size: 127, 107
+  orig: 127, 107
+  offset: 0, 0
+  index: -1
+jsc
+  rotate: true
+  xy: 729, 263
+  size: 127, 107
+  orig: 127, 107
+  offset: 0, 0
+  index: -1
+jse
+  rotate: false
+  xy: 364, 2
+  size: 152, 169
+  orig: 152, 169
+  offset: 0, 0
+  index: -1
+jueseguangquan
+  rotate: false
+  xy: 518, 41
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+wenhao
+  rotate: true
+  xy: 729, 134
+  size: 127, 107
+  orig: 127, 107
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 650, 117
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+yuanguang
+  rotate: false
+  xy: 364, 173
+  size: 363, 346
+  orig: 363, 346
+  offset: 0, 0
+  index: -1
+ziguang
+  rotate: true
+  xy: 2, 34
+  size: 485, 360
+  orig: 485, 360
+  offset: 0, 0
+  index: -1
+zisediban
+  rotate: true
+  xy: 2, 20
+  size: 12, 76
+  orig: 12, 76
+  offset: 0, 0
+  index: -1

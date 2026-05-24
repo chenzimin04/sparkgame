@@ -1,0 +1,371 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 0,
+				"x": 0,
+				"var": "pngBg",
+				"top": 0,
+				"right": 0,
+				"left": 0,
+				"bottom": 0
+			},
+			"compId": 3
+		},
+		{
+			"type": "Image",
+			"props": {
+				"y": 76,
+				"x": 54,
+				"var": "btnClose",
+				"skin": "images/dev/img_btn_gb.png",
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 8
+		},
+		{
+			"type": "Image",
+			"props": {
+				"y": 129,
+				"x": 10,
+				"width": 730,
+				"skin": "images/dev/img_btn_blue.png",
+				"sizeGrid": "44,22,51,24",
+				"height": 609
+			},
+			"compId": 41,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 55,
+						"x": 75,
+						"width": 110,
+						"var": "btnQt1",
+						"skin": "images/dev/img_btn_blue.png",
+						"sizeGrid": "44,22,51,24",
+						"height": 80,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 42,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 23,
+								"x": 21,
+								"text": "普通",
+								"fontSize": 34,
+								"color": "#ffffff"
+							},
+							"compId": 64
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 55,
+						"x": 180,
+						"width": 110,
+						"var": "btnQt2",
+						"skin": "images/dev/img_btn_blue.png",
+						"sizeGrid": "44,22,51,24",
+						"height": 80,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 43,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 23,
+								"x": 21,
+								"text": "稀有",
+								"fontSize": 34,
+								"color": "#ffffff"
+							},
+							"compId": 65
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 55,
+						"x": 285,
+						"width": 110,
+						"var": "btnQt3",
+						"skin": "images/dev/img_btn_blue.png",
+						"sizeGrid": "44,22,51,24",
+						"height": 80,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 44,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 23,
+								"x": 21,
+								"text": "精英",
+								"fontSize": 34,
+								"color": "#ffffff"
+							},
+							"compId": 66
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 55,
+						"x": 390,
+						"width": 110,
+						"var": "btnQt4",
+						"skin": "images/dev/img_btn_blue.png",
+						"sizeGrid": "44,22,51,24",
+						"height": 80,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 45,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 23,
+								"x": 21,
+								"text": "史诗",
+								"fontSize": 34,
+								"color": "#ffffff"
+							},
+							"compId": 67
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 55,
+						"x": 495,
+						"width": 110,
+						"var": "btnQt5",
+						"skin": "images/dev/img_btn_blue.png",
+						"sizeGrid": "44,22,51,24",
+						"height": 80,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 46,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 23,
+								"x": 21,
+								"text": "传说",
+								"fontSize": 34,
+								"color": "#ffffff"
+							},
+							"compId": 63
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": -40,
+						"x": 330,
+						"width": 110,
+						"var": "btnType4",
+						"skin": "images/dev/img_btn_blue.png",
+						"sizeGrid": "44,22,51,24",
+						"height": 80,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 68,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 23,
+								"x": 13,
+								"text": "type4",
+								"fontSize": 34,
+								"color": "#ffffff"
+							},
+							"compId": 71
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": -40,
+						"x": 435,
+						"width": 110,
+						"var": "btnType5",
+						"skin": "images/dev/img_btn_blue.png",
+						"sizeGrid": "44,22,51,24",
+						"height": 80,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 69,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 23,
+								"x": 13,
+								"text": "type5",
+								"fontSize": 34,
+								"color": "#ffffff"
+							},
+							"compId": 72
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": -40,
+						"x": 540,
+						"width": 110,
+						"var": "btnType6",
+						"skin": "images/dev/img_btn_blue.png",
+						"sizeGrid": "44,22,51,24",
+						"height": 80,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 70,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 23,
+								"x": 13,
+								"text": "type6",
+								"fontSize": 34,
+								"color": "#ffffff"
+							},
+							"compId": 73
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": -40,
+						"x": 650,
+						"width": 110,
+						"var": "btnType7",
+						"skin": "images/dev/img_btn_blue.png",
+						"sizeGrid": "44,22,51,24",
+						"height": 80,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 74,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 23,
+								"x": 13,
+								"text": "type7",
+								"fontSize": 34,
+								"color": "#ffffff"
+							},
+							"compId": 75
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 657,
+						"x": 578,
+						"width": 197,
+						"var": "btnAuto",
+						"skin": "images/dev/img_btn_blue.png",
+						"sizeGrid": "44,22,51,24",
+						"height": 80,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 47,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 23,
+								"x": 29,
+								"text": "快速合成",
+								"fontSize": 34,
+								"color": "#ffffff",
+								"bold": true
+							},
+							"compId": 48
+						}
+					]
+				},
+				{
+					"type": "List",
+					"props": {
+						"y": 120,
+						"x": 20,
+						"width": 692,
+						"var": "weaponList",
+						"height": 436
+					},
+					"compId": 49
+				}
+			]
+		},
+		{
+			"type": "Image",
+			"props": {
+				"y": 836,
+				"x": 10,
+				"width": 730,
+				"skin": "images/dev/img_btn_blue.png",
+				"sizeGrid": "44,22,51,24",
+				"height": 317
+			},
+			"compId": 50,
+			"child": [
+				{
+					"type": "List",
+					"props": {
+						"y": 26,
+						"x": 19,
+						"width": 692,
+						"var": "debugList",
+						"height": 264
+					},
+					"compId": 58
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/dev/img_btn_gb.png",
+		"images/dev/img_btn_blue.png"
+	],
+	"loadList3D": []
+}

@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "castle_by_the_sea_a.jpg",
+  "image2": "castle_by_the_sea_b.jpg",
+  "differences":
+  [
+    {
+      "x": 373.0,
+      "y": 206.0,
+      "size": 120.0
+    },
+    {
+      "x": 537.0,
+      "y": 103.0,
+      "size": 200.0
+    },
+    {
+      "x": 680.0,
+      "y": 550.0,
+      "size": 100.0
+    },
+    {
+      "x": 484.0,
+      "y": 443.0,
+      "size": 80.0
+    },
+    {
+      "x": 820.0,
+      "y": 370.0,
+      "size": 80.0
+    }    
+  ]
+}

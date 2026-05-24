@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+
+<templates>
+
+</templates>
+
+<screen name="uiScreenPopUp" template="tPopUpJenny" label="SID_REGISTER">			
+	<element name="uiContent" >
+		<text text="SID_REGISTER_TEXT" template="tElement,tFontMedium" height="150" halignText="center" valignText="center"  marginLeft="50" marginRight="50" />
+		
+		<element width="80%" height="370" halign="center" valign="top" y="410">
+			<element width="200" ratio="1" halign="center" valign="topOf" y="-30" >
+				<image name="uiImgAvatar" template="tElement" image="avatar/ava001.png" />
+				<image template="tElement,tFrame" marginRight="-4" marginBottom="-4" />
+				<button name="uiBtPrevious" image="ui/arrow_white.png" width="100" ratio="1.444" valign="center" halign="leftOf" x="-10" scaleX="-1" />
+				<button name="uiBtNext" image="ui/arrow_white.png" width="100" ratio="1.444" valign="center" halign="rightOf" x="10" />
+			</element>
+			<element name="uiName" template="tBaseTextInput" y="0">
+				<input name="uiInput" initial="SID_NAME" tag="inputName" maxlength="15" restrict="[^a-zA-Zä-üÄ-Üß0-9]+" />		
+			</element>
+			<element name="uiEmail" template="tBaseTextInput" y="120">
+				<input name="uiInput" initial="SID_EMAIL" tag="inputEmail" maxlength="254"/>		
+			</element>
+			<element name="uiPW" template="tBaseTextInput" y="240" >
+				<input name="uiInput" initial="SID_PASSWORD" password="true" tag="inputPassword" maxlength="64"/>		
+			</element>
+			<button name="uiBtOK" halign="center" valign="bottomOf" template="tButton" label="SID_OK" />
+		</element>
+		
+		<button name="uiBtLogin" width="80%" height="50" halign="center" valign="bottom">
+			<text text="SID_REGISTER_TEXT_LOGIN_ACCOUNT" template="tElement,tFontSmall" halignText="center" valignText="center"  marginLeft="50" marginRight="50"/>
+		</button>
+	</element>
+</screen>

@@ -1,0 +1,160 @@
+
+Baby_Bear_Panda@0.5x.png
+size: 174, 513
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Effect-Base
+  rotate: true
+  xy: 95, 3
+  size: 110, 46
+  orig: 110, 46
+  offset: 0, 0
+  index: -1
+Effect-Particle
+  rotate: true
+  xy: 165, 487
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+Effect-White
+  rotate: true
+  xy: 142, 27
+  size: 86, 26
+  orig: 86, 26
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 1, 463
+  size: 163, 49
+  orig: 163, 49
+  offset: 0, 0
+  index: -1
+baby_panda_arm_left
+  rotate: false
+  xy: 133, 383
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+baby_panda_arm_right
+  rotate: true
+  xy: 119, 146
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+baby_panda_belly
+  rotate: false
+  xy: 1, 124
+  size: 117, 97
+  orig: 117, 97
+  offset: 0, 0
+  index: -1
+baby_panda_eye_left
+  rotate: false
+  xy: 119, 197
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+baby_panda_eye_right
+  rotate: false
+  xy: 165, 498
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+baby_panda_eyebrow_left
+  rotate: true
+  xy: 165, 475
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+baby_panda_eyebrow_right
+  rotate: true
+  xy: 165, 464
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+baby_panda_face
+  rotate: true
+  xy: 1, 1
+  size: 112, 93
+  orig: 112, 93
+  offset: 0, 0
+  index: -1
+baby_panda_mouth
+  rotate: false
+  xy: 119, 212
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+baby_panda_nose
+  rotate: false
+  xy: 165, 492
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+baby_panda_shirt
+  rotate: false
+  xy: 1, 222
+  size: 121, 52
+  orig: 121, 52
+  offset: 0, 0
+  index: -1
+baby_panda_shoe_left
+  rotate: false
+  xy: 119, 115
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+baby_panda_shoe_right
+  rotate: true
+  xy: 133, 303
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+baby_panda_short
+  rotate: true
+  xy: 133, 187
+  size: 114, 31
+  orig: 114, 31
+  offset: 0, 0
+  index: -1
+baby_panda_shoulder_left
+  rotate: false
+  xy: 133, 358
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+baby_panda_shoulder_right
+  rotate: false
+  xy: 133, 430
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+baby_panda_tail
+  rotate: false
+  xy: 142, 1
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+reference
+  rotate: false
+  xy: 1, 276
+  size: 131, 186
+  orig: 150, 211
+  offset: 10, 14
+  index: -1

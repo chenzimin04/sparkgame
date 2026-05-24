@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "woman_cyborg_a.jpg",
+  "image2": "woman_cyborg_b.jpg",
+  "differences":
+  [
+    {
+      "x": 633.0,
+      "y": 227.0,
+      "size": 100.0
+    },
+    {
+      "x": 234.0,
+      "y": 198.0,
+      "size": 250.0
+    },
+    {
+      "x": 275.0,
+      "y": 444.0,
+      "size": 120.0
+    },
+    {
+      "x": 834.0,
+      "y": 391.0,
+      "size": 250.0
+    },
+    {
+      "x": 665.0,
+      "y": 611.0,
+      "size": 170.0
+    }
+  ]
+}

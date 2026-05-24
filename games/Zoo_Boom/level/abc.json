@@ -1,0 +1,24 @@
+ {
+	"moves":40,
+	"fill":"up",
+	"help":"tHelpAnvil",
+	"tasks":[
+		{ "type":"COIN", "count":40 }
+	],
+	"add":[
+		{ "x":0, "y":7, "type":"ANVIL" },
+		{ "x":2, "y":7, "type":"ANVIL" },
+		{ "x":5, "y":7, "type":"ANVIL" },
+		{ "x":7, "y":7, "type":"ANVIL" },
+		{ "x":1, "y":5, "dx":1, "dy":1, "type":"BOX", "params":{"count":3},  "count":true }
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_RED","GEM_GREEN","GEM_YELLOW"],
+	"field":[ 
+		"xxxoxxx",
+		"xxxxxxx",
+		"xxxxxxx",
+		"oxxxxxo",
+		"xxxxxxx",
+		"xxxxxxx",
+		"xxxoxxx"]
+ }

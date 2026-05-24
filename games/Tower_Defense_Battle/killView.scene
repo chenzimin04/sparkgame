@@ -1,0 +1,156 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 677,
+				"x": 385,
+				"var": "pngBg",
+				"top": 0,
+				"skin": "images/grid/maskGray.png",
+				"sizeGrid": "2,3,4,3",
+				"right": 0,
+				"left": 0,
+				"bottom": 0,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 3
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 187,
+				"x": 35,
+				"width": 680,
+				"var": "centerBox",
+				"height": 960
+			},
+			"compId": 4,
+			"child": [
+				{
+					"type": "Box",
+					"props": {
+						"y": 0,
+						"x": 0,
+						"width": 680,
+						"rotation": 0,
+						"height": 960
+					},
+					"compId": 35,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 0,
+								"x": 0,
+								"width": 680,
+								"skin": "images/grid/icon_tc_di.png",
+								"sizeGrid": "98,76,20,76",
+								"height": 960
+							},
+							"compId": 5
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 14,
+								"x": 185,
+								"width": 310,
+								"skin": "images/grid/icon_tc_btd.png",
+								"sizeGrid": "0,38,0,37"
+							},
+							"compId": 37
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 25,
+								"x": 302,
+								"skin": "images/kill/icon_bt_ay.png"
+							},
+							"compId": 9
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 48,
+								"x": 636,
+								"var": "btnClose",
+								"skin": "images/grid/button_gb.png",
+								"label": "label",
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 39
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 976,
+								"x": 203,
+								"skin": "images/kill/icon_kbgb.png"
+							},
+							"compId": 40
+						}
+					]
+				},
+				{
+					"type": "Box",
+					"props": {
+						"y": 161,
+						"x": 340,
+						"width": 626,
+						"var": "guideBox",
+						"height": 126,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 41
+				},
+				{
+					"type": "List",
+					"props": {
+						"y": 98,
+						"x": 27,
+						"width": 626,
+						"var": "killList",
+						"height": 790
+					},
+					"compId": 11
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 905,
+						"x": 90,
+						"width": 500,
+						"var": "labName",
+						"text": "获得并上阵史诗英雄，激活奥义技能。",
+						"strokeColor": "#000000",
+						"stroke": 1,
+						"fontSize": 24,
+						"color": "#fdffdb",
+						"align": "center"
+					},
+					"compId": 34
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/grid/maskGray.png",
+		"images/grid/icon_tc_di.png",
+		"images/grid/icon_tc_btd.png",
+		"images/kill/icon_bt_ay.png",
+		"images/grid/button_gb.png",
+		"images/kill/icon_kbgb.png"
+	],
+	"loadList3D": []
+}

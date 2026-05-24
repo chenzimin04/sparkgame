@@ -1,0 +1,961 @@
+{
+  "ID": "4639cd5b-5589-43ed-b981-2510fd3e6db0",
+  "Version": "3.10.0.0",
+  "Name": "resurgence",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 16,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "game/resultdiamondbg.png",
+              "Plist": "csi/csi_6.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 189.5511,
+              "Y": 999.1295
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2633,
+              "Y": 0.7806
+            },
+            "PreSize": {
+              "X": 0.3236,
+              "Y": 0.1008
+            },
+            "LeftMargin": 73.0511,
+            "RightMargin": 413.9489,
+            "TopMargin": 216.3705,
+            "BottomMargin": 934.6295,
+            "Tag": 577,
+            "ActionTag": -778566727,
+            "Size": {
+              "X": 233.0,
+              "Y": 129.0
+            },
+            "Name": "resultdiamondbg_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/scalesprite3.png",
+              "Plist": "csi/scaleplist.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 99,
+            "Scale9OriginY": 99,
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 359.9996,
+              "Y": 619.3276
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4838
+            },
+            "PreSize": {
+              "X": 0.8028,
+              "Y": 0.5141
+            },
+            "LeftMargin": 70.9996,
+            "RightMargin": 71.0004,
+            "TopMargin": 331.6724,
+            "BottomMargin": 290.3276,
+            "Tag": 244,
+            "ActionTag": 536132564,
+            "Size": {
+              "X": 578.0,
+              "Y": 658.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/scalesprite4.png",
+              "Plist": "csi/scaleplist.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 49,
+            "Scale9OriginY": 49,
+            "Scale9Width": 36,
+            "Scale9Height": 36,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0,
+              "Y": 607.3986
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4745
+            },
+            "PreSize": {
+              "X": 0.7417,
+              "Y": 0.4406
+            },
+            "LeftMargin": 93.0,
+            "RightMargin": 93.0,
+            "TopMargin": 390.6014,
+            "BottomMargin": 325.3986,
+            "Tag": 243,
+            "ActionTag": -950010677,
+            "Size": {
+              "X": 534.0,
+              "Y": 564.0
+            },
+            "Name": "Image_2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/n_titlebg1.png",
+              "Plist": "csi/csi_2.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0,
+              "Y": 931.1034
+            },
+            "Scale": {
+              "ScaleX": 0.9,
+              "ScaleY": 0.9
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.7274
+            },
+            "PreSize": {
+              "X": 0.9361,
+              "Y": 0.1289
+            },
+            "LeftMargin": 23.0,
+            "RightMargin": 23.0,
+            "TopMargin": 266.3966,
+            "BottomMargin": 848.6034,
+            "Tag": 242,
+            "ActionTag": -255040011,
+            "Size": {
+              "X": 674.0,
+              "Y": 165.0
+            },
+            "Name": "titlebg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/publicbtn30.png",
+              "Plist": "csi/csi_5.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 359.999,
+              "Y": 402.9992
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.3148
+            },
+            "PreSize": {
+              "X": 0.4306,
+              "Y": 0.082
+            },
+            "LeftMargin": 204.999,
+            "RightMargin": 205.001,
+            "TopMargin": 824.5008,
+            "BottomMargin": 350.4992,
+            "Tag": 249,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "public/invite_1.png",
+                  "Plist": "csi/csi_5.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 70.554,
+                  "Y": 59.266
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2276,
+                  "Y": 0.5644
+                },
+                "PreSize": {
+                  "X": 0.2097,
+                  "Y": 0.581
+                },
+                "LeftMargin": 38.054,
+                "RightMargin": 206.946,
+                "TopMargin": 15.234,
+                "BottomMargin": 28.766,
+                "Tag": 20,
+                "ActionTag": 1822557756,
+                "Size": {
+                  "X": 65.0,
+                  "Y": 61.0
+                },
+                "Name": "invite_1_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "game/invited.png",
+                  "Plist": "csi/csi_5.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 188.4353,
+                  "Y": 58.4584
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6079,
+                  "Y": 0.5567
+                },
+                "PreSize": {
+                  "X": 0.4968,
+                  "Y": 0.381
+                },
+                "LeftMargin": 111.4353,
+                "RightMargin": 44.5647,
+                "TopMargin": 26.5416,
+                "BottomMargin": 38.4584,
+                "Tag": 22,
+                "ActionTag": 1945860129,
+                "Size": {
+                  "X": 154.0,
+                  "Y": 40.0
+                },
+                "Name": "btndes",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1080083209,
+            "Size": {
+              "X": 310.0,
+              "Y": 105.0
+            },
+            "Name": "btninvite",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/n_close.png",
+              "Plist": "csi/csi_2.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 631.8263,
+              "Y": 954.1653
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8775,
+              "Y": 0.7454
+            },
+            "PreSize": {
+              "X": 0.0986,
+              "Y": 0.0578
+            },
+            "LeftMargin": 596.3263,
+            "RightMargin": 52.6737,
+            "TopMargin": 288.8347,
+            "BottomMargin": 917.1653,
+            "Tag": 346,
+            "ActionTag": 974512653,
+            "Size": {
+              "X": 71.0,
+              "Y": 74.0
+            },
+            "Name": "btnClose",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "game/more_times_today.png",
+              "Plist": "csi/fightanimatelist2.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 359.9996,
+              "Y": 951.1376
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.7431
+            },
+            "PreSize": {
+              "X": 0.5639,
+              "Y": 0.0656
+            },
+            "LeftMargin": 156.9996,
+            "RightMargin": 157.0004,
+            "TopMargin": 286.8624,
+            "BottomMargin": 909.1376,
+            "Tag": 469,
+            "ActionTag": -641420524,
+            "Size": {
+              "X": 406.0,
+              "Y": 84.0
+            },
+            "Name": "more_times_today_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/publicbtn29.png",
+              "Plist": "csi/csi_5.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 359.999,
+              "Y": 515.9991
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4031
+            },
+            "PreSize": {
+              "X": 0.4306,
+              "Y": 0.082
+            },
+            "LeftMargin": 204.999,
+            "RightMargin": 205.001,
+            "TopMargin": 711.5009,
+            "BottomMargin": 463.4991,
+            "Tag": 157,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "game/relivefive.png",
+                  "Plist": "csi/csi_5.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 64.2374,
+                  "Y": 57.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2072,
+                  "Y": 0.5429
+                },
+                "PreSize": {
+                  "X": 0.2387,
+                  "Y": 0.6286
+                },
+                "LeftMargin": 27.2374,
+                "RightMargin": 208.7626,
+                "TopMargin": 15.0,
+                "BottomMargin": 24.0,
+                "Tag": 24,
+                "ActionTag": -1834724732,
+                "Size": {
+                  "X": 74.0,
+                  "Y": 66.0
+                },
+                "Name": "relivefive_5",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "game/relivediamond.png",
+                  "Plist": "csi/csi_5.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 247.3639,
+                  "Y": 57.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7979,
+                  "Y": 0.5429
+                },
+                "PreSize": {
+                  "X": 0.1516,
+                  "Y": 0.381
+                },
+                "LeftMargin": 223.8639,
+                "RightMargin": 39.1361,
+                "TopMargin": 28.0,
+                "BottomMargin": 37.0,
+                "Tag": 25,
+                "ActionTag": 1138327111,
+                "Size": {
+                  "X": 47.0,
+                  "Y": 40.0
+                },
+                "Name": "relivediamond_6",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "Text Label",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 161.4402,
+                  "Y": 57.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5208,
+                  "Y": 0.5429
+                },
+                "PreSize": {
+                  "X": 0.3226,
+                  "Y": 0.1905
+                },
+                "LeftMargin": 111.4402,
+                "RightMargin": 98.5598,
+                "TopMargin": 38.0,
+                "BottomMargin": 47.0,
+                "Tag": 174,
+                "ActionTag": 2145339424,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 20.0
+                },
+                "Name": "aw_fnttype45_price",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1850301592,
+            "Size": {
+              "X": 310.0,
+              "Y": 105.0
+            },
+            "Name": "gembtn",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "game/loseannimal.png",
+              "Plist": "csi/fightanimatelist2.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0,
+              "Y": 755.0
+            },
+            "Scale": {
+              "ScaleX": 0.95,
+              "ScaleY": 0.95
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5898
+            },
+            "PreSize": {
+              "X": 0.4028,
+              "Y": 0.1758
+            },
+            "LeftMargin": 215.0,
+            "RightMargin": 215.0,
+            "TopMargin": 412.5,
+            "BottomMargin": 642.5,
+            "Tag": 21,
+            "ActionTag": -1772980422,
+            "Size": {
+              "X": 290.0,
+              "Y": 225.0
+            },
+            "Name": "loseannimal_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "game/relivecontinue.png",
+              "Plist": "csi/csi_5.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0,
+              "Y": 602.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4703
+            },
+            "PreSize": {
+              "X": 0.3042,
+              "Y": 0.0281
+            },
+            "LeftMargin": 250.5,
+            "RightMargin": 250.5,
+            "TopMargin": 660.0,
+            "BottomMargin": 584.0,
+            "Tag": 23,
+            "ActionTag": -445906726,
+            "Size": {
+              "X": 219.0,
+              "Y": 36.0
+            },
+            "Name": "relivecontinue_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "public/publicbtn30.png",
+              "Plist": "csi/csi_5.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 360.0,
+              "Y": 403.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.3148
+            },
+            "PreSize": {
+              "X": 0.4306,
+              "Y": 0.082
+            },
+            "LeftMargin": 205.0,
+            "RightMargin": 205.0,
+            "TopMargin": 824.5,
+            "BottomMargin": 350.5,
+            "Tag": 175,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "public/watchicon_1.png",
+                  "Plist": "csi/csi_5.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 70.554,
+                  "Y": 59.266
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2276,
+                  "Y": 0.5644
+                },
+                "PreSize": {
+                  "X": 0.2129,
+                  "Y": 0.5524
+                },
+                "LeftMargin": 37.554,
+                "RightMargin": 206.446,
+                "TopMargin": 16.734,
+                "BottomMargin": 30.266,
+                "Tag": 176,
+                "ActionTag": 195477788,
+                "Size": {
+                  "X": 66.0,
+                  "Y": 58.0
+                },
+                "Name": "invite_1_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "game/watch.png",
+                  "Plist": "csi/csi_5.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 187.2274,
+                  "Y": 58.4584
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.604,
+                  "Y": 0.5567
+                },
+                "PreSize": {
+                  "X": 0.4387,
+                  "Y": 0.381
+                },
+                "LeftMargin": 119.2274,
+                "RightMargin": 54.7726,
+                "TopMargin": 26.5416,
+                "BottomMargin": 38.4584,
+                "Tag": 177,
+                "ActionTag": -936368289,
+                "Size": {
+                  "X": 136.0,
+                  "Y": 40.0
+                },
+                "Name": "btndes",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 85529429,
+            "Size": {
+              "X": 310.0,
+              "Y": 105.0
+            },
+            "Name": "btnWatch",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "resurgence/diamond.png",
+              "Plist": "csi/csi_2.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 108.2189,
+              "Y": 1030.9006
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1503,
+              "Y": 0.8054
+            },
+            "PreSize": {
+              "X": 0.0986,
+              "Y": 0.0484
+            },
+            "LeftMargin": 72.7189,
+            "RightMargin": 576.2811,
+            "TopMargin": 218.0994,
+            "BottomMargin": 999.9006,
+            "Tag": 631,
+            "ActionTag": -1305589453,
+            "Size": {
+              "X": 71.0,
+              "Y": 62.0
+            },
+            "Name": "diamond_8",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "Text Label",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 207.065,
+              "Y": 1032.7153
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2876,
+              "Y": 0.8068
+            },
+            "PreSize": {
+              "X": 0.1389,
+              "Y": 0.0156
+            },
+            "LeftMargin": 157.065,
+            "RightMargin": 462.935,
+            "TopMargin": 237.2847,
+            "BottomMargin": 1022.7153,
+            "Tag": 632,
+            "ActionTag": 1470708651,
+            "Size": {
+              "X": 100.0,
+              "Y": 20.0
+            },
+            "Name": "aw_fnttype27_goldText",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 720.0,
+          "Y": 1280.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../csi/csi_2.plist",
+        "../csi/csi_2.png",
+        "../csi/csi_5.plist",
+        "../csi/csi_5.png",
+        "../csi/csi_6.plist",
+        "../csi/csi_6.png",
+        "../csi/fightanimatelist2.plist",
+        "../csi/fightanimatelist2.png",
+        "../csi/scaleplist.plist",
+        "../csi/scaleplist.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

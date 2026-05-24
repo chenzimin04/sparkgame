@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"unit_15","json":{"1":{"id":1,"uId":1,"am":"skel_boss_4_1","hp":20000000,"pos":"0,0","hpp":"1,0,250,2","col":"0,0,40,120,120","sco":4500,"hc":"104,17,17","hs":"0","bla":"","so":"1,30,0,10,2,0","sk":"3,2#3,2","act":"","mix":"idle1,a1_1;idle1,a1_2;idle1,a1_3;idle1,a1_4;a1_1,idle1;a1_2,idle1;a1_3,idle1;a1_4,idle1;ready1,idle1;"},"allID":[1]}}

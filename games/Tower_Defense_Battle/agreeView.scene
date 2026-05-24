@@ -1,0 +1,202 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 667,
+				"x": 375,
+				"var": "pngBg",
+				"top": 0,
+				"skin": "images/grid/maskGray.png",
+				"sizeGrid": "2,2,2,2",
+				"right": 0,
+				"left": 0,
+				"bottom": 0,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 65
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 167,
+				"x": 0,
+				"width": 750,
+				"var": "centerBox",
+				"height": 1000
+			},
+			"compId": 3,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 86,
+						"x": 7,
+						"width": 736,
+						"skin": "images/load/icon_tc_bg2.png",
+						"sizeGrid": "13,27,31,26",
+						"height": 910
+					},
+					"compId": 95
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 740,
+						"x": 375,
+						"width": 736,
+						"skin": "images/load/icon_tc_bg.png",
+						"rotation": 180,
+						"height": 513,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 81
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 3,
+						"x": 8,
+						"width": 734,
+						"skin": "images/load/icon_tc_pzbg_3.png",
+						"sizeGrid": "0,21,0,22",
+						"height": 100
+					},
+					"compId": 76,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 30,
+								"x": 267,
+								"width": 200,
+								"var": "labTitle",
+								"text": "隐私政策",
+								"strokeColor": "#666666",
+								"fontSize": 40,
+								"color": "#ffffff",
+								"bold": true,
+								"align": "center"
+							},
+							"compId": 103
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 86,
+						"x": 12,
+						"width": 726,
+						"skin": "images/load/icon_tc_bg_01.png",
+						"sizeGrid": "22,22,21,21",
+						"height": 743
+					},
+					"compId": 101,
+					"child": [
+						{
+							"type": "Text",
+							"props": {
+								"y": 34,
+								"x": 17,
+								"wordWrap": true,
+								"width": 692,
+								"var": "labTxt",
+								"overflow": "scroll",
+								"leading": 3,
+								"height": 674,
+								"fontSize": 24,
+								"color": "#2f2e2e",
+								"bold": true,
+								"runtime": "laya.display.Text"
+							},
+							"compId": 102
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "Image",
+			"props": {
+				"y": 1074,
+				"x": 225,
+				"width": 246,
+				"var": "btnClose",
+				"skin": "images/load/button_blue.png",
+				"sizeGrid": "38,48,46,53",
+				"rotation": 0,
+				"height": 106,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 98,
+			"child": [
+				{
+					"type": "Label",
+					"props": {
+						"y": 25,
+						"x": 58,
+						"text": "不同意",
+						"strokeColor": "#e0dede",
+						"stroke": 1,
+						"fontSize": 42,
+						"color": "#f0f0f0",
+						"bold": true
+					},
+					"compId": 108
+				}
+			]
+		},
+		{
+			"type": "Image",
+			"props": {
+				"y": 1074,
+				"x": 525,
+				"width": 246,
+				"var": "btnAgree",
+				"skin": "images/load/button_yellow.png",
+				"sizeGrid": "38,48,46,53",
+				"rotation": 0,
+				"height": 106,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 104,
+			"child": [
+				{
+					"type": "Label",
+					"props": {
+						"y": 24,
+						"x": 72,
+						"text": "同意",
+						"strokeColor": "#cccccc",
+						"stroke": 1,
+						"fontSize": 44,
+						"color": "#ffffff",
+						"bold": true
+					},
+					"compId": 107
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/grid/maskGray.png",
+		"images/load/icon_tc_bg2.png",
+		"images/load/icon_tc_bg.png",
+		"images/load/icon_tc_pzbg_3.png",
+		"images/load/icon_tc_bg_01.png",
+		"images/load/button_blue.png",
+		"images/load/button_yellow.png"
+	],
+	"loadList3D": []
+}

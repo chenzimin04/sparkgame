@@ -1,0 +1,86 @@
+{
+	"type": "View",
+	"props": {
+		"width": 150,
+		"height": 192
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 102,
+				"x": 75,
+				"width": 150,
+				"var": "btnImg",
+				"skin": "images/solider/icon_lb_bg2.png",
+				"sizeGrid": "0,17,0,17",
+				"rotation": 0,
+				"height": 203,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 3,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 64,
+						"x": 75,
+						"var": "iconImg",
+						"skin": "images/fight/monsterB3_2.png",
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 4
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 125,
+						"x": 15,
+						"width": 120,
+						"var": "labSpeed",
+						"text": "移动：",
+						"fontSize": 18,
+						"color": "#404040"
+					},
+					"compId": 7
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 146,
+						"x": 15,
+						"width": 120,
+						"var": "labBlood",
+						"text": "血量：",
+						"fontSize": 18,
+						"color": "#404040"
+					},
+					"compId": 13
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 167,
+						"x": 15,
+						"width": 120,
+						"var": "labAtkdef",
+						"text": "护甲：",
+						"rotation": 0,
+						"height": 18,
+						"fontSize": 18,
+						"color": "#404040"
+					},
+					"compId": 14
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/solider/icon_lb_bg2.png",
+		"images/fight/monsterB3_2.png"
+	],
+	"loadList3D": []
+}

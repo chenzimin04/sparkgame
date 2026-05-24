@@ -1,0 +1,39 @@
+ {
+	"size":9,
+	"moves":42,
+	"add":[			
+		{ "x":0, "y":0, "dx":4, "dy":3, "type":"COLOR_EGG", "count":true },
+		{ "x":0, "y":3, "dx":4, "dy":3, "type":"BOX", "count":true },
+		
+		{ "x":6, "y":0, "type":"CRACKLING", "count":true },
+		{ "x":8, "y":0, "type":"CRACKLING", "count":true },
+		{ "x":5, "y":1, "type":"CRACKLING", "count":true },
+		{ "x":7, "y":1, "type":"CRACKLING", "count":true },
+		{ "x":6, "y":2, "type":"CRACKLING", "count":true },
+		{ "x":8, "y":2, "type":"CRACKLING", "count":true },
+		{ "x":5, "y":3, "type":"CRACKLING", "count":true },
+		{ "x":7, "y":3, "type":"CRACKLING", "count":true },
+		
+		{ "x":6, "y":4, "type":"CRACKLING", "count":true },
+		{ "x":8, "y":4, "type":"CRACKLING", "count":true },
+		{ "x":5, "y":5, "type":"CRACKLING", "count":true },
+		{ "x":7, "y":5, "type":"CRACKLING", "count":true },
+		{ "x":6, "y":6, "type":"CRACKLING", "count":true },
+		{ "x":8, "y":6, "type":"CRACKLING", "count":true },
+		{ "x":5, "y":7, "type":"CRACKLING", "count":true },
+		{ "x":7, "y":7, "type":"CRACKLING", "count":true },
+		{ "x":6, "y":8, "type":"CRACKLING", "count":true },
+		{ "x":8, "y":8, "type":"CRACKLING", "count":true }
+	],
+	"allowedGemTypes":["GEM_YELLOW","GEM_RED","GEM_PURPLE","GEM_BLUE"],
+	"field":[ 		
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx",
+		"xxxxoxxxx"]
+ }

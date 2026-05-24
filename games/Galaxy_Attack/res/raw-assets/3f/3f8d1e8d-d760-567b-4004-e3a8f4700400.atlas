@@ -1,0 +1,62 @@
+
+skel_titleeffect.png
+size: 728,727
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+000
+  rotate: true
+  xy: 346, 107
+  size: 115, 120
+  orig: 115, 120
+  offset: 0, 0
+  index: -1
+huangguang
+  rotate: false
+  xy: 346, 418
+  size: 374, 104
+  orig: 374, 104
+  offset: 0, 0
+  index: -1
+j0001
+  rotate: false
+  xy: 346, 223
+  size: 178, 194
+  orig: 178, 194
+  offset: 0, 0
+  index: -1
+j0002
+  rotate: false
+  xy: 1, 60
+  size: 225, 105
+  orig: 225, 105
+  offset: 0, 0
+  index: -1
+j0002 - 副本
+  rotate: true
+  xy: 525, 192
+  size: 225, 105
+  orig: 225, 105
+  offset: 0, 0
+  index: -1
+j0002+
+  rotate: false
+  xy: 1, 523
+  size: 726, 203
+  orig: 726, 203
+  offset: 0, 0
+  index: -1
+j0003
+  rotate: false
+  xy: 1, 12
+  size: 230, 47
+  orig: 230, 47
+  offset: 0, 0
+  index: -1
+j0009
+  rotate: false
+  xy: 1, 166
+  size: 344, 356
+  orig: 344, 356
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,8 @@
+{
+"name":"FieldrunnersTD",
+"packageName":"com.xpy.fieldrunners",
+"versionCode":1000,
+"deviceOrientation":"portrait",
+"showStatusBar":false,
+"runtimeVersion":"1.4.0"
+}

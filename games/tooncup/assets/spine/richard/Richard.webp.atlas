@@ -1,0 +1,321 @@
+
+Richard.webp
+size: 1647,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect-Base
+  rotate: true
+  xy: 946, 173
+  size: 221, 93
+  orig: 221, 93
+  offset: 0, 0
+  index: -1
+Effect-Particle
+  rotate: true
+  xy: 807, 137
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+Effect-White
+  rotate: true
+  xy: 1145, 221
+  size: 173, 53
+  orig: 173, 53
+  offset: 0, 0
+  index: -1
+Richard-EB-L
+  rotate: false
+  xy: 842, 3
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+Richard-EB-R
+  rotate: false
+  xy: 355, 74
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+Richard-EBall-L
+  rotate: false
+  xy: 842, 58
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Richard-EBall-R
+  rotate: false
+  xy: 842, 24
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Richard-Ear-L
+  rotate: false
+  xy: 1314, 266
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Richard-Ear-R
+  rotate: false
+  xy: 1444, 266
+  size: 126, 128
+  orig: 126, 128
+  offset: 0, 0
+  index: -1
+Richard-Eye-FullC-L
+  rotate: true
+  xy: 315, 9
+  size: 61, 70
+  orig: 61, 70
+  offset: 0, 0
+  index: -1
+Richard-Eye-FullC-R
+  rotate: true
+  xy: 238, 8
+  size: 62, 75
+  orig: 62, 75
+  offset: 0, 0
+  index: -1
+Richard-Eye-L
+  rotate: false
+  xy: 1182, 160
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+Richard-Eye-R
+  rotate: true
+  xy: 1041, 150
+  size: 49, 59
+  orig: 49, 59
+  offset: 0, 0
+  index: -1
+Richard-Eye-TightC-L
+  rotate: false
+  xy: 1102, 157
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+Richard-Eye-TightC-R
+  rotate: false
+  xy: 1142, 157
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+Richard-Face
+  rotate: true
+  xy: 102, 72
+  size: 322, 251
+  orig: 322, 251
+  offset: 0, 0
+  index: -1
+Richard-Face-Full
+  rotate: false
+  xy: 355, 92
+  size: 256, 302
+  orig: 256, 302
+  offset: 0, 0
+  index: -1
+Richard-Hip-Patch
+  rotate: true
+  xy: 613, 95
+  size: 299, 42
+  orig: 299, 42
+  offset: 0, 0
+  index: -1
+Richard-Hip-Patch-Full
+  rotate: false
+  xy: 774, 142
+  size: 31, 252
+  orig: 31, 252
+  offset: 0, 0
+  index: -1
+Richard-L-Hand
+  rotate: false
+  xy: 1572, 195
+  size: 72, 128
+  orig: 72, 128
+  offset: 0, 0
+  index: -1
+Richard-L-Hand1
+  rotate: true
+  xy: 1122, 21
+  size: 134, 101
+  orig: 134, 101
+  offset: 0, 0
+  index: -1
+Richard-L-Leg
+  rotate: false
+  xy: 1439, 165
+  size: 70, 99
+  orig: 70, 99
+  offset: 0, 0
+  index: -1
+Richard-L-Shoe
+  rotate: false
+  xy: 2, 3
+  size: 116, 63
+  orig: 116, 63
+  offset: 0, 0
+  index: -1
+Richard-L-Shorts
+  rotate: false
+  xy: 691, 10
+  size: 74, 80
+  orig: 74, 80
+  offset: 0, 0
+  index: -1
+Richard-Mouth-A
+  rotate: true
+  xy: 1041, 201
+  size: 193, 102
+  orig: 193, 102
+  offset: 0, 0
+  index: -1
+Richard-Mouth-Excited
+  rotate: true
+  xy: 807, 147
+  size: 247, 137
+  orig: 247, 137
+  offset: 0, 0
+  index: -1
+Richard-Mouth-Line
+  rotate: false
+  xy: 657, 92
+  size: 214, 41
+  orig: 214, 41
+  offset: 0, 0
+  index: -1
+Richard-Mouth-T
+  rotate: false
+  xy: 873, 8
+  size: 247, 137
+  orig: 247, 137
+  offset: 0, 0
+  index: -1
+Richard-Nose
+  rotate: false
+  xy: 946, 154
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+Richard-Nose-Line
+  rotate: true
+  xy: 821, 138
+  size: 7, 26
+  orig: 7, 26
+  offset: 0, 0
+  index: -1
+Richard-Palm-L-Fall
+  rotate: true
+  xy: 1225, 27
+  size: 131, 115
+  orig: 131, 115
+  offset: 0, 0
+  index: -1
+Richard-Palm-R-Fall
+  rotate: true
+  xy: 1342, 27
+  size: 131, 115
+  orig: 131, 115
+  offset: 0, 0
+  index: -1
+Richard-R-Hand
+  rotate: true
+  xy: 1237, 160
+  size: 71, 128
+  orig: 72, 128
+  offset: 1, 0
+  index: -1
+Richard-R-Hand1
+  rotate: false
+  xy: 1459, 2
+  size: 124, 120
+  orig: 124, 120
+  offset: 0, 0
+  index: -1
+Richard-R-Hand2
+  rotate: false
+  xy: 1200, 233
+  size: 112, 161
+  orig: 112, 161
+  offset: 0, 0
+  index: -1
+Richard-R-Leg
+  rotate: false
+  xy: 1367, 164
+  size: 70, 100
+  orig: 70, 100
+  offset: 0, 0
+  index: -1
+Richard-R-Shoe
+  rotate: false
+  xy: 120, 7
+  size: 116, 63
+  orig: 116, 63
+  offset: 0, 0
+  index: -1
+Richard-R-Shorts
+  rotate: false
+  xy: 767, 10
+  size: 73, 80
+  orig: 73, 80
+  offset: 0, 0
+  index: -1
+Richard-Shadow
+  rotate: true
+  xy: 2, 68
+  size: 326, 98
+  orig: 326, 98
+  offset: 0, 0
+  index: -1
+Richard-T
+  rotate: true
+  xy: 1511, 193
+  size: 71, 57
+  orig: 71, 57
+  offset: 0, 0
+  index: -1
+tint-Richard-Body
+  rotate: false
+  xy: 387, 2
+  size: 302, 88
+  orig: 302, 88
+  offset: 0, 0
+  index: -1
+tint-Richard-Body-Full
+  rotate: false
+  xy: 657, 135
+  size: 115, 259
+  orig: 115, 259
+  offset: 0, 0
+  index: -1
+tint-Richard-L-Shoulder
+  rotate: false
+  xy: 1572, 325
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+tint-Richard-R-Shoulder
+  rotate: false
+  xy: 1570, 124
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+tint-Richard-T2
+  rotate: true
+  xy: 1585, 51
+  size: 71, 57
+  orig: 71, 57
+  offset: 0, 0
+  index: -1

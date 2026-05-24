@@ -1,0 +1,43 @@
+ {
+	"size":9,
+	"moves":35,
+	"add":[		
+		
+		{ "x":0, "y":5, "dx":9, "dy":1, "type":"BLOB", "count":true },	
+	
+		{ "x":0, "y":0, "type":"CRACKLING", "count":true },	
+		{ "x":2, "y":0, "type":"CRACKLING", "count":true },	
+		{ "x":4, "y":0, "type":"CRACKLING", "count":true },	
+		{ "x":6, "y":0, "type":"CRACKLING", "count":true },	
+		{ "x":8, "y":0, "type":"CRACKLING", "count":true },	
+		
+		{ "x":1, "y":1, "type":"CRACKLING", "count":true },	
+		{ "x":3, "y":1, "type":"CRACKLING", "count":true },	
+		{ "x":5, "y":1, "type":"CRACKLING", "count":true },	
+		{ "x":7, "y":1, "type":"CRACKLING", "count":true },	
+	
+		{ "x":0, "y":2, "type":"CRACKLING", "count":true },	
+		{ "x":2, "y":2, "type":"CRACKLING", "count":true },	
+		{ "x":4, "y":2, "type":"CRACKLING", "count":true },	
+		{ "x":6, "y":2, "type":"CRACKLING", "count":true },	
+		{ "x":8, "y":2, "type":"CRACKLING", "count":true },	
+		
+		{ "x":1, "y":3, "type":"CRACKLING", "count":true },	
+		{ "x":3, "y":3, "type":"CRACKLING", "count":true },	
+		{ "x":5, "y":3, "type":"CRACKLING", "count":true },	
+		{ "x":7, "y":3, "type":"CRACKLING", "count":true }
+		
+		
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_RED","GEM_PURPLE","GEM_YELLOW"],
+	"field":[
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"ooooooooo",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx"]
+ }

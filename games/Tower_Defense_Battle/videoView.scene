@@ -1,0 +1,144 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"var": "pngBg",
+				"top": 0,
+				"skin": "images/grid/imgBg.png",
+				"sizeGrid": "2,3,4,3",
+				"right": 0,
+				"left": 0,
+				"bottom": 0,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 6
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 517,
+				"x": 0,
+				"width": 750,
+				"var": "btnBox",
+				"height": 500
+			},
+			"compId": 11,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 80,
+						"x": 375,
+						"width": 330,
+						"var": "btnAdFinish",
+						"skin": "images/grid/button_yellow.png",
+						"sizeGrid": "33,20,52,18",
+						"height": 100,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 4,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 50,
+								"x": 165,
+								"text": "模拟视频播放完成",
+								"strokeColor": "#736c6c",
+								"stroke": 1,
+								"scaleX": 1,
+								"fontSize": 30,
+								"color": "#ffffff",
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 5
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 250,
+						"x": 375,
+						"width": 330,
+						"var": "btnAdHalf",
+						"skin": "images/grid/button_blue.png",
+						"sizeGrid": "33,20,52,18",
+						"height": 100,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 7,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 50,
+								"x": 165,
+								"text": "模拟未完成",
+								"strokeColor": "#736c6c",
+								"stroke": 1,
+								"scaleX": 1,
+								"fontSize": 30,
+								"color": "#ffffff",
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 8
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 376,
+						"x": 375,
+						"width": 330,
+						"var": "btnAdError",
+						"skin": "images/grid/button_blue.png",
+						"sizeGrid": "33,20,52,18",
+						"rotation": 0,
+						"height": 100,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 9,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 50,
+								"x": 165,
+								"text": "模拟加载失败",
+								"strokeColor": "#736c6c",
+								"stroke": 1,
+								"scaleX": 1,
+								"fontSize": 30,
+								"color": "#ffffff",
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 10
+						}
+					]
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/grid/imgBg.png",
+		"images/grid/button_yellow.png",
+		"images/grid/button_blue.png"
+	],
+	"loadList3D": []
+}

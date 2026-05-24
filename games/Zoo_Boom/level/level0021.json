@@ -1,0 +1,11 @@
+ {
+	"size":9,
+	"stars":{"avg":9, "top":16 },
+	"moves":40,
+	"add":[
+		{ "x":0, "y":0, "dx":9, "dy":3, "type":"BOX", "count": true },
+		{ "x":0, "y":4, "dx":9, "dy":3, "type":"BOX", "count": true },
+		{ "x":1, "y":3, "dx":2, "dy":1, "type":"GEM_RED" }
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_PURPLE","GEM_RED","GEM_YELLOW"]
+ }

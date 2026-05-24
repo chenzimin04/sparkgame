@@ -1,0 +1,405 @@
+
+skel_boss1_body.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images1/armor1
+  rotate: true
+  xy: 833, 757
+  size: 105, 99
+  orig: 105, 99
+  offset: 0, 0
+  index: -1
+images1/armor2
+  rotate: true
+  xy: 171, 296
+  size: 105, 99
+  orig: 105, 99
+  offset: 0, 0
+  index: -1
+images1/big_arm1
+  rotate: false
+  xy: 511, 633
+  size: 127, 104
+  orig: 127, 104
+  offset: 0, 0
+  index: -1
+images1/big_arm1 - 副本
+  rotate: false
+  xy: 511, 633
+  size: 127, 104
+  orig: 127, 104
+  offset: 0, 0
+  index: -1
+images1/body
+  rotate: false
+  xy: 1, 540
+  size: 215, 241
+  orig: 215, 241
+  offset: 0, 0
+  index: -1
+images1/body2
+  rotate: true
+  xy: 936, 860
+  size: 163, 78
+  orig: 163, 78
+  offset: 0, 0
+  index: -1
+images1/body3
+  rotate: false
+  xy: 933, 750
+  size: 77, 109
+  orig: 77, 109
+  offset: 0, 0
+  index: -1
+images1/body4
+  rotate: false
+  xy: 382, 738
+  size: 134, 115
+  orig: 134, 115
+  offset: 0, 0
+  index: -1
+images1/drivecell
+  rotate: true
+  xy: 518, 583
+  size: 49, 115
+  orig: 49, 115
+  offset: 0, 0
+  index: -1
+images1/face_mask
+  rotate: false
+  xy: 518, 540
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+images1/g2
+  rotate: true
+  xy: 652, 718
+  size: 135, 76
+  orig: 135, 76
+  offset: 0, 0
+  index: -1
+images1/hand1
+  rotate: true
+  xy: 639, 639
+  size: 78, 85
+  orig: 78, 85
+  offset: 0, 0
+  index: -1
+images1/hand1+
+  rotate: true
+  xy: 467, 512
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+images1/head
+  rotate: false
+  xy: 729, 750
+  size: 103, 112
+  orig: 103, 112
+  offset: 0, 0
+  index: -1
+images1/little_arm1
+  rotate: false
+  xy: 353, 454
+  size: 110, 60
+  orig: 110, 60
+  offset: 0, 0
+  index: -1
+images1/little_arm1 - 副本
+  rotate: false
+  xy: 353, 454
+  size: 110, 60
+  orig: 110, 60
+  offset: 0, 0
+  index: -1
+images1/nail
+  rotate: true
+  xy: 171, 525
+  size: 14, 39
+  orig: 14, 39
+  offset: 0, 0
+  index: -1
+images1/quan
+  rotate: false
+  xy: 217, 622
+  size: 163, 152
+  orig: 163, 152
+  offset: 0, 0
+  index: -1
+images1/quan+
+  rotate: false
+  xy: 464, 478
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+images1/roll2
+  rotate: false
+  xy: 1, 1
+  size: 93, 70
+  orig: 93, 70
+  offset: 0, 0
+  index: -1
+images1/roll3
+  rotate: false
+  xy: 725, 639
+  size: 68, 53
+  orig: 68, 53
+  offset: 0, 0
+  index: -1
+images1/shoulder1
+  rotate: false
+  xy: 356, 515
+  size: 110, 65
+  orig: 110, 65
+  offset: 0, 0
+  index: -1
+images1/shoulder1 - 副本
+  rotate: false
+  xy: 356, 515
+  size: 110, 65
+  orig: 110, 65
+  offset: 0, 0
+  index: -1
+images1/wing1
+  rotate: false
+  xy: 218, 854
+  size: 250, 169
+  orig: 250, 169
+  offset: 0, 0
+  index: -1
+images1/wing1 - 副本
+  rotate: false
+  xy: 218, 854
+  size: 250, 169
+  orig: 250, 169
+  offset: 0, 0
+  index: -1
+images1/wing1 - 副本 - 副本
+  rotate: false
+  xy: 218, 854
+  size: 250, 169
+  orig: 250, 169
+  offset: 0, 0
+  index: -1
+images1/wing2
+  rotate: false
+  xy: 720, 863
+  size: 215, 160
+  orig: 215, 160
+  offset: 0, 0
+  index: -1
+images1/wing2 - 副本
+  rotate: false
+  xy: 720, 863
+  size: 215, 160
+  orig: 215, 160
+  offset: 0, 0
+  index: -1
+images1/yan
+  rotate: true
+  xy: 381, 581
+  size: 51, 136
+  orig: 51, 136
+  offset: 0, 0
+  index: -1
+images2/yan
+  rotate: true
+  xy: 381, 581
+  size: 51, 136
+  orig: 51, 136
+  offset: 0, 0
+  index: -1
+images2/armor1
+  rotate: false
+  xy: 211, 534
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+images2/armor2
+  rotate: false
+  xy: 211, 534
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+images2/g2
+  rotate: false
+  xy: 211, 534
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+images2/hand1
+  rotate: false
+  xy: 211, 534
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+images2/hand1+
+  rotate: false
+  xy: 211, 534
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+images2/little_arm1
+  rotate: false
+  xy: 211, 534
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+images2/little_arm1 - 副本
+  rotate: false
+  xy: 211, 534
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+images2/nail
+  rotate: false
+  xy: 211, 534
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+images2/quan
+  rotate: false
+  xy: 211, 534
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+images2/quan+
+  rotate: false
+  xy: 211, 534
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+images2/shoulder1 - 副本
+  rotate: false
+  xy: 211, 534
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+images2/wing1 - 副本 - 副本
+  rotate: false
+  xy: 211, 534
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+images2/wing2 - 副本
+  rotate: false
+  xy: 211, 534
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+images2/big_arm1
+  rotate: false
+  xy: 217, 515
+  size: 138, 106
+  orig: 138, 106
+  offset: 0, 0
+  index: -1
+images2/big_arm1 - 副本
+  rotate: false
+  xy: 381, 633
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+images2/body
+  rotate: false
+  xy: 1, 782
+  size: 216, 241
+  orig: 216, 241
+  offset: 0, 0
+  index: -1
+images2/body2
+  rotate: false
+  xy: 218, 775
+  size: 163, 78
+  orig: 163, 78
+  offset: 0, 0
+  index: -1
+images2/body3
+  rotate: false
+  xy: 275, 404
+  size: 77, 110
+  orig: 77, 110
+  offset: 0, 0
+  index: -1
+images2/body4
+  rotate: false
+  xy: 517, 738
+  size: 134, 115
+  orig: 134, 115
+  offset: 0, 0
+  index: -1
+images2/drivecell
+  rotate: true
+  xy: 353, 404
+  size: 49, 115
+  orig: 49, 115
+  offset: 0, 0
+  index: -1
+images2/face_mask
+  rotate: false
+  xy: 561, 540
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+images2/head
+  rotate: false
+  xy: 171, 402
+  size: 103, 112
+  orig: 103, 112
+  offset: 0, 0
+  index: -1
+images2/roll2
+  rotate: false
+  xy: 95, 3
+  size: 92, 68
+  orig: 92, 68
+  offset: 0, 0
+  index: -1
+images2/shoulder1
+  rotate: false
+  xy: 729, 693
+  size: 91, 56
+  orig: 91, 56
+  offset: 0, 0
+  index: -1
+images2/wing1
+  rotate: true
+  xy: 1, 289
+  size: 250, 169
+  orig: 250, 169
+  offset: 0, 0
+  index: -1
+images2/wing1 - 副本
+  rotate: false
+  xy: 469, 854
+  size: 250, 169
+  orig: 250, 169
+  offset: 0, 0
+  index: -1
+images2/wing2
+  rotate: true
+  xy: 1, 72
+  size: 216, 161
+  orig: 216, 161
+  offset: 0, 0
+  index: -1

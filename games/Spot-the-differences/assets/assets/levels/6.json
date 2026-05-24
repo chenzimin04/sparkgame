@@ -1,0 +1,18 @@
+{
+  "resolution": "standard",
+  "image1": "lilies_a.jpg",
+  "image2": "lilies_b.jpg",
+  "differences":
+  [
+    {
+      "x": 180.0,
+      "y": 132.0,
+      "size": 120.0
+    },
+    {
+      "x": 210.0,
+      "y": 553.0,
+      "size": 200.0
+    }
+  ]
+}

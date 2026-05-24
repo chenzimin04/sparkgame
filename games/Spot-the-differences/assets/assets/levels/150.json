@@ -1,0 +1,32 @@
+{
+   "resolution":"standard",
+   "image1":"icecream_toy_a.jpg",
+   "image2":"icecream_toy_b.jpg",
+   "differences":[
+      {
+         "x":226.5,
+         "y":328.0,
+         "size":83.5
+      },
+      {
+         "x":182.5,
+         "y":548.0,
+         "size":117.8
+      },
+      {
+         "x":529.5,
+         "y":540.0,
+         "size":100.0
+      },
+      {
+         "x":423.5,
+         "y":459.0,
+         "size":83.5
+      },
+      {
+         "x":474.5,
+         "y":178.0,
+         "size":100.0
+      }
+   ]
+}

@@ -1,0 +1,1024 @@
+ID,ro-RO
+ad_failed.button,OK
+ad_failed.message,"Nu există niciun videoclip disponibil momentan, vă rugăm să încercați din nou mai târziu."
+ad_failed.title,Ups...
+ad_magic.button,Urmări
+ad_magic.message,Vizionează un scurt clip pentru a primi recompensa.
+ad_magic.title,Puștiul Porcărie-Magie
+android_app.button,Instala
+android_app.text.release,Dragi prieteni! Ne bucurăm să vă informăm că jocul nostru este acum disponibil pe Android. Descărcați aplicația și bucurați-vă de ea!
+android_app.title,Acum pe Android!
+android_update.restart.no,Mai târziu
+android_update.restart.text,Instalați acum?
+android_update.restart.title,Actualizare gata!
+android_update.restart.yes,Da
+avatar_already_changed.button,OK
+avatar_already_changed.message,Poza de profil a fost deja schimbată. Poți schimba poza de profil O SINGURĂ dată.
+bookmark.daily,Provocare
+bookmark.friends,Prieteni
+bookmark.settings,Setări
+booster_hint.cross,%booster_shop.hint.ingame.cross%
+booster_hint.hammer,%booster_shop.hint.ingame.hammer%
+booster_hint.hand,%booster_shop.hint.ingame.hand%
+booster_shop.buy,Cumpărați #count
+booster_shop.hint.ingame.cross,Folosiți Bagheta Magica pentru a elimina o linie și o coloană de piese.
+booster_shop.hint.ingame.hammer,Eliminați piesele prin spargerea lor cu ciocanul!
+booster_shop.hint.ingame.hand,Folosiți Mănușa pentru a schimba orice piese adiacente!
+booster_shop.hint.prelevel.add_bomb,Începe orice nivel cu o Bombă deja pe tabla de joc!
+booster_shop.hint.prelevel.add_line,Începe orice nivel cu o Linie deja pe tabla!
+booster_shop.hint.prelevel.add_omni,Începe orice nivel cu un fulger deja pe tabla!
+booster_shop.hint.prelevel.add_tint,Începe orice nivel cu un Vopsea deja pe tabla!
+booster_shop.hint.prelevel.double_fly,Dublați toți Fluturașii creati în acest nivel!
+booster_shop.title.ingame.cross,Bagheta Magica
+booster_shop.title.ingame.hammer,Ciocan
+booster_shop.title.ingame.hand,Mănușă
+booster_shop.title.prelevel.add_bomb,Booster Bombă
+booster_shop.title.prelevel.add_line,Booster Linie
+booster_shop.title.prelevel.add_omni,Booster de Trăsnet
+booster_shop.title.prelevel.add_tint,Booster Vopsitor
+booster_shop.title.prelevel.double_fly,Booster Licurici x2
+chest_open.collection_complete,Colectat!
+chest_open.ok,OK
+chest_opening.button,Minunat!
+chest_opening.reward,Recompensă
+conflict_popup.continue,Continuă
+conflict_popup.hint_syncing,Sincronizăm...
+conflict_popup.skip,Continuare offline
+credits.art,Design artistic
+credits.artists,"Multă dragoste prietenilor noștri graficieni
+pentru personajele avatar frumoase!"
+credits.gamedesign,Designul jocului
+credits.mentions,"Mulțumiri speciale
+prietenilor noștri"
+credits.programming,Programare
+credits.title,Echipa noastră!
+daily_help.button,OK
+daily_help.chest,Premiul principal
+daily_help.reward,Premii o singură dată
+daily_help.text,"Jucătorii își arată abilitățile și se întrec în fiecare zi pe un singur nivel.
+
+Cel mai bun jucător va primi premiul zilei - Coroana și Cutia de Geme!"
+daily_help.title,Provocare zilnică
+daily_reward.button,Minunat!
+daily_reward.reward,Recompensă
+daily_reward.title.place_1,Sunteți câștigătorul Provocării Zilnice!
+daily_reward.title.place_generic,"Provocarea zilnică completă
+Ai clasat \##locul!"
+daily.drag_to_update,Trageți pentru a reîmprospăta
+daily.epic_sunday_ribbon,Provocare prietenoasă
+daily.finishes_in,Provocarea se termină în #timp
+daily.finishes_now,Provocarea s-a terminat!
+daily.high_score,Scor nou înalt!
+daily.medal_chest_text,Colectați #amount medalii!
+daily.next_time,Următoarea provocare zilnică în #timp
+daily.next_time_now,A început o nouă provocare zilnică!
+daily.no_yesterday_yet,Nu ați participat la provocarea zilnică anterioară
+daily.play,Joacă
+daily.retry_submit,Reîncerca
+daily.rewards_tab,Premii provocare zilnică
+daily.rewards.bubble,"Colectează stele și medalii
+pentru a deschide coșuri cu comori!"
+daily.score_not_accepted,"Acest rezultat nu va fi luat în considerare în clasament, deoarece ați terminat de jucat după încheierea Provocării Zilnice."
+daily.star_chest_claim,Deschide
+daily.star_chest_collected_text,Vino mâine pentru altă cutie
+daily.star_chest_text,Completează cu 3 stele 7 Provocări Zilnice în rând!
+daily.submit_error,Nu am putut trimite rezultatele
+daily.today,Provocare zilnică
+daily.today_mark,Astăzi
+daily.update_error,Fără conexiune la internet
+daily.wait_text,
+daily.watch_replay.button,Urmări
+daily.watch_replay.text,Redarea jocului
+daily.welcome_reward_first,%daily_help.text%
+daily.welcome_text,Ura! Noul Provocare Zilnică a început!
+daily.yesterday,Scara de ieri
+daily.yesterday_updating,Se preiau rezultatele...
+demo.finished.text,"Felicitări, ați finalizat versiunea de încercare! Joacă versiunea completă gratuit pe <p class=""ma-link"">PecPoc.com<p class=""demo-hint"">Progresul tău nu va fi pierdut"
+demo.nag.text,"Bonusurile gratuite sunt disponibile doar în versiunea completă. Continuați să jucați versiunea completă pe <p class=""ma-link"">PecPoc.com<p class=""demo-hint"">Progresul tău nu va fi pierdut."
+event_ny.next_in_hint,Ia următorul cadou în: #time
+event_ny.title,Cadouri de Anul Nou
+fake_ad.reward_in,Recompensa în...
+fake_ad.tutorial,"În acest moment nu există niciun videoclip disponibil...
+Nu-ți face griji, să avem în schimb o magie de Purcel!"
+fake_ad.your_ad_here,Reclama ta aici
+fb_login_failed.message,Nu s-a putut conecta la Facebook. Încercați din nou?
+fb_notification.button,Conectați
+fb_notification.message,Conectează-te la Facebook pentru a sincroniza progresul tău online!
+fb_notification.no_post_hint,Nu vom posta nimic fără permisiunea ta.
+fb_notification.title,Salvează-ți progresul
+feedback.failed.button,Continuă
+feedback.failed.message,"Nu am putut trimite feedback-ul.
+Verificați conexiunea la internet."
+feedback.failed.title,Ooops...
+feedback.ok.button,OK
+feedback.ok.message,"Am primit feedback-ul tău.
+Vă mulțumim pentru ajutorul oferit pentru a îmbunătăți jocul."
+feedback.ok.title,Feedback trimis!
+friends_tab.failed_social.button,Verifica
+friends_tab.failed_social.text,Avem nevoie să verificăm conexiunea pentru a actualiza lista de prieteni.
+friends_tab.has_fb.button,Invitați prietenii
+friends_tab.has_fb.text,"Cu cât ai mai mulți prieteni, cu atât primești mai multe cadouri!"
+friends_tab.no_fb.button,Conectați
+friends_tab.no_fb.hint,Nu vom posta nimic fără permisiunea ta.
+friends_tab.no_fb.text,Conectați-vă la Facebook și primiți cadouri de la prieteni și urmăriți progresul lor.
+friends_tab.no_permission.button,Da
+friends_tab.no_permission.text,Permiteți accesul la lista dvs. de prieteni pentru a primi mai multe cadouri?
+friends_tab.no_social.text,Conectați-vă la rețelele sociale și primiți cadouri de la prieteni și urmăriți progresul lor.
+friends_tab.no_y8.button,Conectați
+friends_tab.no_y8.text,Conectează-te la Y8 și primește cadouri de la prieteni și urmărește-le progresul.
+friends_tab.ok_invite_button,Invitați prietenii
+friends_tab.ok_invite_gift_text,"Cu cât ai mai mulți prieteni, cu atât primești mai multe cadouri!"
+friends_tab.ok_invite_text,"Cu cât ai mai mulți prieteni, cu atât primești mai multe cadouri!"
+friends_tab.title,Prieteni
+friends_tab.vk_friends_permission_button,Da
+friends_tab.vk_friends_permission_text,Permiteți accesul la lista dvs. de prieteni pentru a primi mai multe cadouri?
+friends_tab.vk_invite_button,Invitați prietenii
+friends_tab.vk_invite_text,"Cu cât ai mai mulți prieteni, cu atât primești mai multe cadouri!"
+friends.gift.claim,Deschide
+game_results.click_to_continue,Apasă pentru a continua
+game_results.tap_to_continue,Apasă pentru a continua
+game.click_to_continue,Apasă pentru a continua
+game.info.ahead,SUNTEȚI #fmtnum MULȚUMIRI ÎNAINTE
+game.info.behind,SUNTEȚI #fmtnum MISCĂRI ÎNAINTE
+game.info.goals,Obiectiv
+game.info.moves,MIȘCĂRI
+game.info.pause,PAUZĂ
+game.info.undo,ANULA
+game.pause.continue,"<font color=""\#408fda"">Continuă jocul"
+game.pause.leave_forfeit,"<font color=""\#ff0000"">Sfârșitul jocului"
+game.pause.leave_safe,Termina jocul
+game.pause.title,Pause
+game.shoutout.their_game_result,Scor: #score
+game.shoutout.well_done,Bine făcut!
+game.shoutout.your_game_result,Scorul tău: #score
+game.tap_to_continue,Apasă pentru a continua
+game.tutorial.continue,Continuă
+gamemode.capital.aquarium,PĂSĂRI
+gamemode.capital.bird,PĂSĂRELE
+gamemode.capital.bubble,Bule
+gamemode.capital.cats,PISICI
+gamemode.capital.chocolate,LAVA
+gamemode.capital.diamonds,DIAMANTE
+gamemode.capital.ducks,PUI DE RAȚĂ
+gamemode.capital.energy_cube_reciever,CRISTALE
+gamemode.capital.energycube,GELATINĂ
+gamemode.capital.fishes,MORCOVI
+gamemode.capital.flower,FLORI
+gamemode.capital.food,GĂINUȘE
+gamemode.capital.fossils,PĂIANJENI DE MARE
+gamemode.capital.frog,BÂTALII
+gamemode.capital.grass,IARBA
+gamemode.capital.gum,LIPICI
+gamemode.capital.honeybee,URȘI
+gamemode.capital.hotlava,LAVA
+gamemode.capital.ice,GHEAȚĂ
+gamemode.capital.jam,ENERGIE
+gamemode.capital.jam_reciever,CRISTALE
+gamemode.capital.pearl,MĂRGELE
+gamemode.capital.road,PORCUL
+gamemode.capital.sausage,SÂRBOAICE
+gamemode.capital.statue,CÂINI
+gamemode.capital.stone,PIETRE
+gamemode.capital.tasks,COMENZI
+gamemode.capital.tiles,IARBA
+gamemode.capital.waterfish,PĂSĂRI
+gamemode.capital.blooplet,BLOOPLEȚI
+gameresult.adventure.completed_continue,Continuă
+gameresult.adventure.leave,Ieși
+gameresult.adventure.play_next,Continuă
+gameresult.adventure.retry,Reîncearcă
+gameresult.boosters,Selectați Boosteri
+gameresult.complete.line1,Nivel
+gameresult.complete.line2,Finalizat!
+gameresult.continue,Continuă
+gameresult.daily.continue,Continuă
+gameresult.daily.leave,Ieșire
+gameresult.daily.retry,Joacă
+gameresult.dash,-
+gameresult.forfeit,Ai renunțat!
+gameresult.map.continue,Continuă
+gameresult.map.retry,Reîncearcă
+gameresult.pvp.continue,Continuă
+gameresult.pvp.play_another,Nivel diferit
+gameresult.pvp.play_next,Nivel diferit
+gameresult.pvp.rematch_lose,Rematch
+gameresult.pvp.rematch_win_draw,Joacă din nou
+gameresult.rematch,Remecare
+gameresult.rematch_bet,Pariu #bet
+gameresult.required_ticket,Necesar
+gameresult.retry,Joacă din nou
+gameresult.rewards,Recompensă
+gameresult.title.completed,"<font color=""\#47f05f"">Nivel complet!"
+gameresult.title.draw,"<font color=""\#5885B8"">Tragere la sorți"
+gameresult.title.lose,"<font color=""\#ff5666"">Ai pierdut"
+gameresult.title.win,"<font color=""\#47f05f"">Ai câștigat!"
+gameresult.vs,VS
+gameresults.inter_ad_in_large,#count jocuri până la
+gameresults.inter_ad_in_small,#count jocuri până la
+gems_shop.title,Magazin de Geme
+global.click_to_continue,Apasă pentru a continua
+global.default_player_name,Jucător
+global.tap_to_continue,Apasă pentru a continua
+home.hint_daiy,Încearcă Provocarea Zilnică
+home.hint_play_pvp,Încă poți juca dueluri chiar dacă ai epuizat viețile!
+home.play,Joacă
+html.loading,Încărcare
+iap_failed.button,OK
+iap_failed.message,Achiziția nu a reușit.
+iap_need_facebook.message,Conectați-vă la Facebook pentru a vă încărca Gemuri.
+iap_pending.button,OK
+iap_pending.message,Achiziția ta este în curs de procesare
+intro_screen.another_device,Cu Cod
+intro_screen.login_back,Înapoi
+intro_screen.login_button,Autentificare
+intro_screen.login_fb,Facebook
+intro_screen.login_ok,Odnoklassniki
+intro_screen.login_singular,Autentificare
+intro_screen.login_vk,Vkontakte
+intro_screen.login_with,Autentificare cu
+intro_screen.login_y8,Y8
+intro_screen.login_yandex,Yandex
+intro_screen.new_player,Jucător nou
+introprofile.accept_avatar,Selectați
+introprofile.accept_name,Continuă
+introprofile.editavatar,Alege poza de profil
+introprofile.editname,Introduceți numele dumneavoastră
+invite_request.message,Să jucăm cel mai bun joc de potrivire a trei împreună!
+invite_request.title,Selectați prietenii pentru a juca Skydom împreună
+level_popup.goals,Obiectiv
+level_popup.play,Joacă
+level_popup.prelevel_boosters,Selectați Boosteri
+level_popup.title,Nivelul #level
+level_popup.title_hard,Greu
+level_popup.title_ultra_hard,Super dificil
+level_popup.title_very_hard,Foarte greu
+link.support,https://Skydom.freshdesk.com/en/support/solutions
+link.support_beta,https://Skydombeta.freshdesk.com/en/support/solutions
+lives_shop.buy_all,Cumpărați 5
+lives_shop.hint,"Ai nevoie de vieți pentru
+a continua să joci Aventura"
+lives_shop.recharge,Următoarea viață: #time
+lives_shop.title,Vieți
+lives_shop.watch_ad_button,Urmări
+lives_shop.watch_ad_text,Gratuit 1
+load_player.almost_done,Aproape gata...
+load_player.continue_offline,Continuare offline
+load_player.loading_save,Se încarcă datele jucătorului...
+load_player.loading_save_failed,Nu s-au putut încărca datele jucătorului.
+load_player.loading_save_failed_in,"Nu s-au putut încărca datele jucătorului.
+Reîncercăm în #time...
+"
+load_player.logging_in,Autentificare...
+load_player.logging_in_failed,Nu s-a putut autentifica.
+load_player.logging_in_failed_in,"Nu s-a putut conecta.
+Încercăm din nou în #time...
+"
+load_player.new_player,Sunt un jucător nou
+load_player.retry_now,Încearcă acum
+login_failed.button,Reîncerca
+login_failed.title,Nu s-a reușit conectarea
+magic.click_to_continue,Apasă pentru a continua
+magic.reward,Premiu
+magic.tap_to_continue,Apasă pentru a continua
+map.gates_coming_soon,"Niveluri noi
+vor veni curând!"
+match3.level_complete.line1,Toate Obiectivele
+match3.level_complete.line2,Realizat!
+match3.score_pve,#score/#required
+match3.shoutout.1_move,Ultima mutare!
+match3.shoutout.2_moves,2 mutări
+match3.shoutout.5_moves,5 mutări
+match3.shoutout.no_moves,Nu mai sunt mutări
+match3.shoutout.no_reshuffle,"Nu se poate reamesteca
+Nu există mutări posibile"
+merge.button.mine,Alege
+merge.button.their,Alege
+merge.description.account_merge,"Se pare că ați jucat deja Skydom.
+Alegeți profilul preferat!"
+merge.description.ingame_conflict,%merge.description.login_conflict%
+merge.description.login_conflict,"Ați jucat de pe mai multe dispozitive.
+Alegeți salvarea preferată."
+merge.hint.mine,local
+merge.hint.their,de la server
+merge.title,Sincronizarea progresului
+modal.adblock.button,OK
+modal.adblock.text,Am observat că folosiți un blocator de reclame.<br>Vă rugăm să dezactivați blocatorul de reclame pentru această pagină pentru a putea viziona un videoclip.
+modal.adblock.title,Blocator de reclame
+modal.error.button,Reîmprospăta
+modal.error.text,"Ne pare rău, a apărut o eroare. Te rugăm să reîmprospătezi pagina."
+modal.error.title,Ooops! Ceva a mers prost...
+modal.fb_login_proxy.button,Continuă
+modal.fb_login_proxy.text,Conectare la Facebook
+modal.fb_login_proxy.title,
+modal.fb_purchase_proxy.button,Continuă
+modal.fb_purchase_proxy.gems,Geme
+modal.first_login_failed.button,Încearcă din nou
+modal.first_login_failed.text,Nu se poate conecta la Skydom în acest moment. Vă rugăm să încercați să vă conectați din nou mai târziu.
+modal.first_login_failed.title,Nu s-a putut conecta
+modal.gpu_error.button,Mai multe informații
+modal.gpu_error.text,Se pare că trebuie să activați accelerarea GPU în browserul dvs. pentru a rula jocul.
+modal.gpu_error.title,Hmm..
+modal.maintenance.button,OK
+modal.maintenance.text,Se vor efectua lucrări de întreținere la<br> <b>#time</b><br> timp de 3 ore.<br> Salvarea în cloud și sincronizarea progresului nu vor funcționa.
+modal.maintenance.title,Întreținere
+modal.no_hardware_accel_ff.button,OK
+modal.no_hardware_accel_ff.text,"Browserul dvs. raportează o problemă de performanță, jocul poate funcționa foarte lent!
+
+Pentru a remedia, vă rugăm să citiți <a target=""_blank""  href=""https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features"">https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features</a>
+"
+modal.no_hardware_accel_ff.title,Probleme de performanță
+modal.no_hardware_accel.button,OK
+modal.no_hardware_accel_vk.button,OK
+modal.no_hardware_accel.text,"Browser-ul dvs. raportează o problemă de performanță, jocul poate funcționa foarte lent!
+
+Pentru a rezolva, vă rugăm să citiți <a target=""_blank""  href=""https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm"">https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm</a>
+"
+modal.no_hardware_accel_vk.text,"Browser-ul dvs. raportează o problemă de performanță, jocul poate funcționa foarte lent!
+
+Pentru a remedia, vă rugăm să citiți <a target=""_blank"" href=""https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery"">https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery</a>"
+modal.no_hardware_accel.title,Probleme de performanță
+modal.no_hardware_accel_vk.title,Probleme de performanță
+modal.nolocalstorage.button,OK
+modal.nolocalstorage.text,"Se pare că browser-ul tău nu ne permite să salvăm jocul. Acest lucru poate fi cauzat de utilizarea modului Incognito în browser-ul tău.
+<p>
+Vă rugăm să vă conectați pentru a evita pierderea progresului!"
+modal.nolocalstorage.title,Modul Incognito
+modal.oom.button,Mai multe informații
+modal.oom.text,Se pare că nu există suficientă memorie.
+modal.oom.title,Hmm..
+modal.out_of_sync.button,Reîmprospăta
+modal.out_of_sync.text,Se pare că ai Skydom deschis în mai multe ferestre ale browser-ului. <br>Te rugăm să reîmprospătezi pentru a continua să joci în această fereastră.
+modal.out_of_sync.title,Mai multe ferestre cu Skydom?
+modal.vk_inapp_not_allowed.button,Treceți
+modal.vk_inapp_not_allowed.text,"Cumpărăturile sunt disponibile doar pe <a href=""https://m.vk.com/app7409298"" target=""_blank"">m.vk.com</a>"
+modal.vk_inapp_not_allowed.title,
+modal.wasm.button,Mai multe informații
+modal.wasm.text,Pare că browserul tău nu suportă WebAssembly
+modal.wasm.title,Hmm..
+modal.webgl.button,Mai multe informații
+modal.webgl.text,Pare că browserul tău nu suportă WebGL
+modal.webgl.title,Hmm..
+modal.yandexsdk.text,"SDK-ul Yandex nu s-a încărcat corect. 
+
+Încercăm din nou?"
+modal.yandexsdk.title,Ooops
+modal.yandexsdk.button,OK
+name_already_changed.button,OK
+name_already_changed.message,Numele tău a fost deja schimbat. Poți schimba numele tău O SINGURĂ DATĂ.
+networks.hint,"Încurajăm conectarea la rețelele sociale!
+ - Nu pierde progresul tău stocându-l în cloud
+ - Joacă-te cu prietenii și primește cadouri
+ - Nu postăm fără permisiunea ta
+"
+nickname.default,Jucător
+nickname.default_friend,Iepuraș
+nickname.trainer,Antrenor #nickname
+nickname.tutorial_001,Antrenoarea Anna
+nickname.tutorial_002,Antrenorul Jonny
+nickname.tutorial_003,Antrenorul Polly
+nickname.you,Tu
+notification.daily_lead_1,👑 #Name a preluat conducerea în Provocarea Zilnică! Vrei să recâștigi primul loc?
+notification.daily_lead_2,👑 #Name a preluat conducerea în Provocarea Zilnică!
+notification.daily_lead_3,👑 Este fierbinte în Provocarea zilnică astăzi! #Name a revendicat primul loc.
+notification.daily_lead_4,👑 #Name a preluat conducerea. Vrei să recâștigi liderul în Provocare?
+notification.daily_lead_5,👑 Se pare că #Name tocmai te-a depășit în Provocarea zilnică.
+notification.daily_lead.meta,"@{""variants"":5}"
+notification.reminder_1,😏 Noi oponenți așteaptă cel mai promițător jucător! 😎
+notification.reminder_10,👸🤴 Cine va fi câștigătorul Provocării Zilnice astăzi?
+notification.reminder_11,🙄 Parcă am uitat toți cum a fost zdrobit de #PlayerName!
+notification.reminder_12,"💆 Ce zi frumoasă pentru a juca Skydom, nu-i așa? 💪"
+notification.reminder_13,🙈😬 Sunt câțiva băieți aici care visează să te învingă. Crezi că au șanse?
+notification.reminder_14,🐰 Iepurașul ți-a adus un cadou! Deschide? 🎁
+notification.reminder_15,"😎 #PlayerName, este timpul să câștigi din nou! 🕹"
+notification.reminder_16,👾👀 E timpul să faci o pauză și să câștigi în serie! 🤗
+notification.reminder_17,🌟🌟🌟 Nivelurile nu se vor termina singure! Să jucăm? 🥇😉
+notification.reminder_18,"#PlayerName, cineva vrea să te învingă. Crezi că va reuși? 😬😬😬"
+notification.reminder_19,👋 Este timpul să te relaxezi și să câștigi de câteva ori? 🤔
+notification.reminder_2,Nu toată lumea a pierdut încă la #PlayerName! Le dai o șansă?
+notification.reminder_20,🦄 Ai întâlnit vreodată Unicornul nostru Vrăjit?
+notification.reminder_3,🐷 Magia Porcusorului te așteaptă! 🐽
+notification.reminder_4,🙈 Nu am mai văzut cel mai bun jucător de Match3 de ceva vreme! El mai este încă aici? 👀
+notification.reminder_5,🏆 Ai avut deja o victorie astăzi?
+notification.reminder_6,❤️❤️❤️❤️❤️ Toate viețile au fost reîncărcate! E timpul să câștigi!
+notification.reminder_7,🖐🎟 5 de tokenuri așteaptă să fie cheltuite!
+notification.reminder_8,🐰😍 Iepurașul ți-a pregătit un cadou! 🎁
+notification.reminder_9,👑💎 Provocarea zilnică a început! Cine va obține coroana și o grămadă de pietre prețioase?
+ny.button_claim,Deschide cadou
+ny.button_next_in,Cadou în: #time
+ok_login_failed.message,Nu s-a putut conecta la Odnoklassniki. Încercați din nou?
+ok.share_tick,Partaja
+out_of_moves.continue_buy_moves,Joacă #price
+out_of_moves.continue_watch,Urmări
+out_of_moves.give_up,Renunța
+out_of_moves.press_to_view,"Apasă aici pentru 
+a vedea tabla"
+out_of_moves.title.almost_there,Aproape...
+out_of_moves.title.regular,S-au terminat mutările
+outofgems.button,Magazin
+outofgems.message,Ai epuizat Gemurile. Vizitează Magazinul pentru a obține mai multe!
+outofgems.title,Nu sunt destule Gemuri
+page.loading.hint_1,Se încarcă...
+page.loading.hint_2,Efecte de renderizare 💎💎💎
+page.loading.hint_3,"Nu vă faceți griji, nu este blocat! 😜"
+page.loading.hint_4,🚀 Jocul va fi încărcat curând! 🚀
+page.loading.hint_5,Primul timp de încărcare durează puțin mai mult👌
+page.loading.hint_6,🔥 Aproape gata...👾
+page.loading.hint_7,Doar puțin rămas 😊
+placeholder.hint_daily,Completează 10 nivele pentru a debloca!
+placeholder.timestring,12 ore 34 minute 56 secunde
+placeholder.title_daily,"Provocare zilnică
+Blocată"
+popup_name.accept_name,Continuă
+popup_name.not_now,Nu acum
+prelevel_text.002,"Colectați mai multe <font color=""\#ff5503"">Piețe Galbene</font> decât oponentul dvs.!"
+prelevel_text.004,"Colectați mai multe <font color=""\#ff8800"">Morcovi</font> decât oponentul dvs.!"
+prelevel_text.006,"Curăță mai mult <font color=""\#4499ff"">Gheață</font> decât oponentul tău!"
+promo_reforged.button,Revendică!
+promo_reforged.text,"Uraaa! Am lansat un nou mod de joc - Skydom Reforged! Pentru a sărbători lansarea, oferim un pachet Mega Booster gratuit! Să-l revendicăm acum?"
+promo_reforged.title,Skydom Reforjat!
+rate_us.description,Cum ți se pare Skydom?
+rate_us.feedback.cancel,Nu acum
+rate_us.feedback.description,Introduceți adresa dvs. de e-mail dacă doriți să primiți un răspuns.
+rate_us.feedback.email_hint,E-mail
+rate_us.feedback.message_hint,Cum putem îmbunătăți jocul pentru tine?
+rate_us.feedback.submit,Trimite
+rate_us.star_1,O urât
+rate_us.star_2,Nu-mi place
+rate_us.star_3,E în regulă
+rate_us.star_4,Mi-a plăcut
+rate_us.star_5,Mi-a plăcut
+rate_us.submit,Trimite
+rate_us.write_review.cancel,Nu acum
+rate_us.write_review.google_play,Împărtășește-ți gândurile despre joc sau evaluează-l pe Google Play!
+rate_us.write_review.submit,Cu plăcere!
+rate_us.write_review.yandex,Împărtășește-ți gândurile despre joc sau evaluează-l pe Yandex Games!
+rematch_pvp.asks_for_rematch_draw,#name vrea să încerce din nou
+rematch_pvp.asks_for_rematch_player_lose,#name oferă o revanșă!
+rematch_pvp.asks_for_rematch_player_won,#name vrea un meci de revanșă!
+reward.coins,Monede
+reward.gems,Geme
+reward.lives,Vieți
+reward.prelevel.add_bomb,Booster Bombă
+reward.prelevel.add_line,Booster Linie
+reward.prelevel.add_omni,Booster de Trăsnet
+reward.prelevel.add_tint,Booster Vopsitor
+reward.prelevel.double_fly,Booster Licurici x2
+reward.tickets,Tokenuri
+reward.undo,Anulări
+search.cannot_connect,Fără conexiune la internet
+search.failed,Ooops! Ceva a mers prost...
+search.loading,Se încarcă...
+search.playing_with_trainer,Joacă cu antrenorul
+search.readying,Oponent găsit!
+search.readying_rematch,Gata de start!
+search.rejected,Adversarul a fugit
+search.searching,Căutare oponent...
+search.vs,VS
+search.waiting_opp,Așteptând oponentul...
+settings.change_avatar,Schimbă Poza de Profil
+settings.change_avatar.connect_fb,Conectați
+settings.change_avatar.continue,Continuă
+settings.change_avatar.title,Alege o poză de profil nouă
+settings.change_avatar.warning,"Notă: 
+- Poți schimba poza de profil doar O DATĂ
+- Conectează-te la Facebook pentru a folosi poza de profil de pe Facebook"
+settings.change_avatar.warning_no_fb,Notă: Poți schimba poza de profil doar O DATĂ.
+settings.change_name,Schimbă Numele
+settings.change_name.accept_name,Continuă
+settings.change_name.do_not_match,Numele nu se potrivesc. Te rugăm să încerci din nou.
+settings.change_name.edit,Introduceți un nume nou:
+settings.change_name.reenter,Reintroduceți noul dvs. nume:
+settings.change_name.same_name,Numele nou se potrivește cu cel existent
+settings.change_name.too_long,Acest nume este prea lung - limita de 15 simboluri
+settings.change_name.too_short,Acest nume este prea scurt =)
+settings.change_name.warning,Notă: Puteți schimba numele doar O DATĂ.
+settings.confirm_avatar.cancel,Anulare
+settings.confirm_avatar.change,Schimbă
+settings.confirm_avatar.title,Sigur doriți să schimbați poza de profil? Poza de profil nouă:
+settings.confirm_avatar.warning,Notă: Poți schimba poza de profil doar O DATĂ.
+settings.confirm_name.cancel,Anulare
+settings.confirm_name.change,Confirmă
+settings.confirm_name.title,Ești sigur că vrei să-ți schimbi numele? Noul tău nume va fi:
+settings.confirm_name.warning,Notă: Puteți schimba numele doar O DATĂ.
+settings.connect_fb,Conectați Facebook
+settings.connect_ok,Conectați Odnoklassniki
+settings.connect_vk,Conectați VK
+settings.connect_y8,Conectați Y8
+settings.connect_yandex,Conectați Yandex
+settings.connected_fb,Facebook
+settings.connected_ok,Odnoklassniki
+settings.connected_vk,VK
+settings.connected_y8,Y8
+settings.connected_yandex,Yandex
+settings.coupon,Cod Promo
+settings.coupon_title,Cod Promo
+settings.coupon.enter,Aplica
+settings.coupon.enter_hint,Introduceți codul promo aici
+settings.coupon.invalid_code,"<font color=""\#e90047"">Acest cod nu este valid. Te rugăm să încerci un alt cod."
+settings.coupon.missing_code,"<font color=""\#e90047"">Introdu codul promoțional"
+settings.coupon.ok,Codul a fost redimensionat cu succes!
+settings.credits,Credite
+settings.eula,Termenii și condițiile
+settings.fb_hint,Conectați-vă la Facebook pentru a juca cu prietenii și a sincroniza progresul
+settings.general,GENERAL
+settings.generate_key,Creați cod
+settings.invite_friends,Invitați prietenii
+settings.language,Limbă
+settings.language_header,ALEGEȚI LIMBA
+settings.move_hints,Sugestii de joc
+settings.music,Muzică
+settings.networks,Conexiuni
+settings.networks_hint,Conectați rețelele sociale pentru a juca cu prietenii și a sincroniza progresul
+settings.notifications,Notificări
+settings.notifications.daily,Provocare zilnică
+settings.notifications.disable_all,Dezactivați toate
+settings.notifications.disable_night,Dezactivați de la ora 23 la ora 8
+settings.notifications.gifts,Cadouri
+settings.notifications.others,Alte notificări
+settings.open_support,Suportul jucătorului
+settings.open_vk_group,Grupul Jocurilor
+settings.player_id,Copiați ID-ul jucătorului
+settings.policy,Politica de confidențialitate
+settings.rate_us,Evaluați-ne
+settings.report_problem,Raportați o problemă
+settings.sound,Sunet
+settings.support,SUSȚINERE
+settings.telegram_channel,Urmați canalul nostru Telegram
+settings.telegram_channel_hint,Toate ultimele știri despre Skydom
+settings.telegram_support,Chat fan în Telegram
+settings.title,Setări
+settings.update,Actualizați
+settings.y8_hint,Conectează-te la Y8 pentru a sincroniza progresul tău online!
+settings.yandex_hint,Conectează-te la Yandex pentru a sincroniza progresul tău online!
+shop.gems_restored.accept,Excelent!
+shop.gems_restored.title,Achiziția de Gemuri completată
+shop.not_available,Nu este disponibil
+shop.remove_ads_remain_time,Fără reclame pentru #time
+shop.remove_ads_text,"Ștergeți reclamele dintre nivele
+cu orice achiziție
+"
+shop.remove_ads_timed,"Ștergeți reclamele dintre nivele
+cu orice achiziție pentru o lună"
+social_notification.button,Conectați
+social_notification.message,Conectează-te la o rețea socială pentru a sincroniza progresul tău online!
+social_notification.no_post_hint,Nu vom posta nimic fără permisiunea ta.
+social_notification.title,Salvează-ți progresul
+social_share.button,Partaja
+social_share.chooser_hint,Partajează prin
+social_share.message,Hei! Ai văzut vreodată acest joc Match-3 unic cu jucători reali? Descarcă-l de la https://PecPoc.com
+social_share.subject,Verificați noul joc distractiv - Skydom
+social_share.title,"Distribuie Skydom!
+Este mai distractiv să joci cu prietenii!"
+tempkey_login.button,Continuă
+tempkey_login.empty_key,Nu ai introdus niciun cod
+tempkey_login.input.default_hint,Introdu codul
+tempkey_login.invalid_key,Cod greșit
+tempkey_login.message_top,"Continuă să joci aici - obține codul de unde ai jucat înainte în Setări sub ""Crează cod""."
+tempkey_login.no_connection,Nu s-a putut conecta
+tempkey.fail.button,OK
+tempkey.fail.message,Verificați conexiunea la internet sau încercați mai târziu
+tempkey.fail.title,Nu am putut crea codul
+tempkey.ok.copied,Copiat!
+tempkey.ok.copy,Copiază
+tempkey.ok.hint,Codul expiră după 4 ore.
+tempkey.ok.message,#tempkey
+tempkey.ok.title,Codul tău:
+tickets_shop.boost_text,x2 viteză de reumplere
+tickets_shop.buy_all,Cumpăra #amount
+tickets_shop.hint,Aveți nevoie de jetoane pentru a juca în Provocarea zilnică
+tickets_shop.hint_out_of,"<font color=""\#e90047"">Nu mai sunt jetoane norocoase</font>"
+tickets_shop.recharge,Un nou jeton în: #time
+tickets_shop.title,Bilete fericite
+tickets_shop.watch_ad_button,A urmări
+tickets_shop.watch_ad_text,Obține 1 gratuit
+time.days_hours,"#days<font size=""-15""> </font><font size=""-10"">d</font> #hours<font size=""-15""> </font><font size=""-10"">h</font>"
+time.hours,"#hours<font size=""-15""> </font><font size=""-10"">h</font>"
+time.hours_minutes,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #minutes<font size=""-15""> </font><font size=""-10"">min</font>"
+time.hours_minutes_seconds,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #minutes<font size=""-15""> </font><font size=""-10"">min</font> #seconds<font size=""-15""> </font><font size=""-10"">sec</font>"
+time.hours_seconds,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #seconds<font size=""-15""> </font><font size=""-10"">sec</font>"
+time.less_than_minute,"1<font size=""-15""> </font><font size=""-10"">min</font>"
+time.minutes,"#minutes<font size=""-15""> </font><font size=""-10"">min</font>"
+time.minutes_seconds,"#minutes<font size=""-15""> </font><font size=""-10"">min</font> #seconds<font size=""-15""> </font><font size=""-10"">sec</font>"
+time.seconds,"#seconds<font size=""-15""> </font><font size=""-10"">sec</font>"
+tutorial_home.play,Joacă
+tutorial.001.dialog_tutorial,"Potriviți <font color=""\#5885b8"">3 piese de aceeași culoare într-o linie</font> pentru a le elimina."
+tutorial.001.hint,"Scopul
+Colectați 12 piese verzi!"
+tutorial.001.turn_1,Potriviți 3 piese de aceeași culoare schimbându-le pe cele adiacente!
+tutorial.002.hint,Colectați mai multe piese galbene decât oponentul dvs.!
+tutorial.skip,Sari
+undo_shop.buy_undos,Obține #count
+undo_shop.hint,Anulare revine la ultima mutare
+undo_shop.recharge,Următorul anulare în: #time
+undo_shop.title,Anulare
+undo_shop.watch_ad_button,A urmări
+undo_shop.watch_ad_text,Obține 1 gratuit
+undo_shop.you_have,Ai #amount de anulări
+update.button,Actualizați
+update.new_version,Actualizați la ultima versiune!
+update.new_version_value,"<font color=""\#5885b8"">#version"
+update.old_version,Folosiți o versiune mai veche
+update.old_version_value,"<font color=""\#a5a7aa"">#version"
+update.text,"Folosiți o versiune veche.
+Vă rugăm să actualizați la ultima versiune!"
+update.title,Versiunea nouă este disponibilă!
+update.web.button,Reîmprospăta
+update.web.message,Vă rugăm să reîmprospătați pagina.
+update.web.title,Versiunea nouă este disponibilă!
+vk_login_failed.message,Nu s-a putut conecta la VK. Încercați din nou?
+vk_promo.title,Cadou de la VK!
+vk.share_tick,Partaja
+watch_for_gems.button,A urmări
+watch_for_gems.text,+#amount
+web.webg_context_lost,"Contextul WebGL a fost pierdut, restaurând..."
+welcome_bonus.speech_1,"Bună, #PlayerName!
+Am câteva cadouri pentru tine.
+Alege unul!
+"
+welcome_bonus.speech_2,"Gândurile se materializează... Ohmmm!
+M-am gândit la câteva cadouri și uite ce s-a întâmplat =)"
+welcome_bonus.speech_3,Am găsit două coșuri în timp ce tu nu erai acolo! Deschide unul!
+welcome_bonus.speech_4,"Bună să te revăd, #PlayerName!
+Uită-te ce a căzut
+din nori!"
+welcome_bonus.speech_5,Stolii au zburat... Se pare că nu aduc doar copii! ;)
+welcome_bonus.speech_6,"Încântat să te revăd, #PlayerName!
+Alege un coş!
+"
+welcome_bonus.speech_7,"Te-am simțit atât de mult lipsa, #PlayerName, așa că am pregătit un mic cadou pentru tine!"
+welcome_bonus.speech_8,Lucruri ciudate se întâmplă. Stai liniștit și iată că două coșuri ies din senin!
+welcome_pack.open,Deschide
+welcome_pack.play,Joacă
+welcome_pack.speech_1,"Salut, #PlayerName! De când nu ne-am mai văzut! Și am un cadou pentru tine!"
+welcome_pack.speech_2,"Oooooo! #PlayerName, ce oameni! Mi-ai lipsit. Hai să deschidem cadoul și să jucăm!"
+welcome_pack.speech_3,"#PlayerName, bun să te văd din nou! Grăbește-te și deschide cutia."
+welcome_pack.speech_gift,"#PlayerName, avem un cadou special pentru tine =) Deschide-l repede!"
+welcome_pack.speech_reforged,"#PlayerName, avem un cadou special pentru tine =) Deschide-l repede!"
+y8_login_failed.message,Nu s-a putut conecta la Y8. Încercați din nou?
+yandex_login_failed.message,Nu s-a putut conecta la Yandex. Încercați din nou?
+yandex_notification.button,Conectați
+yandex_notification.message,Conectează-te la Yandex pentru a sincroniza progresul tău online!
+yandex_notification.title,Salvați progresul dvs.
+gamemode.capital.leaf,FRUNZE
+yandex_login_has_attachment.message,Un alt cont Yandex a fost conectat la acest profil de joc.
+fb_login_has_attachment.message,Un alt cont Facebook a fost conectat la acest profil de joc.
+ok_login_has_attachment.message,Un alt cont OK a fost conectat la acest profil de joc.
+vk_login_has_attachment.message,Un alt cont VK a fost conectat la acest profil de joc.
+y8_login_has_attachment.message,Un alt cont Y8 a fost conectat la acest profil de joc.
+android_app.text.beta,Dragi prieteni! Suntem bucuroși să vă anunțăm că lansăm testarea Beta a jocului nostru pe Android. Toată lumea este binevenită!
+bookmark.play,Acasă
+bookmark.quest,Misiuni
+chest_opening.bronze,Bronz
+chest_opening.continue,Ușor
+chest_opening.division,Divizia a III-a
+chest_opening.golden,Aur
+chest_opening.silver,Argint
+chest_opening.togoldenleague,"Poti sa atingi
+Liga de Aur?
+"
+chest_opening.welcome,"Bine ați venit la 
+Ligile Arena Match!"
+chest_opening.yourebronze,"Ai atins
+Liga de bronz III
+"
+chest.open,Deschide
+chest.opens_now,Minunat! Cutia este a ta pentru a o deschide!
+chest.wins_left_1,Încă o victorie!
+chest.wins_left_2,Doar 2 victorii și e al tău!
+chest.wins_left_3,Bine făcut! Încă 3 victorii!
+chest.wins_left_4,4 victorii pentru a deschide cutia!
+chest.wins_to_open,#num victorii pentru a deschide
+forge_help.block_1,Câștigă dueluri pentru a câștiga monede.
+forge_help.block_2,Folosește monedele pentru a porni Forjurile și pentru a obține bare de aur.
+forge_help.block_3,Colectați bare de aur pentru a urca în ligile superioare.
+forge_help.block_4,Ligile noi - niveluri noi!
+forge_help.continue,Am înțeles
+forge_help.title,Ligile și Forjările
+forge.add,Adăuga
+forge.boost,A mări
+forge.boost_free,"Să accelerăm această Forjă!
+
+Prima dată este gratuit!"
+forge.boost_free_ok,A mări
+forge.buy_1,Forja de bronz
+forge.buy_2,Forja de Argint
+forge.buy_3,Forja de Aur
+forge.buy_4,Forja Rubinei
+forge.buy_now,Adăuga
+forge.cheat_boost,TRĂDARE? TRĂDARE!
+forge.name_1,Fierărie de bronz
+forge.name_2,Forja de Argint
+forge.name_3,Forja de Aur
+forge.name_4,Forja Rubinei
+forge.not_enough_coins,Nu sunt suficiente monede pentru a începe
+forge.ok,OK
+forge.open,Deschide
+forge.open_now,Deschide acum
+forge.other_in_progress,Încă se lucrează la altă Forjă!
+forge.popup_boost,Accelerați -30 min
+forge.popup_boost_speedup,Accelerați -15 min
+forge.progress,#bars în: #time
+forge.speedup_no,Nu
+forge.speedup_offer,"Vrei să <font color=""\#5885b8"">accelerezi</font> viteza Forjării
+ <font color=""\#5885b8"">cu 2x?</font>"
+forge.speedup_ok,OK
+forge.speedup_success,Forjarea a fost accelerată!
+forge.speedup_yes,Da
+forge.start,Începe
+forge.time_1,3 ore
+forge.time_2,6 ore
+forge.time_3,12 ore
+forge.time_4,24 de ore
+forge.tutorial.collect_coins,Câștigați 1000 de monede pentru a porni Forja
+forge.tutorial.open_now,"Excelent! Topirea s-a încheiat!
+Putem deschide Forja!"
+forge.tutorial.smelt_more,Continuați să forjați bare de aur pentru a ajunge la următoarea divizie
+forge.tutorial.start_forge,"Bravo, ai câștigat 1000 de monede!
+Acum putem începe Forja!"
+forge.tutorial.wait_ready,Câștigă mai multe monede în timp ce Forja ta lucrează
+forge.watch_ad,A urmări
+gamemode.chocolate,Lavă
+gamemode.diamonds,Diamante
+gamemode.energycube,Gelatina
+gamemode.fishes,Morcovi
+gamemode.food,Ghinde
+gamemode.fossils,Octopuși
+gamemode.grass,Iarbă
+gamemode.honeybee,Urși
+gamemode.ice,Gheață
+gamemode.jam,Energie
+gamemode.road,Porcușor
+gamemode.stone,Pietre
+gamemode.tasks,Comenzi
+gamemode.tiles,Iarbă
+home.bars_need_more,Ai nevoie de #more
+home.bars_progress,#current / #total
+home.bet,Pariați #count monede
+home.coins,#count
+home.gems,#count
+home.hint_quest_book,Sunt disponibile noi misiuni!
+home.hint_quest_book.claim,Yay! Cineva va fi răsplătit!
+home.hint_quest_book.new,Uau! Misiune nouă!
+home.league_indev,Liga următoare vine curând!
+home.rematch.asks_for_rematch_draw,#name vrea să încerce din nou
+home.rematch.asks_for_rematch_player_lose,#name oferă o revanșă
+home.rematch.asks_for_rematch_player_won,#name cere o revanșă!
+home.xp,#count
+ingame_booster_shop.buy,Obține #count
+ingame_booster_shop.hint.cross,Folosiți bagheta magica pentru a elimina o linie și o coloană de piese.
+ingame_booster_shop.hint.hammer,Eliminați piesele cu ciocanul!
+ingame_booster_shop.hint.hand,Folosiți Mănușa pentru a schimba orice piese adiacente!
+ingame_booster_shop.title.cross,Bagheta Magica
+ingame_booster_shop.title.hammer,Ciocan
+ingame_booster_shop.title.hand,Mănușă
+league.Bronze,Liga de Bronz
+league.div_1,Divizia I
+league.div_2,Divizia II
+league.div_3,Divizia III
+league.div_4,Divizia IV
+league.div_5,Divizia V
+league.E001,Bronz III
+league.E002,Bronz II
+league.E003,Bronz I
+league.E004,Argint IV
+league.E005,Argint III
+league.E006,Argint II
+league.E007,Argint I
+league.E008,V de Aur
+league.E009,Aur IV
+league.E010,Aurul III
+league.E011,Aurul II
+league.E012,Aur I
+league.E013,Platina V
+league.E014,Platina IV
+league.E015,Platina III
+league.E016,Platina II
+league.E017,Platina I
+league.E018,Maestru 1
+league.Gold,Liga de Aur
+league.Master,Liga Maestrului
+league.MasterN,Maestru #div
+league.GrandMaster,Maestru suprem
+league.GrandMasterN,Maestru #div
+league.Platinum,Liga de Platină
+league.Silver,Liga de Argint
+levelup.continue,Minunat!
+levelup.reward,Recompensă
+levelup.title_division,"Felicitări!
+Divizie nouă!"
+levelup.title_league,"Felicitări!!
+Liga nouă!"
+ma2transfer.install,Instala
+ma2transfer.message,"Arena de Match-uri s-a mutat la noua aplicație!
+
+Important! Utilizați codul de mai jos pentru a transfera progresul dvs."
+nickname.tutorial_004,Sensei Mihai
+nickname.tutorial_005,Profesorul Frank
+nickname.tutorial_006,Regina Matcha
+nickname.tutorial_007,Profesorul Leo
+nickname.tutorial_008,Antrenorul Carl
+nickname.tutorial_009,Profesorul Barbos
+nickname.tutorial_010,Guru Vicky
+placeholder.hint_friends,Provocă-ți prietenii și arată ce poți!
+placeholder.hint_quests,"Ajunge la Liga de Bronz I
+pentru a descoperi!"
+placeholder.hint_settings,Va fi gata curând :)
+placeholder.title_friends,"Joacă cu prietenii
+în curând"
+placeholder.title_quests,"Provocări minunate
+Blocate"
+placeholder.title_settings,Setări în construcție
+quest_help.block_1,Completați misiunile pentru a primi recompense!
+quest_help.block_2,Completați toate misiunile pentru a deschide cutia.
+quest_help.block_3,"Terminați toate Quest-urile înainte de a trece în altă Divizie, altfel veți pierde coșul!"
+quest_help.continue,Am înțeles
+quest_help.title,Cartea de provocări
+quest.aquarium,Colectați #amount de pești
+quest.bar,#progress / #amount
+quest.bar_completed,Misiunea completă!
+quest.bar_last_try,Încercarea anterioară: #progress din #amount
+quest.bar_special_not_tried,#progress / #amount
+quest.best_so_far,Cel mai bun rezultat: #progress
+quest.butterfly,Colectați #amount fluturi
+quest.buy_now,Obține acum #amount
+quest.cat,Colectează #amount Puii de Pisică
+quest.chip_destroy,Colectează #amount de piese oricare
+quest.chip_destroy_bird,Colectează #amount de păsări
+quest.chip_destroy_blue,Colectați #amount piese albastre
+quest.chip_destroy_diamond,Colectați #amount Diamante
+quest.chip_destroy_fish,Colectați #amount de Morcovi
+quest.chip_destroy_fish_blue,Colectați #amount de morcovi albaștri
+quest.chip_destroy_fish_green,Colectați #amount de morcovi verzi
+quest.chip_destroy_fish_orange,Colectați #amount de morcovi portocalii
+quest.chip_destroy_fish_purple,Colectați #amount de morcovi purpurii
+quest.chip_destroy_fish_red,Colectați #amount de Morcovi roșii
+quest.chip_destroy_fish_yellow,Colectați #amount de morcovi galbeni
+quest.chip_destroy_food,Elimină #amount de Găinușe
+quest.chip_destroy_frog,Colectează #amount de Broaște
+quest.chip_destroy_green,Colectați #amount de piese verzi
+quest.chip_destroy_orange,Colectați #amount de piese portocalii
+quest.chip_destroy_purple,Colectați #amount piese violet
+quest.chip_destroy_red,Colectați #amount de piese roșii
+quest.chip_destroy_snail,Colectați #amount de melci
+quest.chip_destroy_super,Colectați #amount piese super
+quest.chip_destroy_wafer,Colectați #amount de minereuri de aur
+quest.chip_destroy_with_bomb,Colectați #amount piese folosind Bomba
+quest.chip_destroy_with_line,Colectați #amount piese cu bonusul Linie
+quest.chip_destroy_with_mine,Colectați #amount piese cu bonusul Fulger
+quest.chip_destroy_with_omni,Colectați #amount piese cu bonusul Fulger
+quest.chip_destroy_yellow,Colectați #amount piese galbene
+quest.chip_destroy_waterfish,Colectați #amount de pești de apă
+quest.chip_recolor,Recolorează #amount piese cu bonusul Vopsea
+quest.claim,Revendicați recompensa
+quest.complete_chest,Toate misiunile au fost finalizate
+quest.cover_destroy_bee,Colectează #amount Urși
+quest.cover_destroy_bound,Deblochează #amount piese
+quest.cover_destroy_chocolate,Eliminați #amount piese cu Lavă
+quest.cover_destroy_fizzblue,Colectați #amount de fizz
+quest.cover_destroy_fizzpurple,Colectează #amount de fizzuri
+quest.cover_destroy_frozen,Eliminați #amount de bucăți de gheață
+quest.cover_destroy_honey,Curăță #amount de piese cu Miere
+quest.cover_destroy_hotlava,Eliminați #amount piese de Lavă Fierbinte
+quest.cover_destroy_receiver_energycube,Colectați #amount de cristale de jeleu
+quest.cover_destroy_receiver_jam,Colectați #amount de cristale de energie
+quest.cover_destroy_statue,Colectează #amount câini
+quest.cover_destroy_stone,Eliminați #amount piese de piatră
+quest.cover_destroy_leaf,Ștergeți #amount frunze
+quest.division_done_card,Noi misiuni în următoarea divizie!
+quest.duck,Colectați #amount rațe
+quest.energy_flow,Trageți Energie prin #amount de piese
+quest.energycube_flow,Umple #amount de piese cu Gelatina
+quest.fossil,Colectează #amount de Octopuși
+quest.gum,Colectați #amount bucăți de gumă
+quest.new_quest,Noul quest!
+quest.new_quest_in,Următoarea misiune:
+quest.on_arena_splash_score,Scor #amount în Arena Boom!
+quest.on_arena_splash_use_bonus,Salvați #amount bonusuri pentru Arena Boom!
+quest.plate_destroy,Eliminați #amount Separări
+quest.play,Joacă
+quest.pvp_score,Scorul #amount în dueluri
+quest.reward,Recompensă:
+quest.snakes,Colectați #amount Șerpi
+quest.tile_destroy_gold,Colectați #amount de piese cu iarbă
+quest.tile_destroy_grass,Colectați #amount de piese cu iarbă
+quest.title,Cartea de provocări
+quest.use_bonus,Folosiți #amount bonusuri
+quest.use_bonus_bomb,Utilizați #amount bonusuri Bombă
+quest.use_bonus_line,Utilizați #amount bonusuri Linie
+quest.use_bonus_mine,Utilizați #amount bonusuri Licurici
+quest.use_bonus_omni,Folosiți bonusul Fulger de #amount ori
+quest.use_bonus_tint,Utilizați #amount bonusuri Vopsire
+quest.use_combo_bomb_bomb,Realizați bonusul combo Bombă + Bombă de #amount ori
+quest.use_combo_bomb_omni,Realizați bonusul combo Fulger + Bombă #amount de ori
+quest.use_combo_bomb_tint,Realizați bonusul combo Vopsea + Bombă #amount de ori
+quest.use_combo_line_bomb,Realizați bonusul combo Bombă + Linie de #amount ori
+quest.use_combo_line_line,Realizați bonusul combo Linie + Linie de #amount ori
+quest.use_combo_line_omni,Realizați bonusul combo Fulger + Linie #amount de ori
+quest.use_combo_line_tint,Realizați bonusul combo Vopsea + Linie de #amount ori
+quest.use_combo_mine_bomb,Faceți combo-bonus Bombă + Firefly #amount de ori
+quest.use_combo_mine_line,Faceți combo-bonus Firefly + Linie #amount de ori
+quest.use_combo_mine_mine,Realizați bonusul combo Firefly + Firefly de #amount ori
+quest.use_combo_mine_omni,Realizați bonusul combo Fulger + Licurici #amount de ori
+quest.use_combo_mine_tint,Faceți bonusul combo Vopsea + Firefly #amount de ori
+quest.use_combo_omni_omni,Realizați bonusul combo Fulger + Fulger de #amount ori
+quest.use_combo_omni_tint,Realizați bonusul combo Vopsea + Trăsnet #amount de ori
+quest.use_combo_tint_tint,Realizați bonusul combo Vopsea + Vopsea de #amount ori
+quest.walk,Du-te cu Porcușorul #amount pași
+quest.watch_for_new,- #time
+quest.win,Câștigă #amount dueluri
+quest.win_coins,Câștigă #amount de monede în dueluri
+quest.win_hard_level,Completați nivelul greu
+quest.win_rematch,Câștigă #amount de revanșe
+quest.win_streak,Câștigă #amount dueluri în rând
+quest.chip_destroy_clam,Colectați #amount de perle
+quest.chip_destroy_egg,Colectați #amount ouă
+quest.gardenflower,Colectați #amount flori
+quest.sausages,Colectați #amount de cârnați
+rematch.asks_for_rematch_draw,"#name dorește o altă încercare
+Pariază #bet"
+rematch.asks_for_rematch_player_lose,"#name oferă o revanșă
+Pariază #bet"
+rematch.asks_for_rematch_player_won,"#name vrea un meci de revanșă!
+Pariază #bet!"
+rematch.rematch_bet,Pariați #bet
+report.body,
+report.subject,Problema cu MatchArena
+reward.bars,Baruri de aur
+reward.coins_amt,+#amount
+reward.gems_amt,+#amount
+reward.levels,Noi niveluri
+reward.levels_amt,+#amount
+reward.levelup,"Felicitări!
+Nivel nou!"
+reward.new_levels,"Niveluri
+noi!"
+reward.talisman,Talismane
+reward.xp_amt,+#amount
+search.prize_fund,Fondul de premii
+settings.friends_and_partners,Prieteni și parteneri
+settings.language.help_us_translate,"Dacă doriți să ne ajutați să traducem Match Arena în limba pe care o vorbiți, trimiteți-ne un mesaj la <font color=""\#0000EE"">support@matcharenagame.com."
+settings.notifications.duels,Provocare la dueluri
+shop.indev,În curând!
+splash.hint_chocolate,Eliminați cât mai multă Lavă posibil
+splash.hint_diamonds,Colectați cât mai multe Diamante posibil
+splash.hint_energycube,Umple cât mai multe piese cu Jelly
+splash.hint_fishes,Colectați cât mai multe morcovi posibil
+splash.hint_food,Eliminați cât mai multe Gălbenușuri
+splash.hint_fossils,Salvați cât mai mulți Octopuși posibil
+splash.hint_honeybee,Colectați cât mai mulți Urși posibil
+splash.hint_ice,Eliminați cât mai mult Gheață posibil
+splash.hint_jam,Umple cât mai multe piese cu Energie
+splash.hint_road,Mergi Porcușor cât mai departe
+splash.hint_stone,Eliminați cât mai multe Pietre
+splash.hint_tasks,Completează cât mai multe Comenzi
+splash.hint_tiles,Colectați cât mai multă iarbă posibil
+splash.mode_chocolate,Obiectivul nivelului - Lava
+splash.mode_diamonds,Obiectivul nivelului - Diamante
+splash.mode_fishes,Obiectivul nivelului - Morcovi
+splash.mode_food,Obiectivul nivelului - Gălbenușuri
+splash.mode_jam,Obiectivul nivelului - Energie
+splash.mode_road,Obiectivul nivelului - Purcelusul
+splash.mode_tasks,Obiectivul nivelului - Comenzi
+splash.mode_tiles,Obiectivul nivelului - Iarbă
+talismans_shop.ask_button,Facebook
+talismans_shop.ask_text,Cere prietenilor
+talismans_shop.boost_text,x2 viteză de reumplere
+talismans_shop.buy_all,Obține #amount pentru
+talismans_shop.hint,Monedele dublate câștigate
+talismans_shop.recharge,Talismanul următor în: #time
+talismans_shop.title,Talismane
+talismans_shop.watch_ad_button,A urmări
+talismans_shop.watch_ad_text,Obține 1 gratuit
+tickets_shop.ask_button,Facebook
+tickets_shop.ask_text,Cere prietenilor
+tutorial.001.collect_more_fishes,"Colectați cât mai multe <font color=""\#5885b8"">Morcovi</font> posibil."
+tutorial.001.continue_to_collect_fishes,Continuă să colectezi Morcovi!
+tutorial.001.first_swap_red_down,"Mută piesa roșie în jos
+pentru a face <font color=""\#5885b8"">o linie de trei</font>"
+tutorial.001.remind_collect_three_in_a_row,"Colectați <font color=""\#5885b8"">trei piese</font> de aceeași culoare <font color=""\#5885b8"">în linie</font>"
+tutorial.001.second_swap_green_left,"Mută piesa verde spre stânga
+pentru a face <font color=""\#5885b8"">o linie de trei</font>"
+tutorial.001.third_swap_fish,"<font color=""\#5885b8"">Morcovi</font> de asemenea pot fi potriviți în trei în rând"
+tutorial.001.you_are_doing_well,Faci bine!
+tutorial.002.get_bonus_line,"...pentru a obține <font color=""\#5885b8"">bonus - Linie!</font>"
+tutorial.002.try_four_in_a_row,"Încearcă să asamblezi <font color=""\#5885b8"">patru în linie!</font>"
+tutorial.002.use_line_bonus,"Potriviți <font color=""\#5885b8"">trei în rând cu bonus</font> pentru a vedea puterea Liniei!"
+tutorial.003.hint,Colectați mai multe morcovi decât oponentul tău!
+tutorial.003.try_l_or_t,"Potriviți piesele <font color=""\#5885b8"">într-o formă de T sau L!</font>"
+tutorial.003.use_bomb_bonus,"...pentru a obține <font color=""\#5885b8"">bonus - Bomba!</font>
+Să o facem praf!"
+tutorial.004.clear_gold_tiles,"Fă potriviri pe <font color=""\#5885b8"">Iarbă</font>
+pentru a o colecta!"
+tutorial.004.combine_omni_with_blue,"Schimbați piesa <font color=""\#5885b8"">Lightning</font> cu piesa albastră pentru a elimina toate piesele albastre de pe tablă!"
+tutorial.004.try_five_in_a_row,"Încearcă să obții <font color=""\#5885b8"">5 în rând!</font>"
+tutorial.005.two_bonus_can_combine,"Orice <font color=""\#5885b8"">două bonusuri pot fi unite</font> pentru a obține un bonus și mai mare!"
+tutorial.007.collect_food,"Faceți potriviri lângă <font color=""\#5885b8"">Găinușe</font>"
+tutorial.007.move_character,"Aduna gălbenușuri pentru a <font color=""\#5885b8"">muta Porcușorul înainte!</font>"
+tutorial.008.make_mine_bonus,"Potrivește <font color=""\#5885b8"">patru piese într-un pătrat</font> și primești un bonus - Licurici!"
+tutorial.008.use_mine_bonus,"Potrivește trei în rând cu <font color=""\#5885b8"">Făclia</font> pentru a o folosi!"
+tutorial.009.make_tint_bonus,"Faceți o <font color=""\#5885b8"">mare formă de T</font> și
+obțineți un bonus - Vopsea!"
+tutorial.009.use_tint_bonus,"<font color=""\#5885b8"">Vopseaua</font> poate fi schimbată cu orice piesă!"
+level_popup.adventure.title,Nivel
+lives_shop.ma_hint,"Ai nevoie de vieți pentru
+a continua să joci Aventura"

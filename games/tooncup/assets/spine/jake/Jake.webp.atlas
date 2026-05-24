@@ -1,0 +1,230 @@
+
+Jake.webp
+size: 459,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jake-Ear
+  rotate: true
+  xy: 271, 711
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+Jake-Effects
+  rotate: true
+  xy: 170, 132
+  size: 103, 270
+  orig: 103, 270
+  offset: 0, 0
+  index: -1
+Jake-Face
+  rotate: true
+  xy: 170, 237
+  size: 239, 222
+  orig: 239, 222
+  offset: 0, 0
+  index: -1
+Jake-Hip-Patch
+  rotate: false
+  xy: 2, 478
+  size: 226, 227
+  orig: 226, 227
+  offset: 0, 0
+  index: -1
+Jake-L-Eye
+  rotate: true
+  xy: 353, 751
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1
+Jake-L-Eyebrow
+  rotate: false
+  xy: 103, 14
+  size: 98, 48
+  orig: 98, 48
+  offset: 0, 0
+  index: -1
+Jake-L-Handa-full
+  rotate: false
+  xy: 394, 298
+  size: 39, 183
+  orig: 39, 183
+  offset: 0, 0
+  index: -1
+Jake-Moustache
+  rotate: false
+  xy: 203, 5
+  size: 145, 125
+  orig: 145, 125
+  offset: 0, 0
+  index: -1
+Jake-Mouth-Idle
+  rotate: false
+  xy: 394, 242
+  size: 35, 12
+  orig: 35, 12
+  offset: 0, 0
+  index: -1
+Jake-Mouth-Sad
+  rotate: false
+  xy: 379, 2
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+Jake-Nose
+  rotate: false
+  xy: 397, 715
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+Jake-R-Eye
+  rotate: true
+  xy: 271, 929
+  size: 101, 95
+  orig: 101, 95
+  offset: 0, 0
+  index: -1
+Jake-R-Eyebrow
+  rotate: true
+  xy: 379, 31
+  size: 99, 42
+  orig: 99, 42
+  offset: 0, 0
+  index: -1
+Jake-R-Handa
+  rotate: false
+  xy: 350, 3
+  size: 27, 127
+  orig: 27, 127
+  offset: 0, 0
+  index: -1
+Jake-R-Handa-full
+  rotate: false
+  xy: 271, 747
+  size: 39, 180
+  orig: 39, 180
+  offset: 0, 0
+  index: -1
+Jake-R-Palm
+  rotate: true
+  xy: 424, 5
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+Jake-R-Palm-Idle
+  rotate: false
+  xy: 409, 859
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+Jake-R-Shoe
+  rotate: true
+  xy: 409, 956
+  size: 74, 45
+  orig: 74, 45
+  offset: 0, 0
+  index: -1
+Jake-R-Shorts
+  rotate: true
+  xy: 2, 8
+  size: 54, 99
+  orig: 54, 99
+  offset: 0, 0
+  index: -1
+Jake-Shadow
+  rotate: true
+  xy: 2, 64
+  size: 412, 166
+  orig: 412, 166
+  offset: 0, 0
+  index: -1
+Jake-Tail
+  rotate: true
+  xy: 409, 906
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+Jake-Tshirt-corner
+  rotate: false
+  xy: 230, 483
+  size: 199, 222
+  orig: 199, 222
+  offset: 0, 0
+  index: -1
+R-Stripe
+  rotate: false
+  xy: 442, 157
+  size: 11, 97
+  orig: 11, 97
+  offset: 0, 0
+  index: -1
+R-Stripe-1
+  rotate: true
+  xy: 437, 851
+  size: 53, 20
+  orig: 53, 20
+  offset: 0, 0
+  index: -1
+pocket
+  rotate: true
+  xy: 170, 80
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+pocket-1
+  rotate: true
+  xy: 353, 708
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+tint-Jake-Body
+  rotate: true
+  xy: 2, 707
+  size: 323, 267
+  orig: 323, 282
+  offset: 0, 15
+  index: -1
+tint-Jake-Brand
+  rotate: true
+  xy: 316, 716
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+tint-Jake-L-Handa-1
+  rotate: false
+  xy: 368, 847
+  size: 39, 183
+  orig: 39, 183
+  offset: 0, 0
+  index: -1
+tint-Jake-R-Handa-1
+  rotate: false
+  xy: 312, 747
+  size: 39, 180
+  orig: 39, 180
+  offset: 0, 0
+  index: -1
+tint-Jake-R-Shoulder
+  rotate: true
+  xy: 394, 256
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+tint-Jake-R-Socks
+  rotate: false
+  xy: 423, 46
+  size: 34, 84
+  orig: 34, 84
+  offset: 0, 0
+  index: -1

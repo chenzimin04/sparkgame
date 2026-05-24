@@ -1,0 +1,349 @@
+
+Supergirl.webp
+size: 586, 523
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Supergirl-Effect-Base
+  rotate: false
+  xy: 2, 326
+  size: 223, 95
+  orig: 223, 95
+  offset: 0, 0
+  index: -1
+Supergirl-Effect-Particle
+  rotate: false
+  xy: 117, 2
+  size: 8, 12
+  orig: 10, 14
+  offset: 1, 1
+  index: -1
+Supergirl-Effect-White
+  rotate: false
+  xy: 330, 466
+  size: 175, 55
+  orig: 175, 55
+  offset: 0, 0
+  index: -1
+Supergirl-Eye-Patch-L
+  rotate: false
+  xy: 476, 345
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+Supergirl-Eye-Patch-R
+  rotate: true
+  xy: 458, 5
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+Supergirl-Face
+  rotate: false
+  xy: 328, 252
+  size: 99, 91
+  orig: 99, 91
+  offset: 0, 0
+  index: -1
+Supergirl-Face_2
+  rotate: false
+  xy: 429, 252
+  size: 99, 91
+  orig: 99, 91
+  offset: 0, 0
+  index: -1
+Supergirl-Hair
+  rotate: false
+  xy: 2, 197
+  size: 161, 127
+  orig: 162, 127
+  offset: 1, 0
+  index: -1
+Supergirl-Hair-front
+  rotate: false
+  xy: 507, 425
+  size: 77, 96
+  orig: 77, 96
+  offset: 0, 0
+  index: -1
+Supergirl-Hip-Patch
+  rotate: true
+  xy: 71, 2
+  size: 80, 44
+  orig: 80, 44
+  offset: 0, 0
+  index: -1
+Supergirl-Hip-Patch_2
+  rotate: true
+  xy: 482, 436
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+Supergirl-L-Elbow
+  rotate: false
+  xy: 215, 70
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+Supergirl-L-Hand
+  rotate: true
+  xy: 410, 117
+  size: 32, 70
+  orig: 32, 70
+  offset: 0, 0
+  index: -1
+Supergirl-L-Palm-1
+  rotate: true
+  xy: 500, 346
+  size: 30, 36
+  orig: 34, 41
+  offset: 2, 2
+  index: -1
+Supergirl-L-Palm-2
+  rotate: true
+  xy: 159, 4
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+Supergirl-L-Palm-3
+  rotate: false
+  xy: 338, 115
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1
+Supergirl-L-Palm-open
+  rotate: false
+  xy: 512, 132
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+Supergirl-L-Shoe
+  rotate: true
+  xy: 228, 7
+  size: 61, 33
+  orig: 61, 33
+  offset: 0, 0
+  index: -1
+Supergirl-L-Shorts
+  rotate: false
+  xy: 512, 165
+  size: 58, 85
+  orig: 58, 85
+  offset: 0, 0
+  index: -1
+Supergirl-L-Socks-Leg
+  rotate: true
+  xy: 330, 400
+  size: 64, 150
+  orig: 64, 150
+  offset: 0, 0
+  index: -1
+Supergirl-L-Thigh
+  rotate: true
+  xy: 512, 73
+  size: 57, 63
+  orig: 58, 63
+  offset: 1, 0
+  index: -1
+Supergirl-Neck
+  rotate: true
+  xy: 2, 2
+  size: 80, 67
+  orig: 80, 67
+  offset: 0, 0
+  index: -1
+Supergirl-R-Elbow
+  rotate: true
+  xy: 544, 346
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+Supergirl-R-Hand
+  rotate: true
+  xy: 338, 82
+  size: 31, 68
+  orig: 31, 68
+  offset: 0, 0
+  index: -1
+Supergirl-R-Palm
+  rotate: false
+  xy: 544, 381
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+Supergirl-R-Palm-1
+  rotate: true
+  xy: 406, 6
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+Supergirl-R-Palm-4
+  rotate: false
+  xy: 530, 256
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+Supergirl-R-Palm2
+  rotate: false
+  xy: 117, 16
+  size: 40, 66
+  orig: 40, 66
+  offset: 0, 0
+  index: -1
+Supergirl-R-Palm3
+  rotate: false
+  xy: 491, 15
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+Supergirl-R-Shoe
+  rotate: false
+  xy: 530, 299
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+Supergirl-R-Shorts
+  rotate: true
+  xy: 310, 185
+  size: 65, 99
+  orig: 65, 99
+  offset: 0, 0
+  index: -1
+Supergirl-R-Socks-Leg
+  rotate: true
+  xy: 328, 345
+  size: 53, 146
+  orig: 53, 146
+  offset: 0, 0
+  index: -1
+Supergirl-R-Thigh
+  rotate: true
+  xy: 266, 52
+  size: 59, 68
+  orig: 60, 68
+  offset: 0, 0
+  index: -1
+Supergirl-Shadow
+  rotate: false
+  xy: 2, 423
+  size: 326, 98
+  orig: 326, 98
+  offset: 0, 0
+  index: -1
+Supergirl-cape
+  rotate: false
+  xy: 2, 84
+  size: 156, 111
+  orig: 156, 111
+  offset: 0, 0
+  index: -1
+Supergirl-celeb-L-Palm
+  rotate: false
+  xy: 482, 378
+  size: 60, 45
+  orig: 60, 45
+  offset: 0, 0
+  index: -1
+Supergirl-celeb-L-Palm1
+  rotate: false
+  xy: 480, 75
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Supergirl-celeb-R-Palm
+  rotate: false
+  xy: 266, 113
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+Supergirl-eye-left
+  rotate: true
+  xy: 549, 25
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+Supergirl-eye-right
+  rotate: true
+  xy: 482, 114
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+Supergirl-hand-hold-L
+  rotate: false
+  xy: 227, 322
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Supergirl-hand-hold-R
+  rotate: false
+  xy: 411, 151
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+tint-Supergirl-Body
+  rotate: false
+  xy: 224, 203
+  size: 84, 117
+  orig: 84, 117
+  offset: 0, 0
+  index: -1
+tint-Supergirl-L-Shoulder
+  rotate: false
+  xy: 215, 120
+  size: 49, 73
+  orig: 49, 73
+  offset: 0, 0
+  index: -1
+tint-Supergirl-L-Socks
+  rotate: false
+  xy: 165, 195
+  size: 57, 129
+  orig: 57, 130
+  offset: 0, 0
+  index: -1
+tint-Supergirl-R-Shoulder
+  rotate: true
+  xy: 263, 4
+  size: 46, 65
+  orig: 46, 65
+  offset: 0, 0
+  index: -1
+tint-Supergirl-R-Socks
+  rotate: false
+  xy: 160, 66
+  size: 53, 127
+  orig: 53, 132
+  offset: 0, 0
+  index: -1
+tint-Supergirl-shoulder-hold-L
+  rotate: true
+  xy: 336, 13
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+tint-Supergirl-shoulder-hold-R
+  rotate: true
+  xy: 410, 48
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1

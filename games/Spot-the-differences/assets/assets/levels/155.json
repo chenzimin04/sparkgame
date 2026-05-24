@@ -1,0 +1,27 @@
+{
+   "resolution":"standard",
+   "image1":"flower_petals_a.jpg",
+   "image2":"flower_petals_b.jpg",
+   "differences":[
+      {
+         "x":486.5,
+         "y":166.0,
+         "size":240.29999999999998
+      },
+      {
+         "x":474.5,
+         "y":418.0,
+         "size":152.1
+      },
+      {
+         "x":264.5,
+         "y":394.0,
+         "size":161.9
+      },
+      {
+         "x":949.5,
+         "y":396.0,
+         "size":157.0
+      }
+   ]
+}

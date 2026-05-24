@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>>
+
+<screen name="uiScreenPopUp" template="tPopUpJennyHappy" label="SID_STREAK" >		
+	<element name="uiContent">
+		<text halignText="center" valignText="top" template="tFontWhite,tFontMedium,tElement" text="SID_STREAK_INFO" margin="50" />
+		
+		<element width="300" ratio="1.0" halign="center" valign="center" y="130" >
+			<element halign="center" valign="center" template="tRays" scale="3.0" />
+			<image name="uiImgStreak" image="dynamic/streak.png" template="tElement" />
+		</element>
+		
+		<button name="uiBtOk" label="SID_OK" template="tButton" halign="center" valign="bottom"/>
+	</element>
+	<image name="uiImgJennyFront" template="tJennyHappy" >
+		<state state="landscape" visible="true" height="2000" x="60" y="-940" />
+		<state state="portrait" visible="true" x="250" y="-640" />
+	</image>
+</screen>

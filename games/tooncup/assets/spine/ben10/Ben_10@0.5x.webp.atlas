@@ -1,0 +1,370 @@
+
+Ben_10@0.5x.webp
+size: 571,71
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ben-Effect-Base
+  rotate: false
+  xy: 266, 22
+  size: 111, 47
+  orig: 111, 47
+  offset: 0, 0
+  index: -1
+Ben-Effect-Particle
+  rotate: false
+  xy: 107, 1
+  size: 4, 6
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+Ben-Effect-White
+  rotate: false
+  xy: 434, 42
+  size: 87, 27
+  orig: 87, 27
+  offset: 0, 0
+  index: -1
+Ben-Eye-L-Full-Close
+  rotate: true
+  xy: 553, 37
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Ben-Eye-L-Half-Close
+  rotate: true
+  xy: 553, 54
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Ben-Eye-L-Tight-Close
+  rotate: false
+  xy: 535, 3
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Ben-Eye-Patch-L
+  rotate: true
+  xy: 226, 1
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+Ben-Eye-Patch-R
+  rotate: true
+  xy: 515, 9
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+Ben-Eye-R-Full-Close
+  rotate: true
+  xy: 129, 1
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+Ben-Eye-R-Half-Close
+  rotate: true
+  xy: 148, 1
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+Ben-Eye-R-Tight-Close
+  rotate: true
+  xy: 167, 1
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+Ben-Eye-White-L
+  rotate: false
+  xy: 552, 8
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+Ben-Eye-White-R
+  rotate: false
+  xy: 529, 33
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+Ben-Eyeball-L
+  rotate: true
+  xy: 520, 33
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+Ben-Eyeball-R
+  rotate: false
+  xy: 511, 33
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Ben-Eyebrow-L
+  rotate: false
+  xy: 89, 1
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+Ben-Eyebrow-R
+  rotate: false
+  xy: 69, 1
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+Ben-Face
+  rotate: false
+  xy: 1, 2
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+Ben-Hip-Patch
+  rotate: true
+  xy: 424, 30
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+Ben-L-Elbow
+  rotate: false
+  xy: 463, 5
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+Ben-L-Hand
+  rotate: false
+  xy: 443, 3
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+Ben-L-Leg
+  rotate: false
+  xy: 403, 30
+  size: 8, 40
+  orig: 8, 40
+  offset: 0, 0
+  index: -1
+Ben-L-Palm-Fall
+  rotate: false
+  xy: 461, 31
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+Ben-L-Palm-Fold
+  rotate: false
+  xy: 244, 2
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+Ben-L-Palm-Idle
+  rotate: false
+  xy: 381, 1
+  size: 9, 22
+  orig: 9, 22
+  offset: 0, 0
+  index: -1
+Ben-L-Palm-Open
+  rotate: true
+  xy: 203, 1
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+Ben-L-Shoe
+  rotate: false
+  xy: 276, 1
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+Ben-L-Shorts
+  rotate: true
+  xy: 336, 1
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+Ben-L-Thigh
+  rotate: false
+  xy: 408, 1
+  size: 7, 28
+  orig: 7, 28
+  offset: 0, 0
+  index: -1
+Ben-Mouth-Excited
+  rotate: true
+  xy: 481, 5
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+Ben-Mouth-Happy
+  rotate: false
+  xy: 102, 8
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+Ben-Mouth-Idle
+  rotate: true
+  xy: 507, 8
+  size: 23, 7
+  orig: 23, 7
+  offset: 0, 0
+  index: -1
+Ben-Mouth-Sad-Idle
+  rotate: false
+  xy: 112, 4
+  size: 13, 3
+  orig: 13, 3
+  offset: 0, 0
+  index: -1
+Ben-Neck
+  rotate: false
+  xy: 417, 1
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+Ben-R-Elbow
+  rotate: true
+  xy: 486, 33
+  size: 8, 24
+  orig: 8, 24
+  offset: 0, 0
+  index: -1
+Ben-R-Hand
+  rotate: false
+  xy: 454, 3
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+Ben-R-Leg
+  rotate: false
+  xy: 412, 30
+  size: 10, 39
+  orig: 10, 39
+  offset: 0, 0
+  index: -1
+Ben-R-Palm-Fall
+  rotate: false
+  xy: 439, 30
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+Ben-R-Palm-Fold
+  rotate: false
+  xy: 186, 1
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+Ben-R-Palm-Fold-1
+  rotate: false
+  xy: 261, 2
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+Ben-R-Palm-Idle
+  rotate: false
+  xy: 522, 47
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+Ben-R-Palm-Open
+  rotate: false
+  xy: 391, 2
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+Ben-R-Shoe
+  rotate: false
+  xy: 306, 1
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+Ben-R-Shorts
+  rotate: false
+  xy: 379, 24
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+Ben-R-Thigh
+  rotate: false
+  xy: 433, 2
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+Ben-Shadow
+  rotate: false
+  xy: 102, 21
+  size: 163, 49
+  orig: 163, 49
+  offset: 0, 0
+  index: -1
+Ben-Watch
+  rotate: true
+  xy: 546, 21
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+tint-Ben-Body
+  rotate: false
+  xy: 69, 8
+  size: 32, 62
+  orig: 32, 62
+  offset: 0, 0
+  index: -1
+tint-Ben-L-Shoulder
+  rotate: false
+  xy: 538, 48
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+tint-Ben-L-Socks
+  rotate: false
+  xy: 473, 5
+  size: 7, 25
+  orig: 7, 25
+  offset: 0, 0
+  index: -1
+tint-Ben-R-Shoulder
+  rotate: false
+  xy: 491, 8
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+tint-Ben-R-Socks
+  rotate: false
+  xy: 424, 41
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1

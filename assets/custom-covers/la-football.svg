@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#39b5ff"/>
+      <stop offset="1" stop-color="#0f5fb5"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="380" rx="24" fill="url(#sky)"/>
+  <rect y="254" width="640" height="126" fill="#4ea84a"/>
+  <path d="M0 276c64-20 126-24 190-9 68 16 135 16 223-7 93-24 160-18 227 5v115H0Z" fill="#68bc5d"/>
+  <path d="M198 286c50-40 112-58 191-58s141 18 212 58" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
+  <g transform="translate(104 112)">
+    <circle cx="0" cy="0" r="28" fill="#ffffff"/>
+    <polygon points="-8,-10 10,0 -8,10" fill="#ff9d2e"/>
+  </g>
+  <g transform="translate(164 62)">
+    <image href="../../games/La_Football/0b1feed11387470f694fc0b8cdd98913_icon.png" x="0" y="0" width="160" height="160" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+  <text x="344" y="126" fill="#ffffff" font-size="58" font-family="Segoe UI, Arial, sans-serif" font-weight="900">LA FOOTBALL</text>
+</svg>

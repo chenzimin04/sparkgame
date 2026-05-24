@@ -1,0 +1,27 @@
+{
+  "name": "Epic Blocollapse",
+  "short_name": "Epic Blocollapse",
+  "description": "Enter the world of 'Epic Block Collapse', where a colorful array of blocks rises steadily. Match them swiftly to prevent a tower from reaching the top.",
+  "start_url": "index.html",
+  "background_color": "#000000",
+  "theme_color": "#0f4a73",
+  "display": "fullscreen",
+  "orientation": "landscape",  
+  "icons": [
+  {
+    "src": "icon-256.png",
+    "sizes": "256x256",
+    "type": "image/png"
+  },
+  {
+	"src": "icon-192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },
+  {
+	"src": "icon-512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+  ]
+}

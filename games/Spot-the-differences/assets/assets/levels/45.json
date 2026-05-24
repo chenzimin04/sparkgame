@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "Mountain_magical_a.jpg",
+  "image2": "Mountain_magical_b.jpg",
+  "differences":
+  [
+    {
+    "x": 141.0,
+    "y": 495.0,
+    "size": 80.0
+    },
+    {
+    "x": 178.0,
+    "y": 297.0,
+    "size": 120.0
+    },
+    {
+    "x": 486.0,
+    "y": 527.0,
+    "size": 70.0
+    },
+    {
+    "x": 666.0,
+    "y": 422.0,
+    "size": 60.0
+    },
+    {
+    "x": 500.0,
+    "y": 161.0,
+    "size": 100.0
+    }
+  ]
+}

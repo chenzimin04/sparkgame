@@ -1,0 +1,23 @@
+{
+  "resolution": "standard",
+  "image1": "circus_a.jpg",
+  "image2": "circus_b.jpg",
+  "differences":
+  [
+    {
+      "x": 890.0,
+      "y": 91.0,
+      "size": 150.0
+    },
+    {
+      "x": 81.0,
+      "y": 52.0,
+      "size": 100.0
+    },
+    {
+      "x": 486.0,
+      "y": 600.0,
+      "size": 150.0
+    }    
+  ]
+}

@@ -1,0 +1,2529 @@
+{
+	"1": {
+		"shootRange": [
+			195.0,
+			225.0,
+			250.0
+		],
+		"vol": 0.92,
+		"bulletInterval": [
+			800.0,
+			560.0,
+			420.0
+		],
+		"bulletSpeed": 400,
+		"add10": [
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [],
+		"skin": "soliderA1_1",
+		"bulletNum": 1,
+		"cold": 2800,
+		"saleGold": [
+			96.0,
+			228.0,
+			390.0
+		],
+		"quality": 1,
+		"id": 1,
+		"iconStr": "p",
+		"buyGold": [
+			160.0,
+			220.0,
+			270.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 1,
+		"bulletSkin": "bulletA1",
+		"atkSound": "hit1",
+		"jumpNum": 0,
+		"add5": [
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"job": 1,
+		"cut": [
+			9.0,
+			12.0,
+			15.0
+		],
+		"hitSound": "",
+		"super": [],
+		"desc": "Brave soldiers with bows and arrows, loyal to their duty to defend their country.",
+		"remark": "Has a longer attack range, has a great advantage when clearing ground items.  ",
+		"name": "Archer",
+		"add1": [
+			3.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 12,
+		"turnSpeed": 2.35,
+		"flyType": 1,
+		"atk": [
+			70.0,
+			96.0,
+			118.0
+		],
+		"hurtRange": [],
+		"bombSkin": "hitA1"
+	},
+	"2": {
+		"shootRange": [
+			195.0,
+			235.0,
+			260.0
+		],
+		"vol": 1.0,
+		"bulletInterval": [
+			830.0,
+			590.0,
+			460.0
+		],
+		"bulletSpeed": 420,
+		"add10": [
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [],
+		"skin": "soliderB5_1",
+		"bulletNum": 1,
+		"cold": 5000,
+		"saleGold": [
+			102.0,
+			240.0,
+			408.0
+		],
+		"quality": 3,
+		"id": 2,
+		"iconStr": "p",
+		"buyGold": [
+			170.0,
+			230.0,
+			280.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 1,
+		"bulletSkin": "bulletB5",
+		"atkSound": "hit2",
+		"jumpNum": 0,
+		"add5": [
+			0.0,
+			5.0,
+			0.0,
+			2.0,
+			0.0,
+			0.0
+		],
+		"job": 1,
+		"cut": [
+			16.0,
+			24.0,
+			32.0
+		],
+		"hitSound": "",
+		"super": [],
+		"desc": "Valiant bowman, experienced in combat, skilled at striking at long range.  ",
+		"remark": "Has a longer attack range, and has a certain armor piercing ability.",
+		"name": "Valiant bowman",
+		"add1": [
+			3.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 24,
+		"turnSpeed": 2.22,
+		"flyType": 1,
+		"atk": [
+			110.0,
+			151.0,
+			185.0
+		],
+		"hurtRange": [],
+		"bombSkin": "hitB5"
+	},
+	"3": {
+		"shootRange": [
+			202.0,
+			248.0,
+			276.0
+		],
+		"vol": 0.35,
+		"bulletInterval": [
+			850.0,
+			620.0,
+			500.0
+		],
+		"bulletSpeed": 470,
+		"add10": [
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [],
+		"skin": "soliderB1_1",
+		"bulletNum": 1,
+		"cold": 6000,
+		"saleGold": [
+			108.0,
+			252.0,
+			426.0
+		],
+		"quality": 4,
+		"id": 3,
+		"iconStr": "p",
+		"buyGold": [
+			180.0,
+			240.0,
+			290.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 1,
+		"bulletSkin": "bulletB1",
+		"atkSound": "hit3",
+		"jumpNum": 0,
+		"add5": [
+			0.0,
+			5.0,
+			0.0,
+			2.0,
+			0.0,
+			0.0
+		],
+		"job": 1,
+		"cut": [
+			20.0,
+			28.0,
+			36.0
+		],
+		"hitSound": "",
+		"super": [],
+		"desc": "The king's bow guards, higher rank archers, use golden bows and arrows given by the king.  ",
+		"remark": "Has a far range of single attack, shoots powerful golden arrows, with the ability to Pierce armor.  ",
+		"name": "Arrow soldier",
+		"add1": [
+			3.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 30,
+		"turnSpeed": 1.99,
+		"flyType": 1,
+		"atk": [
+			142.0,
+			195.0,
+			240.0
+		],
+		"hurtRange": [],
+		"bombSkin": "hitB1"
+	},
+	"4": {
+		"shootRange": [
+			212.0,
+			260.0,
+			302.0
+		],
+		"vol": 0.48,
+		"bulletInterval": [
+			870.0,
+			660.0,
+			570.0
+		],
+		"bulletSpeed": 520,
+		"add10": [
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [
+			"delayStop",
+			"1",
+			"32",
+			"500",
+			"0",
+			"36",
+			"42"
+		],
+		"skin": "soliderE2_1",
+		"bulletNum": 1,
+		"cold": 7000,
+		"saleGold": [
+			114.0,
+			270.0,
+			450.0
+		],
+		"quality": 5,
+		"id": 4,
+		"iconStr": "p",
+		"buyGold": [
+			190.0,
+			260.0,
+			300.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 1,
+		"bulletSkin": "bulletE2",
+		"atkSound": "hit4",
+		"jumpNum": 0,
+		"add5": [
+			0.0,
+			5.0,
+			0.0,
+			2.0,
+			0.0,
+			0.0
+		],
+		"job": 1,
+		"cut": [
+			30.0,
+			40.0,
+			50.0
+		],
+		"hitSound": "",
+		"super": [
+			20.0,
+			24.0,
+			28.0
+		],
+		"desc": "The mighty king of the arrow, the sacred golden bow and arrow represents strength and justice.",
+		"remark": "Has a very far attack distance, shot super king arrow, specific strong armor piercing ability.",
+		"name": "Archer king",
+		"add1": [
+			3.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 36,
+		"turnSpeed": 1.83,
+		"flyType": 1,
+		"atk": [
+			190.0,
+			255.0,
+			320.0
+		],
+		"hurtRange": [],
+		"bombSkin": "hitE2"
+	},
+	"6": {
+		"shootRange": [
+			168.0,
+			176.0,
+			185.0
+		],
+		"vol": 0.87,
+		"bulletInterval": [
+			970.0,
+			840.0,
+			720.0
+		],
+		"bulletSpeed": 400,
+		"add10": [
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [],
+		"skin": "soliderB4_1",
+		"bulletNum": 1,
+		"cold": 3200,
+		"saleGold": [
+			108.0,
+			252.0,
+			420.0
+		],
+		"quality": 1,
+		"id": 6,
+		"iconStr": "q",
+		"buyGold": [
+			180.0,
+			240.0,
+			280.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 2,
+		"bulletSkin": "bulletB4",
+		"atkSound": "hit6",
+		"jumpNum": 0,
+		"add5": [
+			0.0,
+			0.0,
+			1.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"job": 2,
+		"cut": [],
+		"hitSound": "",
+		"super": [],
+		"desc": "Confident musketeer, from the mercenary corps, optimistic and confident light musketeer shooting unit.  ",
+		"remark": "Deal area damage with a musket.  Coordinate with the slow mage to maximize area damage.  ",
+		"name": "Hackbuteer",
+		"add1": [
+			1.6,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 16,
+		"turnSpeed": 2.14,
+		"flyType": 1,
+		"atk": [
+			60.0,
+			98.0,
+			114.0
+		],
+		"hurtRange": [
+			64.0,
+			72.0,
+			80.0
+		],
+		"bombSkin": "hitB4"
+	},
+	"9": {
+		"shootRange": [
+			186.0,
+			208.0,
+			228.0
+		],
+		"vol": 0.72,
+		"bulletInterval": [
+			1160.0,
+			990.0,
+			920.0
+		],
+		"bulletSpeed": 400,
+		"add10": [
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			1.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [],
+		"skin": "soliderB3_1",
+		"bulletNum": 1,
+		"cold": 6000,
+		"saleGold": [
+			120.0,
+			276.0,
+			462.0
+		],
+		"quality": 3,
+		"id": 9,
+		"iconStr": "qy",
+		"buyGold": [
+			200.0,
+			260.0,
+			310.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 2,
+		"bulletSkin": "bulletB3",
+		"atkSound": "hit9",
+		"jumpNum": 0,
+		"add5": [
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"job": 2,
+		"cut": [],
+		"hitSound": "",
+		"super": [],
+		"desc": "Heavy catapult, a large, long range weapon that uses the lever principle to throw stone projectiles, has been greatly improved after many improvements.  ",
+		"remark": "Has a long range, throws large stones to attack enemies in a group range.  ",
+		"name": "Heavy trebuchet",
+		"add1": [
+			2.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 30,
+		"turnSpeed": 1.4,
+		"flyType": 1,
+		"atk": [
+			86.0,
+			138.0,
+			160.0
+		],
+		"hurtRange": [
+			76.0,
+			82.0,
+			96.0
+		],
+		"bombSkin": "hitB3"
+	},
+	"11": {
+		"shootRange": [
+			260.0,
+			320.0,
+			360.0
+		],
+		"vol": 0.3,
+		"bulletInterval": [
+			2800.0,
+			2500.0,
+			2150.0
+		],
+		"bulletSpeed": 140,
+		"add10": [
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			1.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [
+			"delayFire",
+			"4",
+			"12",
+			"2200",
+			"2"
+		],
+		"skin": "soliderC19_1",
+		"bulletNum": 1,
+		"cold": 12000,
+		"saleGold": [
+			156.0,
+			330.0,
+			528.0
+		],
+		"quality": 5,
+		"id": 11,
+		"iconStr": "q",
+		"buyGold": [
+			260.0,
+			290.0,
+			330.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 2,
+		"bulletSkin": "bulletC19",
+		"atkSound": "hit11",
+		"jumpNum": 0,
+		"add5": [
+			2.0,
+			20.0,
+			0.0,
+			0.0,
+			0.0,
+			1.0
+		],
+		"job": 7,
+		"cut": [],
+		"hitSound": "hit11_2",
+		"super": [],
+		"desc": "Goblin, self-developed rockets, with far full screen attack capability.  ",
+		"remark": "It has a beyond-line-of-sight strike range and powerful firepower to attack enemies wherever they are.  ",
+		"name": "Goblin",
+		"add1": [
+			2.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 30,
+		"turnSpeed": 0.0,
+		"flyType": 6,
+		"atk": [
+			200.0,
+			300.0,
+			400.0
+		],
+		"hurtRange": [
+			102.0,
+			120.0,
+			136.0
+		],
+		"bombSkin": "hitC19"
+	},
+	"14": {
+		"shootRange": [
+			140.0,
+			166.0,
+			188.0
+		],
+		"vol": 0.8,
+		"bulletInterval": [
+			870.0,
+			740.0,
+			650.0
+		],
+		"bulletSpeed": 420,
+		"add10": [
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [],
+		"skin": "soliderA3_1",
+		"bulletNum": 1,
+		"cold": 3000,
+		"saleGold": [
+			102.0,
+			240.0,
+			402.0
+		],
+		"quality": 1,
+		"id": 14,
+		"iconStr": "bp",
+		"buyGold": [
+			170.0,
+			230.0,
+			270.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 1,
+		"bulletSkin": "bulletA3",
+		"atkSound": "hit14",
+		"jumpNum": 0,
+		"add5": [
+			0.0,
+			0.0,
+			1.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"job": 3,
+		"cut": [],
+		"hitSound": "",
+		"super": [
+			25.0,
+			32.0,
+			36.0
+		],
+		"desc": "The female warriors of the tribe have accumulated rich combat experience in the perennial tribal disputes.  ",
+		"remark": "Adept at close range attacks, using a flying knife with a critical chance.  ",
+		"name": "Umpakati",
+		"add1": [
+			2.0,
+			0.0,
+			1.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 12,
+		"turnSpeed": 2.16,
+		"flyType": 1,
+		"atk": [
+			98.0,
+			132.0,
+			178.0
+		],
+		"hurtRange": [],
+		"bombSkin": "hitA3"
+	},
+	"16": {
+		"shootRange": [
+			156.0,
+			176.0,
+			202.0
+		],
+		"vol": 0.63,
+		"bulletInterval": [
+			850.0,
+			720.0,
+			610.0
+		],
+		"bulletSpeed": 412,
+		"add10": [
+			0.0,
+			0.0,
+			0.0,
+			1.0,
+			0.0,
+			0.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [
+			"delayBlood",
+			"7",
+			"30",
+			"470",
+			"1"
+		],
+		"skin": "soliderC16_1",
+		"bulletNum": 1,
+		"cold": 4200,
+		"saleGold": [
+			108.0,
+			252.0,
+			420.0
+		],
+		"quality": 2,
+		"id": 16,
+		"iconStr": "bxp",
+		"buyGold": [
+			180.0,
+			240.0,
+			280.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 1,
+		"bulletSkin": "bulletC16",
+		"atkSound": "hit16",
+		"jumpNum": 0,
+		"add5": [
+			0.0,
+			0.0,
+			1.0,
+			0.0,
+			1.0,
+			0.0
+		],
+		"job": 3,
+		"cut": [
+			14.0,
+			18.0,
+			22.0
+		],
+		"hitSound": "",
+		"super": [
+			18.0,
+			22.0,
+			26.0
+		],
+		"desc": "Predator, a soldier from the Legion of Steel, no one has ever seen his true face.  ",
+		"remark": "Has the ability to Pierce armor and is good at close range attacks that bleed to hit units.  ",
+		"name": "Predator",
+		"add1": [
+			3.0,
+			0.0,
+			1.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 18,
+		"turnSpeed": 2.05,
+		"flyType": 1,
+		"atk": [
+			118.0,
+			158.0,
+			210.0
+		],
+		"hurtRange": [],
+		"bombSkin": "hitC16"
+	},
+	"17": {
+		"shootRange": [
+			198.0,
+			222.0,
+			240.0
+		],
+		"vol": 0.3,
+		"bulletInterval": [
+			930.0,
+			840.0,
+			750.0
+		],
+		"bulletSpeed": 320,
+		"add10": [
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [],
+		"skin": "soliderE5_1",
+		"bulletNum": 1,
+		"cold": 6000,
+		"saleGold": [
+			126.0,
+			276.0,
+			456.0
+		],
+		"quality": 4,
+		"id": 17,
+		"iconStr": "qb",
+		"buyGold": [
+			210.0,
+			250.0,
+			300.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 3,
+		"bulletSkin": "bulletE5",
+		"atkSound": "hit17",
+		"jumpNum": 3,
+		"add5": [
+			0.0,
+			0.0,
+			1.0,
+			0.0,
+			1.0,
+			0.0
+		],
+		"job": 3,
+		"cut": [],
+		"hitSound": "",
+		"super": [
+			25.0,
+			30.0,
+			30.0
+		],
+		"desc": "Thunder, adept at physical thunderbolt catapults, can attack multiple enemies at once.  ",
+		"remark": "Good at physical lightning catapult attack, can attack multiple enemies at the same time, with probability of critical strike damage.  ",
+		"name": "Thunder",
+		"add1": [
+			3.0,
+			0.0,
+			1.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 30,
+		"turnSpeed": 2.1,
+		"flyType": 1,
+		"atk": [
+			142.0,
+			195.0,
+			240.0
+		],
+		"hurtRange": [],
+		"bombSkin": "hitE5"
+	},
+	"19": {
+		"shootRange": [
+			168.0,
+			190.0,
+			220.0
+		],
+		"vol": 0.38,
+		"bulletInterval": [
+			880.0,
+			780.0,
+			680.0
+		],
+		"bulletSpeed": 422,
+		"add10": [
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [
+			"delayStop",
+			"1",
+			"32",
+			"540",
+			"0",
+			"36",
+			"42"
+		],
+		"skin": "soliderC18_1",
+		"bulletNum": 1,
+		"cold": 5000,
+		"saleGold": [
+			120.0,
+			270.0,
+			444.0
+		],
+		"quality": 3,
+		"id": 19,
+		"iconStr": "by",
+		"buyGold": [
+			200.0,
+			250.0,
+			290.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 1,
+		"bulletSkin": "bulletC18",
+		"atkSound": "hit16",
+		"jumpNum": 0,
+		"add5": [
+			0.0,
+			0.0,
+			1.0,
+			0.0,
+			1.0,
+			0.0
+		],
+		"job": 3,
+		"cut": [],
+		"hitSound": "",
+		"super": [
+			16.0,
+			24.0,
+			30.0
+		],
+		"desc": "Ironface, a senior general from the Legion of Steel, armed with a hammer, he is a nightmare to his enemies.  ",
+		"remark": "In combat, throw a heavy hammer with a stun effect that kills or wounds the enemy.  ",
+		"name": "Ironface",
+		"add1": [
+			3.0,
+			0.0,
+			1.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 24,
+		"turnSpeed": 1.83,
+		"flyType": 1,
+		"atk": [
+			133.0,
+			178.0,
+			239.0
+		],
+		"hurtRange": [],
+		"bombSkin": "hitC18"
+	},
+	"21": {
+		"shootRange": [
+			226.0,
+			248.0,
+			265.0
+		],
+		"vol": 0.24,
+		"bulletInterval": [
+			1110.0,
+			1070.0,
+			970.0
+		],
+		"bulletSpeed": 450,
+		"add10": [
+			0.0,
+			0.0,
+			0.0,
+			1.0,
+			0.0,
+			0.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [],
+		"skin": "soliderE4_1",
+		"bulletNum": 1,
+		"cold": 7000,
+		"saleGold": [
+			132.0,
+			288.0,
+			492.0
+		],
+		"quality": 5,
+		"id": 21,
+		"iconStr": "bqp",
+		"buyGold": [
+			220.0,
+			260.0,
+			340.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 4,
+		"bulletSkin": "bulletE4",
+		"atkSound": "hit21",
+		"jumpNum": 42,
+		"add5": [
+			0.0,
+			0.0,
+			1.0,
+			1.0,
+			0.0,
+			0.0
+		],
+		"job": 3,
+		"cut": [
+			10.0,
+			15.0,
+			20.0
+		],
+		"hitSound": "",
+		"super": [
+			16.0,
+			26.0,
+			36.0
+		],
+		"desc": "King of war saint, once with the king of arrow, Venerable, dragon king of the dragon side by side to fight against the invasion of outland legion, and has a deep friendship.  ",
+		"remark": "Brandishing your machete, a swordsman moves forward, dealing penetrating damage to enemies that pass through.  ",
+		"name": "King war st.",
+		"add1": [
+			3.0,
+			0.0,
+			1.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 36,
+		"turnSpeed": 1.72,
+		"flyType": 1,
+		"atk": [
+			168.0,
+			258.0,
+			308.0
+		],
+		"hurtRange": [
+			46.0,
+			46.0,
+			46.0
+		],
+		"bombSkin": "hitE4"
+	},
+	"22": {
+		"shootRange": [
+			160.0,
+			185.0,
+			212.0
+		],
+		"vol": 0.65,
+		"bulletInterval": [
+			640.0,
+			450.0,
+			356.0
+		],
+		"bulletSpeed": 450,
+		"add10": [
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [],
+		"skin": "soliderC9_1",
+		"bulletNum": 1,
+		"cold": 3200,
+		"saleGold": [
+			78.0,
+			186.0,
+			330.0
+		],
+		"quality": 1,
+		"id": 22,
+		"iconStr": "",
+		"buyGold": [
+			130.0,
+			180.0,
+			240.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 1,
+		"bulletSkin": "bulletC9",
+		"atkSound": "hit22",
+		"jumpNum": 0,
+		"add5": [
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"job": 4,
+		"cut": [],
+		"hitSound": "",
+		"super": [],
+		"desc": "Darts soldier, a dart to walk the world, with lightning attack speed.  ",
+		"remark": "Very fast attack speed, slightly low damage, especially good at attacking small MOBS that move fast.  ",
+		"name": "Darts soldiers",
+		"add1": [
+			2.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 12,
+		"turnSpeed": 2.54,
+		"flyType": 1,
+		"atk": [
+			52.0,
+			72.0,
+			88.0
+		],
+		"hurtRange": [],
+		"bombSkin": "hitC9"
+	},
+	"23": {
+		"shootRange": [
+			180.0,
+			202.0,
+			228.0
+		],
+		"vol": 0.6,
+		"bulletInterval": [
+			690.0,
+			550.0,
+			400.0
+		],
+		"bulletSpeed": 450,
+		"add10": [
+			1.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [
+			"delayDrug",
+			"3",
+			"32",
+			"540",
+			"1"
+		],
+		"skin": "soliderB10_1",
+		"bulletNum": 1,
+		"cold": 4200,
+		"saleGold": [
+			90.0,
+			216.0,
+			360.0
+		],
+		"quality": 2,
+		"id": 23,
+		"iconStr": "d",
+		"buyGold": [
+			150.0,
+			210.0,
+			240.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 1,
+		"bulletSkin": "bulletB10",
+		"atkSound": "hit23",
+		"jumpNum": 0,
+		"add5": [
+			0.0,
+			3.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"job": 4,
+		"cut": [
+			10.0,
+			12.0,
+			14.0
+		],
+		"hitSound": "",
+		"super": [],
+		"desc": "The same tribal warrior, just like the elder brother, has been secretly protecting the tribal women soldiers.  ",
+		"remark": "Rapid succession of poison dart attacks, plus poison damage, and high attack speed is also one of his strengths.  ",
+		"name": "Dart",
+		"add1": [
+			2.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 18,
+		"turnSpeed": 2.72,
+		"flyType": 1,
+		"atk": [
+			63.0,
+			87.0,
+			106.0
+		],
+		"hurtRange": [],
+		"bombSkin": "hitB10"
+	},
+	"24": {
+		"shootRange": [
+			168.0,
+			190.0,
+			220.0
+		],
+		"vol": 0.39,
+		"bulletInterval": [
+			690.0,
+			560.0,
+			440.0
+		],
+		"bulletSpeed": 400,
+		"add10": [
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [
+			"delayStop",
+			"1",
+			"28",
+			"420",
+			"1",
+			"34",
+			"40"
+		],
+		"skin": "soliderB6_1",
+		"bulletNum": 1,
+		"cold": 4200,
+		"saleGold": [
+			90.0,
+			210.0,
+			366.0
+		],
+		"quality": 2,
+		"id": 24,
+		"iconStr": "y",
+		"buyGold": [
+			150.0,
+			200.0,
+			260.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 1,
+		"bulletSkin": "bulletB6",
+		"atkSound": "hit24",
+		"jumpNum": 0,
+		"add5": [
+			0.0,
+			3.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"job": 4,
+		"cut": [],
+		"hitSound": "",
+		"super": [],
+		"desc": "Spades imp, together with the King of hearts, is called black and white double evil spirit, although the imp is small, but also the strength of the bear.  ",
+		"remark": "Fast play black card, probability of causing vertigo, with speed reducer against BOSS monsters, can produce a rebellious effect.  ",
+		"name": "Spades imp",
+		"add1": [
+			2.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 18,
+		"turnSpeed": 2.1,
+		"flyType": 1,
+		"atk": [
+			66.0,
+			90.0,
+			112.0
+		],
+		"hurtRange": [],
+		"bombSkin": "hitB6"
+	},
+	"25": {
+		"shootRange": [
+			200.0,
+			225.0,
+			248.0
+		],
+		"vol": 0.39,
+		"bulletInterval": [
+			920.0,
+			860.0,
+			800.0
+		],
+		"bulletSpeed": 420,
+		"add10": [
+			1.0,
+			0.0,
+			1.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [],
+		"skin": "soliderC15_1",
+		"bulletNum": 1,
+		"cold": 5000,
+		"saleGold": [
+			108.0,
+			252.0,
+			450.0
+		],
+		"quality": 3,
+		"id": 25,
+		"iconStr": "qy",
+		"buyGold": [
+			180.0,
+			240.0,
+			330.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 4,
+		"bulletSkin": "bulletC15",
+		"atkSound": "hit24",
+		"jumpNum": 30,
+		"add5": [
+			0.0,
+			2.0,
+			2.0,
+			0.0,
+			1.0,
+			0.0
+		],
+		"job": 4,
+		"cut": [],
+		"hitSound": "",
+		"super": [
+			16.0,
+			20.0,
+			28.0
+		],
+		"desc": "Red peach king, according to the secular view, the devil is not very attractive, and the elder brother's care for the younger brother has already gone beyond the boundaries of the secular.  ",
+		"remark": "A red card with a critical hit that deals group damage to monsters that run through it.  ",
+		"name": "Red peach king",
+		"add1": [
+			2.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 24,
+		"turnSpeed": 2.05,
+		"flyType": 1,
+		"atk": [
+			80.0,
+			111.0,
+			136.0
+		],
+		"hurtRange": [
+			40.0,
+			40.0,
+			40.0
+		],
+		"bombSkin": "hitC15"
+	},
+	"26": {
+		"shootRange": [
+			190.0,
+			210.0,
+			234.0
+		],
+		"vol": 0.65,
+		"bulletInterval": [
+			890.0,
+			830.0,
+			780.0
+		],
+		"bulletSpeed": 370,
+		"add10": [
+			0.0,
+			2.0,
+			0.0,
+			1.0,
+			0.0,
+			0.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [
+			"delayBlood",
+			"7",
+			"8",
+			"520",
+			"1"
+		],
+		"skin": "soliderC14_1",
+		"bulletNum": 3,
+		"cold": 5000,
+		"saleGold": [
+			114.0,
+			258.0,
+			456.0
+		],
+		"quality": 3,
+		"id": 26,
+		"iconStr": "q",
+		"buyGold": [
+			190.0,
+			240.0,
+			330.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 17,
+		"hurtType": 5,
+		"bulletSkin": "bulletC14",
+		"atkSound": "hit26",
+		"jumpNum": 26,
+		"add5": [
+			0.0,
+			0.0,
+			0.0,
+			1.0,
+			0.0,
+			0.0
+		],
+		"job": 4,
+		"cut": [
+			10.0,
+			15.0,
+			20.0
+		],
+		"hitSound": "",
+		"super": [],
+		"desc": "The dead angel, mysterious dress, more like the devil from hell, personality is also extremely cold.  ",
+		"remark": "In the face of monsters, merciless fly out of three sickles, reaper general existence;  Change to 4 scythes when the battle level reaches 3 stars.  ",
+		"name": "The dead angel",
+		"add1": [
+			2.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 24,
+		"turnSpeed": 2.03,
+		"flyType": 1,
+		"atk": [
+			80.0,
+			111.0,
+			136.0
+		],
+		"hurtRange": [
+			36.0,
+			36.0,
+			36.0
+		],
+		"bombSkin": "hitC14"
+	},
+	"28": {
+		"shootRange": [
+			226.0,
+			246.0,
+			263.0
+		],
+		"vol": 0.67,
+		"bulletInterval": [
+			990.0,
+			945.0,
+			890.0
+		],
+		"bulletSpeed": 350,
+		"add10": [
+			0.0,
+			0.0,
+			2.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [
+			"delayDrug",
+			"3",
+			"10",
+			"600",
+			"1"
+		],
+		"skin": "soliderC13_1",
+		"bulletNum": 1,
+		"cold": 6000,
+		"saleGold": [
+			108.0,
+			264.0,
+			468.0
+		],
+		"quality": 4,
+		"id": 28,
+		"iconStr": "qd",
+		"buyGold": [
+			180.0,
+			260.0,
+			340.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 4,
+		"bulletSkin": "bulletC13",
+		"atkSound": "hit28",
+		"jumpNum": 36,
+		"add5": [
+			0.0,
+			0.0,
+			3.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"job": 4,
+		"cut": [],
+		"hitSound": "",
+		"super": [],
+		"desc": "The raven of death, the brother of the history of the undead, has an indescribable strange character, and does not associate with the brothers.  ",
+		"remark": "Fly forward out of the rotating blade, flying over the grass, damage the monsters flying in a straight line.  ",
+		"name": "Killing crow",
+		"add1": [
+			3.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 30,
+		"turnSpeed": 1.92,
+		"flyType": 1,
+		"atk": [
+			106.0,
+			147.0,
+			180.0
+		],
+		"hurtRange": [
+			46.0,
+			46.0,
+			46.0
+		],
+		"bombSkin": "hitC13"
+	},
+	"29": {
+		"shootRange": [
+			210.0,
+			235.0,
+			262.0
+		],
+		"vol": 1.0,
+		"bulletInterval": [
+			1040.0,
+			920.0,
+			880.0
+		],
+		"bulletSpeed": 400,
+		"add10": [
+			0.0,
+			3.0,
+			0.0,
+			0.0,
+			0.0,
+			1.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [
+			"delayDrug",
+			"3",
+			"7",
+			"600",
+			"1"
+		],
+		"skin": "soliderD4_1",
+		"bulletNum": 1,
+		"cold": 6000,
+		"saleGold": [
+			114.0,
+			270.0,
+			474.0
+		],
+		"quality": 4,
+		"id": 29,
+		"iconStr": "qd",
+		"buyGold": [
+			190.0,
+			260.0,
+			340.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 2,
+		"bulletSkin": "bulletD4",
+		"atkSound": "hit29",
+		"jumpNum": 0,
+		"add5": [
+			0.0,
+			5.0,
+			0.0,
+			0.0,
+			0.0,
+			2.0
+		],
+		"job": 4,
+		"cut": [],
+		"hitSound": "",
+		"super": [],
+			"desc": "Deadly voodoo, specializing in deadly range attacks, and Knife king the left and right protection of fellow assassin faction.  ",
+		"remark": "Assassin faction's left protector, releases voodoo for aoE damage and lasting poison damage.  ",
+		"name": "Deadly voodoo",
+		"add1": [
+			3.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 30,
+		"turnSpeed": 1.82,
+		"flyType": 1,
+		"atk": [
+			106.0,
+			147.0,
+			180.0
+		],
+		"hurtRange": [
+			70.0,
+			82.0,
+			96.0
+		],
+		"bombSkin": "hitD4"
+	},
+	"30": {
+		"shootRange": [
+			205.0,
+			225.0,
+			254.0
+		],
+		"vol": 0.74,
+		"bulletInterval": [
+			860.0,
+			820.0,
+			780.0
+		],
+		"bulletSpeed": 395,
+		"add10": [
+			0.0,
+			3.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [
+			"delayBlood",
+			"7",
+			"7",
+			"420",
+			"1"
+		],
+		"skin": "soliderE3_1",
+		"bulletNum": 3,
+		"cold": 7000,
+		"saleGold": [
+			138.0,
+			300.0,
+			504.0
+		],
+		"quality": 5,
+		"id": 30,
+		"iconStr": "qx",
+		"buyGold": [
+			230.0,
+			270.0,
+			340.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 18,
+		"hurtType": 5,
+		"bulletSkin": "bulletE3",
+		"atkSound": "hit30",
+		"jumpNum": 0,
+		"add5": [
+			0.0,
+			5.0,
+			2.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"job": 4,
+		"cut": [
+			10.0,
+			12.0,
+			16.0
+		],
+		"hitSound": "",
+		"super": [],
+		"desc": "Knife king, the left protection of the assassin faction, flying knife where it can be said is not left, especially the fourth knife is more sharp.  ",
+		"remark": "When attacking, quickly release three flying knives to the front, dealing damage to the monsters they encounter, reduced to four at full battle level.  ",
+		"name": "Knife king",
+		"add1": [
+			3.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 36,
+		"turnSpeed": 1.81,
+		"flyType": 1,
+		"atk": [
+			142.0,
+			196.0,
+			240.0
+		],
+		"hurtRange": [
+			40.0,
+			40.0,
+			40.0
+		],
+		"bombSkin": "hitE3"
+	},
+	"31": {
+		"shootRange": [
+			176.0,
+			184.0,
+			202.0
+		],
+		"vol": 0.7,
+		"bulletInterval": [
+			850.0,
+			700.0,
+			630.0
+		],
+		"bulletSpeed": 400,
+		"add10": [
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [
+			"delaySlow",
+			"2",
+			"42",
+			"1880",
+			"1",
+			"48",
+			"58"
+		],
+		"skin": "soliderA7_1",
+		"bulletNum": 1,
+		"cold": 2800,
+		"saleGold": [
+			90.0,
+			174.0,
+			270.0
+		],
+		"quality": 1,
+		"id": 31,
+		"iconStr": "h",
+		"buyGold": [
+			150.0,
+			140.0,
+			160.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 1,
+		"bulletSkin": "bulletA7",
+		"atkSound": "hit31",
+		"jumpNum": 0,
+		"add5": [
+			0.0,
+			0.0,
+			1.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"job": 5,
+		"cut": [],
+		"hitSound": "",
+		"super": [],
+		"desc": "Small mage, very magical talent, as the entry mage he, on the deceleration magic insight.  ",
+		"remark": "Junior mage, adept at slowing down individual monsters.",
+		"name": "Small mage",
+		"add1": [
+			1.0,
+			0.0,
+			1.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 12,
+		"turnSpeed": 2.37,
+		"flyType": 1,
+		"atk": [
+			40.0,
+			60.0,
+			84.0
+		],
+		"hurtRange": [],
+		"bombSkin": "hitA7"
+	},
+	"39": {
+		"shootRange": [
+			186.0,
+			204.0,
+			233.0
+		],
+		"vol": 0.65,
+		"bulletInterval": [
+			1140.0,
+			1060.0,
+			980.0
+		],
+		"bulletSpeed": 320,
+		"add10": [
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [
+			"delaySlow",
+			"2",
+			"42",
+			"1680",
+			"1",
+			"46",
+			"54"
+		],
+		"skin": "soliderC5_1",
+		"bulletNum": 1,
+		"cold": 5000,
+		"saleGold": [
+			108.0,
+			246.0,
+			402.0
+		],
+		"quality": 3,
+		"id": 39,
+		"iconStr": "qh",
+		"buyGold": [
+			180.0,
+			230.0,
+			260.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 2,
+		"bulletSkin": "bulletC5",
+		"atkSound": "hit39",
+		"jumpNum": 0,
+		"add5": [
+			0.0,
+			0.0,
+			2.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"job": 5,
+		"cut": [],
+		"hitSound": "",
+		"super": [],
+		"desc": "The ice mage, who specializes in the spiritual realm, has mastered the range of slow attacks that make enemies shudder.  ",
+		"remark": "School of magic senior teacher, good at range deceleration, careful array can adjust the density of monsters.  (Dense monsters, especially good for area strikes)  ",
+		"name": "The ice mage",
+		"add1": [
+			2.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 24,
+		"turnSpeed": 2.04,
+		"flyType": 1,
+		"atk": [
+			68.0,
+			98.0,
+			128.0
+		],
+		"hurtRange": [
+			62.0,
+			74.0,
+			84.0
+		],
+		"bombSkin": "hitC5"
+	},
+	"41": {
+		"shootRange": [
+			205.0,
+			227.0,
+			249.0
+		],
+		"vol": 0.8,
+		"bulletInterval": [
+			960.0,
+			840.0,
+			750.0
+		],
+		"bulletSpeed": 320,
+		"add10": [
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [
+			"delaySlow",
+			"2",
+			"32",
+			"1300",
+			"1",
+			"38",
+			"46"
+		],
+		"skin": "soliderD1_1",
+		"bulletNum": 1,
+		"cold": 6000,
+		"saleGold": [
+			132.0,
+			282.0,
+			450.0
+		],
+		"quality": 4,
+		"id": 41,
+		"iconStr": "qh",
+		"buyGold": [
+			220.0,
+			250.0,
+			280.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 3,
+		"bulletSkin": "bulletD1",
+		"atkSound": "hit41",
+		"jumpNum": 3,
+		"add5": [
+			2.0,
+			0.0,
+			5.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"job": 5,
+		"cut": [],
+		"hitSound": "",
+		"super": [],
+		"desc": "Magic dragon, with evil magic power, very rebellious spirit, do not accept any constraints.  ",
+		"remark": "Unleash the dragon to attack enemies, catapulting them to damage and slow them down.  ",
+		"name": "Magic dragon",
+		"add1": [
+			3.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 30,
+		"turnSpeed": 1.78,
+		"flyType": 1,
+		"atk": [
+			128.0,
+			191.0,
+			268.0
+		],
+		"hurtRange": [],
+		"bombSkin": "hitD1"
+	},
+	"42": {
+		"shootRange": [
+			220.0,
+			236.0,
+			258.0
+		],
+		"vol": 0.64,
+		"bulletInterval": [
+			1200.0,
+			1100.0,
+			1020.0
+		],
+		"bulletSpeed": 460,
+		"add10": [
+			3.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [
+			"delaySlow",
+			"2",
+			"42",
+			"1850",
+			"1",
+			"46",
+			"52"
+		],
+		"skin": "soliderE7_1",
+		"bulletNum": 1,
+		"cold": 7000,
+		"saleGold": [
+			138.0,
+			294.0,
+			504.0
+		],
+		"quality": 5,
+		"id": 42,
+		"iconStr": "qh",
+		"buyGold": [
+			230.0,
+			260.0,
+			350.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 4,
+		"bulletSkin": "bulletE7",
+		"atkSound": "hit42",
+		"jumpNum": 64,
+		"add5": [
+			3.0,
+			0.0,
+			5.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"job": 5,
+		"cut": [],
+		"hitSound": "",
+		"super": [],
+		"desc": "Dragon King, the spiritual leader of the dragon clan, has a strong sense of mission, one of the four alliances of Kings.  ",
+		"remark": "In battle, the dragon King takes control of his battle pets and charges forward, dealing damage and slowing down enemies that pass through.  ",
+		"name": "Dragon King",
+		"add1": [
+			3.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 36,
+		"turnSpeed": 1.68,
+		"flyType": 1,
+		"atk": [
+			160.0,
+			250.0,
+			300.0
+		],
+		"hurtRange": [
+			46.0,
+			46.0,
+			46.0
+		],
+		"bombSkin": "hitE7"
+	},
+	"43": {
+		"shootRange": [
+			215.0,
+			235.0,
+			268.0
+		],
+		"vol": 0.7,
+		"bulletInterval": [
+			1200.0,
+			1120.0,
+			1040.0
+		],
+		"bulletSpeed": 395,
+		"add10": [
+			0.0,
+			5.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [
+			"delayFire",
+			"4",
+			"19",
+			"800",
+			"1"
+		],
+		"skin": "soliderE1_1",
+		"bulletNum": 1,
+		"cold": 7000,
+		"saleGold": [
+			144.0,
+			306.0,
+			504.0
+		],
+		"quality": 5,
+		"id": 43,
+		"iconStr": "qy",
+		"buyGold": [
+			240.0,
+			270.0,
+			330.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 2,
+		"bulletSkin": "bulletE1",
+		"atkSound": "hit43",
+		"jumpNum": 0,
+		"add5": [
+			3.0,
+			5.0,
+			0.0,
+			0.0,
+			0.0,
+			2.0
+		],
+		"job": 5,
+		"cut": [],
+		"hitSound": "",
+		"super": [],
+		"desc": "Venerable, who loves solitude, is always with time, and only appears when the alliance needs him.  ",
+		"remark": "Attack with a time hourglass, creating blast space where the hourglass bursts, dealing area damage and additional flame burn.  ",
+		"name": "Venerable",
+		"add1": [
+			3.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 36,
+		"turnSpeed": 1.7,
+		"flyType": 1,
+		"atk": [
+			170.0,
+			264.0,
+			316.0
+		],
+		"hurtRange": [
+			92.0,
+			106.0,
+			120.0
+		],
+		"bombSkin": "hitE1"
+	},
+	"44": {
+		"shootRange": [
+			170.0,
+			185.0,
+			202.0
+		],
+		"vol": 0.42,
+		"bulletInterval": [
+			880.0,
+			980.0,
+			1100.0
+		],
+		"bulletSpeed": 390,
+		"add10": [
+			1.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [],
+		"skin": "soliderD8_1",
+		"bulletNum": 0,
+		"cold": 4200,
+		"saleGold": [
+			102.0,
+			240.0,
+			432.0
+		],
+		"quality": 2,
+		"id": 44,
+		"iconStr": "q",
+		"buyGold": [
+			170.0,
+			230.0,
+			320.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 5,
+		"bulletSkin": "bulletD8",
+		"atkSound": "hit44",
+		"jumpNum": 0,
+		"add5": [
+			1.0,
+			5.0,
+			2.0,
+			0.0,
+			0.0,
+			1.0
+		],
+		"job": 6,
+		"cut": [],
+		"hitSound": "",
+		"super": [],
+		"desc": "Sundial Guards, guardians of the sun, eventually evolved into sundial guards as the sun's scent accumulated.  ",
+		"remark": "Fire 4 rounds in all directions during combat, up to 8 or 12 rounds for a powerful attack.  (Try to avoid bullets flying)  ",
+		"name": "Sundial guards",
+		"add1": [
+			1.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 18,
+		"turnSpeed": 0.0,
+		"flyType": 5,
+		"atk": [
+			68.0,
+			64.0,
+			60.0
+		],
+		"hurtRange": [
+			33.0,
+			33.0,
+			33.0
+		],
+		"bombSkin": "hitD8"
+	},
+	"50": {
+		"shootRange": [
+			189.0,
+			210.0,
+			235.0
+		],
+		"vol": 0.55,
+		"bulletInterval": [
+			1600.0,
+			1350.0,
+			1100.0
+		],
+		"bulletSpeed": 400,
+		"add10": [
+			2.0,
+			0.0,
+			2.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [],
+		"skin": "soliderE8_1",
+		"bulletNum": 3,
+		"cold": 7000,
+		"saleGold": [
+			144.0,
+			306.0,
+			510.0
+		],
+		"quality": 5,
+		"id": 50,
+		"iconStr": "q",
+		"buyGold": [
+			240.0,
+			270.0,
+			340.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 1,
+		"bulletSkin": "bulletE8",
+		"atkSound": "",
+		"jumpNum": 0,
+		"add5": [
+			1.0,
+			0.0,
+			2.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"job": 6,
+		"cut": [],
+		"hitSound": "hit50",
+		"super": [],
+		"desc": "Stone guard, extremely powerful garrisons, were jointly built by the alliance and have the ultimate garrisons power.  ",
+		"remark": "Has the ultimate guard power, can emit three electromagnetic rays at the same time, dealing sustained damage to three locked enemies.  ",
+		"name": "Stone guard",
+		"add1": [
+			2.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 36,
+		"turnSpeed": 0.0,
+		"flyType": 2,
+		"atk": [
+			160.0,
+			220.0,
+			280.0
+		],
+		"hurtRange": [],
+		"bombSkin": "hitE8"
+	},
+	"51": {
+		"shootRange": [
+			168.0,
+			192.0,
+			0.0
+		],
+		"vol": 0.5,
+		"bulletInterval": [
+			810.0,
+			530.0,
+			0.0
+		],
+		"bulletSpeed": 388,
+		"add10": [
+			1.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [
+			"delayMoney",
+			"10",
+			"61",
+			"100",
+			"1",
+			"87",
+			"100"
+		],
+		"skin": "soliderC6_1",
+		"bulletNum": 1,
+		"cold": 5000,
+		"saleGold": [
+			108.0,
+			252.0,
+			252.0
+		],
+		"quality": 3,
+		"id": 51,
+		"iconStr": "qj",
+		"buyGold": [
+			180.0,
+			240.0,
+			0.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 1,
+		"bulletSkin": "bulletC6",
+		"atkSound": "hit51",
+		"jumpNum": 0,
+		"add5": [
+			1.0,
+			1.0,
+			2.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"job": 7,
+		"cut": [],
+		"hitSound": "",
+		"super": [],
+		"desc": "Scientist, the master of the alchemical profession, spends his life learning in order to obtain more wealth.  ",
+		"remark": "Addicted to gold can not extricate themselves, reasonable use can obtain economic advantages;  Overuse is a drag on the economy and needs attention.  ",
+		"name": "Scientist",
+		"add1": [
+			2.0,
+			1.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 24,
+		"turnSpeed": 2.32,
+		"flyType": 1,
+		"atk": [
+			72.0,
+			100.0,
+			0.0
+		],
+		"hurtRange": [],
+		"bombSkin": "hitC6"
+	},
+	"52": {
+		"shootRange": [
+			162.0,
+			186.0,
+			0.0
+		],
+		"vol": 0.5,
+		"bulletInterval": [
+			840.0,
+			560.0,
+			0.0
+		],
+		"bulletSpeed": 408,
+		"add10": [
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"goldMore": 0,
+		"hurtDelay": [
+			"delayMoney",
+			"9",
+			"58",
+			"100",
+			"1",
+			"83",
+			"100"
+		],
+		"skin": "soliderC7_1",
+		"bulletNum": 1,
+		"cold": 3500,
+		"saleGold": [
+			90.0,
+			210.0,
+			210.0
+		],
+		"quality": 1,
+		"id": 52,
+		"iconStr": "j",
+		"buyGold": [
+			150.0,
+			200.0,
+			0.0
+		],
+		"patchMore": 0,
+		"bulletAngle": 0,
+		"hurtType": 1,
+		"bulletSkin": "bulletC7",
+		"atkSound": "hit51",
+		"jumpNum": 0,
+		"add5": [
+			2.0,
+			1.0,
+			2.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"job": 7,
+		"cut": [],
+		"hitSound": "",
+		"super": [],
+		"desc": "Spirit beast, the right hand man of scientists, has no other interests except work, the faithful practitioner of 996.  ",
+		"remark": "The alchemist soldier, more like a professional miner, starts out with a higher return on construction and needs to pay attention to the input-output ratio.  ",
+		"name": "Spirit beast",
+		"add1": [
+			1.0,
+			1.0,
+			0.0,
+			0.0,
+			0.0,
+			0.0
+		],
+		"level": 16,
+		"turnSpeed": 2.42,
+		"flyType": 1,
+		"atk": [
+			46.0,
+			64.0,
+			0.0
+		],
+		"hurtRange": [],
+		"bombSkin": "hitC7"
+	}
+}

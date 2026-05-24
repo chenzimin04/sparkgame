@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+<screen name="uiScreenChat" template="tPopUpJenny">	
+	<element name="uiContent" marginLeft="30" marginRight="30" marginTop="0" />
+</screen>

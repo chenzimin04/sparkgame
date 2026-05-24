@@ -1,0 +1,62 @@
+
+skel_battlePass_light.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dl0001
+  rotate: false
+  xy: 1, 395
+  size: 577, 94
+  orig: 577, 94
+  offset: 0, 0
+  index: -1
+dl0002
+  rotate: false
+  xy: 1, 300
+  size: 577, 94
+  orig: 577, 94
+  offset: 0, 0
+  index: -1
+dl0003
+  rotate: false
+  xy: 1, 205
+  size: 577, 94
+  orig: 577, 94
+  offset: 0, 0
+  index: -1
+dl0004
+  rotate: false
+  xy: 1, 110
+  size: 577, 94
+  orig: 577, 94
+  offset: 0, 0
+  index: -1
+dl0005
+  rotate: false
+  xy: 1, 15
+  size: 577, 94
+  orig: 577, 94
+  offset: 0, 0
+  index: -1
+dl0006
+  rotate: false
+  xy: 1, 490
+  size: 577, 94
+  orig: 577, 94
+  offset: 0, 0
+  index: -1
+j0002+
+  rotate: false
+  xy: 1, 585
+  size: 655, 221
+  orig: 655, 221
+  offset: 0, 0
+  index: -1
+zhitiao
+  rotate: false
+  xy: 657, 646
+  size: 150, 160
+  orig: 150, 160
+  offset: 0, 0
+  index: -1

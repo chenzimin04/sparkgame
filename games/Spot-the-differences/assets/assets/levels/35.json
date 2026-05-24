@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "butterflyEmbroidery_a.jpg",
+  "image2": "butterflyEmbroidery_b.jpg",
+  "differences":
+  [
+    {
+    "x": 371.0,
+    "y": 73.0,
+    "size": 100.0
+    },
+    {
+    "x": 489.0,
+    "y": 286.0,
+    "size": 150.0
+    },
+    {
+    "x": 753.0,
+    "y": 154.0,
+    "size": 150.0
+    },
+    {
+    "x": 652.0,
+    "y": 475.0,
+    "size": 180.0
+    },
+    {
+    "x": 835.0,
+    "y": 324.0,
+    "size": 150.0
+    }
+  ]
+}

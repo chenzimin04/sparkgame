@@ -1,0 +1,23 @@
+{
+  "resolution": "standard",
+  "image1": "sea_flora_a.jpg",
+  "image2": "sea_flora_b.jpg",
+  "differences":
+  [
+    {
+      "x": 128.0,
+      "y": 296.0,
+      "size": 100.0
+    },
+    {
+      "x": 526.0,
+      "y": 346.0,
+      "size": 150.0
+    },
+    {
+      "x": 978.0,
+      "y": 636.0,
+      "size": 130.0
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "dog_street_a.jpg",
+  "image2": "dog_street_b.jpg",
+  "differences":
+  [
+    {
+      "x": 183.0,
+      "y": 107.0,
+      "size": 65.0
+    },
+    {
+      "x": 112.0,
+      "y": 273.0,
+      "size": 90.0
+    },
+    {
+      "x": 492.0,
+      "y": 408.0,
+      "size": 60.0
+    },
+    {
+      "x": 961.0,
+      "y": 247.0,
+      "size": 50.0
+    },
+    {
+      "x": 1011.0,
+      "y": 527.0,
+      "size": 120.0
+    }
+  ]
+}

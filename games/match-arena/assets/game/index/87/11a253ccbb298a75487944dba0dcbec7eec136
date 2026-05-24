@@ -1,0 +1,1025 @@
+ID,nl-NL
+ad_failed.button,OK
+ad_failed.message,Er is momenteel geen video beschikbaar. Probeer het later opnieuw.
+ad_failed.title,Oeps...
+ad_magic.button,Kijk
+ad_magic.message,Kijk even naar een filmpje om een beloning te krijgen.
+ad_magic.title,Toverende varkentjes
+android_app.button,Installeren
+android_app.text.release,Beste vrienden! We laten jullie graag weten dat ons spel nu beschikbaar is op Android. Download de app in de winkel!
+android_app.title,Nu op Android!
+android_update.restart.no,Later
+android_update.restart.text,Installeer nu?
+android_update.restart.title,Update klaar!
+android_update.restart.yes,Ja
+avatar_already_changed.button,ОК
+avatar_already_changed.message,Je hebt je profielfoto al gewijzigd. Je kunt je profielfoto maar ÉÉN keer wijzigen.
+bookmark.daily,Uitdaging
+bookmark.friends,Vrienden
+bookmark.settings,Instellingen
+booster_hint.cross,%booster_shop.hint.ingame.cross%
+booster_hint.hammer,%booster_shop.hint.ingame.hammer%
+booster_hint.hand,%booster_shop.hint.ingame.hand%
+booster_shop.buy,Krijg #count voor
+booster_shop.hint.ingame.cross,Gebruik de toverstaf om één rij en één kolom stukken te verwijderen
+booster_shop.hint.ingame.hammer,Verwijder tegels met de hamer!
+booster_shop.hint.ingame.hand,Gebruik de handschoen om aangrenzende stukken te verwisselen
+booster_shop.hint.prelevel.add_bomb,Begin elk niveau met een bom op het bord!
+booster_shop.hint.prelevel.add_line,Begin elk niveau met een streep op het bord!
+booster_shop.hint.prelevel.add_omni,Begin elk niveau met een bliksem op het bord!
+booster_shop.hint.prelevel.add_tint,Begin elk niveau met verf op het bord!
+booster_shop.hint.prelevel.double_fly,Verdubbel alle vuurvliegjes die je tijdens dit niveau hebt gemaakt!
+booster_shop.title.ingame.cross,Toverstaf
+booster_shop.title.ingame.hammer,Hamer
+booster_shop.title.ingame.hand,Handschoen
+booster_shop.title.prelevel.add_bomb,Booster met bom
+booster_shop.title.prelevel.add_line,Booster met streep
+booster_shop.title.prelevel.add_omni,Booster met bliksem
+booster_shop.title.prelevel.add_tint,Booster met verf
+booster_shop.title.prelevel.double_fly,Booster met vuurvliegje x2
+chest_open.collection_complete,Verzameld!
+chest_open.ok,OK
+chest_opening.button,Geweldig!
+chest_opening.reward,Beloning
+conflict_popup.continue,Doorgaan
+conflict_popup.hint_syncing,Synchroniseren...
+conflict_popup.skip,Ga offline verder.
+credits.art,Artistiek ontwerp
+credits.artists,"Enorm veel dank aan onze grafisch ontwerpers
+voor de prachtige avatar-personages!"
+credits.gamedesign,Spelontwerp
+credits.mentions,"Speciale dank
+aan onze vrienden"
+credits.programming,Programmering
+credits.title,Ons team!
+daily_help.button,OK
+daily_help.chest,Hoofdprijs
+daily_help.reward,Eenmalige beloningen
+daily_help.text,"Dagelijks laten spelers zien wat ze kunnen en spelen tegen elkaar op één niveau.
+
+De speler met de hoogste score ontvangt de prijs van de dag - een kroon en een schatkist met edelstenen!"
+daily_help.title,Dagelijkse uitdaging
+daily_reward.button,Geweldig!
+daily_reward.reward,Beloning
+daily_reward.title.place_1,"Je bent de winnaar
+van de dagelijkse uitdaging!"
+daily_reward.title.place_generic,"Dagelijkse uitdaging voltooid
+Je staat op plaats \##place!"
+daily.drag_to_update,Trek om te vernieuwen
+daily.epic_sunday_ribbon,Vriendelijke Uitdaging
+daily.finishes_in,De uitdaging eindigt over #time
+daily.finishes_now,Uitdaging voorbij!
+daily.high_score,Nieuwe topscore!
+daily.medal_chest_text,Verzamel {amount|#amount medaille|#amount medailles}!
+daily.next_time,Volgende dagelijkse uitdaging over #time
+daily.next_time_now,De nieuwe dagelijkse uitdaging is begonnen!
+daily.no_yesterday_yet,Je hebt niet meegedaan aan de vorige dagelijkse uitdaging
+daily.play,Spelen
+daily.retry_submit,Opnieuw
+daily.rewards_tab,Beloningen voor dagelijkse uitdagingen
+daily.rewards.bubble,"Verzamel sterren en medailles
+om kisten met schatten te openen."
+daily.score_not_accepted,Dit resultaat telt niet mee voor de leaderboard omdat je klaar was met spelen na het einde van de Dagelijkse Uitdaging.
+daily.star_chest_claim,Openen
+daily.star_chest_collected_text,Morgen is er weer een kist
+daily.star_chest_text,Voltooi 7 dagelijkse uitdagingen op een rij met 3 sterren!
+daily.submit_error,Kan de resultaten niet verzenden
+daily.today,Dagelijkse uitdaging
+daily.today_mark,Vandaag
+daily.update_error,Geen internetverbinding
+daily.wait_text,
+daily.watch_replay.button,Kijk
+daily.watch_replay.text,Spel opnieuw spelen
+daily.welcome_reward_first,%daily_help.text%
+daily.welcome_text,"Ja! Er is weer een nieuwe 
+dagelijkse uitdaging!"
+daily.yesterday,De ranglijst van gisteren
+daily.yesterday_updating,Resultaten ophalen...
+demo.finished.text,"Gefeliciteerd, je hebt de proefversie voltooid! Speel de volledige versie gratis op <p class=""ma-link"">PecPoc.com<p class=""demo-hint"">Je voortgang wordt bewaard"
+demo.nag.text,"Gratis bonussen zijn alleen beschikbaar in de volledige versie. Ga door met de volledige versie op <p class=""ma-link""> PecPoc.com <p class=""demo-hint""> Je voortgang wordt bewaard"
+event_ny.next_in_hint,Krijg het volgende aanwezig in: #time
+event_ny.title,Nieuwjaarsgeschenken
+fake_ad.reward_in,Beloning in...
+fake_ad.tutorial,"Er is nu geen video beschikbaar...
+Maar we kunnen wel even naar wat toverende varkentjes kijken!"
+fake_ad.your_ad_here,Jouw advertentie hier
+fb_login_failed.message,Kan geen verbinding maken met Facebook. Opnieuw proberen?
+fb_notification.button,Verbinden
+fb_notification.message,Maak verbinding met Facebook om je voortgang online te synchroniseren.
+fb_notification.no_post_hint,We zullen nooit iets plaatsen zonder je toestemming.
+fb_notification.title,Sla je voortgang op
+feedback.failed.button,Doorgaan
+feedback.failed.message,"Kan de feedback niet verzenden.
+Controleer je internetverbinding."
+feedback.failed.title,Oeps...
+feedback.ok.button,OK
+feedback.ok.message,"We hebben je feedback ontvangen.
+Bedankt dat je ons hebt geholpen het spel te verbeteren."
+feedback.ok.title,Feedback verstuurd!
+friends_tab.failed_social.button,Controleren
+friends_tab.failed_social.text,We moeten de verbinding controleren om de vriendenlijst te updaten.
+friends_tab.has_fb.button,Vrienden uitnodigen
+friends_tab.has_fb.text,"Hoe meer vrienden je hebt, hoe meer geschenken je krijgt!"
+friends_tab.no_fb.button,Verbinden
+friends_tab.no_fb.hint,We zullen nooit iets plaatsen zonder je toestemming.
+friends_tab.no_fb.text,Maak verbinding met Facebook en ontvang geschenken van vrienden en volg hoe ver ze zijn.
+friends_tab.no_permission.button,Ja
+friends_tab.no_permission.text,Wil je toegang geven tot je vriendenlijst om meer cadeaus te ontvangen?
+friends_tab.no_social.text,Verbind met sociale netwerken en ontvang cadeaus van vrienden en volg hun vooruitgang.
+friends_tab.no_y8.button,Verbinden
+friends_tab.no_y8.text,Verbind Y8 en ontvang cadeaus van vrienden en volg hun vooruitgang.
+friends_tab.ok_invite_button,Vrienden uitnodigen
+friends_tab.ok_invite_gift_text,"Hoe meer vrienden je hebt, hoe meer geschenken je krijgt!"
+friends_tab.ok_invite_text,"Hoe meer vrienden je hebt, hoe meer geschenken je krijgt!"
+friends_tab.title,Vrienden
+friends_tab.vk_friends_permission_button,Ja
+friends_tab.vk_friends_permission_text,Wil je toegang geven tot je vriendenlijst om meer cadeaus te ontvangen?
+friends_tab.vk_invite_button,Vrienden uitnodigen
+friends_tab.vk_invite_text,"Hoe meer vrienden je hebt, hoe meer geschenken je krijgt!"
+friends.gift.claim,Openen
+game_results.click_to_continue,Klik om verder te gaan
+game_results.tap_to_continue,Tik om verder te gaan
+game.click_to_continue,Klik om verder te gaan
+game.info.ahead,JE STAAT {num|#fmtnum ZET|#fmtnum ZETTEN} VOOR
+game.info.behind,JE STAAT {num|#fmtnum ZET|#fmtnum ZETTEN} ACHTER
+game.info.goals,Doel
+game.info.moves,"<font size=""\-5"">ZETTEN"
+game.info.pause,"<font size=""\-5"">PAUZEREN"
+game.info.undo,"<font size=""\-5"">HERSTELLEN"
+game.pause.continue,"<font color=""\#408fda"">Spel hervatten"
+game.pause.leave_forfeit,"<font color=""\#ff0000"">Spel beëindigen"
+game.pause.leave_safe,Spel beëindigen
+game.pause.title,Pauzeren
+game.shoutout.their_game_result,Score: #score
+game.shoutout.well_done,Goed gedaan!
+game.shoutout.your_game_result,Jouw score: #score
+game.tap_to_continue,Tik om verder te gaan
+game.tutorial.continue,Doorgaan
+gamemode.capital.aquarium,VISJES
+gamemode.capital.bird,VOGELS
+gamemode.capital.bubble,Bellen
+gamemode.capital.cats,KITTEN
+gamemode.capital.chocolate,LAVA
+gamemode.capital.diamonds,DIAMANTEN
+gamemode.capital.ducks,EENDJES
+gamemode.capital.energy_cube_reciever,KRISTALLEN
+gamemode.capital.energycube,PUDDING
+gamemode.capital.fishes,WORTELS
+gamemode.capital.flower,BLOEMEN
+gamemode.capital.food,EIKELTJES
+gamemode.capital.fossils,OCTOPUSSEN
+gamemode.capital.frog,KIKKERS
+gamemode.capital.grass,GRAS
+gamemode.capital.gum,GAUW
+gamemode.capital.honeybee,BEREN
+gamemode.capital.hotlava,LAVA
+gamemode.capital.ice,IJS
+gamemode.capital.jam,ENERGIE
+gamemode.capital.jam_reciever,KRISTALLEN
+gamemode.capital.pearl,PARELLEN
+gamemode.capital.road,VARKENTJE
+gamemode.capital.sausage,WORSTEN
+gamemode.capital.statue,HONDEN
+gamemode.capital.stone,STENEN
+gamemode.capital.tasks,OPDRACHTEN
+gamemode.capital.tiles,GRAS
+gamemode.capital.waterfish,VISJES
+gamemode.capital.blooplet,BLOOPLETTEN
+gameresult.adventure.completed_continue,Doorgaan
+gameresult.adventure.leave,Vertrek
+gameresult.adventure.play_next,Doorgaan
+gameresult.adventure.retry,Opnieuw proberen.
+gameresult.boosters,Kies je boosters
+gameresult.complete.line1,Niveau
+gameresult.complete.line2,Klaar!
+gameresult.continue,Doorgaan
+gameresult.daily.continue,Doorgaan
+gameresult.daily.leave,Sluiten
+gameresult.daily.retry,Spelen
+gameresult.dash,-
+gameresult.forfeit,Je hebt het opgegeven!
+gameresult.map.continue,Doorgaan
+gameresult.map.retry,Opnieuw
+gameresult.pvp.continue,Doorgaan
+gameresult.pvp.play_another,Ander niveau
+gameresult.pvp.play_next,Ander niveau
+gameresult.pvp.rematch_lose,Revanche
+gameresult.pvp.rematch_win_draw,Opnieuw spelen
+gameresult.rematch,Revanche
+gameresult.rematch_bet,Wed #bet
+gameresult.required_ticket,Vereist
+gameresult.retry,Speel opnieuw.
+gameresult.rewards,Beloning
+gameresult.title.completed,"<font color=""\#47f05f"">Level voltooid!"
+gameresult.title.draw,"<font color=""\#5885B8"">Trekken"
+gameresult.title.lose,"<font color=""\#ff5666"">Je hebt verloren"
+gameresult.title.win,"<font color=""\#20ea6d"">Je hebt gewonnen!"
+gameresult.vs,tegen
+gameresults.inter_ad_in_large,#count speelt tot
+gameresults.inter_ad_in_small,#count spelen tot
+gems_shop.title,Edelstenenwinkel
+global.click_to_continue,Klik om verder te gaan
+global.default_player_name,Speler
+global.tap_to_continue,Tik om verder te gaan
+home.hint_daiy,Probeer de dagelijkse uitdaging
+home.hint_play_pvp,"Je kunt nog steeds duels spelen, ook zonder levens."
+home.play,Spelen
+html.loading,Bezig met laden
+iap_failed.button,ОК
+iap_failed.message,Aankoop mislukt.
+iap_need_facebook.message,Maak verbinding met Facebook voor meer edelstenen.
+iap_pending.button,ОК
+iap_pending.message,Jouw aankoop wordt verwerkt
+intro_screen.another_device,Met Code
+intro_screen.login_back,Terug
+intro_screen.login_button,Aanmelden
+intro_screen.login_fb,Facebook
+intro_screen.login_ok,Odnoklassniki
+intro_screen.login_singular,Aanmelden
+intro_screen.login_vk,Vkontakte
+intro_screen.login_with,Inloggen met
+intro_screen.login_y8,Y8
+intro_screen.login_yandex,Yandex
+intro_screen.new_player,Nieuwe speler
+introprofile.accept_avatar,Selecteren
+introprofile.accept_name,Doorgaan
+introprofile.editavatar,Kies een profielfoto
+introprofile.editname,Voer je naam in
+invite_request.message,Laten we het beste match 3-spel samen spelen!
+invite_request.title,Selecteer vrienden om samen Skydom te spelen
+level_popup.goals,Doel
+level_popup.play,Spelen
+level_popup.prelevel_boosters,Kies je boosters
+level_popup.title,Niveau #level
+level_popup.title_hard,Moeilijk
+level_popup.title_ultra_hard,Super moeilijk
+level_popup.title_very_hard,Zeer moeilijk.
+link.support,https://Skydom.freshdesk.com/en/support/solutions
+link.support_beta,https://Skydombeta.freshdesk.com/en/support/solutions
+lives_shop.buy_all,Koop er 5
+lives_shop.hint,"Je hebt levens nodig om 
+Avontuur te blijven spelen"
+lives_shop.recharge,Volgend leven: #time
+lives_shop.title,Levens
+lives_shop.watch_ad_button,Kijk
+lives_shop.watch_ad_text,1 gratis
+load_player.almost_done,Bijna klaar...
+load_player.continue_offline,Ga offline verder.
+load_player.loading_save,Spelergegevens laden...
+load_player.loading_save_failed,Kon geen spelergegevens laden.
+load_player.loading_save_failed_in,"Kon geen spelergegevens laden.
+Probeer opnieuw in #time..."
+load_player.logging_in,Aanmelden...
+load_player.logging_in_failed,Kon niet inloggen.
+load_player.logging_in_failed_in,"Kon niet inloggen.
+Probeer het opnieuw in #time..."
+load_player.new_player,Ik ben een nieuwe speler.
+load_player.retry_now,Probeer opnieuw
+login_failed.button,Opnieuw
+login_failed.title,Kan niet verbinden
+magic.click_to_continue,Klik om verder te gaan
+magic.reward,Beloning
+magic.tap_to_continue,Tik om verder te gaan
+map.gates_coming_soon,"Nieuwe levels
+binnenkort!"
+match3.level_complete.line1,Alle doelen
+match3.level_complete.line2,Gehaald!
+match3.score_pve,#score / #required
+match3.shoutout.1_move,Laatste zet!
+match3.shoutout.2_moves,2 zetten
+match3.shoutout.5_moves,5 zetten
+match3.shoutout.no_moves,Geen zetten meer
+match3.shoutout.no_reshuffle,"Kan niet opnieuw schudden
+Geen zetten meer mogelijk"
+merge.button.mine,Kiezen
+merge.button.their,Kiezen
+merge.description.account_merge,"Blijkbaar heb je Skydom al gespeeld.
+Kies je voorkeursprofiel."
+merge.description.ingame_conflict,%merge.description.login_conflict%
+merge.description.login_conflict,"Je hebt op meerdere apparaten gespeeld.
+Kies je voorkeur voor opslaan."
+merge.hint.mine,lokaal
+merge.hint.their,van server
+merge.title,Synchronisatie van de voortgang
+modal.adblock.button,ОК
+modal.adblock.text,Zo te zien gebruik je een Ad Blocker.<br>Schakel de Ad Blocker voor deze pagina uit om een video te bekijken.
+modal.adblock.title,Ad Blocker
+modal.error.button,Vernieuwen
+modal.error.text,"Sorry, er is een fout opgetreden. Vernieuw de pagina."
+modal.error.title,Oeps! Er is iets fout gegaan...
+modal.fb_login_proxy.button,Doorgaan
+modal.fb_login_proxy.text,Verbinden met Facebook
+modal.fb_login_proxy.title,
+modal.fb_purchase_proxy.button,Doorgaan
+modal.fb_purchase_proxy.gems,Edelstenen
+modal.first_login_failed.button,Opnieuw
+modal.first_login_failed.text,Kan momenteel geen verbinding maken met Skydom. Probeer het later opnieuw.
+modal.first_login_failed.title,Kan niet verbinden
+modal.gpu_error.button,Meer informatie
+modal.gpu_error.text,"Je moet GPU-versnelling in je browser 
+inschakelen om het spel te kunnen spelen."
+modal.gpu_error.title,Hmm...
+modal.maintenance.button,OK
+modal.maintenance.text,Onderhoud zal worden uitgevoerd om<br> <b>#time</b><br> gedurende 3 uur. <br>Cloud opslag en voortgangs synchronisatie zal niet werken.
+modal.maintenance.title,Onderhoud
+modal.no_hardware_accel_ff.button,ОК
+modal.no_hardware_accel_ff.text,"Je browser meldt een prestatieprobleem, het spel kan erg traag lopen!
+
+Om dit te verhelpen, lees alsjeblieft <a target=""_blank""  href=""https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features"">https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features</a>"
+modal.no_hardware_accel_ff.title,Prestatieproblemen
+modal.no_hardware_accel.button,ОК
+modal.no_hardware_accel_vk.button,ОК
+modal.no_hardware_accel.text,"Je browser meldt een prestatieprobleem, het spel kan erg traag lopen!
+
+Om dit te verhelpen, lees alsjeblieft <a target=""_blank""  href=""https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm"">https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm</a>"
+modal.no_hardware_accel_vk.text,"Uw browser meldt een prestatieprobleem, het spel kan erg traag lopen!
+
+Om dit te verhelpen, lees dan <a target=""_blank"" href=""https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery"">https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery</a>
+"
+modal.no_hardware_accel.title,Prestatieproblemen
+modal.no_hardware_accel_vk.title,Prestatieproblemen
+modal.nolocalstorage.button,OK
+modal.nolocalstorage.text,"Het lijkt erop dat je browser ons niet toestaat om je spel op te slaan. Dit kan komen door het gebruik van Incognito-modus in je browser.
+<p>
+Log alsjeblieft in om je voortgang te behouden!"
+modal.nolocalstorage.title,Incognito-modus
+modal.oom.button,Meer informatie
+modal.oom.text,Blijkbaar is er onvoldoende geheugen.
+modal.oom.title,Hmm...
+modal.out_of_sync.button,Vernieuwen
+modal.out_of_sync.text,Je hebt Skydom in meerdere browservensters geopend. <br>Vernieuw deze pagina om in dit venster te blijven spelen.
+modal.out_of_sync.title,Meerdere vensters met Skydom?
+modal.vk_inapp_not_allowed.button,Ga door
+modal.vk_inapp_not_allowed.text,"Aankopen zijn alleen beschikbaar op <a href=""https://m.vk.com/app7409298"" target=""_blank"">m.vk.com</a>"
+modal.vk_inapp_not_allowed.title,
+modal.wasm.button,Meer informatie
+modal.wasm.text,Je browser ondersteunt geen WebAssembly
+modal.wasm.title,Hmm...
+modal.webgl.button,Meer informatie
+modal.webgl.text,Je browser ondersteunt geen WebGL
+modal.webgl.title,Hmm...
+modal.yandexsdk.text,"De Yandex SDK lijkt niet correct te zijn geladen.
+
+Opnieuw proberen?"
+modal.yandexsdk.title,Oeps
+modal.yandexsdk.button,OK
+name_already_changed.button,ОК
+name_already_changed.message,Je hebt je naam al gewijzigd. Je kunt je naam maar ÉÉN keer wijzigen.
+networks.hint,"We stimuleren je om verbinding te maken met sociale netwerken!
+ - Verlies je voortgang niet door het op te slaan in de cloud
+ - Speel met vrienden en ontvang cadeaus
+ - We posten niet zonder jouw toestemming"
+nickname.default,Speler
+nickname.default_friend,Konijn
+nickname.trainer,Coach #nickname
+nickname.tutorial_001,Coach Anna
+nickname.tutorial_002,Coach John
+nickname.tutorial_003,Coach Eva
+nickname.you,Jij
+notification.daily_lead_1,👑 #Name gaat nu aan kop in de dagelijkse uitdaging. Wil je de eerste plaats terugwinnen?
+notification.daily_lead_2,👑 #Name gaat nu aan kop in de dagelijkse uitdaging.
+notification.daily_lead_3,👑 Het gaat er vandaag flink aan toe in de dagelijkse uitdaging. #Name heeft je eerste plaats opgeëist.
+notification.daily_lead_4,👑 #Name heeft je ingehaald. Wil je de koppositie in de uitdaging terugwinnen?
+notification.daily_lead_5,👑 Het lijkt erop dat #Name je net heeft ingehaald in de dagelijkse uitdaging.
+notification.daily_lead.meta,"@{""variants"":5}"
+notification.reminder_1,😏 Nieuwe tegenstanders wachten op de meest veelbelovende speler! 😎
+notification.reminder_10,👸🤴 Wie wordt vandaag de winnaar van de Dagelijkse Uitdaging?
+notification.reminder_11,🙄 We had bijna vergeten hoe iedereen door #PlayerName werd verslagen!
+notification.reminder_12,"💆 Wat een leuke dag om Skydom te spelen, hè? 💪"
+notification.reminder_13,🙈😬 Er zijn een paar jongens hier die dromen van het verslaan van jou. Denk je dat ze een kans hebben?
+notification.reminder_14,🐰 Konijntje heeft een cadeautje voor jou! 🎁
+notification.reminder_15,"😎 #PlayerName, het is tijd om weer te winnen! 🕹"
+notification.reminder_16,🤗 Tijd om even pauze te nemen en een winstreep te maken! 👾👀
+notification.reminder_17,🌟🌟🌟 Levels voltooien zichzelf niet! Laten we spelen? 🥇😉
+notification.reminder_18,"#PlayerName, iemand wil jou verslaan. Denk je dat ze zullen slagen? 😬😬😬"
+notification.reminder_19,👋 Is het tijd om te relaxen en een paar keer te winnen? 🤔
+notification.reminder_2,Niet iedereen heeft nog verloren van #PlayerName! Wil je ze een kans geven?
+notification.reminder_20,🦄 Heb je onze Regenboog Eenhoorn al ontmoet?
+notification.reminder_3,🐷 Kijk uit voor de magie van Biggy! 🐽
+notification.reminder_4,🙈 Heb de beste Match3-speler al een tijdje niet gezien! Is hij nog steeds in de buurt? 👀
+notification.reminder_5,🏆 Had je al een winst vandaag?
+notification.reminder_6,❤️❤️❤️❤️❤️ Alle levens opgeladen! Het is tijd om te winnen!
+notification.reminder_7,🖐🎟 5 tokens staan klaar om uitgegeven te worden!
+notification.reminder_8,🐰😍 Konijntje heeft een cadeautje voor jou! 🎁
+notification.reminder_9,👑💎 De dagelijkse uitdaging is begonnen! Wie krijgt de kroon en een hoop edelstenen?
+ny.button_claim,Open cadeau.
+ny.button_next_in,Cadeau binnen: #time
+ok_login_failed.message,Kon niet verbinden met Odnoklassniki. Probeer het opnieuw?
+ok.share_tick,Delen
+out_of_moves.continue_buy_moves,Doorspelen voor #price
+out_of_moves.continue_watch,Kijk
+out_of_moves.give_up,Opgeven
+out_of_moves.press_to_view,"Tik hier om 
+het bord te bekijken"
+out_of_moves.title.almost_there,Bijna...
+out_of_moves.title.regular,Geen zetten meer
+outofgems.button,Winkel
+outofgems.message,Je hebt geen edelstenen meer. Ga naar de winkel voor meer edelstenen.
+outofgems.title,Niet genoeg edelstenen
+page.loading.hint_1,Bezig met laden...
+page.loading.hint_2,Bezig met effecten 💎💎💎
+page.loading.hint_3,"Geen zorgen, het is niet vastgelopen. 😜"
+page.loading.hint_4,🚀 Het spel wordt zo geladen. 🚀
+page.loading.hint_5,De eerste keer duurt het iets langer👌
+page.loading.hint_6,🔥 bijna klaar…👾
+page.loading.hint_7,Nog maar heel even 😊
+placeholder.hint_daily,Voltooi 10 niveaus om de uitdaging te ontgrendelen.
+placeholder.timestring,12u 34min 56sec
+placeholder.title_daily,"Dagelijkse uitdaging 
+vergrendeld"
+popup_name.accept_name,Doorgaan
+popup_name.not_now,Niet nu
+prelevel_text.002,"Verzamel meer <font color=""\#ff5503"">gele stukken</font> dan je tegenstander!"
+prelevel_text.004,"Verzamel meer <font color=""\#ff8800"">wortels</font> dan je tegenstander!"
+prelevel_text.006,"Verwijder meer <font color=""\#4499ff"">ijs</font> dan je tegenstander!"
+promo_reforged.button,Eis
+promo_reforged.text,Hoera! We hebben een nieuwe game mod gelanceerd - Skydom Reforged! Om de lancering te vieren geven we een gratis Mega Booster pack weg! Pak het nu?
+promo_reforged.title,Skydom opnieuw gesmeed!
+rate_us.description,Wat vind je van Skydom?
+rate_us.feedback.cancel,Niet nu
+rate_us.feedback.description,Voer je e-mailadres in als je een antwoord wilt ontvangen.
+rate_us.feedback.email_hint,E-mailadres
+rate_us.feedback.message_hint,Hoe kunnen we het spel voor je verbeteren?
+rate_us.feedback.submit,Versturen
+rate_us.star_1,Afschuwelijk
+rate_us.star_2,Niet leuk
+rate_us.star_3,Gaat wel
+rate_us.star_4,Leuk
+rate_us.star_5,Geweldig
+rate_us.submit,Versturen
+rate_us.write_review.cancel,Niet nu
+rate_us.write_review.google_play,Vertel ons wat je vindt van het spel of beoordeel het op Google Play.
+rate_us.write_review.submit,Graag!
+rate_us.write_review.yandex,Deel je gedachten over het spel of beoordeel het op Yandex Games!
+rematch_pvp.asks_for_rematch_draw,#name wil een nieuwe poging
+rematch_pvp.asks_for_rematch_player_lose,#name biedt een revanche aan!
+rematch_pvp.asks_for_rematch_player_won,#name wil een revanche!
+reward.coins,{amount|Munt|Munten}
+reward.gems,{amount|Edelsteen|Edelstenen}
+reward.lives,{amount|Leven|Levens}
+reward.prelevel.add_bomb,Booster met bom
+reward.prelevel.add_line,Booster met streep
+reward.prelevel.add_omni,Booster met bliksem
+reward.prelevel.add_tint,Booster met verf
+reward.prelevel.double_fly,Booster met vuurvliegje x2
+reward.tickets,{amount|Token|Tokens}
+reward.undo,{amount|Herstel|Herstellen}
+search.cannot_connect,Geen internetverbinding
+search.failed,Oeps! Er is iets fout gegaan...
+search.loading,Bezig met laden...
+search.playing_with_trainer,Spelen met Coach
+search.readying,Tegenstander gevonden!
+search.readying_rematch,Zorg dat je klaar bent!
+search.rejected,Je tegenstander is gevlucht
+search.searching,Zoeken naar tegenstander...
+search.vs,tegen
+search.waiting_opp,Wachten op tegenstander...
+settings.change_avatar,Profielfoto wijzigen
+settings.change_avatar.connect_fb,Verbinden
+settings.change_avatar.continue,Doorgaan
+settings.change_avatar.title,Kies een nieuwe profielfoto
+settings.change_avatar.warning,"Opmerking: 
+- je kunt je profielfoto maar ÉÉN keer wijzigen
+- verbind met Facebook voor je profielfoto van Facebook"
+settings.change_avatar.warning_no_fb,Opmerking: je kunt je profielfoto maar ÉÉN keer wijzigen
+settings.change_name,Naam wijzigen
+settings.change_name.accept_name,Doorgaan
+settings.change_name.do_not_match,De namen komen niet overeen. Probeer het opnieuw.
+settings.change_name.edit,Nieuwe naam invoeren:
+settings.change_name.reenter,Nieuwe naam opnieuw invoeren:
+settings.change_name.same_name,De nieuwe naam bestaat al
+settings.change_name.too_long,Deze naam is te lang (maximaal 15 tekens)
+settings.change_name.too_short,Deze naam is te kort =)
+settings.change_name.warning,Opmerking: je kunt je naam maar ÉÉN keer wijzigen
+settings.confirm_avatar.cancel,Annuleren
+settings.confirm_avatar.change,Wijzigen
+settings.confirm_avatar.title,"Weet je zeker dat je 
+je profielfoto wilt wijzigen?
+Je nieuwe profielfoto:"
+settings.confirm_avatar.warning,"Opmerking: je kunt je profielfoto
+maar ÉÉN keer wijzigen"
+settings.confirm_name.cancel,Annuleren
+settings.confirm_name.change,Bevestigen
+settings.confirm_name.title,Weet je zeker dat je je naam wilt wijzigen? Je nieuwe naam is:
+settings.confirm_name.warning,Opmerking: je kunt je naam maar ÉÉN keer wijzigen
+settings.connect_fb,Verbinden met Facebook
+settings.connect_ok,Verbinden Odnoklassniki
+settings.connect_vk,Verbind VK
+settings.connect_y8,Verbind Y8
+settings.connect_yandex,Yandex verbinden
+settings.connected_fb,Facebook
+settings.connected_ok,Odnoklassniki
+settings.connected_vk,VK
+settings.connected_y8,Y8
+settings.connected_yandex,Yandex
+settings.coupon,Promotiecode
+settings.coupon_title,Promotiecode
+settings.coupon.enter,Toepassen
+settings.coupon.enter_hint,Voer hier je promotiecode in
+settings.coupon.invalid_code,"<font color=""\#e90047"">Deze code is ongeldig. Probeer een andere code."
+settings.coupon.missing_code,"<font color=""\#e90047"">Voer je promotiecode in"
+settings.coupon.ok,Code verzilverd!
+settings.credits,Met dank aan
+settings.eula,Servicevoorwaarden
+settings.fb_hint,Verbind met Facebook om met vrienden te spelen en je voortgang te synchroniseren
+settings.general,ALGEMEEN
+settings.generate_key,Creëer code
+settings.invite_friends,Vrienden uitnodigen
+settings.language,Taal
+settings.language_header,KIES TAAL
+settings.move_hints,Hints
+settings.music,Muziek
+settings.networks,Verbindingen
+settings.networks_hint,Verbind sociale netwerken om met vrienden te spelen en je voortgang te synchroniseren.
+settings.notifications,Meldingen
+settings.notifications.daily,Dagelijkse uitdaging
+settings.notifications.disable_all,Alles uitschakelen
+settings.notifications.disable_night,Uitschakelen van 23.00 tot 08.00 uur
+settings.notifications.gifts,Cadeaus
+settings.notifications.others,Andere herinneringen
+settings.open_support,Spelersondersteuning
+settings.open_vk_group,Groep Spelen
+settings.player_id,Kopieer speler-ID
+settings.policy,Privacybeleid
+settings.rate_us,Beoordeel ons
+settings.report_problem,Een probleem melden
+settings.sound,Geluid
+settings.support,ONDERSTEUNING
+settings.telegram_channel,Volg ons Telegram-kanaal
+settings.telegram_channel_hint,Al het laatste nieuws over Skydom
+settings.telegram_support,Chat voor fans in Telegram
+settings.title,Instellingen
+settings.update,Bijwerken
+settings.y8_hint,Verbind met Y8 om je voortgang online te synchroniseren!
+settings.yandex_hint,Verbind met Yandex om je voortgang online te synchroniseren!
+shop.gems_restored.accept,Uitstekend!
+shop.gems_restored.title,Aankoop edelstenen voltooid
+shop.not_available,Niet beschikbaar
+shop.remove_ads_remain_time,Advertenties verwijderd voor #time
+shop.remove_ads_text,"Verwijder de advertenties tussen de niveaus
+door iets te kopen"
+shop.remove_ads_timed,"Verwijder advertenties tussen levels
+met elke aankoop voor een maand"
+social_notification.button,Verbinden
+social_notification.message,Verbind met een sociale netwerk om je vooruitgang online te synchroniseren!
+social_notification.no_post_hint,We zullen nooit iets plaatsen zonder je toestemming.
+social_notification.title,Sla je voortgang op
+social_share.button,Delen
+social_share.chooser_hint,Delen via
+social_share.message,Hallo! Kijk eens naar dit unieke PvP Match-3-spel! Download het op https://PecPoc.com
+social_share.subject,Speel een nieuw leuk spel: Skydom
+social_share.title,"Deel het spel met anderen.
+Het is leuker om met vrienden te spelen!"
+tempkey_login.button,Doorgaan
+tempkey_login.empty_key,Je hebt geen code ingevoerd.
+tempkey_login.input.default_hint,Voer code in
+tempkey_login.invalid_key,Verkeerde code
+tempkey_login.message_top,"Blijf hier spelen - krijg de code waar je voorheen speelde in de Instellingen onder ""Maak code"""
+tempkey_login.no_connection,Kon niet verbinden
+tempkey.fail.button,OK
+tempkey.fail.message,Controleer je internetverbinding of probeer later.
+tempkey.fail.title,Kon geen code maken
+tempkey.ok.copied,Gekopieerd!
+tempkey.ok.copy,Kopieer
+tempkey.ok.hint,De code verloopt na 4 uur.
+tempkey.ok.message,#tempkey
+tempkey.ok.title,Jouw code:
+tickets_shop.boost_text,x2 zo snel aanvullen
+tickets_shop.buy_all,Koop er #amount
+tickets_shop.hint,Je hebt munten nodig om de dagelijkse uitdaging te spelen
+tickets_shop.hint_out_of,"<font color=""\#e90047"">Geen geluksmunten meer</font>"
+tickets_shop.recharge,Nieuwe munt in: #time
+tickets_shop.title,Tokens
+tickets_shop.watch_ad_button,Kijk
+tickets_shop.watch_ad_text,Ontvang er 1 gratis
+time.days_hours,"#days<font size=""-15""> </font><font size=""-10"">d</font> #hours<font size=""-15""> </font><font size=""-10"">h</font>"
+time.hours,"#hours<font size=""-15""> </font><font size=""-10"">u</font>"
+time.hours_minutes,"#hours<font size=""-15""> </font><font size=""-10"">u</font> #minutes<font size=""-15""> </font><font size=""-10"">min</font>"
+time.hours_minutes_seconds,"#hours<font size=""-15""> </font><font size=""-10"">u</font> #minutes<font size=""-15""> </font><font size=""-10"">min</font> #seconds<font size=""-15""> </font><font size=""-10"">sec</font>"
+time.hours_seconds,"#hours<font size=""-15""> </font><font size=""-10"">u</font> #seconds<font size=""-15""> </font><font size=""-10"">sec</font>"
+time.less_than_minute,"1<font size=""-15""> </font><font size=""-10"">min</font>"
+time.minutes,"#minutes<font size=""-15""> </font><font size=""-10"">min</font>"
+time.minutes_seconds,"#minutes<font size=""-15""> </font><font size=""-10"">min</font> #seconds<font size=""-15""> </font><font size=""-10"">sec</font>"
+time.seconds,"#seconds<font size=""-15""> </font><font size=""-10"">sec</font>"
+tutorial_home.play,Spelen
+tutorial.001.dialog_tutorial,"Combineer <font color=""\#5885b8"">3 stukken van dezelfde kleur op rij</font> om ze te verwijderen"
+tutorial.001.hint,"Doel
+Verzamel 12 groene stukken!"
+tutorial.001.turn_1,Wissel aangrenzende stukken om 3 stukken van één kleur te combineren
+tutorial.002.hint,Verzamel meer gele stukken dan je tegenstander!
+tutorial.skip,Overslaan
+undo_shop.buy_undos,Krijg #count voor
+undo_shop.hint,Hiermee maak je je laatste zet ongedaan
+undo_shop.recharge,Volgende zet herstellen over: #time
+undo_shop.title,Herstellen
+undo_shop.watch_ad_button,Kijk
+undo_shop.watch_ad_text,Ontvang er 1 gratis
+undo_shop.you_have,Je hebt {amount|#amount herstel|#amount herstellen|#amount herstellen}
+update.button,Bijwerken
+update.new_version,Bijwerken naar de nieuwste versie.
+update.new_version_value,"<font color=""\#5885b8"">#version"
+update.old_version,Je gebruikt een oudere versie
+update.old_version_value,"<font color=""\#a5a7aa"">#version"
+update.text,"Je gebruikt een oude versie.
+Update alsjeblieft naar de laatste versie!"
+update.title,Nieuwe versie beschikbaar!
+update.web.button,Vernieuwen
+update.web.message,Vernieuw de pagina.
+update.web.title,Nieuwe versie beschikbaar!
+vk_login_failed.message,Kon niet verbinden met VK. Probeer het opnieuw?
+vk_promo.title,Cadeau van VK!
+vk.share_tick,Delen
+watch_for_gems.button,Kijk
+watch_for_gems.text,+#amount
+web.webg_context_lost,"WebGL-context verloren, herstellen..."
+welcome_bonus.speech_1,"Hallo, #PlayerName!
+Ik heb een paar cadeaus voor je.
+Kies er maar een uit!"
+welcome_bonus.speech_2,"Gedachten worden werkelijkheid ... Ooooh!
+Ik zat net aan cadeautjes te denken en kijk wat er gebeurt =)"
+welcome_bonus.speech_3,"Ik heb twee kisten gevonden toen je
+er niet was! Maak er maar één open!"
+welcome_bonus.speech_4,"Leuk je weer te zien, #PlayerName!
+Kijk wat er nu
+uit de lucht is gevallen!"
+welcome_bonus.speech_5,"Er vloog een stel ooievaars voorbij...
+Blijkbaar brengen die niet alleen kinderen!"
+welcome_bonus.speech_6,"Leuk je weer te zien, #PlayerName!
+Kies een kist!"
+welcome_bonus.speech_7,"Ik heb je erg gemist, #PlayerName, dus ik heb een klein cadeautje voor je!"
+welcome_bonus.speech_8,"Er gebeuren vreemde dingen. Zit je net lekker rustig, komen er 2 kisten uit het niets tevoorschijn!"
+welcome_pack.open,Openen
+welcome_pack.play,Spelen
+welcome_pack.speech_1,"Lang niet gezien, #PlayerName! Ik heb een cadeau voor je!"
+welcome_pack.speech_2,"Oh, #PlayerName, ik heb je gemist! Laten we het cadeau openen en spelen!"
+welcome_pack.speech_3,"#PlayerName, goed je weer te zien! Schiet op en open de kist."
+welcome_pack.speech_gift,"#PlayerName, we hebben een speciaal cadeau voor jou =) Open het snel!"
+welcome_pack.speech_reforged,"#PlayerName, we hebben een speciale verrassing voor je =) Open het snel!"
+y8_login_failed.message,Kon niet verbinden met Y8. Probeer het opnieuw?
+yandex_login_failed.message,Não foi possível conectar ao Yandex. Tente novamente?
+yandex_notification.button,Conectar
+yandex_notification.message,Ligue para o Yandex para sincronizar o seu progresso online!
+yandex_notification.title,Salvar seu progresso
+gamemode.capital.leaf,BLADEREN
+yandex_login_has_attachment.message,Er is een ander Yandex-account gekoppeld aan dit spelprofiel.
+fb_login_has_attachment.message,Er is een ander Facebook-account gekoppeld aan dit spelprofiel.
+ok_login_has_attachment.message,Er is een ander OK-account gekoppeld aan dit spelprofiel.
+vk_login_has_attachment.message,Er is een ander VK-account gekoppeld aan dit spelprofiel.
+y8_login_has_attachment.message,Er is een ander Y8-account gekoppeld aan dit spelprofiel.
+android_app.text.beta,Beste vrienden! We zijn blij om jullie te informeren dat we de bèta-test van ons spel op Android lanceren. Iedereen is welkom!
+bookmark.play,Thuis
+bookmark.quest,Questen
+chest_opening.bronze,Brons
+chest_opening.continue,Gemakkelijk
+chest_opening.division,III Divisie
+chest_opening.golden,Goud
+chest_opening.silver,Zilver
+chest_opening.togoldenleague,Kun je de Gouden Liga bereiken?
+chest_opening.welcome,"Welkom bij Leagues 
+van Match Arena!"
+chest_opening.yourebronze,"Je hebt
+Bron liga III bereikt"
+chest.open,Openen
+chest.opens_now,Geweldig! De kist is van jou om te openen!
+chest.wins_left_1,Nog één winnen!
+chest.wins_left_2,Slechts 2 overwinningen en het is van jou!
+chest.wins_left_3,Goed gedaan! Nog 3 overwinningen!
+chest.wins_left_4,4 overwinningen om de kist te openen!
+chest.wins_to_open,#num overwinningen om te openen
+forge_help.block_1,Win gevechten om munten te verdienen!
+forge_help.block_2,Gebruik munten om Forges te starten en gouden staven te krijgen!
+forge_help.block_3,Verzamel gouden staven om hoger in de competitie te komen!
+forge_help.block_4,Nieuwe competities - nieuwe levels!
+forge_help.continue,Ik heb het!
+forge_help.title,Liggen en Forges
+forge.add,Toevoegen
+forge.boost,Boosten
+forge.boost_free,"Laten we deze Forge boosten!
+Eerste keer is gratis!"
+forge.boost_free_ok,Boosten
+forge.buy_1,Bronzevormer
+forge.buy_2,Zilver Forge
+forge.buy_3,Gouden smidse
+forge.buy_4,Rubi Forge
+forge.buy_now,Toevoegen
+forge.cheat_boost,Cheaten? Cheaten!
+forge.name_1,Bronzevormer
+forge.name_2,Zilver Forge
+forge.name_3,Gouden smidse
+forge.name_4,Rubi Forge
+forge.not_enough_coins,Niet genoeg munten om te beginnen
+forge.ok,OK
+forge.open,Openen
+forge.open_now,Nu openen
+forge.other_in_progress,Nog een Forge wordt nog steeds gemaakt!
+forge.popup_boost,Boost -30 min
+forge.popup_boost_speedup,Boost -15 min
+forge.progress,#bars in: #tijd
+forge.speedup_no,Nee
+forge.speedup_offer,"<font color=""\#5885b8"">Boost</font> de snelheid van de Forge <font color=""\#5885b8"">met 2x?</font>"
+forge.speedup_ok,OK
+forge.speedup_success,Forge is versterkt!
+forge.speedup_yes,Ja
+forge.start,Starten
+forge.time_1,3 uur
+forge.time_2,6 uur
+forge.time_3,12 uur
+forge.time_4,24 uur
+forge.tutorial.collect_coins,Verdien 1000 munten om de Forge te starten!
+forge.tutorial.open_now,"Geweldig! Smelten is voltooid!
+We kunnen de smidse openen!"
+forge.tutorial.smelt_more,Blijf gouden balken smeden om naar de volgende divisie te komen!
+forge.tutorial.start_forge,"Goed gedaan, je hebt 1000 munten verdiend!
+Nu kunnen we de Forge starten!"
+forge.tutorial.wait_ready,Win meer munten terwijl je Forge aan het werk is!
+forge.watch_ad,Kijk!
+gamemode.chocolate,Lava
+gamemode.diamonds,Diamanten
+gamemode.energycube,Gelei
+gamemode.fishes,Wortels
+gamemode.food,Eikels
+gamemode.fossils,Octopussen
+gamemode.grass,Gras
+gamemode.honeybee,Beer
+gamemode.ice,Ijs
+gamemode.jam,Energie
+gamemode.road,Biggy
+gamemode.stone,Steenen
+gamemode.tasks,Bestellingen
+gamemode.tiles,Gras
+home.bars_need_more,Je hebt meer nodig #more
+home.bars_progress,#current / #total
+home.bet,Speel #count munten
+home.coins,#count
+home.gems,#count
+home.hint_quest_book,Nieuwe quests beschikbaar!
+home.hint_quest_book.claim,Yeah! Iemand gaat beloond worden!
+home.hint_quest_book.new,Wow! Nieuwe quest!
+home.league_indev,Volgende liga komt binnenkort!
+home.rematch.asks_for_rematch_draw,#name wil nog een keer proberen.
+home.rematch.asks_for_rematch_player_lose,#name biedt herkansing aan
+home.rematch.asks_for_rematch_player_won,#name vraagt om een herkansing!
+home.xp,#count
+ingame_booster_shop.buy,Krijg #count voor
+ingame_booster_shop.hint.cross,Gebruik de magische stok om één rij en één kolom stukken te verwijderen.
+ingame_booster_shop.hint.hammer,Verwijder tegels door ze te verpletteren met de hamer!
+ingame_booster_shop.hint.hand,Gebruik de Handschoen om elke aangrenzende stukken te ruilen.
+ingame_booster_shop.title.cross,Magische staf
+ingame_booster_shop.title.hammer,Hamer
+ingame_booster_shop.title.hand,Handschoen
+league.Bronze,Bron League
+league.div_1,Divisie I
+league.div_2,Divisie II
+league.div_3,Divisie III
+league.div_4,Divisie IV
+league.div_5,Divisie V
+league.E001,Brons III
+league.E002,Brons II
+league.E003,Brons I
+league.E004,Zilver IV
+league.E005,Zilver III
+league.E006,Zilver II
+league.E007,Zilver I
+league.E008,Gouden V
+league.E009,Gouden IV
+league.E010,Gouden III
+league.E011,Gouden II
+league.E012,Gouden I
+league.E013,Platina V
+league.E014,Platina IV
+league.E015,Platina III
+league.E016,Platina II
+league.E017,Platina I
+league.E018,Meester 1
+league.Gold,Gouden Liga
+league.Master,Meesterliga
+league.MasterN,Meester #div
+league.GrandMaster,Grootmeester
+league.GrandMasterN,Grootmeester #div
+league.Platinum,Platina Liga
+league.Silver,Zilveren Liga
+levelup.continue,Geweldig!
+levelup.reward,Beloning
+levelup.title_division,"Gefeliciteerd!
+Nieuwe divisie!"
+levelup.title_league,"Gefeliciteerd!!
+Nieuwe liga!"
+ma2transfer.install,Installeren
+ma2transfer.message,"Match Arena is verhuisd naar de nieuwe App!
+
+Belangrijk! Gebruik de code hieronder om je voortgang over te zetten."
+nickname.tutorial_004,Sensei Michael
+nickname.tutorial_005,Professor Frank
+nickname.tutorial_006,Koningin Matcha
+nickname.tutorial_007,Leraar Leo
+nickname.tutorial_008,Coach Carl
+nickname.tutorial_009,Tutor Baardige
+nickname.tutorial_010,Guru Vicky
+placeholder.hint_friends,"Uitdag je vrienden
+en laat zien wat je in je mars hebt!"
+placeholder.hint_quests,"Bereik de Bronzen Liga I
+om te ontdekken!"
+placeholder.hint_settings,Klaar binnenkort :)
+placeholder.title_friends,"Speel met vrienden
+binnenkort beschikbaar"
+placeholder.title_quests,"Geweldige Quests
+Gesloten"
+placeholder.title_settings,Instellingen in aanbouw.
+quest_help.block_1,Voltooi Questen om beloningen te krijgen!
+quest_help.block_2,Voltooi alle Quests om de kist te openen.
+quest_help.block_3,"Voltooi alle Quests voordat je naar de volgende Divisie gaat, anders verlies je de kist!"
+quest_help.continue,Got het!
+quest_help.title,Quest Boek
+quest.aquarium,Verzamel #amount vissen
+quest.bar,#progress / #amount
+quest.bar_completed,Quest voltooid!
+quest.bar_last_try,Vorige poging: #progress van #amount
+quest.bar_special_not_tried,#progress / #amount
+quest.best_so_far,Beste resultaat: #progress
+quest.butterfly,Verzamel #amount vlinders
+quest.buy_now,Krijg nu #amount
+quest.cat,Verzamel #amount Kittens
+quest.chip_destroy,Verzamel #amount van elk stuk
+quest.chip_destroy_bird,Verzamel #amount vogels
+quest.chip_destroy_blue,Verzamel #amount blauwe stukken
+quest.chip_destroy_diamond,Verzamel #amount Diamanten
+quest.chip_destroy_fish,Verzamel #amount Wortels
+quest.chip_destroy_fish_blue,Verzamel #amount blauwe wortels
+quest.chip_destroy_fish_green,Verzamel #amount groene wortels
+quest.chip_destroy_fish_orange,Verzamel #amount oranje wortels
+quest.chip_destroy_fish_purple,Verzamel #amount paarse Wortels
+quest.chip_destroy_fish_red,Verzamel #amount rode wortels
+quest.chip_destroy_fish_yellow,Verzamel #amount gele wortels
+quest.chip_destroy_food,Verwijder #amount Eikels
+quest.chip_destroy_frog,Verzamel #amount Kikkers
+quest.chip_destroy_green,Verzamel #amount groene stukken
+quest.chip_destroy_orange,Verzamel #amount oranje stukken
+quest.chip_destroy_purple,Verzamel #amount paarse stukken
+quest.chip_destroy_red,Verzamel #amount rode stukken
+quest.chip_destroy_snail,Verzamel #amount slakken
+quest.chip_destroy_super,Verzamel #amount super stukken
+quest.chip_destroy_wafer,Verzamel #amount Gouderts
+quest.chip_destroy_with_bomb,Verzamel #amount stukken door middel van een bom!
+quest.chip_destroy_with_line,Verzamel #amount stukken met Lijn bonus
+quest.chip_destroy_with_mine,Verzamel #amount stukken met Firefly bonus
+quest.chip_destroy_with_omni,Verzamel #amount stukken met de Bliksembonus
+quest.chip_destroy_yellow,Verzamel #amount gele stukken
+quest.chip_destroy_waterfish,Verzamel #amount watervissen
+quest.chip_recolor,Verf #amount stukken opnieuw met Paint bonus
+quest.claim,Belooning opeisen
+quest.complete_chest,Alle quests voltooid
+quest.cover_destroy_bee,Verzamel #amount Beren
+quest.cover_destroy_bound,Ontgrendel #amount stukken
+quest.cover_destroy_chocolate,Verwijder #amount stukken met Lava
+quest.cover_destroy_fizzblue,Verzamel #amount fizz
+quest.cover_destroy_fizzpurple,Verzamel #amount fizz
+quest.cover_destroy_frozen,Verwijder de rijst van #amount stukken
+quest.cover_destroy_honey,Verwijder #amount tegels met Honing
+quest.cover_destroy_hotlava,Verwijder #amount stukken van Hot Lava
+quest.cover_destroy_receiver_energycube,Verzamel #amount jelly kristallen
+quest.cover_destroy_receiver_jam,Verzamel #amount energiekristallen
+quest.cover_destroy_statue,Verzamel #amount honden
+quest.cover_destroy_stone,Verwijder #amount Steen stukken
+quest.cover_destroy_leaf,Verwijder #amount bladeren
+quest.division_done_card,Nieuwe quests in de volgende divisie!
+quest.duck,Verzamel #amount eenden
+quest.energy_flow,Trek energie door #amount tegels
+quest.energycube_flow,Vul #amount tegels met Jelly
+quest.fossil,Verzamel #amount Octopussen
+quest.gum,Verzamel #amount stukken kauwgom
+quest.new_quest,Nieuwe quest!
+quest.new_quest_in,Volgende quest in:
+quest.on_arena_splash_score,Score #amount in Arena Boom!
+quest.on_arena_splash_use_bonus,Bespaar #amount bonussen voor Arena Boom!
+quest.plate_destroy,Verwijder #amount scheidingen
+quest.play,Speel
+quest.pvp_score,Score #amount in duelle
+quest.reward,Beloning:
+quest.snakes,Verzamel #amount Slangen
+quest.tile_destroy_gold,Verzamel #amount tegels met Gras
+quest.tile_destroy_grass,Verzamel #amount tegels met Gras
+quest.title,Quest Boek
+quest.use_bonus,Gebruik #amount bonussen
+quest.use_bonus_bomb,Gebruik #amount bonussen Bom
+quest.use_bonus_line,Gebruik #amount bonussen Lijn
+quest.use_bonus_mine,Gebruik #amount bonussen Firefly
+quest.use_bonus_omni,Gebruik bonus Bliksem #amount keer
+quest.use_bonus_tint,Gebruik #amount bonussen Verf
+quest.use_combo_bomb_bomb,Maak combo-bonus Bom+Bom #amount keer
+quest.use_combo_bomb_omni,Maak combo-bonus Lightning+Bomb #amount keer.
+quest.use_combo_bomb_tint,Maak combo-bonus Paint+Bomb #amount keer.
+quest.use_combo_line_bomb,Maak combo-bonus Bom+Lijn #amount keer
+quest.use_combo_line_line,Maak combo-bonus Lijn+Lijn #amount keer
+quest.use_combo_line_omni,Maak combo-bonus Lightning+Line #amount keer
+quest.use_combo_line_tint,Maak combo-bonus Paint+Line #amount keer.
+quest.use_combo_mine_bomb,Maak combo-bonus Bom+Vuurvlieg #amount keer
+quest.use_combo_mine_line,Maak combo-bonus Vuurvliegje+Lijn #amount keer
+quest.use_combo_mine_mine,Maak combo-bonus Vuurvlieg+Vuurvlieg #amount keer
+quest.use_combo_mine_omni,Maak combo-bonus Bliksem+Vuurvlieg #amount keer
+quest.use_combo_mine_tint,Maak combo-bonus Paint+Firefly #amount keer
+quest.use_combo_omni_omni,Maak combo-bonus Bliksem+Bliksem #amount keer
+quest.use_combo_omni_tint,Maak combo-bonus Paint+Lightning #amount keer.
+quest.use_combo_tint_tint,Maak combo-bonus Verf+Verf #amount keer
+quest.walk,Loop #amount stappen met Biggy
+quest.watch_for_new,- #time
+quest.win,Win #amount gevechten
+quest.win_coins,Verdien #amount munten in gevechten!
+quest.win_hard_level,Voltooi moeilijk niveau
+quest.win_rematch,Win #amount herkansen
+quest.win_streak,Win #amount opeenvolgende duels!
+quest.chip_destroy_clam,Verzamel #amount parels
+quest.chip_destroy_egg,Verzamel #amount eieren
+quest.gardenflower,Verzamel #amount bloemen
+quest.sausages,Verzamel #amount worsten
+rematch.asks_for_rematch_draw,"#name wil nog een keer proberen
+Inzet #bet"
+rematch.asks_for_rematch_player_lose,"#name biedt een herkansing
+Inzet #bet"
+rematch.asks_for_rematch_player_won,"#name wil een revanche!
+Inzet #bet"
+rematch.rematch_bet,Wed #bet
+report.body,
+report.subject,Probleem met MatchArena
+reward.bars,Gouden staven
+reward.coins_amt,+#amount
+reward.gems_amt,+#amount
+reward.levels,Nieuwe niveaus
+reward.levels_amt,+#amount
+reward.levelup,"Gefeliciteerd!
+Nieuw level!"
+reward.new_levels,"Nieuwe
+niveaus!"
+reward.talisman,Talismanen
+reward.xp_amt,+#amount
+search.prize_fund,Prijzengeld
+settings.friends_and_partners,Vrienden en partners
+settings.language.help_us_translate,"Wil je ons helpen Match Arena te vertalen naar de talen die jij spreekt? Stuur ons een berichtje op <font color=""\#0000EE"">support@matcharenagame.com."
+settings.notifications.duels,Uitdaging tot duelen
+shop.indev,Komt eraan!
+splash.hint_chocolate,Verwijder zoveel Lava als je kan!
+splash.hint_diamonds,Verzamel zoveel mogelijk Diamanten!
+splash.hint_energycube,Vul zoveel tegels als je kunt met Jelly!
+splash.hint_fishes,Verzamel zoveel mogelijk wortels!
+splash.hint_food,Verwijder zoveel eikels als je kunt!
+splash.hint_fossils,Red zoveel octopussen als je kan!
+splash.hint_honeybee,Verzamel zoveel Beren als je kan!
+splash.hint_ice,Verwijder zoveel ijs als je kunt!
+splash.hint_jam,Vul zoveel tegels als je kunt met energie!
+splash.hint_road,Loop zo ver mogelijk met Biggy!
+splash.hint_stone,Verwijder zoveel stenen als je kunt!
+splash.hint_tasks,Voltooi zoveel mogelijk Bestellingen!
+splash.hint_tiles,Verzamel zoveel mogelijk Gras!
+splash.mode_chocolate,Doel - Lava
+splash.mode_diamonds,Doel - Diamanten
+splash.mode_fishes,Doel - Wortels
+splash.mode_food,Doel - Eikels
+splash.mode_jam,Doel - Energie
+splash.mode_road,Doel - Biggy
+splash.mode_tasks,Doel - Bestellingen
+splash.mode_tiles,Doel - Gras
+talismans_shop.ask_button,Facebook
+talismans_shop.ask_text,Vraag vrienden
+talismans_shop.boost_text,x2 hervul snelheid
+talismans_shop.buy_all,Krijg #amount voor
+talismans_shop.hint,Dubbele munten gewonnen
+talismans_shop.recharge,Volgende talisman in: #time
+talismans_shop.title,Talismanen
+talismans_shop.watch_ad_button,Kijk!
+talismans_shop.watch_ad_text,Krijg 1 gratis
+tickets_shop.ask_button,Facebook
+tickets_shop.ask_text,Vraag vrienden
+tutorial.001.collect_more_fishes,"Verzamel zoveel mogelijk <font color=""\#5885b8"">Wortels</font>!"
+tutorial.001.continue_to_collect_fishes,Blijf wortels verzamelen!
+tutorial.001.first_swap_red_down,"Verplaats de rode stuk naar beneden
+om <font color=""\#5885b8"">drie op een rij</font> te maken."
+tutorial.001.remind_collect_three_in_a_row,"Verzamel <font color=""\#5885b8"">drie stukken</font> van dezelfde kleur<font color=""\#5885b8""> in een rij</font>"
+tutorial.001.second_swap_green_left,"Verplaats het groene stuk naar links
+om <font color=""\#5885b8"">drie op een rij</font> te maken."
+tutorial.001.third_swap_fish,"<font color=""\#5885b8"">Wortels</font> kunnen ook
+in een rij van drie gematched worden."
+tutorial.001.you_are_doing_well,Je doet het goed!
+tutorial.002.get_bonus_line,"...om een <font color=""\#5885b8"">bonus - Line!</font> te krijgen!"
+tutorial.002.try_four_in_a_row,"Probeer <font color=""\#5885b8"">4 op een rij</font> te maken!"
+tutorial.002.use_line_bonus,"Match <font color=""\#5885b8"">drie op een rij met bonus</font> om de kracht van de lijn te zien!"
+tutorial.003.hint,Verzamel meer wortels dan je tegenstander!
+tutorial.003.try_l_or_t,"Stukjes matchen <font color=""\#5885b8"">in een T of L-vorm!</font>"
+tutorial.003.use_bomb_bonus,"...om een <font color=""\#5885b8"">bonus - Bom!</font> te krijgen!
+Laten we het opblazen!"
+tutorial.004.clear_gold_tiles,"Maak combinaties op het <font color=""\#5885b8"">Gras</font>
+om het te verzamelen!"
+tutorial.004.combine_omni_with_blue,"Ruil de <font color=""\#5885b8"">Bliksempieces</font> met de blauwe pieces om alle blauwe pieces van het bord te verwijderen!"
+tutorial.004.try_five_in_a_row,"Probeer <font color=""\#5885b8"">5 op een rij</font> te krijgen!"
+tutorial.005.two_bonus_can_combine,"Twee bonussen kunnen samengevoegd worden <font color=""\#5885b8"">om een nog grotere bonus te krijgen!</font>"
+tutorial.007.collect_food,"Maak matches naast <font color=""\#5885b8"">Eikels</font>!"
+tutorial.007.move_character,"Verzamel eikels om
+<font color=""\#5885b8"">Piggy vooruit te laten gaan!</font>"
+tutorial.008.make_mine_bonus,"Koppel <font color=""\#5885b8"">vier stukken in een vierkant</font> 
+en krijg een bonus - Vuurvliegje!"
+tutorial.008.use_mine_bonus,"Match drie op een rij met <font color=""\#5885b8"">Vuurvliegje</font>
+om het te gebruiken!"
+tutorial.009.make_tint_bonus,"Maak een <font color=""\#5885b8"">grote Т-vorm</font> en
+krijg een bonus - Verf!"
+tutorial.009.use_tint_bonus,"<font color=""\#5885b8"">Verf</font> kan met elk stukje worden geruild!"
+level_popup.adventure.title,Niveau
+lives_shop.ma_hint,"Je hebt levens nodig om 
+Avontuur te blijven spelen"

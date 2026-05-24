@@ -1,0 +1,391 @@
+
+Wonderwoman@0.5x.png
+size: 617,134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wonder-EBall-L
+  rotate: true
+  xy: 134, 14
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+Wonder-EBall-R
+  rotate: false
+  xy: 508, 2
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Wonder-Effect-Base
+  rotate: true
+  xy: 1, 22
+  size: 111, 47
+  orig: 111, 47
+  offset: 0, 0
+  index: -1
+Wonder-Effect-Particle
+  rotate: true
+  xy: 464, 2
+  size: 4, 6
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+Wonder-Effect-White
+  rotate: true
+  xy: 191, 46
+  size: 87, 27
+  orig: 87, 27
+  offset: 0, 0
+  index: -1
+Wonder-Eye-FullC-L
+  rotate: true
+  xy: 486, 1
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+Wonder-Eye-FullC-R
+  rotate: true
+  xy: 49, 22
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+Wonder-Eye-Patch-L
+  rotate: true
+  xy: 521, 2
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+Wonder-Eye-Patch-R
+  rotate: true
+  xy: 591, 38
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+Wonder-Eyes-angary
+  rotate: true
+  xy: 539, 52
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+Wonder-Face
+  rotate: false
+  xy: 398, 3
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+Wonder-Fall-Mouth
+  rotate: true
+  xy: 134, 2
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+Wonder-Hair
+  rotate: true
+  xy: 49, 44
+  size: 89, 141
+  orig: 89, 141
+  offset: 0, 0
+  index: -1
+Wonder-Hair-01
+  rotate: false
+  xy: 220, 55
+  size: 169, 78
+  orig: 169, 78
+  offset: 0, 0
+  index: -1
+Wonder-Hip-Patch
+  rotate: false
+  xy: 438, 57
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Wonder-L-Elbow
+  rotate: false
+  xy: 568, 29
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+Wonder-L-Eyering
+  rotate: false
+  xy: 574, 84
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+Wonder-L-Hand
+  rotate: false
+  xy: 464, 45
+  size: 13, 38
+  orig: 13, 38
+  offset: 0, 0
+  index: -1
+Wonder-L-Leg-Pad
+  rotate: false
+  xy: 523, 17
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+Wonder-L-Palm-1
+  rotate: false
+  xy: 595, 66
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+Wonder-L-Palm-2
+  rotate: false
+  xy: 581, 3
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+Wonder-L-Palm-3
+  rotate: true
+  xy: 555, 55
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+Wonder-L-Palm-open
+  rotate: true
+  xy: 583, 61
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+Wonder-L-Shoe
+  rotate: false
+  xy: 97, 2
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+Wonder-L-Shorts
+  rotate: false
+  xy: 464, 7
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+Wonder-L-Thigh
+  rotate: false
+  xy: 190, 3
+  size: 17, 39
+  orig: 17, 39
+  offset: 0, 0
+  index: -1
+Wonder-Mouth
+  rotate: false
+  xy: 220, 46
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+Wonder-Mouth-Idle
+  rotate: false
+  xy: 236, 46
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+Wonder-Neck
+  rotate: false
+  xy: 519, 51
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+Wonder-R-Elbow
+  rotate: false
+  xy: 84, 1
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+Wonder-R-Eyering
+  rotate: false
+  xy: 574, 109
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Wonder-R-Hand
+  rotate: false
+  xy: 478, 48
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+Wonder-R-Leg-Pad
+  rotate: false
+  xy: 486, 13
+  size: 15, 34
+  orig: 15, 34
+  offset: 0, 0
+  index: -1
+Wonder-R-Palm
+  rotate: false
+  xy: 564, 4
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+Wonder-R-Palm-1
+  rotate: false
+  xy: 67, 1
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+Wonder-R-Palm2
+  rotate: true
+  xy: 437, 1
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+Wonder-R-Palm3
+  rotate: false
+  xy: 539, 23
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Wonder-R-Shoe
+  rotate: true
+  xy: 39, 1
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+Wonder-R-Shorts
+  rotate: false
+  xy: 437, 17
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+Wonder-R-Thigh
+  rotate: true
+  xy: 1, 1
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+Wonder-Shadow
+  rotate: false
+  xy: 410, 84
+  size: 163, 49
+  orig: 163, 49
+  offset: 0, 0
+  index: -1
+Wonder-celeb-L-Palm
+  rotate: false
+  xy: 539, 4
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+Wonder-celeb-L-Palm1
+  rotate: false
+  xy: 604, 23
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+Wonder-celeb-R-Palm
+  rotate: false
+  xy: 410, 57
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Wonder-hand-hold-L
+  rotate: false
+  xy: 263, 1
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+Wonder-hand-hold-R
+  rotate: true
+  xy: 209, 2
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+tint-Wonder-Body
+  rotate: true
+  xy: 144, 2
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+tint-Wonder-L-Band
+  rotate: false
+  xy: 501, 4
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+tint-Wonder-L-Shoulder
+  rotate: false
+  xy: 502, 15
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+tint-Wonder-L-Socks
+  rotate: false
+  xy: 390, 57
+  size: 19, 76
+  orig: 19, 76
+  offset: 0, 0
+  index: -1
+tint-Wonder-R-Band
+  rotate: false
+  xy: 251, 46
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+tint-Wonder-R-Shoulder
+  rotate: false
+  xy: 493, 50
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+tint-Wonder-R-Socks
+  rotate: true
+  xy: 64, 22
+  size: 20, 79
+  orig: 20, 79
+  offset: 0, 0
+  index: -1
+tint-Wonder-hand-hold-L
+  rotate: false
+  xy: 309, 1
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+tint-Wonder-hand-hold-R
+  rotate: false
+  xy: 355, 1
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1

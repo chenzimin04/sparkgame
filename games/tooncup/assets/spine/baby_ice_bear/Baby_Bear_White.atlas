@@ -1,0 +1,153 @@
+
+Baby_Bear_White.png
+size: 470, 522
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Effect-Base
+  rotate: true
+  xy: 213, 299
+  size: 221, 93
+  orig: 221, 93
+  offset: 0, 0
+  index: -1
+Effect-Particle
+  rotate: false
+  xy: 298, 203
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+Effect-White
+  rotate: true
+  xy: 415, 28
+  size: 173, 53
+  orig: 173, 53
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 2, 194
+  size: 326, 98
+  orig: 326, 98
+  offset: 0, 0
+  index: -1
+baby_brown_arm_left
+  rotate: false
+  xy: 342, 203
+  size: 75, 109
+  orig: 75, 109
+  offset: 0, 0
+  index: -1
+baby_brown_arm_right
+  rotate: false
+  xy: 102, 195
+  size: 80, 102
+  orig: 80, 102
+  offset: 0, 0
+  index: -1
+baby_brown_belly
+  rotate: false
+  xy: 199, 2
+  size: 214, 192
+  orig: 214, 192
+  offset: 0, 0
+  index: -1
+baby_brown_eye_left
+  rotate: false
+  xy: 315, 281
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+baby_brown_eye_right
+  rotate: true
+  xy: 259, 197
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+baby_brown_eyebrow_left
+  rotate: false
+  xy: 308, 207
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+baby_brown_eyebrow_right
+  rotate: true
+  xy: 289, 198
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+baby_brown_face
+  rotate: false
+  xy: 2, 5
+  size: 195, 187
+  orig: 195, 187
+  offset: 0, 0
+  index: -1
+baby_brown_mouth
+  rotate: false
+  xy: 308, 199
+  size: 32, 6
+  orig: 32, 6
+  offset: 0, 0
+  index: -1
+baby_brown_nose
+  rotate: true
+  xy: 246, 196
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+baby_brown_shirt
+  rotate: true
+  xy: 102, 299
+  size: 221, 109
+  orig: 221, 109
+  offset: 0, 0
+  index: -1
+baby_brown_shoe_left
+  rotate: true
+  xy: 184, 196
+  size: 101, 60
+  orig: 101, 60
+  offset: 0, 0
+  index: -1
+baby_brown_shoe_right
+  rotate: true
+  xy: 360, 412
+  size: 108, 63
+  orig: 108, 63
+  offset: 0, 0
+  index: -1
+baby_brown_short
+  rotate: true
+  xy: 308, 314
+  size: 206, 50
+  orig: 206, 50
+  offset: 0, 0
+  index: -1
+baby_brown_shoulder_left
+  rotate: true
+  xy: 360, 337
+  size: 73, 51
+  orig: 73, 51
+  offset: 0, 0
+  index: -1
+baby_brown_shoulder_right
+  rotate: true
+  xy: 246, 217
+  size: 80, 67
+  orig: 80, 67
+  offset: 0, 0
+  index: -1
+baby_brown_tail
+  rotate: true
+  xy: 413, 361
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1

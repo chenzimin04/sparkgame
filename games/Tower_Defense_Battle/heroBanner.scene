@@ -1,0 +1,569 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 0,
+				"x": 0,
+				"var": "pngBg",
+				"top": 0,
+				"skin": "images/heroBanner/icon_bg.png",
+				"right": 0,
+				"left": 0,
+				"bottom": 0
+			},
+			"compId": 60
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 195,
+				"x": 0,
+				"width": 750,
+				"var": "boxAttr",
+				"height": 800
+			},
+			"compId": 29,
+			"child": [
+				{
+					"type": "Label",
+					"props": {
+						"y": -27,
+						"x": 525,
+						"var": "labSpecial",
+						"text": "物理、单体",
+						"fontSize": 30,
+						"color": "#ffffff",
+						"bold": false
+					},
+					"compId": 27
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": -18,
+						"x": 225,
+						"width": 300,
+						"var": "labName",
+						"text": "英雄名称",
+						"fontSize": 46,
+						"color": "#ffffff",
+						"bold": true,
+						"align": "center"
+					},
+					"compId": 8
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 10,
+						"x": 526,
+						"var": "labLv",
+						"text": "LV.28",
+						"fontSize": 30,
+						"color": "#00FF00",
+						"bold": false
+					},
+					"compId": 28
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 43,
+						"x": 18,
+						"skin": "images/heroBanner/icon_sx_pj_1.png"
+					},
+					"compId": 22
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 53,
+						"x": 95,
+						"text": "品阶",
+						"fontSize": 28,
+						"color": "#ffffff",
+						"bold": true
+					},
+					"compId": 65
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 88,
+						"x": 95,
+						"var": "labQuality",
+						"text": "星辉一阶",
+						"fontSize": 30,
+						"color": "#ffffff",
+						"bold": true
+					},
+					"compId": 26
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 133,
+						"x": 18,
+						"skin": "images/heroBanner/icon_sx_zl.png"
+					},
+					"compId": 21
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 142,
+						"x": 95,
+						"text": "战斗力",
+						"fontSize": 28,
+						"color": "#ffffff",
+						"bold": true
+					},
+					"compId": 64
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 176,
+						"x": 95,
+						"var": "labFight",
+						"text": "10530",
+						"fontSize": 30,
+						"color": "#ffffff",
+						"bold": true
+					},
+					"compId": 25
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 265,
+						"x": 49,
+						"var": "iconPatch",
+						"skin": "images/heroBanner/icon_sx_sp.png",
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 11
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 235,
+						"x": 93.921875,
+						"text": "英雄碎片",
+						"fontSize": 28,
+						"color": "#ffffff",
+						"bold": true
+					},
+					"compId": 66
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 269,
+						"x": 99,
+						"var": "labPatch",
+						"text": "9",
+						"fontSize": 30,
+						"color": "#ffffff",
+						"bold": true
+					},
+					"compId": 12
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 66,
+						"x": 527,
+						"skin": "images/heroBanner/icon_jn(代图).png"
+					},
+					"compId": 20
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 157,
+						"x": 537,
+						"var": "labSkillName",
+						"text": "奋力一击",
+						"fontSize": 32,
+						"color": "#ffffff",
+						"bold": true
+					},
+					"compId": 23
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 204,
+						"x": 537,
+						"wordWrap": true,
+						"width": 184,
+						"var": "labSkilDesc",
+						"text": "对单个怪物造成25000的伤害",
+						"height": 98,
+						"fontSize": 22,
+						"color": "#ffffff",
+						"bold": false
+					},
+					"compId": 24
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 42,
+						"x": 249,
+						"skin": "images/heroBanner/icon_ycz1.png"
+					},
+					"compId": 82
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 111,
+						"x": 293,
+						"var": "iconHero",
+						"skin": "images/heroBanner/icon_role_001.png"
+					},
+					"compId": 62
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 237.16666666666669,
+						"x": 448,
+						"skin": "images/heroBanner/button_cz.png",
+						"label": "label"
+					},
+					"compId": 81
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 643,
+						"x": 375,
+						"width": 214,
+						"var": "btnUp",
+						"skin": "images/heroBanner/button_nd_1.png",
+						"height": 104,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 15,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 28,
+								"x": 567,
+								"width": 180,
+								"var": "labUpTxt",
+								"text": "升级",
+								"fontSize": 40,
+								"color": "#ffffff",
+								"bold": true,
+								"align": "center"
+							},
+							"compId": 16
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 20,
+								"x": 59,
+								"skin": "images/heroBanner/button_word_sj.png",
+								"label": "label"
+							},
+							"compId": 80
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 651,
+						"x": 648,
+						"width": 97,
+						"var": "btnBag",
+						"skin": "images/dev/img_btn_blue.png",
+						"sizeGrid": "44,22,51,24",
+						"height": 89,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 74,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 32,
+								"x": 18,
+								"width": 60,
+								"text": "背包",
+								"fontSize": 24,
+								"color": "#ffffff",
+								"bold": true,
+								"align": "center"
+							},
+							"compId": 75
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 697,
+						"x": 43.921875,
+						"var": "iconCostPatch",
+						"skin": "images/dev/img_btn_gb.png"
+					},
+					"compId": 72,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 9,
+								"x": 69,
+								"var": "labCostPatch",
+								"text": "500",
+								"fontSize": 36,
+								"color": "#ffffff"
+							},
+							"compId": 73
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 737,
+						"x": 292,
+						"width": 147,
+						"var": "iconCostGold",
+						"skin": "images/heroBanner/icon_zy_bg.png",
+						"sizeGrid": "0,12,0,21",
+						"height": 37
+					},
+					"compId": 83,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": -4,
+								"x": -8,
+								"skin": "images/heroBanner/icon_zy_jb.png"
+							},
+							"compId": 13
+						},
+						{
+							"type": "Label",
+							"props": {
+								"y": 5,
+								"x": 61,
+								"var": "labCostGold",
+								"text": "500",
+								"fontSize": 36,
+								"color": "#ffffff"
+							},
+							"compId": 14
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 391,
+						"x": 144,
+						"var": "btnBox4",
+						"skin": "images/heroBanner/icon_wpl_1.png",
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 36,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 33,
+								"x": 32,
+								"skin": "images/heroBanner/icon_wpl_+.png"
+							},
+							"compId": 76
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 391,
+						"x": 291,
+						"var": "btnBox5",
+						"skin": "images/heroBanner/icon_wpl_1.png",
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 37,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 33,
+								"x": 32,
+								"skin": "images/heroBanner/icon_wpl_+.png"
+							},
+							"compId": 77
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 391,
+						"x": 436,
+						"var": "btnBox6",
+						"skin": "images/heroBanner/icon_wpl_1.png",
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 38,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 33,
+								"x": 32,
+								"skin": "images/heroBanner/icon_wpl_+.png"
+							},
+							"compId": 78
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 391,
+						"x": 593,
+						"var": "btnBox7",
+						"skin": "images/heroBanner/icon_wpl_1.png",
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 63,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 33,
+								"x": 32,
+								"skin": "images/heroBanner/icon_wpl_+.png"
+							},
+							"compId": 79
+						}
+					]
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 464,
+						"x": 141,
+						"var": "labRange",
+						"text": "攻击范围",
+						"fontSize": 28,
+						"color": "#ffffff",
+						"bold": true
+					},
+					"compId": 67
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 499,
+						"x": 141,
+						"var": "labAtk",
+						"text": "物理攻击",
+						"fontSize": 28,
+						"color": "#ffffff",
+						"bold": true
+					},
+					"compId": 68
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 534,
+						"x": 141,
+						"var": "labMagic",
+						"text": "魔法攻击",
+						"fontSize": 28,
+						"color": "#ffffff",
+						"bold": true
+					},
+					"compId": 69
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 477,
+						"x": 456,
+						"var": "labAtkSpeed",
+						"text": "攻击速度",
+						"fontSize": 28,
+						"color": "#ffffff",
+						"bold": true
+					},
+					"compId": 70
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 512,
+						"x": 455.8125,
+						"var": "labHeroMove",
+						"text": "移动速度",
+						"fontSize": 28,
+						"color": "#ffffff",
+						"bold": true
+					},
+					"compId": 71
+				}
+			]
+		},
+		{
+			"type": "List",
+			"props": {
+				"y": 1006,
+				"x": 0,
+				"width": 750,
+				"var": "heroList",
+				"height": 220
+			},
+			"compId": 30
+		}
+	],
+	"loadList": [
+		"images/heroBanner/icon_bg.png",
+		"images/heroBanner/icon_sx_pj_1.png",
+		"images/heroBanner/icon_sx_zl.png",
+		"images/heroBanner/icon_sx_sp.png",
+		"images/heroBanner/icon_jn(代图).png",
+		"images/heroBanner/icon_ycz1.png",
+		"images/heroBanner/icon_role_001.png",
+		"images/heroBanner/button_cz.png",
+		"images/heroBanner/button_nd_1.png",
+		"images/heroBanner/button_word_sj.png",
+		"images/dev/img_btn_blue.png",
+		"images/dev/img_btn_gb.png",
+		"images/heroBanner/icon_zy_bg.png",
+		"images/heroBanner/icon_zy_jb.png",
+		"images/heroBanner/icon_wpl_1.png",
+		"images/heroBanner/icon_wpl_+.png"
+	],
+	"loadList3D": []
+}

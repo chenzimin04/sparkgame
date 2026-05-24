@@ -1,0 +1,219 @@
+{
+	"type": "View",
+	"props": {
+		"width": 626,
+		"height": 126
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Box",
+			"props": {
+				"y": 0,
+				"x": 0,
+				"width": 626,
+				"rotation": 0,
+				"height": 126
+			},
+			"compId": 19,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"top": 0,
+						"skin": "images/kill/icon_lb_bg.png",
+						"sizeGrid": "22,18,28,19",
+						"right": 0,
+						"left": 0,
+						"bottom": 0
+					},
+					"compId": 9
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 11,
+						"x": 22,
+						"width": 132,
+						"var": "killImg",
+						"skin": "images/kill/kill1.png",
+						"scaleY": 0.8,
+						"scaleX": 0.8,
+						"height": 128
+					},
+					"compId": 3
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 18,
+						"x": 134,
+						"var": "iconMan",
+						"skin": "images/kill/type1.png"
+					},
+					"compId": 24
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 22,
+						"x": 169,
+						"var": "killName",
+						"skin": "images/kill/name1.png"
+					},
+					"compId": 21
+				},
+				{
+					"type": "Box",
+					"props": {
+						"y": 29,
+						"x": 288,
+						"width": 120,
+						"var": "boxLv",
+						"rotation": 0,
+						"height": 26
+					},
+					"compId": 22
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 18,
+						"x": 508,
+						"width": 84,
+						"var": "goldBg",
+						"skin": "images/kill/icon_jb_bg.png",
+						"sizeGrid": "9,9,9,9",
+						"height": 23
+					},
+					"compId": 18,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": -8,
+								"x": -15,
+								"var": "goldIcon",
+								"skin": "images/kill/icon_gold_min.png"
+							},
+							"compId": 14
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 5,
+								"x": 20,
+								"width": 90,
+								"var": "boxGold",
+								"scaleY": 0.7,
+								"scaleX": 0.7,
+								"height": 20
+							},
+							"compId": 23
+						}
+					]
+				},
+				{
+					"type": "Box",
+					"props": {
+						"y": 80,
+						"x": 545,
+						"width": 126,
+						"var": "boxUp",
+						"rotation": 0,
+						"height": 58,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 17,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 1,
+								"x": 1,
+								"width": 204,
+								"var": "btnUp",
+								"skin": "images/grid/button_yellow.png",
+								"sizeGrid": "42,25,44,21",
+								"scaleY": 0.6,
+								"scaleX": 0.6,
+								"height": 91
+							},
+							"compId": 7
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 29,
+								"x": 62,
+								"var": "imgUp",
+								"skin": "images/kill/button_word_sj.png",
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 16
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": -10,
+								"x": 118,
+								"width": 20,
+								"var": "boxRed",
+								"height": 20
+							},
+							"compId": 25
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "Label",
+			"props": {
+				"y": 66,
+				"x": 145,
+				"wordWrap": true,
+				"width": 305,
+				"var": "labDesc",
+				"text": "技能描述",
+				"strokeColor": "#000000",
+				"stroke": 1,
+				"leading": 5,
+				"height": 42,
+				"fontSize": 20,
+				"color": "#ffffff",
+				"align": "left"
+			},
+			"compId": 11
+		},
+		{
+			"type": "Label",
+			"props": {
+				"y": 52,
+				"x": 814,
+				"width": 140,
+				"var": "labUp",
+				"text": "升级",
+				"rotation": 0,
+				"fontSize": 22,
+				"color": "#ffffff",
+				"bold": true,
+				"align": "center"
+			},
+			"compId": 8
+		}
+	],
+	"loadList": [
+		"images/kill/icon_lb_bg.png",
+		"images/kill/kill1.png",
+		"images/kill/type1.png",
+		"images/kill/name1.png",
+		"images/kill/icon_jb_bg.png",
+		"images/kill/icon_gold_min.png",
+		"images/grid/button_yellow.png",
+		"images/kill/button_word_sj.png"
+	],
+	"loadList3D": []
+}

@@ -1,0 +1,18 @@
+{
+  "resolution": "standard",
+  "image1": "paint_a.jpg",
+  "image2": "paint_b.jpg",
+  "differences":
+  [
+    {
+      "x": 228.0,
+      "y": 294.0,
+      "size": 250.0
+    },
+    {
+      "x": 822.0,
+      "y": 408.0,
+      "size": 250.0
+    }
+  ]
+}

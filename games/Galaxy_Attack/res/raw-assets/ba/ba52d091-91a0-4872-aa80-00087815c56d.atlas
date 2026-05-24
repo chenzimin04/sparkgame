@@ -1,0 +1,167 @@
+
+skel_mainplane_4.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 130, 26
+  size: 61, 42
+  orig: 61, 42
+  offset: 0, 0
+  index: -1
+010001
+  rotate: false
+  xy: 1, 69
+  size: 189, 186
+  orig: 189, 186
+  offset: 0, 0
+  index: -1
+010002
+  rotate: false
+  xy: 191, 69
+  size: 189, 186
+  orig: 189, 186
+  offset: 0, 0
+  index: -1
+010003
+  rotate: false
+  xy: 381, 69
+  size: 189, 186
+  orig: 189, 186
+  offset: 0, 0
+  index: -1
+010004
+  rotate: false
+  xy: 571, 69
+  size: 189, 186
+  orig: 189, 186
+  offset: 0, 0
+  index: -1
+010005
+  rotate: false
+  xy: 761, 69
+  size: 189, 186
+  orig: 189, 186
+  offset: 0, 0
+  index: -1
+010006
+  rotate: false
+  xy: 951, 71
+  size: 185, 184
+  orig: 185, 184
+  offset: 0, 0
+  index: -1
+aaaa
+  rotate: false
+  xy: 1137, 77
+  size: 180, 178
+  orig: 180, 178
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1662, 31
+  size: 52, 94
+  orig: 52, 94
+  offset: 0, 0
+  index: -1
+feijig
+  rotate: false
+  xy: 1318, 94
+  size: 176, 161
+  orig: 176, 161
+  offset: 0, 0
+  index: -1
+fury_left
+  rotate: true
+  xy: 1495, 126
+  size: 129, 188
+  orig: 129, 188
+  offset: 0, 0
+  index: -1
+fury_tale
+  rotate: false
+  xy: 1764, 67
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+huo
+  rotate: true
+  xy: 1662, 1
+  size: 29, 65
+  orig: 29, 65
+  offset: 0, 0
+  index: -1
+jetpack
+  rotate: false
+  xy: 1715, 34
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+left_engine
+  rotate: true
+  xy: 1, 8
+  size: 17, 53
+  orig: 17, 53
+  offset: 0, 0
+  index: -1
+left_head
+  rotate: true
+  xy: 1, 26
+  size: 42, 128
+  orig: 42, 128
+  offset: 0, 0
+  index: -1
+left_jet
+  rotate: false
+  xy: 2022, 197
+  size: 23, 58
+  orig: 23, 58
+  offset: 0, 0
+  index: -1
+left_longwing
+  rotate: false
+  xy: 192, 26
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+left_machine
+  rotate: false
+  xy: 1715, 61
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+qq1
+  rotate: true
+  xy: 1684, 126
+  size: 129, 188
+  orig: 129, 188
+  offset: 0, 0
+  index: -1
+qq2
+  rotate: true
+  xy: 1495, 18
+  size: 107, 166
+  orig: 107, 166
+  offset: 0, 0
+  index: -1
+quan
+  rotate: true
+  xy: 1873, 113
+  size: 142, 148
+  orig: 142, 148
+  offset: 0, 0
+  index: -1
+turbo
+  rotate: false
+  xy: 1808, 74
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1

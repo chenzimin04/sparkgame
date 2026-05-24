@@ -1,0 +1,3 @@
+[
+    { "type": "booster", "tile": { "x": 0, "y": 4 }, "dialog": "tutorial-booster-breaker-1", "index": [0, 1], "boosterIndex": 1 }
+] 

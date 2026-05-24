@@ -1,0 +1,51 @@
+{
+	"name": "Xmas Tiles",
+	"short_name": "Xmas Tiles",
+	"description": "Xmas Tiles",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "22x22",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-32.png",
+			"sizes": "44x44",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-64.png",
+			"sizes": "88x88",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-80.png",
+			"sizes": "110x110",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-128.png",
+			"sizes": "176x176",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-256.png",
+			"sizes": "352x352",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-512.png",
+			"sizes": "704x704",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/1024.png",
+			"sizes": "1024x1024",
+			"type": "image/png"
+		}
+	]
+}

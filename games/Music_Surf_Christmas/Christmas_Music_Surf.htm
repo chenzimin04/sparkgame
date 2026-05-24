@@ -1,0 +1,534 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta charset="utf-8"/>
+        <meta name="renderer" content="webkit"/>
+        <meta name="force-rendering" content="webkit"/>
+        <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no"/>
+        <meta name="full-screen" content="true"/>
+        <meta name="x5-fullscreen" content="true"/>
+        <meta name="360-fullscreen" content="true"/>
+        <meta name="x5-page-mode" content="app">
+        <meta name="apple-mobile-web-app-capable" content="yes"/>
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="screen-orientation" content="portrait"/>
+        <meta name="x5-orientation" content="portrait">
+        <meta name="laya" screenorientation="portrait"/>
+        <meta http-equiv="expires" content="0"/>
+        <meta http-equiv="Cache-Control" content="no-siteapp"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+        <meta name="ignore-slide-screen" content="d41b567af3d2cafc948161b396cedeb2|1640880000">
+        <style>
+            /**/
+            .mt5 {
+                margin-top: 5px
+            }
+
+            .mt10 {
+                margin-top: 10px
+            }
+
+            .ml5 {
+                margin-left: 5px
+            }
+
+            .ml10 {
+                margin-left: 10px
+            }
+
+            .mr5 {
+                margin-right: 5px
+            }
+
+            .mr10 {
+                margin-right: 10px
+            }
+
+            .mb5 {
+                margin-bottom: 5px
+            }
+
+            .mb10 {
+                margin-bottom: 10px
+            }
+
+            .abs {
+                position: absolute
+            }
+
+            .rel {
+                position: relative
+            }
+
+            .abs-auto {
+                bottom: 0;
+                left: 0;
+                position: absolute;
+                right: 0;
+                top: 0
+            }
+
+            .ell,.ovh {
+                overflow: hidden
+            }
+
+            .ell {
+                text-overflow: ellipsis;
+                white-space: normal
+            }
+
+            .zi1 {
+                z-index: 1
+            }
+
+            .flex-between {
+                display: flex;
+                justify-content: space-between
+            }
+
+            #loading-view {
+                background-color: #fff;
+                z-index: 1
+            }
+
+            #loading-view-box {
+                height: 40px;
+                margin: auto;
+                text-align: center;
+                width: 80px
+            }
+
+            #loading-view-box span {
+                -webkit-animation: load 1s ease infinite;
+                background: #90ee90;
+                border-radius: 4px;
+                display: inline-block;
+                height: 100%;
+                width: 8px
+            }
+
+            #loading-view-box span:nth-child(2) {
+                -webkit-animation-delay: .2s
+            }
+
+            #loading-view-box span:nth-child(3) {
+                -webkit-animation-delay: .4s
+            }
+
+            #loading-view-box span:nth-child(4) {
+                -webkit-animation-delay: .6s
+            }
+
+            #loading-view-box span:nth-child(5) {
+                -webkit-animation-delay: .8s
+            }
+
+            @-webkit-keyframes load {
+                0%,to {
+                    background: #90ee90;
+                    height: 40px
+                }
+
+                50% {
+                    background: #add8e6;
+                    height: 70px;
+                    margin: -15px 0
+                }
+            }
+
+            #afc-view {
+                display: none;
+                height: 320px;
+                margin: 0 auto;
+                top: 400px;
+                z-index: 3
+            }
+
+            #afc-view,#afc-view .afc-ins {
+                left: 0;
+                position: absolute;
+                right: 0;
+                width: 320px
+            }
+
+            #afc-view .afc-ins {
+                background-color: #fff;
+                margin: auto
+            }
+
+            #afg-view {
+                display: none;
+                position: absolute;
+                z-index: 3
+            }
+
+            #banner-view {
+                background-color: #fff;
+                bottom: 0;
+                display: block;
+                left: 0;
+                margin-top: 3px;
+                right: 0
+            }
+
+            #banner-view .banner-view-close {
+                background-color: #fff;
+                border-radius: 50%;
+                color: #666;
+                height: 14px;
+                line-height: 12px;
+                padding: 5px;
+                position: absolute;
+                right: 0;
+                text-align: center;
+                width: 14px
+            }
+
+            #banner-view .afc-ins {
+                display: block;
+                height: 50px;
+                margin: 0 auto;
+                width: 100%
+            }
+
+            #gi-view {
+                background-color: #91cfce;
+                background-image: linear-gradient(180deg,#c7b7a3,#fff);
+                color: #fff;
+                display: none;
+                min-height: 100%;
+                position: absolute;
+                width: 100%;
+                z-index: 2
+            }
+
+            .gi-info {
+                display: flex;
+                margin-top: 15px
+            }
+
+            .gi-logo {
+                border-radius: 10px;
+                flex-shrink: 0;
+                height: 80px;
+                margin-left: 50px;
+                overflow: hidden;
+                width: 80px
+            }
+
+            .gi-logo .gi-logo-img {
+                height: 100%;
+                width: 100%
+            }
+
+            .gi-info-box {
+                flex-grow: 1;
+                margin-left: 10px;
+                overflow: hidden
+            }
+
+            .gi-info-box .gi-title {
+                color: #000;
+                font-size: 18px;
+                font-weight: 700;
+                margin-top: 15px;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap
+            }
+
+            .gi-like-box {
+                display: flex;
+                line-height: 30px;
+                margin-left: auto;
+                margin-right: auto;
+                margin-top: 5px;
+                position: relative
+            }
+
+            .gi-like-box .gi-like-like {
+                display: flex
+            }
+
+            .gi-like-box .gi-like-like .finger {
+                background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAcBJREFUeNpi+P//PwMVcS0Q3wXiQ0BsR44ZjCCCSkAPiC+iiZkA8VlSDGFioB7QxiK2nVRDqOkgPixiokAcPFAOUsEh7jNQDvLEIa48EA7SxpGGQEBwIBzURa1gpoaDzIDYC4/8B3o7aDEB+ef0dNAkIFYjoOYevRxUDMS5RKi7SJKpZNZZZf+JB/KkmE2OY0pJcMwRcipXUAUYAo0+5JqWEYg/AvFsIH4FFesA4nISIuAcEG8BYjY8ahih9l4DZxCgg14S8OUuJB8c/U9bMAsUKj8I+FIaif2KgbYgBuSgBwQUfWSgH3gGctBnhsEDXoIc9H4QOegeE52jhBA4C3LQt0HkoDMgB70hpWCnoWO+w0LoNQmaGGnooBMgR4Ec9GWQRNdBWG3/YZA4aA/MQZ8HQRr6BMTHyHEQIw1D5z/MQe+A+N8AR9cO5BbjRxJCiVZRtgXZQd9JcBAtouwcckcA1ij7NIDRdQJbI5/YEGKhgYO2YXMQsRUsN5UdA8pQW7E5CF/akEJiT6Cyg7JxRcECIFYCYnZomvqPlL6QB502AbEDEJcCsSYQsyLlPEa0nMiIJWcie3wjEK9AdxBAgAEAxgY6t7qAO2YAAAAASUVORK5CYII=);
+                background-position: center 3px;
+                background-repeat: no-repeat;
+                background-size: 18px 18px;
+                width: 20px
+            }
+
+            .gi-like-box .gi-like-like .num {
+                margin-left: 5px;
+                text-align: right
+            }
+
+            .gi-like-box .gi-like-unlike {
+                display: flex;
+                margin-left: 30px
+            }
+
+            .gi-like-box .gi-like-unlike .finger {
+                background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAelJREFUeNpi/P//PwMWkAjE5UDMhCT2H4qZkPggwIiF/weIzwHxRCA+jWRGPhBnAzEzEP+FioHM+wHEPUC8gAHkIDSs/Z+6IAzJ7EN41N0EqWHCEjpTGagLWpDYL/Co+8WAFiUgoATE9lR20He0aMcF+EHRje6gEAbqg19EquMFYk50B5kx0BYw4pHjAWI+JjTFNjR2EL4oYwE5CtlBVkAsTudQQQcoIeQ1AKGCDoSRHeTBQHtAKLT4YQ4SA2JDOjiIUGjxwhzkTGJc0woIwhzkQCcLCXkansts6OSg/8Qkagkg1mIYHEAU5CAThsEDwFFmSEcLCaUhbiY6R9d/YhykNoiijAPkIDk6WshNQF4I5KBlNHaEEBL7EwG1sizQhvddaFuIiUA8/4GmOVJy5l0kdgkQv4FWVdjs2YatkU8Izyahgb8EiHlJMZ8RRzcIFwCF4FsgFiBC7XIgjiI1fplIVG9EpGNWkuMYchxkQISaE0AcQW4OINVBqgTkQT1QR0qyJKkOkiIgXwB1FN0cJIxH7iEQz6S00GKiovpqapSipDroPQ7xL9CcRXcH3cMhvh9aitPdQTtxiF+jVsVHqoMOodVNMPBxoBwEAoEEKlAKm3CkV64g7ALEJ4D4CRCvAmJ2Ms3BwAABBgApb6u20eO2TwAAAABJRU5ErkJggg==);
+                background-position: center 9px;
+                background-repeat: no-repeat;
+                background-size: 18px 18px;
+                height: 100%;
+                width: 20px
+            }
+
+            .gi-like-box .gi-like-unlike .num {
+                margin-left: 5px;
+                text-align: right
+            }
+
+            .gi-intro {
+                background-color: #fff;
+                border-radius: 10px;
+                border-radius: 5px 5px 0 0/5px 5px 0 0;
+                color: #000;
+                font-size: 14px;
+                margin: 10px 10px 0;
+                min-height: 150px;
+                padding: 10px;
+                position: relative
+            }
+
+            .gi-intro .gi-intro-item {
+                display: block;
+                padding-left: 15px
+            }
+
+            .gi-intro .gi-intro-item:before {
+                content: "*";
+                left: 10px;
+                line-height: 26px;
+                position: absolute
+            }
+
+            .gi-ad {
+                background-color: #fff;
+                margin-top: 10px
+            }
+
+            .gi-ad .afc-ins {
+                display: block;
+                margin: 0 auto;
+                width: 100%
+            }
+
+            .gi-loading {
+                background-color: #fff;
+                border-radius: 0 0 5px 5px;
+                margin: 0 10px;
+                padding-bottom: 10px
+            }
+
+            .gi-loading .gi-prog {
+                border: 3px solid #fff;
+                border-radius: 30px;
+                box-shadow: 0 2px 3px #888;
+                color: #fff;
+                font-size: 22px;
+                font-weight: 700;
+                height: 36px;
+                left: 0;
+                line-height: 36px;
+                margin: 0 auto;
+                max-width: 280px;
+                overflow: hidden;
+                position: relative;
+                right: 0;
+                text-align: center;
+                width: 80%
+            }
+
+            .gi-loading .gi-prog .gi-prog-text-bg {
+                color: #ffae34;
+                display: block;
+                height: 100%;
+                position: absolute;
+                width: 100%
+            }
+
+            .gi-loading .gi-prog .gi-prog-text {
+                background-color: #ffae34;
+                display: block;
+                height: 100%;
+                -webkit-mask-image: linear-gradient(90deg,#000,transparent 0);
+                mask-image: linear-gradient(90deg,#000,transparent 0);
+                position: absolute;
+                width: 100%
+            }
+
+            .gi-loading .gi-loading-tips {
+                color: #9d999a;
+                margin-top: 10px;
+                text-align: center
+            }
+
+            .gi-recom {
+                background-color: #fff;
+                border-radius: 10px;
+                margin: 10px
+            }
+
+            .gi-recom .gi-recom-title {
+                color: #000;
+                font-size: 20px;
+                font-weight: 700;
+                padding: 10px
+            }
+
+            .gi-recom .gi-recom-games {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-evenly
+            }
+
+            .gi-recom .gi-recom-games .gi-recom-games-item {
+                height: 100px;
+                margin-bottom: 15px;
+                width: 100px
+            }
+
+            .gi-recom .gi-recom-games .gi-recom-games-item .gi-recom-games-item-img {
+                height: 100%;
+                width: 100%
+            }
+
+            .gi-recom .gi-recom-games i {
+                width: 100px
+            }
+
+            @keyframes naviGames {
+                0%,to {
+                    opacity: .1
+                }
+
+                50% {
+                    opacity: 1
+                }
+            }
+
+            @-webkit-keyframes naviGames {
+                0%,to {
+                    opacity: .1
+                }
+
+                50% {
+                    opacity: 1
+                }
+            }
+
+            #ad-sg-games {
+                animation: naviGames 1s ease-in-out infinite;
+                -webkit-animation: naviGames 1s ease-in-out infinite;
+                display: none;
+                left: 10px;
+                position: absolute;
+                top: 50px;
+                z-index: 1
+            }
+
+            #ad-sg-games .ad-sg-games-img {
+                -webkit-border-radius: 25px;
+                border-radius: 25px;
+                height: 50px;
+                width: 50px
+            }
+
+            #hippooBackBtn {
+                height: 45px!important;
+                opacity: .5;
+                position: absolute!important;
+                width: 45px!important;
+                z-index: 1!important
+            }
+
+            body,html {
+                height: 100%;
+                margin: 0;
+                padding: 0!important
+            }
+
+            #loading-view {
+                display: block
+            }
+
+            #game-container {
+                background-color: #fff
+            }
+        </style>
+    </head>
+    <body>
+        <div id="loading-view" class="abs-auto">
+            <div id="loading-view-box" class="abs-auto">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+        <div id="gi-view">
+            <div class="gi-info">
+                <div class="gi-logo">
+                    <img class="gi-logo-img" src="logo.png">
+                </div>
+                <div class="gi-info-box">
+                    <div class="gi-title"></div>
+                    <div class="gi-like-box">
+                        <div class="gi-like-like">
+                            <div class="finger"></div>
+                            <div id="gi-like-num" class="num js-like-num">0</div>
+                            <div>%</div>
+                        </div>
+                        <div class="gi-like-unlike">
+                            <div class="finger"></div>
+                            <div id="gi-unlike-num" class="num js-unlike-num">0</div>
+                            <div>%</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="gi-intro"></div>
+            <div class="gi-loading">
+                <div id="gi-prog" class="gi-prog">
+                    <span class="gi-prog-text-bg">Loading...</span>
+                    <span class="gi-prog-text">Loading...</span>
+                </div>
+            </div>
+            <div class="gi-ad"></div>
+            <div class="gi-recom">
+                <div class="gi-recom-title">Related Game</div>
+                <div class="gi-recom-games" id="gi-recom-games"></div>
+            </div>
+        </div>
+        <div id="ad-sg-games">
+            <a class="ad-sg-games-a">
+                <img class="ad-sg-games-img"/>
+            </a>
+        </div>
+        <div id="afg-view "></div>
+        <div id="afc-view"></div>
+        <div id="game-container">
+            <iframe id="game-ifr" src="" frameborder="0" width="100%" height="100%" onload="window.frames['game-ifr'].focus()"></iframe>
+        </div>
+        <div id="banner-view"></div>
+        <script type="text/html" id="tpl-recom-item">
+            <a href="${url}" target="_blank">
+        <div class="gi-recom-games-item">
+            <img class="gi-recom-games-item-img" src="${icon}" alt="games" title="games">
+        </div>
+    </a>
+        </script>
+        <script>
+            window['loadFrameStartTime'] = new Date().getTime();
+        </script>
+        <script src="frame/js/index.fca2db99102dd65872a3.js"></script>
+    </body>
+</html>

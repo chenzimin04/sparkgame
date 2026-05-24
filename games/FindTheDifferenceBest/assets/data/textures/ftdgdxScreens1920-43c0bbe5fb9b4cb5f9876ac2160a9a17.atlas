@@ -1,0 +1,1250 @@
+
+ftdgdxScreens1920.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Layer 1
+  rotate: false
+  xy: 443, 907
+  size: 191, 47
+  orig: 191, 47
+  offset: 0, 0
+  index: -1
+cloud4
+  rotate: false
+  xy: 443, 907
+  size: 191, 47
+  orig: 191, 47
+  offset: 0, 0
+  index: -1
+img_cloud
+  rotate: false
+  xy: 443, 907
+  size: 191, 47
+  orig: 191, 47
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: false
+  xy: 1907, 61
+  size: 131, 45
+  orig: 131, 45
+  offset: 0, 0
+  index: -1
+Layer 67 copy
+  rotate: false
+  xy: 1956, 1526
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+Layer 67 copy1
+  rotate: false
+  xy: 1956, 1526
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+Layer 67 copy2
+  rotate: false
+  xy: 1956, 1526
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+Layer 67 copy 2
+  rotate: false
+  xy: 1958, 1896
+  size: 66, 73
+  orig: 66, 73
+  offset: 0, 0
+  index: -1
+Layer 67 copy 21
+  rotate: false
+  xy: 1958, 1896
+  size: 66, 73
+  orig: 66, 73
+  offset: 0, 0
+  index: -1
+blank
+  rotate: false
+  xy: 1300, 6
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+bottom
+  rotate: false
+  xy: 977, 108
+  size: 1066, 5
+  orig: 1066, 5
+  offset: 0, 0
+  index: -1
+top
+  rotate: false
+  xy: 977, 108
+  size: 1066, 5
+  orig: 1066, 5
+  offset: 0, 0
+  index: -1
+cloud10
+  rotate: false
+  xy: 1958, 1772
+  size: 63, 73
+  orig: 63, 73
+  offset: 0, 0
+  index: -1
+img_add_power
+  rotate: false
+  xy: 2008, 209
+  size: 27, 60
+  orig: 27, 60
+  offset: 0, 0
+  index: -1
+img_add_power1
+  rotate: false
+  xy: 2008, 271
+  size: 34, 78
+  orig: 34, 78
+  offset: 0, 0
+  index: -1
+img_aim
+  rotate: false
+  xy: 977, 118
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+img_aim copy
+  rotate: false
+  xy: 531, 1555
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+img_back_icon
+  rotate: false
+  xy: 1197, 5
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+img_big_cloud
+  rotate: false
+  xy: 1682, 1971
+  size: 307, 75
+  orig: 307, 75
+  offset: 0, 0
+  index: -1
+img_body_lu
+  rotate: false
+  xy: 2025, 135
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+img_body_rb
+  rotate: false
+  xy: 2025, 135
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+img_bttn_bg3
+  rotate: false
+  xy: 443, 716
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: -1
+img_bttn_bg5
+  rotate: false
+  xy: 479, 1180
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+img_bttn_bg5_icon
+  rotate: false
+  xy: 531, 1725
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+img_bttn_play_bg
+  rotate: false
+  xy: 9, 706
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+img_bttn_play_handle
+  rotate: false
+  xy: 638, 233
+  size: 631, 486
+  orig: 631, 486
+  offset: 0, 0
+  index: -1
+img_buble_hint1
+  rotate: false
+  xy: 2, 3
+  size: 634, 612
+  orig: 634, 612
+  offset: 0, 0
+  index: -1
+img_buble_progress
+  rotate: false
+  xy: 9, 1764
+  size: 520, 277
+  orig: 520, 277
+  offset: 0, 0
+  index: -1
+img_buble_pwoer
+  rotate: false
+  xy: 9, 1485
+  size: 520, 277
+  orig: 520, 277
+  offset: 0, 0
+  index: -1
+img_buble_skip
+  rotate: false
+  xy: 9, 1140
+  size: 468, 343
+  orig: 468, 343
+  offset: 0, 0
+  index: -1
+img_de_language_mm
+  rotate: false
+  xy: 9, 649
+  size: 160, 55
+  orig: 160, 55
+  offset: 0, 0
+  index: -1
+img_en_game_label
+  rotate: false
+  xy: 1271, 433
+  size: 763, 286
+  orig: 763, 286
+  offset: 0, 0
+  index: -1
+img_es_language_mm
+  rotate: false
+  xy: 171, 649
+  size: 160, 55
+  orig: 160, 55
+  offset: 0, 0
+  index: -1
+img_es_moreapps_icon
+  rotate: false
+  xy: 443, 621
+  size: 106, 93
+  orig: 106, 93
+  offset: 0, 0
+  index: -1
+img_gift_icon
+  rotate: false
+  xy: 1402, 6
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+img_hand_to_zoom
+  rotate: false
+  xy: 821, 17
+  size: 154, 214
+  orig: 154, 214
+  offset: 0, 0
+  index: -1
+img_help_icon
+  rotate: false
+  xy: 551, 633
+  size: 55, 81
+  orig: 55, 81
+  offset: 0, 0
+  index: -1
+img_help_icon1
+  rotate: false
+  xy: 1956, 1454
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+img_icon_download
+  rotate: false
+  xy: 1932, 950
+  size: 113, 151
+  orig: 113, 151
+  offset: 0, 0
+  index: -1
+img_icon_lock
+  rotate: false
+  xy: 638, 5
+  size: 181, 226
+  orig: 181, 226
+  offset: 0, 0
+  index: -1
+img_icon_lock1
+  rotate: false
+  xy: 531, 1911
+  size: 104, 130
+  orig: 104, 130
+  offset: 0, 0
+  index: -1
+img_lang_pointer
+  rotate: false
+  xy: 1092, 132
+  size: 173, 99
+  orig: 173, 99
+  offset: 0, 0
+  index: -1
+img_link_icon
+  rotate: false
+  xy: 2008, 351
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+img_list_icon
+  rotate: false
+  xy: 443, 956
+  size: 192, 182
+  orig: 192, 182
+  offset: 0, 0
+  index: -1
+img_lu
+  rotate: false
+  xy: 2008, 127
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+img_lu1
+  rotate: false
+  xy: 2008, 127
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+img_lu2
+  rotate: false
+  xy: 2008, 127
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+img_lu3
+  rotate: false
+  xy: 2008, 127
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+img_more_apps_icon
+  rotate: false
+  xy: 1682, 943
+  size: 248, 158
+  orig: 248, 158
+  offset: 0, 0
+  index: -1
+img_no_icon
+  rotate: false
+  xy: 1815, 11
+  size: 90, 95
+  orig: 90, 95
+  offset: 0, 0
+  index: -1
+img_no_icon1
+  rotate: false
+  xy: 1815, 11
+  size: 90, 95
+  orig: 90, 95
+  offset: 0, 0
+  index: -1
+img_number_icon
+  rotate: false
+  xy: 2008, 141
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+img_off
+  rotate: false
+  xy: 1907, 2
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+img_p_power_icon
+  rotate: false
+  xy: 1897, 721
+  size: 101, 139
+  orig: 101, 139
+  offset: 0, 0
+  index: -1
+img_p_power_icon1
+  rotate: false
+  xy: 1897, 721
+  size: 101, 139
+  orig: 101, 139
+  offset: 0, 0
+  index: -1
+img_p_power_icon2
+  rotate: false
+  xy: 1897, 721
+  size: 101, 139
+  orig: 101, 139
+  offset: 0, 0
+  index: -1
+img_p_power_purchase_icon
+  rotate: false
+  xy: 1945, 1313
+  size: 91, 106
+  orig: 91, 106
+  offset: 0, 0
+  index: -1
+img_play
+  rotate: false
+  xy: 1682, 1103
+  size: 261, 316
+  orig: 261, 316
+  offset: 0, 0
+  index: -1
+img_power
+  rotate: false
+  xy: 1945, 1107
+  size: 76, 109
+  orig: 76, 109
+  offset: 0, 0
+  index: -1
+img_power copy
+  rotate: false
+  xy: 1991, 1971
+  size: 49, 75
+  orig: 49, 75
+  offset: 0, 0
+  index: -1
+img_power1
+  rotate: false
+  xy: 2008, 173
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+img_power2
+  rotate: false
+  xy: 2000, 794
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+img_promo_dialog_circle
+  rotate: false
+  xy: 479, 1332
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+img_promo_dialog_item_icon
+  rotate: false
+  xy: 1682, 1695
+  size: 274, 274
+  orig: 274, 274
+  offset: 0, 0
+  index: -1
+img_promo_item_icon copy
+  rotate: false
+  xy: 1682, 728
+  size: 213, 213
+  orig: 213, 213
+  offset: 0, 0
+  index: -1
+img_ru_game_label
+  rotate: false
+  xy: 1271, 115
+  size: 735, 316
+  orig: 735, 316
+  offset: 0, 0
+  index: -1
+img_ru_moreapps_icon
+  rotate: false
+  xy: 531, 1818
+  size: 104, 91
+  orig: 104, 91
+  offset: 0, 0
+  index: -1
+img_scroll_levels_lu
+  rotate: false
+  xy: 2008, 389
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+img_scroll_levels_rb
+  rotate: false
+  xy: 2008, 389
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+img_scroll_moreapps_lu
+  rotate: false
+  xy: 2008, 389
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+img_scroll_moreapps_rb
+  rotate: false
+  xy: 2008, 389
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+img_scroll_purchaselist_lu
+  rotate: false
+  xy: 2008, 389
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+img_scroll_purchaselist_rb
+  rotate: false
+  xy: 2008, 389
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+img_separator_dialog
+  rotate: false
+  xy: 9, 2043
+  size: 588, 3
+  orig: 588, 3
+  offset: 0, 0
+  index: -1
+img_separator_promo_dialog
+  rotate: false
+  xy: 9, 2043
+  size: 588, 3
+  orig: 588, 3
+  offset: 0, 0
+  index: -1
+img_separator_promo_dialog1
+  rotate: false
+  xy: 9, 2043
+  size: 588, 3
+  orig: 588, 3
+  offset: 0, 0
+  index: -1
+img_settings_icon
+  rotate: false
+  xy: 1945, 1218
+  size: 91, 93
+  orig: 91, 93
+  offset: 0, 0
+  index: -1
+img_settings_icon1
+  rotate: false
+  xy: 1956, 1601
+  size: 90, 92
+  orig: 90, 92
+  offset: 0, 0
+  index: -1
+img_settings_icon2
+  rotate: false
+  xy: 1956, 1601
+  size: 90, 92
+  orig: 90, 92
+  offset: 0, 0
+  index: -1
+img_settings_icon3
+  rotate: false
+  xy: 1956, 1601
+  size: 90, 92
+  orig: 90, 92
+  offset: 0, 0
+  index: -1
+img_settings_tut
+  rotate: false
+  xy: 531, 1664
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+img_skip_icon copy
+  rotate: false
+  xy: 1958, 1847
+  size: 64, 47
+  orig: 64, 47
+  offset: 0, 0
+  index: -1
+img_snd_on_icon
+  rotate: false
+  xy: 1958, 1698
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+img_star_middle_off
+  rotate: false
+  xy: 977, 3
+  size: 108, 103
+  orig: 108, 103
+  offset: 0, 0
+  index: -1
+img_star_middle_on
+  rotate: false
+  xy: 1087, 3
+  size: 108, 103
+  orig: 108, 103
+  offset: 0, 0
+  index: -1
+img_star_small_off
+  rotate: false
+  xy: 1963, 5
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+img_star_small_on
+  rotate: false
+  xy: 531, 1608
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+img_swap_orientation_to_port_icon_tut
+  rotate: false
+  xy: 1932, 862
+  size: 114, 86
+  orig: 114, 86
+  offset: 0, 0
+  index: -1
+img_wd_bg
+  rotate: false
+  xy: 638, 721
+  size: 1042, 1325
+  orig: 1042, 1325
+  offset: 0, 0
+  index: -1
+img_yes_icon
+  rotate: false
+  xy: 1503, 7
+  size: 126, 99
+  orig: 126, 99
+  offset: 0, 0
+  index: -1
+img_yes_icon1
+  rotate: false
+  xy: 1503, 7
+  size: 126, 99
+  orig: 126, 99
+  offset: 0, 0
+  index: -1
+img_yes_icon2
+  rotate: false
+  xy: 1503, 7
+  size: 126, 99
+  orig: 126, 99
+  offset: 0, 0
+  index: -1
+img_yes_icon3
+  rotate: false
+  xy: 1503, 7
+  size: 126, 99
+  orig: 126, 99
+  offset: 0, 0
+  index: -1
+img_zoom_in_icon
+  rotate: false
+  xy: 1631, 9
+  size: 90, 97
+  orig: 90, 97
+  offset: 0, 0
+  index: -1
+img_zoom_in_icon copy
+  rotate: false
+  xy: 333, 641
+  size: 58, 63
+  orig: 58, 63
+  offset: 0, 0
+  index: -1
+img_zoom_out_icon
+  rotate: false
+  xy: 1723, 9
+  size: 90, 97
+  orig: 90, 97
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 2, 617
+  size: 5, 1429
+  orig: 5, 1429
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 2, 617
+  size: 5, 1429
+  orig: 5, 1429
+  offset: 0, 0
+  index: -1
+level_bg
+  rotate: false
+  xy: 1682, 1421
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+promo_dialog_item_bg
+  rotate: false
+  xy: 1682, 1421
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+
+ftdgdxScreens1920-2.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Layer 16
+  rotate: false
+  xy: 2, 17
+  size: 1060, 9
+  orig: 1060, 9
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 2, 12
+  size: 1054, 3
+  orig: 1054, 3
+  offset: 0, 0
+  index: -1
+img_bttn_bg4
+  rotate: false
+  xy: 1851, 987
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+img_buble_goal
+  rotate: false
+  xy: 2, 1038
+  size: 1057, 1001
+  orig: 1057, 1001
+  offset: 0, 0
+  index: -1
+img_buble_todo
+  rotate: false
+  xy: 1061, 1740
+  size: 960, 299
+  orig: 960, 299
+  offset: 0, 0
+  index: -1
+img_de_game_label
+  rotate: false
+  xy: 1061, 1162
+  size: 788, 286
+  orig: 788, 286
+  offset: 0, 0
+  index: -1
+img_de_language
+  rotate: false
+  xy: 1184, 2
+  size: 160, 88
+  orig: 160, 88
+  offset: 0, 0
+  index: -1
+img_dialog_bg
+  rotate: false
+  xy: 1022, 92
+  size: 1018, 778
+  orig: 1018, 778
+  offset: 0, 0
+  index: -1
+img_download_icon copy
+  rotate: false
+  xy: 1851, 1172
+  size: 184, 246
+  orig: 184, 246
+  offset: 0, 0
+  index: -1
+img_en_language
+  rotate: false
+  xy: 1346, 2
+  size: 160, 88
+  orig: 160, 88
+  offset: 0, 0
+  index: -1
+img_es_game_label
+  rotate: false
+  xy: 1061, 1450
+  size: 817, 288
+  orig: 817, 288
+  offset: 0, 0
+  index: -1
+img_es_language
+  rotate: false
+  xy: 1508, 2
+  size: 160, 88
+  orig: 160, 88
+  offset: 0, 0
+  index: -1
+img_fr_game_label
+  rotate: false
+  xy: 1061, 872
+  size: 786, 288
+  orig: 786, 288
+  offset: 0, 0
+  index: -1
+img_fr_language
+  rotate: false
+  xy: 1670, 2
+  size: 160, 88
+  orig: 160, 88
+  offset: 0, 0
+  index: -1
+img_it_language
+  rotate: false
+  xy: 1832, 2
+  size: 160, 88
+  orig: 160, 88
+  offset: 0, 0
+  index: -1
+img_promo_dialog_item_bg
+  rotate: false
+  xy: 2, 28
+  size: 1018, 1008
+  orig: 1018, 1008
+  offset: 0, 0
+  index: -1
+img_ru_language
+  rotate: false
+  xy: 1849, 897
+  size: 160, 88
+  orig: 160, 88
+  offset: 0, 0
+  index: -1
+img_ru_language_mm
+  rotate: false
+  xy: 1022, 38
+  size: 160, 52
+  orig: 160, 52
+  offset: 0, 0
+  index: -1
+img_separator_wd
+  rotate: false
+  xy: 2, 4
+  size: 920, 6
+  orig: 920, 6
+  offset: 0, 0
+  index: -1
+img_star_big_off
+  rotate: false
+  xy: 1880, 1580
+  size: 166, 158
+  orig: 166, 158
+  offset: 0, 0
+  index: -1
+img_star_big_on
+  rotate: false
+  xy: 1880, 1420
+  size: 166, 158
+  orig: 166, 158
+  offset: 0, 0
+  index: -1
+
+ftdgdxScreens1920-3.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Layer 11
+  rotate: false
+  xy: 1053, 1153
+  size: 130, 45
+  orig: 130, 45
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 1053, 1153
+  size: 130, 45
+  orig: 130, 45
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 1053, 1153
+  size: 130, 45
+  orig: 130, 45
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: false
+  xy: 1053, 1153
+  size: 130, 45
+  orig: 130, 45
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: false
+  xy: 1053, 1153
+  size: 130, 45
+  orig: 130, 45
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: false
+  xy: 1053, 1153
+  size: 130, 45
+  orig: 130, 45
+  offset: 0, 0
+  index: -1
+cloud12
+  rotate: false
+  xy: 987, 747
+  size: 126, 45
+  orig: 126, 45
+  offset: 0, 0
+  index: -1
+ftdgdx_icon
+  rotate: false
+  xy: 621, 771
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+img_bttn_bg
+  rotate: false
+  xy: 1434, 1561
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+img_bttn_bg1
+  rotate: false
+  xy: 2, 387
+  size: 241, 241
+  orig: 241, 241
+  offset: 0, 0
+  index: -1
+img_bttn_bg2
+  rotate: false
+  xy: 408, 762
+  size: 211, 211
+  orig: 211, 211
+  offset: 0, 0
+  index: -1
+img_bttn_bg2_icon
+  rotate: false
+  xy: 1380, 1425
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+img_promo_banner_circle
+  rotate: false
+  xy: 1380, 1425
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+img_bttn_bg5_green
+  rotate: false
+  xy: 2, 2
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+img_bttn_bg5_green1
+  rotate: false
+  xy: 2, 2
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+img_bttn_bg5_green2
+  rotate: false
+  xy: 2, 2
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+img_bttn_bg5_green3
+  rotate: false
+  xy: 2, 2
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+img_bttn_bg5_red
+  rotate: false
+  xy: 825, 795
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+img_bttn_bg5_red1
+  rotate: false
+  xy: 825, 795
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+img_bttn_bg7
+  rotate: false
+  xy: 406, 470
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+img_bttn_bg8
+  rotate: false
+  xy: 207, 199
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+img_bttn_bg9
+  rotate: false
+  xy: 1259, 1425
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+img_buble_hint
+  rotate: false
+  xy: 2, 630
+  size: 404, 343
+  orig: 404, 343
+  offset: 0, 0
+  index: -1
+img_de_moreapps_icon
+  rotate: false
+  xy: 1868, 1462
+  size: 109, 92
+  orig: 109, 92
+  offset: 0, 0
+  index: -1
+img_download_error_icon
+  rotate: false
+  xy: 408, 614
+  size: 160, 146
+  orig: 160, 146
+  offset: 0, 0
+  index: -1
+img_download_in_progress_icon
+  rotate: false
+  xy: 245, 468
+  size: 159, 160
+  orig: 159, 160
+  offset: 0, 0
+  index: -1
+img_en_language_mm
+  rotate: false
+  xy: 1869, 1556
+  size: 160, 46
+  orig: 160, 46
+  offset: 0, 0
+  index: -1
+img_en_moreapps_icon
+  rotate: false
+  xy: 1756, 1468
+  size: 110, 91
+  orig: 110, 91
+  offset: 0, 0
+  index: -1
+img_fr_language_mm
+  rotate: false
+  xy: 825, 747
+  size: 160, 46
+  orig: 160, 46
+  offset: 0, 0
+  index: -1
+img_fr_moreapps_icon
+  rotate: false
+  xy: 1084, 1059
+  size: 106, 92
+  orig: 106, 92
+  offset: 0, 0
+  index: -1
+img_grass
+  rotate: false
+  xy: 2, 1557
+  size: 1080, 456
+  orig: 1080, 456
+  offset: 0, 0
+  index: -1
+img_icon_check
+  rotate: false
+  xy: 1022, 1421
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+img_icon_play
+  rotate: false
+  xy: 1151, 1426
+  size: 106, 122
+  orig: 106, 122
+  offset: 0, 0
+  index: -1
+img_it_game_label
+  rotate: false
+  xy: 1084, 1725
+  size: 783, 288
+  orig: 783, 288
+  offset: 0, 0
+  index: -1
+img_it_language_mm
+  rotate: false
+  xy: 1005, 794
+  size: 160, 48
+  orig: 160, 48
+  offset: 0, 0
+  index: -1
+img_it_moreapps_icon
+  rotate: false
+  xy: 338, 236
+  size: 106, 92
+  orig: 106, 92
+  offset: 0, 0
+  index: -1
+img_level_number_bg
+  rotate: false
+  xy: 1501, 1450
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+img_mark_big
+  rotate: false
+  xy: 2, 182
+  size: 203, 203
+  orig: 203, 203
+  offset: 0, 0
+  index: -1
+img_mark_middle
+  rotate: false
+  xy: 1598, 1564
+  size: 159, 159
+  orig: 159, 159
+  offset: 0, 0
+  index: -1
+img_mark_small
+  rotate: false
+  xy: 1005, 844
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+img_more_levels_icon
+  rotate: false
+  xy: 1869, 1604
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+img_pp
+  rotate: false
+  xy: 1084, 1550
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+img_promo_banner_bounds
+  rotate: false
+  xy: 2, 975
+  size: 1080, 165
+  orig: 1080, 165
+  offset: 0, 0
+  index: -1
+img_promo_banner_view
+  rotate: false
+  xy: 2, 975
+  size: 1080, 165
+  orig: 1080, 165
+  offset: 0, 0
+  index: -1
+img_promo_item_bg
+  rotate: false
+  xy: 2, 1317
+  size: 1018, 238
+  orig: 1018, 238
+  offset: 0, 0
+  index: -1
+img_purchase_item_bg
+  rotate: false
+  xy: 2, 1317
+  size: 1018, 238
+  orig: 1018, 238
+  offset: 0, 0
+  index: -1
+img_reset_icon
+  rotate: false
+  xy: 1053, 1200
+  size: 113, 126
+  orig: 113, 126
+  offset: 0, 0
+  index: -1
+img_settings
+  rotate: false
+  xy: 1259, 1546
+  size: 173, 177
+  orig: 173, 177
+  offset: 0, 0
+  index: -1
+img_skip_icon
+  rotate: false
+  xy: 1022, 1328
+  size: 126, 91
+  orig: 126, 91
+  offset: 0, 0
+  index: -1
+img_sound_icon
+  rotate: false
+  xy: 1759, 1561
+  size: 108, 162
+  orig: 108, 162
+  offset: 0, 0
+  index: -1
+img_swap_orientation_to_land_icon
+  rotate: false
+  xy: 1869, 1748
+  size: 177, 130
+  orig: 177, 130
+  offset: 0, 0
+  index: -1
+img_swap_orientation_to_port_icon
+  rotate: false
+  xy: 1869, 1880
+  size: 177, 133
+  orig: 177, 133
+  offset: 0, 0
+  index: -1
+img_toast_bg
+  rotate: false
+  xy: 2, 1142
+  size: 1049, 173
+  orig: 1049, 173
+  offset: 0, 0
+  index: -1
+img_under_construction_icon
+  rotate: false
+  xy: 245, 330
+  size: 143, 136
+  orig: 143, 136
+  offset: 0, 0
+  index: -1
+img_watch_video
+  rotate: false
+  xy: 1612, 1474
+  size: 142, 88
+  orig: 142, 88
+  offset: 0, 0
+  index: -1

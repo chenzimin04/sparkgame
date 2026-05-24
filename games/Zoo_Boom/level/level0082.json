@@ -1,0 +1,28 @@
+ {
+	"sizeX":9,
+	"sizeY":9,
+	"stars":{"avg":13, "top":30 },
+	"moves":40,
+	"fill":"up",
+	"add":[		
+		
+		{ "x":0, "y":8, "dx":1, "dy":1, "type":"ANVIL", "count":true },
+		{ "x":4, "y":8, "dx":1, "dy":1, "type":"ANVIL", "count":true },
+		{ "x":8, "y":8, "dx":1, "dy":1, "type":"ANVIL", "count":true },
+				
+		{ "x":0, "y":0, "dx":1, "dy":8, "type":"ORE", "count":true },
+		{ "x":4, "y":0, "dx":1, "dy":8, "type":"ORE", "count":true },
+		{ "x":8, "y":0, "dx":1, "dy":8, "type":"ORE", "count":true }
+	],
+	"allowedGemTypes":["GEM_YELLOW","GEM_GREEN","GEM_RED","GEM_BLUE"],
+	"field":[ 
+		"xoooxooox",
+		"xxoxxxoxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx"]
+ }

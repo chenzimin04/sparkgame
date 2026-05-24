@@ -1,0 +1,342 @@
+
+Badgerclops.png
+size: 1980,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Badgerclops-ears-L
+  rotate: true
+  xy: 1561, 11
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+Badgerclops-ears-R
+  rotate: true
+  xy: 1532, 10
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+Badgerclops-eye-hide
+  rotate: false
+  xy: 1679, 10
+  size: 62, 36
+  orig: 62, 36
+  offset: 0, 0
+  index: -1
+Badgerclops-eyebrow-R
+  rotate: false
+  xy: 1590, 12
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+Badgerclops-hand-L
+  rotate: false
+  xy: 1155, 140
+  size: 92, 158
+  orig: 92, 158
+  offset: 0, 0
+  index: -1
+Badgerclops-hand-L-up
+  rotate: false
+  xy: 1057, 140
+  size: 96, 158
+  orig: 96, 158
+  offset: 0, 0
+  index: -1
+Badgerclops-hand-R
+  rotate: false
+  xy: 1532, 30
+  size: 105, 117
+  orig: 114, 117
+  offset: 0, 0
+  index: -1
+Badgerclops-hand-R-up
+  rotate: false
+  xy: 1538, 152
+  size: 106, 146
+  orig: 115, 146
+  offset: 0, 0
+  index: -1
+Badgerclops-hand-close-L
+  rotate: false
+  xy: 1809, 10
+  size: 81, 60
+  orig: 81, 60
+  offset: 0, 0
+  index: -1
+Badgerclops-hand-close-L-up
+  rotate: true
+  xy: 1920, 40
+  size: 79, 58
+  orig: 79, 58
+  offset: 0, 0
+  index: -1
+Badgerclops-hand-close-R
+  rotate: false
+  xy: 325, 2
+  size: 76, 62
+  orig: 76, 62
+  offset: 0, 0
+  index: -1
+Badgerclops-hand-close1-L
+  rotate: false
+  xy: 1767, 72
+  size: 79, 87
+  orig: 79, 87
+  offset: 0, 0
+  index: -1
+Badgerclops-hand-close1-R
+  rotate: false
+  xy: 1892, 121
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+Badgerclops-hand-close1-R-up
+  rotate: true
+  xy: 572, 2
+  size: 85, 75
+  orig: 85, 75
+  offset: 0, 0
+  index: -1
+Badgerclops-hand-close2-L
+  rotate: false
+  xy: 709, 2
+  size: 67, 88
+  orig: 67, 88
+  offset: 0, 0
+  index: -1
+Badgerclops-hand-finger-L
+  rotate: true
+  xy: 403, 2
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+Badgerclops-hand-finger-R
+  rotate: false
+  xy: 1743, 5
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Badgerclops-hand-full-R
+  rotate: false
+  xy: 546, 89
+  size: 103, 209
+  orig: 112, 209
+  offset: 0, 0
+  index: -1
+Badgerclops-hand-full-upL
+  rotate: false
+  xy: 797, 120
+  size: 125, 178
+  orig: 125, 178
+  offset: 0, 0
+  index: -1
+Badgerclops-hand-full-upR
+  rotate: false
+  xy: 651, 92
+  size: 144, 206
+  orig: 144, 206
+  offset: 0, 0
+  index: -1
+Badgerclops-hand-shoulder-R
+  rotate: false
+  xy: 1171, 9
+  size: 103, 129
+  orig: 103, 129
+  offset: 0, 0
+  index: -1
+Badgerclops-hand-shoulder-R-up
+  rotate: true
+  xy: 1417, 3
+  size: 144, 113
+  orig: 144, 113
+  offset: 0, 0
+  index: -1
+Badgerclops-head
+  rotate: true
+  xy: 1276, 3
+  size: 140, 139
+  orig: 140, 139
+  offset: 0, 0
+  index: -1
+Badgerclops-leg-L
+  rotate: false
+  xy: 470, 3
+  size: 100, 72
+  orig: 100, 72
+  offset: 0, 0
+  index: -1
+Badgerclops-leg-R
+  rotate: true
+  xy: 1679, 48
+  size: 104, 51
+  orig: 104, 51
+  offset: 0, 0
+  index: -1
+Badgerclops-leg-thigh-L
+  rotate: true
+  xy: 1392, 149
+  size: 149, 144
+  orig: 149, 144
+  offset: 0, 0
+  index: -1
+Badgerclops-leg-thigh-R
+  rotate: true
+  xy: 1249, 145
+  size: 153, 141
+  orig: 153, 141
+  offset: 0, 0
+  index: -1
+Badgerclops-leg-toe-L
+  rotate: false
+  xy: 235, 4
+  size: 88, 33
+  orig: 88, 33
+  offset: 0, 0
+  index: -1
+Badgerclops-leg-toe-R
+  rotate: true
+  xy: 1732, 71
+  size: 88, 33
+  orig: 88, 33
+  offset: 0, 0
+  index: -1
+Badgerclops-mouth
+  rotate: false
+  xy: 287, 44
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Badgerclops-mouth-AA
+  rotate: true
+  xy: 649, 2
+  size: 85, 58
+  orig: 85, 58
+  offset: 0, 0
+  index: -1
+Badgerclops-mouth-sad
+  rotate: false
+  xy: 797, 106
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Badgerclops-mouth-sad1
+  rotate: false
+  xy: 1646, 154
+  size: 76, 44
+  orig: 76, 44
+  offset: 0, 0
+  index: -1
+Badgerclops-pant
+  rotate: false
+  xy: 1848, 72
+  size: 70, 47
+  orig: 70, 47
+  offset: 0, 0
+  index: -1
+Badgerclops-pant1
+  rotate: true
+  xy: 287, 66
+  size: 232, 162
+  orig: 232, 162
+  offset: 0, 0
+  index: -1
+Badgerclops-pant1-light
+  rotate: false
+  xy: 1639, 36
+  size: 38, 114
+  orig: 38, 114
+  offset: 0, 0
+  index: -1
+Badgerclops-shadow
+  rotate: false
+  xy: 1646, 200
+  size: 326, 98
+  orig: 326, 98
+  offset: 0, 0
+  index: -1
+Badgerclops-shoulder-belt
+  rotate: false
+  xy: 1031, 8
+  size: 138, 117
+  orig: 138, 117
+  offset: 0, 0
+  index: -1
+Tackle-Effect-Base
+  rotate: true
+  xy: 451, 77
+  size: 221, 93
+  orig: 221, 93
+  offset: 0, 0
+  index: -1
+Tackle-Effect-Particle
+  rotate: true
+  xy: 2, 2
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+Tackle-Effect-White
+  rotate: true
+  xy: 924, 125
+  size: 173, 53
+  orig: 173, 53
+  offset: 0, 0
+  index: -1
+tint-Badgerclops-body
+  rotate: true
+  xy: 2, 12
+  size: 286, 231
+  orig: 286, 231
+  offset: 0, 0
+  index: -1
+tint-Badgerclops-body1
+  rotate: true
+  xy: 235, 39
+  size: 259, 50
+  orig: 259, 50
+  offset: 0, 0
+  index: -1
+tint-Badgerclops-hand-shoulder-L
+  rotate: false
+  xy: 819, 3
+  size: 103, 115
+  orig: 103, 115
+  offset: 0, 0
+  index: -1
+tint-Badgerclops-hand-shoulder-L1-up
+  rotate: true
+  xy: 924, 3
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+tint-Badgerclops-leg-socks-L
+  rotate: true
+  xy: 778, 2
+  size: 88, 39
+  orig: 88, 39
+  offset: 0, 0
+  index: -1
+tint-Badgerclops-leg-socks-R
+  rotate: false
+  xy: 1724, 161
+  size: 95, 37
+  orig: 95, 37
+  offset: 0, 0
+  index: -1
+tint-Badgerclops-shirt-collar
+  rotate: true
+  xy: 979, 127
+  size: 171, 76
+  orig: 171, 76
+  offset: 0, 0
+  index: -1

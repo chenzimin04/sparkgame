@@ -1,0 +1,18 @@
+{
+  "resolution": "standard",
+  "image1": "mushrooms_a.jpg",
+  "image2": "mushrooms_b.jpg",
+  "differences":
+  [
+    {
+      "x": 849.0,
+      "y": 360.0,
+      "size": 200.0
+    },
+    {
+      "x": 509.0,
+      "y": 442.0,
+      "size": 100.0
+    }    
+  ]
+}

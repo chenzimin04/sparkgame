@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+<templates>	
+	<image id="tChatContainer" width="100%" template="tBox" padding="10" paddingLeft="10" paddingRight="10">
+		<state state="jenny" height="200" />
+		<state state="default" height="170" />
+		<state state="blocked" red="0.5" green="0.5" blue="0.5" />
+		<state state="unblocked" red="1.0" green="1.0" blue="1.0" />
+		<element height="100" ratio="1" valign="center" >
+			<player name="uiPlayer" clickable="true">
+				<text name="uiTxtPlayerName" halign="rightOf" x="10" width="600" height="60" template="tFontLarge,tFontSpecial" valignText="center" />							
+			</player>		
+			<team name="uiTeam" template="tElement" clickable="true" >
+				<text name="uiTxtTeamName" halign="rightOf" x="10" width="600" height="60" template="tFontSmall,tFontSpecial" />							
+			</team>
+			<text name="uiTxtInfo" halign="rightOf" valign="bottom" x="10" width="600" height="40" template="tFontSmall" valignText="center" >
+				<state state="blocked" visible="false" />
+				<state state="unblocked" visible="true" />
+			</text>
+			<text name="uiTxtIgnored" halign="rightOf" valign="bottom" x="10" width="600" height="40" template="tFontSmall" valignText="center" text="SID_IGNORED" >
+				<state state="blocked" visible="true" />
+				<state state="unblocked" visible="false" />
+			</text>
+		</element>
+		<image name="uiImgUnread" height="60" x="-10" ratio="1" halign="right" valign="top" image="ui/mail.png" >
+			<text name="uiTxtNumUnread" halign="leftOf" valign="center" x="-10" width="60" height="40" template="tFontMedium" valignText="center" halignText="right" />
+		</image>
+	</image>
+</templates>
+
+<screen name="uiScreenPlayerChatChanneels" template="tElement" marginTop="50">	
+	<state state="blocked" red="0.5" green="0.5" blue="0.5" />
+	<state state="unblocked" red="1.0" green="1.0" blue="1.0" />
+	<text name="uiTxtHeadText" text="SID_MESSAGES" template="tFontWhite,tFontLarge" width="100%" height="50" halignText="center" valignText="center" />
+	<list name="uiListChat" template="tElement" gap="20" marginTop="100" />	
+</screen>

@@ -1,0 +1,1024 @@
+ID,hu-HU
+ad_failed.button,OK
+ad_failed.message,"Jelenleg nincs elérhető videó, kérjük próbálja meg később."
+ad_failed.title,Hupsz...
+ad_magic.button,Nézni
+ad_magic.message,"Nézd meg a rövid videót, hogy jutalmazást kaphass!"
+ad_magic.title,Édes Malac-Mágia
+android_app.button,Telepítés
+android_app.text.release,"Kedves barátaink! Örömmel jelentjük, hogy a játékunk most már elérhető Androidon. Töltsétek le az alkalmazást!"
+android_app.title,Most Androidon!
+android_update.restart.no,Később
+android_update.restart.text,Telepítse most?
+android_update.restart.title,Frissítés kész!
+android_update.restart.yes,Igen
+avatar_already_changed.button,OK
+avatar_already_changed.message,Már megváltoztattad a profilképed. A profilképedet csak EGYSZER tudod megváltoztatni.
+bookmark.daily,Kihívás
+bookmark.friends,Barátok
+bookmark.settings,Beállítások
+booster_hint.cross,%booster_shop.hint.ingame.cross%
+booster_hint.hammer,%booster_shop.hint.ingame.hammer%
+booster_hint.hand,%booster_shop.hint.ingame.hand%
+booster_shop.buy,#count számára vásárolni
+booster_shop.hint.ingame.cross,"Használja a Varázspálcát, hogy eltávolítson egy sor és egy oszlop darabot!"
+booster_shop.hint.ingame.hammer,Törjétek szét a csempéket a Kalapáccsal!
+booster_shop.hint.ingame.hand,"Használja a Kesztyűt, hogy cserélje ki a szomszédos darabokat!"
+booster_shop.hint.prelevel.add_bomb,Kezd el bármelyik szintet egy Bombával már a táblán!
+booster_shop.hint.prelevel.add_line,Kezd bármely szintet egy vonallal már a táblán!
+booster_shop.hint.prelevel.add_omni,Kezd bármely szintet egy villámmal már a táblán!
+booster_shop.hint.prelevel.add_tint,Kezd bármelyik szintet egy festékkel már a táblán!
+booster_shop.hint.prelevel.double_fly,"Duplázza meg az összes Tündért, amelyek létrejöttek ezen a szinten!"
+booster_shop.title.ingame.cross,Varázspálca
+booster_shop.title.ingame.hammer,Kalapács
+booster_shop.title.ingame.hand,Kesztyű
+booster_shop.title.prelevel.add_bomb,Bomba Booster
+booster_shop.title.prelevel.add_line,Vonal Booster
+booster_shop.title.prelevel.add_omni,Villám Booster
+booster_shop.title.prelevel.add_tint,Festék Booster
+booster_shop.title.prelevel.double_fly,Tündérlámpa x2 Booster
+chest_open.collection_complete,Gyűjtött!
+chest_open.ok,OK
+chest_opening.button,Nagyszerű!
+chest_opening.reward,Jutalom
+conflict_popup.continue,Folytatás
+conflict_popup.hint_syncing,Sinkronizálás...
+conflict_popup.skip,Folytatás kapcsolat nélkül
+credits.art,Művészeti tervezés
+credits.artists,"Sok szeretettel a grafikus művész barátainknak
+a gyönyörű avatár karakterekért!"
+credits.gamedesign,Játéktervezés
+credits.mentions,"Külön köszönet
+a barátainknak"
+credits.programming,Programozás
+credits.title,A csapatunk!
+daily_help.button,OK
+daily_help.chest,Nagydíj
+daily_help.reward,Egyszeri jutalmak
+daily_help.text,"Minden nap a játékosok megmutatják tudásukat és versenyeznek egy szinten.
+
+A legmagasabb pontszámú játékos a napi díjat kapja - Királyi Koronát és Gyémántládát!"
+daily_help.title,Napi Kihívás
+daily_reward.button,Nagyszerű!
+daily_reward.reward,Jutalom
+daily_reward.title.place_1,Ön a napi kihívás győztese!
+daily_reward.title.place_generic,"Napi kihívás teljesítve
+A \##helyezésed!"
+daily.drag_to_update,Húzza meg a frissítéshez
+daily.epic_sunday_ribbon,Baráti Kihívás
+daily.finishes_in,Kihívás vége #time-on belül
+daily.finishes_now,Kihívás befejeződött!
+daily.high_score,Új magas pontszám!
+daily.medal_chest_text,Gyűjts össze #amount érmét!
+daily.next_time,Következő napi kihívás #time-on belül
+daily.next_time_now,Új napi kihívás kezdődött!
+daily.no_yesterday_yet,Nem vettél részt az előző napi kihívásban
+daily.play,Játszani
+daily.retry_submit,Újrapróbálni
+daily.rewards_tab,Napi Kihívás Jutalmak
+daily.rewards.bubble,"Gyűjts csillagokat és érméket,
+hogy kinyiss színes kincseket!"
+daily.score_not_accepted,"Ez az eredmény nem számít a vezetői táblázatban, mert a napi kihívás vége után fejezted be a játékot."
+daily.star_chest_claim,Megnyitás
+daily.star_chest_collected_text,Jöjj holnap egy új ládáért
+daily.star_chest_text,Teljesítsd 3 csillaggal 7 napi kihívást egymás után!
+daily.submit_error,Nem sikerült elküldeni az eredményeket
+daily.today,Napi Kihívás
+daily.today_mark,Ma
+daily.update_error,Nincs internetkapcsolat
+daily.wait_text,
+daily.watch_replay.button,Nézni
+daily.watch_replay.text,Játék újrajátszása
+daily.welcome_reward_first,%daily_help.text%
+daily.welcome_text,Üdvözöljük! Új Napi Kihívás kezdődött!
+daily.yesterday,Tegnapi Létra
+daily.yesterday_updating,Eredmények lekérése...
+demo.finished.text,"Gratulálunk, sikeresen teljesítetted a próbaverziót! Játssz teljes verziót ingyen a <p class=""ma-link"">PecPoc.com<p class=""demo-hint"">A folyamatod nem fog elveszni."
+demo.nag.text,"Ingyenes bónuszok csak a teljes verzióban érhetőek el. Folytasd a játékot a teljes verzióban a <p class=""ma-link"">PecPoc.com<p class=""demo-hint""> oldalon. A játék előrehaladása nem fog elveszni."
+event_ny.next_in_hint,Következő ajándék: #time
+event_ny.title,Újévi Ajándékok
+fake_ad.reward_in,Jutalom...
+fake_ad.tutorial,"Sajnos jelenleg nincs elérhető videó...
+Ne aggódj, helyette nézzünk meg néhány csodálatos Malac-Mágiát!"
+fake_ad.your_ad_here,Az Ön hirdetése itt
+fb_login_failed.message,Nem sikerült csatlakozni a Facebookhoz. Próbálkozz újra?
+fb_notification.button,Csatlakoztatás
+fb_notification.message,"Kapcsolódj a Facebookhoz, hogy szinkronizáld a játékmenetedet online!"
+fb_notification.no_post_hint,Soha nem fogunk posztolni a hozzájárulásod nélkül.
+fb_notification.title,Mentse el a haladását
+feedback.failed.button,Folytatás
+feedback.failed.message,"Nem sikerült elküldeni a visszajelzést.
+Ellenőrizze az internetkapcsolatot."
+feedback.failed.title,Hoppá...
+feedback.ok.button,OK
+feedback.ok.message,"Megkaptuk a visszajelzésedet.
+Köszönjük, hogy segítettél nekünk javítani a játékot."
+feedback.ok.title,Visszajelzés elküldve!
+friends_tab.failed_social.button,Ellenőrizni
+friends_tab.failed_social.text,"Ellenőrizni kell a kapcsolatot, hogy frissítse a barátok listáját."
+friends_tab.has_fb.button,Barátok meghívása
+friends_tab.has_fb.text,"Minél több barátod van, annál több ajándékot kapsz!"
+friends_tab.no_fb.button,Csatlakoztatás
+friends_tab.no_fb.hint,Soha nem fogunk posztolni a hozzájárulásod nélkül.
+friends_tab.no_fb.text,"Csatlakozz a Facebookhoz, és kapj ajándékokat barátaidtól, és kövesd a fejlődésüket."
+friends_tab.no_permission.button,Igen
+friends_tab.no_permission.text,"Engedélyezi a barátai listájának elérését, hogy több ajándékot kapjon?"
+friends_tab.no_social.text,"Kapcsolódjon a közösségi hálózatokhoz, és kapjon ajándékokat barátaitól és kövesse a fejlődésüket."
+friends_tab.no_y8.button,Csatlakoztatás
+friends_tab.no_y8.text,"Csatlakozzon a Y8-hoz, és kapjon ajándékokat barátaitól, és kövesse nyomon a fejlődésüket."
+friends_tab.ok_invite_button,Barátok meghívása
+friends_tab.ok_invite_gift_text,"Minél több barátod van, annál több ajándékot kapsz!"
+friends_tab.ok_invite_text,"Minél több barátod van, annál több ajándékot kapsz!"
+friends_tab.title,Barátok
+friends_tab.vk_friends_permission_button,Igen
+friends_tab.vk_friends_permission_text,"Engedélyezi a barátai listájának elérését, hogy több ajándékot kapjon?"
+friends_tab.vk_invite_button,Barátok meghívása
+friends_tab.vk_invite_text,"Minél több barátod van, annál több ajándékot kapsz!"
+friends.gift.claim,Megnyitás
+game_results.click_to_continue,Kattints a folytatáshoz
+game_results.tap_to_continue,Koppints a folytatáshoz
+game.click_to_continue,Kattints a folytatáshoz
+game.info.ahead,#fmtnum LÉPÉSEL ELŐNYBEN VAGY
+game.info.behind,#fmtnum LÉPÉSRE VAGY LE MARADVA
+game.info.goals,Cél
+game.info.moves,LÉPÉSEK
+game.info.pause,SZÜNET
+game.info.undo,VISSZA
+game.pause.continue,"<font color=""\#408fda"">Folytatás"
+game.pause.leave_forfeit,"<font color=""\#ff0000"">Játék vége"
+game.pause.leave_safe,Játék vége
+game.pause.title,Szünet
+game.shoutout.their_game_result,Pontszám: #score
+game.shoutout.well_done,Kiváló!
+game.shoutout.your_game_result,Az eredményed: #score
+game.tap_to_continue,Koppints a folytatáshoz
+game.tutorial.continue,Folytatás
+gamemode.capital.aquarium,HALAK
+gamemode.capital.bird,MADÁROK
+gamemode.capital.bubble,Buborékok
+gamemode.capital.cats,MACSKÁK
+gamemode.capital.chocolate,LAVA
+gamemode.capital.diamonds,GYÉMÁNTOK
+gamemode.capital.ducks,KACSAFIÓKÁK
+gamemode.capital.energy_cube_reciever,KRISTÁLYOK
+gamemode.capital.energycube,GÉLY
+gamemode.capital.fishes,SÁRGARÉPÁK
+gamemode.capital.flower,VIRÁGOK
+gamemode.capital.food,MOGYORÓK
+gamemode.capital.fossils,POLIPOK
+gamemode.capital.frog,BÉKÁK
+gamemode.capital.grass,FŰ
+gamemode.capital.gum,LIPECSKA
+gamemode.capital.honeybee,MACSKÁK
+gamemode.capital.hotlava,LAVA
+gamemode.capital.ice,JÉG
+gamemode.capital.jam,ENERGIA
+gamemode.capital.jam_reciever,KRISTÁLYOK
+gamemode.capital.pearl,GYÖNGYÖK
+gamemode.capital.road,MALAC
+gamemode.capital.sausage,KOLBÁSZOK
+gamemode.capital.statue,KUTYÁK
+gamemode.capital.stone,KÖVEK
+gamemode.capital.tasks,RENDELÉSEK
+gamemode.capital.tiles,FŰ
+gamemode.capital.waterfish,HALAK
+gamemode.capital.blooplet,BLOOPLETEK
+gameresult.adventure.completed_continue,Folytatás
+gameresult.adventure.leave,Kilépés
+gameresult.adventure.play_next,Folytatás
+gameresult.adventure.retry,Újrapróbálkozás
+gameresult.boosters,Válassz Booster-eket
+gameresult.complete.line1,Szint
+gameresult.complete.line2,Kész!
+gameresult.continue,Folytatás
+gameresult.daily.continue,Folytatás
+gameresult.daily.leave,Kilépés
+gameresult.daily.retry,Játszani
+gameresult.dash,-
+gameresult.forfeit,Feladtad!
+gameresult.map.continue,Folytatás
+gameresult.map.retry,Újrapróbálkozás
+gameresult.pvp.continue,Folytatás
+gameresult.pvp.play_another,Másik szint
+gameresult.pvp.play_next,Másik szint
+gameresult.pvp.rematch_lose,Újrajátszás
+gameresult.pvp.rematch_win_draw,Újra játszani
+gameresult.rematch,Újrajátszás
+gameresult.rematch_bet,Fogadás #bet
+gameresult.required_ticket,Szükséges
+gameresult.retry,Újra játszani
+gameresult.rewards,Jutalom
+gameresult.title.completed,"<font color=""\#47f05f"">Szint teljesítve!"
+gameresult.title.draw,"<font color=""\#5885B8"">Döntetlen"
+gameresult.title.lose,"<font color=""\#ff5666"">Vesztettél"
+gameresult.title.win,"<font color=""\#47f05f"">Nyertél!"
+gameresult.vs,VS
+gameresults.inter_ad_in_large,#count játékig
+gameresults.inter_ad_in_small,#count játékig
+gems_shop.title,Gyémántbolt
+global.click_to_continue,Kattints a folytatáshoz
+global.default_player_name,Játékos
+global.tap_to_continue,Koppints a folytatáshoz
+home.hint_daiy,Próbáld ki a Napi Kihívást
+home.hint_play_pvp,"Még játszhatsz csatákat, még ha elfogytak az életek is!"
+home.play,Játszani
+html.loading,Betöltés
+iap_failed.button,OK
+iap_failed.message,Vásárlás sikertelen
+iap_need_facebook.message,"Csatlakozz a Facebookhoz, hogy feltöltsd a Gyémántokat!"
+iap_pending.button,OK
+iap_pending.message,A vásárlás feldolgozás alatt van
+intro_screen.another_device,Kóddal
+intro_screen.login_back,Vissza
+intro_screen.login_button,Bejelentkezés
+intro_screen.login_fb,Facebook
+intro_screen.login_ok,Odnoklassniki
+intro_screen.login_singular,Bejelentkezés
+intro_screen.login_vk,Vkontakte
+intro_screen.login_with,Bejelentkezés
+intro_screen.login_y8,Y8
+intro_screen.login_yandex,Yandex
+intro_screen.new_player,Új játékos
+introprofile.accept_avatar,Kiválaszt
+introprofile.accept_name,Folytatás
+introprofile.editavatar,Válasszon profilképet
+introprofile.editname,Adja meg a nevét
+invite_request.message,"Játsszunk együtt a legjobb ""három egymás mellé"" játékkal!"
+invite_request.title,"Válassz barátokat, hogy együtt játszhass Skydom-ot"
+level_popup.goals,Cél
+level_popup.play,Játszani
+level_popup.prelevel_boosters,Válassz Booster-eket
+level_popup.title,Szint #level
+level_popup.title_hard,Nehéz
+level_popup.title_ultra_hard,Rendkívül nehéz
+level_popup.title_very_hard,Nagyon nehéz
+link.support,https://Skydom.freshdesk.com/en/support/solutions
+link.support_beta,https://Skydombeta.freshdesk.com/en/support/solutions
+lives_shop.buy_all,Vásárolj 5
+lives_shop.hint,"Élethez szükséged van,
+hogy folytathasd a Kalandot."
+lives_shop.recharge,Következő élet: #time
+lives_shop.title,Életek
+lives_shop.watch_ad_button,Nézni
+lives_shop.watch_ad_text,Ingyenes 1
+load_player.almost_done,Majdnem kész...
+load_player.continue_offline,Folytatás kapcsolat nélkül
+load_player.loading_save,Játékos adatainak betöltése...
+load_player.loading_save_failed,Nem sikerült betölteni a játékos adatait.
+load_player.loading_save_failed_in,"Nem sikerült betölteni a játékos adatait.
+Újrapróbálkozás #time-on belül..."
+load_player.logging_in,Bejelentkezés...
+load_player.logging_in_failed,Nem sikerült bejelentkezni.
+load_player.logging_in_failed_in,"Nem sikerült bejelentkezni.
+Újrapróbálkozás #time-on belül...
+"
+load_player.new_player,Új játékos vagyok
+load_player.retry_now,Próbálja meg most
+login_failed.button,Újrapróbálni
+login_failed.title,Nem sikerült csatlakozni
+magic.click_to_continue,Kattints a folytatáshoz
+magic.reward,Jutalom
+magic.tap_to_continue,Koppints a folytatáshoz
+map.gates_coming_soon,"Új szintek
+hamarosan érkeznek!"
+match3.level_complete.line1,Összes Cél
+match3.level_complete.line2,Elértük!
+match3.score_pve,#score/#required
+match3.shoutout.1_move,Utolsó lépés!
+match3.shoutout.2_moves,2 lépés
+match3.shoutout.5_moves,5 lépés
+match3.shoutout.no_moves,Nincs több lépés
+match3.shoutout.no_reshuffle,"Nem lehet újrarendezni
+Nincs lehetséges lépés"
+merge.button.mine,Választ
+merge.button.their,Választ
+merge.description.account_merge,"Úgy tűnik, már játszottál a Skydom-mal.
+Válassz kedvenc profilt!
+"
+merge.description.ingame_conflict,%merge.description.login_conflict%
+merge.description.login_conflict,"Több eszközről játszottál.
+Válassz kedvenc mentést.
+"
+merge.hint.mine,helyi
+merge.hint.their,a szerverről
+merge.title,Haladás szinkronizálása
+modal.adblock.button,OK
+modal.adblock.text,"Megfigyeltük, hogy Ad Blocker-t használsz.<br>Kérjük, kapcsold ki az Ad Blocker-t ezen az oldalon, hogy meg tudd nézni a Videót."
+modal.adblock.title,Reklámblokkoló
+modal.error.button,Frissítés
+modal.error.text,"Sajnáljuk, hiba történt. Kérjük, frissítse az oldalt."
+modal.error.title,Hoppá! Valami elromlott...
+modal.fb_login_proxy.button,Folytatás
+modal.fb_login_proxy.text,Facebook csatlakozás
+modal.fb_login_proxy.title,
+modal.fb_purchase_proxy.button,Folytatás
+modal.fb_purchase_proxy.gems,Gyémántok
+modal.first_login_failed.button,Újrapróbálkozás
+modal.first_login_failed.text,"Jelenleg nem tud csatlakozni a Skydom-hoz. Kérjük, próbálja meg újra később."
+modal.first_login_failed.title,Nem sikerült csatlakozni
+modal.gpu_error.button,További információ
+modal.gpu_error.text,"Úgy tűnik, hogy a játék futtatásához engedélyezned kell a GPU-gyorsítást a böngésződben."
+modal.gpu_error.title,Hmm..
+modal.maintenance.button,OK
+modal.maintenance.text,Karbantartás lesz<br> <b>#time</b><br> 3 órán keresztül.<br>A felhő mentés és a folyamat szinkronizálás nem fog működni.
+modal.maintenance.title,Karbantartás
+modal.no_hardware_accel_ff.button,OK
+modal.no_hardware_accel_ff.text,"A böngészője teljesítményproblémát jelzett, a játék lehet, hogy nagyon lassan fog futni!
+
+A javításhoz kérjük, olvassa el ezt: <a target=""_blank""  href=""https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features"">https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features</a>
+"
+modal.no_hardware_accel_ff.title,Teljesítmény problémák
+modal.no_hardware_accel.button,OK
+modal.no_hardware_accel_vk.button,OK
+modal.no_hardware_accel.text,"A böngésző teljesítményproblémát jelzett, a játék lehet, hogy nagyon lassan fog futni!
+
+A javításhoz kérjük, olvassa el a <a target=""_blank""  href=""https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm"">https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm</a> című oldalt."
+modal.no_hardware_accel_vk.text,"A böngésződ teljesítményproblémát jelent, a játék lehet, hogy nagyon lassan fog futni!
+
+A javításhoz kérjük, olvassa el ezt: <a target=""_blank"" href=""https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery"">https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery</a>
+"
+modal.no_hardware_accel.title,Teljesítmény problémák
+modal.no_hardware_accel_vk.title,Teljesítmény problémák
+modal.nolocalstorage.button,OK
+modal.nolocalstorage.text,"Úgy tűnik, a böngésződ nem engedi meg, hogy elmenthessük a játékot. Ezt az Incognito mód használatával okozhatják.
+<p>
+Kérjük, jelentkezz be, hogy elkerüld a haladásod elvesztését!"
+modal.nolocalstorage.title,Incognito Mód
+modal.oom.button,További információ
+modal.oom.text,"Úgy tűnik, nincs elég memória."
+modal.oom.title,Hmm..
+modal.out_of_sync.button,Frissítés
+modal.out_of_sync.text,"Úgy tűnik, hogy a Skydom több böngészőablakban van megnyitva.<br>Kérjük, frissítse az ablakot a játék folytatásához."
+modal.out_of_sync.title,Több ablak a Skydom-mal?
+modal.vk_inapp_not_allowed.button,Átugrani
+modal.vk_inapp_not_allowed.text,"Vásárlás csak <a href=""https://m.vk.com/app7409298"" target=""_blank"">m.vk.com</a>-on érhető el."
+modal.vk_inapp_not_allowed.title,
+modal.wasm.button,További információ
+modal.wasm.text,"Úgy tűnik, hogy a böngésződ nem támogatja a WebAssembly-t"
+modal.wasm.title,Hmm..
+modal.webgl.button,További információ
+modal.webgl.text,"Úgy tűnik, hogy a böngésződ nem támogatja a WebGL-t"
+modal.webgl.title,Hmm..
+modal.yandexsdk.text,"A Yandex SDK nem töltődött be megfelelően. 
+
+Próbáljuk újra?"
+modal.yandexsdk.title,Hoppá
+modal.yandexsdk.button,OK
+name_already_changed.button,OK
+name_already_changed.message,Már megváltoztattad a neved. Csak EGYSZER tudod megváltoztatni a neved.
+networks.hint,"Állítjuk, hogy csatlakozzon a közösségi hálózatokhoz!
+ - Ne veszítse el a folyamatot, tárolja felhőben
+ - Játsszon barátaival és kapjon ajándékokat
+ - Nem posztolunk a hozzájárulása nélkül."
+nickname.default,Játékos
+nickname.default_friend,Nyúl
+nickname.trainer,Edző #nickname
+nickname.tutorial_001,Edző Anna
+nickname.tutorial_002,Edző Jonny
+nickname.tutorial_003,Edző Polly
+nickname.you,Te
+notification.daily_lead_1,👑 #Name átvette a vezetést a Napi Kihívásban! Szeretnéd visszaszerezni az első helyet?
+notification.daily_lead_2,👑 #Name vezetést szerzett a Napi Kihívásban!
+notification.daily_lead_3,👑 Ma a Napi Kihívásban forró a hangulat! #Name megszerezte az első helyet.
+notification.daily_lead_4,👑 #Name megelőzött. Szeretnéd visszaszerezni a vezetői pozíciót a Kihívásban?
+notification.daily_lead_5,"👑 Úgy tűnik, #Name éppen megelőzött téged a Napi Kihívásban."
+notification.daily_lead.meta,"@{""variants"":5}"
+notification.reminder_1,😏 Új ellenfelek várnak a legígéretesebb játékosra! 😎
+notification.reminder_10,👸🤴 Ki lesz a mai Napi Kihívás győztese ma?
+notification.reminder_11,"🙄 Úgy tűnik, mindenki már elfelejtette, hogy milyen szépen legyőzte #PlayerName!"
+notification.reminder_12,"💆 Jó nap Skydom játszani, ugye? 💪"
+notification.reminder_13,"🙈😬 Itt van egy pár srác, akik álmodoznak arról, hogy legyőzzenek téged. Gondolod, hogy nekik van esélyük?"
+notification.reminder_14,🐰 A Nyúl neked hozott egy ajándékot! 🎁
+notification.reminder_15,"😎 #PlayerName, ideje újra nyerni! 🕹"
+notification.reminder_16,👾👀 Ideje szünetet tartani és nyerni egy kicsit 🤗
+notification.reminder_17,🌟🌟🌟 A szintek nem teljesítik magukat! Játsszunk? 🥇😉
+notification.reminder_18,"#PlayerName, valaki meg akar győzni téged. Gondolod, hogy sikerülni fog neki? 😬😬😬"
+notification.reminder_19,👋 Már ideje kikapcsolódni és néhány győzelmet szerezni? 🤔
+notification.reminder_2,Nem mindenki még veszített #PlayerName ellen! Adunk nekik egy esélyt?
+notification.reminder_20,🦄 Már találkoztál a Szivárvány Egylánccal?
+notification.reminder_3,🐷 Malacvarázs vár! 🐽
+notification.reminder_4,🙈 Nem láttam már egy ideje a legjobb Match3 játékost! Még mindig itt van? 👀
+notification.reminder_5,🏆 Már volt ma győzelmed?
+notification.reminder_6,❤️❤️❤️❤️❤️ Minden élet feltöltődött! Ideje nyerni!
+notification.reminder_7,"🖐🎟 5 token vár, hogy elköltse!"
+notification.reminder_8,🐰😍 A nyúl készített egy ajándékot neked! 🎁
+notification.reminder_9,👑💎 Elkezdődött a Napi Kihívás! Ki fogja megkapni a koronát és egy halom gyémántot?
+ny.button_claim,Ajándék megnyitása
+ny.button_next_in,Ajándék be: #time
+ok_login_failed.message,Nem sikerült csatlakozni az Odnoklassnikihoz. Próbálkozz újra?
+ok.share_tick,Megosztás
+out_of_moves.continue_buy_moves,Játssz #price
+out_of_moves.continue_watch,Nézni
+out_of_moves.give_up,Feladni
+out_of_moves.press_to_view,"Kattints ide, hogy 
+megtekintsd a táblát"
+out_of_moves.title.almost_there,Már csak egy lépés...
+out_of_moves.title.regular,Elfogytak a lépések
+outofgems.button,Bolt
+outofgems.message,"Elfogytak a Gyöngyök.
+Látogass el a Boltba, hogy szerezzen be többet!"
+outofgems.title,Nem elég Gyöngyök
+page.loading.hint_1,Betöltés...
+page.loading.hint_2,Renderelési effektek 💎💎💎
+page.loading.hint_3,"Ne aggódj, nem ragadt meg! 😜"
+page.loading.hint_4,🚀 A játék hamarosan betöltődik! 🚀
+page.loading.hint_5,Az első betöltés egy kicsit tovább tart👌
+page.loading.hint_6,🔥 majdnem kész…👾
+page.loading.hint_7,Csak egy kis bit maradt 😊
+placeholder.hint_daily,Teljesíts 10 szintet a feloldáshoz!
+placeholder.timestring,12 óra 34 perc 56 másodperc
+placeholder.title_daily,"Napi Kihívás
+Zárolva
+"
+popup_name.accept_name,Folytatás
+popup_name.not_now,Most ne
+prelevel_text.002,"Gyűjts több <font color=""\#ff5503"">Sárga Darabot</font> mint az ellenfeled!"
+prelevel_text.004,"Gyűjts több <font color=""\#ff8800"">répát</font> mint az ellenfeled!"
+prelevel_text.006,"Gyűjts több <font color=""\#4499ff"">Jég</font>-et, mint az ellenfeled!"
+promo_reforged.button,Igényelni!
+promo_reforged.text,Hooray! Új játékmódot indítottunk el - Skydom Reforged! Az újítás ünneplésére ingyenes Mega Booster csomagot adunk! Szeretnéd most átvenni?
+promo_reforged.title,Skydom Újraalkotva!
+rate_us.description,Hogyan tetszik a Skydom?
+rate_us.feedback.cancel,Most ne
+rate_us.feedback.description,"Adja meg az e-mail címét, ha választ szeretne kapni."
+rate_us.feedback.email_hint,E-mail
+rate_us.feedback.message_hint,Hogyan tudjuk javítani a játékot neked?
+rate_us.feedback.submit,Küldés
+rate_us.star_1,Utálta
+rate_us.star_2,Nem tetszett
+rate_us.star_3,Rendben van
+rate_us.star_4,Tetszett
+rate_us.star_5,Imádtam
+rate_us.submit,Küldés
+rate_us.write_review.cancel,Most ne
+rate_us.write_review.google_play,"Oszd meg a gondolataidat az játékról, vagy értékeld a Google Play-en!"
+rate_us.write_review.submit,Örömmel!
+rate_us.write_review.yandex,"Oszd meg a gondolataidat az játékról, vagy értékeld azt a Yandex Játékokon!"
+rematch_pvp.asks_for_rematch_draw,#name újra próbálkozik
+rematch_pvp.asks_for_rematch_player_lose,#name újrajátszást ajánl!
+rematch_pvp.asks_for_rematch_player_won,#name újra kér egy meccset!
+reward.coins,Érmék
+reward.gems,Gyémántok
+reward.lives,Életek
+reward.prelevel.add_bomb,Bomba Booster
+reward.prelevel.add_line,Vonal Booster
+reward.prelevel.add_omni,Villám Booster
+reward.prelevel.add_tint,Festék Booster
+reward.prelevel.double_fly,Tündérlámpa x2 Booster
+reward.tickets,Jegyek
+reward.undo,Visszavonások
+search.cannot_connect,Nincs internetkapcsolat
+search.failed,Hoppá! Valami elromlott...
+search.loading,Betöltés...
+search.playing_with_trainer,Játszani a edzővel
+search.readying,Ellenfél megtalálva!
+search.readying_rematch,Készülj fel!
+search.rejected,Az ellenfél elmenekült
+search.searching,Ellenfél keresése...
+search.vs,VS
+search.waiting_opp,Ellenfél várakozása...
+settings.change_avatar,Profilkép módosítása
+settings.change_avatar.connect_fb,Csatlakoztatás
+settings.change_avatar.continue,Folytatás
+settings.change_avatar.title,Válasszon új profilképet
+settings.change_avatar.warning,"Megjegyzés: 
+- Csak egyszer változtathatja meg profilképét
+- Csatlakozzon a Facebookhoz a Facebook profilkép használatához"
+settings.change_avatar.warning_no_fb,Megjegyzés: Csak egyszer változtathatja meg a profilképét
+settings.change_name,Név Módosítása
+settings.change_name.accept_name,Folytatás
+settings.change_name.do_not_match,"A nevek nem egyeznek. Kérjük, próbálja újra."
+settings.change_name.edit,Új név megadása:
+settings.change_name.reenter,Írja be új nevét:
+settings.change_name.same_name,Az új név megegyezik a meglévővel
+settings.change_name.too_long,A név túl hosszú - 15 karakter a maximum
+settings.change_name.too_short,Ez a név túl rövid =)
+settings.change_name.warning,Megjegyzés: Csak egyszer változtathatja meg a nevét.
+settings.confirm_avatar.cancel,Mégse
+settings.confirm_avatar.change,Változtatás
+settings.confirm_avatar.title,Biztosan meg szeretnéd változtatni a profilképed? Az új profilképed:
+settings.confirm_avatar.warning,Megjegyzés: Csak egyszer változtathatja meg a profilképét.
+settings.confirm_name.cancel,Mégse
+settings.confirm_name.change,Megerősít
+settings.confirm_name.title,Biztosan meg akarod változtatni a neved? Az új neved lesz:
+settings.confirm_name.warning,Megjegyzés: Csak egyszer változtathatja meg a nevét.
+settings.connect_fb,Csatlakozás Facebookhoz
+settings.connect_ok,Csatlakozás Odnoklassnikihoz
+settings.connect_vk,VK csatlakoztatása
+settings.connect_y8,Csatlakoztassa Y8
+settings.connect_yandex,Yandex csatlakoztatása
+settings.connected_fb,Facebook
+settings.connected_ok,Odnoklassniki
+settings.connected_vk,VK
+settings.connected_y8,Y8
+settings.connected_yandex,Yandex
+settings.coupon,Promóciós Kód
+settings.coupon_title,Promóciós Kód
+settings.coupon.enter,Alkalmaz
+settings.coupon.enter_hint,Itt adja meg a promóciós kódját
+settings.coupon.invalid_code,"<font color=""\#e90047"">Ez a kód érvénytelen. Kérjük, próbáljon meg egy másik kódot."
+settings.coupon.missing_code,"<font color=""\#e90047"">Írja be a promóciós kódot"
+settings.coupon.ok,Kód sikeresen beváltva!
+settings.credits,Kreditek
+settings.eula,Felhasználási feltételek
+settings.fb_hint,"Csatlakozz a Facebookhoz, hogy barátaiddal játszhass és szinkronizáld a haladásodat"
+settings.general,ÁLTALÁNOS
+settings.generate_key,Kód létrehozása
+settings.invite_friends,Barátok meghívása
+settings.language,Nyelv
+settings.language_header,NYELV KIVÁLASZTÁSA
+settings.move_hints,Tippek
+settings.music,Zene
+settings.networks,Kapcsolatok
+settings.networks_hint,"Kapcsolja be a közösségi hálózatokat, hogy barátaival játszhasson és szinkronizálja a haladását"
+settings.notifications,Értesítések
+settings.notifications.daily,Napi kihívás
+settings.notifications.disable_all,Minden letiltása
+settings.notifications.disable_night,Kikapcsolás 23-tól 8-ig
+settings.notifications.gifts,Ajándékok
+settings.notifications.others,Más emlékeztetők
+settings.open_support,Játékos támogatás
+settings.open_vk_group,Játékcsoport
+settings.player_id,Másolja a játékos azonosítót
+settings.policy,Adatvédelmi irányelvek
+settings.rate_us,Értékelj minket
+settings.report_problem,Jelentse a problémát
+settings.sound,Hang
+settings.support,TÁMOGATÁS
+settings.telegram_channel,Kövessük a Telegram csatornánkat
+settings.telegram_channel_hint,Az összes legfrissebb hír a Skydom-ról
+settings.telegram_support,Rajongói csevegés a Telegram-on
+settings.title,Beállítások
+settings.update,Frissítés
+settings.y8_hint,"Csatlakozz Y8-hoz, hogy szinkronizáld a játékmeneted online!"
+settings.yandex_hint,"Csatlakozz a Yandexhez, hogy szinkronizáld a játékmenetedet online!"
+shop.gems_restored.accept,Kiváló!
+shop.gems_restored.title,Kövek vásárlása befejeződött
+shop.not_available,Nem elérhető
+shop.remove_ads_remain_time,Reklámok eltávolítva #time alatt
+shop.remove_ads_text,"Bármilyen vásárlással eltávolíthatja a reklámokat
+a szintek között
+"
+shop.remove_ads_timed,"Bármilyen vásárlással eltávolíthatja a hirdetéseket
+egy hónapig a szintek között
+"
+social_notification.button,Csatlakoztatás
+social_notification.message,"Kapcsolódj egy közösségi hálózathoz, hogy szinkronizáld a haladásod online!"
+social_notification.no_post_hint,Soha nem fogunk posztolni a hozzájárulásod nélkül.
+social_notification.title,Mentse el a haladását
+social_share.button,Megosztás
+social_share.chooser_hint,Megosztás segítségével
+social_share.message,Üdvözöljük! Fedezd fel ezt a különleges PvP Match-3 játékot! Töltsd le itt: https://PecPoc.com
+social_share.subject,Nézd meg az új szórakoztató játékot - Skydom
+social_share.title,"Oszd meg a játékot másokkal!
+Sokkal jobb barátokkal játszani!"
+tempkey_login.button,Folytatás
+tempkey_login.empty_key,Nem adtál meg kódot
+tempkey_login.input.default_hint,Adja meg a kódot
+tempkey_login.invalid_key,Rossz kód
+tempkey_login.message_top,"Folytasd a játékot itt - kapd meg a kódot, ahol előzőleg játszottál a Beállítások alatt ""Kód létrehozása"" alatt.
+"
+tempkey_login.no_connection,Nem sikerült csatlakozni
+tempkey.fail.button,OK
+tempkey.fail.message,"Ellenőrizze az internetkapcsolatát, vagy próbálja meg később"
+tempkey.fail.title,Nem sikerült létrehozni a kódot
+tempkey.ok.copied,Másolva!
+tempkey.ok.copy,Másolás
+tempkey.ok.hint,A kód 4 órán belül lejár.
+tempkey.ok.message,#tempkey
+tempkey.ok.title,Az Ön kódja:
+tickets_shop.boost_text,x2 újratöltési sebesség
+tickets_shop.buy_all,Vásárolni #amount
+tickets_shop.hint,Tokenek szükségesek a Napi Kihívás játékhoz
+tickets_shop.hint_out_of,"<font color=""\#e90047"">Nincs több Szerencsés Jegy</font>"
+tickets_shop.recharge,Új token: #time
+tickets_shop.title,Boldog Jegyek
+tickets_shop.watch_ad_button,Nézni
+tickets_shop.watch_ad_text,Ingyenes 1
+time.days_hours,"#days<font size=""-15""> </font><font size=""-10"">n</font> #hours<font size=""-15""> </font><font size=""-10"">ó</font>"
+time.hours,"#hours<font size=""-15""> </font><font size=""-10"">h</font>"
+time.hours_minutes,"#hours<font size=""-15""> </font><font size=""-10"">ó</font> #minutes<font size=""-15""> </font><font size=""-10"">perc</font>"
+time.hours_minutes_seconds,"#hours<font size=""-15""> </font><font size=""-10"">ó</font> #minutes<font size=""-15""> </font><font size=""-10"">perc</font> #seconds<font size=""-15""> </font><font size=""-10"">másodperc</font>"
+time.hours_seconds,"#hours<font size=""-15""> </font><font size=""-10"">ó</font> #seconds<font size=""-15""> </font><font size=""-10"">mp</font>"
+time.less_than_minute,"1<font size=""-15""> </font><font size=""-10"">perc</font>"
+time.minutes,"#minutes<font size=""-15""> </font><font size=""-10"">perc</font>"
+time.minutes_seconds,"#minutes<font size=""-15""> </font><font size=""-10"">perc</font> #seconds<font size=""-15""> </font><font size=""-10"">másodperc</font>"
+time.seconds,"#seconds<font size=""-15""> </font><font size=""-10"">mp</font>"
+tutorial_home.play,Játszani
+tutorial.001.dialog_tutorial,"Párosítsd <font color=""\#5885b8"">3 azonos színű darabot egy sorban</font>, hogy eltávolítsd őket"
+tutorial.001.hint,"Cél
+Gyűjts össze 12 zöld darabot!"
+tutorial.001.turn_1,Egyező színű darabokat illessz egymás mellé cserélve a szomszédosakat!
+tutorial.002.hint,"Gyűjts több sárga darabot, mint az ellenfeled!"
+tutorial.skip,Kihagy
+undo_shop.buy_undos,Szerezd meg #count
+undo_shop.hint,A visszavonás visszavonja az utolsó lépését
+undo_shop.recharge,Következő visszavonás: #time
+undo_shop.title,Lépés visszavonása
+undo_shop.watch_ad_button,Nézni
+undo_shop.watch_ad_text,Ingyenes 1
+undo_shop.you_have,Van #amount visszavonásod
+update.button,Frissítés
+update.new_version,Frissítsd a legfrissebb verzióra!
+update.new_version_value,"<font color=""\#5885b8"">#version"
+update.old_version,Régebbi verziót használsz
+update.old_version_value,"<font color=""\#a5a7aa"">#version"
+update.text,"Régi verziót használsz.
+Kérlek, frissítsd a legfrissebb verzióra!"
+update.title,Új verzió elérhető!
+update.web.button,Frissítés
+update.web.message,"Kérjük, frissítse az oldalt."
+update.web.title,Új verzió elérhető!
+vk_login_failed.message,Nem sikerült csatlakozni a VK-hoz. Próbálkozz újra?
+vk_promo.title,Ajándék VK-tól!
+vk.share_tick,Megosztás
+watch_for_gems.button,Nézni
+watch_for_gems.text,+#amount
+web.webg_context_lost,"WebGL kontextus elveszett, helyreállítás..."
+welcome_bonus.speech_1,"Szia, #PlayerName!
+Van néhány ajándékom neked.
+Válassz egyet!
+"
+welcome_bonus.speech_2,"Gondolatok anyaggá válnak... Ohmmm!
+Gondolkoztam néhány ajándékon, és nézd meg mi történt =)"
+welcome_bonus.speech_3,"Amíg te nem voltál ott, én találtam két ládát! Nyissunk egyet!"
+welcome_bonus.speech_4,"Üdvözöllek vissza, #PlayerName!
+Nézd meg, mi szállt le az égből!"
+welcome_bonus.speech_5,"Szárnyaltak a gólyák... Kiderült, hogy nem csak gyerekeket hoznak! ;)"
+welcome_bonus.speech_6,"Örülök, hogy visszatértél, #PlayerName!
+Válassz egy ládát!
+"
+welcome_bonus.speech_7,"Hiányoztál nekem annyira, #PlayerName, hogy készítettem neked egy kis ajándékot!"
+welcome_bonus.speech_8,"Furcsa dolgok történnek. Ülve, pihenve, és két láda jön a kékből!"
+welcome_pack.open,Megnyitni
+welcome_pack.play,Játszani
+welcome_pack.speech_1,"Rég láttalak, #PlayerName! Van egy ajándékom neked!"
+welcome_pack.speech_2,"Oh, #PlayerName, hiányoztál! Nyissuk meg az ajándékot és játsszunk!"
+welcome_pack.speech_3,"#PlayerName, örülök, hogy újra látlak! Gyorsan nyisd ki a ládát!"
+welcome_pack.speech_gift,"#PlayerName, van egy különleges ajándékunk neked =) Nyisd meg gyorsan!"
+welcome_pack.speech_reforged,"#PlayerName, van egy különleges ajándékunk neked =) Nyisd meg gyorsan!"
+y8_login_failed.message,Nem sikerült csatlakozni a Y8-hoz. Próbálkozz újra?
+yandex_login_failed.message,Nem sikerült csatlakozni a Yandexhez. Próbálkozz újra?
+yandex_notification.button,Csatlakozni
+yandex_notification.message,"Kapcsolódj Yandexhez, hogy szinkronizáld a játékmenetedet online!"
+yandex_notification.title,Mentse el a haladását
+gamemode.capital.leaf,LEVELEK
+yandex_login_has_attachment.message,Ehhez a játékprofilhoz egy másik Yandex fiók lett csatlakoztatva.
+fb_login_has_attachment.message,Egy másik Facebook-fiók lett kapcsolva ehhez a játékprofilhoz.
+ok_login_has_attachment.message,Ehhez a játékprofilhoz egy másik OK fiók lett csatlakoztatva.
+vk_login_has_attachment.message,Ehhez a játékprofilhoz egy másik VK fiók lett csatlakoztatva.
+y8_login_has_attachment.message,Egy másik Y8 fiók lett kapcsolva ehhez a játékprofilhoz.
+android_app.text.beta,"Kedves barátaink! Örömmel jelentjük, hogy elindítottuk a játékunk béta tesztelését Androidon. Mindenki szívesen látott!"
+bookmark.play,Otthon
+bookmark.quest,Küldetések
+chest_opening.bronze,Bronz
+chest_opening.continue,Könnyű
+chest_opening.division,III. osztály
+chest_opening.golden,Arany
+chest_opening.silver,Ezüst
+chest_opening.togoldenleague,"Sikerül elérned
+az Arany Liga szintjét?"
+chest_opening.welcome,Üdvözöljük a Match Arena Ligáiban!
+chest_opening.yourebronze,"Elérted
+A bronz ligát III.
+"
+chest.open,Megnyitni
+chest.opens_now,"Csodálatos! A szekrény a tiéd, hogy megnyisd!"
+chest.wins_left_1,Már csak egy győzelem!
+chest.wins_left_2,Csak 2 győzelem és az övé!
+chest.wins_left_3,Gratulálok! Még 3 győzelem!
+chest.wins_left_4,4 győzelem a ládához nyitáshoz!
+chest.wins_to_open,#num győzelem szükséges a megnyitáshoz
+forge_help.block_1,"Nyerje meg a párbajokat, hogy érméket szerezzen."
+forge_help.block_2,"Használj érméket, hogy elindítsd a kovácsolókat és arany szalagokat szerezz."
+forge_help.block_3,"Gyűjtsd össze az aranyrudakat, hogy feljebb léphess a ligákban."
+forge_help.block_4,Új ligák - új szintek!
+forge_help.continue,Megkaptam
+forge_help.title,Ligák és Kovácsolók
+forge.add,Hozzáad
+forge.boost,Fokozni
+forge.boost_free,"Hajtsuk fel ezt a kovácsolót!
+
+Az első alkalom ingyenes!"
+forge.boost_free_ok,Fokozni
+forge.buy_1,Bronz Kovácsoló
+forge.buy_2,Ezüstöntöttölő
+forge.buy_3,Arany Kovácsoló
+forge.buy_4,Ruby Forge vásárlása
+forge.buy_now,Hozzáad
+forge.cheat_boost,CSALJ? CSALJ!
+forge.name_1,Bronz Kovácsoló
+forge.name_2,Ezüstöntöde
+forge.name_3,Arany Kovács
+forge.name_4,Rubinvágó
+forge.not_enough_coins,Nincs elég érméd a kezdéshez
+forge.ok,OK
+forge.open,Megnyitni
+forge.open_now,Nyissa meg most
+forge.other_in_progress,Folyamatban van egy másik kovácsolás!
+forge.popup_boost,Fokozás -30 perc
+forge.popup_boost_speedup,Fokozás -15 perc
+forge.progress,#bars -ban: #time
+forge.speedup_no,Nem
+forge.speedup_offer,"<font color=""\#5885b8"">Gyorsítsd</font> fel a kovácsoló sebességét
+<font color=""\#5885b8"">2x-es sebességgel?</font>"
+forge.speedup_ok,OK
+forge.speedup_success,A kovácsolás felgyorsult!
+forge.speedup_yes,Igen
+forge.start,Indítás
+forge.time_1,3 óra
+forge.time_2,6 óra
+forge.time_3,12 óra
+forge.time_4,24 óra
+forge.tutorial.collect_coins,"Gyűjts össze 1000 érmét, hogy elindíthasd a kovácsolót"
+forge.tutorial.open_now,"Kiváló! A olvasztás befejeződött!
+Megnyithatjuk a kovácsolót!"
+forge.tutorial.smelt_more,"Folytasd az aranytömbök kovácsolását, hogy eljuss a következő osztályba"
+forge.tutorial.start_forge,"Nagyszerű, 1000 érmét szereztél!
+Most elkezdhetjük a Kovácsolást!"
+forge.tutorial.wait_ready,"Amíg a kovácsoló műhely dolgozik, több érmét nyerhetünk."
+forge.watch_ad,Nézni
+gamemode.chocolate,Láva
+gamemode.diamonds,Gyémántok
+gamemode.energycube,Gelé
+gamemode.fishes,Répák
+gamemode.food,Mogyoró
+gamemode.fossils,Polipok
+gamemode.grass,Fű
+gamemode.honeybee,Medvék
+gamemode.ice,Jég
+gamemode.jam,Energia
+gamemode.road,Malac
+gamemode.stone,Kövek
+gamemode.tasks,Rendelések
+gamemode.tiles,Fű
+home.bars_need_more,#more szükséged van
+home.bars_progress,#current / #total
+home.bet,#count érmék fogadása
+home.coins,#count
+home.gems,#count
+home.hint_quest_book,Új küldetések elérhetők!
+home.hint_quest_book.claim,Ó! Valakinek jutalom jár!
+home.hint_quest_book.new,Hűha! Új küldetés!
+home.league_indev,Hamarosan érkezik a következő ligája!
+home.rematch.asks_for_rematch_draw,#name újra próbálkozik
+home.rematch.asks_for_rematch_player_lose,#name újrajátszást kínál
+home.rematch.asks_for_rematch_player_won,#name kér egy újabb mérkőzést!
+home.xp,#count
+ingame_booster_shop.buy,Szerezd meg #count
+ingame_booster_shop.hint.cross,"Használd a varázspálcát, hogy eltávolíts egy sor és egy oszlop darabot!"
+ingame_booster_shop.hint.hammer,Törj le a csempéket a Kalapáccsal!
+ingame_booster_shop.hint.hand,"Használja a Kesztyűt, hogy cserélje ki a szomszédos darabokat!"
+ingame_booster_shop.title.cross,Varázspálca
+ingame_booster_shop.title.hammer,Kalapács
+ingame_booster_shop.title.hand,Kesztyű
+league.Bronze,Bronz Liga
+league.div_1,I. osztály
+league.div_2,Másodosztály
+league.div_3,III. osztály
+league.div_4,IV. osztály
+league.div_5,Osztály V
+league.E001,Bronz III
+league.E002,Bronz II
+league.E003,Bronz I
+league.E004,Ezüst IV
+league.E005,Ezüst III
+league.E006,Ezüst II
+league.E007,Ezüst I
+league.E008,Arany V
+league.E009,Arany IV
+league.E010,Arany III
+league.E011,Arany II
+league.E012,Arany I
+league.E013,Platina V
+league.E014,Platina IV
+league.E015,Platina III
+league.E016,Platina II
+league.E017,Platina I
+league.E018,Mester 1
+league.Gold,Arany Liga
+league.Master,Mester Liga
+league.MasterN,Mester #div
+league.GrandMaster,Nagymester
+league.GrandMasterN,Nagymester #div
+league.Platinum,Platina Liga
+league.Silver,Ezüst Liga
+levelup.continue,Lenyűgöző!
+levelup.reward,Jutalom
+levelup.title_division,"Gratulálunk!
+Új osztály!"
+levelup.title_league,"Gratulálunk!
+Új ligában!"
+ma2transfer.install,Telepítés
+ma2transfer.message,"A Match Arena áthelyeződött az új alkalmazásba!
+
+Fontos! Használd az alábbi kódot a játék folytatásához."
+nickname.tutorial_004,Sensei Mihály
+nickname.tutorial_005,Professzor Frank
+nickname.tutorial_006,Királynő Matcha
+nickname.tutorial_007,Leo tanár
+nickname.tutorial_008,Edző Carl
+nickname.tutorial_009,Tanár Borostás
+nickname.tutorial_010,Guru Viktória
+placeholder.hint_friends,"Kihívásokat küldj barátaidnak és mutasd meg,
+mire vagy képes!"
+placeholder.hint_quests,"Érd el az I. Bronz Liga szintjét,
+hogy felfedezd!"
+placeholder.hint_settings,Hamarosan kész lesz :)
+placeholder.title_friends,"Játssz barátaiddal
+hamarosan érkezik
+"
+placeholder.title_quests,"Fantasztikus Küldetések
+Zárolva
+"
+placeholder.title_settings,Beállítások fejlesztés alatt
+quest_help.block_1,"Teljesíts feladatokat, hogy jutalmakat kapj!"
+quest_help.block_2,"Teljesítsd az összes küldetést, hogy megnyisd a ládát."
+quest_help.block_3,"Teljesítsd az összes küldetést a következő osztály előtt, különben elveszíted a ládát!"
+quest_help.continue,Megkaptam
+quest_help.title,Küldetés Könyv
+quest.aquarium,Gyűjts össze #amount halat
+quest.bar,#progress / #amount
+quest.bar_completed,Küldetés teljesítve!
+quest.bar_last_try,Előző kísérlet: #progress / #amount
+quest.bar_special_not_tried,#progress / #amount
+quest.best_so_far,Legjobb eredmény: #progress
+quest.butterfly,Gyűjts össze #amount Pillangókat
+quest.buy_now,Szerezd meg most #amount
+quest.cat,Gyűjts össze #amount Macskát
+quest.chip_destroy,Gyűjts össze #amount bármilyen darabot
+quest.chip_destroy_bird,Gyűjts össze #amount madarat
+quest.chip_destroy_blue,Gyűjts össze #amount kék darabot
+quest.chip_destroy_diamond,Gyűjts össze #amount Gyémántot
+quest.chip_destroy_fish,Gyűjts össze #amount Répát
+quest.chip_destroy_fish_blue,Gyűjts össze #amount kék Répát
+quest.chip_destroy_fish_green,Gyűjts össze #amount zöld Répát
+quest.chip_destroy_fish_orange,Gyűjts össze #amount narancssárga Répát
+quest.chip_destroy_fish_purple,Gyűjts össze #amount lila Répát
+quest.chip_destroy_fish_red,Gyűjts össze #amount piros Répát
+quest.chip_destroy_fish_yellow,Gyűjts össze #amount sárga Répát
+quest.chip_destroy_food,Távolítsa el a #amount Mogyorókat
+quest.chip_destroy_frog,Gyűjts össze #amount Békát
+quest.chip_destroy_green,Gyűjts össze #amount zöld darabot
+quest.chip_destroy_orange,Gyűjts össze #amount narancssárga darabot
+quest.chip_destroy_purple,Gyűjts össze #amount lila darabot
+quest.chip_destroy_red,Gyűjts össze #amount piros darabot
+quest.chip_destroy_snail,Gyűjts össze #amount csigát
+quest.chip_destroy_super,Gyűjts össze #amount szuper darabot
+quest.chip_destroy_wafer,Gyűjts össze #amount Arany bányászatot
+quest.chip_destroy_with_bomb,Gyűjts össze #amount darabot Bombával
+quest.chip_destroy_with_line,Gyűjts össze #amount darabot a vonal bónusszal
+quest.chip_destroy_with_mine,Gyűjts össze #amount darabot a Holdjáró bónusszal
+quest.chip_destroy_with_omni,Gyűjts össze #amount darabot a Villám bónusszal
+quest.chip_destroy_yellow,Gyűjts össze #amount sárga darabot
+quest.chip_destroy_waterfish,Gyűjts össze #amount vízi halat
+quest.chip_recolor,Árnyalj #amount darabot a Festék bónusszal
+quest.claim,Jutalom Igénybevétele
+quest.complete_chest,Minden küldetés teljesítve
+quest.cover_destroy_bee,Gyűjts össze #amount Macit
+quest.cover_destroy_bound,Nyisd fel #amount darabot
+quest.cover_destroy_chocolate,Távolítson el #amount darabot a Lávával
+quest.cover_destroy_fizzblue,Gyűjts össze #amount buborékot
+quest.cover_destroy_fizzpurple,Gyűjts össze #amount buborékot
+quest.cover_destroy_frozen,Távolítsa el a #amount jégtömböket
+quest.cover_destroy_honey,Tisztítsd el #amount csempét a mézzel
+quest.cover_destroy_hotlava,Távolíts el #amount darab Forró Lávát
+quest.cover_destroy_receiver_energycube,Gyűjts össze #amount zselé kristályt
+quest.cover_destroy_receiver_jam,Gyűjts össze #amount energia kristályt
+quest.cover_destroy_statue,Gyűjts össze #amount kutyát
+quest.cover_destroy_stone,Távolítsa el a #amount Kődarabokat
+quest.cover_destroy_leaf,Takarítsd el a #amount leveleket
+quest.division_done_card,Új küldetések a következő osztályban!
+quest.duck,Gyűjts össze #amount kacsa
+quest.energy_flow,Húzd át #amount mezőt az Energiával
+quest.energycube_flow,Töltsd ki a #amount csempét Gelével
+quest.fossil,Gyűjts össze #amount Polipot
+quest.gum,Gyűjts össze #amount darab gumicukrot
+quest.new_quest,Új küldetés!
+quest.new_quest_in,Következő küldetés:
+quest.on_arena_splash_score,Szerezd meg a #amount pontot az Arena Boom-ban!
+quest.on_arena_splash_use_bonus,Mentse el a #amount bónuszt az Arena Boom-hoz!
+quest.plate_destroy,Távolítsa el a #amount Elválasztásokat
+quest.play,Játszani
+quest.pvp_score,Szerezz #amount pontot a párbajokban
+quest.reward,Jutalom:
+quest.snakes,Gyűjts össze #amount Kígyókat
+quest.tile_destroy_gold,Gyűjts össze #amount zöld csempét
+quest.tile_destroy_grass,Gyűjts össze #amount zöld csempét
+quest.title,Küldetés Könyv
+quest.use_bonus,Használj #amount bónuszokat
+quest.use_bonus_bomb,Használj #amount bónusz Bomba
+quest.use_bonus_line,Használj #amount bónuszokat a vonalhoz
+quest.use_bonus_mine,Használj #amount bónuszt a Holdjáróhoz
+quest.use_bonus_omni,Használja #amount alkalommal a villám bónuszt
+quest.use_bonus_tint,Használj #amount bónuszokat Festékkel
+quest.use_combo_bomb_bomb,Készíts kombó-bónusz Bomba+Bomba #amount alkalommal
+quest.use_combo_bomb_omni,Készíts kombó-bónusz Fény+Bomba #amount alkalommal
+quest.use_combo_bomb_tint,Készíts kombó-bónuszt Festék+Bomba #amount alkalommal
+quest.use_combo_line_bomb,Készíts kombó-bónusz Bomba+Vonal #amount alkalommal
+quest.use_combo_line_line,Készíts kombó-bónuszt Sor+Sor #amount alkalommal
+quest.use_combo_line_omni,Készíts kombó-bónusz Fény+Vonal #amount alkalommal
+quest.use_combo_line_tint,Készíts kombó-bónuszt Festék+Vonal #amount alkalommal
+quest.use_combo_mine_bomb,Készíts kombó-bónuszt Firefly + Bomba #amount alkalommal
+quest.use_combo_mine_line,Készíts kombó-bónuszt Pillangó+Vonal #amount alkalommal
+quest.use_combo_mine_mine,Készíts kombó-bónuszt Pillangó+Pillangó #amount alkalommal
+quest.use_combo_mine_omni,Készíts kombó-bónuszt Villám+Füstölgő #amount alkalommal
+quest.use_combo_mine_tint,Készíts kombó-bónuszt Festék+Füstölgő #amount alkalommal
+quest.use_combo_omni_omni,Készíts kombó-bónusz Fény+Fény #amount alkalommal
+quest.use_combo_omni_tint,Készíts kombó-bónuszt Festék+Villám #amount alkalommal
+quest.use_combo_tint_tint,Készíts kombó-bónuszt Festék+Festék #amount alkalommal
+quest.walk,Lépj vele #amount lépést
+quest.watch_for_new,- #time
+quest.win,Nyerj meg #amount csatákat
+quest.win_coins,Szerezz #amount érmét a csatákban
+quest.win_hard_level,Teljesítsd a nehéz szintet
+quest.win_rematch,Nyerjen #amount revansokat
+quest.win_streak,Nyerj meg #amount csatát egymás után
+quest.chip_destroy_clam,Gyűjts össze #amount gyöngyöt
+quest.chip_destroy_egg,Gyűjts össze #amount tojást
+quest.gardenflower,Gyűjts össze #amount virágot
+quest.sausages,Gyűjts össze #amount kolbászt
+rematch.asks_for_rematch_draw,"#name szeretne újra próbálkozni
+Tét #bet"
+rematch.asks_for_rematch_player_lose,"#name újrajátszást kínál
+Tét #bet"
+rematch.asks_for_rematch_player_won,"#name szeretne újrajátszani!
+Tét #bet"
+rematch.rematch_bet,Fogadás #bet
+report.body,
+report.subject,Probléma a MatchArena játékkal
+reward.bars,Arany szalagok
+reward.coins_amt,+#amount
+reward.gems_amt,+#amount
+reward.levels,Új szintek
+reward.levels_amt,+#amount
+reward.levelup,"Gratulálunk!
+Új szint!"
+reward.new_levels,"Új
+szintek!"
+reward.talisman,Talizmánok
+reward.xp_amt,+#amount
+search.prize_fund,Díjalap
+settings.friends_and_partners,Barátok és partnerek
+settings.language.help_us_translate,"Szeretnél segíteni nekünk Match Arena fordításában a nyelveken, amiket beszélsz? Küldj nekünk egy üzenetet <font color=""\#0000EE"">support@matcharenagame.com-ra."
+settings.notifications.duels,Kihívás a párbajhoz
+shop.indev,Hamarosan!
+splash.hint_chocolate,Távolítsd el a lehető legtöbb Lávát
+splash.hint_diamonds,Gyűjtsön minél több Gyémántot
+splash.hint_energycube,Töltsd fel a lehető legtöbb csempét Gelével
+splash.hint_fishes,"Gyűjts össze annyi Céklát, amennyit csak tudsz"
+splash.hint_food,Távolítsd el a lehető legtöbb Mogyorót
+splash.hint_fossils,Mentse el amennyi Polipot csak tud
+splash.hint_honeybee,"Gyűjts össze annyi Macit, amennyit csak tudsz"
+splash.hint_ice,Távolítsd el a lehető legtöbb Jéget
+splash.hint_jam,"Töltsd fel annyi mezőt Energiával, amennyit csak tudsz!"
+splash.hint_road,Vigyétek a Malacot ameddig csak lehet
+splash.hint_stone,Távolítsd el a lehető legtöbb Követ
+splash.hint_tasks,Teljesíts minél több Rendelést
+splash.hint_tiles,Gyűjtsön minél több Fűt lehetőleg
+splash.mode_chocolate,Cél - Láva
+splash.mode_diamonds,Cél - Gyémántok
+splash.mode_fishes,Cél - Répák
+splash.mode_food,Cél - Mogyoró
+splash.mode_jam,Cél - Energia
+splash.mode_road,Cél - Malac
+splash.mode_tasks,Cél - Rendelések
+splash.mode_tiles,Cél - Fű
+talismans_shop.ask_button,Facebook
+talismans_shop.ask_text,Kérj segítséget barátaidtól
+talismans_shop.boost_text,x2 újratöltési sebesség
+talismans_shop.buy_all,#amount megvásárlása
+talismans_shop.hint,Kettősével nyeri meg a pénzérméket
+talismans_shop.recharge,Következő talizmán: #time
+talismans_shop.title,Talizmánok
+talismans_shop.watch_ad_button,Nézni
+talismans_shop.watch_ad_text,Ingyenes 1
+tickets_shop.ask_button,Facebook
+tickets_shop.ask_text,Kérj segítséget barátaidtól
+tutorial.001.collect_more_fishes,"Gyűjts össze minél <font color=""\#5885b8"">több Céklát!</font>"
+tutorial.001.continue_to_collect_fishes,Folytasd a sárgarépa gyűjtését!
+tutorial.001.first_swap_red_down,"Mozgasd a piros darabot lefelé, hogy <font color=""\#5885b8"">három egy sorba</font> illeszd össze."
+tutorial.001.remind_collect_three_in_a_row,"Gyűjtsd össze <font color=""\#5885b8"">három egyforma színű</font> bábut <font color=""\#5885b8"">egy sorban</font>!"
+tutorial.001.second_swap_green_left,"Mozgasd a zöld darabot balra, hogy <font color=""\#5885b8"">három egy sorba</font> illeszkedjen."
+tutorial.001.third_swap_fish,"<font color=""\#5885b8"">Cékla</font> is háromszor egymás mellé illeszthető"
+tutorial.001.you_are_doing_well,Jól csinálod!
+tutorial.002.get_bonus_line,"...hogy megkapja a <font color=""\#5885b8"">bónusz - vonal!</font>"
+tutorial.002.try_four_in_a_row,"Próbáld meg egymás mellé rakni a <font color=""\#5885b8"">4-et!</font>"
+tutorial.002.use_line_bonus,"Párosítsd <font color=""\#5885b8"">három egymás mellé a bónusszal</font>, hogy meglásd a vonal erejét!"
+tutorial.003.hint,"Gyűjts több répát, mint az ellenfeled!"
+tutorial.003.try_l_or_t,"Illessz össze a darabokat <font color=""\#5885b8"">T vagy L alakban!</font>"
+tutorial.003.use_bomb_bonus,"...hogy megkapd a <font color=""\#5885b8"">bónuszt - Bombát!</font>
+Robbantsuk fel!"
+tutorial.004.clear_gold_tiles,"Rakj össze a <font color=""\#5885b8"">Fű</font>-t, hogy gyűjtsd össze!"
+tutorial.004.combine_omni_with_blue,"Cseréld le a <font color=""\#5885b8"">Villám-darabot</font> a kék darabbal, hogy eltávolítsd az összes kéket a tábláról!"
+tutorial.004.try_five_in_a_row,"Próbálj meg <font color=""\#5885b8"">5-öt egymás mellé rakni!</font>"
+tutorial.005.two_bonus_can_combine,"Bármely <font color=""\#5885b8"">két bónusz összevonható</font> egy nagyobb bónusz eléréséhez!"
+tutorial.007.collect_food,"Csatlakozz a <font color=""\#5885b8"">Mogyorókhoz</font>"
+tutorial.007.move_character,"Gyűjtsd össze a makkokat, hogy <font color=""\#5885b8"">előre vigyük a Malacot!</font>"
+tutorial.008.make_mine_bonus,"Párosítsd össze a <font color=""\#5885b8"">négy darabot négyzet alakban</font> és kapj bónuszt - Holdjáró!"
+tutorial.008.use_mine_bonus,"Három egymás melletti <font color=""\#5885b8"">Füstölgő</font>-t egymás mellé, hogy használhasd!"
+tutorial.009.make_tint_bonus,"Készíts egy <font color=""\#5885b8"">nagy T alakzatot</font> és kapj bónuszt - Festéket!"
+tutorial.009.use_tint_bonus,"<font color=""\#5885b8"">Festék</font> cserélhető bármilyen darabbal!"
+level_popup.adventure.title,Szint
+lives_shop.ma_hint,"Élethez szükséged van,
+hogy folytathasd a Kalandot."

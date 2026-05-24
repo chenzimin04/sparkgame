@@ -1,0 +1,308 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 677,
+				"x": 385,
+				"var": "pngBg",
+				"top": 0,
+				"skin": "images/grid/imgBg.png",
+				"sizeGrid": "2,3,4,3",
+				"right": 0,
+				"left": 0,
+				"bottom": 0,
+				"anchorY": 0.5,
+				"anchorX": 0.5,
+				"alpha": 0.83
+			},
+			"compId": 3
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 307,
+				"x": 0,
+				"width": 750,
+				"var": "centerBox",
+				"height": 720
+			},
+			"compId": 4,
+			"child": [
+				{
+					"type": "Box",
+					"props": {
+						"y": -130,
+						"x": 75,
+						"width": 600,
+						"var": "groupLucky",
+						"height": 510
+					},
+					"compId": 40,
+					"child": [
+						{
+							"type": "Box",
+							"props": {
+								"y": -25,
+								"x": 60,
+								"width": 480,
+								"var": "topBox",
+								"height": 90
+							},
+							"compId": 46,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 25,
+										"x": -36,
+										"var": "imgBanner",
+										"skin": "images/egg/icon_bt_bg.png"
+									},
+									"compId": 9,
+									"child": [
+										{
+											"type": "Image",
+											"props": {
+												"y": 20,
+												"x": 151,
+												"var": "imgQuality",
+												"text": "英雄品阶",
+												"stroke": 2,
+												"skin": "images/egg/icon_bt_gxhd.png",
+												"fontSize": 26,
+												"color": "#ffffff",
+												"bold": true,
+												"align": "center"
+											},
+											"compId": 20
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 351,
+								"x": 300,
+								"width": 458,
+								"var": "standBox",
+								"height": 468,
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 44,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 308,
+										"x": 229,
+										"visible": false,
+										"var": "imgLight",
+										"skin": "images/egg/bgLight_1.png",
+										"scaleY": 1.5,
+										"scaleX": 1.5,
+										"anchorY": 0.5,
+										"anchorX": 0.5
+									},
+									"compId": 48
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 308,
+										"x": 229,
+										"visible": false,
+										"var": "soliderIcon",
+										"rotation": 90
+									},
+									"compId": 52
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 103,
+										"x": 129,
+										"width": 200,
+										"visible": false,
+										"var": "boxStar",
+										"height": 46
+									},
+									"compId": 53
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 378,
+										"x": 228,
+										"width": 40,
+										"var": "wingBox",
+										"scaleY": 2.4,
+										"scaleX": 2.4,
+										"rotation": 0,
+										"height": 40
+									},
+									"compId": 47
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 49,
+										"x": 79,
+										"width": 300,
+										"visible": false,
+										"var": "labName",
+										"valign": "middle",
+										"text": "士兵名称",
+										"fontSize": 40,
+										"color": "#ffffff",
+										"bold": true,
+										"align": "center"
+									},
+									"compId": 21
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 180,
+										"x": 89,
+										"visible": false,
+										"var": "iconNew",
+										"skin": "images/egg/new.png",
+										"rotation": 0
+									},
+									"compId": 45
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "Box",
+					"props": {
+						"y": 470,
+						"x": 0,
+						"width": 750,
+						"visible": false,
+						"var": "groupBtn",
+						"height": 300
+					},
+					"compId": 25,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 230,
+								"x": 195,
+								"visible": false,
+								"var": "imgTo",
+								"skin": "images/egg/autoTo.png",
+								"fontSize": 26,
+								"color": "#ffffff",
+								"bold": true
+							},
+							"compId": 16,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": -13,
+										"x": 271,
+										"var": "iconPatch",
+										"skin": "images/obj/sp_25.png"
+									},
+									"compId": 23
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 5,
+										"x": 328,
+										"width": 105,
+										"var": "boxTo",
+										"text": "1000",
+										"strokeColor": "#bb7f15",
+										"stroke": 1,
+										"height": 30,
+										"fontSize": 24,
+										"color": "#ffffff",
+										"align": "left"
+									},
+									"compId": 19
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 148,
+								"x": 375,
+								"width": 250,
+								"var": "btnGet",
+								"skin": "images/egg/button_blue.png",
+								"sizeGrid": "0,57,0,62",
+								"height": 100,
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 35,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 44,
+										"x": 125,
+										"var": "imgGet",
+										"skin": "images/egg/button_word_qd.png",
+										"anchorY": 0.5,
+										"anchorX": 0.5
+									},
+									"compId": 38
+								}
+							]
+						},
+						{
+							"type": "Label",
+							"props": {
+								"y": -18,
+								"x": 83,
+								"wordWrap": true,
+								"width": 610,
+								"var": "labRemark",
+								"valign": "top",
+								"text": "士兵名称",
+								"leading": 14,
+								"height": 60,
+								"fontSize": 26,
+								"color": "#eeeeee",
+								"bold": false,
+								"align": "left"
+							},
+							"compId": 54
+						}
+					]
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/grid/imgBg.png",
+		"images/egg/icon_bt_bg.png",
+		"images/egg/icon_bt_gxhd.png",
+		"images/egg/bgLight_1.png",
+		"images/egg/new.png",
+		"images/egg/autoTo.png",
+		"images/obj/sp_25.png",
+		"images/egg/button_blue.png",
+		"images/egg/button_word_qd.png"
+	],
+	"loadList3D": []
+}

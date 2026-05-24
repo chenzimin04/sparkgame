@@ -1,0 +1,1062 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 0,
+				"x": 0,
+				"var": "pngBg",
+				"top": 0,
+				"skin": "images/grid/maskGray.png",
+				"sizeGrid": "2,2,2,2",
+				"right": 0,
+				"left": 0,
+				"bottom": 0
+			},
+			"compId": 65
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 137,
+				"x": 0,
+				"width": 750,
+				"var": "centerBox",
+				"height": 1080
+			},
+			"compId": 3,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 0,
+						"x": 7,
+						"width": 736,
+						"skin": "images/solider/icon_tc_bg.png",
+						"height": 513
+					},
+					"compId": 81,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 506,
+								"x": 0,
+								"width": 736,
+								"skin": "images/solider/icon_tc_bg2.png",
+								"sizeGrid": "13,27,31,26",
+								"height": 520
+							},
+							"compId": 95
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 3,
+						"x": 8,
+						"width": 734,
+						"var": "imgTopBanner",
+						"skin": "images/solider/icon_tc_pzbg_5.png",
+						"sizeGrid": "0,21,0,22",
+						"height": 90
+					},
+					"compId": 76,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 23,
+								"x": 15,
+								"var": "imgIconQuality",
+								"skin": "images/solider/icon_tc_pzword_5.png"
+							},
+							"compId": 77
+						},
+						{
+							"type": "Label",
+							"props": {
+								"y": 27,
+								"x": 164,
+								"width": 400,
+								"var": "labName",
+								"text": "圣弓箭手",
+								"strokeColor": "#a3a1a1",
+								"stroke": 4,
+								"fontSize": 38,
+								"color": "#ffffff",
+								"bold": true,
+								"align": "center"
+							},
+							"compId": 10
+						},
+						{
+							"type": "Label",
+							"props": {
+								"y": 107,
+								"x": 817,
+								"width": 660,
+								"visible": false,
+								"var": "labUpdesc",
+								"text": "满级属性",
+								"fontSize": 22,
+								"color": "#ffffff",
+								"align": "center"
+							},
+							"compId": 105
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 49,
+						"x": 691,
+						"var": "btnClose",
+						"skin": "images/solider/button_gb.png",
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 35
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 264,
+						"x": 55,
+						"var": "btnLeft",
+						"skin": "images/solider/button_fy.png",
+						"rotation": 0,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 8
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 50,
+						"x": 100,
+						"width": 550,
+						"skin": "images/solider/icon_gx.png",
+						"rotation": 0,
+						"height": 496
+					},
+					"compId": 9,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 243,
+								"x": 275,
+								"var": "soliderIcon",
+								"skin": "images/man/soliderE3_1.png",
+								"scaleY": 1.35,
+								"scaleX": 1.35,
+								"rotation": 90,
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 66
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 57,
+								"x": 150,
+								"width": 250,
+								"var": "boxStar",
+								"height": 44
+							},
+							"compId": 108,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 1,
+										"x": 8,
+										"var": "iconStar1",
+										"skin": "images/solider/icon_qtStar.png"
+									},
+									"compId": 98
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 2,
+										"x": 58,
+										"var": "iconStar2",
+										"skin": "images/solider/icon_qtStar.png"
+									},
+									"compId": 99
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 2,
+										"x": 109,
+										"var": "iconStar3",
+										"skin": "images/solider/icon_qtStar.png"
+									},
+									"compId": 100
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 2,
+										"x": 159,
+										"var": "iconStar4",
+										"skin": "images/solider/icon_qtStar.png"
+									},
+									"compId": 101
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 2,
+										"x": 209,
+										"var": "iconStar5",
+										"skin": "images/solider/icon_qtStar.png"
+									},
+									"compId": 102
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 53,
+								"x": -71,
+								"var": "iconJobImg",
+								"skin": "images/solider/icon_job_1.png"
+							},
+							"compId": 106
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 67.5,
+								"x": -5,
+								"var": "iconJobTxt",
+								"skin": "images/solider/txt_job_5.png"
+							},
+							"compId": 107
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 264,
+						"x": 697,
+						"var": "btnRight",
+						"skin": "images/solider/button_fy.png",
+						"rotation": 180,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 30
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 432,
+						"x": 17,
+						"width": 716,
+						"skin": "images/solider/icon_tc_bg_01.png",
+						"sizeGrid": "17,20,21,21",
+						"height": 583
+					},
+					"compId": 11,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 26,
+								"x": 65,
+								"width": 214,
+								"var": "imgPatchBg",
+								"skin": "images/solider/icon_jdt_bg.png",
+								"sizeGrid": "0,15,0,14"
+							},
+							"compId": 39,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 0,
+										"x": 1,
+										"width": 105,
+										"var": "imgPatchVal",
+										"skin": "images/solider/icon_jdt_2.png",
+										"sizeGrid": "0,15,0,14",
+										"height": 27
+									},
+									"compId": 40
+								}
+							]
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 15,
+								"x": 433,
+								"width": 240,
+								"var": "boxAdvIcon",
+								"height": 40
+							},
+							"compId": 97
+						},
+						{
+							"type": "Label",
+							"props": {
+								"y": -45,
+								"x": 39,
+								"var": "labLvBg",
+								"text": "Lv.7",
+								"strokeColor": "#ffffff",
+								"stroke": 2,
+								"fontSize": 32,
+								"color": "#ffffff",
+								"bold": true,
+								"alpha": 0.6
+							},
+							"compId": 103
+						},
+						{
+							"type": "Label",
+							"props": {
+								"y": -45,
+								"x": 39,
+								"var": "labLv",
+								"text": "Lv.7",
+								"fontSize": 32,
+								"color": "#ffffff",
+								"bold": true
+							},
+							"compId": 37
+						},
+						{
+							"type": "Label",
+							"props": {
+								"y": 28,
+								"x": 72,
+								"width": 200,
+								"var": "labPatch",
+								"text": "9/12",
+								"fontSize": 26,
+								"color": "#000000",
+								"bold": true,
+								"align": "center"
+							},
+							"compId": 74
+						},
+						{
+							"type": "Label",
+							"props": {
+								"y": 80,
+								"x": 41,
+								"wordWrap": true,
+								"width": 635,
+								"var": "labDesc",
+								"text": "提升自身的攻击速度，以极快的速度攻击怪物",
+								"leading": 6,
+								"height": 48,
+								"fontSize": 26
+							},
+							"compId": 42
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 36,
+								"x": 66,
+								"width": 42,
+								"var": "iconPatch",
+								"skin": "images/obj/sp_27.png",
+								"scaleY": 1.2,
+								"scaleX": 1.2,
+								"height": 45,
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 38
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 64,
+								"x": 33,
+								"width": 650,
+								"skin": "images/solider/icon_fgx.png",
+								"rotation": 0,
+								"height": 6
+							},
+							"compId": 80
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 149,
+								"x": 88,
+								"width": 240,
+								"skin": "images/solider/icon_tc_bg_02.png",
+								"sizeGrid": "10,17,15,16",
+								"rotation": 0,
+								"height": 75
+							},
+							"compId": 43,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 11,
+										"x": 24,
+										"skin": "images/solider/icon_sx_gjl.png"
+									},
+									"compId": 45
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 11,
+										"x": 99,
+										"text": "ATK",
+										"fontSize": 24,
+										"color": "#000000"
+									},
+									"compId": 44
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 39,
+										"x": 99,
+										"var": "labAtk",
+										"text": "1800",
+										"fontSize": 26,
+										"color": "#000000",
+										"bold": true
+									},
+									"compId": 46
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 43,
+										"x": 163,
+										"width": 37.318359375,
+										"visible": false,
+										"var": "labAtkAdd",
+										"text": "+20",
+										"rotation": 0,
+										"height": 22,
+										"fontSize": 20,
+										"color": "#000000",
+										"bold": true
+									},
+									"compId": 104
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 60,
+										"x": -311,
+										"var": "labMagic",
+										"text": "1800",
+										"fontSize": 24,
+										"color": "#000000",
+										"bold": true
+									},
+									"compId": 67
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 149,
+								"x": 388,
+								"width": 240,
+								"skin": "images/solider/icon_tc_bg_02.png",
+								"sizeGrid": "10,17,15,16",
+								"rotation": 0,
+								"height": 75
+							},
+							"compId": 47,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 9,
+										"x": 22,
+										"skin": "images/solider/icon_sx_gs.png"
+									},
+									"compId": 48
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 11,
+										"x": 99,
+										"text": "Speed",
+										"fontSize": 24,
+										"color": "#000000"
+									},
+									"compId": 49
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 39,
+										"x": 99,
+										"var": "labAtkSpeek",
+										"text": "1.25/s",
+										"fontSize": 26,
+										"color": "#000000",
+										"bold": true
+									},
+									"compId": 50
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 237,
+								"x": 88,
+								"width": 240,
+								"skin": "images/solider/icon_tc_bg_02.png",
+								"sizeGrid": "10,17,15,16",
+								"rotation": 0,
+								"height": 75
+							},
+							"compId": 51,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 9,
+										"x": 24,
+										"skin": "images/solider/icon_sx_gjfw.png"
+									},
+									"compId": 52
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 11,
+										"x": 99,
+										"text": "Range",
+										"fontSize": 24,
+										"color": "#000000"
+									},
+									"compId": 53
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 39,
+										"x": 99,
+										"var": "labRange",
+										"text": "400",
+										"fontSize": 26,
+										"color": "#000000",
+										"bold": true
+									},
+									"compId": 54
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 237,
+								"x": 388,
+								"width": 240,
+								"var": "boxBuildGold",
+								"skin": "images/solider/icon_tc_bg_02.png",
+								"sizeGrid": "10,17,15,16",
+								"rotation": 0,
+								"height": 75
+							},
+							"compId": 55,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 15,
+										"x": 31,
+										"width": 44,
+										"skin": "images/solider/fly6.png",
+										"height": 44
+									},
+									"compId": 56
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 11,
+										"x": 99,
+										"text": "Build gold",
+										"fontSize": 24,
+										"color": "#000000"
+									},
+									"compId": 57
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 39,
+										"x": 99,
+										"var": "labBuildGold",
+										"text": "50",
+										"fontSize": 26,
+										"color": "#000000",
+										"bold": true
+									},
+									"compId": 58
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 324,
+								"x": 88,
+								"width": 240,
+								"var": "boxCut",
+								"skin": "images/solider/icon_tc_bg_02.png",
+								"sizeGrid": "10,17,15,16",
+								"rotation": 0,
+								"height": 75
+							},
+							"compId": 83,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 9,
+										"x": 24,
+										"skin": "images/solider/icon_sx_pj.png"
+									},
+									"compId": 85
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 11,
+										"x": 99,
+										"text": "Cut",
+										"fontSize": 24,
+										"color": "#000000"
+									},
+									"compId": 86
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 39,
+										"x": 99,
+										"var": "labCut",
+										"text": "20",
+										"fontSize": 26,
+										"color": "#000000",
+										"bold": true
+									},
+									"compId": 87
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 324,
+								"x": 388,
+								"width": 240,
+								"var": "boxSuper",
+								"skin": "images/solider/icon_tc_bg_02.png",
+								"sizeGrid": "10,17,15,16",
+								"rotation": 0,
+								"height": 75
+							},
+							"compId": 84,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 9,
+										"x": 23,
+										"skin": "images/solider/icon_sx_bj.png"
+									},
+									"compId": 88
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 11,
+										"x": 99,
+										"text": "Critical",
+										"fontSize": 24,
+										"color": "#000000"
+									},
+									"compId": 89
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 39,
+										"x": 99,
+										"var": "labSuper",
+										"text": "100",
+										"fontSize": 26,
+										"color": "#000000",
+										"bold": true
+									},
+									"compId": 90
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 429,
+								"x": 226,
+								"var": "imgLvMax",
+								"skin": "images/solider/icon_ymj.png"
+							},
+							"compId": 96
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 527,
+								"x": 274,
+								"width": 165,
+								"var": "boxCost",
+								"skin": "images/solider/icon_zy_bg.png",
+								"sizeGrid": "0,8,0,27",
+								"rotation": 0,
+								"height": 37
+							},
+							"compId": 78,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": -4,
+										"x": -9,
+										"var": "iconCostGold",
+										"skin": "images/solider/icon_zy_jb.png"
+									},
+									"compId": 62
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 2,
+										"x": 34,
+										"width": 120,
+										"var": "labCostGold",
+										"text": "500",
+										"height": 36,
+										"fontSize": 36,
+										"color": "#ffffff",
+										"bold": true,
+										"align": "center"
+									},
+									"compId": 64
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": -59,
+										"x": 84,
+										"width": 246,
+										"var": "btnUp",
+										"skin": "images/solider/button_blue.png",
+										"sizeGrid": "38,48,46,53",
+										"rotation": 0,
+										"height": 99,
+										"anchorY": 0.5,
+										"anchorX": 0.5
+									},
+									"compId": 61,
+									"child": [
+										{
+											"type": "Image",
+											"props": {
+												"y": 17,
+												"x": 75,
+												"var": "iconBtnUp",
+												"skin": "images/solider/button_word_sj.png",
+												"label": "label"
+											},
+											"compId": 79
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 412,
+								"x": 88,
+								"width": 540,
+								"var": "boxBeyond",
+								"height": 165
+							},
+							"compId": 109,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 120,
+										"x": 213,
+										"width": 268,
+										"var": "imgBeyondBg",
+										"skin": "images/solider/icon_jdt_bg.png",
+										"sizeGrid": "0,15,0,14",
+										"rotation": 0,
+										"height": 28
+									},
+									"compId": 120,
+									"child": [
+										{
+											"type": "Image",
+											"props": {
+												"y": 0,
+												"x": 1,
+												"width": 103,
+												"var": "imgBeyondVal",
+												"skin": "images/solider/icon_jdt_1.png",
+												"sizeGrid": "0,15,0,14",
+												"height": 27
+											},
+											"compId": 121
+										},
+										{
+											"type": "Label",
+											"props": {
+												"y": 4,
+												"x": -16,
+												"width": 300,
+												"var": "labBeyondTimer",
+												"text": "Breakout time",
+												"stroke": 2,
+												"fontSize": 22,
+												"color": "#ffffff",
+												"bold": true,
+												"align": "center"
+											},
+											"compId": 122
+										}
+									]
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 61,
+										"x": 140,
+										"width": 159,
+										"var": "btnBeyondCost",
+										"skin": "images/solider/button_blue.png",
+										"sizeGrid": "0,57,0,62",
+										"rotation": 0,
+										"height": 94,
+										"anchorY": 0.5,
+										"anchorX": 0.5
+									},
+									"compId": 110,
+									"child": [
+										{
+											"type": "Image",
+											"props": {
+												"y": 17,
+												"x": 55,
+												"width": 82,
+												"visible": false,
+												"skin": "images/main/button_word_qd.png",
+												"label": "label",
+												"height": 45
+											},
+											"compId": 123
+										},
+										{
+											"type": "Image",
+											"props": {
+												"y": 17,
+												"x": 55,
+												"width": 82,
+												"visible": false,
+												"skin": "images/main/button_word_qd.png",
+												"label": "label",
+												"height": 45
+											},
+											"compId": 124
+										},
+										{
+											"type": "Label",
+											"props": {
+												"y": 24,
+												"x": 18,
+												"text": "Breakthrough",
+												"strokeColor": "#533e1e",
+												"stroke": 2,
+												"fontSize": 30,
+												"color": "#ffffff",
+												"bold": true
+											},
+											"compId": 127
+										}
+									]
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 61,
+										"x": 359,
+										"width": 231,
+										"var": "btnBeyondAd",
+										"skin": "images/solider/button_yellow.png",
+										"sizeGrid": "0,57,0,62",
+										"label": "label",
+										"height": 94,
+										"anchorY": 0.5,
+										"anchorX": 0.5
+									},
+									"compId": 116,
+									"child": [
+										{
+											"type": "Image",
+											"props": {
+												"y": 16,
+												"x": 98.5,
+												"width": 81,
+												"skin": "images/result/button_word_mf.png",
+												"rotation": 0,
+												"label": "label",
+												"height": 44
+											},
+											"compId": 117,
+											"child": [
+												{
+													"type": "Image",
+													"props": {
+														"y": -25,
+														"x": 62,
+														"skin": "images/solider/red.png"
+													},
+													"compId": 128
+												}
+											]
+										},
+										{
+											"type": "Image",
+											"props": {
+												"y": 20,
+												"x": 40,
+												"width": 49,
+												"skin": "images/result/button_sp.png",
+												"label": "label",
+												"height": 38
+											},
+											"compId": 118
+										}
+									]
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 118,
+										"x": 61,
+										"width": 128,
+										"skin": "images/solider/icon_zy_bg.png",
+										"sizeGrid": "0,8,0,27",
+										"height": 32
+									},
+									"compId": 125
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 120,
+										"x": 69,
+										"width": 31,
+										"var": "iconBeyond",
+										"skin": "images/solider/icon_zy_zs.png",
+										"height": 28
+									},
+									"compId": 112,
+									"child": [
+										{
+											"type": "Box",
+											"props": {
+												"y": 4,
+												"x": 35,
+												"width": 89,
+												"var": "boxBeyondCost",
+												"scaleY": 0.92,
+												"scaleX": 0.88,
+												"rotation": 0,
+												"height": 24
+											},
+											"compId": 126
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/grid/maskGray.png",
+		"images/solider/icon_tc_bg.png",
+		"images/solider/icon_tc_bg2.png",
+		"images/solider/icon_tc_pzbg_5.png",
+		"images/solider/icon_tc_pzword_5.png",
+		"images/solider/button_gb.png",
+		"images/solider/button_fy.png",
+		"images/solider/icon_gx.png",
+		"images/man/soliderE3_1.png",
+		"images/solider/icon_qtStar.png",
+		"images/solider/icon_job_1.png",
+		"images/solider/txt_job_5.png",
+		"images/solider/icon_tc_bg_01.png",
+		"images/solider/icon_jdt_bg.png",
+		"images/solider/icon_jdt_2.png",
+		"images/obj/sp_27.png",
+		"images/solider/icon_fgx.png",
+		"images/solider/icon_tc_bg_02.png",
+		"images/solider/icon_sx_gjl.png",
+		"images/solider/icon_sx_gs.png",
+		"images/solider/icon_sx_gjfw.png",
+		"images/solider/fly6.png",
+		"images/solider/icon_sx_pj.png",
+		"images/solider/icon_sx_bj.png",
+		"images/solider/icon_ymj.png",
+		"images/solider/icon_zy_bg.png",
+		"images/solider/icon_zy_jb.png",
+		"images/solider/button_blue.png",
+		"images/solider/button_word_sj.png",
+		"images/solider/icon_jdt_1.png",
+		"images/main/button_word_qd.png",
+		"images/solider/button_yellow.png",
+		"images/result/button_word_mf.png",
+		"images/solider/red.png",
+		"images/result/button_sp.png",
+		"images/solider/icon_zy_zs.png"
+	],
+	"loadList3D": []
+}

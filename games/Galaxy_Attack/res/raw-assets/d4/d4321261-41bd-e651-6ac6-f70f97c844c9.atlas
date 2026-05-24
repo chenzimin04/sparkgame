@@ -1,0 +1,76 @@
+
+skel_challengeAnim.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: true
+  xy: 493, 304
+  size: 167, 35
+  orig: 167, 35
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 267, 209
+  size: 167, 36
+  orig: 167, 36
+  offset: 0, 0
+  index: -1
+00222
+  rotate: false
+  xy: 1, 206
+  size: 265, 265
+  orig: 265, 265
+  offset: 0, 0
+  index: -1
+00222-2
+  rotate: false
+  xy: 538, 743
+  size: 265, 265
+  orig: 265, 265
+  offset: 0, 0
+  index: -1
+E_lizi0526
+  rotate: false
+  xy: 267, 246
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+b5_17
+  rotate: false
+  xy: 1, 472
+  size: 536, 536
+  orig: 536, 536
+  offset: 0, 0
+  index: -1
+baiquan
+  rotate: false
+  xy: 1, 1
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+baiquan2
+  rotate: false
+  xy: 538, 538
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 804, 985
+  size: 195, 23
+  orig: 195, 23
+  offset: 0, 0
+  index: -1
+xian2
+  rotate: true
+  xy: 1000, 813
+  size: 195, 23
+  orig: 195, 23
+  offset: 0, 0
+  index: -1

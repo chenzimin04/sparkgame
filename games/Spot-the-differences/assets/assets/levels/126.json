@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "station_on_mars_a.jpg",
+  "image2": "station_on_mars_b.jpg",
+  "differences":
+  [
+    {
+      "x": 98.0,
+      "y": 226.0,
+      "size": 150.0
+    },
+    {
+      "x": 795.0,
+      "y": 218.0,
+      "size": 160.0
+    },
+    {
+      "x": 325.0,
+      "y": 395.0,
+      "size": 160.0
+    },
+    {
+      "x": 688.0,
+      "y": 425.0,
+      "size": 50.0
+    },
+    {
+      "x": 549.0,
+      "y": 578.0,
+      "size": 120.0
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+ {
+	"size":9,
+	"moves":35,
+	"stars":{"avg":9, "top":15 },
+	"add":[
+		{ "x":0, "y":0, "dx":3, "dy":9, "type":"COIN", "count": true },
+		{ "x":3, "y":2, "type":"BREAKER" },
+		{ "x":3, "y":1, "type":"COIN", "count": true },
+		{ "x":3, "y":0, "type":"GEM_RED" },
+		{ "x":4, "y":0, "type":"GEM_BLUE" },
+		{ "x":5, "y":0, "type":"GEM_RED" },
+		{ "x":4, "y":1, "type":"SKUNK" }
+		
+		
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_RED","GEM_GREEN","GEM_YELLOW"],
+	"field":[ 
+		"xxxoooxxx",
+		"xxxoooxxx",
+		"xxxoooxxx",
+		"xxxoooxxx",
+		"xxxoooxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx"]
+ }

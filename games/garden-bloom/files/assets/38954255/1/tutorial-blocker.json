@@ -1,0 +1,3 @@
+[
+    { "type": "swap", "tile1": { "x": 6, "y": 8 } , "tile2": { "x": 5, "y": 8 }, "dialog": "tutorial-blocker-1", "index": 0 }
+]

@@ -1,0 +1,48 @@
+
+skel_func_unlock.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd
+  rotate: false
+  xy: 164, 215
+  size: 60, 12
+  orig: 60, 12
+  offset: 0, 0
+  index: -1
+suo1
+  rotate: false
+  xy: 1, 1
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+suo2
+  rotate: false
+  xy: 164, 209
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+suo3
+  rotate: true
+  xy: 139, 31
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+suo4
+  rotate: false
+  xy: 1, 65
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+zou
+  rotate: false
+  xy: 1, 31
+  size: 137, 33
+  orig: 137, 33
+  offset: 0, 0
+  index: -1

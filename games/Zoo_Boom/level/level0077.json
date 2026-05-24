@@ -1,0 +1,34 @@
+ {
+	"sizeX":9,
+	"sizeY":9,
+	"stars":{"avg":6, "top":15 },
+	"moves":40,
+	"fill":"up",
+	"add":[				
+		{ "x":0, "y":5, "dx":1, "dy":1, "type":"COLOR_BOX", "count":true, "params":{ "color":"YELLOW" } },
+		{ "x":1, "y":5, "dx":1, "dy":1, "type":"COLOR_BOX", "count":true, "params":{ "color":"RED" } },
+		{ "x":2, "y":5, "dx":1, "dy":1, "type":"COLOR_BOX", "count":true, "params":{ "color":"YELLOW" } },
+		{ "x":3, "y":5, "dx":1, "dy":1, "type":"COLOR_BOX", "count":true, "params":{ "color":"RED" } },
+		{ "x":4, "y":5, "dx":1, "dy":1, "type":"COLOR_BOX", "count":true, "params":{ "color":"YELLOW" } },
+		{ "x":5, "y":5, "dx":1, "dy":1, "type":"COLOR_BOX", "count":true, "params":{ "color":"RED" } },
+		{ "x":6, "y":5, "dx":1, "dy":1, "type":"COLOR_BOX", "count":true, "params":{ "color":"YELLOW" } },
+		{ "x":7, "y":5, "dx":1, "dy":1, "type":"COLOR_BOX", "count":true, "params":{ "color":"RED" } },
+		{ "x":8, "y":5, "dx":1, "dy":1, "type":"COLOR_BOX", "count":true, "params":{ "color":"YELLOW" } },
+		
+		{ "x":1, "y":4, "dx":7, "dy":1, "type":"CRACKLING", "count":true},
+		{ "x":1, "y":3, "dx":7, "dy":1, "type":"COLOR_BOX", "count":true, "params":{ "color":"RED" } },
+		
+		{ "x":0, "y":0, "dx":9, "dy":3, "type":"SOFT_CAGE", "count":true }
+	],
+	"allowedGemTypes":["GEM_PURPLE","GEM_YELLOW","GEM_RED","GEM_BLUE"],
+	"field":[ 
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxx0",
+		"oxxxxxxxo",
+		"oxxxxxxxo",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx"]
+ }

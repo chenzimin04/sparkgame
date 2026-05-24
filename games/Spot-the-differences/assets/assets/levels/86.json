@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "cozy_library_a.jpg",
+  "image2": "cozy_library_b.jpg",
+  "differences":
+  [
+    {
+      "x": 308.0,
+      "y": 131.0,
+      "size": 100.0
+    },
+    {
+      "x": 402.0,
+      "y": 261.0,
+      "size": 80.0
+    },
+    {
+      "x": 747.0,
+      "y": 324.0,
+      "size": 60.0
+    },
+    {
+      "x": 417.0,
+      "y": 453.0,
+      "size": 100.0
+    },
+    {
+      "x": 558.0,
+      "y": 516.0,
+      "size": 55.0
+    }
+  ]
+}

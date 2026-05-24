@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+
+<templates>
+</templates>
+
+<screen name="uiScreenPopUp" template="tPopUpJenny" label="SID_LOGIN">			
+	<element name="uiContent" >
+		<element template="tElement" width="80%" halign="center">
+			<text text="SID_LOGIN_TEXT" template="tElement,tFontMedium" height="150" halignText="center" valignText="center" marginLeft="-30" marginRight="-30" />
+					
+			<element width="100%" height="220" halign="center" valign="top" y="200">
+				<element name="uiEmail" template="tBaseTextInput">
+					<input name="uiInput" initial="SID_EMAIL" tag="inputEmail" maxlength="254"/>		
+				</element>
+				<element name="uiPW" template="tBaseTextInput" valign="bottom" >
+					<input name="uiInput" initial="SID_PASSWORD" password="true" tag="inputPassword" maxlength="64"/>		
+				</element>
+				
+				<button name="uiBtPasswordForgotten" width="100%" height="60" valign="bottomOf" halign="center" y="30" >
+					<text text="SID_LOGIN_PASSWORD_FORGOTTEN" template="tElement,tFontSmall" halignText="left" valignText="center" />
+				</button>
+				
+				<button name="uiBtRegister" width="100%" height="60" halign="center" valign="bottomOf" y="100" >
+					<text text="SID_LOGIN_TEXT_NO_ACCOUNT" template="tElement,tFontSmall" halignText="left" valignText="center" />
+				</button>
+			</element>		
+			
+			<button name="uiBtOK" halign="center" valign="bottom" template="tButton" label="SID_OK" />
+		</element>
+	</element>
+</screen>

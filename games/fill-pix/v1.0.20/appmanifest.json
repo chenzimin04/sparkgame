@@ -1,0 +1,41 @@
+{
+	"name": "Fill Pix",
+	"short_name": "Fill Pix",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-32 (2).png",
+			"sizes": "32x32",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-64 (2).png",
+			"sizes": "64x64",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-80 (2).png",
+			"sizes": "80x80",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-128 (2).png",
+			"sizes": "128x128",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-256 (2).png",
+			"sizes": "256x256",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-512 (2).png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}

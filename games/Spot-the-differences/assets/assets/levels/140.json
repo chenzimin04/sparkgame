@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "gecko_having_a_barbecue_a.jpg",
+  "image2": "gecko_having_a_barbecue_b.jpg",
+  "differences":
+  [
+    {
+      "x": 261.0,
+      "y": 66.0,
+      "size": 130.0
+    },
+    {
+      "x": 373.0,
+      "y": 245.0,
+      "size": 70.0
+    },
+    {
+      "x": 281.0,
+      "y": 445.0,
+      "size": 170.0
+    },
+    {
+      "x": 817.0,
+      "y": 382.0,
+      "size": 130.0
+    },
+    {
+      "x": 589.0,
+      "y": 283.0,
+      "size": 90.0
+    }
+  ]
+}

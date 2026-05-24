@@ -1,0 +1,1032 @@
+ID,uk-UA
+ad_failed.button,ОК
+ad_failed.message,"Наразі немає доступного відео, будь ласка, спробуйте пізніше."
+ad_failed.title,Ой...
+ad_magic.button,Дивитися
+ad_magic.message,Дивитися короткий кліп і отримати винагороду?
+ad_magic.title,Солодка поросяча магія
+android_app.button,Встановити
+android_app.text.release,"Друзі! З радістю повідомляємо, що наша гра тепер доступна на Android і запрошуємо всіх бажаючих!"
+android_app.title,Тепер на Android!
+android_update.restart.no,Пізніше
+android_update.restart.text,Встановити зараз?
+android_update.restart.title,Оновлення готове!
+android_update.restart.yes,Так
+avatar_already_changed.button,ОК
+avatar_already_changed.message,Ваша картинка профілю вже змінена. Ви можете змінити картинку профілю ЛИШЕ ОДИН раз.
+bookmark.daily,Змагання
+bookmark.friends,Друзі
+bookmark.settings,Налаштування
+booster_hint.cross,%booster_shop.hint.ingame.cross%
+booster_hint.hammer,%booster_shop.hint.ingame.hammer%
+booster_hint.hand,%booster_shop.hint.ingame.hand%
+booster_shop.buy,Отримати #count
+booster_shop.hint.ingame.cross,"Використовуйте Чарівну Паличку, щоб видалити один рядок та одну колонку фішок!"
+booster_shop.hint.ingame.hammer,"Використовуйте Молоток, щоб очистити клітинку!"
+booster_shop.hint.ingame.hand,"Використовуйте Рукавичку, щоб поміняти місцями будь-які сусідні кубики!"
+booster_shop.hint.prelevel.add_bomb,Почніть будь-який рівень з Бомбою вже на дошці!
+booster_shop.hint.prelevel.add_line,Почніть будь-який рівень з бонусом Лінія вже на полі!
+booster_shop.hint.prelevel.add_omni,Почніть будь-який рівень з бонусом Блискавка вже на дошці!
+booster_shop.hint.prelevel.add_tint,Почніть будь-який рівень з бонусом Краситель вже на полі!
+booster_shop.hint.prelevel.double_fly,"Подвоїти всіх Світлячків, створених на цьому рівні!"
+booster_shop.title.ingame.cross,Чарівна Палиця
+booster_shop.title.ingame.hammer,Молоток
+booster_shop.title.ingame.hand,Рукавиця
+booster_shop.title.prelevel.add_bomb,Бустер Бомби
+booster_shop.title.prelevel.add_line,Бустер Лінія
+booster_shop.title.prelevel.add_omni,Бустер Блискавки
+booster_shop.title.prelevel.add_tint,Бустер Красива
+booster_shop.title.prelevel.double_fly,Бустер Світлячки х2
+chest_open.collection_complete,Зібрано!
+chest_open.ok,ОК
+chest_opening.button,Чудово!
+chest_opening.reward,Нагорода
+conflict_popup.continue,Продовжити
+conflict_popup.hint_syncing,Синхронізуємо...
+conflict_popup.skip,Продовжити офлайн
+credits.art,Дизайн мистецтва
+credits.artists,"Багато любові до наших друзів-графічних художників
+за гарні персонажів-аватарів!"
+credits.gamedesign,Дизайн гри
+credits.mentions,"Особлива подяка
+нашим друзям ;)
+"
+credits.programming,Програмування
+credits.title,Наша команда!
+daily_help.button,ОК
+daily_help.chest,Головний приз
+daily_help.reward,Одноразова награда
+daily_help.text,"Щодня гравці показують свої навички і конкурують на одному рівні.
+
+Гравець з найвищим рахунком отримає приз дня - Корону та Сундук Діамантів!"
+daily_help.title,Щоденне Змагання
+daily_reward.button,Чудово!
+daily_reward.reward,Нагорода
+daily_reward.title.place_1,Ви є переможцем Щоденного Виклику!
+daily_reward.title.place_generic,"Щоденне завдання завершено
+Ви зайняли \##місце!"
+daily.drag_to_update,"Тяніть, щоб оновити"
+daily.epic_sunday_ribbon,Дружній Чемпіонат
+daily.finishes_in,Змагання закінчиться через #time
+daily.finishes_now,Змагання завершено!
+daily.high_score,Новий Рекорд!
+daily.medal_chest_text,Зібрати #amount медальки!
+daily.next_time,Наступний Щоденний Виклик почнеться за #time
+daily.next_time_now,Почався новий щоденний виклик!
+daily.no_yesterday_yet,Ви не брали участь у попередньому Щоденному Виклику
+daily.play,Грати
+daily.retry_submit,Повторити
+daily.rewards_tab,Щоденні нагороди
+daily.rewards.bubble,"Збирай зірки та медальки,
+щоб відкривати скриньки з скарбами!"
+daily.score_not_accepted,"Цей результат не буде враховано до рейтингу, тому що ви закінчили грати після закінчення Щоденного Виклику."
+daily.star_chest_claim,Відкрити
+daily.star_chest_collected_text,Приходь завтра за іншим скриньком
+daily.star_chest_text,Завершити з 3 зірками 7 Щоденних Завдань підряд!
+daily.submit_error,Не вдалося надіслати результати
+daily.today,Щоденне Змагання
+daily.today_mark,Сьогодні
+daily.update_error,Немає з'єднання з інтернетом
+daily.wait_text,
+daily.watch_replay.button,Дивитися
+daily.watch_replay.text,Повтор гри
+daily.welcome_reward_first,%daily_help.text%
+daily.welcome_text,Ура! Розпочався Щоденний Виклик!
+daily.yesterday,Вчорашній Драбинник
+daily.yesterday_updating,Отримання результатів...
+demo.finished.text,"Вітаємо, Ви пройшли пробну версію! Грайте повну версію безкоштовно на <p class=""ma-link"">PecPoc.com<p class=""demo-hint"">Ваш прогрес не буде втрачено"
+demo.nag.text,"Безкоштовні бонуси доступні лише у повній версії. Продовжуй грати в повну версію на <p class=""ma-link"">PecPoc.com<p class=""demo-hint"">Твій прогрес не буде втрачено."
+event_ny.next_in_hint,Отримайте наступний подарунок через: #time
+event_ny.title,Новорічні подарунки
+fake_ad.reward_in,Награда за...
+fake_ad.tutorial,"Ой, наразі немає доступного відео...
+Не хвилюйтеся, замість цього подивіться на магію прихильника поросячки!"
+fake_ad.your_ad_here,Ваша реклама тут
+fb_login_failed.message,Не вдалося підключитися до Facebook. Спробувати ще раз?
+fb_notification.button,Підключити
+fb_notification.message,"Щоб не втратити свій прогрес, давай підключимо Facebook і будемо зберігати прогрес в хмарі!"
+fb_notification.no_post_hint,Ми ніколи не опублікуємо без вашої дозволи.
+fb_notification.title,Збережіть свій прогрес
+feedback.failed.button,Продовжити
+feedback.failed.message,"Не вдалося надіслати відгук.
+Перевірте підключення до Інтернету."
+feedback.failed.title,Ой...
+feedback.ok.button,ОК
+feedback.ok.message,"Ми отримали ваш відгук.
+Дякуємо за допомогу у покращенні гри."
+feedback.ok.title,Відгук надіслано!
+friends_tab.failed_social.button,Перевірити
+friends_tab.failed_social.text,"Нам потрібно перевірити з'єднання, щоб оновити список друзів."
+friends_tab.has_fb.button,Запросити друзів
+friends_tab.has_fb.text,"Чим більше друзів, тим більше подарунків!"
+friends_tab.no_fb.button,Підключити
+friends_tab.no_fb.hint,Ми ніколи не опублікуємо без вашої дозволи.
+friends_tab.no_fb.text,Підключіться до Facebook і отримуйте подарунки від друзів та стежте за їх прогресом.
+friends_tab.no_permission.button,Так
+friends_tab.no_permission.text,"Дозволити доступ до вашого списку друзів, щоб отримати більше подарунків?"
+friends_tab.no_social.text,Підключайтеся до соціальних мереж і отримуйте подарунки від друзів та відстежуйте їх прогрес.
+friends_tab.no_y8.button,Підключити
+friends_tab.no_y8.text,"Підключіть Y8, щоб отримувати подарунки від друзів та відстежувати їх прогрес."
+friends_tab.ok_invite_button,Запросити друзів
+friends_tab.ok_invite_gift_text,Запросіть 10 друзів і отримайте 100 алмазів!
+friends_tab.ok_invite_text,"Чим більше друзів, тим більше подарунків!"
+friends_tab.title,Друзі
+friends_tab.vk_friends_permission_button,Так
+friends_tab.vk_friends_permission_text,"Дозволити доступ до вашого списку друзів, щоб отримати більше подарунків?"
+friends_tab.vk_invite_button,Запросити друзів
+friends_tab.vk_invite_text,"Чим більше друзів, тим більше подарунків!"
+friends.gift.claim,Відкрити
+game_results.click_to_continue,"Натисніть, щоб продовжити"
+game_results.tap_to_continue,"Натисніть, щоб продовжити"
+game.click_to_continue,"Натисніть, щоб продовжити"
+game.info.ahead,ВИ НА #fmtnum ХОДІВ ВПЕРЕДИ
+game.info.behind,ВИ НА #fmtnum ХОДІВ ПОЗАДУ
+game.info.goals,Мета
+game.info.moves,ХОДИ
+game.info.pause,ПАУЗА
+game.info.undo,ВІДМІНИТИ
+game.pause.continue,"<font color=""\#408fda"">Продовжити гру"
+game.pause.leave_forfeit,"<font color=""\#ff0000"">Закінчити гру"
+game.pause.leave_safe,Закінчити гру
+game.pause.title,Пауза
+game.shoutout.their_game_result,Рахунок: #score
+game.shoutout.well_done,Чудово!
+game.shoutout.your_game_result,Ваш результат: #score
+game.tap_to_continue,"Натисніть, щоб продовжити"
+game.tutorial.continue,Продовжити
+gamemode.capital.aquarium,РИБИ
+gamemode.capital.bird,ПТАШКИ
+gamemode.capital.bubble,Бульби
+gamemode.capital.cats,КІТЯТА
+gamemode.capital.chocolate,ЛАВА
+gamemode.capital.diamonds,АЛМАЗИ
+gamemode.capital.ducks,КАЧКИ
+gamemode.capital.energy_cube_reciever,КРИСТАЛИ
+gamemode.capital.energycube,ЖЕЛЕ
+gamemode.capital.fishes,МОРКВА
+gamemode.capital.flower,КВІТИ
+gamemode.capital.food,ГОКІЛІ
+gamemode.capital.fossils,ВОСЬМИНОГІ
+gamemode.capital.frog,ЖАБИ
+gamemode.capital.grass,ТРАВА
+gamemode.capital.gum,ЛІПКА
+gamemode.capital.honeybee,МЕДВЕДІ
+gamemode.capital.hotlava,ЛАВА
+gamemode.capital.ice,ЛІД
+gamemode.capital.jam,ЕНЕРГІЯ
+gamemode.capital.jam_reciever,КРИСТАЛИ
+gamemode.capital.pearl,ЖЕМЧУЖИНИ
+gamemode.capital.road,Свинка
+gamemode.capital.sausage,КОБІЛЯЧІ КІЛЬЦЯ
+gamemode.capital.statue,СОБАКИ
+gamemode.capital.stone,КАМЕНІ
+gamemode.capital.tasks,ЗАМОВЛЕННЯ
+gamemode.capital.tiles,ТРАВА
+gamemode.capital.waterfish,РИБИ
+gamemode.capital.blooplet,БЛУПЛЕТИ
+gameresult.adventure.completed_continue,Продовжити
+gameresult.adventure.leave,Вийти
+gameresult.adventure.play_next,Продовжити
+gameresult.adventure.retry,Повторити
+gameresult.boosters,Виберіть бустери
+gameresult.complete.line1,Рівень
+gameresult.complete.line2,Завершено!
+gameresult.continue,Продовжити
+gameresult.daily.continue,Продовжити
+gameresult.daily.leave,Вихід
+gameresult.daily.retry,Грати
+gameresult.dash,-
+gameresult.forfeit,Ви здалися!
+gameresult.map.continue,Продовжити
+gameresult.map.retry,Повторити
+gameresult.pvp.continue,Продовжити
+gameresult.pvp.play_another,Інший рівень
+gameresult.pvp.play_next,Інший рівень
+gameresult.pvp.rematch_lose,Повторний матч
+gameresult.pvp.rematch_win_draw,Грати знову
+gameresult.rematch,Повторний матч
+gameresult.rematch_bet,Ставка #bet
+gameresult.required_ticket,Вимагається
+gameresult.retry,Грати знову
+gameresult.rewards,Нагорода
+gameresult.title.completed,"<font color=""\#47f05f"">Рівень пройдено!"
+gameresult.title.draw,"<font color=""\#5885B8"">Закінчити нічиєю"
+gameresult.title.lose,"<font color=""\#ff5666"">Ви програли"
+gameresult.title.win,"<font color=""\#47f05f"">Ви виграли!"
+gameresult.vs,VS
+gameresults.inter_ad_in_large,#count гри до
+gameresults.inter_ad_in_small,#count гри до
+gems_shop.title,Магазин Каміння
+global.click_to_continue,"Натисніть, щоб продовжити"
+global.default_player_name,Гравець
+global.tap_to_continue,"Натисніть, щоб продовжити"
+home.hint_daiy,Спробуйте Щоденне Змагання
+home.hint_play_pvp,"Ви все ще можете грати дуелі, навіть якщо ваші життя закінчилися!"
+home.play,Грати
+html.loading,Завантаження
+iap_failed.button,ОК
+iap_failed.message,Покупка не вдалася.
+iap_need_facebook.message,"Підключіться до Facebook, щоб поповнити алмазики!"
+iap_pending.button,ОК
+iap_pending.message,Ваше покупку обробляється
+intro_screen.another_device,За Кодом
+intro_screen.login_back,Назад
+intro_screen.login_button,Увійти
+intro_screen.login_fb,Facebook
+intro_screen.login_ok,Odnoklassniki
+intro_screen.login_singular,Увійти
+intro_screen.login_vk,Vkontakte
+intro_screen.login_with,Увійти за допомогою
+intro_screen.login_y8,Y8
+intro_screen.login_yandex,Yandex
+intro_screen.new_player,Новий гравець
+introprofile.accept_avatar,Вибрати
+introprofile.accept_name,Продовжити
+introprofile.editavatar,Оберіть аватар
+introprofile.editname,Введіть ваше ім'я
+invite_request.message,"Давайте грати в найкращу гру ""три в ряд"" разом!"
+invite_request.title,"Виберіть друзів, щоб грати в Skydom разом"
+level_popup.goals,Мета
+level_popup.play,Грати
+level_popup.prelevel_boosters,Виберіть бустери
+level_popup.title,Рівень #level
+level_popup.title_hard,Складний
+level_popup.title_ultra_hard,Супер складний
+level_popup.title_very_hard,Дуже складно
+link.support,https://Skydom.freshdesk.com/en/support/solutions
+link.support_beta,https://Skydombeta.freshdesk.com/en/support/solutions
+lives_shop.buy_all,Купити 5
+lives_shop.hint,"Вам потрібні життя, щоб
+продовжувати гру Пригоди
+"
+lives_shop.recharge,Наступне життя: #time
+lives_shop.title,Життя
+lives_shop.watch_ad_button,Дивитися
+lives_shop.watch_ad_text,Безкоштовно 1
+load_player.almost_done,Майже готово...
+load_player.continue_offline,Продовжити офлайн
+load_player.loading_save,Завантаження даних гравця...
+load_player.loading_save_failed,Не вдалося завантажити данні гравця.
+load_player.loading_save_failed_in,"Не вдалося завантажити дані гравця.
+Спробуємо знову через #time...
+"
+load_player.logging_in,Входимо...
+load_player.logging_in_failed,Не вдалося увійти.
+load_player.logging_in_failed_in,"Не вдалося увійти. Спробуємо ще раз через #time...
+"
+load_player.new_player,Я новий гравець
+load_player.retry_now,Спробувати зараз
+login_failed.button,Повторити
+login_failed.title,Не вдалося підключитися
+magic.click_to_continue,"Натисніть, щоб продовжити"
+magic.reward,Нагорода
+magic.tap_to_continue,"Натисніть, щоб продовжити"
+map.gates_coming_soon,"Нові рівні
+скоро з'являться!"
+match3.level_complete.line1,Усі Мети
+match3.level_complete.line2,Досягнуто!
+match3.score_pve,#score/#required
+match3.shoutout.1_move,Останній хід!
+match3.shoutout.2_moves,2 ходи
+match3.shoutout.5_moves,5 ходів
+match3.shoutout.no_moves,Більше немає ходів
+match3.shoutout.no_reshuffle,"Неможливо перемішати
+Немає можливих ходів
+"
+merge.button.mine,Вибрати
+merge.button.their,Вибрати
+merge.description.account_merge,"Ой, здається, ви вже грали в Skydom.
+Оберіть бажаний профіль!
+"
+merge.description.ingame_conflict,%merge.description.login_conflict%
+merge.description.login_conflict,"Ви грали з декількох пристроїв.
+Виберіть бажане збереження.
+"
+merge.hint.mine,локальне
+merge.hint.their,з сервера
+merge.title,Синхронізація прогресу
+modal.adblock.button,ОК
+modal.adblock.text,"Ми помітили, що ви використовуєте блокувальник реклами.<br>Будь ласка, вимкніть блокувальник для цієї сторінки, щоб переглянути відео."
+modal.adblock.title,Блокувальник реклами
+modal.error.button,Оновити
+modal.error.text,"На жаль, сталася помилка. Будь ласка, оновіть сторінку."
+modal.error.title,Ой! Щось пішло не так...
+modal.fb_login_proxy.button,Продовжити
+modal.fb_login_proxy.text,Підключення до Facebook
+modal.fb_login_proxy.title,
+modal.fb_purchase_proxy.button,Продовжити
+modal.fb_purchase_proxy.gems,Каміння
+modal.first_login_failed.button,Спробувати знову
+modal.first_login_failed.text,"Наразі не вдається підключитися до Skydom. Будь ласка, спробуйте підключитися пізніше."
+modal.first_login_failed.title,Не вдалося підключитися
+modal.gpu_error.button,Більше інформації
+modal.gpu_error.text,"Здається, в вашому браузері потрібно увімкнути апаратне прискорення, щоб запустити гру."
+modal.gpu_error.title,Хмм...
+modal.maintenance.button,ОК
+modal.maintenance.text,Будуть проводитися технічні роботи<br> <b>#time</b> <br> протягом 3 годин.<br> Хмарне збереження та синхронізація прогресу не будуть працювати.
+modal.maintenance.title,Технічні роботи
+modal.no_hardware_accel_ff.button,ОК
+modal.no_hardware_accel_ff.text,"Ваш браузер повідомляє про проблеми з продуктивністю, гра може працювати дуже повільно!
+
+Щоб виправити, будь ласка, прочитайте <a target=""_blank""  href=""https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features"">https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features</a>
+"
+modal.no_hardware_accel_ff.title,Проблеми з продуктивністю
+modal.no_hardware_accel.button,ОК
+modal.no_hardware_accel_vk.button,ОК
+modal.no_hardware_accel.text,"Ваш браузер повідомляє про проблеми з продуктивністю, гра може працювати дуже повільно!
+
+Щоб виправити, будь ласка, прочитайте <a target=""_blank""  href=""https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm"">https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm</a>"
+modal.no_hardware_accel_vk.text,"Ваш браузер повідомляє про проблеми з продуктивністю, гра може працювати дуже повільно!
+
+Щоб виправити, будь ласка, прочитайте <a target=""_blank""  href=""https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery"">https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery</a>"
+modal.no_hardware_accel.title,Проблеми з продуктивністю
+modal.no_hardware_accel_vk.title,Проблеми з продуктивністю
+modal.nolocalstorage.button,ОК
+modal.nolocalstorage.text,"Схоже, що ваш браузер не дозволяє нам зберегти гру. Це може бути викликано режимом Інкогніто.
+<p>
+Будь ласка, увійдіть в гру, щоб уникнути втрати прогресу!"
+modal.nolocalstorage.title,Режим Інкогніто
+modal.oom.button,Більше інформації
+modal.oom.text,"Здається, недостатньо пам'яті."
+modal.oom.title,Ой..
+modal.out_of_sync.button,Оновити
+modal.out_of_sync.text,"Здається, ви відкрили Skydom в декількох вікнах браузера.<br>Будь ласка, оновіть сторінку, щоб продовжити грати в цьому вікні."
+modal.out_of_sync.title,Декілька вікон з Skydom?
+modal.vk_inapp_not_allowed.button,Перейти
+modal.vk_inapp_not_allowed.text,"Покупки доступні тільки на <a href=""https://m.vk.com/app7409298"" target=""_blank"">m.vk.com</a>"
+modal.vk_inapp_not_allowed.title,
+modal.wasm.button,Більше інформації
+modal.wasm.text,"Здається, ваш браузер не підтримує WebAssembly"
+modal.wasm.title,Хмм...
+modal.webgl.button,Більше інформації
+modal.webgl.text,"Здається, ваш браузер не підтримує WebGL"
+modal.webgl.title,Хмм...
+modal.yandexsdk.text,Щось Яндекс SDK не завантажився з першої спроби. Спробуємо ще раз?
+modal.yandexsdk.title,Ой
+modal.yandexsdk.button,ОК
+name_already_changed.button,ОК
+name_already_changed.message,Ваше ім'я вже було змінено. Ви можете змінити своє ім'я ЛИШЕ ОДИН раз.
+networks.hint,"Ми настійно рекомендуємо підключатися до соціальних мереж!
+ - Щоб не втратити прогрес і зберігати його в хмарі.
+ - Щоб грати з друзями і отримувати від них подарунки.
+ - Ми нічого не постимо без вашої згоди.
+"
+nickname.default,Гравець
+nickname.default_friend,Кролик
+nickname.trainer,Тренер #nickname
+nickname.tutorial_001,Тренер Анна
+nickname.tutorial_002,Тренер Джонні
+nickname.tutorial_003,Тренер Поллі
+nickname.you,Ви
+notification.daily_lead_1,👑 #Name перейшов(ла) на перше місце в Щоденному Виклику! Хочеш відновити перше місце?
+notification.daily_lead_2,👑 #Name перевершив тебе в Щоденному Виклику!
+notification.daily_lead_3,👑 Сьогодні в Щоденному Виклику дуже гарячо! #Name забрав твоє перше місце.
+notification.daily_lead_4,👑 #Name перейшов на передній план. Хочеш відновити лідерство в Чемпіонаті?
+notification.daily_lead_5,"👑 Ой, здається #Name тільки що перегнав(ла) тебе в Щоденному Змаганні."
+notification.daily_lead.meta,"@{""variants"":5}"
+notification.reminder_1,😏 Нові опоненти чекають найбільш обеченого гравця! 😎
+notification.reminder_10,👸🤴 Хто сьогодні стане переможцем Щоденного Виклику?
+notification.reminder_11,"🙄 Здається, всі вже забули, як з гуком програвали #PlayerName!"
+notification.reminder_12,"💆 Чудовий день для гри Скайдом, не так ли? 💪"
+notification.reminder_13,"🙈😬 Тут є пара хлопців, які мріють перемогти вас. Думаєте, у них є шанс?"
+notification.reminder_14,🐰 Кролик має подарунок для тебе! Відкрити? 🎁
+notification.reminder_15,"😎 #PlayerName, час знову вигравати! 🕹"
+notification.reminder_16,👾👀 Час відпочинку і почати вигравати! 🤗
+notification.reminder_17,🌟🌟🌟 Рівні самі собі не пройдуть! Зіграємо? 🥇😉
+notification.reminder_18,"#PlayerName, хтось хоче перемогти тебе. Думаєш, він зможе? 😬😬😬"
+notification.reminder_19,👋 Час відпочинку і перемогти кілька разів? 🤔
+notification.reminder_2,Ще не всі програли #PlayerName! Даємо їм шанс?
+notification.reminder_20,🦄 Ти вже зустрів нашого Радужного Єдиноріга?
+notification.reminder_3,🐷 Хрюномагія чекає тебе! 🐽
+notification.reminder_4,"🙈 Давно не бачили найкращого гравця в гру ""Три в ряд""! Він ще тут? 👀"
+notification.reminder_5,🏆 Вже було перемоги сьогодні?
+notification.reminder_6,❤️❤️❤️❤️❤️ Всі Життя відновлені! Час перемагати!
+notification.reminder_7,"🖐🎟 5 квитків чекають, коли ви витратите їх!"
+notification.reminder_8,🐰😍 Зайчик приготував подарунок для тебе! 🎁
+notification.reminder_9,👑💎 Щоденне Змагання почалося! Хто отримає корону та гірку драгоценностей?
+ny.button_claim,Відкрити подарунок
+ny.button_next_in,Подарунок через: #time
+ok_login_failed.message,Не вдалося підключитися до Однокласників. Спробувати ще раз?
+ok.share_tick,Поділитися
+out_of_moves.continue_buy_moves,Грати #price
+out_of_moves.continue_watch,Дивитися
+out_of_moves.give_up,Скинутися
+out_of_moves.press_to_view,"Натисніть тут, щоб 
+подивитися на дошку"
+out_of_moves.title.almost_there,Так близько...
+out_of_moves.title.regular,Ходи закінчилися
+outofgems.button,Магазин
+outofgems.message,"У вас закінчилися Алмазики. 
+Відвідайте магазин, щоб отримати ще!"
+outofgems.title,Недостатньо Алмазів
+page.loading.hint_1,Завантаження...
+page.loading.hint_2,Ефекти відтворення 💎💎💎
+page.loading.hint_3,"Не хвилюйтеся, це не зависло! 😜"
+page.loading.hint_4,🚀 Гра незабаром завантажиться! 🚀
+page.loading.hint_5,Перше завантаження займе трохи більше часу👌
+page.loading.hint_6,👾 Гра 🔥 майже готова…
+page.loading.hint_7,Ще дуже мало 😊
+placeholder.hint_daily,"Заверши 10 рівнів, щоб розблокувати!"
+placeholder.timestring,12 год 34 хвилин 56 секунд
+placeholder.title_daily,"Щоденне Змагання
+Заблоковано"
+popup_name.accept_name,Продовжити
+popup_name.not_now,Не зараз
+prelevel_text.002,"Зібрайте більше <font color=""\#ff5503"">Жовтих Кусочків</font> ніж ваш опонент!"
+prelevel_text.004,"Зібрайте більше <font color=""\#ff8800"">Моркви</font> ніж у вашого опонента!"
+prelevel_text.006,"Зібрайте <font color=""\#4499ff"">Лід</font> більше ніж суперник!"
+promo_reforged.button,Забрати!
+promo_reforged.text,"Гарно! Ми запустили новий мод - Небесний Дом Reforged! Щоб відзначити запуск, ми даруємо безкоштовний Мега-Бустер пакет! Забрати його зараз?"
+promo_reforged.title,Скайдом Переформовано!
+rate_us.description,Як Вам Скайдом?
+rate_us.feedback.cancel,Не зараз
+rate_us.feedback.description,"Введіть свій e-mail, якщо бажаєте отримати відповідь."
+rate_us.feedback.email_hint,E-mail
+rate_us.feedback.message_hint,Що ми можемо покращити у грі для Вас?
+rate_us.feedback.submit,Відправити
+rate_us.star_1,Жахливо
+rate_us.star_2,Не подобається
+rate_us.star_3,Добре
+rate_us.star_4,Подобається
+rate_us.star_5,Подобається
+rate_us.submit,Відправити
+rate_us.write_review.cancel,Не зараз
+rate_us.write_review.google_play,Поділіться вашими думками про гру або оцініть її в Google Play!
+rate_us.write_review.submit,З Радістю!
+rate_us.write_review.yandex,Поділіться вашими думками про гру або оцініть її на Яндекс Іграх!
+rematch_pvp.asks_for_rematch_draw,#name хоче ще раз спробувати
+rematch_pvp.asks_for_rematch_player_lose,#name пропонує переграти!
+rematch_pvp.asks_for_rematch_player_won,#name хоче реваншу!
+reward.coins,Монети
+reward.gems,Каміння
+reward.lives,Життя
+reward.prelevel.add_bomb,Бустер Бомби
+reward.prelevel.add_line,Бустер Лінія
+reward.prelevel.add_omni,Бустер Блискавки
+reward.prelevel.add_tint,Бустер Красива
+reward.prelevel.double_fly,Бустер Світлячки х2
+reward.tickets,Квитки
+reward.undo,Відміни
+search.cannot_connect,Немає з'єднання з інтернетом
+search.failed,Ой! Щось пішло не так...
+search.loading,Завантаження...
+search.playing_with_trainer,Граємо з тренером
+search.readying,Суперник знайдено!
+search.readying_rematch,Готові!
+search.rejected,Суперник пішов
+search.searching,Пошук опонента...
+search.vs,VS
+search.waiting_opp,Очікування опонента...
+settings.change_avatar,Змінити Аватар
+settings.change_avatar.connect_fb,Підключити
+settings.change_avatar.continue,Продовжити
+settings.change_avatar.title,Оберіть нове зображення профілю
+settings.change_avatar.warning,"Зауваження: 
+- Ви можете змінити аватар ЛИШЕ ОДИН раз
+- Підключіться до Facebook, щоб використовувати аватар Facebook"
+settings.change_avatar.warning_no_fb,Зауваження: Ви можете змінити аватар ЛИШЕ ОДИН раз
+settings.change_name,Змінити Ім'я
+settings.change_name.accept_name,Продовжити
+settings.change_name.do_not_match,"Імена не збігаються. Будь ласка, спробуйте ще раз."
+settings.change_name.edit,Введіть нове ім'я:
+settings.change_name.reenter,Повторно введіть нове ім'я:
+settings.change_name.same_name,Нова назва відповідає існуючій
+settings.change_name.too_long,Це ім'я занадто довге - обмеження 15 символів
+settings.change_name.too_short,Це ім'я занадто коротке =)
+settings.change_name.warning,Зауваження: Ви можете змінити своє ім'я ЛИШЕ ОДИН РАЗ.
+settings.confirm_avatar.cancel,Скасувати
+settings.confirm_avatar.change,Змінити
+settings.confirm_avatar.title,"Ви впевнені, що хочете змінити аватар? Ваш новий аватар:
+"
+settings.confirm_avatar.warning,"Зауваження: Ви можете змінити вашу аватарку ЛИШЕ ОДИН РАЗ
+"
+settings.confirm_name.cancel,Скасувати
+settings.confirm_name.change,Підтвердити
+settings.confirm_name.title,"Ви впевнені, що хочете змінити своє ім'я? Ваше нове ім'я:"
+settings.confirm_name.warning,Зауваження: Ви можете змінити своє ім'я ЛИШЕ ОДИН РАЗ.
+settings.connect_fb,Підключити Facebook
+settings.connect_ok,Підключити Однокласники
+settings.connect_vk,Підключити VK
+settings.connect_y8,Підключити Y8
+settings.connect_yandex,Підключити Yandex
+settings.connected_fb,Facebook
+settings.connected_ok,Odnoklassniki
+settings.connected_vk,VK
+settings.connected_y8,Y8
+settings.connected_yandex,Yandex
+settings.coupon,Промо Код
+settings.coupon_title,Промо Код
+settings.coupon.enter,Застосувати
+settings.coupon.enter_hint,Введіть ваш промо-код тут
+settings.coupon.invalid_code,"<font color=""\#e90047"">Цей код недійсний. Будь ласка, спробуйте інший код."
+settings.coupon.missing_code,"<font color=""\#e90047"">Введіть промо-код"
+settings.coupon.ok,Код успішно застосовано!
+settings.credits,Автори
+settings.eula,Умови надання послуг
+settings.fb_hint,"Підключіться до Facebook, щоб грати з друзями та синхронізувати свій прогрес"
+settings.general,ЗАГАЛЬНІ
+settings.generate_key,Створити код
+settings.invite_friends,Запросити друзів
+settings.language,Мова
+settings.language_header,ВИБЕРІТЬ МОВУ
+settings.move_hints,Підказки ходу
+settings.music,Музика
+settings.networks,З'єднання
+settings.networks_hint,"Підключіть соціальні мережі, щоб синхронізувати ваш прогрес і грати з друзями."
+settings.notifications,Сповіщення
+settings.notifications.daily,Щоденне Змагання
+settings.notifications.disable_all,Вимкнути все
+settings.notifications.disable_night,Вимкнути з 23 до 8
+settings.notifications.gifts,Подарунки
+settings.notifications.others,Інші нагадування
+settings.open_support,Підтримка гравця
+settings.open_vk_group,Група Гри
+settings.player_id,Скопіювати ID гравця
+settings.policy,Політика конфіденційності
+settings.rate_us,Оцінити гру
+settings.report_problem,Повідомити про проблему
+settings.sound,Звук
+settings.support,ПІДТРИМКА
+settings.telegram_channel,Слідкуйте за нашим каналом Telegram
+settings.telegram_channel_hint,Слідкуйте за останніми новинами Skydom
+settings.telegram_support,Фан-чат у Telegram
+settings.title,Налаштування
+settings.update,Оновити
+settings.y8_hint,"Підключіться до Y8, щоб синхронізувати ваш прогрес онлайн!"
+settings.yandex_hint,"Підключіться до Yandex, щоб синхронізувати ваш прогрес онлайн!"
+shop.gems_restored.accept,Відмінно!
+shop.gems_restored.title,Покупка Дорогоцінностей завершена
+shop.not_available,Недоступно
+shop.remove_ads_remain_time,Реклама видалена на #time
+shop.remove_ads_text,"Будь-яка покупка вимкне рекламу
+між рівнями"
+shop.remove_ads_timed,"Будь-яка покупка вимкне рекламу
+між рівнями на місяць"
+social_notification.button,Підключити
+social_notification.message,"Щоб не втратити свій прогрес, давай підключимо Facebook і будемо зберігати прогрес в хмарі!"
+social_notification.no_post_hint,Ми ніколи не опублікуємо без вашої дозволи.
+social_notification.title,Збережіть свій прогрес
+social_share.button,Поділитися
+social_share.chooser_hint,Поділитися за допомогою
+social_share.message,"Привіт! Вже бачив нову ""три в ряд"" з реальними суперниками? Встановлюй з https://PecPoc.com"
+social_share.subject,Подивіться на нову веселу гру - Skydom
+social_share.title,"Поширюйте Skydom!
+Запросіть друзів і грайте разом!"
+tempkey_login.button,Продовжити
+tempkey_login.empty_key,Ви не ввели жодного коду
+tempkey_login.input.default_hint,Ввести код
+tempkey_login.invalid_key,Неправильний код
+tempkey_login.message_top,"Щоб продовжити гру тут, потрібно створити код.
+
+Зайдіть в налаштування гри, там де ви грали, і натисніть ""Створити код""."
+tempkey_login.no_connection,Не вдалося підключитися
+tempkey.fail.button,ОК
+tempkey.fail.message,Перевірте підключення до інтернету або спробуйте пізніше
+tempkey.fail.title,Не вдалося створити код
+tempkey.ok.copied,Скопійовано!
+tempkey.ok.copy,Копіювати
+tempkey.ok.hint,Код тимчасовий. Діє протягом 4 годин.
+tempkey.ok.message,#tempkey
+tempkey.ok.title,Ваш код:
+tickets_shop.boost_text,"x2 швидкість
+поповнення"
+tickets_shop.buy_all,Купити #amount
+tickets_shop.hint,Для гри в Щоденне Змагання потрібні Токени
+tickets_shop.hint_out_of,"<font color=""\#e90047"">Білетики для гри закінчились</font>"
+tickets_shop.recharge,Новий жетон з'явиться через: #time
+tickets_shop.title,Щасливі Квитки
+tickets_shop.watch_ad_button,Дивитися
+tickets_shop.watch_ad_text,Отримати 1 безкоштовно
+time.days_hours,"#days<font size=""-15""> </font><font size=""-10"">д</font> #hours<font size=""-15""> </font><font size=""-10"">г</font>'"
+time.hours,"#hours<font size=""-15""> </font><font size=""-10"">год</font>"
+time.hours_minutes,"#hours<font size=""-15""> </font><font size=""-10"">год</font> #minutes<font size=""-15""> </font><font size=""-10"">хв</font>"
+time.hours_minutes_seconds,"#hours<font size=""-15""> </font><font size=""-10"">год</font> #minutes<font size=""-15""> </font><font size=""-10"">хв</font> #seconds<font size=""-15""> </font><font size=""-10"">сек</font>"
+time.hours_seconds,"#hours<font size=""-15""> </font><font size=""-10"">г</font> #seconds<font size=""-15""> </font><font size=""-10"">с</font>"
+time.less_than_minute,"1<font size=""-15""> </font><font size=""-10"">хв</font>"
+time.minutes,"#minutes<font size=""-15""> </font><font size=""-10"">хв</font>"
+time.minutes_seconds,"#minutes<font size=""-15""> </font><font size=""-10"">хв</font> #seconds<font size=""-15""> </font><font size=""-10"">с</font>"
+time.seconds,"#seconds<font size=""-15""> </font><font size=""-10"">с</font>"
+tutorial_home.play,Грати
+tutorial.001.dialog_tutorial,"Зіставте <font color=""\#5885b8"">3 кубики одного кольору в ряд</font>, щоб вони зникли"
+tutorial.001.hint,"Мета
+Зібрати 12 зелених кубиків!"
+tutorial.001.turn_1,"Зіставте три однакових кубики, обмінюючись сусідніми!"
+tutorial.002.hint,Зібрай Жовтих кубиків більше ніж суперник!
+tutorial.skip,Пропустити
+undo_shop.buy_undos,Отримати #count
+undo_shop.hint,Відміна повертає ваш останній хід
+undo_shop.recharge,Наступний відмін за: #time
+undo_shop.title,Скасувати
+undo_shop.watch_ad_button,Дивитися
+undo_shop.watch_ad_text,Отримати 1 безкоштовно
+undo_shop.you_have,У вас #amount відмін
+update.button,Оновити
+update.new_version,Оновіть до останньої версії!
+update.new_version_value,"<font color=""\#5885b8"">#version"
+update.old_version,У вас застаріла версія
+update.old_version_value,"<font color=""\#a5a7aa"">#version"
+update.text,"Ви використовуєте застарілу версію.
+Будь ласка, оновіть до останньої версії!"
+update.title,Доступна нова версія!
+update.web.button,Оновити
+update.web.message,"Будь ласка, оновіть сторінку."
+update.web.title,Доступна нова версія!
+vk_login_failed.message,Не вдалося підключитися до VK. Спробувати ще раз?
+vk_promo.title,Подарунок від ВКонтакті!
+vk.share_tick,Поділитися
+watch_for_gems.button,Дивитися
+watch_for_gems.text,+#amount
+web.webg_context_lost,"Втрачено WebGL контекст, відновлюємо..."
+welcome_bonus.speech_1,"Привіт, #PlayerName!
+У мене є подарунки для тебе.
+Який вибираєш?"
+welcome_bonus.speech_2,"Думки матеріалізуються... Оммм!
+Я тут думав про подарунки і подивіться, що вийшло =)"
+welcome_bonus.speech_3,"Я знайшов два скарбниці, поки ти не був там! Відкрий один!"
+welcome_bonus.speech_4,"Привіт, #PlayerName!
+Дивись, що з небу палало!
+"
+welcome_bonus.speech_5,"Стрибухи пролетіли... Виявляється, вони не тільки дітей приносять! ;)"
+welcome_bonus.speech_6,"Раді знову тебе бачити, #PlayerName!
+Вибирай скарбничку!
+"
+welcome_bonus.speech_7,"Я так бажав бачити тебе, #PlayerName, що підготував для тебе невеличкий подарунок!"
+welcome_bonus.speech_8,"Дивні речі трапляються. Сидиш та повільно живеш, і наразі два скрині з неба прилетіли!"
+welcome_pack.open,Відкрити
+welcome_pack.play,Грати
+welcome_pack.speech_1,"Давно не бачилися, #PlayerName! У мене для тебе подарунок!"
+welcome_pack.speech_2,"Ооооо! #PlayerName, я тебе так довго не бачив! Давай відкриємо подарунок і почнемо грати!"
+welcome_pack.speech_3,"#PlayerName, раді знову тебе бачити! Торкнись швидко скрині!"
+welcome_pack.speech_gift,"#PlayerName, у нас є спеціальний подарунок для тебе =) Відкривай швидко!"
+welcome_pack.speech_reforged,"#PlayerName, у нас є спеціальний подарунок для тебе =) Відкривай швидко!"
+y8_login_failed.message,Не вдалося підключити Y8. Спробувати ще раз?
+yandex_login_failed.message,Не вдалося підключитися до Yandex. Спробувати ще раз?
+yandex_notification.button,Підключити
+yandex_notification.message,"Щоб не втратити свій прогрес, давай підключимо Yandex і будемо зберігати прогрес в хмарі!"
+yandex_notification.title,Збережіть свій прогрес
+gamemode.capital.leaf,ЛИСТЯ
+yandex_login_has_attachment.message,До цього гравцького профілю було підключено інший аккаунт Yandex.
+fb_login_has_attachment.message,До цього гравцького профілю було підключено інший обліковий запис Facebook.
+ok_login_has_attachment.message,До цього гравцького профілю було підключено інший акаунт Однокласників.
+vk_login_has_attachment.message,До цього гравцького профілю було підключено інший аккаунт VK.
+y8_login_has_attachment.message,До цього гравцького профілю було підключено інший обліковий запис Y8.
+android_app.text.beta,"Друзі! З радістю повідомляємо, що ми починаємо Бета тестування гри на Android і запрошуємо всіх бажаючих!"
+bookmark.play,Головна
+bookmark.quest,Завдання
+chest_opening.bronze,Бронза
+chest_opening.continue,Легко
+chest_opening.division,III дивізіон
+chest_opening.golden,Золото
+chest_opening.silver,Срібло
+chest_opening.togoldenleague,"Чи зможете ви досягти
+Золотої ліги?"
+chest_opening.welcome,"Ласкаво просимо до
+Ліг Матч Арени!"
+chest_opening.yourebronze,"Ви досягли
+Бронзової ліги III
+"
+chest.open,Відкрити
+chest.opens_now,Чудово! Скринька готова до відкриття!
+chest.wins_left_1,Ще одна перемога!
+chest.wins_left_2,Тільки 2 перемоги і він твій!
+chest.wins_left_3,Чудово! Ще 3 перемоги!
+chest.wins_left_4,"Потрібно 4 перемоги, щоб відкрити скриню!"
+chest.wins_to_open,"Потрібно #num перемоги, щоб відкрити"
+forge_help.block_1,"Вигравайте дуелі, щоб заробляти монети."
+forge_help.block_2,"Використовуйте монети, щоб запустити плавильні цехи та отримувати золоті слитки."
+forge_help.block_3,"Збирайте золоті слитки, щоб піднятися по лігах."
+forge_help.block_4,Нові ліги - нові рівні!
+forge_help.continue,Отримала
+forge_help.title,Ліги та ковальні
+forge.add,Додати
+forge.boost,Посилити
+forge.boost_free,"Давайте посилимо це Кузню!
+
+Перший раз безкоштовно!"
+forge.boost_free_ok,Підвищити
+forge.buy_1,Купити Бронзову Ковальню
+forge.buy_2,Купити Срібну Ковальню
+forge.buy_3,Купити Золоту Ковальню
+forge.buy_4,Купити Рубінову Ковальню
+forge.buy_now,Додати
+forge.cheat_boost,ЧИТ? ЧИТАТИ!
+forge.name_1,Бронзова Ковальня
+forge.name_2,Срібна Ковальня
+forge.name_3,Золота Ковальня
+forge.name_4,Рубінова Ковальня
+forge.not_enough_coins,Недостатньо монет для запуску
+forge.ok,ОК
+forge.open,Відкрити
+forge.open_now,Відкрити зараз
+forge.other_in_progress,Ще одна ковка ще йде!
+forge.popup_boost,Прискорити -30 хвилин
+forge.popup_boost_speedup,Прискорити -15 хвилин
+forge.progress,#bars за: #time
+forge.speedup_no,Ні
+forge.speedup_offer,"Хочете <font color=""\#5885b8"">прискорити</font> переплавку
+ <font color=""\#5885b8"">в 2 рази?</font>"
+forge.speedup_ok,ОК
+forge.speedup_success,Форж було посилено!
+forge.speedup_yes,Так
+forge.start,Запустити
+forge.time_1,3 години
+forge.time_2,6 годин
+forge.time_3,12 годин
+forge.time_4,24 години
+forge.tutorial.collect_coins,"Зберіть 1000 монет, щоб запустити Кузню"
+forge.tutorial.open_now,"Чудово! Плавлення завершено!
+Ми можемо відкрити Кузню!"
+forge.tutorial.smelt_more,"Продовжуйте вилитати плавки, щоб дістатися до наступного дивізіону"
+forge.tutorial.start_forge,"Чудово! Ви заробили 1000 монет!
+Тепер ми можемо почати Кузню!"
+forge.tutorial.wait_ready,"Поки ваша Кузня працює, ви можете заробити ще більше монет!"
+forge.watch_ad,Дивитися
+gamemode.chocolate,Лава
+gamemode.diamonds,Алмази
+gamemode.energycube,Желе
+gamemode.fishes,Морква
+gamemode.food,Буряки
+gamemode.fossils,Восьминіги
+gamemode.grass,Трава
+gamemode.honeybee,Медведі
+gamemode.ice,Льод
+gamemode.jam,Енергія
+gamemode.road,Свинка
+gamemode.stone,Каміння
+gamemode.tasks,Замовлення
+gamemode.tiles,Трава
+home.bars_need_more,Потрібно ще #more
+home.bars_progress,#current / #total
+home.bet,Ставка #count монет
+home.coins,#count
+home.gems,#count
+home.hint_quest_book,Доступні нові завдання!
+home.hint_quest_book.claim,Ура! Хтось отримає нагороду!
+home.hint_quest_book.new,Ого! Нове завдання!
+home.league_indev,Наступна ліга скоро надійде!
+home.rematch.asks_for_rematch_draw,#name хоче ще раз пробувати
+home.rematch.asks_for_rematch_player_lose,#name пропонує повторну гру
+home.rematch.asks_for_rematch_player_won,#name просить повторного поєдинку!
+home.xp,#count
+ingame_booster_shop.buy,Отримати #count
+ingame_booster_shop.hint.cross,"Використовуйте Чарівну Паличку, щоб видалити один рядок і одну колонку кубиків!"
+ingame_booster_shop.hint.hammer,"Використовуйте Молоток, щоб очистити клітинку!"
+ingame_booster_shop.hint.hand,"Використовуйте Рукавичку, щоб поміняти місцями будь-які сусідні кубики!"
+ingame_booster_shop.title.cross,Чарівна Паличка
+ingame_booster_shop.title.hammer,Молоток
+ingame_booster_shop.title.hand,Рукавиця
+league.Bronze,Бронзова Ліга
+league.div_1,Дивізіон I
+league.div_2,Дивізіон II
+league.div_3,Дивізіон III
+league.div_4,Дивізіон IV
+league.div_5,Дивізіон V
+league.E001,Бронза III
+league.E002,Бронза II
+league.E003,Бронза I
+league.E004,Срібло IV
+league.E005,Срібло III
+league.E006,Срібло II
+league.E007,Срібло I
+league.E008,Золото V
+league.E009,Золото IV
+league.E010,Золото III
+league.E011,Золото II
+league.E012,Золото I
+league.E013,Платинова V
+league.E014,Платиновий IV
+league.E015,Платинова III
+league.E016,Платина II
+league.E017,Платинова I
+league.E018,Майстер 1
+league.Gold,Золота Ліга
+league.Master,Майстер Ліга
+league.MasterN,Майстер #div
+league.GrandMaster,Грандмастер
+league.GrandMasterN,Великий майстер #div
+league.Platinum,Платинова Ліга
+league.Silver,Срібна Ліга
+levelup.continue,Чудово!
+levelup.reward,Нагорода
+levelup.title_division,"Вітаємо!
+Новий дивізіон!"
+levelup.title_league,"Вітаємо!
+Нова ліга!"
+ma2transfer.install,Встановити
+ma2transfer.message,"Матч Арена пересела до нового додатку!
+
+Важливо! Використовуйте наведений нижче код, щоб перенести ваш прогрес.
+"
+nickname.tutorial_004,Сенсей Михайло
+nickname.tutorial_005,Професор Франк
+nickname.tutorial_006,Королева Матча
+nickname.tutorial_007,Вчитель Лев
+nickname.tutorial_008,Тренер Карл
+nickname.tutorial_009,Доцент Бородатий
+nickname.tutorial_010,Гуру Вікторія
+placeholder.hint_friends,"[GPT4] Виклич своїх друзів
+і покажи, на що ти здатний!"
+placeholder.hint_quests,"Досягніть Бронзової ліги I,
+щоб відкрити!"
+placeholder.hint_settings,Завтра буде готово :)
+placeholder.title_friends,"Грайте з друзями
+скоро буде!"
+placeholder.title_quests,"Чарівні завдання
+Заблоковано
+"
+placeholder.title_settings,Налаштування в розробці
+quest_help.block_1,"Завершуйте квести, щоб отримати нагороди!"
+quest_help.block_2,"Завершіть всі завдання, щоб відкрити скриньку."
+quest_help.block_3,"Завершіть всі квести до наступної дивізії, інакше ви втратите сундук!"
+quest_help.continue,Отримала
+quest_help.title,Книга завдань
+quest.aquarium,Зібрати #amount Рибки
+quest.bar,#progress / #amount
+quest.bar_completed,Завдання виконано!
+quest.bar_last_try,Попередня спроба: #progress з #amount
+quest.bar_special_not_tried,#progress / #amount
+quest.best_so_far,Найкращий результат: #progress
+quest.butterfly,Зібрати #amount Бабочок
+quest.buy_now,Отримати зараз #amount
+quest.cat,Зібрати #amount Кітят
+quest.chip_destroy,Зіберіть #amount будь-яких кусочків
+quest.chip_destroy_bird,Зібрати #amount Пташок
+quest.chip_destroy_blue,Зібрати #amount сині кусочки
+quest.chip_destroy_diamond,Зібрати #amount Діамантів
+quest.chip_destroy_fish,Зібрати #amount Моркви
+quest.chip_destroy_fish_blue,Зібрати #amount сині Моркви
+quest.chip_destroy_fish_green,Зібрати #amount зелені Моркви
+quest.chip_destroy_fish_orange,Зібрати #amount помаранчеві Моркви
+quest.chip_destroy_fish_purple,Зіберіть #amount фіолетові Моркви
+quest.chip_destroy_fish_red,Зібрати #amount червоні Моркви
+quest.chip_destroy_fish_yellow,Зібрати #amount жовті Моркви
+quest.chip_destroy_food,Видалити #amount Бур'янів
+quest.chip_destroy_frog,Зібрати #amount Жаби
+quest.chip_destroy_green,Зібрати #amount зелених кусочків
+quest.chip_destroy_orange,Зіберіть #amount помаранчеві кубики
+quest.chip_destroy_purple,Зібрати #amount фіолетові кусочки
+quest.chip_destroy_red,Зібрати #amount червоних кусочків
+quest.chip_destroy_snail,Зібрати #amount Улиток
+quest.chip_destroy_super,Зібрати #amount супер-кусочків
+quest.chip_destroy_wafer,Зібрати #amount Золотих руд
+quest.chip_destroy_with_bomb,Зібрати #amount кубиків за допомогою Бомби
+quest.chip_destroy_with_line,Зібрати #amount кубиків з бонусом Лінія
+quest.chip_destroy_with_mine,Зібрати #amount кубиків з бонусом Світлячок
+quest.chip_destroy_with_omni,Зіберіть #amount кубиків з бонусом Блискавки
+quest.chip_destroy_yellow,Зібрати #amount жовтих кубиків
+quest.chip_destroy_waterfish,Зібрати #amount водні рибки
+quest.chip_recolor,Перекрасти #amount кусочків за допомогою бонусу Краска
+quest.claim,Забрати Нагороду
+quest.complete_chest,Всі завдання завершено
+quest.cover_destroy_bee,Зібрати #amount Мишок
+quest.cover_destroy_bound,Розблокуйте #amount кусків
+quest.cover_destroy_chocolate,Видаліть #amount клітинок з Лавою
+quest.cover_destroy_fizzblue,Зібрати #amount бупли
+quest.cover_destroy_fizzpurple,Зібрати #amount бупти
+quest.cover_destroy_frozen,Видаліть мороз з #amount кубиків
+quest.cover_destroy_honey,Очистити #amount меду
+quest.cover_destroy_hotlava,Видалити #amount Гарячої Лави
+quest.cover_destroy_receiver_energycube,Зібрати #amount Желе Кристалів
+quest.cover_destroy_receiver_jam,Зібрати #amount Кристалів Енергії
+quest.cover_destroy_statue,Зібрати #amount Собаки
+quest.cover_destroy_stone,Видалити #amount Камінні кусочки
+quest.cover_destroy_leaf,[GPT4] Очистити #amount листя
+quest.division_done_card,Нові завдання з'являться у наступному дивізіоні!
+quest.duck,Зібрати #amount Качки
+quest.energy_flow,Закрасти #amount плитки Енергією
+quest.energycube_flow,Заповніть #amount плитки Желе
+quest.fossil,Зібрати #amount Восьминогих
+quest.gum,Зібрати #amount Липки
+quest.new_quest,Нове завдання!
+quest.new_quest_in,Наступне завдання
+quest.on_arena_splash_score,Заробіть #amount очок у Арені Бум!
+quest.on_arena_splash_use_bonus,Збережіть #amount бонусів для Арени Бум!
+quest.plate_destroy,Видалити #amount Розділи
+quest.play,Грати
+quest.pvp_score,Отримайте #amount балів у дуелях
+quest.reward,Нагорода:
+quest.snakes,Зібрати #amount Змій
+quest.tile_destroy_gold,Зібрати #amount Травки
+quest.tile_destroy_grass,Зібрати #amount Травки
+quest.title,Книга завдань
+quest.use_bonus,Використовуйте #amount бонусів
+quest.use_bonus_bomb,Використовуйте #amount бонусів Бомба
+quest.use_bonus_line,Використовуйте #amount бонусів Лінія
+quest.use_bonus_mine,Використовуйте #amount бонусів Світлячок
+quest.use_bonus_omni,Використовуйте бонус Блискавка #amount разів
+quest.use_bonus_tint,Використовуйте #amount бонусів Краска
+quest.use_combo_bomb_bomb,Зробіть комбо-бонус Бомба+Бомба #amount разів
+quest.use_combo_bomb_omni,Зробіть комбо-бонус Блискавка+Бомба #amount разів
+quest.use_combo_bomb_tint,Зробіть комбо-бонус Краска+Бомба #amount разів
+quest.use_combo_line_bomb,Зробіть комбо-бонус Бомба+Лінія #amount разів
+quest.use_combo_line_line,Зробіть комбо-бонус Лінія+Лінія #amount разів
+quest.use_combo_line_omni,Зробіть комбо-бонус Блискавка+Лінія #amount разів
+quest.use_combo_line_tint,Зробіть комбо-бонус Краска+Лінія #amount разів
+quest.use_combo_mine_bomb,Зробіть комбо-бонус Світлячок+Бомба #amount разів
+quest.use_combo_mine_line,Зробіть комбо-бонус Світлячок+Лінія #amount разів
+quest.use_combo_mine_mine,Зробіть комбо-бонус Світлячок+Світлячок #amount разів
+quest.use_combo_mine_omni,Зробіть комбо-бонус Блискавка+Світлячок #amount разів
+quest.use_combo_mine_tint,Зробіть комбо-бонус Краска+Світлячок #amount разів
+quest.use_combo_omni_omni,Зробіть комбо-бонус Блискавка+Блискавка #amount разів
+quest.use_combo_omni_tint,Зробіть комбо-бонус Краска+Блискавка #amount разів
+quest.use_combo_tint_tint,Зробіть комбо-бонус Краситель+Краситель #amount разів
+quest.walk,Пройди Свинку #amount кроків
+quest.watch_for_new,- #time
+quest.win,Виграй #amount порівнянь
+quest.win_coins,Заробіть #amount монет у дуелях
+quest.win_hard_level,Завершити складний рівень
+quest.win_rematch,Виграйте #amount реваншів
+quest.win_streak,Виграйте #amount порівнянь підряд
+quest.chip_destroy_clam,Зібрати #amount Жовчаники
+quest.chip_destroy_egg,Зібрати #amount Яєць
+quest.gardenflower,Зібрати #amount Квітів
+quest.sausages,Зібрати #amount Ковбасок
+rematch.asks_for_rematch_draw,"#name хоче зіграти ще раз
+Ставка #bet
+"
+rematch.asks_for_rematch_player_lose,"#name пропонує переграти
+Ставка #bet"
+rematch.asks_for_rematch_player_won,"#name хоче реваншу!
+Ставка #bet"
+rematch.rematch_bet,Ставка #bet
+report.body,
+report.subject,Проблема з грою MatchArena
+reward.bars,Золоті слитки
+reward.coins_amt,+#amount
+reward.gems_amt,+#amount
+reward.levels,Нові рівні
+reward.levels_amt,+#amount
+reward.levelup,"Вітаємо!
+Новий рівень!"
+reward.new_levels,"Нові
+рівні!"
+reward.talisman,Талісмани
+reward.xp_amt,+#amount
+search.prize_fund,Призовий фонд
+settings.friends_and_partners,Друзі та партнери
+settings.language.help_us_translate,"Хочете допомогти нам перекласти Match Arena на мови, які ви знаєте? Напишіть нам на <font color=""\#0000EE"">support@matcharenagame.com."
+settings.notifications.duels,Запрошення на дуэль
+shop.indev,Скоро буде!
+splash.hint_chocolate,Видаліть якомога більше Лави
+splash.hint_diamonds,Зібрайте якомога більше Діамантів
+splash.hint_energycube,Заповніть желе якомога більше плиток
+splash.hint_fishes,Зіберіть якомога більше Моркви
+splash.hint_food,Видаліть якомога більше Буряків
+splash.hint_fossils,Збережіть якомога більше Восьминогів
+splash.hint_honeybee,Зібрай якомога більше Мишок
+splash.hint_ice,Видаліть якомога більше Льоду
+splash.hint_jam,Заповніть максимально можливу кількість плиток Енергією
+splash.hint_road,Пройди Свинку якнайдаліше
+splash.hint_stone,Видаліть якомога більше Каменів
+splash.hint_tasks,Виконайте якомога більше Замовлень
+splash.hint_tiles,Збирайте якомога більше Трави
+splash.mode_chocolate,Мета рівня - Лава
+splash.mode_diamonds,Мета рівня - Алмазики
+splash.mode_fishes,Мета рівня - Морква
+splash.mode_food,Мета рівня - Бур'яни
+splash.mode_jam,Мета рівня - Енергія
+splash.mode_road,Мета рівня - Хрюшка
+splash.mode_tasks,Мета рівня - Замовлення
+splash.mode_tiles,Мета рівня - Трава
+talismans_shop.ask_button,Фейсбук
+talismans_shop.ask_text,Запитати друзів
+talismans_shop.boost_text,"x2 швидкість
+поповнення"
+talismans_shop.buy_all,Отримати #amount
+talismans_shop.hint,Двічі монети виграні
+talismans_shop.recharge,Наступний талісман з'явиться через: #time
+talismans_shop.title,Талісмани
+talismans_shop.watch_ad_button,Дивитися
+talismans_shop.watch_ad_text,Отримати 1 безкоштовно
+tickets_shop.ask_button,Фейсбук
+tickets_shop.ask_text,Запитати друзів
+tutorial.001.collect_more_fishes,"Зіберіть якомога <font color=""\#5885b8"">більше Моркви!</font>"
+tutorial.001.continue_to_collect_fishes,Продовжуйте збирати Моркви!
+tutorial.001.first_swap_red_down,"Пересуньте червону кубик вниз, щоб з'єднати <font color=""\#5885b8"">три в ряд</font>
+"
+tutorial.001.remind_collect_three_in_a_row,"Зібрайте <font color=""\#5885b8"">три кусочки</font> одного кольору <font color=""\#5885b8"">у ряд</font>"
+tutorial.001.second_swap_green_left,"Пересуньте зелену фішку вліво, щоб зібрати <font color=""\#5885b8"">три в ряд</font>
+"
+tutorial.001.third_swap_fish,"<font color=""\#5885b8"">Морква</font> також можна зібрати три в ряд"
+tutorial.001.you_are_doing_well,Ти добре зробив!
+tutorial.002.get_bonus_line,"...щоб отримати <font color=""\#5885b8"">бонус - Лінію!</font>"
+tutorial.002.try_four_in_a_row,"Спробуй зібрати <font color=""\#5885b8"">цілих 4 в ряд!</font>"
+tutorial.002.use_line_bonus,"Зіграйте <font color=""\#5885b8"">три в ряд з бонусом</font>, щоб побачити міць Лінії!"
+tutorial.003.hint,Зібрайте більше Моркви ніж ваш опонент!
+tutorial.003.try_l_or_t,"Зіставляй кубики <font color=""\#5885b8"">у формі Т або L!</font>"
+tutorial.003.use_bomb_bonus,"...щоб отримати <font color=""\#5885b8"">бонус - Бомбу!</font>
+Тепер давайте вибухнемо її!"
+tutorial.004.clear_gold_tiles,"Зробіть пари на <font color=""\#5885b8"">Траві</font>, щоб зібрати її!"
+tutorial.004.combine_omni_with_blue,"Обміняйте <font color=""\#5885b8"">Молнию</font> з синією фішкою, щоб видалити всі сині фішки з дошки!"
+tutorial.004.try_five_in_a_row,"Спробуй зібрати цілих <font color=""\#5885b8"">5 в ряд!</font>"
+tutorial.005.two_bonus_can_combine,"Будь-які <font color=""\#5885b8"">два бонуси можна об'єднати</font> щоб отримати ще більший бонус!"
+tutorial.007.collect_food,"Зробіть пари поруч з <font color=""\#5885b8"">Ящиками</font>"
+tutorial.007.move_character,"Збирай бур'яни, щоб <font color=""\#5885b8"">провести Хрюшку вперед!</font>"
+tutorial.008.make_mine_bonus,"Зібрайте <font color=""\#5885b8"">чотири кубики у квадраті</font> і отримайте бонус - Світлячок!"
+tutorial.008.use_mine_bonus,"Зібрайте три в ряд з <font color=""\#5885b8"">Світлячком</font>, щоб використати його!"
+tutorial.009.make_tint_bonus,"Зробіть <font color=""\#5885b8"">велику Т форму</font> і отримайте бонус - Краску!"
+tutorial.009.use_tint_bonus,"<font color=""\#5885b8"">Краска</font> можна поміняти з будь-якою фішкою!"
+level_popup.adventure.title,Рівень
+lives_shop.ma_hint,"Вам потрібні життя, щоб
+продовжувати гру Пригоди
+"

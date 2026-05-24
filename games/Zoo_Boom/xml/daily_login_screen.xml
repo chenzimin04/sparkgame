@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+
+<templates>
+	<button id="tRewardBag" width="120" ratio="0.7" halign="center" valign="center" >
+		<image name="uiImgGlow" image="ui/glow.png"  width="200%" ratio="1.0" halign="center" valign="center" />
+		<element name="uiReward" width="120" ratio="1" halign="center" valign="center" visible="false" />
+		<image name="uiImgBag" width="150%" ratio="1" image="dynamic/bag.png" halign="center" valign="center" animation="wobble" />
+	</button>
+</templates>
+
+<screen name="uiScreenPopUp" label="SID_REWARD" template="tPopUpJenny">	
+	<element name="uiContent" >
+		<element name="uiChoose" template="tElement">
+			<text name="uiTxtChoose" text="SID_CHOOSE_DAILY" y="0" relativeWidth="1.0" height="200" template="tFontWhite,tFontMedium" halignText="center" valignText="center" />
+			<element name="uiBags" template="tElement" marginTop="50" marginBottom="50" margin="150">			
+				<button name="uiBtReward0" x="-115" halign="center"	valign="top" template="tRewardBag" data='{"id":0}' />
+				<button name="uiBtReward1" x="115" halign="center" 	valign="top" template="tRewardBag" data='{"id":1}' />
+				
+				<button name="uiBtReward2" halign="left" 	valign="center" template="tRewardBag" data='{"id":2}' />
+				<button name="uiBtReward3" halign="center" 	valign="center" template="tRewardBag" data='{"id":3}' />
+				<button name="uiBtReward4" halign="right" 	valign="center" template="tRewardBag" data='{"id":4}' />
+					
+				<button name="uiBtReward5" x="-115" halign="center" valign="bottom" template="tRewardBag" data='{"id":5}' />
+				<button name="uiBtReward6" x="115" halign="center" 	valign="bottom" template="tRewardBag" data='{"id":6}' />
+			</element>
+			<button name="uiBtCollect" label="SID_COLLECT" icon="ui/ok.png" template="tButton" visible="false" halign="center" valign="bottom" />
+		</element>
+		<element name="uiReopen" template="tElement" visible="false">
+			<text text="SID_REOPEN_DAILY" relativeWidth="1" height="230" halignText="center" valignText="center" halign="center" valign="top" template="tFontWhite,tFontMedium" />
+			<rewardedAd name="uiBtRewardedAd" halign="center" valign="center" template="tRewardedAd" event="daily_bag">
+				<image name="uiImgAd" >
+					<image name="uiImgRewardConti" >
+						<image image="dynamic/bag.png" template="tElement" />
+					</image>
+				</image>
+			</rewardedAd>			
+		</element>
+	</element>
+</screen>

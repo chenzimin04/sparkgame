@@ -1,0 +1,48 @@
+
+skel_equipSyn.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiquan
+  rotate: false
+  xy: 785, 160
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 1, 1
+  size: 446, 459
+  orig: 446, 459
+  offset: 0, 0
+  index: -1
+quan2
+  rotate: false
+  xy: 448, 118
+  size: 336, 342
+  orig: 336, 342
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 448, 38
+  size: 221, 79
+  orig: 221, 79
+  offset: 0, 0
+  index: -1
+xq1
+  rotate: false
+  xy: 1086, 310
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+xuanzhuan
+  rotate: false
+  xy: 1086, 164
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1

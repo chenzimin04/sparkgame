@@ -1,0 +1,13 @@
+{
+  "resolution": "standard",
+  "image1": "fish_a.jpg",
+  "image2": "fish_b.jpg",
+  "differences":
+  [
+    {
+      "x": 680.0,
+      "y": 450.0,
+      "size": 500.0
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 530,
+				"x": 375,
+				"var": "pngBg",
+				"top": 0,
+				"skin": "images/grid/maskGuide.png",
+				"sizeGrid": "2,3,4,3",
+				"right": 0,
+				"left": 0,
+				"bottom": 0,
+				"anchorY": 0.5,
+				"anchorX": 0.5,
+				"alpha": 0.8
+			},
+			"compId": 3
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 317,
+				"x": 0,
+				"width": 750,
+				"var": "centerBox",
+				"mouseThrough": true,
+				"height": 700
+			},
+			"compId": 5,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 0,
+						"x": 32,
+						"width": 686,
+						"skin": "images/result/icon_tl_bg.png",
+						"sizeGrid": "117,39,44,39",
+						"height": 563
+					},
+					"compId": 17,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 23,
+								"x": 256,
+								"skin": "images/result/icon_word_tlbj.png"
+							},
+							"compId": 51
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 46.5,
+								"x": 639,
+								"var": "btnClose",
+								"skin": "images/result/button_gb.png",
+								"label": "label",
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 52
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 316,
+						"x": 531,
+						"skin": "images/result/icon_bg2.png",
+						"label": "label",
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 18,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 353,
+								"x": 142,
+								"width": 191,
+								"var": "btnVideo",
+								"skin": "images/result/button_yellow.png",
+								"sizeGrid": "0,57,0,62",
+								"label": "label",
+								"height": 82,
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 54,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 11,
+										"x": 83.5,
+										"width": 81,
+										"skin": "images/result/button_word_mf.png",
+										"rotation": 0,
+										"label": "label",
+										"height": 44
+									},
+									"compId": 46
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 16,
+										"x": 25,
+										"width": 49,
+										"skin": "images/result/button_sp.png",
+										"label": "label",
+										"height": 38
+									},
+									"compId": 23
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 316,
+						"x": 219,
+						"skin": "images/result/icon_bj1.png",
+						"label": "label",
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 34,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 353,
+								"x": 142,
+								"width": 191,
+								"var": "btnFlash",
+								"skin": "images/result/button_yellow.png",
+								"sizeGrid": "0,57,0,62",
+								"label": "label",
+								"height": 82,
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 53,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 18,
+										"x": 35,
+										"width": 38,
+										"skin": "images/result/fly1.png",
+										"height": 35
+									},
+									"compId": 40,
+									"child": [
+										{
+											"type": "Label",
+											"props": {
+												"y": 1,
+												"x": 54,
+												"width": 64,
+												"var": "labDaimond",
+												"text": "000",
+												"strokeColor": "#be8e51",
+												"stroke": 4,
+												"height": 32,
+												"fontSize": 32,
+												"color": "#ffffff",
+												"bold": true,
+												"align": "left"
+											},
+											"compId": 41
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 571,
+						"x": 70,
+						"width": 300,
+						"visible": false,
+						"var": "labQQ",
+						"text": "qq群:22222222",
+						"strokeColor": "#585454",
+						"stroke": 1,
+						"fontSize": 22,
+						"color": "#ffffff",
+						"bold": true,
+						"align": "left"
+					},
+					"compId": 55
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 628,
+						"x": 622,
+						"width": 88,
+						"visible": false,
+						"var": "appIcon",
+						"height": 88,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 56
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/grid/maskGuide.png",
+		"images/result/icon_tl_bg.png",
+		"images/result/icon_word_tlbj.png",
+		"images/result/button_gb.png",
+		"images/result/icon_bg2.png",
+		"images/result/button_yellow.png",
+		"images/result/button_word_mf.png",
+		"images/result/button_sp.png",
+		"images/result/icon_bj1.png",
+		"images/result/fly1.png"
+	],
+	"loadList3D": []
+}

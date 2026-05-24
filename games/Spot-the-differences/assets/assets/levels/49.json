@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "kitchenPanda_a.jpg",
+  "image2": "kitchenPanda_b.jpg",
+  "differences":
+  [
+    {
+    "x": 135.0,
+    "y": 113.0,
+    "size": 80.0
+    },
+    {
+    "x": 239.0,
+    "y": 578.0,
+    "size": 100.0
+    },
+    {
+    "x": 490.0,
+    "y": 377.0,
+    "size": 90.0
+    },
+    {
+    "x": 638.0,
+    "y": 373.0,
+    "size": 80.0
+    },
+    {
+    "x": 1003.0,
+    "y": 274.0,
+    "size": 120.0
+    }
+  ]
+}

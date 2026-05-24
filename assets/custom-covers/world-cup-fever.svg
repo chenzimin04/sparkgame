@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8de0ff"/>
+      <stop offset="1" stop-color="#4cb2ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="380" rx="24" fill="url(#sky)"/>
+  <rect y="246" width="640" height="134" fill="#73c24b"/>
+  <g opacity="0.18">
+    <image href="../../games/world-cup-fever/v1.0.58/images/bggrass-sheet0.png" x="0" y="228" width="640" height="152" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+  <path d="M56 272c120-44 244-44 366 0" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+  <path d="M120 300c80-26 164-26 244 0" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+  <image href="../../games/world-cup-fever/v1.0.58/icons/icon-512.png" x="58" y="86" width="124" height="124" preserveAspectRatio="xMidYMid meet"/>
+  <text x="220" y="146" fill="#ffffff" font-size="58" font-family="Segoe UI, Arial, sans-serif" font-weight="900">WORLD CUP</text>
+  <text x="220" y="206" fill="#ffe165" font-size="58" font-family="Segoe UI, Arial, sans-serif" font-weight="900">FEVER</text>
+</svg>

@@ -1,0 +1,23 @@
+{
+  "resolution": "standard",
+  "image1": "cooking_a.jpg",
+  "image2": "cooking_b.jpg",
+  "differences":
+  [
+    {
+      "x": 796.0,
+      "y": 630.0,
+      "size": 120.0
+    },
+    {
+      "x": 560.0,
+      "y": 300.0,
+      "size": 100.0
+    },
+    {
+      "x": 485.0,
+      "y": 70.0,
+      "size": 120.0
+    }
+  ]
+}

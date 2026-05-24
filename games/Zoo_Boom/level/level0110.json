@@ -1,0 +1,24 @@
+ {
+	"size":9,
+	"moves":42,
+	"fill":"up",
+	"add":[		
+		{ "x":0, "y":0, "dx":3, "dy":3, "type":"ORE",  "count":true },
+		{ "x":6, "y":6, "dx":3, "dy":3, "type":"ORE",  "count":true },
+		
+		{ "x":0, "y":4, "dx":4, "dy":1,"type":"BOX",  "count":true },
+		{ "x":4, "y":0, "dx":1, "dy":9,"type":"BOX",  "count":true },
+		{ "x":5, "y":4, "dx":4, "dy":1,"type":"BOX",  "count":true }		
+	],
+	"allowedGemTypes":["GEM_YELLOW","GEM_GREEN","GEM_RED","GEM_BLUE"],
+	"field":[ 
+		"xxxxxoxxx",		
+		"xxxxxoxxx",		
+		"xxxxxoxxx",		
+		"xxxxxoooo",		
+		"xxxxxxxxx",		
+		"ooooxxxxx",		
+		"xxxoxxxxx",		
+		"xxxoxxxxx",		
+		"xxxoxxxxx"]
+ }

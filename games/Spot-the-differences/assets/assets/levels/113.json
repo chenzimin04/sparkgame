@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "modern-van_gough_a.jpg",
+  "image2": "modern-van_gough_b.jpg",
+  "differences":
+  [
+    {
+      "x": 107.0,
+      "y": 456.0,
+      "size": 130.0
+    },
+    {
+      "x": 274.0,
+      "y": 423.0,
+      "size": 100.0
+    },
+    {
+      "x": 445.0,
+      "y": 559.0,
+      "size": 120.0
+    },
+    {
+      "x": 731.0,
+      "y": 181.0,
+      "size": 80.0
+    },
+    {
+      "x": 559.0,
+      "y": 432.0,
+      "size": 110.0
+    }
+  ]
+}

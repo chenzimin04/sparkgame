@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "bee_on_flower_a.jpg",
+  "image2": "bee_on_flower_b.jpg",
+  "differences":
+  [
+    {
+      "x": 314.0,
+      "y": 325.0,
+      "size": 140.0
+    },
+    {
+      "x": 605.0,
+      "y": 232.0,
+      "size": 100.0
+    },
+    {
+      "x": 596.0,
+      "y": 492.0,
+      "size": 170.0
+    },
+    {
+      "x": 800.0,
+      "y": 230.0,
+      "size": 180.0
+    },
+    {
+      "x": 904.0,
+      "y": 577.0,
+      "size": 80.0
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "green_monster_a.jpg",
+  "image2": "green_monster_b.jpg",
+  "differences":
+  [
+    {
+      "x": 68.0,
+      "y": 323.0,
+      "size": 55.0
+    },
+    {
+      "x": 329.0,
+      "y": 261.0,
+      "size": 80.0
+    },
+    {
+      "x": 200.0,
+      "y": 599.0,
+      "size": 80.0
+    },
+    {
+      "x": 657.0,
+      "y": 200.0,
+      "size": 90.0
+    },
+    {
+      "x": 875.0,
+      "y": 92.0,
+      "size": 70.0
+    }
+  ]
+}

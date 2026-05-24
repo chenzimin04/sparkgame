@@ -1,0 +1,54 @@
+{
+  "skins": {
+    "slots": [
+      {
+        "name": "layer_0",
+        "layer": "standart",
+        "x": 800,
+        "y": -500,
+        "width": 1602,
+        "height": 1002
+      },
+      {
+        "name": "shirt",
+        "layer": "LayerAMiddle",
+        "x": 1176.5,
+        "y": -453,
+        "width": 59,
+        "height": 76
+      },
+      {
+        "name": "picture",
+        "layer": "LayerAMiddle",
+        "x": 660,
+        "y": -410.5,
+        "width": 72,
+        "height": 89
+      },
+      {
+        "name": "Bag",
+        "layer": "LayerBMiddle",
+        "x": 344,
+        "y": -384,
+        "width": 40,
+        "height": 44
+      },
+      {
+        "name": "Clothes",
+        "layer": "LayerBMiddle",
+        "x": 373.5,
+        "y": -637.5,
+        "width": 23,
+        "height": 205
+      },
+      {
+        "name": "Lamp",
+        "layer": "LayerBMiddle",
+        "x": 821,
+        "y": -605,
+        "width": 42,
+        "height": 72
+      }
+    ]
+  }
+}

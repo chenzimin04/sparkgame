@@ -1,0 +1,251 @@
+
+Princess_Bubblegum@0.5x.webp
+size: 706,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bubblegum-Effect-Base
+  rotate: false
+  xy: 385, 30
+  size: 111, 47
+  orig: 111, 47
+  offset: 0, 0
+  index: -1
+Bubblegum-Effect-White
+  rotate: false
+  xy: 408, 1
+  size: 87, 27
+  orig: 87, 27
+  offset: 0, 0
+  index: -1
+Bubblegum-Eyeball-L
+  rotate: true
+  xy: 15, 1
+  size: 3, 2
+  orig: 3, 2
+  offset: 0, 0
+  index: -1
+Bubblegum-Eyeball-R
+  rotate: true
+  xy: 19, 1
+  size: 3, 2
+  orig: 3, 2
+  offset: 0, 0
+  index: -1
+Bubblegum-Face
+  rotate: true
+  xy: 508, 37
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Bubblegum-Hair-Long
+  rotate: true
+  xy: 1, 5
+  size: 72, 185
+  orig: 72, 185
+  offset: 0, 0
+  index: -1
+Bubblegum-Hair-Long-1
+  rotate: true
+  xy: 540, 39
+  size: 38, 165
+  orig: 38, 167
+  offset: 0, 2
+  index: -1
+Bubblegum-Hip-Patch
+  rotate: true
+  xy: 670, 18
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+Bubblegum-L-Elbow
+  rotate: false
+  xy: 625, 2
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+Bubblegum-L-Hand
+  rotate: false
+  xy: 644, 2
+  size: 11, 36
+  orig: 11, 36
+  offset: 0, 0
+  index: -1
+Bubblegum-L-Hand-Curve1
+  rotate: false
+  xy: 187, 7
+  size: 15, 70
+  orig: 19, 73
+  offset: 4, 0
+  index: -1
+Bubblegum-L-Palm-Fold-1
+  rotate: false
+  xy: 223, 1
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+Bubblegum-L-Palm-Idle
+  rotate: false
+  xy: 679, 4
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+Bubblegum-L-Shoe
+  rotate: true
+  xy: 496, 2
+  size: 27, 14
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+Bubblegum-L-Shorts
+  rotate: false
+  xy: 223, 14
+  size: 25, 63
+  orig: 25, 63
+  offset: 0, 0
+  index: -1
+Bubblegum-L-Thigh
+  rotate: false
+  xy: 497, 30
+  size: 9, 47
+  orig: 9, 47
+  offset: 0, 0
+  index: -1
+Bubblegum-Mouth-Excited
+  rotate: true
+  xy: 670, 3
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+Bubblegum-Mouth-Idle
+  rotate: false
+  xy: 1, 1
+  size: 7, 3
+  orig: 7, 3
+  offset: 0, 0
+  index: -1
+Bubblegum-Mouth-Lip
+  rotate: true
+  xy: 9, 1
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+Bubblegum-R-Elbow
+  rotate: true
+  xy: 371, 5
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+Bubblegum-R-Hand
+  rotate: false
+  xy: 656, 2
+  size: 13, 35
+  orig: 13, 35
+  offset: 0, 0
+  index: -1
+Bubblegum-R-Hand-Curve
+  rotate: false
+  xy: 282, 16
+  size: 19, 61
+  orig: 24, 64
+  offset: 0, 0
+  index: -1
+Bubblegum-R-Hand-Curve1
+  rotate: false
+  xy: 203, 8
+  size: 19, 69
+  orig: 24, 72
+  offset: 0, 0
+  index: -1
+Bubblegum-R-Palm-Fold-1
+  rotate: false
+  xy: 688, 8
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+Bubblegum-R-Palm-Idle
+  rotate: false
+  xy: 233, 1
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+Bubblegum-R-Shoe
+  rotate: false
+  xy: 296, 1
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+Bubblegum-R-Shorts
+  rotate: false
+  xy: 249, 14
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+Bubblegum-R-Thigh
+  rotate: true
+  xy: 242, 1
+  size: 11, 53
+  orig: 11, 53
+  offset: 0, 0
+  index: -1
+Bubblegum-Shadow
+  rotate: false
+  xy: 512, 1
+  size: 112, 34
+  orig: 112, 34
+  offset: 0, 0
+  index: -1
+Bubblegum-headbelt
+  rotate: true
+  xy: 316, 26
+  size: 51, 17
+  orig: 51, 17
+  offset: 0, 0
+  index: -1
+tint-Bubblegum-Body
+  rotate: false
+  xy: 334, 26
+  size: 37, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+tint-Bubblegum-L-Shoulder
+  rotate: false
+  xy: 324, 1
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+tint-Bubblegum-L-Socks
+  rotate: false
+  xy: 373, 29
+  size: 11, 48
+  orig: 11, 48
+  offset: 0, 0
+  index: -1
+tint-Bubblegum-R-Shoulder
+  rotate: true
+  xy: 345, 4
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+tint-Bubblegum-R-Socks
+  rotate: false
+  xy: 302, 23
+  size: 13, 54
+  orig: 13, 54
+  offset: 0, 0
+  index: -1

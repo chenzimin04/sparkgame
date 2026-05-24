@@ -1,0 +1,307 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 677,
+				"x": 385,
+				"var": "pngBg",
+				"top": 0,
+				"skin": "images/grid/maskGuide.png",
+				"sizeGrid": "2,3,4,3",
+				"right": 0,
+				"left": 0,
+				"bottom": 0,
+				"anchorY": 0.5,
+				"anchorX": 0.5,
+				"alpha": 0.8
+			},
+			"compId": 3
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 667,
+				"x": 375,
+				"width": 720,
+				"var": "centerBox",
+				"mouseThrough": true,
+				"height": 1000,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 4,
+			"child": [
+				{
+					"type": "Box",
+					"props": {
+						"y": 384,
+						"x": 360,
+						"width": 660,
+						"var": "boxRound",
+						"rotation": 0,
+						"height": 660,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 27,
+					"child": [
+						{
+							"type": "Box",
+							"props": {
+								"y": 330,
+								"x": 330,
+								"width": 627,
+								"var": "imgRound",
+								"height": 627,
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 12,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 0,
+										"x": 0,
+										"width": 627,
+										"skin": "images/round/icon_zp_bg.png",
+										"rotation": 0,
+										"height": 627
+									},
+									"compId": 51
+								}
+							]
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 176,
+								"x": 330,
+								"width": 0,
+								"var": "box0",
+								"rotation": 0,
+								"name": "box0",
+								"height": 0
+							},
+							"compId": 17
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 220,
+								"x": 440,
+								"width": 0,
+								"var": "box1",
+								"rotation": 45,
+								"name": "box1",
+								"height": 0
+							},
+							"compId": 18
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 330,
+								"x": 484,
+								"width": 0,
+								"var": "box2",
+								"rotation": 90,
+								"name": "box2",
+								"height": 0
+							},
+							"compId": 19
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 440,
+								"x": 440,
+								"width": 0,
+								"var": "box3",
+								"rotation": 135,
+								"name": "box3",
+								"height": 0
+							},
+							"compId": 20
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 484,
+								"x": 330,
+								"width": 0,
+								"var": "box4",
+								"rotation": 180,
+								"name": "box4",
+								"height": 0
+							},
+							"compId": 21
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 440,
+								"x": 220,
+								"width": 0,
+								"var": "box5",
+								"rotation": 225,
+								"name": "box5",
+								"height": 0
+							},
+							"compId": 22
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 330,
+								"x": 176,
+								"width": 0,
+								"var": "box6",
+								"rotation": 270,
+								"name": "box6",
+								"height": 0
+							},
+							"compId": 23
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 220,
+								"x": 220,
+								"width": 0,
+								"var": "box7",
+								"rotation": 315,
+								"name": "box7",
+								"height": 0
+							},
+							"compId": 24
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 388,
+						"x": 360,
+						"width": 204,
+						"var": "imgPoint",
+						"skin": "images/round/icon_xz.png",
+						"pivotY": 257,
+						"pivotX": 102,
+						"height": 283
+					},
+					"compId": 13
+				},
+				{
+					"type": "Box",
+					"props": {
+						"y": 802,
+						"x": 360,
+						"width": 280,
+						"var": "boxLucky",
+						"height": 124,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 49,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 62,
+								"x": 140,
+								"width": 280,
+								"var": "btnLucky",
+								"skin": "images/round/button_yellow.png",
+								"sizeGrid": "38,48,46,53",
+								"height": 124,
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 14,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 30,
+										"x": 67,
+										"skin": "images/round/button_word_zyz.png"
+									},
+									"compId": 50
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 748,
+						"x": -701,
+						"skin": "images/round/icon_kbgb.png"
+					},
+					"compId": 58
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": -13,
+						"x": 110,
+						"skin": "images/round/icon_bt_zp.png"
+					},
+					"compId": 60
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 903,
+						"x": 130,
+						"width": 300,
+						"var": "labRemain",
+						"text": "剩余：2次",
+						"stroke": 1,
+						"rotation": 0,
+						"fontSize": 28,
+						"color": "#4cd616",
+						"align": "center"
+					},
+					"compId": 25
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 865,
+						"x": 156,
+						"width": 400,
+						"visible": false,
+						"var": "labTips",
+						"text": "30次必得传说宝箱",
+						"rotation": 0,
+						"fontSize": 26,
+						"color": "#ffffff",
+						"bold": true,
+						"align": "center"
+					},
+					"compId": 59
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/grid/maskGuide.png",
+		"images/round/icon_zp_bg.png",
+		"images/round/icon_xz.png",
+		"images/round/button_yellow.png",
+		"images/round/button_word_zyz.png",
+		"images/round/icon_kbgb.png",
+		"images/round/icon_bt_zp.png"
+	],
+	"loadList3D": []
+}

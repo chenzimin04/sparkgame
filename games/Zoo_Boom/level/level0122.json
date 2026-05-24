@@ -1,0 +1,14 @@
+ {
+	"size":9,
+	"moves":42,
+	"add":[		
+		{ "x":1, "y":1, "dx":7, "dy":1, "type":"BOX", "count":true },	
+		{ "x":1, "y":2, "dx":7, "dy":1, "type":"COLOR_EGG", "count":true },	
+		{ "x":1, "y":3, "dx":7, "dy":1, "type":"BOX", "count":true },	
+		{ "x":1, "y":4, "dx":7, "dy":1, "type":"COLOR_EGG", "count":true },	
+		{ "x":1, "y":5, "dx":7, "dy":1, "type":"BOX", "count":true },	
+		{ "x":1, "y":6, "dx":7, "dy":1, "type":"COLOR_EGG", "count":true },	
+		{ "x":1, "y":7, "dx":7, "dy":1, "type":"BOX", "count":true }
+	],
+	"allowedGemTypes":["GEM_YELLOW","GEM_PURPLE","GEM_RED","GEM_BLUE"]
+ }

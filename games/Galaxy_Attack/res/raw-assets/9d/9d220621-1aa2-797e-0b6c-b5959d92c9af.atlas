@@ -1,0 +1,503 @@
+
+skel_boss_4_1.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images1/big-arm
+  rotate: false
+  xy: 393, 42
+  size: 71, 63
+  orig: 71, 63
+  offset: 0, 0
+  index: -1
+images1/big-wing
+  rotate: false
+  xy: 1010, 422
+  size: 214, 89
+  orig: 214, 89
+  offset: 0, 0
+  index: -1
+images1/body
+  rotate: false
+  xy: 1, 76
+  size: 169, 217
+  orig: 169, 217
+  offset: 0, 0
+  index: -1
+images1/dangban
+  rotate: true
+  xy: 886, 324
+  size: 79, 150
+  orig: 79, 150
+  offset: 0, 0
+  index: -1
+images1/ddd
+  rotate: true
+  xy: 1629, 406
+  size: 105, 166
+  orig: 105, 166
+  offset: 0, 0
+  index: -1
+images2/ddd
+  rotate: true
+  xy: 1629, 406
+  size: 105, 166
+  orig: 105, 166
+  offset: 0, 0
+  index: -1
+images1/dt
+  rotate: true
+  xy: 1440, 406
+  size: 105, 188
+  orig: 105, 188
+  offset: 0, 0
+  index: -1
+images2/dt
+  rotate: true
+  xy: 1440, 406
+  size: 105, 188
+  orig: 105, 188
+  offset: 0, 0
+  index: -1
+images1/fj-front
+  rotate: true
+  xy: 542, 404
+  size: 107, 233
+  orig: 107, 233
+  offset: 0, 0
+  index: -1
+images1/fj-gun
+  rotate: false
+  xy: 1317, 323
+  size: 120, 98
+  orig: 120, 98
+  offset: 0, 0
+  index: -1
+images1/fj-j1
+  rotate: false
+  xy: 1188, 310
+  size: 128, 111
+  orig: 128, 111
+  offset: 0, 0
+  index: -1
+images2/fj-j1
+  rotate: false
+  xy: 1188, 310
+  size: 128, 111
+  orig: 128, 111
+  offset: 0, 0
+  index: -1
+images1/fj-rightjet
+  rotate: true
+  xy: 416, 106
+  size: 63, 77
+  orig: 63, 77
+  offset: 0, 0
+  index: -1
+images2/fj-rightjet
+  rotate: true
+  xy: 416, 106
+  size: 63, 77
+  orig: 63, 77
+  offset: 0, 0
+  index: -1
+images1/fj-top
+  rotate: false
+  xy: 171, 1
+  size: 110, 127
+  orig: 110, 127
+  offset: 0, 0
+  index: -1
+images1/gq2
+  rotate: false
+  xy: 1665, 340
+  size: 115, 65
+  orig: 115, 65
+  offset: 0, 0
+  index: -1
+images2/gq2
+  rotate: false
+  xy: 1665, 340
+  size: 115, 65
+  orig: 115, 65
+  offset: 0, 0
+  index: -1
+images1/guanzi
+  rotate: true
+  xy: 1135, 261
+  size: 80, 43
+  orig: 80, 43
+  offset: 0, 0
+  index: -1
+images1/guanzi - 副本
+  rotate: true
+  xy: 1135, 261
+  size: 80, 43
+  orig: 80, 43
+  offset: 0, 0
+  index: -1
+images2/guanzi
+  rotate: true
+  xy: 1135, 261
+  size: 80, 43
+  orig: 80, 43
+  offset: 0, 0
+  index: -1
+images1/head
+  rotate: false
+  xy: 294, 129
+  size: 121, 154
+  orig: 121, 154
+  offset: 0, 0
+  index: -1
+images1/huo
+  rotate: true
+  xy: 1796, 434
+  size: 77, 183
+  orig: 77, 183
+  offset: 0, 0
+  index: -1
+images2/huo
+  rotate: true
+  xy: 1796, 434
+  size: 77, 183
+  orig: 77, 183
+  offset: 0, 0
+  index: -1
+images1/jetpack
+  rotate: true
+  xy: 542, 325
+  size: 78, 171
+  orig: 78, 171
+  offset: 0, 0
+  index: -1
+images1/little-arm
+  rotate: false
+  xy: 1897, 352
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+images1/little-arm - 副本 (2)
+  rotate: false
+  xy: 1897, 352
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+images1/little-arm - 副本
+  rotate: false
+  xy: 1049, 260
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+images2/little-arm - 副本
+  rotate: false
+  xy: 1049, 260
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+images1/pai1
+  rotate: false
+  xy: 1983, 330
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+images2/pai1
+  rotate: false
+  xy: 1983, 330
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+images1/pai2
+  rotate: true
+  xy: 1980, 463
+  size: 48, 67
+  orig: 48, 67
+  offset: 0, 0
+  index: -1
+images2/pai2
+  rotate: true
+  xy: 1980, 463
+  size: 48, 67
+  orig: 48, 67
+  offset: 0, 0
+  index: -1
+images1/paog
+  rotate: true
+  xy: 1559, 328
+  size: 77, 105
+  orig: 77, 105
+  offset: 0, 0
+  index: -1
+images2/paog
+  rotate: true
+  xy: 1559, 328
+  size: 77, 105
+  orig: 77, 105
+  offset: 0, 0
+  index: -1
+images1/quan
+  rotate: true
+  xy: 1796, 357
+  size: 76, 100
+  orig: 76, 100
+  offset: 0, 0
+  index: -1
+images2/quan
+  rotate: true
+  xy: 1796, 357
+  size: 76, 100
+  orig: 76, 100
+  offset: 0, 0
+  index: -1
+images1/shoudlergun
+  rotate: true
+  xy: 424, 261
+  size: 83, 91
+  orig: 83, 91
+  offset: 0, 0
+  index: -1
+images1/shoulder
+  rotate: false
+  xy: 700, 247
+  size: 87, 77
+  orig: 87, 77
+  offset: 0, 0
+  index: -1
+images1/shoulder - 副本
+  rotate: false
+  xy: 876, 246
+  size: 87, 77
+  orig: 87, 77
+  offset: 0, 0
+  index: -1
+images2/shoulder - 副本
+  rotate: false
+  xy: 876, 246
+  size: 87, 77
+  orig: 87, 77
+  offset: 0, 0
+  index: -1
+images1/small-wing
+  rotate: true
+  xy: 516, 262
+  size: 62, 91
+  orig: 62, 91
+  offset: 0, 0
+  index: -1
+images1/tiny-wing
+  rotate: true
+  xy: 1179, 254
+  size: 55, 91
+  orig: 55, 91
+  offset: 0, 0
+  index: -1
+images2/tiny-wing
+  rotate: true
+  xy: 1179, 254
+  size: 55, 91
+  orig: 55, 91
+  offset: 0, 0
+  index: -1
+images1/yao
+  rotate: false
+  xy: 357, 345
+  size: 184, 166
+  orig: 184, 166
+  offset: 0, 0
+  index: -1
+images1/yg
+  rotate: false
+  xy: 393, 9
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+images2/yg
+  rotate: false
+  xy: 393, 9
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+images1/yijie
+  rotate: false
+  xy: 357, 284
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+images1/yijie - 副本 (2)
+  rotate: false
+  xy: 357, 284
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+images1/yijie - 副本
+  rotate: true
+  xy: 465, 39
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+images2/yijie - 副本
+  rotate: true
+  xy: 465, 39
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+images1/zhua
+  rotate: true
+  xy: 1, 16
+  size: 59, 169
+  orig: 59, 169
+  offset: 0, 0
+  index: -1
+images2/big-arm
+  rotate: false
+  xy: 1271, 247
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1
+images2/big-arm - 副本
+  rotate: true
+  xy: 1983, 391
+  size: 71, 63
+  orig: 71, 63
+  offset: 0, 0
+  index: -1
+images2/big-wing
+  rotate: false
+  xy: 1225, 422
+  size: 214, 89
+  orig: 214, 89
+  offset: 0, 0
+  index: -1
+images2/body
+  rotate: false
+  xy: 1, 294
+  size: 170, 217
+  orig: 170, 217
+  offset: 0, 0
+  index: -1
+images2/dangban
+  rotate: true
+  xy: 1037, 342
+  size: 79, 150
+  orig: 79, 150
+  offset: 0, 0
+  index: -1
+images2/fj-front
+  rotate: true
+  xy: 776, 404
+  size: 107, 233
+  orig: 107, 233
+  offset: 0, 0
+  index: -1
+images2/fj-gun
+  rotate: false
+  xy: 1438, 307
+  size: 120, 98
+  orig: 120, 98
+  offset: 0, 0
+  index: -1
+images2/fj-top
+  rotate: false
+  xy: 282, 1
+  size: 110, 127
+  orig: 110, 127
+  offset: 0, 0
+  index: -1
+images2/guanzi - 副本
+  rotate: false
+  xy: 1, 11
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+images2/little-arm - 副本 (2)
+  rotate: false
+  xy: 1, 11
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+images2/zhua
+  rotate: false
+  xy: 1, 11
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+images2/head
+  rotate: false
+  xy: 171, 129
+  size: 122, 154
+  orig: 122, 154
+  offset: 0, 0
+  index: -1
+images2/jetpack
+  rotate: true
+  xy: 714, 325
+  size: 78, 171
+  orig: 78, 171
+  offset: 0, 0
+  index: -1
+images2/little-arm
+  rotate: false
+  xy: 964, 242
+  size: 84, 81
+  orig: 84, 81
+  offset: 0, 0
+  index: -1
+images2/shoudlergun
+  rotate: false
+  xy: 416, 170
+  size: 83, 90
+  orig: 83, 90
+  offset: 0, 0
+  index: -1
+images2/shoulder
+  rotate: false
+  xy: 788, 247
+  size: 87, 77
+  orig: 87, 77
+  offset: 0, 0
+  index: -1
+images2/small-wing
+  rotate: true
+  xy: 608, 262
+  size: 62, 91
+  orig: 62, 91
+  offset: 0, 0
+  index: -1
+images2/yao
+  rotate: false
+  xy: 172, 344
+  size: 184, 167
+  orig: 184, 167
+  offset: 0, 0
+  index: -1
+images2/yijie
+  rotate: false
+  xy: 1342, 262
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+images2/zhua - 副本
+  rotate: true
+  xy: 172, 284
+  size: 59, 169
+  orig: 59, 169
+  offset: 0, 0
+  index: -1

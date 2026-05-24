@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#efffcb"/><stop offset="1" stop-color="#fffdf0"/></linearGradient></defs>
+  <rect width="640" height="380" fill="url(#g)"/>
+  <g fill="#c1ef59" opacity=".95">
+    <path d="M58 62c36-22 78-26 102 0-23 30-69 39-102 0Z"/><path d="M168 108c33-17 78-21 104 1-27 30-72 34-104-1Z"/>
+    <path d="M286 58c36-21 84-20 108 6-31 24-75 31-108-6Z"/><path d="M422 112c34-19 78-19 103 0-28 30-72 35-103 0Z"/>
+  </g>
+  <g>
+    <path d="M165 229c0-45 34-79 79-79 44 0 79 34 79 79 0 42-32 76-73 79l-15 24-10-23c-34-7-60-38-60-80Z" fill="#8be249"/>
+    <circle cx="243" cy="184" r="11" fill="#fff"/><circle cx="246" cy="184" r="5" fill="#262626"/><path d="M306 214 334 224 308 238Z" fill="#ffae36"/>
+    <path d="M242 244c18 17 44 16 62 0" stroke="#6a8f21" stroke-width="7" fill="none" stroke-linecap="round"/>
+  </g>
+  <g>
+    <path d="M422 217c0-41 32-72 72-72 41 0 72 31 72 72 0 39-28 68-66 72l-14 20-9-18c-32-6-55-34-55-74Z" fill="#ff6d48"/>
+    <circle cx="490" cy="177" r="10" fill="#fff"/><circle cx="493" cy="177" r="5" fill="#262626"/><path d="M427 202 401 212 424 224Z" fill="#ffc14f"/>
+  </g>
+  <text x="48" y="332" fill="#5a7a12" font-size="52" font-family="Segoe UI, Arial, sans-serif" font-weight="800">BIRD SORT</text>
+</svg>

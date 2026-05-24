@@ -1,0 +1,300 @@
+
+JP@0.5x.webp
+size: 706, 102
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+JP-Effect-Base
+  rotate: false
+  xy: 310, 1
+  size: 111, 47
+  orig: 111, 47
+  offset: 0, 0
+  index: -1
+JP-Effect-Particle
+  rotate: true
+  xy: 151, 14
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+JP-Effect-White
+  rotate: true
+  xy: 99, 14
+  size: 87, 27
+  orig: 87, 27
+  offset: 0, 0
+  index: -1
+JP-Eye-L-Tight-Close
+  rotate: false
+  xy: 629, 55
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+JP-Eye-R-Tight-Close-
+  rotate: true
+  xy: 635, 73
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+JP-L-arm2
+  rotate: true
+  xy: 212, 5
+  size: 14, 38
+  orig: 23, 53
+  offset: 9, 0
+  index: -1
+JP-L-brow
+  rotate: true
+  xy: 159, 14
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+JP-L-had-palm4
+  rotate: true
+  xy: 587, 52
+  size: 13, 27
+  orig: 13, 27
+  offset: 0, 0
+  index: -1
+JP-L-hand
+  rotate: true
+  xy: 172, 2
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+JP-L-hand-palm-5
+  rotate: true
+  xy: 647, 75
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+JP-L-hand-palm3
+  rotate: false
+  xy: 475, 5
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+JP-L-hand2
+  rotate: false
+  xy: 658, 51
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+JP-L-i -white
+  rotate: true
+  xy: 128, 14
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+JP-L-leg
+  rotate: false
+  xy: 623, 68
+  size: 11, 33
+  orig: 11, 33
+  offset: 0, 0
+  index: -1
+JP-L-leg-thai
+  rotate: false
+  xy: 447, 2
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+JP-L-shoose
+  rotate: true
+  xy: 601, 67
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+JP-R-shoose
+  rotate: true
+  xy: 601, 67
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+JP-Mouth-Excited
+  rotate: true
+  xy: 423, 1
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+JP-Mouth-Sad-Idle
+  rotate: true
+  xy: 678, 53
+  size: 21, 5
+  orig: 21, 5
+  offset: 0, 0
+  index: -1
+JP-R-brow
+  rotate: false
+  xy: 163, 15
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+JP-R-had-palm3
+  rotate: false
+  xy: 667, 75
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+JP-R-hand
+  rotate: true
+  xy: 192, 3
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+JP-R-hand-plm
+  rotate: false
+  xy: 247, 45
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+JP-R-i -white
+  rotate: true
+  xy: 139, 14
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+JP-R-leg
+  rotate: true
+  xy: 134, 1
+  size: 11, 36
+  orig: 11, 36
+  offset: 0, 0
+  index: -1
+JP-R-leg-thai
+  rotate: false
+  xy: 530, 51
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+JP-R-palm-1
+  rotate: true
+  xy: 685, 54
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+JP-Shadow
+  rotate: false
+  xy: 539, 1
+  size: 163, 49
+  orig: 163, 49
+  offset: 0, 0
+  index: -1
+JP-face
+  rotate: true
+  xy: 128, 20
+  size: 81, 118
+  orig: 81, 118
+  offset: 0, 0
+  index: -1
+JP-happy
+  rotate: true
+  xy: 251, 1
+  size: 43, 22
+  orig: 43, 22
+  offset: 0, 0
+  index: -1
+JP-happy-muth
+  rotate: true
+  xy: 560, 52
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+JP-idle-mouth
+  rotate: true
+  xy: 687, 77
+  size: 24, 6
+  orig: 24, 6
+  offset: 0, 0
+  index: -1
+JP-l-palm
+  rotate: false
+  xy: 507, 12
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+JP-l-palm-A
+  rotate: false
+  xy: 275, 3
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+JP-l-palm-R
+  rotate: false
+  xy: 275, 3
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+JP-nose
+  rotate: false
+  xy: 616, 53
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+JP-teeth
+  rotate: true
+  xy: 587, 66
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+tint-JP-Body
+  rotate: false
+  xy: 1, 1
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+tint-JP-L-leg-shoaks
+  rotate: true
+  xy: 507, 1
+  size: 10, 29
+  orig: 10, 29
+  offset: 0, 0
+  index: -1
+tint-JP-L-sholder
+  rotate: true
+  xy: 288, 50
+  size: 51, 120
+  orig: 51, 120
+  offset: 0, 0
+  index: -1
+tint-JP-R-shoaks
+  rotate: true
+  xy: 99, 1
+  size: 12, 34
+  orig: 12, 34
+  offset: 0, 0
+  index: -1
+tint-JP-R-sholder
+  rotate: true
+  xy: 409, 50
+  size: 51, 120
+  orig: 51, 120
+  offset: 0, 0
+  index: -1

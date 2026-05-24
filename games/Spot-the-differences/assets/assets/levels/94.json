@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "dark_ballroom_a.jpg",
+  "image2": "dark_ballroom_b.jpg",
+  "differences":
+  [
+    {
+      "x": 290.0,
+      "y": 259.0,
+      "size": 60.0
+    },
+    {
+      "x": 282.0,
+      "y": 426.0,
+      "size": 90.0
+    },
+    {
+      "x": 647.0,
+      "y": 77.0,
+      "size": 70.0
+    },
+    {
+      "x": 405.0,
+      "y": 556.0,
+      "size": 110.0
+    },
+    {
+      "x": 903.0,
+      "y": 424.0,
+      "size": 100.0
+    }
+  ]
+}

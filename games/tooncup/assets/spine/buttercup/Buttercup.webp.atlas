@@ -1,0 +1,258 @@
+
+Buttercup.webp
+size: 1745,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Buttercup-Effect-Base
+  rotate: true
+  xy: 739, 75
+  size: 223, 95
+  orig: 223, 95
+  offset: 0, 0
+  index: -1
+Buttercup-Effect-Particle
+  rotate: true
+  xy: 328, 3
+  size: 8, 12
+  orig: 10, 14
+  offset: 1, 1
+  index: -1
+Buttercup-Effect-White
+  rotate: true
+  xy: 1166, 123
+  size: 175, 55
+  orig: 175, 55
+  offset: 0, 0
+  index: -1
+Buttercup-Eye-Close-L
+  rotate: true
+  xy: 864, 5
+  size: 109, 168
+  orig: 109, 168
+  offset: 0, 0
+  index: -1
+Buttercup-Eye-Close-R
+  rotate: false
+  xy: 836, 116
+  size: 163, 182
+  orig: 163, 182
+  offset: 0, 0
+  index: -1
+Buttercup-Eye-White-L
+  rotate: true
+  xy: 1034, 5
+  size: 109, 168
+  orig: 109, 168
+  offset: 0, 0
+  index: -1
+Buttercup-Eye-White-R
+  rotate: false
+  xy: 1001, 116
+  size: 163, 182
+  orig: 163, 182
+  offset: 0, 0
+  index: -1
+Buttercup-EyeBall-L
+  rotate: false
+  xy: 1540, 17
+  size: 95, 131
+  orig: 95, 131
+  offset: 0, 0
+  index: -1
+Buttercup-EyeBall-R
+  rotate: true
+  xy: 1420, 150
+  size: 148, 147
+  orig: 148, 147
+  offset: 0, 0
+  index: -1
+Buttercup-EyeBall-W-L
+  rotate: true
+  xy: 1692, 15
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+Buttercup-EyeBall-W-R
+  rotate: false
+  xy: 1692, 60
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+Buttercup-Eyebrow-Angry-L
+  rotate: false
+  xy: 1297, 10
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+Buttercup-Eyebrow-Angry-R
+  rotate: false
+  xy: 1319, 11
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+Buttercup-Face
+  rotate: true
+  xy: 328, 13
+  size: 285, 262
+  orig: 285, 262
+  offset: 0, 0
+  index: -1
+Buttercup-Hair-L
+  rotate: true
+  xy: 1400, 2
+  size: 133, 138
+  orig: 133, 138
+  offset: 0, 0
+  index: -1
+Buttercup-Hair-R
+  rotate: false
+  xy: 1223, 134
+  size: 156, 164
+  orig: 156, 164
+  offset: 0, 0
+  index: -1
+Buttercup-Hand-L
+  rotate: false
+  xy: 1257, 35
+  size: 59, 97
+  orig: 59, 97
+  offset: 0, 0
+  index: -1
+Buttercup-Hand-R
+  rotate: false
+  xy: 1204, 21
+  size: 51, 100
+  orig: 51, 100
+  offset: 0, 0
+  index: -1
+Buttercup-Kick-FX
+  rotate: false
+  xy: 592, 21
+  size: 145, 277
+  orig: 145, 277
+  offset: 0, 0
+  index: -1
+Buttercup-Kick-Ray-FX
+  rotate: true
+  xy: 2, 3
+  size: 295, 324
+  orig: 295, 324
+  offset: 0, 0
+  index: -1
+Buttercup-Leg-L
+  rotate: false
+  xy: 1569, 167
+  size: 55, 78
+  orig: 55, 78
+  offset: 0, 0
+  index: -1
+Buttercup-Leg-R
+  rotate: false
+  xy: 1626, 167
+  size: 55, 78
+  orig: 55, 78
+  offset: 0, 0
+  index: -1
+Buttercup-Leg-R-Top
+  rotate: false
+  xy: 1683, 167
+  size: 55, 78
+  orig: 55, 78
+  offset: 0, 0
+  index: -1
+Buttercup-Mouth-Happy
+  rotate: true
+  xy: 1569, 247
+  size: 51, 57
+  orig: 51, 57
+  offset: 0, 0
+  index: -1
+Buttercup-Mouth-Idle
+  rotate: false
+  xy: 1257, 6
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+Buttercup-Mouth-O
+  rotate: false
+  xy: 836, 75
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+Buttercup-Mouth-Sad-Idle
+  rotate: false
+  xy: 1341, 12
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+Buttercup-Mouth-Sad-Open
+  rotate: false
+  xy: 1637, 247
+  size: 85, 51
+  orig: 85, 51
+  offset: 0, 0
+  index: -1
+Buttercup-Shadow
+  rotate: true
+  xy: 1381, 137
+  size: 161, 37
+  orig: 161, 37
+  offset: 0, 0
+  index: -1
+Buttercup-Shoe-L
+  rotate: true
+  xy: 1693, 111
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+Buttercup-Shoe-R
+  rotate: false
+  xy: 1637, 114
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+Buttercup-Shorts-L
+  rotate: false
+  xy: 739, 8
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+Buttercup-Shorts-R
+  rotate: false
+  xy: 791, 8
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+tint-Buttercup-Body
+  rotate: false
+  xy: 1318, 36
+  size: 80, 96
+  orig: 80, 96
+  offset: 0, 0
+  index: -1
+tint-Buttercup-Socks-L
+  rotate: false
+  xy: 1637, 71
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+tint-Buttercup-Socks-R
+  rotate: false
+  xy: 1637, 28
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "ghostly_mice_a.jpg",
+  "image2": "ghostly_mice_b.jpg",
+  "differences":
+  [
+    {
+    "x": 483.0,
+    "y": 612.0,
+    "size": 100.0
+    },
+    {
+    "x": 248.0,
+    "y": 640.0,
+    "size": 100.0
+    },
+    {
+    "x": 998.0,
+    "y": 532.0,
+    "size": 100.0
+    },
+    {
+    "x": 666.0,
+    "y": 294.0,
+    "size": 100.0
+    },
+    {
+    "x": 599.0,
+    "y": 63.0,
+    "size": 120.0
+    }
+  ]
+}

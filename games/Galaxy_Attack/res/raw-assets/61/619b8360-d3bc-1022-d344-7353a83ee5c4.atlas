@@ -1,0 +1,104 @@
+
+skel_bird_body_h.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images1/huo
+  rotate: false
+  xy: 479, 79
+  size: 114, 48
+  orig: 114, 48
+  offset: 0, 0
+  index: -1
+images1/shen
+  rotate: false
+  xy: 257, 1
+  size: 84, 46
+  orig: 84, 46
+  offset: 0, 0
+  index: -1
+images1/shenti
+  rotate: false
+  xy: 1, 37
+  size: 127, 90
+  orig: 127, 90
+  offset: 0, 0
+  index: -1
+images1/tou
+  rotate: true
+  xy: 257, 48
+  size: 79, 110
+  orig: 79, 110
+  offset: 0, 0
+  index: -1
+images1/yanguang
+  rotate: false
+  xy: 1, 6
+  size: 51, 30
+  orig: 51, 30
+  offset: 0, 0
+  index: -1
+images1/youpenqi
+  rotate: false
+  xy: 638, 87
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+images1/zuopenqi
+  rotate: false
+  xy: 427, 7
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+images2/huo
+  rotate: false
+  xy: 479, 77
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images2/yanguang
+  rotate: false
+  xy: 479, 77
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images2/youpenqi
+  rotate: false
+  xy: 479, 77
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images2/shen
+  rotate: false
+  xy: 342, 1
+  size: 84, 46
+  orig: 84, 46
+  offset: 0, 0
+  index: -1
+images2/shenti
+  rotate: false
+  xy: 129, 37
+  size: 127, 90
+  orig: 127, 90
+  offset: 0, 0
+  index: -1
+images2/tou
+  rotate: true
+  xy: 368, 48
+  size: 79, 110
+  orig: 79, 110
+  offset: 0, 0
+  index: -1
+images2/zuopenqi
+  rotate: false
+  xy: 594, 87
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1

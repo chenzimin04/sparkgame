@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PlaySpark</title>
+  <link rel="stylesheet" href="styles.css?v=20260524">
+</head>
+<body data-page="home">
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="brand">
+        <button class="menu-button" type="button" aria-label="Menu"><span></span></button>
+        <a class="brand-copy" href="index.html">
+          <div class="logo-mark"><b>Play</b><b>Spark</b><b>Go</b><b>!</b></div>
+          <div class="logo-sub">casual games portal</div>
+        </a>
+      </div>
+
+      <nav class="nav-group">
+        <a class="nav-link active" href="index.html"><i class="nav-icon orange"></i><span>All</span></a>
+        <a class="nav-link" href="#continue"><i class="nav-icon blue"></i><span>Continue Playing</span></a>
+        <a class="nav-link" href="#new"><i class="nav-icon red"></i><span>New Games</span></a>
+        <a class="nav-link" href="#hot"><i class="nav-icon orange"></i><span>Hot Games</span></a>
+        <a class="nav-link" href="#random"><i class="nav-icon green"></i><span>Random Games</span></a>
+      </nav>
+
+      <nav class="nav-group">
+        <a class="nav-link" href="#simulation"><i class="nav-icon green"></i><span>Simulation</span></a>
+        <a class="nav-link" href="#adventure"><i class="nav-icon purple"></i><span>Adventure</span></a>
+        <a class="nav-link" href="#action"><i class="nav-icon red"></i><span>Action</span></a>
+        <a class="nav-link" href="#strategy"><i class="nav-icon green"></i><span>Strategy</span></a>
+        <a class="nav-link" href="#casual"><i class="nav-icon blue"></i><span>Casual</span></a>
+        <a class="nav-link" href="#racing"><i class="nav-icon blue"></i><span>Racing</span></a>
+        <a class="nav-link" href="#board"><i class="nav-icon orange"></i><span>Card & Board</span></a>
+        <a class="nav-link" href="#puzzle"><i class="nav-icon orange"></i><span>Puzzle</span></a>
+        <a class="nav-link" href="#sports"><i class="nav-icon green"></i><span>Sports</span></a>
+      </nav>
+
+      <div class="sidebar-footer">
+        <a href="#">About</a>
+        <a href="#">Privacy</a>
+        <a href="#">Terms</a>
+        <div class="copyright">© 2026 PlaySpark</div>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div class="search-shell">
+          <span class="search-icon" aria-hidden="true"></span>
+          <input id="searchInput" class="search-input" type="search" placeholder="Search Games">
+          <button id="searchButton" class="search-button" type="button">Search</button>
+        </div>
+        <div class="install">
+          <div class="install-icon"><span class="install-arrow"></span></div>
+          <span>Install App</span>
+        </div>
+      </header>
+
+      <div class="content home-content">
+        <section id="continue" class="section">
+          <div class="section-head">
+            <h2 class="section-title">Continue Playing</h2>
+            <div id="gameCount" class="section-note"></div>
+          </div>
+          <div id="continueIconRow" class="continue-icon-row"></div>
+          <div id="featuredRow" class="hero-row"></div>
+        </section>
+
+        <section id="new" class="section">
+          <div class="section-head">
+            <h2 class="section-title">New Games</h2>
+            <a class="more-link" href="#catalog">Browse All &gt;</a>
+          </div>
+          <div id="newGrid" class="card-strip"></div>
+        </section>
+
+        <section id="hot" class="section">
+          <div class="section-head">
+            <h2 class="section-title">Hot Games</h2>
+            <a class="more-link" href="#catalog">More &gt;</a>
+          </div>
+          <div id="hotGrid" class="card-strip"></div>
+        </section>
+
+        <section id="random" class="section">
+          <div class="section-head">
+            <h2 class="section-title">Random Games</h2>
+            <a class="more-link" href="#catalog">More &gt;</a>
+          </div>
+          <div id="randomStrip" class="icon-strip"></div>
+        </section>
+
+        <section id="sports" class="section">
+          <div class="section-head">
+            <h2 class="section-title">Recommended</h2>
+            <a class="more-link" href="#catalog">More &gt;</a>
+          </div>
+          <div id="sportsGrid" class="card-strip"></div>
+        </section>
+
+        <section id="puzzle" class="section">
+          <div class="section-head">
+            <h2 class="section-title">Puzzle Picks</h2>
+            <a class="more-link" href="#catalog">More &gt;</a>
+          </div>
+          <div id="puzzleGrid" class="card-strip"></div>
+        </section>
+
+        <section id="catalog" class="section">
+          <div class="section-head">
+            <h2 class="section-title">Game Catalog</h2>
+            <div class="catalog-tools">
+              <select id="categoryFilter" class="filter-select">
+                <option value="All">All Categories</option>
+                <option value="Sports">Sports</option>
+                <option value="Puzzle">Puzzle</option>
+                <option value="Action">Action</option>
+                <option value="Racing">Racing</option>
+                <option value="Simulation">Simulation</option>
+                <option value="Strategy">Strategy</option>
+                <option value="Adventure">Adventure</option>
+                <option value="Music">Music</option>
+                <option value="Kids">Kids</option>
+                <option value="Card & Board">Card & Board</option>
+                <option value="Casual">Casual</option>
+              </select>
+            </div>
+          </div>
+          <div id="catalogGrid" class="card-grid catalog-grid"></div>
+        </section>
+      </div>
+    </main>
+  </div>
+
+  <script src="app.js?v=20260524"></script>
+</body>
+</html>

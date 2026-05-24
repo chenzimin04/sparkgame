@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+<templates>
+</templates>
+	
+<screen name="uiScreenChooseFlag" template="tPopUpJenny" >	
+	<element name="uiContent" marginLeft="30" marginRight="30" marginTop="120" >				
+		<element width="80%" height="700" halign="center" y="60">
+			<image template="tBox,tElement" />
+			<input name="uiInput" template="tElement,tFontLarge" margin="25" autocomplete="off" multiLine="true" />
+		</element>
+		<button name="uiBtOk" template="tButton" halign="center" valign="bottom" label="SID_OK" />
+	</element>	
+</screen>

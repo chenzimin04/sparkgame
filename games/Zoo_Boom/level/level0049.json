@@ -1,0 +1,24 @@
+ {
+	"size":9,
+	"stars":{"avg":8, "top":14 },
+	"moves":30,
+	"add":[
+		{ "x":6, "y":7, "dy":2, "dx":3, "type":"COIN", "count":true },
+		{ "x":4, "y":6, "dy":1, "dx":5, "type":"COIN", "count":true },
+		{ "x":4, "y":5, "dy":1, "dx":3, "type":"COIN", "count":true },
+		{ "x":2, "y":4, "dy":1, "dx":5, "type":"COIN", "count":true },
+		{ "x":2, "y":3, "dy":1, "dx":3, "type":"COIN", "count":true },
+		{ "x":3, "y":2, "dy":1, "dx":2, "type":"COIN", "count":true }
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_RED","GEM_YELLOW","GEM_PURPLE"],
+	"field":[ 
+		"oxoxooxxx",
+		"xoxoooxxx",
+		"oxooxxxxx",
+		"xoooxxxoo",
+		"ooxxxxxoo",
+		"ooxxxoooo",
+		"xxxxxoooo",
+		"xxxoooooo",
+		"xxxoooooo"]
+ }

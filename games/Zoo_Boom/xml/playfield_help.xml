@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+
+<templates>		
+	<image id="tJenny" name="uiJenny" image="dynamic/JennyJungle.png" width="421" height="1020" halign="right" valign="top" x="200" y="140" >
+		<state state="right" halign="right" x="100" scaleX="1" />
+		<state state="left" halign="left" x="-100" scaleX="-1" />
+		<image name="uiImgJennyBubble" image="dynamic/bubble.png" width="400" height="250" y="-165" x="-220" hqlign="right" nss="35,28,13,35" nssScale="0.5" >
+		<!--image name="uiImgJennyBubble" width="400" ratio="1.36" y="-145" x="-150" template="tBox"-->
+			<element template="tElement" margin="20" marginBottom="50" >
+				<element name="uiTutorialContent" template="tElement" />
+				<text name="uiTxtTutorialText" template="tElement,tFontSmall,tFontWhite" halignText="center" valignText="center" >
+					<state state="right" scaleX="1" />
+					<state state="left" scaleX="-1" />				
+				</text>
+			</element>
+		</image>
+	</image>		
+	<image id="tTutorialMarker" width="1" height="1">
+		<image name="uiImgHand" image="dynamic/TipHand_1.png" width="170" x="-40" y="-40" ratio="1.0" />
+	</image>
+	<element id="tTutorial2" template="tElement" marginRight="20" marginLeft="20">
+		<text name="uiTxtHelpText" template="tElement,tFontLarge,tFontWhite" text="5 x      =" halignText="left" valignText="center" />
+		<image name="uiImgGemIcon" image="gems/gem_blue.png" width="100" x="92" y="4" ratio="1.0" valign="center" scale="0.7" >
+			<image name="uiImgEyes" image="gems/eyes.png" y="-5" width="48" height="22" halign="center" valign="center" />			
+		</image>
+		<image name="uiImgResultIcon" image="gems/row.png" width="70" x="0" y="0" ratio="1.0" halign="right" valign="center" />		
+	</element>	
+	<element id="tTutorial3" template="tTutorial2" >
+		<text name="uiTxtHelpText" text="7 x      =" />
+		<image name="uiImgGemIcon" image="gems/gem_yellow.png"/>
+		<image name="uiImgResultIcon" image="gems/skunk.png" />		
+	</element>
+	<element id="tTutorial4" template="tTutorial2" >
+		<text name="uiTxtHelpText" text="9 x      =" />
+		<image name="uiImgGemIcon" image="gems/gem_purple.png" />
+		<image name="uiImgResultIcon" image="gems/orb.png"  />		
+	</element>
+	<element id="tTutorial5" template="tElement" >		/>
+		<text name="uiTxtHelpText" template="tElement,tFontLarge,tFontWhite" text="+" halignText="center" valignText="center" />
+		<image name="uiImgIcon1" image="gems/row.png" width="100" ratio="1.0" valign="center" />
+		<image name="uiImgIcon2" image="gems/skunk.png" width="100" ratio="1.0" halign="right" valign="center" />
+	</element>
+</templates>
+
+<screen name="uiPlayfieldHelp" template="tElement" >
+	<element name="uiPlayfieldContent" width="800" height="800" halign="center" valign="center" template="tElement" />
+</screen>

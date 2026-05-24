@@ -1,0 +1,478 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 0,
+				"x": 0,
+				"var": "pngBg",
+				"top": 0,
+				"skin": "images/talent/icon_bg.png",
+				"right": 0,
+				"left": 0,
+				"bottom": 0
+			},
+			"compId": 29
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 107,
+				"x": 0,
+				"width": 750,
+				"var": "centerBox",
+				"rotation": 0,
+				"height": 1120
+			},
+			"compId": 122,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 10,
+						"x": 37,
+						"width": 676,
+						"skin": "images/talent/icon_tf_bg1.png",
+						"rotation": 0,
+						"height": 718
+					},
+					"compId": 3,
+					"child": [
+						{
+							"type": "Box",
+							"props": {
+								"y": 0,
+								"x": 0,
+								"width": 676,
+								"rotation": 0,
+								"height": 718
+							},
+							"compId": 63,
+							"child": [
+								{
+									"type": "Box",
+									"props": {
+										"y": 45,
+										"x": 108,
+										"width": 88,
+										"var": "boxItem9",
+										"height": 88
+									},
+									"compId": 72
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 223,
+										"x": 566,
+										"width": 88,
+										"var": "boxItem51",
+										"height": 88
+									},
+									"compId": 73
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 233,
+										"x": 20,
+										"width": 88,
+										"var": "boxItem8",
+										"height": 88
+									},
+									"compId": 74
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 425,
+										"x": 96,
+										"width": 88,
+										"var": "boxItem21",
+										"height": 88
+									},
+									"compId": 76
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 522,
+										"x": 294,
+										"width": 88,
+										"var": "boxItem71",
+										"height": 88
+									},
+									"compId": 75
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 251,
+										"x": 372,
+										"width": 88,
+										"var": "boxItem72",
+										"height": 88
+									},
+									"compId": 77
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 251,
+										"x": 221,
+										"width": 88,
+										"var": "boxItem73",
+										"height": 88
+									},
+									"compId": 78
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 45,
+										"x": 478,
+										"width": 88,
+										"var": "boxItem7",
+										"height": 88
+									},
+									"compId": 111
+								},
+								{
+									"type": "Box",
+									"props": {
+										"y": 434,
+										"x": 499,
+										"width": 88,
+										"var": "boxItem53",
+										"height": 88
+									},
+									"compId": 112
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "Box",
+					"props": {
+						"y": 633,
+						"x": 0,
+						"width": 750,
+						"height": 436
+					},
+					"compId": 13,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 50,
+								"x": 0,
+								"width": 750,
+								"skin": "images/talent/icon_fgx.png",
+								"sizeGrid": "0,3,0,3",
+								"rotation": 0,
+								"height": 3
+							},
+							"compId": 44,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": -1,
+										"x": 25,
+										"width": 252,
+										"skin": "images/talent/icon_tf_bg2.png",
+										"height": 316
+									},
+									"compId": 115,
+									"child": [
+										{
+											"type": "Image",
+											"props": {
+												"y": 57,
+												"x": 49,
+												"var": "imgTalent",
+												"skin": "images/talent/talent_21.png"
+											},
+											"compId": 121
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 72,
+								"x": 291,
+								"width": 362,
+								"skin": "images/talent/icon_mc_d.png",
+								"sizeGrid": "0,26,0,25",
+								"height": 42
+							},
+							"compId": 48,
+							"child": [
+								{
+									"type": "Label",
+									"props": {
+										"y": 7,
+										"x": 31,
+										"var": "labName",
+										"text": "天赋系统",
+										"fontSize": 32,
+										"color": "#fda305",
+										"bold": true
+									},
+									"compId": 22
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 11,
+										"x": 260,
+										"width": 70,
+										"var": "labLv",
+										"text": "Lv.10",
+										"height": 28,
+										"fontSize": 26,
+										"color": "#4bde11",
+										"bold": true
+									},
+									"compId": 114
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 59,
+										"x": 6,
+										"wordWrap": true,
+										"width": 459,
+										"var": "labDesc",
+										"text": "选中你要要看的天赋，并进行升级。",
+										"height": 83,
+										"fontSize": 24,
+										"color": "#ffffff",
+										"bold": true
+									},
+									"compId": 23
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 11,
+								"x": 647,
+								"width": 150,
+								"var": "iconTalent",
+								"skin": "images/talent/icon_zy_bg.png",
+								"sizeGrid": "0,12,0,25",
+								"height": 37,
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 45,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": -40,
+										"x": 110,
+										"scaleX": 0.8,
+										"scaleY": 0.8,
+										"skin": "images/main/button_sp.png"
+									},
+									"compId": 26
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": -5,
+										"x": -6,
+										"var": "iconCost",
+										"skin": "images/talent/icon_zy_xx.png"
+									},
+									"compId": 26
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": -1,
+										"x": 121,
+										"width": 36,
+										"skin": "images/main/button_add.png",
+										"rotation": 0,
+										"label": "label",
+										"height": 40
+									},
+									"compId": 124
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 8,
+										"x": 34,
+										"width": 90,
+										"var": "labTalent",
+										"text": "0",
+										"height": 26,
+										"fontSize": 26,
+										"color": "#ffffff",
+										"bold": true,
+										"align": "center"
+									},
+									"compId": 28
+								}
+							]
+						},
+						{
+							"type": "Label",
+							"props": {
+								"y": 24,
+								"x": 918,
+								"visible": false,
+								"var": "labReset",
+								"text": "点击重置",
+								"fontSize": 24,
+								"color": "#ffffff",
+								"bold": true,
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 93
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 270,
+								"x": 443.015625,
+								"width": 142,
+								"var": "costBg",
+								"skin": "images/talent/timeBg.png",
+								"sizeGrid": "12,29,12,30",
+								"height": 31
+							},
+							"compId": 117,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 0,
+										"x": 68,
+										"width": 33,
+										"skin": "images/talent/icon_zy_xx.png",
+										"height": 30
+									},
+									"compId": 119
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 7,
+										"x": 13,
+										"text": "Cost：",
+										"fontSize": 20,
+										"color": "#ffffff",
+										"align": "center"
+									},
+									"compId": 118
+								},
+								{
+									"type": "Label",
+									"props": {
+										"y": 7,
+										"x": 103,
+										"var": "labNeed",
+										"text": "12",
+										"fontSize": 20,
+										"color": "#ffffff",
+										"align": "center"
+									},
+									"compId": 113
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 217,
+								"x": 513,
+								"width": 187,
+								"var": "btnUp",
+								"skin": "images/talent/button_yellow.png",
+								"sizeGrid": "37,54,47,53",
+								"height": 94,
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 24,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 18,
+										"x": 50,
+										"width": 87,
+										"var": "iconUp",
+										"skin": "images/talent/button_word_sj.png",
+										"label": "label",
+										"height": 46
+									},
+									"compId": 43
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 198,
+								"x": 418.5,
+								"var": "imgMax",
+								"skin": "images/talent/icon_ymj.png"
+							},
+							"compId": 120
+						},
+						{
+							"type": "Label",
+							"props": {
+								"y": 30,
+								"x": 300,
+								"var": "labWarring",
+								"text": "Talent can be purchased at boutique stores~",
+								"stroke": 1,
+								"fontSize": 24,
+								"color": "#ffffff",
+								"bold": true,
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 123
+						}
+					]
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/talent/icon_bg.png",
+		"images/talent/icon_tf_bg1.png",
+		"images/talent/icon_fgx.png",
+		"images/talent/icon_tf_bg2.png",
+		"images/talent/talent_21.png",
+		"images/talent/icon_mc_d.png",
+		"images/talent/icon_zy_bg.png",
+		"images/talent/icon_zy_xx.png",
+		"images/main/button_add.png",
+		"images/talent/timeBg.png",
+		"images/talent/button_yellow.png",
+		"images/talent/button_word_sj.png",
+		"images/talent/icon_ymj.png"
+	],
+	"loadList3D": []
+}

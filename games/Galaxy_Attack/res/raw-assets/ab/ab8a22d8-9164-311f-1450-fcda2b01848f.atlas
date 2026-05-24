@@ -1,0 +1,188 @@
+
+skel_bird_paw.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images1/kuai
+  rotate: true
+  xy: 188, 1
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+images1/yaoguan
+  rotate: true
+  xy: 279, 64
+  size: 63, 77
+  orig: 63, 77
+  offset: 0, 0
+  index: -1
+images1/youpan
+  rotate: false
+  xy: 1, 64
+  size: 92, 63
+  orig: 92, 63
+  offset: 0, 0
+  index: -1
+images1/zuojiao
+  rotate: false
+  xy: 239, 34
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+images1/zuojiaopao
+  rotate: false
+  xy: 93, 10
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+images1/zuojiaopao - 副本
+  rotate: false
+  xy: 93, 10
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+images1/zuopan
+  rotate: false
+  xy: 1, 3
+  size: 91, 60
+  orig: 91, 60
+  offset: 0, 0
+  index: -1
+images1/zuoqiantui
+  rotate: true
+  xy: 144, 13
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+images1/zuozhua1
+  rotate: true
+  xy: 276, 3
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+images1/zuozhua1 - 副本
+  rotate: false
+  xy: 276, 27
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+images2/zuozhua1 - 副本
+  rotate: false
+  xy: 276, 27
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+images1/zuozhua2
+  rotate: true
+  xy: 382, 43
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+images1/zuozhua2 - 副本
+  rotate: true
+  xy: 304, 39
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+images2/zuozhua2 - 副本
+  rotate: true
+  xy: 304, 39
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+images1/zuozhua3
+  rotate: false
+  xy: 343, 44
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+images1/zuozhua3 - 副本
+  rotate: true
+  xy: 486, 85
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+images2/zuozhua3 - 副本
+  rotate: true
+  xy: 486, 85
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+images2/yaoguan
+  rotate: true
+  xy: 357, 64
+  size: 63, 77
+  orig: 63, 77
+  offset: 0, 0
+  index: -1
+images2/youpan
+  rotate: false
+  xy: 94, 64
+  size: 92, 63
+  orig: 92, 63
+  offset: 0, 0
+  index: -1
+images2/zuojiao
+  rotate: false
+  xy: 239, 1
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+images2/zuojiaopao
+  rotate: false
+  xy: 435, 74
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+images2/zuopan
+  rotate: false
+  xy: 187, 67
+  size: 91, 60
+  orig: 91, 60
+  offset: 0, 0
+  index: -1
+images2/zuoqiantui
+  rotate: false
+  xy: 188, 23
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+images2/zuozhua1
+  rotate: false
+  xy: 510, 126
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images2/zuozhua2
+  rotate: false
+  xy: 510, 126
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images2/zuozhua3
+  rotate: false
+  xy: 510, 126
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,38 @@
+{
+  "resolution": "standard",
+  "image1": "boat_cosmonaut_a.jpg",
+  "image2": "boat_cosmonaut_b.jpg",
+  "differences":
+  [
+    {
+    "x": 47.0,
+    "y": 646.0,
+    "size": 90.0
+    },
+    {
+    "x": 300.0,
+    "y": 72.0,
+    "size": 150.0
+    },
+    {
+    "x": 267.0,
+    "y": 474.0,
+    "size": 120.0
+    },
+    {
+    "x": 508.0,
+    "y": 328.0,
+    "size": 50.0
+    },
+    {
+    "x": 655.0,
+    "y": 261.0,
+    "size": 80.0
+    },
+    {
+    "x": 824.0,
+    "y": 82.0,
+    "size": 120.0
+    }
+  ]
+}

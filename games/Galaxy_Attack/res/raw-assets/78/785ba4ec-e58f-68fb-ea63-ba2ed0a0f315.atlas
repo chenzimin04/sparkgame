@@ -1,0 +1,174 @@
+
+skel_boss_shrimpHead1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images1/bozi
+  rotate: false
+  xy: 201, 92
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+images1/shentiqian
+  rotate: false
+  xy: 1, 356
+  size: 187, 145
+  orig: 187, 145
+  offset: 0, 0
+  index: -1
+images1/tou
+  rotate: false
+  xy: 295, 414
+  size: 133, 87
+  orig: 133, 87
+  offset: 0, 0
+  index: -1
+images1/weiba
+  rotate: true
+  xy: 295, 232
+  size: 93, 119
+  orig: 93, 119
+  offset: 0, 0
+  index: -1
+images1/yanguang+
+  rotate: false
+  xy: 1, 3
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+images2/yanguang+
+  rotate: false
+  xy: 1, 3
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+images1/youhouzhua
+  rotate: false
+  xy: 429, 385
+  size: 44, 116
+  orig: 44, 116
+  offset: 0, 0
+  index: -1
+images2/youhouzhua
+  rotate: false
+  xy: 429, 385
+  size: 44, 116
+  orig: 44, 116
+  offset: 0, 0
+  index: -1
+images1/zhiquan
+  rotate: true
+  xy: 474, 450
+  size: 51, 28
+  orig: 51, 28
+  offset: 0, 0
+  index: -1
+images1/zuohouzhua
+  rotate: true
+  xy: 1, 28
+  size: 48, 94
+  orig: 48, 94
+  offset: 0, 0
+  index: -1
+images1/zuojia
+  rotate: false
+  xy: 429, 326
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+images1/zuojia - 副本
+  rotate: false
+  xy: 429, 326
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+images1/zuoshenhou
+  rotate: false
+  xy: 189, 369
+  size: 105, 132
+  orig: 105, 132
+  offset: 0, 0
+  index: -1
+images1/zuoshenhou - 副本
+  rotate: false
+  xy: 189, 369
+  size: 105, 132
+  orig: 105, 132
+  offset: 0, 0
+  index: -1
+images2/bozi
+  rotate: false
+  xy: 250, 187
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+images2/shentiqian
+  rotate: false
+  xy: 1, 210
+  size: 187, 145
+  orig: 187, 145
+  offset: 0, 0
+  index: -1
+images2/tou
+  rotate: false
+  xy: 295, 326
+  size: 133, 87
+  orig: 133, 87
+  offset: 0, 0
+  index: -1
+images2/weiba
+  rotate: false
+  xy: 107, 90
+  size: 93, 119
+  orig: 93, 119
+  offset: 0, 0
+  index: -1
+images2/zhiquan
+  rotate: false
+  xy: 107, 86
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+images2/zuojia
+  rotate: false
+  xy: 107, 86
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+images2/zuohouzhua
+  rotate: false
+  xy: 201, 141
+  size: 48, 94
+  orig: 48, 94
+  offset: 0, 0
+  index: -1
+images2/zuojia - 副本
+  rotate: false
+  xy: 415, 267
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+images2/zuoshenhou
+  rotate: false
+  xy: 1, 77
+  size: 105, 132
+  orig: 105, 132
+  offset: 0, 0
+  index: -1
+images2/zuoshenhou - 副本
+  rotate: false
+  xy: 189, 236
+  size: 105, 132
+  orig: 105, 132
+  offset: 0, 0
+  index: -1

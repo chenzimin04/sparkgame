@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+
+<templates>
+	<emitter id="tHeartEmitter" image="particles/heart.png" duration="0.9" gravity="0.0" startSize="25" endColor="0x70FFFFFF" range="40" numParticlesPerSecond="50"/>
+	<image id="tHeart" image="ui/life.png" width="200" ratio="1" halign="center" valign="center" animation="wobble" />
+</templates>
+
+<screen name="uiScreenPopUp" template="tPopUpJennyHappy" label="SID_UNLIMITED_LIFES">	
+	<element name="uiContent" >
+		<text name="uiTxtUnlimitedLifes" text="SID_GOT_UNLIMITED_LIFES" relativeWidth="1" height="200" halignText="center" valignText="center" halign="center" valign="top" template="tFontWhite,tFontMedium" />
+		
+		<image template="tHeart" width="170" x="-120" y="-190" />
+		<image template="tHeart" width="250" x="260" y="-110" />
+		<image template="tHeart" width="220" x="-160" y="210" />
+		<image template="tHeart" width="180" x="190" y="240" />
+			
+		<image template="tRays" halign="center" valign="center" scale="5" />
+		<image image="ui/life.png" width="300" ratio="1" halign="center" valign="center" >
+			<image name="uiImgInfinity" image="ui/infinity.png" width="120" ratio="1" halign="center" valign="center" rotation="0" y="-20" animation="wobble" />
+			<text name="uiTxtDuration" text="00:00:00" relativeWidth="2" height="100" halignText="center" valignText="center" halign="center" valign="bottom" template="tFontWhite,tFontLarge" />
+			<emitter template="tHeartEmitter" />
+		</image>
+		<button name="uiBtOK" template="tButton" halign="center" valign="bottom" label="SID_OK" />
+	</element>	
+</screen>

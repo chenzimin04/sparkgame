@@ -1,0 +1,90 @@
+
+skel_winefire.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xx0001
+  rotate: false
+  xy: 1, 112
+  size: 144, 143
+  orig: 144, 143
+  offset: 0, 0
+  index: -1
+xx0002
+  rotate: false
+  xy: 146, 112
+  size: 144, 143
+  orig: 144, 143
+  offset: 0, 0
+  index: -1
+xx0003
+  rotate: true
+  xy: 291, 112
+  size: 143, 144
+  orig: 143, 144
+  offset: 0, 0
+  index: -1
+xx0004
+  rotate: true
+  xy: 436, 112
+  size: 143, 144
+  orig: 143, 144
+  offset: 0, 0
+  index: -1
+xx0005
+  rotate: false
+  xy: 693, 142
+  size: 111, 113
+  orig: 111, 113
+  offset: 0, 0
+  index: -1
+xx0006
+  rotate: false
+  xy: 581, 141
+  size: 111, 114
+  orig: 111, 114
+  offset: 0, 0
+  index: -1
+xx0007
+  rotate: false
+  xy: 805, 142
+  size: 111, 113
+  orig: 111, 113
+  offset: 0, 0
+  index: -1
+xx0008
+  rotate: false
+  xy: 581, 27
+  size: 111, 113
+  orig: 111, 113
+  offset: 0, 0
+  index: -1
+xx0009
+  rotate: true
+  xy: 1, 1
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+xx0010
+  rotate: false
+  xy: 693, 95
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+xx0011
+  rotate: false
+  xy: 917, 209
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+xx0012
+  rotate: false
+  xy: 693, 48
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1

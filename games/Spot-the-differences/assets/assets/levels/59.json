@@ -1,0 +1,38 @@
+{
+  "resolution": "standard",
+  "image1": "earth_elemental_a.jpg",
+  "image2": "earth_elemental_b.jpg",
+  "differences":
+  [
+    {
+    "x": 87.0,
+    "y": 83.0,
+    "size": 100.0
+    },
+    {
+    "x": 438.0,
+    "y": 36.0,
+    "size": 100.0
+    },
+    {
+    "x": 552.0,
+    "y": 148.0,
+    "size": 90.0
+    },
+    {
+    "x": 376.0,
+    "y": 356.0,
+    "size": 100.0
+    },
+    {
+    "x": 510.0,
+    "y": 551.0,
+    "size": 90.0
+    },
+    {
+    "x": 885.0,
+    "y": 142.0,
+    "size": 110.0
+    }
+  ]
+}

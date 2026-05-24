@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "cosmonaut_in_space_a.jpg",
+  "image2": "cosmonaut_in_space_b.jpg",
+  "differences":
+  [
+    {
+      "x": 217.0,
+      "y": 583.0,
+      "size": 165.0
+    },
+    {
+      "x": 350.0,
+      "y": 460.0,
+      "size": 80.0
+    },
+    {
+      "x": 353.0,
+      "y": 220.0,
+      "size": 70.0
+    },
+    {
+      "x": 630.0,
+      "y": 625.0,
+      "size": 80.0
+    },
+    {
+      "x": 848.0,
+      "y": 563.0,
+      "size": 100.0
+    }
+  ]
+}

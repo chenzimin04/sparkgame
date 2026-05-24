@@ -1,0 +1,1222 @@
+
+ftdgdxScreens1920_h.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Layer 12
+  rotate: false
+  xy: 1913, 38
+  size: 122, 45
+  orig: 122, 45
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 1913, 38
+  size: 122, 45
+  orig: 122, 45
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: false
+  xy: 1913, 38
+  size: 122, 45
+  orig: 122, 45
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: false
+  xy: 1913, 38
+  size: 122, 45
+  orig: 122, 45
+  offset: 0, 0
+  index: -1
+cloud11
+  rotate: false
+  xy: 1913, 38
+  size: 122, 45
+  orig: 122, 45
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 2042, 1339
+  size: 3, 707
+  orig: 3, 707
+  offset: 0, 0
+  index: -1
+Layer 67 copy
+  rotate: false
+  xy: 1958, 1081
+  size: 67, 73
+  orig: 67, 73
+  offset: 0, 0
+  index: -1
+Layer 67 copy1
+  rotate: false
+  xy: 1958, 1081
+  size: 67, 73
+  orig: 67, 73
+  offset: 0, 0
+  index: -1
+Layer 67 copy2
+  rotate: false
+  xy: 1958, 1081
+  size: 67, 73
+  orig: 67, 73
+  offset: 0, 0
+  index: -1
+bottom
+  rotate: false
+  xy: 2, 28
+  size: 1909, 5
+  orig: 1909, 5
+  offset: 0, 0
+  index: -1
+top
+  rotate: false
+  xy: 2, 28
+  size: 1909, 5
+  orig: 1909, 5
+  offset: 0, 0
+  index: -1
+img_body_lu
+  rotate: false
+  xy: 924, 17
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+img_body_rb
+  rotate: false
+  xy: 924, 17
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+img_bttn_bg
+  rotate: false
+  xy: 1772, 1566
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+img_bttn_bg3
+  rotate: false
+  xy: 1851, 1375
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: -1
+img_bttn_play_handle
+  rotate: false
+  xy: 1139, 1560
+  size: 631, 486
+  orig: 631, 486
+  offset: 0, 0
+  index: -1
+img_buble_goal
+  rotate: false
+  xy: 2, 1045
+  size: 1135, 1001
+  orig: 1135, 1001
+  offset: 0, 0
+  index: -1
+img_buble_progress
+  rotate: false
+  xy: 1139, 1339
+  size: 710, 219
+  orig: 710, 219
+  offset: 0, 0
+  index: -1
+img_buble_todo
+  rotate: false
+  xy: 1022, 48
+  size: 788, 215
+  orig: 788, 215
+  offset: 0, 0
+  index: -1
+img_dialog_bg
+  rotate: false
+  xy: 1022, 265
+  size: 1018, 778
+  orig: 1018, 778
+  offset: 0, 0
+  index: -1
+img_es_game_label
+  rotate: false
+  xy: 1139, 1049
+  size: 817, 288
+  orig: 817, 288
+  offset: 0, 0
+  index: -1
+img_gift_icon
+  rotate: false
+  xy: 1812, 163
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+img_hand_to_zoom
+  rotate: false
+  xy: 1913, 85
+  size: 128, 178
+  orig: 128, 178
+  offset: 0, 0
+  index: -1
+img_help_icon1
+  rotate: false
+  xy: 1958, 1156
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+img_lu
+  rotate: false
+  xy: 1514, 14
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+img_lu1
+  rotate: false
+  xy: 1514, 14
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+img_lu2
+  rotate: false
+  xy: 1514, 14
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+img_lu3
+  rotate: false
+  xy: 1514, 14
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+img_number_icon
+  rotate: false
+  xy: 1938, 6
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+img_p_power_icon
+  rotate: false
+  xy: 1936, 1589
+  size: 101, 139
+  orig: 101, 139
+  offset: 0, 0
+  index: -1
+img_p_power_icon1
+  rotate: false
+  xy: 1936, 1589
+  size: 101, 139
+  orig: 101, 139
+  offset: 0, 0
+  index: -1
+img_p_power_icon2
+  rotate: false
+  xy: 1936, 1589
+  size: 101, 139
+  orig: 101, 139
+  offset: 0, 0
+  index: -1
+img_p_power_purchase_icon
+  rotate: false
+  xy: 1812, 55
+  size: 91, 106
+  orig: 91, 106
+  offset: 0, 0
+  index: -1
+img_play
+  rotate: false
+  xy: 1772, 1730
+  size: 261, 316
+  orig: 261, 316
+  offset: 0, 0
+  index: -1
+img_power
+  rotate: false
+  xy: 1958, 1228
+  size: 76, 109
+  orig: 76, 109
+  offset: 0, 0
+  index: -1
+img_power1
+  rotate: false
+  xy: 1913, 2
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+img_promo_dialog_item_bg
+  rotate: false
+  xy: 2, 35
+  size: 1018, 1008
+  orig: 1018, 1008
+  offset: 0, 0
+  index: -1
+img_separator_dialog
+  rotate: false
+  xy: 924, 23
+  size: 588, 3
+  orig: 588, 3
+  offset: 0, 0
+  index: -1
+img_separator_promo_dialog
+  rotate: false
+  xy: 924, 23
+  size: 588, 3
+  orig: 588, 3
+  offset: 0, 0
+  index: -1
+img_separator_promo_dialog1
+  rotate: false
+  xy: 924, 23
+  size: 588, 3
+  orig: 588, 3
+  offset: 0, 0
+  index: -1
+img_separator_wd
+  rotate: false
+  xy: 2, 20
+  size: 920, 6
+  orig: 920, 6
+  offset: 0, 0
+  index: -1
+
+ftdgdxScreens1920_h2.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Layer 1
+  rotate: false
+  xy: 1387, 41
+  size: 191, 47
+  orig: 191, 47
+  offset: 0, 0
+  index: -1
+cloud3
+  rotate: false
+  xy: 1387, 41
+  size: 191, 47
+  orig: 191, 47
+  offset: 0, 0
+  index: -1
+img_cloud
+  rotate: false
+  xy: 1387, 41
+  size: 191, 47
+  orig: 191, 47
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: false
+  xy: 1924, 1334
+  size: 9, 711
+  orig: 9, 711
+  offset: 0, 0
+  index: -1
+Layer 67 copy 2
+  rotate: false
+  xy: 1836, 1523
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+Layer 67 copy 21
+  rotate: false
+  xy: 1949, 1395
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+cloud9
+  rotate: false
+  xy: 1836, 1449
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+img_add_power
+  rotate: false
+  xy: 1893, 1618
+  size: 27, 60
+  orig: 27, 60
+  offset: 0, 0
+  index: -1
+img_add_power1
+  rotate: false
+  xy: 1997, 756
+  size: 34, 78
+  orig: 34, 78
+  offset: 0, 0
+  index: -1
+img_big_cloud
+  rotate: false
+  xy: 1084, 117
+  size: 307, 75
+  orig: 307, 75
+  offset: 0, 0
+  index: -1
+img_bttn_bg2
+  rotate: false
+  xy: 1834, 1115
+  size: 211, 211
+  orig: 211, 211
+  offset: 0, 0
+  index: -1
+img_bttn_bg5_green
+  rotate: false
+  xy: 1865, 156
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+img_bttn_bg5_green1
+  rotate: false
+  xy: 1865, 156
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+img_bttn_bg5_green2
+  rotate: false
+  xy: 1865, 156
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+img_bttn_bg5_green3
+  rotate: false
+  xy: 1865, 156
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+img_bttn_bg5_icon
+  rotate: false
+  xy: 1949, 1564
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+img_bttn_play_bg
+  rotate: false
+  xy: 1431, 90
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+img_de_game_label
+  rotate: false
+  xy: 1046, 1392
+  size: 788, 286
+  orig: 788, 286
+  offset: 0, 0
+  index: -1
+img_de_language
+  rotate: false
+  xy: 1865, 66
+  size: 160, 88
+  orig: 160, 88
+  offset: 0, 0
+  index: -1
+img_de_language_mm
+  rotate: false
+  xy: 1580, 32
+  size: 160, 56
+  orig: 160, 56
+  offset: 0, 0
+  index: -1
+img_download_icon copy
+  rotate: false
+  xy: 1811, 564
+  size: 184, 246
+  orig: 184, 246
+  offset: 0, 0
+  index: -1
+img_en_game_label
+  rotate: false
+  xy: 1046, 524
+  size: 763, 286
+  orig: 763, 286
+  offset: 0, 0
+  index: -1
+img_en_language
+  rotate: false
+  xy: 1831, 820
+  size: 160, 88
+  orig: 160, 88
+  offset: 0, 0
+  index: -1
+img_es_language_mm
+  rotate: false
+  xy: 1858, 8
+  size: 160, 56
+  orig: 160, 56
+  offset: 0, 0
+  index: -1
+img_fr_game_label
+  rotate: false
+  xy: 1046, 1102
+  size: 786, 288
+  orig: 786, 288
+  offset: 0, 0
+  index: -1
+img_grass
+  rotate: false
+  xy: 2, 1680
+  size: 1920, 365
+  orig: 1920, 365
+  offset: 0, 0
+  index: -1
+img_help_icon
+  rotate: false
+  xy: 1836, 1597
+  size: 55, 81
+  orig: 55, 81
+  offset: 0, 0
+  index: -1
+img_icon_lock
+  rotate: false
+  xy: 1865, 336
+  size: 181, 226
+  orig: 181, 226
+  offset: 0, 0
+  index: -1
+img_it_game_label
+  rotate: false
+  xy: 1046, 812
+  size: 783, 288
+  orig: 783, 288
+  offset: 0, 0
+  index: -1
+img_lang_pointer
+  rotate: false
+  xy: 1084, 16
+  size: 173, 99
+  orig: 173, 99
+  offset: 0, 0
+  index: -1
+img_link_icon
+  rotate: false
+  xy: 1393, 112
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+img_mark_big
+  rotate: false
+  xy: 1834, 910
+  size: 203, 203
+  orig: 203, 203
+  offset: 0, 0
+  index: -1
+img_no_icon
+  rotate: false
+  xy: 1949, 1752
+  size: 90, 95
+  orig: 90, 95
+  offset: 0, 0
+  index: -1
+img_no_icon1
+  rotate: false
+  xy: 1949, 1752
+  size: 90, 95
+  orig: 90, 95
+  offset: 0, 0
+  index: -1
+img_off
+  rotate: false
+  xy: 1834, 1329
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+img_power copy
+  rotate: false
+  xy: 1380, 447
+  size: 49, 75
+  orig: 49, 75
+  offset: 0, 0
+  index: -1
+img_power2
+  rotate: false
+  xy: 1380, 379
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+img_promo_banner_bounds
+  rotate: false
+  xy: 2, 24
+  size: 1080, 168
+  orig: 1080, 168
+  offset: 0, 0
+  index: -1
+img_promo_banner_view
+  rotate: false
+  xy: 2, 24
+  size: 1080, 168
+  orig: 1080, 168
+  offset: 0, 0
+  index: -1
+img_promo_item_bg
+  rotate: false
+  xy: 2, 369
+  size: 1018, 238
+  orig: 1018, 238
+  offset: 0, 0
+  index: -1
+img_purchase_item_bg
+  rotate: false
+  xy: 2, 369
+  size: 1018, 238
+  orig: 1018, 238
+  offset: 0, 0
+  index: -1
+img_scroll_levels_lu
+  rotate: false
+  xy: 1393, 150
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+img_scroll_levels_rb
+  rotate: false
+  xy: 1393, 150
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+img_scroll_moreapps_lu
+  rotate: false
+  xy: 1393, 150
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+img_scroll_moreapps_rb
+  rotate: false
+  xy: 1393, 150
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+img_scroll_purchaselist_lu
+  rotate: false
+  xy: 1393, 150
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+img_scroll_purchaselist_rb
+  rotate: false
+  xy: 1393, 150
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+img_settings_icon
+  rotate: false
+  xy: 1949, 1657
+  size: 91, 93
+  orig: 91, 93
+  offset: 0, 0
+  index: -1
+img_settings_icon1
+  rotate: false
+  xy: 1949, 1470
+  size: 90, 92
+  orig: 90, 92
+  offset: 0, 0
+  index: -1
+img_settings_icon2
+  rotate: false
+  xy: 1949, 1470
+  size: 90, 92
+  orig: 90, 92
+  offset: 0, 0
+  index: -1
+img_settings_icon3
+  rotate: false
+  xy: 1949, 1470
+  size: 90, 92
+  orig: 90, 92
+  offset: 0, 0
+  index: -1
+img_settings_tut
+  rotate: false
+  xy: 1836, 1388
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+img_snd_on_icon
+  rotate: false
+  xy: 1993, 836
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+img_swap_orientation_to_land_icon
+  rotate: false
+  xy: 1201, 392
+  size: 177, 130
+  orig: 177, 130
+  offset: 0, 0
+  index: -1
+img_swap_orientation_to_port_icon
+  rotate: false
+  xy: 1022, 389
+  size: 177, 133
+  orig: 177, 133
+  offset: 0, 0
+  index: -1
+img_swap_orientation_to_port_icon_tut
+  rotate: false
+  xy: 1742, 2
+  size: 114, 86
+  orig: 114, 86
+  offset: 0, 0
+  index: -1
+img_toast_bg
+  rotate: false
+  xy: 2, 194
+  size: 1427, 173
+  orig: 1427, 173
+  offset: 0, 0
+  index: -1
+img_wd_bg
+  rotate: false
+  xy: 2, 609
+  size: 1042, 1069
+  orig: 1042, 1069
+  offset: 0, 0
+  index: -1
+img_yes_icon
+  rotate: false
+  xy: 1259, 16
+  size: 126, 99
+  orig: 126, 99
+  offset: 0, 0
+  index: -1
+img_yes_icon1
+  rotate: false
+  xy: 1259, 16
+  size: 126, 99
+  orig: 126, 99
+  offset: 0, 0
+  index: -1
+img_yes_icon2
+  rotate: false
+  xy: 1259, 16
+  size: 126, 99
+  orig: 126, 99
+  offset: 0, 0
+  index: -1
+img_yes_icon3
+  rotate: false
+  xy: 1259, 16
+  size: 126, 99
+  orig: 126, 99
+  offset: 0, 0
+  index: -1
+img_zoom_in_icon
+  rotate: false
+  xy: 1949, 1948
+  size: 90, 97
+  orig: 90, 97
+  offset: 0, 0
+  index: -1
+img_zoom_in_icon copy
+  rotate: false
+  xy: 1949, 1330
+  size: 58, 63
+  orig: 58, 63
+  offset: 0, 0
+  index: -1
+img_zoom_out_icon
+  rotate: false
+  xy: 1949, 1849
+  size: 90, 97
+  orig: 90, 97
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 1935, 1328
+  size: 5, 717
+  orig: 5, 717
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 1942, 1328
+  size: 5, 717
+  orig: 5, 717
+  offset: 0, 0
+  index: -1
+
+ftdgdxScreens1920_h3.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Layer 11
+  rotate: false
+  xy: 716, 1467
+  size: 120, 45
+  orig: 120, 45
+  offset: 0, 0
+  index: -1
+blank
+  rotate: false
+  xy: 510, 485
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ftdgdx_icon
+  rotate: false
+  xy: 2, 85
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+img_aim
+  rotate: false
+  xy: 1391, 1559
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+img_aim copy
+  rotate: false
+  xy: 856, 1367
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+img_back_icon
+  rotate: false
+  xy: 407, 444
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+img_bttn_bg1
+  rotate: false
+  xy: 278, 596
+  size: 241, 241
+  orig: 241, 241
+  offset: 0, 0
+  index: -1
+img_bttn_bg2_icon
+  rotate: false
+  xy: 748, 1222
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+img_promo_banner_circle
+  rotate: false
+  xy: 748, 1222
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+img_bttn_bg4
+  rotate: false
+  xy: 1860, 1863
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+img_bttn_bg5
+  rotate: false
+  xy: 869, 1513
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+img_bttn_bg5_red
+  rotate: false
+  xy: 568, 1246
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+img_bttn_bg5_red1
+  rotate: false
+  xy: 568, 1246
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+img_bttn_bg7
+  rotate: false
+  xy: 521, 677
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+img_bttn_bg8
+  rotate: false
+  xy: 683, 546
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+img_bttn_bg9
+  rotate: false
+  xy: 276, 295
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+img_buble_hint
+  rotate: false
+  xy: 2, 1132
+  size: 564, 292
+  orig: 564, 292
+  offset: 0, 0
+  index: -1
+img_buble_hint1
+  rotate: false
+  xy: 2, 1426
+  size: 712, 302
+  orig: 712, 302
+  offset: 0, 0
+  index: -1
+img_buble_pwoer
+  rotate: false
+  xy: 739, 1827
+  size: 710, 219
+  orig: 710, 219
+  offset: 0, 0
+  index: -1
+img_buble_skip
+  rotate: false
+  xy: 2, 839
+  size: 564, 291
+  orig: 564, 291
+  offset: 0, 0
+  index: -1
+img_de_moreapps_icon
+  rotate: false
+  xy: 743, 1017
+  size: 109, 92
+  orig: 109, 92
+  offset: 0, 0
+  index: -1
+img_download_error_icon
+  rotate: false
+  xy: 1229, 1679
+  size: 160, 146
+  orig: 160, 146
+  offset: 0, 0
+  index: -1
+img_download_in_progress_icon
+  rotate: false
+  xy: 907, 1665
+  size: 159, 160
+  orig: 159, 160
+  offset: 0, 0
+  index: -1
+img_en_language_mm
+  rotate: false
+  xy: 278, 547
+  size: 160, 47
+  orig: 160, 47
+  offset: 0, 0
+  index: -1
+img_en_moreapps_icon
+  rotate: false
+  xy: 206, 32
+  size: 110, 91
+  orig: 110, 91
+  offset: 0, 0
+  index: -1
+img_es_language
+  rotate: false
+  xy: 568, 821
+  size: 160, 88
+  orig: 160, 88
+  offset: 0, 0
+  index: -1
+img_es_moreapps_icon
+  rotate: false
+  xy: 510, 390
+  size: 106, 93
+  orig: 106, 93
+  offset: 0, 0
+  index: -1
+img_fr_language
+  rotate: false
+  xy: 521, 587
+  size: 160, 88
+  orig: 160, 88
+  offset: 0, 0
+  index: -1
+img_fr_language_mm
+  rotate: false
+  xy: 1666, 1815
+  size: 160, 47
+  orig: 160, 47
+  offset: 0, 0
+  index: -1
+img_fr_moreapps_icon
+  rotate: false
+  xy: 1021, 1443
+  size: 106, 92
+  orig: 106, 92
+  offset: 0, 0
+  index: -1
+img_icon_check
+  rotate: false
+  xy: 1506, 1566
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+img_icon_download
+  rotate: false
+  xy: 1391, 1674
+  size: 113, 151
+  orig: 113, 151
+  offset: 0, 0
+  index: -1
+img_icon_lock1
+  rotate: false
+  xy: 316, 163
+  size: 104, 130
+  orig: 104, 130
+  offset: 0, 0
+  index: -1
+img_icon_play
+  rotate: false
+  xy: 748, 1343
+  size: 106, 122
+  orig: 106, 122
+  offset: 0, 0
+  index: -1
+img_it_language
+  rotate: false
+  xy: 1651, 1725
+  size: 160, 88
+  orig: 160, 88
+  offset: 0, 0
+  index: -1
+img_it_language_mm
+  rotate: false
+  xy: 1651, 1674
+  size: 160, 49
+  orig: 160, 49
+  offset: 0, 0
+  index: -1
+img_it_moreapps_icon
+  rotate: false
+  xy: 1635, 1490
+  size: 106, 92
+  orig: 106, 92
+  offset: 0, 0
+  index: -1
+img_level_number_bg
+  rotate: false
+  xy: 743, 1111
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+img_list_icon
+  rotate: false
+  xy: 1666, 1864
+  size: 192, 182
+  orig: 192, 182
+  offset: 0, 0
+  index: -1
+img_mark_middle
+  rotate: false
+  xy: 1068, 1666
+  size: 159, 159
+  orig: 159, 159
+  offset: 0, 0
+  index: -1
+img_mark_small
+  rotate: false
+  xy: 276, 416
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+img_more_levels_icon
+  rotate: false
+  xy: 665, 677
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+img_pp
+  rotate: false
+  xy: 568, 1071
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+img_promo_dialog_circle
+  rotate: false
+  xy: 716, 1514
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+img_promo_dialog_item_icon
+  rotate: false
+  xy: 2, 563
+  size: 274, 274
+  orig: 274, 274
+  offset: 0, 0
+  index: -1
+img_promo_item_icon copy
+  rotate: false
+  xy: 1451, 1833
+  size: 213, 213
+  orig: 213, 213
+  offset: 0, 0
+  index: -1
+img_reset_icon
+  rotate: false
+  xy: 1021, 1537
+  size: 113, 126
+  orig: 113, 126
+  offset: 0, 0
+  index: -1
+img_ru_game_label
+  rotate: false
+  xy: 2, 1730
+  size: 735, 316
+  orig: 735, 316
+  offset: 0, 0
+  index: -1
+img_ru_language
+  rotate: false
+  xy: 1229, 1589
+  size: 160, 88
+  orig: 160, 88
+  offset: 0, 0
+  index: -1
+img_ru_language_mm
+  rotate: false
+  xy: 2, 30
+  size: 160, 53
+  orig: 160, 53
+  offset: 0, 0
+  index: -1
+img_ru_moreapps_icon
+  rotate: false
+  xy: 1743, 1491
+  size: 104, 91
+  orig: 104, 91
+  offset: 0, 0
+  index: -1
+img_skip_icon
+  rotate: false
+  xy: 856, 1420
+  size: 126, 91
+  orig: 126, 91
+  offset: 0, 0
+  index: -1
+img_skip_icon copy
+  rotate: false
+  xy: 440, 547
+  size: 64, 47
+  orig: 64, 47
+  offset: 0, 0
+  index: -1
+img_sound_icon
+  rotate: false
+  xy: 206, 125
+  size: 108, 162
+  orig: 108, 162
+  offset: 0, 0
+  index: -1
+img_star_big_off
+  rotate: false
+  xy: 568, 911
+  size: 166, 158
+  orig: 166, 158
+  offset: 0, 0
+  index: -1
+img_star_big_on
+  rotate: false
+  xy: 739, 1667
+  size: 166, 158
+  orig: 166, 158
+  offset: 0, 0
+  index: -1
+img_star_middle_off
+  rotate: false
+  xy: 736, 912
+  size: 108, 103
+  orig: 108, 103
+  offset: 0, 0
+  index: -1
+img_star_middle_on
+  rotate: false
+  xy: 318, 58
+  size: 108, 103
+  orig: 108, 103
+  offset: 0, 0
+  index: -1
+img_star_small_off
+  rotate: false
+  xy: 318, 2
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+img_star_small_on
+  rotate: false
+  xy: 377, 2
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+img_under_construction_icon
+  rotate: false
+  xy: 1506, 1695
+  size: 143, 136
+  orig: 143, 136
+  offset: 0, 0
+  index: -1
+img_watch_video
+  rotate: false
+  xy: 1635, 1584
+  size: 142, 88
+  orig: 142, 88
+  offset: 0, 0
+  index: -1
+level_bg
+  rotate: false
+  xy: 2, 289
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+promo_dialog_item_bg
+  rotate: false
+  xy: 2, 289
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1

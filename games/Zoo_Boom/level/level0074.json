@@ -1,0 +1,23 @@
+ {
+	"sizeX":9,
+	"sizeY":9,
+	"stars":{"avg":6, "top":16 },
+	"moves":45,
+	"add":[		
+		{ "x":1, "y":5, "dx":7, "dy":1, "type":"COLOR_BOX", "count":true, "params":{ "color":"RED" } },
+		{ "x":0, "y":4, "dx":9, "dy":1, "type":"CRACKLING", "count":true },
+		{ "x":1, "y":3, "dx":7, "dy":1, "type":"COLOR_BOX", "count":true, "params":{ "color":"BLUE" } },
+		{ "x":0, "y":0, "dx":9, "dy":3, "type":"CRACKLING", "count":true }
+	],
+	"allowedGemTypes":["GEM_PURPLE","GEM_YELLOW","GEM_RED","GEM_BLUE"],
+	"field":[ 
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"oxxxxxxxo",
+		"xxxxxxxxx",
+		"oxxxxxxxo",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx"]
+ }

@@ -1,0 +1,215 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 677,
+				"x": 385,
+				"var": "pngBg",
+				"top": 0,
+				"skin": "images/grid/maskGuide.png",
+				"sizeGrid": "2,3,4,3",
+				"right": 0,
+				"left": 0,
+				"bottom": 0,
+				"anchorY": 0.5,
+				"anchorX": 0.5,
+				"alpha": 0.83
+			},
+			"compId": 3
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 217,
+				"x": 0,
+				"width": 750,
+				"var": "centerBox",
+				"mouseThrough": true,
+				"height": 900
+			},
+			"compId": 4,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": -4,
+						"x": 99,
+						"var": "topIcon",
+						"skin": "images/award/icon_bt_bg.png"
+					},
+					"compId": 39,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 24,
+								"x": 151,
+								"skin": "images/award/icon_bt_gxhd.png"
+							},
+							"compId": 24
+						}
+					]
+				},
+				{
+					"type": "Box",
+					"props": {
+						"y": 336,
+						"x": 524,
+						"width": 10,
+						"var": "item2",
+						"height": 10,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 27
+				},
+				{
+					"type": "Box",
+					"props": {
+						"y": 336,
+						"x": 222,
+						"width": 10,
+						"var": "item1",
+						"height": 10,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 25
+				},
+				{
+					"type": "Box",
+					"props": {
+						"y": 155,
+						"x": 0,
+						"width": 750,
+						"var": "patchBox",
+						"height": 320
+					},
+					"compId": 44
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 599,
+						"x": 375,
+						"width": 320,
+						"var": "btnDouble",
+						"skin": "images/award/button_yellow.png",
+						"sizeGrid": "0,57,0,62",
+						"height": 120,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 33,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 26,
+								"x": 108,
+								"var": "imgAd",
+								"skin": "images/award/icon_word_sblq.png"
+							},
+							"compId": 36,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 2,
+										"skin": "images/award/button_sp.png",
+										"left": -71
+									},
+									"compId": 35
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 28,
+								"x": 108,
+								"var": "imgShare",
+								"skin": "images/award/icon_word_sblq.png",
+								"rotation": 0
+							},
+							"compId": 42,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": -15,
+										"x": -83,
+										"skin": "images/award/iconShare.png"
+									},
+									"compId": 43
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 761,
+						"x": 375,
+						"width": 320,
+						"var": "btnGet",
+						"skin": "images/award/button_blue.png",
+						"sizeGrid": "0,57,0,62",
+						"height": 120,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 34,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 26,
+								"x": 113,
+								"skin": "images/award/button_word_qd.png"
+							},
+							"compId": 41
+						}
+					]
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 741,
+						"x": 375,
+						"visible": false,
+						"var": "labGet",
+						"underline": true,
+						"text": "Cancel",
+						"fontSize": 40,
+						"color": "#ffffff",
+						"bold": true,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 45
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/grid/maskGuide.png",
+		"images/award/icon_bt_bg.png",
+		"images/award/icon_bt_gxhd.png",
+		"images/award/button_yellow.png",
+		"images/award/icon_word_sblq.png",
+		"images/award/button_sp.png",
+		"images/award/iconShare.png",
+		"images/award/button_blue.png",
+		"images/award/button_word_qd.png"
+	],
+	"loadList3D": []
+}

@@ -1,0 +1,1034 @@
+ID,hr-HR
+ad_failed.button,OK
+ad_failed.message,"Trenutno nema dostupnog videa, molimo pokušajte ponovno kasnije."
+ad_failed.title,Ups...
+ad_magic.button,Gledati
+ad_magic.message,Pogledajte kratki klip kako biste dobili nagradu.
+ad_magic.title,Slatka Svinjica-Magija
+android_app.button,Instalirati
+android_app.text.release,Dragi prijatelji! S radošću vam javljamo da je naša igra sada dostupna na Androidu. Idite i preuzmite aplikaciju!
+android_app.title,Sada na Androidu!
+android_update.restart.no,Kasnije
+android_update.restart.text,Instalirati sada?
+android_update.restart.title,Ažuriranje spremno!
+android_update.restart.yes,Da
+avatar_already_changed.button,U redu
+avatar_already_changed.message,Vaša slika profila je već promijenjena. Sliku profila možete promijeniti SAMO JEDNOM.
+bookmark.daily,Izazov
+bookmark.friends,Prijatelji
+bookmark.settings,Postavke
+booster_hint.cross,%booster_shop.hint.ingame.cross%
+booster_hint.hammer,%booster_shop.hint.ingame.hammer%
+booster_hint.hand,%booster_shop.hint.ingame.hand%
+booster_shop.buy,Kupiti #count
+booster_shop.hint.ingame.cross,Koristite čarobnu palicu da uklonite jedan red i jednu kolonu komadića.
+booster_shop.hint.ingame.hammer,Uklonite pločice udarajući ih Čekićem!
+booster_shop.hint.ingame.hand,Koristite Rukavicu da zamijenite bilo koje susjedne komade!
+booster_shop.hint.prelevel.add_bomb,Počnite bilo koju razinu s Bombom već na ploči!
+booster_shop.hint.prelevel.add_line,Počnite bilo koju razinu s linijom već na ploči!
+booster_shop.hint.prelevel.add_omni,Počnite bilo koju razinu s munjom već na ploči!
+booster_shop.hint.prelevel.add_tint,Počnite bilo koju razinu s bojom već na ploči!
+booster_shop.hint.prelevel.double_fly,Udvostručite sve Svjetlucave stvorene tijekom ovog razine!
+booster_shop.title.ingame.cross,Čarobna Štapić
+booster_shop.title.ingame.hammer,Čekić
+booster_shop.title.ingame.hand,Rukavica
+booster_shop.title.prelevel.add_bomb,Booster Bomba
+booster_shop.title.prelevel.add_line,Booster Linija
+booster_shop.title.prelevel.add_omni,Booster Munje
+booster_shop.title.prelevel.add_tint,Booster Bojenje
+booster_shop.title.prelevel.double_fly,Booster Vatromet x2
+chest_open.collection_complete,Skupljeno!
+chest_open.ok,U redu
+chest_opening.button,Odlično!
+chest_opening.reward,Nagrada
+conflict_popup.continue,Nastaviti
+conflict_popup.hint_syncing,Sinhroniziramo...
+conflict_popup.skip,Nastavite van mreže
+credits.art,Dizajn umjetnosti
+credits.artists,"Veliko ljubavi našim prijateljima grafičkim umjetnicima
+za prekrasne avatare!"
+credits.gamedesign,Dizajn igre
+credits.mentions,"Posebna zahvala
+našim prijateljima ;)"
+credits.programming,Programiranje
+credits.title,Naš tim!
+daily_help.button,OK
+daily_help.chest,Glavna nagrada
+daily_help.reward,Jednokratna nagrada
+daily_help.text,"Svakodnevno igrači pokazuju svoje vještine i natječu se na jednoj razini.
+
+Igrač s najvišim rezultatom će dobiti nagradu dana - Krunu i Sanduk Dragulja!"
+daily_help.title,Svakodnevni Izazov
+daily_reward.button,Odlično!
+daily_reward.reward,Nagrada
+daily_reward.title.place_1,Vi ste pobjednik Dnevnog izazova!
+daily_reward.title.place_generic,"Dnevni izazov završen
+Vi ste rangirani \##place!"
+daily.drag_to_update,Povucite za osvježavanje
+daily.epic_sunday_ribbon,Prijateljski Izazov
+daily.finishes_in,Izazov završava za #time
+daily.finishes_now,Izazov završen!
+daily.high_score,Novi Rekord!
+daily.medal_chest_text,Skupite #amount medalja!
+daily.next_time,Sljedeći dnevni izazov u #vrijeme
+daily.next_time_now,Počeo je novi dnevni izazov!
+daily.no_yesterday_yet,Niste sudjelovali u prethodnom Dnevnom Izazovu
+daily.play,Igraj
+daily.retry_submit,Ponovno pokušaj
+daily.rewards_tab,Nagrade iz dnevnog izazova
+daily.rewards.bubble,"Skupljaj zvijezde i medalje
+da otvoriš sanduke s blagom!"
+daily.score_not_accepted,Ovi rezultati se ne računaju u tablici rezultata jer ste završili igru nakon završetka Dnevnog izazova.
+daily.star_chest_claim,Otvoriti
+daily.star_chest_collected_text,Dođite sutra za još jedno blago
+daily.star_chest_text,Završite sa 3 zvjezdice 7 Dnevnih Izazova zaredom!
+daily.submit_error,Nije uspjelo poslati rezultate
+daily.today,Svakodnevni Izazov
+daily.today_mark,Danas
+daily.update_error,Nema internetske veze
+daily.wait_text,
+daily.watch_replay.button,Gledati
+daily.watch_replay.text,Snimka igre
+daily.welcome_reward_first,%daily_help.text%
+daily.welcome_text,Jupi! Novi Dnevni Izazov je počeo!
+daily.yesterday,Jučerašnji Ladder
+daily.yesterday_updating,Dohvaćanje rezultata...
+demo.finished.text,"Čestitamo, uspješno ste završili probnu verziju! Igrajte punu verziju besplatno na <p class=""ma-link"">PecPoc.com<p class=""demo-hint"">Vaš napredak neće biti izgubljen."
+demo.nag.text,"Besplatni bonusi dostupni su samo u punoj verziji. Nastavite igrati punu verziju na <p class=""ma-link"">PecPoc.com<p class=""demo-hint"">Vaš napredak neće biti izgubljen."
+event_ny.next_in_hint,Uzmi sljedeći poklon za: #time
+event_ny.title,Novogodišnji pokloni
+fake_ad.reward_in,Nagrada za...
+fake_ad.tutorial,"Nažalost, trenutno nema dostupnog videa...
+Ne brinite, umjesto toga ćemo imati neke Piggy-Magic čarolije!"
+fake_ad.your_ad_here,Vaša reklama ovdje
+fb_login_failed.message,Nije uspjelo povezivanje s Facebookom. Pokušati ponovno?
+fb_notification.button,Povezati
+fb_notification.message,Povežite se na Facebook kako biste sinkronizirali svoj napredak online!
+fb_notification.no_post_hint,Nikada nećemo objaviti bez vašeg odobrenja.
+fb_notification.title,Spremite svoj napredak
+feedback.failed.button,Nastaviti
+feedback.failed.message,"Nije moguće poslati povratne informacije.
+Provjerite svoju internetsku vezu.
+"
+feedback.failed.title,Ups...
+feedback.ok.button,U redu
+feedback.ok.message,"Primili smo vašu povratnu informaciju.
+Hvala vam što nam pomažete u poboljšanju igre."
+feedback.ok.title,Povratna informacija poslana!
+friends_tab.failed_social.button,Provjeriti
+friends_tab.failed_social.text,Moramo provjeriti vezu da bismo ažurirali popis prijatelja.
+friends_tab.has_fb.button,Pozovite prijatelje
+friends_tab.has_fb.text,"Što više prijatelja imaš, to ćeš dobiti više poklona!"
+friends_tab.no_fb.button,Poveži
+friends_tab.no_fb.hint,Nikada nećemo objaviti bez vašeg odobrenja.
+friends_tab.no_fb.text,Povežite se na Facebook i primite poklone od prijatelja i pratite njihov napredak.
+friends_tab.no_permission.button,Da
+friends_tab.no_permission.text,Dopustite pristup vašem popisu prijatelja da biste dobili više poklona?
+friends_tab.no_social.text,Povežite se s društvenim mrežama i primajte poklone od prijatelja i pratite njihov napredak.
+friends_tab.no_y8.button,Povezati
+friends_tab.no_y8.text,Povežite Y8 i primajte poklone od prijatelja i pratite njihov napredak.
+friends_tab.ok_invite_button,Pozovite prijatelje
+friends_tab.ok_invite_gift_text,"Što više prijatelja imaš, to ćeš dobiti više poklona!"
+friends_tab.ok_invite_text,"Što više prijatelja imaš, to ćeš dobiti više poklona!"
+friends_tab.title,Prijatelji
+friends_tab.vk_friends_permission_button,Da
+friends_tab.vk_friends_permission_text,Dopustite pristup vašem popisu prijatelja da biste dobili više poklona?
+friends_tab.vk_invite_button,Pozovite prijatelje
+friends_tab.vk_invite_text,"Što više prijatelja imaš, to ćeš dobiti više poklona!"
+friends.gift.claim,Otvoriti
+game_results.click_to_continue,Kliknite da nastavite
+game_results.tap_to_continue,Tapnite da nastavite
+game.click_to_continue,Kliknite da nastavite
+game.info.ahead,VI STE #fmtnum POTEZA ISPRED
+game.info.behind,ZAOSTAJETE ZA #fmtnum POTEZA
+game.info.goals,Cilj
+game.info.moves,POTEZI
+game.info.pause,PAUZA
+game.info.undo,POVRATITI
+game.pause.continue,"<font color=""\#408fda"">Nastavite igru"
+game.pause.leave_forfeit,"<font color=""\#ff0000"">Završi igru"
+game.pause.leave_safe,Završi igru
+game.pause.title,Pauza
+game.shoutout.their_game_result,Rezultat: #score
+game.shoutout.well_done,Odlično!
+game.shoutout.your_game_result,Vaš rezultat: #score
+game.tap_to_continue,Tapnite da nastavite
+game.tutorial.continue,Nastaviti
+gamemode.capital.aquarium,RIBE
+gamemode.capital.bird,PTIČICI
+gamemode.capital.bubble,Mjehurići
+gamemode.capital.cats,MAČIĆI
+gamemode.capital.chocolate,LAVA
+gamemode.capital.diamonds,DIAMANTI
+gamemode.capital.ducks,PATKE
+gamemode.capital.energy_cube_reciever,KRISTALI
+gamemode.capital.energycube,ŽELE
+gamemode.capital.fishes,MRKVA
+gamemode.capital.flower,CVJEĆE
+gamemode.capital.food,ŠTENGE
+gamemode.capital.fossils,OSIMINOGE
+gamemode.capital.frog,ŽABE
+gamemode.capital.grass,TRAVA
+gamemode.capital.gum,LIPEK
+gamemode.capital.honeybee,MEDVJEDI
+gamemode.capital.hotlava,LAVA
+gamemode.capital.ice,LED
+gamemode.capital.jam,ENERGIJA
+gamemode.capital.jam_reciever,KRISTALI
+gamemode.capital.pearl,BISERI
+gamemode.capital.road,PRASETE
+gamemode.capital.sausage,KOBASICE
+gamemode.capital.statue,PSI
+gamemode.capital.stone,KAMENJE
+gamemode.capital.tasks,NARUDŽBE
+gamemode.capital.tiles,TRAVA
+gamemode.capital.waterfish,RIBE
+gamemode.capital.blooplet,BLOPLICI
+gameresult.adventure.completed_continue,Nastaviti
+gameresult.adventure.leave,Napustiti
+gameresult.adventure.play_next,Nastaviti
+gameresult.adventure.retry,Ponovno pokušaj
+gameresult.boosters,Odaberite Boosteri
+gameresult.complete.line1,Razina
+gameresult.complete.line2,Završeno!
+gameresult.continue,Nastaviti
+gameresult.daily.continue,Nastaviti
+gameresult.daily.leave,Izlaz
+gameresult.daily.retry,Igraj
+gameresult.dash,-
+gameresult.forfeit,Odustali ste!
+gameresult.map.continue,Nastaviti
+gameresult.map.retry,Ponovno pokušaj
+gameresult.pvp.continue,Nastaviti
+gameresult.pvp.play_another,Različiti nivo
+gameresult.pvp.play_next,Različiti nivo
+gameresult.pvp.rematch_lose,Ponovno meč
+gameresult.pvp.rematch_win_draw,Igraj ponovno
+gameresult.rematch,Ponovno meč
+gameresult.rematch_bet,Ulog #bet
+gameresult.required_ticket,Potrebno
+gameresult.retry,Igraj ponovno
+gameresult.rewards,Nagrada
+gameresult.title.completed,"<font color=""\#20ea6d"">Razina završena!"
+gameresult.title.draw,"<font color=""\#5885B8"">Izjednačeno"
+gameresult.title.lose,"<font color=""\#ff5666"">Izgubili ste"
+gameresult.title.win,"<font color=""\#47f05f"">Pobijedili ste!"
+gameresult.vs,VS
+gameresults.inter_ad_in_large,#count igara do
+gameresults.inter_ad_in_small,#count igre do
+gems_shop.title,Dućan dragulja
+global.click_to_continue,Kliknite da nastavite
+global.default_player_name,Igrač
+global.tap_to_continue,Tapnite da nastavite
+home.hint_daiy,Pokušajte Dnevni Izazov
+home.hint_play_pvp,Još uvijek možete igrati dvoboje čak i ako ste bez života!
+home.play,Igraj
+html.loading,Učitavanje
+iap_failed.button,U redu
+iap_failed.message,Kupnja nije uspjela.
+iap_need_facebook.message,Povežite se na Facebook kako biste dopunili dragulje.
+iap_pending.button,U redu
+iap_pending.message,Vaša kupnja se obrađuje
+intro_screen.another_device,Kodom
+intro_screen.login_back,Natrag
+intro_screen.login_button,Prijaviti se
+intro_screen.login_fb,Facebook
+intro_screen.login_ok,Odnoklassniki
+intro_screen.login_singular,Prijaviti se
+intro_screen.login_vk,Vkontakte
+intro_screen.login_with,Prijavite se s
+intro_screen.login_y8,Y8
+intro_screen.login_yandex,Yandex
+intro_screen.new_player,Novi igrač
+introprofile.accept_avatar,Odabrati
+introprofile.accept_name,Nastaviti
+introprofile.editavatar,Odaberite sliku profila
+introprofile.editname,Unesite svoje ime
+invite_request.message,"Hajde da zajedno igramo najbolju igru ""tri u nizu""!"
+invite_request.title,Odaberite prijatelje da zajedno igrate Skydom
+level_popup.goals,Cilj
+level_popup.play,Igraj
+level_popup.prelevel_boosters,Odaberite Boosteri
+level_popup.title,Razina #level
+level_popup.title_hard,Teško
+level_popup.title_ultra_hard,Super teško
+level_popup.title_very_hard,Vrlo teško
+link.support,https://Skydom.freshdesk.com/en/support/solutions
+link.support_beta,https://Skydombeta.freshdesk.com/en/support/solutions
+lives_shop.buy_all,Kupiti 5
+lives_shop.hint,"Trebate živote da
+nastavite igrati Avanturu
+"
+lives_shop.recharge,Sljedeći život: #time
+lives_shop.title,Životi
+lives_shop.watch_ad_button,Gledati
+lives_shop.watch_ad_text,Besplatno 1
+load_player.almost_done,Skoro gotovo...
+load_player.continue_offline,Nastavite van mreže
+load_player.loading_save,Učitavanje podataka igrača...
+load_player.loading_save_failed,Nije uspjelo učitati podatke igrača.
+load_player.loading_save_failed_in,"Nije bilo moguće učitati podatke igrača.
+Ponovno pokušavanje za #time...
+"
+load_player.logging_in,Prijavljujemo se...
+load_player.logging_in_failed,Nije uspjelo prijaviti se.
+load_player.logging_in_failed_in,"Nije uspjelo prijaviti se.
+Pokušavamo ponovno za #time...
+"
+load_player.new_player,Ja sam novi igrač
+load_player.retry_now,Pokušajte sada
+login_failed.button,Ponovno pokušaj
+login_failed.title,Neuspješno povezivanje
+magic.click_to_continue,Kliknite da nastavite
+magic.reward,Nagrada
+magic.tap_to_continue,Tapnite da nastavite
+map.gates_coming_soon,"Nove razine
+uskoro stižu!"
+match3.level_complete.line1,Svi Ciljevi
+match3.level_complete.line2,Postignuto!
+match3.score_pve,#score/#required
+match3.shoutout.1_move,Zadnji potez!
+match3.shoutout.2_moves,2 poteza
+match3.shoutout.5_moves,5 poteza
+match3.shoutout.no_moves,Nema više poteza
+match3.shoutout.no_reshuffle,"Nemoguće je ponovno izmiješati
+Nema mogućih poteza
+"
+merge.button.mine,Odabrati
+merge.button.their,Odabrati
+merge.description.account_merge,"Čini se da ste već igrali Skydom.
+Odaberite željeni profil!"
+merge.description.ingame_conflict,%merge.description.login_conflict%
+merge.description.login_conflict,"Igrao si s više uređaja.
+Odaberite željeno spremanje.
+"
+merge.hint.mine,lokalno
+merge.hint.their,s poslužitelja
+merge.title,Sinhronizacija napretka
+modal.adblock.button,U redu
+modal.adblock.text,Primijetili smo da koristite blokator oglasa.<br>Molimo vas da ga isključite za ovu stranicu kako biste mogli gledati video.
+modal.adblock.title,Blokator oglasa
+modal.error.button,Osvježi
+modal.error.text,"Žao nam je, došlo je do pogreške. Molimo Vas da osvježite stranicu."
+modal.error.title,Ups! Nešto je pošlo po zlu...
+modal.fb_login_proxy.button,Nastaviti
+modal.fb_login_proxy.text,Povezivanje s Facebookom
+modal.fb_login_proxy.title,
+modal.fb_purchase_proxy.button,Nastaviti
+modal.fb_purchase_proxy.gems,Dragulji
+modal.first_login_failed.button,Ponovno pokušaj
+modal.first_login_failed.text,Ne možemo se trenutno povezati s Skydomom. Molimo Vas pokušajte ponovno kasnije.
+modal.first_login_failed.title,Neuspjelo povezivanje
+modal.gpu_error.button,Više informacija
+modal.gpu_error.text,Čini se da morate omogućiti GPU-u ubrzanje u vašem pregledniku da biste pokrenuli igru.
+modal.gpu_error.title,Hmm..
+modal.maintenance.button,U redu
+modal.maintenance.text,Održavanje će se obaviti u<br> <b>#time</b><br> tijekom 3 sata.<br>Cloud spremanje i sinkronizacija napretka neće raditi.
+modal.maintenance.title,Održavanje
+modal.no_hardware_accel_ff.button,U redu
+modal.no_hardware_accel_ff.text,"Vaš preglednik prijavljuje problem s performansama, igra može raditi vrlo sporo!
+
+Da biste popravili, molimo pročitajte <a target=""_blank""  href=""https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features"">https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features</a>
+"
+modal.no_hardware_accel_ff.title,Problemi s performansama
+modal.no_hardware_accel.button,U redu
+modal.no_hardware_accel_vk.button,U redu
+modal.no_hardware_accel.text,"Vaš preglednik prijavljuje problem s performansama, igra može biti vrlo spora!
+
+Da biste to popravili, molimo pročitajte <a target=""_blank""  href=""https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm"">https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm</a>
+"
+modal.no_hardware_accel_vk.text,"Vaš preglednik prijavljuje problem s performansama, igra može raditi vrlo sporo!
+
+Da biste to popravili, molimo pročitajte <a target=""_blank""  href=""https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery"">https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery</a>"
+modal.no_hardware_accel.title,Problemi s performansama
+modal.no_hardware_accel_vk.title,Problemi s performansama
+modal.nolocalstorage.button,U redu
+modal.nolocalstorage.text,"Čini se da vaš preglednik ne dopušta da spremimo vašu igru. To bi moglo biti uzrokovano korištenjem Incognito načina u vašem pregledniku.
+<p>
+Molimo prijavite se kako biste izbjegli gubitak napretka!"
+modal.nolocalstorage.title,Način Incognito
+modal.oom.button,Više informacija
+modal.oom.text,Čini se da nema dovoljno memorije.
+modal.oom.title,Hmm..
+modal.out_of_sync.button,Osvježi
+modal.out_of_sync.text,Čini se da ste Skydom otvorili u nekoliko prozora preglednika. <br>Molimo osvježite da biste nastavili igrati u ovom prozoru.
+modal.out_of_sync.title,Više prozora s Skydomom?
+modal.vk_inapp_not_allowed.button,Prijeđi
+modal.vk_inapp_not_allowed.text,"Kupnje su dostupne samo na <a href=""https://m.vk.com/app7409298"" target=""_blank"">m.vk.com</a>"
+modal.vk_inapp_not_allowed.title,
+modal.wasm.button,Više informacija
+modal.wasm.text,Čini se da vaš preglednik ne podržava WebAssembly
+modal.wasm.title,Hmm..
+modal.webgl.button,Više informacija
+modal.webgl.text,Čini se da vaš preglednik ne podržava WebGL
+modal.webgl.title,Hmm..
+modal.yandexsdk.text,"Yandex SDK nije ispravno učitan.
+
+Pokušati ponovno?"
+modal.yandexsdk.title,Ups
+modal.yandexsdk.button,U redu
+name_already_changed.button,U redu
+name_already_changed.message,Vaše ime je već promijenjeno. Možete promijeniti ime SAMO JEDNOM.
+networks.hint,"Pohvaljujemo vas da se povežete s društvenim mrežama!
+ - Ne izgubite svoj napredak spremanjem ga u oblaku
+ - Igrajte s prijateljima i primajte poklone
+ - Ne objavljujemo bez vašeg dopuštenja
+"
+nickname.default,Igrač
+nickname.default_friend,Zec
+nickname.trainer,Trener #nickname
+nickname.tutorial_001,Trenerica Anna
+nickname.tutorial_002,Trener Jonny
+nickname.tutorial_003,Trenerica Polly
+nickname.you,Vi
+notification.daily_lead_1,👑 #Name je preuzeo vodstvo u Dnevnom izazovu! Želiš povratiti prvo mjesto?
+notification.daily_lead_2,👑 #Name je preuzeo vodstvo u Dnevnom Izazovu!
+notification.daily_lead_3,👑 Danas je vruće u Dnevnom Izazovu! #Name je osvojio svoje prvo mjesto.
+notification.daily_lead_4,👑 #Name je preuzeo vodstvo. Želiš povratiti vodstvo u Izazovu?
+notification.daily_lead_5,👑 Čini se da je #Name upravo pretekao tebe u Dnevnom Izazovu.
+notification.daily_lead.meta,"@{""variants"":5}"
+notification.reminder_1,😏 Novi protivnici čekaju najperspektivnijeg igrača! 😎
+notification.reminder_10,👸🤴 Tko će biti pobjednik Dnevnog izazova danas?
+notification.reminder_11,🙄 Čini se da smo svi već zaboravili kako je #PlayerName srušio sve!
+notification.reminder_12,💆 Je li ovo dobar dan za igranje Skydoma? 💪
+notification.reminder_13,🙈😬 Ovdje ima par momaka koji sanjaju da će vas pobijediti. Mislim da imaju šansu?
+notification.reminder_14,🐰 Zec ti je donio poklon! 🎁
+notification.reminder_15,"😎 #PlayerName, vrijeme je da ponovno pobijediš! 🕹"
+notification.reminder_16,👾👀 Vrijeme je za odmor i za pobjedničku euforiju! 🤗
+notification.reminder_17,🌟🌟🌟 Razina se neće sama završiti! Igrajmo? 🥇😉
+notification.reminder_18,"#PlayerName, netko želi pobijediti tebe. Misliš li da će uspjeti? 😬😬😬"
+notification.reminder_19,👋 Je li vrijeme da se opustite i osvojite par puta? 🤔
+notification.reminder_2,Još nije svatko izgubio od #PlayerName! Da im daš šansu?
+notification.reminder_20,🦄 Jesi li već upoznao/la našeg Radosnog Jednoroga?
+notification.reminder_3,🐷 Svinjska magija čeka! 🐽
+notification.reminder_4,🙈 Nisam vidio najboljeg igrača Match3 već neko vrijeme! Jesu li još uvijek tu? 👀
+notification.reminder_5,🏆 Već ste danas imali pobjedu?
+notification.reminder_6,❤️❤️❤️❤️❤️ Sve životi su obnovljeni! Vrijeme je da pobijediš!
+notification.reminder_7,🖐🎟 5 tokena čeka da ih potrošite!
+notification.reminder_8,🐰😍 Zec ti je pripremio poklon! 🎁
+notification.reminder_9,👑💎 Počeo je Dnevni Izazov! Tko će dobiti krunu i gomilu dragulja?
+ny.button_claim,Otvoriti poklon
+ny.button_next_in,Dar u: #time
+ok_login_failed.message,Nije uspjelo povezivanje s Odnoklassnikijem. Pokušati ponovno?
+ok.share_tick,Podijeliti
+out_of_moves.continue_buy_moves,Igraj dalje #price
+out_of_moves.continue_watch,Gledati
+out_of_moves.give_up,Odustati
+out_of_moves.press_to_view,"Kliknite ovdje da 
+vidite ploču
+"
+out_of_moves.title.almost_there,Tako blizu...
+out_of_moves.title.regular,Nema više poteza
+outofgems.button,U Trgovini
+outofgems.message,Nemate više dragulja. Posjetite trgovinu da biste dobili još!
+outofgems.title,Nema dovoljno dragulja
+page.loading.hint_1,Učitavanje...
+page.loading.hint_2,Efekti renderiranja 💎💎💎
+page.loading.hint_3,"Ne brinite, nismo zaglavili! 😜"
+page.loading.hint_4,🚀 Igra će uskoro biti učitana! 🚀
+page.loading.hint_5,Prvi put učitavanje traje malo duže👌
+page.loading.hint_6,🔥 skoro gotovo...👾
+page.loading.hint_7,Još malo 😊
+placeholder.hint_daily,Završite 10 razina da biste otključali!
+placeholder.timestring,12 sati 34 minute 56 sekundi
+placeholder.title_daily,"Dnevni Izazov
+Zaključano"
+popup_name.accept_name,Nastaviti
+popup_name.not_now,Ne sada
+prelevel_text.002,"Skupite više <font color=""\#ff5503"">žutih komada</font> od svog protivnika!"
+prelevel_text.004,"Skupite više <font color=""\#ff8800"">mrkve</font> od svog protivnika!"
+prelevel_text.006,"Očistite više <font color=""\#4499ff"">Ledena</font> od svog protivnika!"
+promo_reforged.button,Osvojiti!
+promo_reforged.text,"Uspjeh! Pokrenuli smo novi mod igre - Skydom Reforged! Da proslavimo lansiranje, darujemo besplatni Mega Booster paket! Želite li ga sada preuzeti?"
+promo_reforged.title,Skydom Reforged!
+rate_us.description,Kako vam se sviđa Skydom?
+rate_us.feedback.cancel,Ne sada
+rate_us.feedback.description,Unesite svoju e-mail adresu ako želite primiti odgovor.
+rate_us.feedback.email_hint,E-mail
+rate_us.feedback.message_hint,Kako možemo poboljšati igru za vas?
+rate_us.feedback.submit,Podnijeti
+rate_us.star_1,Mrzio ga
+rate_us.star_2,Ne sviđa mi se
+rate_us.star_3,U redu je
+rate_us.star_4,Sviđalo mi se
+rate_us.star_5,Volio sam to
+rate_us.submit,Podnijeti
+rate_us.write_review.cancel,Ne sada
+rate_us.write_review.google_play,Podijelite svoje misli o igri ili joj dajte ocjenu na Google Playu!
+rate_us.write_review.submit,Rado!
+rate_us.write_review.yandex,Podijelite svoje misli o igri ili joj dajte ocjenu na Yandex igrama!
+rematch_pvp.asks_for_rematch_draw,#name želi još jedan pokušaj
+rematch_pvp.asks_for_rematch_player_lose,#name nudi ponovnu igru!
+rematch_pvp.asks_for_rematch_player_won,#name želi ponoviti meč!
+reward.coins,Novčići
+reward.gems,Dragulji
+reward.lives,Životi
+reward.prelevel.add_bomb,Booster Bomba
+reward.prelevel.add_line,Booster Linija
+reward.prelevel.add_omni,Booster Munje
+reward.prelevel.add_tint,Booster Bojenje
+reward.prelevel.double_fly,Booster Vatromet x2
+reward.tickets,Tokeni
+reward.undo,Poništavanja
+search.cannot_connect,Nema internetske veze
+search.failed,Ups! Nešto je pošlo po zlu...
+search.loading,Učitavanje...
+search.playing_with_trainer,Igrajmo s trenerom
+search.readying,Protivnik pronađen!
+search.readying_rematch,Spremite se!
+search.rejected,Protivnik je pobjegao
+search.searching,Traženje protivnika...
+search.vs,VS
+search.waiting_opp,Čekanje protivnika...
+settings.change_avatar,Promijenite Sliku Profila
+settings.change_avatar.connect_fb,Povezati
+settings.change_avatar.continue,Nastaviti
+settings.change_avatar.title,Odaberite novu sliku profila
+settings.change_avatar.warning,"Napomena: 
+- Možete promijeniti svoju sliku profila SAMO JEDNOM
+- Povežite se s Facebookom da biste koristili sliku profila Facebooka"
+settings.change_avatar.warning_no_fb,Napomena: Možete promijeniti svoju sliku profila SAMO JEDNOM
+settings.change_name,Promijeni Ime
+settings.change_name.accept_name,Nastaviti
+settings.change_name.do_not_match,Imena se ne podudaraju. Molimo pokušajte ponovno.
+settings.change_name.edit,Unesite novo ime:
+settings.change_name.reenter,Ponovno unesite svoje novo ime:
+settings.change_name.same_name,Novo ime odgovara postojećem
+settings.change_name.too_long,Ovo ime je pre dugo - ograničenje od 15 simbola
+settings.change_name.too_short,Ovo ime je prekratko =)
+settings.change_name.warning,Napomena: Možete promijeniti svoje ime SAMO JEDNOM.
+settings.confirm_avatar.cancel,Otkaži
+settings.confirm_avatar.change,Promijeni
+settings.confirm_avatar.title,Jeste li sigurni da želite promijeniti svoju sliku profila? Vaša nova slika profila:
+settings.confirm_avatar.warning,Napomena: Možete promijeniti svoju sliku profila SAMO JEDNOM.
+settings.confirm_name.cancel,Otkaži
+settings.confirm_name.change,Potvrdi
+settings.confirm_name.title,Jeste li sigurni da želite promijeniti svoje ime? Vaše novo ime će biti:
+settings.confirm_name.warning,Napomena: Možete promijeniti svoje ime SAMO JEDNOM.
+settings.connect_fb,Povežite Facebook
+settings.connect_ok,Povežite Odnoklassnike
+settings.connect_vk,Poveži VK
+settings.connect_y8,Povežite Y8
+settings.connect_yandex,Povežite Yandex
+settings.connected_fb,Facebook
+settings.connected_ok,Odnoklassniki
+settings.connected_vk,VK
+settings.connected_y8,Y8
+settings.connected_yandex,Yandex
+settings.coupon,Promo Kod
+settings.coupon_title,Promo Kod
+settings.coupon.enter,Primijeniti
+settings.coupon.enter_hint,Unesite svoj promo kod ovdje
+settings.coupon.invalid_code,"<font color=""\#e90047"">Ovaj kôd nije ispravan. Molimo Vas da probate s drugim kôdom."
+settings.coupon.missing_code,"<font color=""\#e90047"">Unesite svoj promo kod"
+settings.coupon.ok,Kod uspješno iskorišten!
+settings.credits,Zasluge
+settings.eula,Uvjeti korištenja
+settings.fb_hint,Povežite se na Facebook da biste igrali s prijateljima i sinkronizirali svoj napredak
+settings.general,OPĆE
+settings.generate_key,Stvoriti kod
+settings.invite_friends,Pozovite prijatelje
+settings.language,Jezik
+settings.language_header,ODABERITE JEZIK
+settings.move_hints,Savjeti
+settings.music,Glazba
+settings.networks,Povezivanja
+settings.networks_hint,Povežite društvene mreže da biste igrali s prijateljima i sinkronizirali svoj napredak.
+settings.notifications,Obavijesti
+settings.notifications.daily,Dnevni izazov
+settings.notifications.disable_all,Onemogući sve
+settings.notifications.disable_night,Isključiti od 23 sata do 8 sati
+settings.notifications.gifts,Darovi
+settings.notifications.others,Ostala podsjetnika
+settings.open_support,Podrška igrača
+settings.open_vk_group,Grupa Igara
+settings.player_id,Kopiraj ID igrača
+settings.policy,Politika privatnosti
+settings.rate_us,Ocijenite nas
+settings.report_problem,Prijavite problem
+settings.sound,Zvuk
+settings.support,PODRŠKA
+settings.telegram_channel,Pratite naš Telegram kanal
+settings.telegram_channel_hint,Sve najnovije vijesti o Skydomu
+settings.telegram_support,Čet fanova u Telegramu
+settings.title,Postavke
+settings.update,Ažuriraj
+settings.y8_hint,Povežite se na Y8 da sinhronizirate svoj napredak online!
+settings.yandex_hint,Povežite se na Yandex da sinkronizirate svoj napredak online!
+shop.gems_restored.accept,Odlično!
+shop.gems_restored.title,Kupnja dragulja je dovršena
+shop.not_available,Nije dostupno
+shop.remove_ads_remain_time,Oglašavanje uklonjeno još #time
+shop.remove_ads_text,"Bilo koja kupnja će ukloniti oglase
+između razina
+"
+shop.remove_ads_timed,"Uklonite oglase između razina
+uz bilo koju kupnju za mjesec dana
+"
+social_notification.button,Poveži
+social_notification.message,Povežite se s društvenom mrežom da biste sinkronizirali svoj napredak online!
+social_notification.no_post_hint,Nikada nećemo objaviti bez vašeg odobrenja.
+social_notification.title,Spremite svoj napredak
+social_share.button,Podijeliti
+social_share.chooser_hint,Podijelite putem
+social_share.message,Hej! Pogledajte ovu jedinstvenu PvP Match-3 igru! Preuzmite je na https://PecPoc.com
+social_share.subject,Pogledajte novu zabavnu igru - Skydom
+social_share.title,"Podijelite igru s drugima!
+Igra je zabavnija kad se igra s prijateljima!"
+tempkey_login.button,Nastaviti
+tempkey_login.empty_key,Niste unijeli nikakav kod
+tempkey_login.input.default_hint,Unesite kod
+tempkey_login.invalid_key,Pogrešan kod
+tempkey_login.message_top,"Nastavite igrati ovdje - dobijte kod gdje ste igrali prije u Postavkama pod ""Stvori kod""
+"
+tempkey_login.no_connection,Ne može se spojiti
+tempkey.fail.button,U redu
+tempkey.fail.message,Provjerite svoju internetsku vezu ili pokušajte kasnije.
+tempkey.fail.title,Nije uspjelo stvoriti kod
+tempkey.ok.copied,Kopirano!
+tempkey.ok.copy,Kopiraj
+tempkey.ok.hint,Kod ističe nakon 4 sata.
+tempkey.ok.message,#tempkey
+tempkey.ok.title,Vaš kod:
+tickets_shop.boost_text,x2 brzina obnavljanja
+tickets_shop.buy_all,Kupiti #amount
+tickets_shop.hint,Potrebne su vam tokeni da biste igrali u Dnevnom Izazovu.
+tickets_shop.hint_out_of,"<font color=""\#e90047"">Nema više sretnih tokena</font>"
+tickets_shop.recharge,Novi token u: #time
+tickets_shop.title,Sretni ulaznice
+tickets_shop.watch_ad_button,Gledati
+tickets_shop.watch_ad_text,Dobi 1 besplatno
+time.days_hours,"#days<font size=""-15""> </font><font size=""-10"">d</font> #hours<font size=""-15""> </font><font size=""-10"">h</font>"
+time.hours,"#hours<font size=""-15""> </font><font size=""-10"">h</font>"
+time.hours_minutes,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #minutes<font size=""-15""> </font><font size=""-10"">min</font>"
+time.hours_minutes_seconds,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #minutes<font size=""-15""> </font><font size=""-10"">min</font> #seconds<font size=""-15""> </font><font size=""-10"">sek</font>"
+time.hours_seconds,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #seconds<font size=""-15""> </font><font size=""-10"">s</font>"
+time.less_than_minute,"1<font size=""-15""> </font><font size=""-10"">min</font>"
+time.minutes,"#minutes<font size=""-15""> </font><font size=""-10"">min</font>"
+time.minutes_seconds,"#seconds<font size=""-15""> </font><font size=""-10"">min</font> #seconds<font size=""-15""> </font><font size=""-10"">sec</font>"
+time.seconds,"#seconds<font size=""-15""> </font><font size=""-10"">s</font>"
+tutorial_home.play,Igraj
+tutorial.001.dialog_tutorial,"Spojite <font color=""\#5885b8"">3 komada iste boje u nizu</font> da bi ih uklonili."
+tutorial.001.hint,"Cilj
+Skupite 12 zelenih komada!"
+tutorial.001.turn_1,Spojite 3 komada iste boje zamjenom susjednih!
+tutorial.002.hint,Skupite više žutih komada od svog protivnika!
+tutorial.skip,Preskočiti
+undo_shop.buy_undos,Kupiti #count
+undo_shop.hint,Poništi vraća vaš zadnji potez
+undo_shop.recharge,Sljedeće poništenje za: #time
+undo_shop.title,Vratiti potez
+undo_shop.watch_ad_button,Gledati
+undo_shop.watch_ad_text,Dobi 1 besplatno
+undo_shop.you_have,Imate #amount poništenja
+update.button,Ažurirati
+update.new_version,Dostupna je nova verzija!
+update.new_version_value,"<font color=""\#5885b8"">#version"
+update.old_version,Koristite stariju verziju
+update.old_version_value,"<font color=""\#a5a7aa"">#version"
+update.text,"Koristite zastarjelu verziju.
+Molimo Vas da ažurirate na najnoviju verziju!"
+update.title,Nova verzija je dostupna!
+update.web.button,Osvježiti
+update.web.message,Molimo osvježite stranicu.
+update.web.title,Nova verzija je dostupna!
+vk_login_failed.message,Nije uspjelo povezivanje s VK-om. Pokušati ponovno?
+vk_promo.title,Dar od VK-a!
+vk.share_tick,Podijeliti
+watch_for_gems.button,Gledati
+watch_for_gems.text,+#amount
+web.webg_context_lost,"WebGL kontekst izgubljen, obnavljanje..."
+welcome_bonus.speech_1,"Pozdrav, #PlayerName!
+Imam neke poklone za tebe.
+Odaberi jedan!
+"
+welcome_bonus.speech_2,"Misli se materijaliziraju... Ohmmm!
+Razmišljao sam o nekim poklonima i vidi što se dogodilo =)"
+welcome_bonus.speech_3,Pronašao sam dva sanduka dok si ti nije bio tu! Otvori jedan!
+welcome_bonus.speech_4,"Drago nam je da te vidimo ponovo, #PlayerName!
+Pogledaj što je pao s oblaka!
+"
+welcome_bonus.speech_5,"Sokolovi su proletjeli...
+Izgleda da ne donose samo djecu! ;)"
+welcome_bonus.speech_6,"Drago mi je da te vidim ponovo, #PlayerName!
+Odaberi sandučić!
+"
+welcome_bonus.speech_7,"Nije bilo isto bez tebe, #PlayerName, pa sam ti pripremio mali poklon!"
+welcome_bonus.speech_8,"Čudne stvari se događaju. Sjediš, opuštaš se i odjednom se pojavljuju dva sanduka iz modro neba!"
+welcome_pack.open,Otvoriti
+welcome_pack.play,Igraj
+welcome_pack.speech_1,"Dugo nismo vidjeli, #PlayerName! Imam poklon za tebe!"
+welcome_pack.speech_2,"Ooooo, #PlayerName, kako lijepo da te vidim! Otvorimo poklon i igrajmo!"
+welcome_pack.speech_3,"#PlayerName, drago mi je da te ponovno vidim! Što prije otvori sanduk!"
+welcome_pack.speech_gift,"#PlayerName, imamo poseban poklon za tebe =) Otvori ga brzo!"
+welcome_pack.speech_reforged,"#PlayerName, imamo poseban poklon za tebe =) Otvori ga brzo!"
+y8_login_failed.message,Nije uspjelo povezivanje s Y8. Pokušati ponovno?
+yandex_login_failed.message,Nije uspjelo povezivanje s Yandexom. Pokušati ponovno?
+yandex_notification.button,Povezati
+yandex_notification.message,Spojite se na Yandex da sinkronizirate svoj napredak online!
+yandex_notification.title,Spremite svoj napredak
+gamemode.capital.leaf,LIŠĆE
+yandex_login_has_attachment.message,U ovom igračkom profilu povezan je drugi Yandex račun.
+fb_login_has_attachment.message,U ovom igračkom profilu je povezan drugi Facebook račun.
+ok_login_has_attachment.message,U ovom igračkom profilu je povezan drugi račun OK.
+vk_login_has_attachment.message,U ovom igračkom profilu je povezan drugi VK račun.
+y8_login_has_attachment.message,U ovom igračkom profilu je povezan drugi Y8 račun.
+android_app.text.beta,Dragi prijatelji! S radošću vam javljamo da smo pokrenuli Beta testiranje naše igre na Androidu. Svi su dobrodošli!
+bookmark.play,Igraj
+bookmark.quest,Zadaci
+chest_opening.bronze,Bronca
+chest_opening.continue,Lako
+chest_opening.division,III Divizija
+chest_opening.golden,Zlato
+chest_opening.silver,Srebro
+chest_opening.togoldenleague,"Možete li postići
+Zlatnu ligu?"
+chest_opening.welcome,"Dobrodošli u Lige 
+Match Arene!"
+chest_opening.yourebronze,"Postigli ste
+Brončanu ligu III
+"
+chest.open,Otvoriti
+chest.opens_now,Sjajno! Sanduk je tvoj da otvoriš!
+chest.wins_left_1,Još jedna pobjeda!
+chest.wins_left_2,Samo 2 pobjede i to je tvoje!
+chest.wins_left_3,Odlično! Još 3 pobjede!
+chest.wins_left_4,Potrebno je 4 pobjede da otvorite sanduk!
+chest.wins_to_open,Potrebno je #num pobjeda da bi se otvorilo
+forge_help.block_1,Osvojite dvoboji da biste zaradili novčiće.
+forge_help.block_2,Koristite novčiće da pokrenete peći i dobijete zlatne palice.
+forge_help.block_3,Skupljajte zlatne trake da biste se popeli u više lige.
+forge_help.block_4,Novi ligi - novi nivoi!
+forge_help.continue,Dobio sam to
+forge_help.title,Lige i kovačnice
+forge.add,Dodati
+forge.boost,Pojačati
+forge.boost_free,"Ubrzajmo ovu kovnicu!
+
+Prvi put je besplatno!"
+forge.boost_free_ok,Pojačati
+forge.buy_1,Kupiti Brončanu Kovačnicu
+forge.buy_2,Kupiti Srebrnu Kovačnicu
+forge.buy_3,Kupiti Zlatnu Kovačnicu
+forge.buy_4,Kupiti Rubinovu Peć
+forge.buy_now,Dodati
+forge.cheat_boost,VARATI? VARATI!
+forge.name_1,Brončana kovačnica
+forge.name_2,Srebrna Kovačnica
+forge.name_3,Zlatna Kovačnica
+forge.name_4,Rubinova Kova
+forge.not_enough_coins,Nema dovoljno novčića za početak
+forge.ok,U redu
+forge.open,Otvoriti
+forge.open_now,Otvorite sada
+forge.other_in_progress,Još je u tijeku drugi lijevak!
+forge.popup_boost,Ubrzajte -30 min
+forge.popup_boost_speedup,Pojačajte -15 min
+forge.progress,#bars u: #time
+forge.speedup_no,Ne
+forge.speedup_offer,"Želite <font color=""\#5885b8"">povećati</font> brzinu lijevanja <font color=""\#5885b8"">za 2 puta?</font>"
+forge.speedup_ok,U redu
+forge.speedup_success,Kovanje je pojačano!
+forge.speedup_yes,Da
+forge.start,Pokreni
+forge.time_1,3 sata
+forge.time_2,6 sati
+forge.time_3,12 sati
+forge.time_4,24 sata
+forge.tutorial.collect_coins,Osvojite 1000 novčića da biste pokrenuli kovačnicu
+forge.tutorial.open_now,"Odlično! Taljenje je završeno!
+Možemo otvoriti kovačnicu!"
+forge.tutorial.smelt_more,Nastavite lijevati zlatne barove kako biste došli do sljedeće divizije
+forge.tutorial.start_forge,"Dobro učinjeno, zaradili ste 1000 novčića!
+Sada možemo započeti kovačnicu!"
+forge.tutorial.wait_ready,"Dok se vaša kovačnica radi, možete osvojiti još novčića..."
+forge.watch_ad,Gledati
+gamemode.chocolate,Lava
+gamemode.diamonds,Dijamanti
+gamemode.energycube,Žele
+gamemode.fishes,Mrkve
+gamemode.food,Šišari
+gamemode.fossils,Hobotnice
+gamemode.grass,Trava
+gamemode.honeybee,Medvjedi
+gamemode.ice,Led
+gamemode.jam,Energija
+gamemode.road,Svinjica
+gamemode.stone,Kamenje
+gamemode.tasks,Narudžbe
+gamemode.tiles,Trava
+home.bars_need_more,Trebate još #more
+home.bars_progress,#current / #total
+home.bet,Ulog #count novčića
+home.coins,#count
+home.gems,#count
+home.hint_quest_book,Novi zadaci dostupni!
+home.hint_quest_book.claim,Yay! Netko će biti nagrađen!
+home.hint_quest_book.new,Uf! Novi zadatak!
+home.league_indev,Sljedeća liga uskoro stiže!
+home.rematch.asks_for_rematch_draw,#name želi još jedan pokušaj
+home.rematch.asks_for_rematch_player_lose,#name nudi ponovnu igru
+home.rematch.asks_for_rematch_player_won,#name traži ponovni meč!
+home.xp,#count
+ingame_booster_shop.buy,Kupiti #count
+ingame_booster_shop.hint.cross,Koristite čarobnu palicu da uklonite jedan red i jednu kolonu komada.
+ingame_booster_shop.hint.hammer,Uklonite pločice udarcem čekićem!
+ingame_booster_shop.hint.hand,Koristite rukavicu da zamijenite bilo koje susjedne komade!
+ingame_booster_shop.title.cross,Čarobna Štapić
+ingame_booster_shop.title.hammer,Čekić
+ingame_booster_shop.title.hand,Rukavica
+league.Bronze,Brončana Liga
+league.div_1,Divizija I
+league.div_2,Divizija II
+league.div_3,Divizija III
+league.div_4,Divizija IV
+league.div_5,Divizija V
+league.E001,Bronza III
+league.E002,Bronza II
+league.E003,Bronza I
+league.E004,Srebro IV
+league.E005,Srebro III
+league.E006,Srebro II
+league.E007,Srebro I
+league.E008,Zlatno V
+league.E009,Zlatno IV
+league.E010,Zlatno III
+league.E011,Zlato II
+league.E012,Zlatno I
+league.E013,Platina V
+league.E014,Platina IV
+league.E015,Platina III
+league.E016,Platina II
+league.E017,Platina I
+league.E018,Majstor 1
+league.Gold,Zlatna Liga
+league.Master,Liga Majstora
+league.MasterN,Majstor #div
+league.GrandMaster,Veliki majstor
+league.GrandMasterN,Veliki majstor #div
+league.Platinum,Platinasta Liga
+league.Silver,Srebrna Liga
+levelup.continue,Sjajno!
+levelup.reward,Nagrada
+levelup.title_division,"Čestitamo!
+Nova divizija!"
+levelup.title_league,"Čestitamo!
+Nova liga!"
+ma2transfer.install,Instalirati
+ma2transfer.message,"Match Arena se preselila u novu aplikaciju!
+
+Važno! Koristite kod ispod da prenesete svoj napredak."
+nickname.tutorial_004,Sensei Mihael
+nickname.tutorial_005,Profesor Frank
+nickname.tutorial_006,Kraljica Matcha
+nickname.tutorial_007,Učitelj Leo
+nickname.tutorial_008,Trener Karl
+nickname.tutorial_009,Tutor Brada
+nickname.tutorial_010,Guru Vicky
+placeholder.hint_friends,Izazovi svoje prijatelje i pokaži što si sposoban!
+placeholder.hint_quests,"Dostignite Brončanu ligu I
+da otkrijete!"
+placeholder.hint_settings,Sutra ću biti spreman :)
+placeholder.title_friends,"Igrajte s prijateljima
+uskoro dolazi"
+placeholder.title_quests,"Sjajna zadatka
+Zaključano
+"
+placeholder.title_settings,Postavke u izradi
+quest_help.block_1,Završite zadatke kako biste dobili nagrade!
+quest_help.block_2,Dovršite sve zadatke da biste otvorili sanduk.
+quest_help.block_3,"Dovršite sve zadatke prije sljedeće divizije, inače ćete izgubiti sanduk!"
+quest_help.continue,Dobio sam to
+quest_help.title,Knjiga zadataka
+quest.aquarium,Skupite #amount riba
+quest.bar,#progress / #amount
+quest.bar_completed,Zadatak je dovršen!
+quest.bar_last_try,Prethodni pokušaj: #progress od #amount
+quest.bar_special_not_tried,#progress / #amount
+quest.best_so_far,Najbolji rezultat: #progress
+quest.butterfly,Skupite #amount leptira
+quest.buy_now,Sada dobijte #amount
+quest.cat,Skupite #amount Mačića
+quest.chip_destroy,Skupite #amount bilo kojih komada
+quest.chip_destroy_bird,Skupite #amount ptica
+quest.chip_destroy_blue,Skupite #amount plave komadiće
+quest.chip_destroy_diamond,Skupite #amount Dijamanta
+quest.chip_destroy_fish,Skupite #amount Mrkve
+quest.chip_destroy_fish_blue,Skupite #amount plavih Mrkvi
+quest.chip_destroy_fish_green,Skupite #amount zelene Mrkve
+quest.chip_destroy_fish_orange,Skupite #amount narančaste Mrkve
+quest.chip_destroy_fish_purple,Skupite #amount ljubičaste Mrkve
+quest.chip_destroy_fish_red,Skupite #amount crvene Mrkve
+quest.chip_destroy_fish_yellow,Skupite #amount žuta Mrkve
+quest.chip_destroy_food,Uklonite #amount Šišarki
+quest.chip_destroy_frog,Skupite #amount Žaba
+quest.chip_destroy_green,Skupite #amount zelenih komada
+quest.chip_destroy_orange,Skupite #amount narančaste komadiće
+quest.chip_destroy_purple,Skupite #amount ljubičaste komadiće
+quest.chip_destroy_red,Skupite #amount crvenih komada
+quest.chip_destroy_snail,Skupite #amount školjki
+quest.chip_destroy_super,Skupite #amount super komada
+quest.chip_destroy_wafer,Skupite #amount Zlatnih rudnika
+quest.chip_destroy_with_bomb,Skupite #amount komada pomoću bombe
+quest.chip_destroy_with_line,Skupite #amount komada s bonusom linije
+quest.chip_destroy_with_mine,Skupite #amount komada s bonusom Ognjena Muha
+quest.chip_destroy_with_omni,Skupite #amount komada s bonusom Munje
+quest.chip_destroy_yellow,Skupite #amount žuta komada
+quest.chip_destroy_waterfish,Skupite #amount vodenih riba
+quest.chip_recolor,Prebojite #amount komada s Paint bonusom
+quest.claim,Zahtijevaj Nagradu
+quest.complete_chest,Svi zadaci su dovršeni
+quest.cover_destroy_bee,Skupite #amount Medvjedića
+quest.cover_destroy_bound,Otključajte #amount komada
+quest.cover_destroy_chocolate,Uklonite #amount komada s Lava
+quest.cover_destroy_fizzblue,Skupite #amount šuškavaca
+quest.cover_destroy_fizzpurple,Skupite #amount žutih šljokica
+quest.cover_destroy_frozen,Uklonite #amount komada leda
+quest.cover_destroy_honey,Uklonite #amount pločica s medom
+quest.cover_destroy_hotlava,Uklonite #amount komada Vruće Lave
+quest.cover_destroy_receiver_energycube,Skupite #amount kristala želea
+quest.cover_destroy_receiver_jam,Skupite #amount kristala energije
+quest.cover_destroy_statue,Skupite #amount Psića
+quest.cover_destroy_stone,Uklonite #amount Kamenih komada
+quest.cover_destroy_leaf,Očisti #amount listova
+quest.division_done_card,Novi zadaci u sljedećem dijelu!
+quest.duck,Skupite #amount patke
+quest.energy_flow,Provedite energiju kroz #amount pločica
+quest.energycube_flow,Popunite #amount pločica sa želeom
+quest.fossil,Skupite #amount Hobotnica
+quest.gum,Skupite #amount komada gume
+quest.new_quest,Novi zadatak!
+quest.new_quest_in,Sljedeći zadatak u:
+quest.on_arena_splash_score,Osvojite #amount bodova u Areni Boom!
+quest.on_arena_splash_use_bonus,Spremite #amount bonusa za Arenu Boom!
+quest.plate_destroy,Uklonite #amount Razdvajanja
+quest.play,Igraj
+quest.pvp_score,Osvojite #amount bodova u dvobojima
+quest.reward,Nagrada:
+quest.snakes,Skupite #amount Zmija
+quest.tile_destroy_gold,Skupite #amount pločica s travom
+quest.tile_destroy_grass,Skupite #amount pločica s travom
+quest.title,Knjiga zadataka
+quest.use_bonus,Koristite #amount bonusa
+quest.use_bonus_bomb,Koristite #amount bonusa Bomba
+quest.use_bonus_line,Koristite #amount bonusa Linija
+quest.use_bonus_mine,Koristite #amount bonusa Ognjena Muha
+quest.use_bonus_omni,Koristite bonus Munja #amount puta
+quest.use_bonus_tint,Koristite #amount bonusa Boje
+quest.use_combo_bomb_bomb,Napravite kombo-bonus Bomba+Bomba #amount puta
+quest.use_combo_bomb_omni,Napravite kombo-bonus Munja+Bomba #amount puta
+quest.use_combo_bomb_tint,Napravite kombo-bonus Boja+Bomba #amount puta
+quest.use_combo_line_bomb,Napravite kombo-bonus Bomba+Linija #amount puta
+quest.use_combo_line_line,Napravite kombo-bonus Linija+Linija #amount puta
+quest.use_combo_line_omni,Napravite kombo-bonus Munja+Linija #amount puta
+quest.use_combo_line_tint,Napravite kombo-bonus Boja+Linija #amount puta
+quest.use_combo_mine_bomb,Napravite kombo-bonus Bomba+Svjetlucavica #amount puta
+quest.use_combo_mine_line,Napravite kombo-bonus Ognjena zvijezda+Linija #amount puta
+quest.use_combo_mine_mine,Napravite kombo-bonus Ognjenik+Ognjenik #amount puta
+quest.use_combo_mine_omni,Napravite kombo-bonus Munja+Svjetlucavica #amount puta
+quest.use_combo_mine_tint,Napravite kombo-bonus Boja+Svjetlucavo #amount puta
+quest.use_combo_omni_omni,Napravite kombo-bonus Munja+Munja #amount puta
+quest.use_combo_omni_tint,Napravite kombo-bonus Boja+Munja #amount puta
+quest.use_combo_tint_tint,Napravite kombo-bonus Boja+Boja #amount puta
+quest.walk,Provedi Prasicu #amount koraka
+quest.watch_for_new,- #time
+quest.win,Osvoji #amount dvoboja
+quest.win_coins,Osvojite #amount novčića u dvobojima
+quest.win_hard_level,Završite teži nivo
+quest.win_rematch,Osvojite #amount ponovnih mečeva
+quest.win_streak,Osvojite #amount duela zaredom
+quest.chip_destroy_clam,Skupite #amount bisera
+quest.chip_destroy_egg,Skupite #amount jaja
+quest.gardenflower,Skupite #amount Cvijeća
+quest.sausages,Skupite #amount kobasica
+rematch.asks_for_rematch_draw,"#name želi još jednu pokušaj
+Ulog #bet
+"
+rematch.asks_for_rematch_player_lose,"#name nudi ponovnu utakmicu
+Ulog #bet"
+rematch.asks_for_rematch_player_won,"#name želi ponoviti meč!
+Ulog #bet"
+rematch.rematch_bet,Ulog #bet
+report.body,
+report.subject,Problem s igrom MatchArena
+reward.bars,Zlatne svote
+reward.coins_amt,+#amount
+reward.gems_amt,+#amount
+reward.levels,Novi nivoi
+reward.levels_amt,+#amount
+reward.levelup,"Čestitamo!
+Nova razina!"
+reward.new_levels,"Nove
+razine!"
+reward.talisman,Talismani
+reward.xp_amt,+#amount
+search.prize_fund,Nagradni fond
+settings.friends_and_partners,Prijatelji i partneri
+settings.language.help_us_translate,"Želite li nam pomoći pri prijevodu Match Arene na jezike koje govorite? Pošaljite nam poruku na <font color=""\#0000EE"">support@matcharenagame.com."
+settings.notifications.duels,Poziv na dvoboj
+shop.indev,Uskoro dolazi!
+splash.hint_chocolate,Uklonite što više lave
+splash.hint_diamonds,Skupite što više dijamanata
+splash.hint_energycube,Popunite što više pločica sa želeom
+splash.hint_fishes,Skupite što više mrkvi
+splash.hint_food,Uklonite što više Šišarki
+splash.hint_fossils,Spasi što više hobotnica
+splash.hint_honeybee,Skupite što više Medvjeda
+splash.hint_ice,Uklonite što više leda
+splash.hint_jam,Napunite što više pločica energijom
+splash.hint_road,Provedite Prasicu što je dalje moguće
+splash.hint_stone,Uklonite što više Kamena
+splash.hint_tasks,Izvršite što više Narudžbi
+splash.hint_tiles,Skupite što više trave
+splash.mode_chocolate,Cilj razine - Lava
+splash.mode_diamonds,Cilj razine - Dijamanti
+splash.mode_fishes,Cilj razine - Mrkve
+splash.mode_food,Cilj razine - Šišarki
+splash.mode_jam,Cilj razine - Energija
+splash.mode_road,Cilj razine - Svinjica
+splash.mode_tasks,Cilj razine - Narudžbe
+splash.mode_tiles,Cilj razine - Trava
+talismans_shop.ask_button,Facebook
+talismans_shop.ask_text,Zahtijevati prijatelje
+talismans_shop.boost_text,x2 brzina obnavljanja
+talismans_shop.buy_all,Kupiti #amount
+talismans_shop.hint,Dvostruke novčiće osvojene
+talismans_shop.recharge,Sljedeći talisman za: #time
+talismans_shop.title,Talismani
+talismans_shop.watch_ad_button,Gledati
+talismans_shop.watch_ad_text,Dobi 1 besplatno
+tickets_shop.ask_button,Facebook
+tickets_shop.ask_text,Zahtijevati prijatelje
+tutorial.001.collect_more_fishes,"Skupite što više <font color=""\#5885b8"">mrkvi</font>!"
+tutorial.001.continue_to_collect_fishes,Nastavite sakupljati Mrkve!
+tutorial.001.first_swap_red_down,"Pomakni crveni komad prema dolje
+da bi se spojila <font color=""\#5885b8"">tri u nizu</font>"
+tutorial.001.remind_collect_three_in_a_row,"Skupite <font color=""\#5885b8"">tri komada</font> iste boje <font color=""\#5885b8"">u nizu</font>"
+tutorial.001.second_swap_green_left,"Pomakni zelenu pločicu ulijevo
+da bi se spojile <font color=""\#5885b8"">tri u nizu</font>
+"
+tutorial.001.third_swap_fish,"<font color=""\#5885b8"">Mrkve</font> također se mogu spojiti u nizu od tri"
+tutorial.001.you_are_doing_well,Odlično ti ide!
+tutorial.002.get_bonus_line,"...da biste dobili <font color=""\#5885b8"">bonus - Liniju!</font>"
+tutorial.002.try_four_in_a_row,"Pokušajte spojiti <font color=""\#5885b8"">četiri u nizu!</font>"
+tutorial.002.use_line_bonus,"Spojite <font color=""\#5885b8"">tri u nizu s bonusom</font> da biste vidjeli moć Linije!"
+tutorial.003.hint,Skupite više mrkve od svog protivnika!
+tutorial.003.try_l_or_t,"Spojite komadiće u <font color=""\#5885b8"">oblik T ili L!</font>"
+tutorial.003.use_bomb_bonus,"...da biste dobili <font color=""\#5885b8"">bonus - Bombu!</font>
+Hajde da je raznesemo!"
+tutorial.004.clear_gold_tiles,"Napravite spojeve na <font color=""\#5885b8"">Travi</font>
+da biste je sakupili!"
+tutorial.004.combine_omni_with_blue,"Zamijenite <font color=""\#5885b8"">Komad munje</font> s plavom kockicom da biste uklonili sve plave kockice s ploče!"
+tutorial.004.try_five_in_a_row,"Pokušajte dobiti <font color=""\#5885b8"">5 u nizu!</font>"
+tutorial.005.two_bonus_can_combine,"Bilo koja <font color=""\#5885b8"">dva bonusa mogu se spojiti</font> da bi dobili još veći bonus!"
+tutorial.007.collect_food,"Napravite spojeve pored <font color=""\#5885b8"">Šišarki</font>"
+tutorial.007.move_character,"Skupljaj šiške da <font color=""\#5885b8"">pomakneš Prasicu naprijed!</font>"
+tutorial.008.make_mine_bonus,"Spojite <font color=""\#5885b8"">četiri komada u kvadrat</font> i dobit ćete bonus - Svjetlucavu mušicu!"
+tutorial.008.use_mine_bonus,"Spojite tri u nizu s <font color=""\#5885b8"">Svjetlucavom</font> da biste je koristili!"
+tutorial.009.make_tint_bonus,"Napravite <font color=""\#5885b8"">veliku T oblik</font> i 
+dobivate bonus - Boju!"
+tutorial.009.use_tint_bonus,"<font color=""\#5885b8"">Boja</font> se može zamijeniti s bilo kojom pločicom!"
+level_popup.adventure.title,Razina
+lives_shop.ma_hint,"Trebate živote da
+nastavite igrati Avanturu
+"

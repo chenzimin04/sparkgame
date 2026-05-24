@@ -1,0 +1,28 @@
+{
+  "resolution": "standard",
+  "image1": "mouse_garden_a.jpg",
+  "image2": "mouse_garden_b.jpg",
+  "differences":
+  [
+    {
+    "x": 85.0,
+    "y": 556.0,
+    "size": 130.0
+    },
+    {
+    "x": 372.0,
+    "y": 634.0,
+    "size": 120.0
+    },
+    {
+    "x": 871.0,
+    "y": 463.0,
+    "size": 120.0
+    },
+    {
+    "x": 953.0,
+    "y": 323.0,
+    "size": 120.0
+    }
+  ]
+}

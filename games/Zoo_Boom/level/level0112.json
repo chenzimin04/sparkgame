@@ -1,0 +1,22 @@
+ {
+	"size":8,
+	"moves":34,
+	"fill":"up",
+	"add":[			
+		{ "x":0, "y":6, "type":"FAT_MULTI", "count":true },
+		{ "x":6, "y":6, "type":"FAT_MULTI", "count":true },
+		
+		{ "x":0, "y":0, "dx":2, "dy":6, "type":"SOFT_CAGE", "count":true },
+		{ "x":6, "y":0, "dx":2, "dy":6, "type":"SOFT_CAGE", "count":true }		
+	],
+	"allowedGemTypes":["GEM_YELLOW","GEM_GREEN","GEM_RED","GEM_BLUE"],
+	"field":[ 		
+		"xxxxxxxx",
+		"xxxxxxxx",
+		"xxxxxxxx",
+		"xxxxxxxx",
+		"xxxxxxxx",
+		"xxooooxx",
+		"xxooooxx",
+		"xxooooxx"]
+ }

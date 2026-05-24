@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+
+<screen name="uiTournamentWinnerTab" template="tTabScreen" label="SID_TOURNAMENT_WINNERS">				
+	<list name="uiList" marginBottom="90" />
+	<text name="uiTxtHelp" text="SID_TOURNAMENT_WINNER_HELP"/>
+</screen>

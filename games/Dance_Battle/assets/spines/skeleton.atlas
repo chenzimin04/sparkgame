@@ -1,0 +1,265 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assesoires/glasses-1
+  rotate: true
+  xy: 96, 269
+  size: 139, 53
+  orig: 139, 53
+  offset: 0, 0
+  index: -1
+assesoires/glasses-2
+  rotate: false
+  xy: 79, 410
+  size: 153, 50
+  orig: 153, 50
+  offset: 0, 0
+  index: -1
+assesoires/glasses-3
+  rotate: false
+  xy: 103, 216
+  size: 139, 51
+  orig: 139, 51
+  offset: 0, 0
+  index: -1
+assesoires/glasses-4
+  rotate: true
+  xy: 79, 462
+  size: 133, 59
+  orig: 133, 59
+  offset: 0, 0
+  index: -1
+assesoires/hat-1
+  rotate: true
+  xy: 79, 597
+  size: 103, 82
+  orig: 103, 82
+  offset: 0, 0
+  index: -1
+assesoires/hat-2
+  rotate: true
+  xy: 2, 253
+  size: 147, 92
+  orig: 147, 92
+  offset: 0, 0
+  index: -1
+assesoires/hat-3
+  rotate: true
+  xy: 2, 129
+  size: 122, 99
+  orig: 122, 99
+  offset: 0, 0
+  index: -1
+assesoires/hat-4
+  rotate: true
+  xy: 170, 503
+  size: 203, 120
+  orig: 203, 120
+  offset: 0, 0
+  index: -1
+assesoires/hat-5
+  rotate: false
+  xy: 215, 861
+  size: 178, 160
+  orig: 178, 160
+  offset: 0, 0
+  index: -1
+assesoires/hat-6
+  rotate: false
+  xy: 103, 156
+  size: 120, 58
+  orig: 120, 58
+  offset: 0, 0
+  index: -1
+assesoires/hat-7
+  rotate: false
+  xy: 322, 169
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+assesoires/hat-8
+  rotate: false
+  xy: 151, 328
+  size: 78, 80
+  orig: 78, 80
+  offset: 0, 0
+  index: -1
+assesoires/hat-9
+  rotate: false
+  xy: 2, 869
+  size: 211, 152
+  orig: 211, 152
+  offset: 0, 0
+  index: -1
+assesoires/hat-back-4
+  rotate: false
+  xy: 140, 469
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+assesoires/hat-back-7
+  rotate: false
+  xy: 260, 298
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+assesoires/hat-back-8
+  rotate: true
+  xy: 270, 112
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+assesoires/hat-back-9
+  rotate: false
+  xy: 198, 751
+  size: 167, 108
+  orig: 167, 108
+  offset: 0, 0
+  index: -1
+assesoires/jewelry-8
+  rotate: true
+  xy: 231, 348
+  size: 60, 95
+  orig: 60, 95
+  offset: 0, 0
+  index: -1
+base/shadow
+  rotate: true
+  xy: 2, 402
+  size: 298, 75
+  orig: 365, 92
+  offset: 33, 9
+  index: -1
+skeleton/angry
+  rotate: false
+  xy: 151, 273
+  size: 107, 53
+  orig: 107, 53
+  offset: 0, 0
+  index: -1
+skeleton/back
+  rotate: false
+  xy: 170, 708
+  size: 26, 159
+  orig: 26, 159
+  offset: 0, 0
+  index: -1
+skeleton/bone-long
+  rotate: true
+  xy: 198, 716
+  size: 33, 94
+  orig: 33, 94
+  offset: 0, 0
+  index: -1
+skeleton/bone-lower
+  rotate: true
+  xy: 213, 468
+  size: 33, 64
+  orig: 33, 64
+  offset: 0, 0
+  index: -1
+skeleton/bone-upper
+  rotate: true
+  xy: 279, 469
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+skeleton/chest
+  rotate: true
+  xy: 2, 10
+  size: 117, 103
+  orig: 117, 103
+  offset: 0, 0
+  index: -1
+skeleton/dizzy
+  rotate: false
+  xy: 225, 167
+  size: 95, 47
+  orig: 95, 47
+  offset: 0, 0
+  index: -1
+skeleton/foot
+  rotate: false
+  xy: 268, 73
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+skeleton/hand
+  rotate: false
+  xy: 291, 22
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+skeleton/happy
+  rotate: false
+  xy: 170, 108
+  size: 98, 46
+  orig: 98, 46
+  offset: 0, 0
+  index: -1
+skeleton/head
+  rotate: true
+  xy: 2, 702
+  size: 165, 166
+  orig: 165, 166
+  offset: 0, 0
+  index: -1
+skeleton/hips
+  rotate: false
+  xy: 107, 2
+  size: 91, 58
+  orig: 91, 58
+  offset: 0, 0
+  index: -1
+skeleton/knee-cap
+  rotate: true
+  xy: 140, 576
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+skeleton/love
+  rotate: false
+  xy: 244, 225
+  size: 96, 46
+  orig: 96, 46
+  offset: 0, 0
+  index: -1
+skeleton/normal
+  rotate: false
+  xy: 170, 62
+  size: 96, 44
+  orig: 96, 44
+  offset: 0, 0
+  index: -1
+skeleton/oof
+  rotate: true
+  xy: 107, 62
+  size: 92, 61
+  orig: 92, 61
+  offset: 0, 0
+  index: -1
+skeleton/sad
+  rotate: false
+  xy: 234, 417
+  size: 100, 49
+  orig: 100, 49
+  offset: 0, 0
+  index: -1
+skeleton/scared
+  rotate: false
+  xy: 200, 17
+  size: 89, 43
+  orig: 89, 43
+  offset: 0, 0
+  index: -1

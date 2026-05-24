@@ -1,0 +1,13 @@
+{
+  "resolution": "standard",
+  "image1": "pumpkins_a.jpg",
+  "image2": "pumpkins_b.jpg",
+  "differences":
+  [
+    {
+    "x": 545.0,
+    "y": 400.0,
+    "size": 180.0
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "resolution": "standard",
+  "image1": "mermaid_in_castle_a.jpg",
+  "image2": "mermaid_in_castle_b.jpg",
+  "differences":
+  [
+    {
+    "x": 40.0,
+    "y": 300.0,
+    "size": 90.0
+    },
+    {
+    "x": 296.0,
+    "y": 263.0,
+    "size": 50.0
+    },
+    {
+    "x": 352.0,
+    "y": 603.0,
+    "size": 120.0
+    },
+    {
+    "x": 513.0,
+    "y": 148.0,
+    "size": 50.0
+    },
+    {
+    "x": 833.0,
+    "y": 556.0,
+    "size": 120.0
+    },
+    {
+    "x": 762.0,
+    "y": 300.0,
+    "size": 50.0
+    }
+  ]
+}
+
+

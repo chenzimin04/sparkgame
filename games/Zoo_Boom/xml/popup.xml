@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+
+<screen name="uiScreenPopUp" template="tPopUp" >	
+	<image name="uiImgBg" >
+		<text name="uiTxtMessage" halignText="center" valignText="center" halign="center" valign="center" template="tFontWhite,tElement,tFontLarge" margin="100" marginBottom="170" />
+				
+		<button name="uiBtPopupOk" template="tButton" y="-80" halign="center" valign="bottom" label="SID_OK"  />	
+	</image>	
+</screen>

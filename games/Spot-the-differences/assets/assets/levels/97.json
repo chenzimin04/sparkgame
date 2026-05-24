@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "flowers_oil_painting_a.jpg",
+  "image2": "flowers_oil_painting_b.jpg",
+  "differences":
+  [
+    {
+      "x": 99.0,
+      "y": 373.0,
+      "size": 80.0
+    },
+    {
+      "x": 188.0,
+      "y": 590.0,
+      "size": 70.0
+    },
+    {
+      "x": 268.0,
+      "y": 224.0,
+      "size": 150.0
+    },
+    {
+      "x": 574.0,
+      "y": 214.0,
+      "size": 100.0
+    },
+    {
+      "x": 768.0,
+      "y": 396.0,
+      "size": 120.0
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+
+BMO@0.5x.webp
+size: 488,198
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BMO-Eye-L-Tight-Close
+  rotate: true
+  xy: 342, 27
+  size: 51, 8
+  orig: 51, 8
+  offset: 0, 0
+  index: -1
+BMO-Eyeball-L
+  rotate: true
+  xy: 317, 28
+  size: 49, 11
+  orig: 49, 11
+  offset: 0, 0
+  index: -1
+BMO-Eyeball-La
+  rotate: true
+  xy: 330, 28
+  size: 49, 11
+  orig: 49, 11
+  offset: 0, 0
+  index: -1
+BMO-Face
+  rotate: false
+  xy: 358, 28
+  size: 91, 86
+  orig: 91, 86
+  offset: 0, 0
+  index: -1
+BMO-Head
+  rotate: true
+  xy: 1, 7
+  size: 189, 136
+  orig: 189, 136
+  offset: 0, 0
+  index: -1
+BMO-L-Hand
+  rotate: true
+  xy: 304, 3
+  size: 22, 54
+  orig: 24, 55
+  offset: 0, 1
+  index: -1
+BMO-L-Hand_palm
+  rotate: false
+  xy: 450, 83
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+BMO-L-Shoe
+  rotate: true
+  xy: 442, 4
+  size: 23, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+BMO-L-Thigh
+  rotate: false
+  xy: 450, 38
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+BMO-Mouth-Excited
+  rotate: true
+  xy: 475, 89
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+BMO-Mouth-Happy
+  rotate: true
+  xy: 450, 60
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+BMO-Mouth-Idle
+  rotate: true
+  xy: 469, 63
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+BMO-Mouth-Sad-Idle
+  rotate: false
+  xy: 1, 2
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+BMO-R-Hand
+  rotate: true
+  xy: 247, 2
+  size: 23, 56
+  orig: 25, 57
+  offset: 0, 1
+  index: -1
+BMO-R-Hand_palm
+  rotate: true
+  xy: 423, 8
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+BMO-R-Shoe
+  rotate: true
+  xy: 408, 3
+  size: 24, 14
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+BMO-R-Thigh
+  rotate: false
+  xy: 392, 1
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+BMO-round_mouth
+  rotate: false
+  xy: 359, 2
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+BMO-shadow
+  rotate: true
+  xy: 247, 27
+  size: 170, 69
+  orig: 170, 69
+  offset: 0, 0
+  index: -1
+hit
+  rotate: true
+  xy: 359, 115
+  size: 81, 127
+  orig: 85, 131
+  offset: 1, 1
+  index: -1
+tint-BMO-Body
+  rotate: true
+  xy: 138, 1
+  size: 196, 108
+  orig: 196, 110
+  offset: 0, 1
+  index: -1
+tint-BMO-L-Shoulder
+  rotate: false
+  xy: 317, 79
+  size: 39, 57
+  orig: 39, 57
+  offset: 0, 0
+  index: -1
+tint-BMO-L-Socks
+  rotate: true
+  xy: 450, 101
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+tint-BMO-R-Shoulder
+  rotate: false
+  xy: 317, 137
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+tint-BMO-R-Socks
+  rotate: true
+  xy: 359, 12
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1019 @@
+ID,ja-JP
+ad_failed.button,OK
+ad_failed.message,今は動画がありません。また後で試してください。
+ad_failed.title,おっと...
+ad_magic.button,見る
+ad_magic.message,リワード獲得のために短い動画を視聴しましょう。
+ad_magic.title,甘いブタ魔法
+android_app.button,インストールする
+android_app.text.release,プレイヤーの皆さん！弊社ゲームが Android でプレイ可能になったのでお知らせします。早速アプリをダウンロードしてください！
+android_app.title,Android で利用可能！
+android_update.restart.no,後で
+android_update.restart.text,今すぐインストールしますか？
+android_update.restart.title,アップデート可能！
+android_update.restart.yes,はい
+avatar_already_changed.button,ОК
+avatar_already_changed.message,プロフィール画像はすでに変更されています。プロフィール画像は一度しか変更できません。
+bookmark.daily,チャレンジ
+bookmark.friends,フレンド
+bookmark.settings,設定
+booster_hint.cross,%booster_shop.hint.ingame.cross%
+booster_hint.hammer,%booster_shop.hint.ingame.hammer%
+booster_hint.hand,%booster_shop.hint.ingame.hand%
+booster_shop.buy,#count つ入手：
+booster_shop.hint.ingame.cross,魔法の杖でピースを横列ごと、または縦列ごと取り除けます
+booster_shop.hint.ingame.hammer,ハンマーで潰すことでタイルを取り除けます！
+booster_shop.hint.ingame.hand,手袋で隣接する任意のピースを入れ替えることができます
+booster_shop.hint.prelevel.add_bomb,ボードにすでに爆弾がある状態でレベルが始まります！
+booster_shop.hint.prelevel.add_line,ボードにすでにラインがある状態でレベルが始まります！
+booster_shop.hint.prelevel.add_omni,ボードにすでに稲妻がある状態でレベルが始まります！
+booster_shop.hint.prelevel.add_tint,ボードにすでにペイントがある状態でレベルが始まります！
+booster_shop.hint.prelevel.double_fly,このレベルで作成されるホタルの数が倍になります！
+booster_shop.title.ingame.cross,魔法の杖
+booster_shop.title.ingame.hammer,ハンマー
+booster_shop.title.ingame.hand,手袋
+booster_shop.title.prelevel.add_bomb,爆弾ブースター
+booster_shop.title.prelevel.add_line,ラインブースター
+booster_shop.title.prelevel.add_omni,稲妻ブースター
+booster_shop.title.prelevel.add_tint,ペイントブースター
+booster_shop.title.prelevel.double_fly,ホタル x2 ブースター
+chest_open.collection_complete,回収！
+chest_open.ok,OK
+chest_opening.button,グレート！
+chest_opening.reward,リワード
+conflict_popup.continue,続ける
+conflict_popup.hint_syncing,同期しています...
+conflict_popup.skip,オフラインで続ける
+credits.art,アートデザイン
+credits.artists,"美しいアバターキャラクターを作ってくれた
+ グラフィックアーティストに感謝！"
+credits.gamedesign,ゲームデザイン
+credits.mentions,"友人たちへの
+ スペシャルサンクス"
+credits.programming,プログラミング
+credits.title,弊社の開発チーム！
+daily_help.button,OK
+daily_help.chest,最高リワード
+daily_help.reward,一度きりのリワード
+daily_help.text,"毎日、プレイヤー達がスキルを見せつけるために同じレベルで競い合っています。
+ 
+ 最高スコアを達成したプレイヤーはその日のリワードである王冠とジェムの入った箱をもらえます！"
+daily_help.title,デイリーチャレンジ
+daily_reward.button,グレート！
+daily_reward.reward,リワード
+daily_reward.title.place_1,"デイリーチャレンジに
+ 勝利しました！"
+daily_reward.title.place_generic,"デイリーチャレンジ完了
+ \##place 位にランクしました！"
+daily.drag_to_update,下向きにスライドで更新してください
+daily.epic_sunday_ribbon,フレンドリーチャレンジ
+daily.finishes_in,チャレンジは #time 後に終了します
+daily.finishes_now,チャレンジ終了！
+daily.high_score,新しいハイスコア！
+daily.medal_chest_text,{amount|#amount 個のメダル|#amount 個のメダル}を集めてください！
+daily.next_time,次のデイリーチャレンジ #time は後です
+daily.next_time_now,新しいデイリーチャレンジが始まりました！
+daily.no_yesterday_yet,前回のデイリーチャレンジに参加しませんでした
+daily.play,プレイ
+daily.retry_submit,リトライ
+daily.rewards_tab,デイリーチャレンジのリワード
+daily.rewards.bubble,"宝の入った箱を開けるために
+ 星やメダルを獲得しましょう！"
+daily.score_not_accepted,デイリーチャレンジが終了した後にプレイし終えたため、この結果はリーダーボードにカウントされません。
+daily.star_chest_claim,開ける
+daily.star_chest_collected_text,明日も戻ってまた箱を手に入れましょう
+daily.star_chest_text,連続で 7 つのデイリーチャレンジを 3 つ星で完了させてください！
+daily.submit_error,結果を送信できませんでした
+daily.today,デイリーチャレンジ
+daily.today_mark,今日
+daily.update_error,インターネットに接続されていません
+daily.wait_text,
+daily.watch_replay.button,見る
+daily.watch_replay.text,ゲームのリプレイ
+daily.welcome_reward_first,%daily_help.text%
+daily.welcome_text,"イェーイ！新しいデイリーチャレンジが
+ 始まりました！"
+daily.yesterday,昨日のハシゴ
+daily.yesterday_updating,結果を取得しています...
+demo.finished.text,"おめでとうございます。トライアル版を完了しました！PecPoc.com で<p class=""ma-link"">フルバージョンを無料プレイしましょう<p class=""demo-hint"">進行状況は失われません"
+demo.nag.text,"無料ボーナスはフルバージョンでのみ入手可能です。PecPoc.com で<p class=""ma-link"">引き続きフルバージョンをプレイしましょう<p class=""demo-hint"">進行状況は失われません"
+event_ny.next_in_hint,次のプレゼントまで：#time
+event_ny.title,新年のプレゼント
+fake_ad.reward_in,リワードまで...
+fake_ad.tutorial,"今は動画がありません...
+ 代わりにブタ魔法をどうぞ！"
+fake_ad.your_ad_here,あなたの広告はこちら
+fb_login_failed.message,Facebook に接続できませんでした。もう一度試しますか？
+fb_notification.button,接続する
+fb_notification.message,Facebook に接続してオンラインで進行状況を同期させてください！
+fb_notification.no_post_hint,プレイヤーの許可なく投稿することはありません。
+fb_notification.title,進行状況を保存してください
+feedback.failed.button,続ける
+feedback.failed.message,"フィードバックを送信できませんでした。
+ ネットワークの接続を確認してください。"
+feedback.failed.title,おっと...
+feedback.ok.button,OK
+feedback.ok.message,"フィードバックを受け取りました。
+ ゲームの改善にご協力いただきありがとうございます。"
+feedback.ok.title,フィードバックを送信しました！
+friends_tab.failed_social.button,チェックする
+friends_tab.failed_social.text,フレンドリストをアップデートするには、接続を確認する必要があります
+friends_tab.has_fb.button,フレンドを招待
+friends_tab.has_fb.text,フレンドが多いほど、たくさんギフトをもらえます！
+friends_tab.no_fb.button,接続する
+friends_tab.no_fb.hint,プレイヤーの許可なく投稿することはありません。
+friends_tab.no_fb.text,Facebook に接続して、フレンドからギフトを受け取り、進行状況をフォローしましょう。
+friends_tab.no_permission.button,はい
+friends_tab.no_permission.text,友達リストにアクセスして、もっとプレゼントをもらえる？
+friends_tab.no_social.text,ソーシャルネットワークに接続して、フレンドからギフトを受け取り、進行状況をフォローしましょう。
+friends_tab.no_y8.button,接続する
+friends_tab.no_y8.text,Y8 に接続して、フレンドからギフトを受け取り、進行状況をフォローしましょう。
+friends_tab.ok_invite_button,フレンドを招待
+friends_tab.ok_invite_gift_text,フレンドが多いほど、たくさんギフトをもらえます！
+friends_tab.ok_invite_text,フレンドが多いほど、たくさんギフトをもらえます！
+friends_tab.title,フレンド
+friends_tab.vk_friends_permission_button,はい
+friends_tab.vk_friends_permission_text,フレンドリストへのアクセスを許可して、もっとギフトを受け取りますか？
+friends_tab.vk_invite_button,フレンドを招待
+friends_tab.vk_invite_text,フレンドが多いほど、たくさんギフトをもらえます！
+friends.gift.claim,開ける
+game_results.click_to_continue,クリックして続ける
+game_results.tap_to_continue,タップして続ける
+game.click_to_continue,クリックして続ける
+game.info.ahead,{num|#fmtnum ムーブ|#fmtnum ムーブ}先を行っています
+game.info.behind,{num|#fmtnum ムーブ|#fmtnum ムーブ} 遅れています
+game.info.goals,目標
+game.info.moves,ムーブ
+game.info.pause,ポーズ
+game.info.undo,元に戻す
+game.pause.continue,"<font color=""\#408fda"">ゲームを再開する"
+game.pause.leave_forfeit,"<font color=""\#ff0000"">ゲームを終了する"
+game.pause.leave_safe,ゲームを終了する
+game.pause.title,ポーズ
+game.shoutout.their_game_result,スコア：#score
+game.shoutout.well_done,よくできました！
+game.shoutout.your_game_result,自己スコア：#score
+game.tap_to_continue,タップして続ける
+game.tutorial.continue,続ける
+gamemode.capital.aquarium,魚
+gamemode.capital.bird,鳥
+gamemode.capital.bubble,バブル
+gamemode.capital.cats,子猫
+gamemode.capital.chocolate,溶岩
+gamemode.capital.diamonds,ダイヤモンド
+gamemode.capital.ducks,アヒル
+gamemode.capital.energy_cube_reciever,クリスタル
+gamemode.capital.energycube,ゼリー
+gamemode.capital.fishes,ニンジン
+gamemode.capital.flower,花
+gamemode.capital.food,どんぐり
+gamemode.capital.fossils,タコ
+gamemode.capital.frog,カエル
+gamemode.capital.grass,草
+gamemode.capital.gum,ネバネバ
+gamemode.capital.honeybee,クマ
+gamemode.capital.hotlava,溶岩
+gamemode.capital.ice,氷
+gamemode.capital.jam,エネルギー
+gamemode.capital.jam_reciever,クリスタル
+gamemode.capital.pearl,真珠
+gamemode.capital.road,ブタ
+gamemode.capital.sausage,サーセッジ
+gamemode.capital.statue,犬
+gamemode.capital.stone,石
+gamemode.capital.tasks,オーダー
+gamemode.capital.tiles,草
+gamemode.capital.waterfish,魚
+gamemode.capital.blooplet,ブープレッツ
+gameresult.adventure.completed_continue,続ける
+gameresult.adventure.leave,出て行く
+gameresult.adventure.play_next,続ける
+gameresult.adventure.retry,もう一度やり直し
+gameresult.boosters,ブースターを選択してください
+gameresult.complete.line1,レベル
+gameresult.complete.line2,完了！
+gameresult.continue,続ける
+gameresult.daily.continue,続ける
+gameresult.daily.leave,終了する
+gameresult.daily.retry,プレイ
+gameresult.dash,-
+gameresult.forfeit,諦めました！
+gameresult.map.continue,続ける
+gameresult.map.retry,再挑戦
+gameresult.pvp.continue,続ける
+gameresult.pvp.play_another,異なるレベル
+gameresult.pvp.play_next,別のレベル
+gameresult.pvp.rematch_lose,再マッチ
+gameresult.pvp.rematch_win_draw,もう一度プレイ
+gameresult.rematch,再マッチ
+gameresult.rematch_bet,ベット#bet
+gameresult.required_ticket,必要です
+gameresult.retry,もう一度プレイしましょう。
+gameresult.rewards,リワード
+gameresult.title.completed,レベルクリア！
+gameresult.title.draw,"<font color=""\#5885B8"">引き分け"
+gameresult.title.lose,"<font color=""\#ff5666"">敗北"
+gameresult.title.win,"<font color=""\#20ea6d"">勝利！"
+gameresult.vs,VS
+gameresults.inter_ad_in_large,#count 回プレイして、
+gameresults.inter_ad_in_small,#count 回プレイします。
+gems_shop.title,ジェムショップ
+global.click_to_continue,クリックして続ける
+global.default_player_name,プレイヤー
+global.tap_to_continue,タップして続ける
+home.hint_daiy,デイリーチャレンジに挑戦する
+home.hint_play_pvp,ライフはありませんが、決闘はプレイできます！
+home.play,プレイ
+html.loading,読み込んでいます
+iap_failed.button,ОК
+iap_failed.message,購入に失敗しました
+iap_need_facebook.message,最大数のジェムを獲得するには Facebook に接続してください。
+iap_pending.button,ОК
+iap_pending.message,購入を処理しています
+intro_screen.another_device,コードあり
+intro_screen.login_back,戻る
+intro_screen.login_button,ログイン
+intro_screen.login_fb,Facebook
+intro_screen.login_ok,Odnoklassniki
+intro_screen.login_singular,ログイン
+intro_screen.login_vk,Vkontakte
+intro_screen.login_with,ログインする：
+intro_screen.login_y8,Y8
+intro_screen.login_yandex,Yandex
+intro_screen.new_player,新規プレイヤー
+introprofile.accept_avatar,選択する
+introprofile.accept_name,続ける
+introprofile.editavatar,プロフィール画像を選んでください
+introprofile.editname,名前を入力してください
+invite_request.message,最高のマッチ 3 ゲームを一緒にプレイしましょう！
+invite_request.title,一緒に『スカイダム』をプレイするフレンドを選んでください
+level_popup.goals,目標
+level_popup.play,プレイ
+level_popup.prelevel_boosters,ブースターを選択してください
+level_popup.title,レベル #level
+level_popup.title_hard,ハード
+level_popup.title_ultra_hard,スーパーハード
+level_popup.title_very_hard,ベリーハード
+link.support,https://Skydom.freshdesk.com/en/support/solutions
+link.support_beta,https://Skydombeta.freshdesk.com/en/support/solutions
+lives_shop.buy_all,5 個購入する
+lives_shop.hint,"アドベンチャーをプレイし続けるには
+ ライフが必要です"
+lives_shop.recharge,次のライフ：#time
+lives_shop.title,ライフ
+lives_shop.watch_ad_button,見る
+lives_shop.watch_ad_text,無料で 1 個
+load_player.almost_done,もう少しで終了です...
+load_player.continue_offline,オフラインで続ける
+load_player.loading_save,プレイヤーデータを読み込んでいます...
+load_player.loading_save_failed,プレイヤーデータを読み込めませんでした。
+load_player.loading_save_failed_in,"プレイヤーデータを読み込めませんでした。
+ #time 後にリトライします..."
+load_player.logging_in,ログインしています...
+load_player.logging_in_failed,ログインできませんでした。
+load_player.logging_in_failed_in,"ログインできませんでした。
+ #time 後に再試行します..."
+load_player.new_player,私は新規プレイヤーです
+load_player.retry_now,今すぐリトライ
+login_failed.button,リトライ
+login_failed.title,接続できませんでした
+magic.click_to_continue,クリックして続ける
+magic.reward,リワード
+magic.tap_to_continue,タップして続ける
+map.gates_coming_soon,"新しいレベルが
+ 近日解禁！"
+match3.level_complete.line1,すべての目的
+match3.level_complete.line2,達成！
+match3.score_pve,#score/#required
+match3.shoutout.1_move,最後のムーブ！
+match3.shoutout.2_moves,2 ムーブ
+match3.shoutout.5_moves,5 ムーブ
+match3.shoutout.no_moves,ムーブ数がなくなりました
+match3.shoutout.no_reshuffle,"再シャッフルできません
+ 可能なムーブなし"
+merge.button.mine,選択
+merge.button.their,選択
+merge.description.account_merge,"『スカイダム』はすでにプレイしているようです。
+ お好みのプロフィールを選んでください！"
+merge.description.ingame_conflict,%merge.description.login_conflict%
+merge.description.login_conflict,"複数のデバイスでプレイしています。
+ お好みの保存データを選んでください。"
+merge.hint.mine,ローカル
+merge.hint.their,サーバーから
+merge.title,進行の同期
+modal.adblock.button,ОК
+modal.adblock.text,広告ブロッカーを使っているようです。<br>動画を視聴するには、このページの広告ブロッカーを無効にしてくささい。
+modal.adblock.title,広告ブロッカー
+modal.error.button,更新する
+modal.error.text,エラーが発生しました。ページを更新してください。
+modal.error.title,おっと！問題が発生しました...
+modal.fb_login_proxy.button,続ける
+modal.fb_login_proxy.text,Facebook に接続しています
+modal.fb_login_proxy.title,
+modal.fb_purchase_proxy.button,続ける
+modal.fb_purchase_proxy.gems,ジェム
+modal.first_login_failed.button,リトライ
+modal.first_login_failed.text,現在、『スカイダム』に接続できません。また後で接続を試みてください。
+modal.first_login_failed.title,接続できませんでした
+modal.gpu_error.button,詳細情報
+modal.gpu_error.text,"ゲームを起動させるには、お使いのブラウザで
+ GPU アクセラレーションを有効にする必要があるようです。"
+modal.gpu_error.title,うーん...
+modal.maintenance.button,OK
+modal.maintenance.text,<b>#time</b> から 3 時間<br>メンテナンスが<br>実行されます。<br>クラウド保存と進行状況の同期は行えません。
+modal.maintenance.title,メンテナンス
+modal.no_hardware_accel_ff.button,ОК
+modal.no_hardware_accel_ff.text,"お使いのブラウザがパフォーマンスの問題を報告しています。ゲームのスピードが遅くなるかもしれません！
+ 
+ 修正するには、<a target=""_blank"" href=""https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features"">https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features</a> をお読みください"
+modal.no_hardware_accel_ff.title,パフォーマンスの問題
+modal.no_hardware_accel.button,ОК
+modal.no_hardware_accel_vk.button,ОК
+modal.no_hardware_accel.text,"お使いのブラウザがパフォーマンスの問題を報告しています。ゲームのスピードが遅くなるかもしれません！
+ 
+ 修正するには、<a target=""_blank"" href=""https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm"">https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm</a> をお読みください"
+modal.no_hardware_accel_vk.text,"あなたのブラウザがパフォーマンスの問題を報告しています。ゲームが非常に遅くなる可能性があります！
+
+修正するには、<a target=""_blank"" href=""https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery"">https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery</a>をお読みください。"
+modal.no_hardware_accel.title,パフォーマンスの問題
+modal.no_hardware_accel_vk.title,パフォーマンスの問題
+modal.nolocalstorage.button,ОК
+modal.nolocalstorage.text,"お使いのブラウザではゲームを保存できないようです。ブラウザでシークレットモードを使用していると、保存できないことがあります。
+ <p>
+ 進行状況を失わないように、ログインしてください！"
+modal.nolocalstorage.title,シークレットモード
+modal.oom.button,詳細情報
+modal.oom.text,メモリーが足りないようです。
+modal.oom.title,うーん...
+modal.out_of_sync.button,更新する
+modal.out_of_sync.text,『スカイダム』を複数のブラウザウィンドウで開いているようです。<br>このウィンドウでプレイを続けるには、ページを更新してください。
+modal.out_of_sync.title,『スカイダム』を複数のウィンドウでプレイ？
+modal.vk_inapp_not_allowed.button,続行
+modal.vk_inapp_not_allowed.text,"購入は <a href=""https://m.vk.com/app7409298"" target=""_blank"">m.vk.com</a> でのみ可能です"
+modal.vk_inapp_not_allowed.title,
+modal.wasm.button,詳細情報
+modal.wasm.text,お使いのブラウザは WebAssembly に対応していないようです
+modal.wasm.title,うーん...
+modal.webgl.button,詳細情報
+modal.webgl.text,お使いのブラウザは WebGL に対応していないようです
+modal.webgl.title,うーん...
+modal.yandexsdk.text,"ヤンデックスSDKが正しく読み込めませんでした。
+もう一度試しますか？
+"
+modal.yandexsdk.title,おっと
+modal.yandexsdk.button,オーケー
+name_already_changed.button,ОК
+name_already_changed.message,名前はすでに変更されています。名前は一度しか変更できません。
+networks.hint,"ソーシャルネットワークに接続することをお勧めします！
+ - クラウドにデータを保存するため、進行を失うことがありません
+  - フレンドとプレイしてギフトを受け取れます
+  - プレイヤーの許可なしに投稿することはありません"
+nickname.default,プレイヤー
+nickname.default_friend,バニー
+nickname.trainer,コーチ・#nickname
+nickname.tutorial_001,コーチ・アナ
+nickname.tutorial_002,コーチ・ジョニー
+nickname.tutorial_003,コーチ・ポリー
+nickname.you,自分
+notification.daily_lead_1,👑 #Name がデイリーチャレンジでリードしました！1 位を取り戻したいですか？
+notification.daily_lead_2,👑 #Name がデイリーチャレンジでリードしました！
+notification.daily_lead_3,👑 今日のデイリーチャレンジは燃えます！#Name があなたからトップの座を奪いました。
+notification.daily_lead_4,👑 #Name に超されました。チャレンジのリードを取り戻したいですか？
+notification.daily_lead_5,👑 #Name がたった今、デイリーチャレンジであなたを超えたようです。
+notification.daily_lead.meta,"@{""variants"":5}"
+notification.reminder_1,😏 新しい対戦相手が、手応えのあるプレイヤーが現れるのを待っています！😎
+notification.reminder_10,👸🤴 デイリーチャレンジの今日の勝者は誰でしょうか？
+notification.reminder_11,🙄 全員が #PlayerName に倒されたことを忘れるところでした！
+notification.reminder_12,💆 『スカイダム』をプレイするのに最高の日だと思いませんか？
+notification.reminder_13,🙈😬 あなたを倒したいと夢見ているプレイヤーがいます。彼らに勝機はあると思いますか？
+notification.reminder_14,🐰 バニーからプレゼントです！ 🎁
+notification.reminder_15,😎 #PlayerName、また勝利を手にする時が来ました！🕹
+notification.reminder_16,👾👀 ちょっと休憩して連勝しにいきませんか？ 🤗
+notification.reminder_17,🌟🌟🌟 レベルをクリアしていきましょう！プレイしませんか？ 🥇😉
+notification.reminder_18,#PlayerName、あなたを倒したがっている人がいます。見事、倒せると思いますか？ 😬😬😬
+notification.reminder_19,👋 リラックスしてちょっとした勝利を味わうのはどうですか？ 🤔
+notification.reminder_2,まだ #PlayerName に倒されていない人がいます！チャンスを与えますか？
+notification.reminder_20,🦄 レインボーユニコーンには会いましたか？
+notification.reminder_3,🐷 ブタ魔法が待っています！ 🐽
+notification.reminder_4,🙈 最高のマッチ 3 プレイヤーをしばらく見ていません！まだ健在でしょうか？ 👀
+notification.reminder_5,🏆 今日はもう勝ちましたか？
+notification.reminder_6,❤️❤️❤️❤️❤️ 全てのライフがチャージされました！勝ちにいきましょう！
+notification.reminder_7,🖐🎟 5 つのトークンが使ってもらえるのを待っています！
+notification.reminder_8,🐰😍 バニーからプレゼントです！ 🎁
+notification.reminder_9,👑💎 デイリーチャレンジが始まりました！王冠と大量のジェムを手にするのは誰でしょうか？
+ny.button_claim,ギフトを開ける
+ny.button_next_in,ギフトまで：#time
+ok_login_failed.message,Odnoklassniki に接続できませんでした。もう一度試しますか？
+ok.share_tick,シェアする
+out_of_moves.continue_buy_moves,#price でプレイ
+out_of_moves.continue_watch,見る
+out_of_moves.give_up,ギブアップ
+out_of_moves.press_to_view,"ここをタップして
+ ボードを閲覧"
+out_of_moves.title.almost_there,惜しい...
+out_of_moves.title.regular,手詰まり
+outofgems.button,ショップ
+outofgems.message,ジェムがなくなりました。ショップでもっと手に入れましょう！
+outofgems.title,ジェムが足りません
+page.loading.hint_1,読み込んでいます...
+page.loading.hint_2,効果を読み込んでいます 💎💎💎
+page.loading.hint_3,ご心配なく。はまったわけではありません！😜
+page.loading.hint_4,🚀 ゲームはもうすぐ読み込まれます！🚀
+page.loading.hint_5,初回の読み込みには少し時間がかかります👌
+page.loading.hint_6,🔥 もうすぐです...👾
+page.loading.hint_7,あと少しです😊
+placeholder.hint_daily,アンロックするには 10 レベル完了させてください！
+placeholder.timestring,12 時間 34 分 56 秒
+placeholder.title_daily,"デイリーチャレンジ
+ ロック"
+popup_name.accept_name,続ける
+popup_name.not_now,今はしない
+prelevel_text.002,"対戦相手より多く<font color=""\#ff5503"">黄色のピース</font>を集めよう！"
+prelevel_text.004,"対戦相手より多く<font color=""\#ff8800"">ニンジン</font>を集めよう！"
+prelevel_text.006,"対戦相手より多く<font color=""\#4499ff"">氷</font>を消そう！"
+promo_reforged.button,受け取る
+promo_reforged.text,いいお知らせです！新しいゲームモッド「スカイダム・リフォージ」がリリースされました！このリリースを祝って、メガブースターパックを無料で差し上げます！今すぐ受け取りますか？
+promo_reforged.title,スカイダム・リフォージ！
+rate_us.description,『スカイダム』はお好きですか？
+rate_us.feedback.cancel,今はしない
+rate_us.feedback.description,返信を受け取りたい場合はメールアドレスを入力してください。
+rate_us.feedback.email_hint,メール
+rate_us.feedback.message_hint,どうすればゲームを改善できますか？
+rate_us.feedback.submit,送信する
+rate_us.star_1,嫌い
+rate_us.star_2,好きじゃない
+rate_us.star_3,まあまあ
+rate_us.star_4,好き
+rate_us.star_5,大好き
+rate_us.submit,送信する
+rate_us.write_review.cancel,今はしない
+rate_us.write_review.google_play,Google Play でゲームについての感想を記入するか、評価してください！
+rate_us.write_review.submit,もちろん！
+rate_us.write_review.yandex,Yandex Games でゲームについての感想を記入するか、評価してください！
+rematch_pvp.asks_for_rematch_draw,#name が再トライを望んでいます
+rematch_pvp.asks_for_rematch_player_lose,#name が再マッチを提案しています！
+rematch_pvp.asks_for_rematch_player_won,#name が再マッチを望んでいます！
+reward.coins,{amount|枚のコイン|枚のコイン}
+reward.gems,{amount|個のジェム|個のジェム}
+reward.lives,{amount|個のライフ|ライフ}
+reward.prelevel.add_bomb,爆弾ブースター
+reward.prelevel.add_line,ラインブースター
+reward.prelevel.add_omni,稲妻ブースター
+reward.prelevel.add_tint,ペイントブースター
+reward.prelevel.double_fly,ホタル x2 ブースター
+reward.tickets,{amount|個のトークン|個のトークン}
+reward.undo,{amount|回の「元に戻す」|回の「元に戻す」}
+search.cannot_connect,インターネットに接続されていません
+search.failed,おっと！問題が発生しました...
+search.loading,読み込んでいます...
+search.playing_with_trainer,コーチとプレイ中
+search.readying,対戦相手が見つかりました！
+search.readying_rematch,準備してください！
+search.rejected,対戦相手が逃げました
+search.searching,対戦相手を検索しています...
+search.vs,VS
+search.waiting_opp,対戦相手を待っています...
+settings.change_avatar,プロフィール画像を変更してください
+settings.change_avatar.connect_fb,接続する
+settings.change_avatar.continue,続ける
+settings.change_avatar.title,新しいプロフィール画像を選んでください
+settings.change_avatar.warning,"注意：
+ - プロフィール画像は一度しか変更できません
+ - Facebook のプロフィール画像を使うには、Facebook に接続してください"
+settings.change_avatar.warning_no_fb,注意：プロフィール画像は一度しか変更できません
+settings.change_name,名前を変える
+settings.change_name.accept_name,続ける
+settings.change_name.do_not_match,名前が一致していません。もう一度試してください。
+settings.change_name.edit,新しい名前を入力してください：
+settings.change_name.reenter,新しい名前を再入力してください：
+settings.change_name.same_name,新しい名前は現在のものと同じです
+settings.change_name.too_long,この名前は長すぎます - 最大 15 文字まで
+settings.change_name.too_short,この名前は短すぎます！=)
+settings.change_name.warning,注意：名前は一度しか変更できません
+settings.confirm_avatar.cancel,キャンセル
+settings.confirm_avatar.change,変更
+settings.confirm_avatar.title,"本当にプロフィール画像を
+ 変更してよろしいですか？
+ 新しいプロフィール画像："
+settings.confirm_avatar.warning,"注意：プロフィール画像は
+ 一度しか変更できません"
+settings.confirm_name.cancel,キャンセル
+settings.confirm_name.change,確認
+settings.confirm_name.title,本当に名前を変更しますか？新しい名前は次の通りです：
+settings.confirm_name.warning,注意：名前は一度しか変更できません
+settings.connect_fb,Facebook に接続
+settings.connect_ok,Odnoklassniki に接続
+settings.connect_vk,VK に接続
+settings.connect_y8,Y8 に接続
+settings.connect_yandex,Yandex に接続
+settings.connected_fb,Facebook
+settings.connected_ok,Odnoklassniki
+settings.connected_vk,VK
+settings.connected_y8,Y8
+settings.connected_yandex,Yandex
+settings.coupon,プロモーションコード
+settings.coupon_title,プロモーションコード
+settings.coupon.enter,適用
+settings.coupon.enter_hint,ここにプロモーションコードを入力してください
+settings.coupon.invalid_code,"<font color=""\#e90047"">このコードは無効です。別のコードをお試しください。"
+settings.coupon.missing_code,"<font color=""\#e90047"">プロモーションコードを入力してください"
+settings.coupon.ok,コードが適用されました！
+settings.credits,クレジット
+settings.eula,利用規約
+settings.fb_hint,Facebook に接続してフレンドとプレイしたり、進行状況を同期したりしましょう
+settings.general,全般
+settings.generate_key,コードを作成する
+settings.invite_friends,フレンドを招待
+settings.language,言語
+settings.language_header,言語を選択
+settings.move_hints,ヒント
+settings.music,音楽
+settings.networks,接続
+settings.networks_hint,ソーシャルネットワークに接続してフレンドとプレイしたり、進行状況を同期したりしましょう
+settings.notifications,通知
+settings.notifications.daily,デイリーチャレンジ
+settings.notifications.disable_all,すべて無効にする
+settings.notifications.disable_night,11PM から 8AM まで非作動にする
+settings.notifications.gifts,ギフト
+settings.notifications.others,その他の通知
+settings.open_support,プレイヤーサポート
+settings.open_vk_group,ゲームソーシャル
+settings.player_id,プレイヤー ID をコピー
+settings.policy,プライバシーポリシー
+settings.rate_us,評価してください
+settings.report_problem,問題を報告する
+settings.sound,サウンド
+settings.support,サポート
+settings.telegram_channel,公式 Telegram チャンネルをフォローしてください
+settings.telegram_channel_hint,スカイダムの最新情報
+settings.telegram_support,Telegram でファンチャット
+settings.title,設定
+settings.update,アップデート
+settings.y8_hint,Y8 に接続してオンラインで進行状況を同期させてください！
+settings.yandex_hint,Yandex に接続してオンラインで進行状況を同期させてください！
+shop.gems_restored.accept,素晴らしい！
+shop.gems_restored.title,ジェムの購入が完了
+shop.not_available,利用不可
+shop.remove_ads_remain_time,#time の間、広告が取り除かれました
+shop.remove_ads_text,"任意の購入でレベルの合間の
+ 広告を排除できます"
+shop.remove_ads_timed,"今月何らかの購入をすることで
+ レベルの合間の広告を排除できます"
+social_notification.button,接続する
+social_notification.message,ソーシャルネットワークに接続してオンラインで進行状況を同期させてください！
+social_notification.no_post_hint,プレイヤーの許可なく投稿することはありません。
+social_notification.title,進行状況を保存してください
+social_share.button,シェアする
+social_share.chooser_hint,シェアする手段：
+social_share.message,こんにちは！このユニークな PvP マッチ 3 ゲームをチェックしてください！こちらから入手可能：https://PecPoc.com
+social_share.subject,新しいゲーム『スカイダム』をチェックしてください
+social_share.title,"他の人とゲームをシェアしてください！
+ フレンドとプレイするともっと楽しいですよ！"
+tempkey_login.button,続ける
+tempkey_login.empty_key,コードを入力しませんでした
+tempkey_login.input.default_hint,コードを入力する
+tempkey_login.invalid_key,コードが間違っています
+tempkey_login.message_top,ここからプレイを続けてください - 「設定」の「コードを作成する」で、以前プレイした場所からコードをもらいましょう
+tempkey_login.no_connection,接続できませんでした
+tempkey.fail.button,OK
+tempkey.fail.message,ネットワークの接続を確認するか、後で再試行してください
+tempkey.fail.title,コードを作成できませんでした
+tempkey.ok.copied,コピーしました！
+tempkey.ok.copy,コピーする
+tempkey.ok.hint,コードは 4 時間後に失効します。
+tempkey.ok.message,#tempkey
+tempkey.ok.title,あなたのコード：
+tickets_shop.boost_text,補充スピード x2
+tickets_shop.buy_all,#amount 個購入する
+tickets_shop.hint,デイリーチャレンジでプレイするにはトークンが必要です
+tickets_shop.hint_out_of,"<font color=""\#e90047"">ラッキートークンがなくなりました</font>"
+tickets_shop.recharge,新しいトークンまで：#time
+tickets_shop.title,トークン
+tickets_shop.watch_ad_button,見る
+tickets_shop.watch_ad_text,無料で 1 個入手
+time.days_hours,"#days<font size=""-15""> </font><font size=""-10"">日</font> #hours<font size=""-15""> </font><font size=""-10"">時間</font>"
+time.hours,"#hours<font size=""-15""> </font><font size=""-10"">時間</font>"
+time.hours_minutes,"#hours<font size=""-15""> </font><font size=""-10"">時間</font> #minutes<font size=""-15""> </font><font size=""-10"">分</font>"
+time.hours_minutes_seconds,"#hours<font size=""-15""> </font><font size=""-10"">時間</font> #minutes<font size=""-15""> </font><font size=""-10"">分</font> #seconds<font size=""-15""> </font><font size=""-10"">秒</font>"
+time.hours_seconds,"#hours<font size=""-15""> </font><font size=""-10"">時間</font> #seconds<font size=""-15""> </font><font size=""-10"">秒</font>"
+time.less_than_minute,"1<font size=""-15""> </font><font size=""-10"">分</font>"
+time.minutes,"#minutes<font size=""-15""> </font><font size=""-10"">分</font>"
+time.minutes_seconds,"#minutes<font size=""-15""> </font><font size=""-10"">分</font> #seconds<font size=""-15""> </font><font size=""-10"">秒</font>"
+time.seconds,"#seconds<font size=""-15""> </font><font size=""-10"">秒</font>"
+tutorial_home.play,プレイ
+tutorial.001.dialog_tutorial,"<font color=""\#5885b8"">同色のピースを 3 つマッチさせて</font>消しましょう"
+tutorial.001.hint,"目的
+ 緑のピースを 12 集めます！"
+tutorial.001.turn_1,ピースを隣接のものと入れ替えながら、同色のピースを 3 つマッチさせてください
+tutorial.002.hint,対戦相手より多く黄色のピースを集めましょう！
+tutorial.skip,スキップ
+undo_shop.buy_undos,#count 回分入手：
+undo_shop.hint,「元に戻す」で最後の一手が巻き戻されます
+undo_shop.recharge,次の「元に戻す」まで：#time
+undo_shop.title,元に戻す
+undo_shop.watch_ad_button,見る
+undo_shop.watch_ad_text,無料で 1 個入手
+undo_shop.you_have,{amount|#amount 回分の「元に戻す」|#amount undos|#amount 回分の「元に戻す」}を利用可能です
+update.button,アップデート
+update.new_version,最新バージョンにアップデートしてください！
+update.new_version_value,"<font color=""\#5885b8"">#version"
+update.old_version,古いバージョンを使っています
+update.old_version_value,"<font color=""\#a5a7aa"">#version"
+update.text,"古いバージョンを使っています。
+ 最新バージョンにアップデートしてください！"
+update.title,新しいバージョンが利用可能！
+update.web.button,更新する
+update.web.message,ページを更新してください。
+update.web.title,新しいバージョンが利用可能！
+vk_login_failed.message,VK に接続できませんでした。もう一度試しますか？
+vk_promo.title,VK からのギフト！
+vk.share_tick,シェアする
+watch_for_gems.button,見る
+watch_for_gems.text,+#amount
+web.webg_context_lost,WebGL コンテキストが失われました。復旧しています...
+welcome_bonus.speech_1,"こんにちは、#PlayerName！
+ ギフトを用意しました。
+ 選んでください！"
+welcome_bonus.speech_2,"考えが具体化しています...おお！
+ ギフトのことを考えていたら、こんなことが起きました！=)"
+welcome_bonus.speech_3,"あなたが不在の間に
+ 箱を 2 つ見つけました！どちらか開けてください！"
+welcome_bonus.speech_4,"お帰りなさい、#PlayerName！
+ 雲から意外なものが
+ 落ちてきましたよ！"
+welcome_bonus.speech_5,"コウノトリが飛んでいきました...
+ コウノトリが連れてくるのは子供だけではないのですね！"
+welcome_bonus.speech_6,"お帰りなさい、#PlayerName！
+ 箱をどうぞ！"
+welcome_bonus.speech_7,お久しぶりです、#PlayerName！ちょっとしたプレゼントを用意しました！
+welcome_bonus.speech_8,"奇妙なことが起こるものですね。じっとしてるだけで
+ いきなり箱を 2 つもらえます！"
+welcome_pack.open,開ける
+welcome_pack.play,プレイ
+welcome_pack.speech_1,お久しぶりです、#PlayerName！ギフトを用意しました！
+welcome_pack.speech_2,#PlayerName、戻ってきてくれて嬉しいです！ギフトを開けてプレイしましょう！
+welcome_pack.speech_3,#PlayerName、また来てくれて嬉しいです！急いで箱を開けましょう。
+welcome_pack.speech_gift,#PlayerName、特別なギフトを用意しました＾＾ 今すぐ開けてください！
+welcome_pack.speech_reforged,#PlayerName、特別なギフトを用意しました＾＾ 今すぐ開けてください！
+y8_login_failed.message,Y8 に接続できませんでした。もう一度試しますか？
+yandex_login_failed.message,Yandex に接続できませんでした。もう一度試しますか？
+yandex_notification.button,接続する
+yandex_notification.message,Yandex に接続してオンラインで進行状況を同期させてください！
+yandex_notification.title,進行状況を保存してください
+gamemode.capital.leaf,レーブス
+yandex_login_has_attachment.message,このゲームプロフィールには、別のYandexアカウントがリンクされています。
+fb_login_has_attachment.message,このゲームプロフィールには、別のFacebookアカウントがリンクされています。
+ok_login_has_attachment.message,このゲームプロフィールには、他のOKアカウントがリンクされています。
+vk_login_has_attachment.message,このゲームプロフィールには、別のVKアカウントがリンクされています。
+y8_login_has_attachment.message,このゲームプロフィールには、別のY8アカウントがリンクされています。
+android_app.text.beta,みんなさん！嬉しいことに、私たちのゲームのAndroid版のベータテストを開始することができました！みんな歓迎します！
+bookmark.play,ホーム
+bookmark.quest,クエスト
+chest_opening.bronze,銅
+chest_opening.continue,簡単
+chest_opening.division,III部門
+chest_opening.golden,金
+chest_opening.silver,銀
+chest_opening.togoldenleague,あなたはゴールデンリーグに到達できますか？
+chest_opening.welcome,ようこそ、マッチアリーナのリーグへ！
+chest_opening.yourebronze,"あなたは
+ブロンズリーグIIIを達成しました。"
+chest.open,開く
+chest.opens_now,すごい！宝箱はあなたのものだよ！
+chest.wins_left_1,もう一回勝利だ！
+chest.wins_left_2,あと2回勝てば、あなたのものだよ！
+chest.wins_left_3,よくやった！あと3回勝利だよ！
+chest.wins_left_4,4勝したら、宝箱が開くよ！
+chest.wins_to_open,#num 勝ちで開く
+forge_help.block_1,勝利するとコインを獲得できます！
+forge_help.block_2,コインを使って、フォージをスタートして、金の棒を手に入れよう！
+forge_help.block_3,ゴールドバーを集めてリーグを上がろう！
+forge_help.block_4,新しいリーグ！新しいレベル！
+forge_help.continue,わかりました。
+forge_help.title,リーグと鍛冶屋
+forge.add,足す
+forge.boost,ブースト
+forge.boost_free,"さあ、このフォージをブーストしよう！
+最初は無料だよ！"
+forge.boost_free_ok,ブースト
+forge.buy_1,銅の鍛冶屋
+forge.buy_2,銀の鍛冶屋
+forge.buy_3,黄金の鍛冶
+forge.buy_4,ルビー・フォージ
+forge.buy_now,足す
+forge.cheat_boost,チート？チート！
+forge.name_1,銅の鍛冶屋
+forge.name_2,銀の鍛冶屋
+forge.name_3,黄金の鍛冶
+forge.name_4,ルビー・フォージ
+forge.not_enough_coins,コインが足りないよ！
+forge.ok,オーケー
+forge.open,開く
+forge.open_now,今開く
+forge.other_in_progress,まだ別のフォージが進行中だよ！
+forge.popup_boost,ブースト -30 分
+forge.popup_boost_speedup,ブースト -15 分
+forge.progress,#bars に：#time
+forge.speedup_no,いいえ
+forge.speedup_offer,"<font color=""\#5885b8"">フォージ</font>の速度を2倍に<font color=""\#5885b8"">ブースト</font>？"
+forge.speedup_ok,オーケー
+forge.speedup_success,フォージがブーストされたよ！
+forge.speedup_yes,はい
+forge.start,開始
+forge.time_1,3時間
+forge.time_2,6時間
+forge.time_3,12時間
+forge.time_4,24時間
+forge.tutorial.collect_coins,1000コインを獲得して、フォージを開始しよう！
+forge.tutorial.open_now,"すごい！溶け合いが完了した！
+鍛冶屋を開けることができるよ！"
+forge.tutorial.smelt_more,金の棒をつくり続けて、次のディビジョンに行こう！
+forge.tutorial.start_forge,"よくやった！1000コインゲット！
+さあ、鍛冶屋を始めよう！"
+forge.tutorial.wait_ready,フォージが作業中なら、もっとコインを獲得しよう！
+forge.watch_ad,見る
+gamemode.chocolate,溶岩
+gamemode.diamonds,ダイヤモンド
+gamemode.energycube,ゼリー
+gamemode.fishes,ニンジン
+gamemode.food,どんぐり
+gamemode.fossils,タコ
+gamemode.grass,草
+gamemode.honeybee,熊
+gamemode.ice,氷
+gamemode.jam,エネルギー
+gamemode.road,ピッギー
+gamemode.stone,石
+gamemode.tasks,注文
+gamemode.tiles,草
+home.bars_need_more,あなたはもっと必要です。
+home.bars_progress,#current / #total
+home.bet,#countコインを賭ける
+home.coins,#count
+home.gems,#count
+home.hint_quest_book,新しいクエストがあります！
+home.hint_quest_book.claim,やった！ 誰かが報われるぞ！
+home.hint_quest_book.new,おお！ 新しいクエスト！
+home.league_indev,次のリーグ間もなく来るよ！
+home.rematch.asks_for_rematch_draw,#nameはもう一度試したいと思っています。
+home.rematch.asks_for_rematch_player_lose,#name はリマッチを提供します。
+home.rematch.asks_for_rematch_player_won,#name はリマッチを求めています！
+home.xp,#count
+ingame_booster_shop.buy,#count を取得しましょう。
+ingame_booster_shop.hint.cross,マジックワンドを使って、1行と1列のピースを消してね！
+ingame_booster_shop.hint.hammer,ハンマーでタイルを叩いて消してね！
+ingame_booster_shop.hint.hand,グローブを使って、隣接したピースを入れ替えてね！
+ingame_booster_shop.title.cross,マジックワンド
+ingame_booster_shop.title.hammer,ハンマー
+ingame_booster_shop.title.hand,手袋
+league.Bronze,ブロンズリーグ
+league.div_1,ディビジョンI
+league.div_2,ディビジョンⅡ
+league.div_3,III級
+league.div_4,ディビジョンIV
+league.div_5,V分割
+league.E001,ブロンズⅢ
+league.E002,ブロンズⅡ
+league.E003,ブロンズI
+league.E004,シルバーIV
+league.E005,シルバー３
+league.E006,シルバー２
+league.E007,シルバーI
+league.E008,黄金V
+league.E009,黄金のIV
+league.E010,黄金のIII
+league.E011,ゴールデンⅡ
+league.E012,黄金のI
+league.E013,プラチナV
+league.E014,プラチナIV
+league.E015,プラチナIII
+league.E016,プラチナII
+league.E017,プラチナI
+league.E018,マスター１
+league.Gold,ゴールデンリーグ！
+league.Master,マスターリーグ！
+league.MasterN,マスター#div
+league.GrandMaster,グランドマスター
+league.GrandMasterN,グランドマスター#div
+league.Platinum,プラチナリーグ！
+league.Silver,シルバーリーグ！
+levelup.continue,すごい！
+levelup.reward,報酬
+levelup.title_division,"おめでとう！
+新しい部門！"
+levelup.title_league,"おめでとう！！
+新しいリーグ！」"
+ma2transfer.install,インストール
+ma2transfer.message,"マッチアリーナが新しいアプリに移動しました！
+
+重要！プログレスを移行するために以下のコードを使用してください。"
+nickname.tutorial_004,先生マイケル
+nickname.tutorial_005,フランク教授
+nickname.tutorial_006,クイーン抹茶
+nickname.tutorial_007,レオ先生
+nickname.tutorial_008,コーチ・カール
+nickname.tutorial_009,チューター・ビアディー
+nickname.tutorial_010,グルー・ヴィッキー
+placeholder.hint_friends,"友達に挑戦して
+自分のできることを見せちゃおう！"
+placeholder.hint_quests,"銅リーグIに到達しよう！
+発見するのよ！"
+placeholder.hint_settings,すぐに準備できそうだよ！
+placeholder.title_friends,"友達と一緒にプレイ
+近日公開予定"
+placeholder.title_quests,"すごいクエスト
+ロックされています"
+placeholder.title_settings,設定が構築中です。
+quest_help.block_1,クエストをクリアして報酬をゲット！
+quest_help.block_2,全てのクエストをクリアして、チェストを開けよう！
+quest_help.block_3,クエストを次のディビジョンまでに全部クリアしないと、チェストを失うよ！
+quest_help.continue,わかりました。
+quest_help.title,クエストブック
+quest.aquarium,#amount匹の魚を集める
+quest.bar,#progress / #amount
+quest.bar_completed,クエスト完了！
+quest.bar_last_try,前回の試行：#amount の #progress
+quest.bar_special_not_tried,#progress / #amount
+quest.best_so_far,最高の結果：#progress
+quest.butterfly,#amount羽の蝶を集める
+quest.buy_now,今#amountを取得しましょう。
+quest.cat,#amount 匹の子猫を集めよう！
+quest.chip_destroy,任意の個数（#amount）を集めよう！
+quest.chip_destroy_bird,#amount羽の鳥を集める
+quest.chip_destroy_blue,#amount個の青いピースを集める
+quest.chip_destroy_diamond,#amount個のダイヤモンドを集めよう
+quest.chip_destroy_fish,#amount個のニンジンを集めよう
+quest.chip_destroy_fish_blue,#amount個の青いニンジンを集めよう。
+quest.chip_destroy_fish_green,#amount個の緑のニンジンを集めよう。
+quest.chip_destroy_fish_orange,#amount個のオレンジのニンジンを集めよう。
+quest.chip_destroy_fish_purple,#amount個の紫の人参を集めよう
+quest.chip_destroy_fish_red,#amount個の赤いニンジンを集めてください。
+quest.chip_destroy_fish_yellow,#amount個の黄色のニンジンを集めよう。
+quest.chip_destroy_food,#amount個のどんぐりを取り除きましょう。
+quest.chip_destroy_frog,#amount 個のカエルを集める
+quest.chip_destroy_green,#amount個の緑のピースを集める
+quest.chip_destroy_orange,#amount個のオレンジのピースを集めてください。
+quest.chip_destroy_purple,#amount個の紫のピースを集めてください。
+quest.chip_destroy_red,#amount個の赤いピースを集めてください。
+quest.chip_destroy_snail,#amount個のカタツムリを集める
+quest.chip_destroy_super,#amount個のスーパーピースを集めよう
+quest.chip_destroy_wafer,#amount個の金鉱石を集める
+quest.chip_destroy_with_bomb,ボムを使って#amount個集めよう！
+quest.chip_destroy_with_line,#amount個のラインボーナスを集めよう！
+quest.chip_destroy_with_mine,ファイアフライボーナスで#amount個を集めよう！
+quest.chip_destroy_with_omni,ライトニングボーナスで#amount個を集めよう！
+quest.chip_destroy_yellow,#amount個の黄色のピースを集める
+quest.chip_destroy_waterfish,#amount 個の水中の魚を集める
+quest.chip_recolor,ペイントボーナスで#amount個のピースを再色しよう！
+quest.claim,報酬を受け取る
+quest.complete_chest,すべてのクエストが完了しました。
+quest.cover_destroy_bee,#amount個のクマを集めよう
+quest.cover_destroy_bound,#amount 個を解除する
+quest.cover_destroy_chocolate,ラヴァを使って#amount個のピースを取り除いてね！
+quest.cover_destroy_fizzblue,#amount個のフィズを収集しましょう。
+quest.cover_destroy_fizzpurple,#amount個のフィズを集める
+quest.cover_destroy_frozen,#amount個のフロストを取り除いて
+quest.cover_destroy_honey,ハニーで#amount個のタイルをクリアしよう！
+quest.cover_destroy_hotlava,#amount個のホット溶岩を取り除いてね！
+quest.cover_destroy_receiver_energycube,#amount個のゼリー結晶を集めよう
+quest.cover_destroy_receiver_jam,#amount個のエネルギークリスタルを集めよう
+quest.cover_destroy_statue,#amount匹の犬を集める
+quest.cover_destroy_stone,#amount個の石を取り除きます。
+quest.cover_destroy_leaf,#amount 枚の葉を取り除こう
+quest.division_done_card,次のディビジョンで新しいクエスト！
+quest.duck,#amount頭の鴨を集める
+quest.energy_flow,#amount個のタイルを引っ張ってエネルギーを取得しよう！
+quest.energycube_flow,ジェリーで#amount個のタイルを埋めよう！
+quest.fossil,#amount個のタコを集める
+quest.gum,#amount 個のガムを集めよう
+quest.new_quest,新しいクエスト！
+quest.new_quest_in,次のクエストまで：
+quest.on_arena_splash_score,アリーナブームで#amount点を獲得しよう！
+quest.on_arena_splash_use_bonus,アリーナブームで#amountのボーナスを貯めよう！
+quest.plate_destroy,#amount 個の隔たりを取り除く
+quest.play,プレイ
+quest.pvp_score,デュエルで#amountを獲得しよう！
+quest.reward,報酬:
+quest.snakes,#amount 匹のヘビを集める
+quest.tile_destroy_gold,草のタイルを#amount個集めよう！
+quest.tile_destroy_grass,草のタイルを#amount個集めよう！
+quest.title,クエストブック
+quest.use_bonus,#amount個のボーナスを使用してください。
+quest.use_bonus_bomb,#amount個のボーナスを使って爆弾を使用しましょう。
+quest.use_bonus_line,#amount 個のボーナスを使用してください。
+quest.use_bonus_mine,#amount個のボーナスを使って、蛍火を使用してください。
+quest.use_bonus_omni,ボーナスライトニングを#amount回使ってね！
+quest.use_bonus_tint,#amount個のボーナスを使ってペイントしよう！
+quest.use_combo_bomb_bomb,ボム＋ボムのコンボボーナスを#amount回作ろう！
+quest.use_combo_bomb_omni,ライトニング＋ボムのコンボボーナスを#amount回作ろう！
+quest.use_combo_bomb_tint,コンボボーナスを Paint+Bomb で #amount 回作ってね！
+quest.use_combo_line_bomb,コンボボーナスでボム＋ラインを#amount回作ろう！
+quest.use_combo_line_line,ライン＋ラインで#amount回コンボボーナスを作ろう！
+quest.use_combo_line_omni,コンボボーナスのライトニング＋ラインを#amount回作ろう！
+quest.use_combo_line_tint,コンボボーナスを Paint+Line で #amount 回作ろう！
+quest.use_combo_mine_bomb,コンボボーナス ボム＋ファイアーフライを#amount回作ろう！
+quest.use_combo_mine_line,ファイヤーフライ＋ラインでコンボボーナスを#amount回作ろう！
+quest.use_combo_mine_mine,ファイアフライ＋ファイアフライのコンボボーナスを#amount回作ろう！
+quest.use_combo_mine_omni,ライトニング＋ファイアフライを#amount回コンボボーナスを作ろう！
+quest.use_combo_mine_tint,コンボボーナスを Paint+Firefly で #amount 回作ってね！
+quest.use_combo_omni_omni,ライトニング＋ライトニングのコンボボーナスを#amount回作ろう！
+quest.use_combo_omni_tint,コンボボーナスを Paint+Lightning で #amount 回作ってね！
+quest.use_combo_tint_tint,コンボボーナスを作ろう！ペイント＋ペイントを#amount回やろう！
+quest.walk,ピッギーを#amount歩歩かせましょう。
+quest.watch_for_new,- #time
+quest.win,#amount 回のデュエルを勝ち取ろう！
+quest.win_coins,デュエルで#amountコインを稼ごう！
+quest.win_hard_level,難しいレベルをクリアしよう！
+quest.win_rematch,#amount 回リマッチを勝ち取る
+quest.win_streak,#amount連勝しよう！
+quest.chip_destroy_clam,#amount 個の真珠を集める
+quest.chip_destroy_egg,#amount個の卵を集める
+quest.gardenflower,#amount 個の花を集める
+quest.sausages,#amount個のソーセージを集めよう
+rematch.asks_for_rematch_draw,"#nameはもう一度やりたいんだ
+賭け#bet"
+rematch.asks_for_rematch_player_lose,"#nameはリマッチを提供しているよ
+賭け#betだよ！"
+rematch.asks_for_rematch_player_won,"#nameはリマッチをしたい！
+賭け#bet」"
+rematch.rematch_bet,ベット#bet
+report.body,
+report.subject,マッチアリーナの問題
+reward.bars,金の棒
+reward.coins_amt,+#amount
+reward.gems_amt,+#amount
+reward.levels,新しいレベル
+reward.levels_amt,+#amount
+reward.levelup,"おめでとう！
+新しいレベル！"
+reward.new_levels,新しいレベル！
+reward.talisman,タリスマン
+reward.xp_amt,+#amount
+search.prize_fund,賞金
+settings.friends_and_partners,友達とパートナー
+settings.language.help_us_translate,"自分が話せる言語でMatch Arenaを翻訳してくれる？サポートメールアドレス<font color=""\#0000EE"">support@matcharenagame.com</font>に連絡してね！"
+settings.notifications.duels,決闘への挑戦！
+shop.indev,近日公開！
+splash.hint_chocolate,ラヴァをできるだけ取り除いてね！
+splash.hint_diamonds,ダイヤモンドをできるだけ集めよう！
+splash.hint_energycube,ジェリーでできるだけタイルを埋めよう！
+splash.hint_fishes,キャロットをできるだけ集めよう！
+splash.hint_food,アコーネをできるだけ取り除いてね！
+splash.hint_fossils,オクトパスをなるべくたくさん救え！
+splash.hint_honeybee,ベアをできるだけ集めよう！
+splash.hint_ice,アイスをできるだけ取り除いてね！
+splash.hint_jam,エネルギーをできるだけ多くのタイルに入れよう！
+splash.hint_road,ピギーをできるだけ歩かせよう！
+splash.hint_stone,石をできるだけ取り除いてね！
+splash.hint_tasks,できるだけ多くの注文を完了しよう！
+splash.hint_tiles,グラスをできるだけ集めよう！
+splash.mode_chocolate,目標 - 溶岩
+splash.mode_diamonds,目標 - ダイヤモンド
+splash.mode_fishes,目標 - ニンジン
+splash.mode_food,目標 - どんぐり
+splash.mode_jam,目標 - エネルギー
+splash.mode_road,目標 - ピッギー
+splash.mode_tasks,目標 - 注文
+splash.mode_tiles,目標 - 草
+talismans_shop.ask_button,フェイスブック
+talismans_shop.ask_text,友達に尋ねる
+talismans_shop.boost_text,x2リフィルスピード
+talismans_shop.buy_all,#amount を取得しましょう。
+talismans_shop.hint,ダブルコインを獲得しました。
+talismans_shop.recharge,次のタリスマン：#time
+talismans_shop.title,タリスマン
+talismans_shop.watch_ad_button,見る
+talismans_shop.watch_ad_text,1つ無料でゲット！
+tickets_shop.ask_button,フェイスブック
+tickets_shop.ask_text,友達に尋ねる
+tutorial.001.collect_more_fishes,"<font color=""\#5885b8"">ニンジン</font>をたくさん集めよう！"
+tutorial.001.continue_to_collect_fishes,キャロットを集め続けよう！
+tutorial.001.first_swap_red_down,"赤いピースを下に動かして
+<font color=""\#5885b8"">3つ並べて</font>マッチさせよう！"
+tutorial.001.remind_collect_three_in_a_row,"一色の<font color=""\#5885b8"">三つのピース</font>を<font color=""\#5885b8"">一列に</font>集めよう！"
+tutorial.001.second_swap_green_left,"左に緑のピースを動かして
+<font color=""\#5885b8"">3つ並べて</font>マッチさせよう！"
+tutorial.001.third_swap_fish,"<font color=""\#5885b8"">ニンジン</font>も３つ並べてマッチできるよ！"
+tutorial.001.you_are_doing_well,よくやってるよ！
+tutorial.002.get_bonus_line,"...<font color=""\#5885b8"">ボーナスライン</font>をゲットしよう！"
+tutorial.002.try_four_in_a_row,"<font color=""\#5885b8"">4つ並べよう！</font>"
+tutorial.002.use_line_bonus,"<font color=""\#5885b8"">3つ並べてボーナス</font>をゲットしてラインの力を見よう！"
+tutorial.003.hint,カボチャを相手よりも多く集めよう！
+tutorial.003.try_l_or_t,"ピースを<font color=""\#5885b8"">TかLの形でマッチ！</font>"
+tutorial.003.use_bomb_bonus,"...でボーナス<font color=""\#5885b8"">- ボム！</font>をゲット！
+爆破しよう！"
+tutorial.004.clear_gold_tiles,"草の上で<font color=""\#5885b8"">マッチ</font>を作って収集しよう！"
+tutorial.004.combine_omni_with_blue,"スワップ<font color=""\#5885b8"">ライトニングピース</font>を青いピースと入れ替えて、
+ボードから全ての青いピースを消してね！"
+tutorial.004.try_five_in_a_row,"<font color=""\#5885b8"">５つ並べよう！</font>"
+tutorial.005.two_bonus_can_combine,"2つのボーナスを<font color=""\#5885b8"">合体させると</font>、さらに大きなボーナスが手に入るよ！"
+tutorial.007.collect_food,"<font color=""\#5885b8"">ドングリ</font>の隣でマッチを作ろう！"
+tutorial.007.move_character,"コツコツとクルクルして
+<font color=""\#5885b8"">ブタちゃんを前へ！</font>"
+tutorial.008.make_mine_bonus,4つのピースを正方形にマッチさせると、ボーナスで蛍がもらえるよ！
+tutorial.008.use_mine_bonus,"3つ並べて<font color=""\#5885b8"">蛍</font>を使おう！"
+tutorial.009.make_tint_bonus,大きなＴ字を作って、ボーナスをゲット！- ペイント！
+tutorial.009.use_tint_bonus,"<font color=""\#5885b8"">ペイント</font>は、どんなピースとも交換できるよ！"
+level_popup.adventure.title,レベル
+lives_shop.ma_hint,"アドベンチャーをプレイし続けるには
+ ライフが必要です"

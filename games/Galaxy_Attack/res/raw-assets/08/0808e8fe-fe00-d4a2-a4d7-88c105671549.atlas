@@ -1,0 +1,132 @@
+
+skel_bird_wingr_h.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images1/zuodayi1
+  rotate: false
+  xy: 1, 161
+  size: 257, 89
+  orig: 257, 89
+  offset: 0, 0
+  index: -1
+images1/zuodayi1 - 副本
+  rotate: false
+  xy: 1, 161
+  size: 257, 89
+  orig: 257, 89
+  offset: 0, 0
+  index: -1
+images1/zuodayi3
+  rotate: false
+  xy: 259, 44
+  size: 176, 116
+  orig: 176, 116
+  offset: 0, 0
+  index: -1
+images1/zuodayi3 - 副本
+  rotate: false
+  xy: 259, 44
+  size: 176, 116
+  orig: 176, 116
+  offset: 0, 0
+  index: -1
+images1/zuoding
+  rotate: false
+  xy: 436, 98
+  size: 75, 62
+  orig: 75, 62
+  offset: 0, 0
+  index: -1
+images1/zuoding - 副本
+  rotate: false
+  xy: 436, 98
+  size: 75, 62
+  orig: 75, 62
+  offset: 0, 0
+  index: -1
+images1/zuoguanjie1
+  rotate: false
+  xy: 512, 41
+  size: 105, 92
+  orig: 105, 92
+  offset: 0, 0
+  index: -1
+images1/zuoxiaoyi1
+  rotate: false
+  xy: 1, 1
+  size: 143, 69
+  orig: 143, 69
+  offset: 0, 0
+  index: -1
+images1/zuoxiaoyi1 - 副本
+  rotate: false
+  xy: 1, 1
+  size: 143, 69
+  orig: 143, 69
+  offset: 0, 0
+  index: -1
+images2/zuodayi1
+  rotate: false
+  xy: 1, 71
+  size: 257, 89
+  orig: 257, 89
+  offset: 0, 0
+  index: -1
+images2/zuodayi1 - 副本
+  rotate: false
+  xy: 259, 161
+  size: 257, 89
+  orig: 257, 89
+  offset: 0, 0
+  index: -1
+images2/zuodayi3
+  rotate: false
+  xy: 517, 134
+  size: 176, 116
+  orig: 176, 116
+  offset: 0, 0
+  index: -1
+images2/zuodayi3 - 副本
+  rotate: false
+  xy: 694, 134
+  size: 176, 116
+  orig: 176, 116
+  offset: 0, 0
+  index: -1
+images2/zuoding
+  rotate: false
+  xy: 145, 8
+  size: 75, 62
+  orig: 75, 62
+  offset: 0, 0
+  index: -1
+images2/zuoding - 副本
+  rotate: false
+  xy: 436, 35
+  size: 75, 62
+  orig: 75, 62
+  offset: 0, 0
+  index: -1
+images2/zuoguanjie1
+  rotate: false
+  xy: 618, 41
+  size: 105, 92
+  orig: 105, 92
+  offset: 0, 0
+  index: -1
+images2/zuoxiaoyi1
+  rotate: false
+  xy: 871, 181
+  size: 143, 69
+  orig: 143, 69
+  offset: 0, 0
+  index: -1
+images2/zuoxiaoyi1 - 副本
+  rotate: false
+  xy: 871, 111
+  size: 143, 69
+  orig: 143, 69
+  offset: 0, 0
+  index: -1

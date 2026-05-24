@@ -1,0 +1,38 @@
+{
+  "resolution": "standard",
+  "image1": "flying_vibrant_colour_a.jpg",
+  "image2": "flying_vibrant_colour_b.jpg",
+  "differences":
+  [
+    {
+    "x": 79.0,
+    "y": 215.0,
+    "size": 110.0
+    },
+    {
+    "x": 327.0,
+    "y": 289.0,
+    "size": 200.0
+    },
+    {
+    "x": 545.0,
+    "y": 330.0,
+    "size": 100.0
+    },
+    {
+    "x": 680.0,
+    "y": 567.0,
+    "size": 90.0
+    },
+    {
+    "x": 812.0,
+    "y": 461.0,
+    "size": 80.0
+    },
+    {
+    "x": 931.0,
+    "y": 64.0,
+    "size": 120.0
+    }
+  ]
+}

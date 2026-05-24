@@ -1,0 +1,44 @@
+ {
+	"size":9,
+	"moves":53,
+	"add":[		
+		{ "x":0, "y":0, "type":"COLOR_EGG", "count":true },		
+		{ "x":2, "y":0, "type":"COLOR_EGG", "count":true },		
+		{ "x":4, "y":0, "type":"COLOR_EGG", "count":true },		
+		{ "x":6, "y":0, "type":"COLOR_EGG", "count":true },		
+		{ "x":8, "y":0, "type":"COLOR_EGG", "count":true },		
+		
+		{ "x":0, "y":2, "type":"COLOR_EGG", "count":true },		
+		{ "x":2, "y":2, "type":"COLOR_EGG", "count":true },		
+		{ "x":4, "y":2, "type":"COLOR_EGG", "count":true },		
+		{ "x":6, "y":2, "type":"COLOR_EGG", "count":true },		
+		{ "x":8, "y":2, "type":"COLOR_EGG", "count":true },		
+		
+		{ "x":0, "y":4, "type":"COLOR_EGG", "count":true },		
+		{ "x":2, "y":4, "type":"COLOR_EGG", "count":true },		
+		{ "x":4, "y":4, "type":"COLOR_EGG", "count":true },		
+		{ "x":6, "y":4, "type":"COLOR_EGG", "count":true },		
+		{ "x":8, "y":4, "type":"COLOR_EGG", "count":true },		
+		
+		{ "x":0, "y":6, "type":"COLOR_EGG", "count":true },		
+		{ "x":2, "y":6, "type":"COLOR_EGG", "count":true },		
+		{ "x":4, "y":6, "type":"COLOR_EGG", "count":true },		
+		{ "x":6, "y":6, "type":"COLOR_EGG", "count":true },		
+		{ "x":8, "y":6, "type":"COLOR_EGG", "count":true },		
+		
+		{ "x":0, "y":8, "type":"COLOR_EGG", "count":true },		
+		{ "x":2, "y":8, "type":"COLOR_EGG", "count":true },		
+		{ "x":4, "y":8, "type":"COLOR_EGG", "count":true },		
+		{ "x":6, "y":8, "type":"COLOR_EGG", "count":true },		
+		{ "x":8, "y":8, "type":"COLOR_EGG", "count":true },
+		
+		
+		{ "x":1, "y":3, "dx":2, "dy":1, "type":"GEM_YELLOW"},
+		{ "x":3, "y":4, "type":"GEM_YELLOW"},
+		{ "x":2, "y":5, "type":"GEM_YELLOW"},		
+		{ "x":1, "y":2, "type":"GEM_BLUE"},		
+		{ "x":1, "y":4, "type":"GEM_RED"},		
+		{ "x":3, "y":3, "type":"GEM_BLUE"},		
+		{ "x":0, "y":3, "type":"GEM_GREEN"}	
+	]
+}

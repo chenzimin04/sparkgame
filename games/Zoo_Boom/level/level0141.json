@@ -1,0 +1,20 @@
+ {
+	"size":9,
+	"moves":35,
+	"fill":"up",
+	"add":[		
+		{ "x":0, "y":0, "type":"FAT_MULTI", "count":true },
+		{ "x":7, "y":0, "type":"FAT_MULTI", "count":true }
+	],
+	"allowedGemTypes":["GEM_YELLOW","GEM_GREEN","GEM_RED","GEM_BLUE"],
+	"field":[
+		"oooxxxooo",
+		"oooxxxooo",
+		"oooxxxooo",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"oooxxxooo",
+		"xxoxxxoxx",
+		"xxoxxxoxx"]
+ }

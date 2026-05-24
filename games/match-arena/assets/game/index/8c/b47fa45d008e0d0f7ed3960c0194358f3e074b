@@ -1,0 +1,1022 @@
+ID,ms-MY
+ad_failed.button,OK
+ad_failed.message,"Tiada video yang tersedia pada masa ini, sila cuba lagi nanti."
+ad_failed.title,Ups...
+ad_magic.button,Tonton
+ad_magic.message,Tonton klip pendek untuk mendapat hadiah.
+ad_magic.title,Piggy-Magic Manis
+android_app.button,Pasang
+android_app.text.release,Sahabat-sahabat! Kami gembira untuk memberitahu anda bahawa permainan kami kini tersedia di Android. Sila muat turun aplikasi ini!
+android_app.title,Sekarang di Android!
+android_update.restart.no,Kemudian
+android_update.restart.text,Pasang sekarang?
+android_update.restart.title,Kemas kini Siap!
+android_update.restart.yes,Ya
+avatar_already_changed.button,ОК
+avatar_already_changed.message,Gambar profil anda telah ditukar. Anda hanya boleh menukar gambar profil SEKALI sahaja.
+bookmark.daily,Cabaran
+bookmark.friends,Kawan-kawan
+bookmark.settings,Tetapan
+booster_hint.cross,%booster_shop.hint.ingame.cross%
+booster_hint.hammer,%booster_shop.hint.ingame.hammer%
+booster_hint.hand,%booster_shop.hint.ingame.hand%
+booster_shop.buy,Dapatkan #count
+booster_shop.hint.ingame.cross,Gunakan Tongkat Ajaib untuk membuang satu baris dan satu lajur cebisan!
+booster_shop.hint.ingame.hammer,Buang tile dengan menghancurkannya menggunakan Palu!
+booster_shop.hint.ingame.hand,Gunakan Sarung Tangan untuk tukar mana-mana keping bersebelahan!
+booster_shop.hint.prelevel.add_bomb,Mulakan mana-mana aras dengan Bom sudah ada di papan!
+booster_shop.hint.prelevel.add_line,Mulakan mana-mana tahap dengan Garisan sudah ada di papan!
+booster_shop.hint.prelevel.add_omni,Mulakan mana-mana tahap dengan Petir sudah ada di papan!
+booster_shop.hint.prelevel.add_tint,Mulakan mana-mana tahap dengan Cat sudah ada di papan!
+booster_shop.hint.prelevel.double_fly,Pertambahkan dua kali lipat semua Kepodang yang dicipta semasa tahap ini!
+booster_shop.title.ingame.cross,Tongkat Sihir
+booster_shop.title.ingame.hammer,Palu
+booster_shop.title.ingame.hand,Sarung Tangan
+booster_shop.title.prelevel.add_bomb,Booster Bom
+booster_shop.title.prelevel.add_line,Booster Garis
+booster_shop.title.prelevel.add_omni,Booster Petir
+booster_shop.title.prelevel.add_tint,Booster Cat Warna
+booster_shop.title.prelevel.double_fly,Booster Kepul-kepul x2
+chest_open.collection_complete,Dikumpulkan!
+chest_open.ok,OK
+chest_opening.button,Hebat!
+chest_opening.reward,Hadiah
+conflict_popup.continue,Teruskan
+conflict_popup.hint_syncing,Menyegerakkan...
+conflict_popup.skip,Teruskan Luar Talian
+credits.art,Reka bentuk seni
+credits.artists,"Banyak cinta untuk rakan-rakan artis grafik
+untuk watak avatar yang cantik!"
+credits.gamedesign,Reka Bentuk Permainan
+credits.mentions,"Terima kasih khas
+kepada rakan-rakan kami
+"
+credits.programming,Pemrograman
+credits.title,Pasukan kami!
+daily_help.button,OK
+daily_help.chest,Hadiah Utama
+daily_help.reward,Hadiah sekali
+daily_help.text,"Setiap hari pemain menunjukkan kemahiran dan bersaing pada satu tahap.
+
+Pemain dengan skor tertinggi akan menerima hadiah hari itu - Mahkota dan Peti Intan!"
+daily_help.title,Cabaran Harian
+daily_reward.button,Hebat!
+daily_reward.reward,Hadiah
+daily_reward.title.place_1,Anda adalah pemenang Cabaran Harian!
+daily_reward.title.place_generic,"Cabaran Harian selesai
+Anda menduduki \##tempat!"
+daily.drag_to_update,Tarik untuk menyegarkan semula
+daily.epic_sunday_ribbon,Cabaran Mesra
+daily.finishes_in,Cabaran berakhir dalam #masa
+daily.finishes_now,Cabaran berakhir!
+daily.high_score,Skor Tertinggi Baru!
+daily.medal_chest_text,Kumpulkan #jumlah medali!
+daily.next_time,Cabaran Harian Berikutnya dalam #masa
+daily.next_time_now,Cabaran Harian Baru telah bermula!
+daily.no_yesterday_yet,Anda tidak menyertai Cabaran Harian sebelumnya
+daily.play,Main
+daily.retry_submit,Ulangi
+daily.rewards_tab,Hadiah Cabaran Harian
+daily.rewards.bubble,"Kumpulkan bintang dan pingat
+untuk membuka peti harta karun!"
+daily.score_not_accepted,Hasil ini tidak akan dihitung dalam papan pemimpin kerana anda telah selesai bermain selepas tamat Cabaran Harian.
+daily.star_chest_claim,Buka
+daily.star_chest_collected_text,Datang esok untuk peti lain
+daily.star_chest_text,Lengkapkan dengan 3 bintang 7 Cabaran Harian berurutan!
+daily.submit_error,Tidak dapat menghantar keputusan
+daily.today,Cabaran Harian
+daily.today_mark,Hari ini
+daily.update_error,Tiada sambungan internet
+daily.wait_text,
+daily.watch_replay.button,Tonton
+daily.watch_replay.text,Rekod permainan
+daily.welcome_reward_first,%daily_help.text%
+daily.welcome_text,Ya! Cabaran Harian baru bermula!
+daily.yesterday,Tangga Semalam
+daily.yesterday_updating,Mengambil keputusan...
+demo.finished.text,"Tahniah, anda telah menyelesaikan versi percubaan! Mainkan versi penuh secara percuma di <p class=""ma-link"">PecPoc.com<p class=""demo-hint"">Kemajuan anda tidak akan hilang"
+demo.nag.text,"Bonus percuma hanya tersedia dalam versi penuh. Teruskan bermain versi penuh di <p class=""ma-link"">PecPoc.com<p class=""demo-hint"">Kemajuan anda tidak akan hilang."
+event_ny.next_in_hint,Dapatkan hadiah seterusnya dalam: #masa
+event_ny.title,Hadiah Tahun Baru
+fake_ad.reward_in,Hadiah dalam...
+fake_ad.tutorial,"Maaf, tidak ada video yang tersedia saat ini...
+Jangan risau, mari kita lihat sihir Babi Piggy sebagai gantinya!"
+fake_ad.your_ad_here,Iklan anda di sini
+fb_login_failed.message,Tidak dapat menyambung ke Facebook. Cuba lagi?
+fb_notification.button,Sambung
+fb_notification.message,Sambungkan ke Facebook untuk segerakkan kemajuan anda secara dalam talian!
+fb_notification.no_post_hint,Kami tidak akan mengirimkan tanpa kebenaran anda.
+fb_notification.title,Simpan kemajuan anda
+feedback.failed.button,Teruskan
+feedback.failed.message,"Tidak dapat menghantar maklum balas.
+Semak sambungan internet anda."
+feedback.failed.title,Ooops...
+feedback.ok.button,OK
+feedback.ok.message,"Kami telah menerima maklum balas anda.
+Terima kasih kerana membantu kami meningkatkan permainan ini."
+feedback.ok.title,Umpan balik dihantar!
+friends_tab.failed_social.button,Semak
+friends_tab.failed_social.text,Kami perlu memeriksa sambungan untuk mengemaskini senarai kawan-kawan
+friends_tab.has_fb.button,Undang Rakan
+friends_tab.has_fb.text,"Semakin banyak kawan, semakin banyak hadiah yang anda dapat!"
+friends_tab.no_fb.button,Sambung
+friends_tab.no_fb.hint,Kami tidak akan mengirimkan tanpa kebenaran anda.
+friends_tab.no_fb.text,Sambungkan ke Facebook dan terima hadiah daripada kawan-kawan dan ikuti kemajuan mereka.
+friends_tab.no_permission.button,Ya
+friends_tab.no_permission.text,Benarkan akses ke senarai kawan anda untuk menerima lebih banyak hadiah?
+friends_tab.no_social.text,Sambungkan rangkaian sosial dan terima hadiah daripada kawan-kawan dan ikuti perkembangan mereka.
+friends_tab.no_y8.button,Sambung
+friends_tab.no_y8.text,Sambungkan Y8 dan terima hadiah daripada kawan-kawan dan ikuti perkembangan mereka.
+friends_tab.ok_invite_button,Undang Rakan
+friends_tab.ok_invite_gift_text,Dapatkan 100 berlian jika anda mengundang 10 rakan!
+friends_tab.ok_invite_text,"Semakin banyak kawan, semakin banyak hadiah yang anda dapat!"
+friends_tab.title,Kawan-kawan
+friends_tab.vk_friends_permission_button,Ya
+friends_tab.vk_friends_permission_text,Benarkan akses ke senarai kawan anda untuk menerima lebih banyak hadiah?
+friends_tab.vk_invite_button,Undang Rakan
+friends_tab.vk_invite_text,"Semakin banyak kawan, semakin banyak hadiah yang anda dapat!"
+friends.gift.claim,Buka
+game_results.click_to_continue,Klik untuk meneruskan
+game_results.tap_to_continue,Tekan untuk meneruskan
+game.click_to_continue,Klik untuk meneruskan
+game.info.ahead,ANDA #fmtnum LANGKAH DI DEPAN
+game.info.behind,ANDA #fmtnum LANGKAH DI BELAKANG
+game.info.goals,Tujuan
+game.info.moves,GERAKAN
+game.info.pause,JEDA
+game.info.undo,UNDO
+game.pause.continue,"<font color=""\#408fda"">Sambung permainan"
+game.pause.leave_forfeit,"<font color=""\#ff0000"">Berakhir permainan"
+game.pause.leave_safe,Akhiri permainan
+game.pause.title,Jeda
+game.shoutout.their_game_result,Skor: #score
+game.shoutout.well_done,Bagus!
+game.shoutout.your_game_result,Skor anda: #skor
+game.tap_to_continue,Tekan untuk meneruskan
+game.tutorial.continue,Teruskan
+gamemode.capital.aquarium,IKAN
+gamemode.capital.bird,BURUNG
+gamemode.capital.bubble,Gelembung
+gamemode.capital.cats,KUCING
+gamemode.capital.chocolate,LAVA
+gamemode.capital.diamonds,BERLIAN
+gamemode.capital.ducks,ANAK-ANAK BEBEK
+gamemode.capital.energy_cube_reciever,KRISTAL
+gamemode.capital.energycube,JELI
+gamemode.capital.fishes,CARROT
+gamemode.capital.flower,BUNGA
+gamemode.capital.food,KACANG KELAPA
+gamemode.capital.fossils,PENYU
+gamemode.capital.frog,KELEDAI
+gamemode.capital.grass,RUMPUT
+gamemode.capital.gum,LEMBUT
+gamemode.capital.honeybee,BERUANG
+gamemode.capital.hotlava,LAVA
+gamemode.capital.ice,AIS
+gamemode.capital.jam,ENERGI
+gamemode.capital.jam_reciever,KRISTAL
+gamemode.capital.pearl,MUTIARA
+gamemode.capital.road,BABI
+gamemode.capital.sausage,SOSIS
+gamemode.capital.statue,ANJING
+gamemode.capital.stone,BATU
+gamemode.capital.tasks,PESANAN
+gamemode.capital.tiles,RUMPUT
+gamemode.capital.waterfish,IKAN
+gamemode.capital.blooplet,BLOOPLETS
+gameresult.adventure.completed_continue,Teruskan
+gameresult.adventure.leave,Pergi
+gameresult.adventure.play_next,Teruskan
+gameresult.adventure.retry,Cuba Lagi
+gameresult.boosters,Pilih Booster
+gameresult.complete.line1,Tahap
+gameresult.complete.line2,Selesai!
+gameresult.continue,Teruskan
+gameresult.daily.continue,Teruskan
+gameresult.daily.leave,Keluar
+gameresult.daily.retry,Main
+gameresult.dash,-
+gameresult.forfeit,Anda menyerah!
+gameresult.map.continue,Teruskan
+gameresult.map.retry,Cuba Lagi
+gameresult.pvp.continue,Teruskan
+gameresult.pvp.play_another,Aras yang Berbeza
+gameresult.pvp.play_next,Aras yang Berbeza
+gameresult.pvp.rematch_lose,Pertandingan Semula
+gameresult.pvp.rematch_win_draw,Main Lagi
+gameresult.rematch,Pertandingan Semula
+gameresult.rematch_bet,Taruhan #bet
+gameresult.required_ticket,Diperlukan
+gameresult.retry,Main Lagi
+gameresult.rewards,Hadiah
+gameresult.title.completed,"<font color=""\#47f05f"">Tahap selesai!"
+gameresult.title.draw,"<font color=""\#5885B8"">Tarik"
+gameresult.title.lose,"<font color=""\#ff5666"">Anda kalah"
+gameresult.title.win,"<font color=""\#47f05f"">Anda menang!"
+gameresult.vs,VS
+gameresults.inter_ad_in_large,#count main sehingga
+gameresults.inter_ad_in_small,#count main sehingga
+gems_shop.title,Kedai Gem
+global.click_to_continue,Klik untuk meneruskan
+global.default_player_name,Pemain
+global.tap_to_continue,Tekan untuk meneruskan
+home.hint_daiy,Cuba Cabaran Harian
+home.hint_play_pvp,Anda masih boleh bermain duel walaupun anda sudah kehabisan nyawa!
+home.play,Main
+html.loading,Memuatkan
+iap_failed.button,ОК
+iap_failed.message,Pembelian tidak berjaya.
+iap_need_facebook.message,Sambungkan ke Facebook untuk mengisi semula Gem.
+iap_pending.button,ОК
+iap_pending.message,Pembelian anda sedang diproses
+intro_screen.another_device,Dengan Kod
+intro_screen.login_back,Kembali
+intro_screen.login_button,Log masuk
+intro_screen.login_fb,Facebook
+intro_screen.login_ok,Odnoklassniki
+intro_screen.login_singular,Log masuk
+intro_screen.login_vk,Vkontakte
+intro_screen.login_with,Log masuk dengan
+intro_screen.login_y8,Y8
+intro_screen.login_yandex,Yandex
+intro_screen.new_player,Pemain Baru
+introprofile.accept_avatar,Pilih
+introprofile.accept_name,Teruskan
+introprofile.editavatar,Pilih gambar profil
+introprofile.editname,Masukkan nama anda
+invite_request.message,Mari mainkan permainan pasangan terbaik bersama-sama!
+invite_request.title,Pilih Rakan untuk Bermain Skydom Bersama
+level_popup.goals,Tujuan
+level_popup.play,Main
+level_popup.prelevel_boosters,Pilih Booster
+level_popup.title,Tahap #level
+level_popup.title_hard,Sukar
+level_popup.title_ultra_hard,Super sukar
+level_popup.title_very_hard,Sangat sukar
+link.support,https://Skydom.freshdesk.com/en/support/solutions
+link.support_beta,https://Skydombeta.freshdesk.com/en/support/solutions
+lives_shop.buy_all,Beli 5
+lives_shop.hint,"Anda memerlukan nyawa untuk
+terus bermain Petualangan"
+lives_shop.recharge,Kehidupan berikutnya: #time
+lives_shop.title,Kehidupan
+lives_shop.watch_ad_button,Tonton
+lives_shop.watch_ad_text,Percuma 1
+load_player.almost_done,Hampir siap...
+load_player.continue_offline,Teruskan Luar Talian
+load_player.loading_save,Memuatkan data pemain...
+load_player.loading_save_failed,Tidak dapat memuatkan data pemain.
+load_player.loading_save_failed_in,"Tidak dapat memuatkan data pemain.
+Mencuba semula dalam #time..."
+load_player.logging_in,Log masuk...
+load_player.logging_in_failed,Tidak dapat log masuk.
+load_player.logging_in_failed_in,"Tidak dapat log masuk.
+Mencuba lagi dalam #time..."
+load_player.new_player,Saya pemain baru
+load_player.retry_now,Cuba Sekarang
+login_failed.button,Ulangi
+login_failed.title,Gagal untuk menyambung
+magic.click_to_continue,Klik untuk meneruskan
+magic.reward,Hadiah
+magic.tap_to_continue,Tekan untuk meneruskan
+map.gates_coming_soon,"Tahap baru
+akan datang segera!"
+match3.level_complete.line1,Semua Matlamat
+match3.level_complete.line2,Tercapai!
+match3.score_pve,#score/#required
+match3.shoutout.1_move,Langkah terakhir!
+match3.shoutout.2_moves,2 gerakan
+match3.shoutout.5_moves,5 gerakan
+match3.shoutout.no_moves,Tiada lagi gerakan
+match3.shoutout.no_reshuffle,"Tidak boleh mengacak semula
+Tiada gerakan yang mungkin
+"
+merge.button.mine,Pilih
+merge.button.their,Pilih
+merge.description.account_merge,"Nampaknya anda sudah bermain Skydom.
+Pilih profil yang anda sukai!
+"
+merge.description.ingame_conflict,%merge.description.login_conflict%
+merge.description.login_conflict,"Anda bermain dari pelbagai peranti.
+Pilih simpanan yang diutamakan.
+"
+merge.hint.mine,lokal
+merge.hint.their,dari pelayan
+merge.title,Sinkronisasi Pertumbuhan
+modal.adblock.button,ОК
+modal.adblock.text,Kami telah mengesan bahawa anda menggunakan Ad Blocker.<br>Sila nyahaktifkan Ad Blocker untuk halaman ini untuk dapat menonton Video.
+modal.adblock.title,Penyekat Iklan
+modal.error.button,Muat semula
+modal.error.text,"Maaf, ralat telah berlaku. Sila muat semula halaman."
+modal.error.title,Maaf! Sesuatu berlaku salah...
+modal.fb_login_proxy.button,Teruskan
+modal.fb_login_proxy.text,Menyambung ke Facebook
+modal.fb_login_proxy.title,
+modal.fb_purchase_proxy.button,Teruskan
+modal.fb_purchase_proxy.gems,Batu permata
+modal.first_login_failed.button,Cuba Lagi
+modal.first_login_failed.text,Tidak dapat menyambung ke Skydom pada masa ini. Sila cuba menyambung semula kemudian.
+modal.first_login_failed.title,Gagal untuk menyambung
+modal.gpu_error.button,Maklumat lanjut
+modal.gpu_error.text,Nampaknya anda perlu membolehkan GPU-Pemecutan dalam pelayar anda untuk menjalankan permainan.
+modal.gpu_error.title,Hmmm...
+modal.maintenance.button,OK
+modal.maintenance.text,Pemeliharaan akan dijalankan pada<br> <b>#time</b><br> selama 3 jam.<br>Penyimpanan awan dan penyegerakan kemajuan tidak akan berfungsi.
+modal.maintenance.title,Pemeliharaan
+modal.no_hardware_accel_ff.button,ОК
+modal.no_hardware_accel_ff.text,"Pelayar anda melaporkan masalah prestasi, permainan mungkin berjalan sangat perlahan!
+
+Untuk membaiki, sila baca <a target=""_blank""  href=""https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features"">https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features</a>
+"
+modal.no_hardware_accel_ff.title,Masalah Prestasi
+modal.no_hardware_accel.button,ОК
+modal.no_hardware_accel_vk.button,ОК
+modal.no_hardware_accel.text,"Pelayar anda melaporkan masalah prestasi, permainan mungkin berjalan sangat perlahan!
+
+Untuk membaiki, sila baca <a target=""_blank""  href=""https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm"">https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm</a>
+"
+modal.no_hardware_accel_vk.text,"Pelayar anda melaporkan masalah prestasi, permainan mungkin berjalan sangat perlahan!
+
+Untuk membaiki, sila baca <a target=""_blank""  href=""https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery"">https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery</a>"
+modal.no_hardware_accel.title,Masalah Prestasi
+modal.no_hardware_accel_vk.title,Masalah Prestasi
+modal.nolocalstorage.button,ОК
+modal.nolocalstorage.text,"Nampaknya pelayar anda tidak membenarkan kami untuk menyimpan permainan anda. Ini mungkin disebabkan oleh penggunaan Mod Inkognito di pelayar anda.
+<p>
+Sila log masuk untuk mengelakkan kehilangan progres anda!"
+modal.nolocalstorage.title,Mod Inkognito
+modal.oom.button,Maklumat lanjut
+modal.oom.text,Nampaknya memori tidak mencukupi.
+modal.oom.title,"Hmm.. 
+Memori tidak mencukupi"
+modal.out_of_sync.button,Muat semula
+modal.out_of_sync.text,Nampaknya anda telah membuka Skydom di beberapa tetingkap pelayar. <br>Sila muat semula untuk meneruskan bermain dalam tetingkap ini.
+modal.out_of_sync.title,Beberapa tetingkap dengan Skydom?
+modal.vk_inapp_not_allowed.button,Pergi
+modal.vk_inapp_not_allowed.text,"Pembelian hanya boleh dibuat di <a href=""https://m.vk.com/app7409298"" target=""_blank"">m.vk.com</a>"
+modal.vk_inapp_not_allowed.title,
+modal.wasm.button,Maklumat lanjut
+modal.wasm.text,Browser anda nampaknya tidak menyokong WebAssembly
+modal.wasm.title,Hmmm...
+modal.webgl.button,Maklumat lanjut
+modal.webgl.text,Browser anda tidak nampaknya menyokong WebGL
+modal.webgl.title,Hmmm...
+modal.yandexsdk.text,SDK Yandex tidak dimuatkan dengan betul. Cuba lagi?
+modal.yandexsdk.title,Ooops
+modal.yandexsdk.button,OK
+name_already_changed.button,ОК
+name_already_changed.message,Nama anda telah ditukar. Anda hanya boleh menukar nama SEKALI sahaja.
+networks.hint,"Kami menggalakkan anda untuk menyambung ke rangkaian sosial!
+ - Jangan kehilangan progres anda dengan menyimpannya di dalam awan
+ - Main bersama kawan-kawan dan terima hadiah
+ - Kami tidak akan membuat posting tanpa kebenaran anda
+"
+nickname.default,Pemain
+nickname.default_friend,Kelinci
+nickname.trainer,Pengajar #nickname
+nickname.tutorial_001,Kaunselor Anna
+nickname.tutorial_002,Kaunselor Jonny
+nickname.tutorial_003,Guru Polly
+nickname.you,Anda
+notification.daily_lead_1,👑 #Name telah mengambil alih kepimpinan dalam Cabaran Harian! Ingin menuntut semula tempat pertama?
+notification.daily_lead_2,👑 #Name telah mengambil alih kepimpinan dalam Cabaran Harian!
+notification.daily_lead_3,👑 Hari ini cabaran harian sangat panas! #Name mengambil tempat pertama anda.
+notification.daily_lead_4,👑 #Name telah mengambil alih. Ingin menuntut semula kepimpinan dalam Cabaran?
+notification.daily_lead_5,👑 Nampaknya #Name baru sahaja mengalahkan anda dalam Cabaran Harian.
+notification.daily_lead.meta,"@{""variants"":5}"
+notification.reminder_1,😏 Musuh baru menunggu pemain yang paling berjanji! 😎
+notification.reminder_10,👸🤴 Siapa yang akan menjadi pemenang Cabaran Harian hari ini?
+notification.reminder_11,🙄 Kami hampir lupa bagaimana semua orang dikalahkan oleh #PlayerName!
+notification.reminder_12,"💆 Hari yang bagus untuk bermain Skydom, bukan? 💪"
+notification.reminder_13,🙈😬 Ada beberapa orang di sini yang bermimpi untuk mengalahkanmu. Kau fikir mereka punya peluang?
+notification.reminder_14,🐰 Kelinci dapat hadiah untukmu! 🎁
+notification.reminder_15,"😎 #PlayerName, sudah tiba masanya untuk menang lagi! 🕹"
+notification.reminder_16,👾👀 Sudah tiba masanya untuk berhenti dan menang berturut-turut 🤗
+notification.reminder_17,🌟🌟🌟 Tahap tidak akan selesai sendiri! Mari bermain? 🥇😉
+notification.reminder_18,"#PlayerName, seseorang ingin mengalahkanmu. Apa kamu pikir mereka akan berhasil? 😬😬😬"
+notification.reminder_19,👋 Sudah tiba masanya untuk bersantai dan menang beberapa kali? 🤔
+notification.reminder_2,Bukan semua orang telah kalah kepada #PlayerName! Beri mereka peluang?
+notification.reminder_20,🦄 Sudahkah anda bertemu Unicorn Pelangi kami?
+notification.reminder_3,🐷 Magik Babi Menanti! 🐽
+notification.reminder_4,🙈 Tak nampak pemain Match3 yang terbaik selama ini! Masih ada ke? 👀
+notification.reminder_5,🏆 Sudah menang hari ini?
+notification.reminder_6,❤️❤️❤️❤️❤️ Semua Kehidupan diisi semula! Masanya untuk menang!
+notification.reminder_7,🖐🎟 5 Token menunggu untuk dibelanjakan!
+notification.reminder_8,🐰😍 Kelinci dapatkan hadiah untuk anda! 🎁
+notification.reminder_9,👑💎 Cabaran Harian telah bermula! Siapa yang akan mendapat mahkota dan banyak berlian?
+ny.button_claim,Buka Hadiah
+ny.button_next_in,Hadiah dalam: #time
+ok_login_failed.message,Tidak dapat menyambung ke Odnoklassniki. Cuba lagi?
+ok.share_tick,Kongsi
+out_of_moves.continue_buy_moves,Main #price
+out_of_moves.continue_watch,Tonton
+out_of_moves.give_up,Menyerah
+out_of_moves.press_to_view,"Ketik di sini untuk 
+melihat papan"
+out_of_moves.title.almost_there,Hampir Berjaya...
+out_of_moves.title.regular,Habis Gerakan
+outofgems.button,Kedai
+outofgems.message,Kamu kehabisan Gems. Kunjungi Kedai untuk mendapatkan lebih banyak!
+outofgems.title,Tidak cukup Gem
+page.loading.hint_1,Memuatkan...
+page.loading.hint_2,Efek penghasilan 💎💎💎
+page.loading.hint_3,"Jangan risau, ia tidak terperangkap! 😜"
+page.loading.hint_4,🚀 Permainan akan dimuatkan sebentar lagi! 🚀
+page.loading.hint_5,Pemuatan pertama mengambil sedikit masa yang lebih lama👌
+page.loading.hint_6,🔥 Hampir siap...👾
+page.loading.hint_7,Hanya sedikit lagi 😊
+placeholder.hint_daily,Lengkapkan 10 tahap untuk membuka kunci!
+placeholder.timestring,12 jam 34 minit 56 saat
+placeholder.title_daily,"Cabaran Harian
+Dikunci"
+popup_name.accept_name,Teruskan
+popup_name.not_now,Bukan Sekarang
+prelevel_text.002,"Kumpulkan lebih banyak <font color=""\#ff5503"">Keping Kuning</font> daripada lawan anda!"
+prelevel_text.004,"Kumpulkan lebih banyak <font color=""\#ff8800"">Lobak</font> daripada lawan anda!"
+prelevel_text.006,"Kumpulkan <font color=""\#4499ff"">Ais</font> lebih banyak daripada lawan anda!"
+promo_reforged.button,Ambil!
+promo_reforged.text,"Yay! Kami telah melancarkan mod permainan baharu - Skydom Reforged! Untuk meraikan pelancaran, kami memberi percuma Mega Booster pack! Ambil sekarang?"
+promo_reforged.title,Skydom Diperbaharui!
+rate_us.description,Bagaimana anda suka Skydom?
+rate_us.feedback.cancel,Bukan Sekarang
+rate_us.feedback.description,Masukkan e-mel anda jika anda ingin menerima balasan.
+rate_us.feedback.email_hint,E-mail
+rate_us.feedback.message_hint,Bagaimana kami boleh meningkatkan permainan ini untuk anda?
+rate_us.feedback.submit,Hantar
+rate_us.star_1,Benci
+rate_us.star_2,Tidak suka
+rate_us.star_3,Baiklah
+rate_us.star_4,Suka
+rate_us.star_5,Sangat suka
+rate_us.submit,Hantar
+rate_us.write_review.cancel,Bukan Sekarang
+rate_us.write_review.google_play,Beritahu kami pendapat anda tentang permainan ini atau beri penarafan di Google Play!
+rate_us.write_review.submit,Dengan Gembira!
+rate_us.write_review.yandex,Beritahu kami pendapat anda tentang permainan ini atau beri penarafan di Yandex Games!
+rematch_pvp.asks_for_rematch_draw,#name ingin mencuba lagi
+rematch_pvp.asks_for_rematch_player_lose,#name menawarkan permainan semula!
+rematch_pvp.asks_for_rematch_player_won,#name mahu cabaran semula!
+reward.coins,Wang
+reward.gems,Intan
+reward.lives,Kehidupan
+reward.prelevel.add_bomb,Booster Bom
+reward.prelevel.add_line,Booster Garis
+reward.prelevel.add_omni,Booster Petir
+reward.prelevel.add_tint,Booster Cat Warna
+reward.prelevel.double_fly,Booster Kepul-kepul x2
+reward.tickets,Token
+reward.undo,Undos
+search.cannot_connect,Tiada sambungan internet
+search.failed,Ooops! Sesuatu berlaku salah...
+search.loading,Memuatkan...
+search.playing_with_trainer,Bermain dengan Pengajar
+search.readying,Lawan ditemui!
+search.readying_rematch,Bersedia!
+search.rejected,Lawan melarikan diri
+search.searching,Mencari lawan...
+search.vs,VS
+search.waiting_opp,Menunggu lawan...
+settings.change_avatar,Tukar Gambar Profil
+settings.change_avatar.connect_fb,Sambung
+settings.change_avatar.continue,Teruskan
+settings.change_avatar.title,Pilih gambar profil baru
+settings.change_avatar.warning,"Nota: 
+- Anda hanya boleh menukar gambar profil SEKALI sahaja
+- Sambungkan ke Facebook untuk menggunakan gambar profil Facebook"
+settings.change_avatar.warning_no_fb,Nota: Anda hanya boleh menukar gambar profil SEKALI
+settings.change_name,Tukar Nama
+settings.change_name.accept_name,Teruskan
+settings.change_name.do_not_match,Nama tidak sepadan. Sila cuba lagi.
+settings.change_name.edit,Masukkan nama baru:
+settings.change_name.reenter,Masukkan nama baru anda semula:
+settings.change_name.same_name,Nama baru sepadan dengan yang sedia ada
+settings.change_name.too_long,Nama ini terlalu panjang - had maksimum 15 simbol
+settings.change_name.too_short,Nama ini terlalu pendek =)
+settings.change_name.warning,Nota: Anda hanya boleh menukar nama SEKALI sahaja
+settings.confirm_avatar.cancel,Batal
+settings.confirm_avatar.change,Tukar
+settings.confirm_avatar.title,Adakah anda pasti mahu menukar gambar profil anda? Gambar profil baru anda:
+settings.confirm_avatar.warning,Nota: Anda hanya boleh menukar gambar profil SEKALI sahaja.
+settings.confirm_name.cancel,Batal
+settings.confirm_name.change,Sahkan
+settings.confirm_name.title,Adakah anda pasti mahu menukar nama anda? Nama baru anda adalah:
+settings.confirm_name.warning,Nota: Anda hanya boleh menukar nama SEKALI sahaja
+settings.connect_fb,Sambungkan Facebook
+settings.connect_ok,Sambungkan Odnoklassniki
+settings.connect_vk,Sambungkan VK
+settings.connect_y8,Sambungkan Y8
+settings.connect_yandex,Sambungkan Yandex
+settings.connected_fb,Facebook
+settings.connected_ok,Odnoklassniki
+settings.connected_vk,VK
+settings.connected_y8,Y8
+settings.connected_yandex,Yandex
+settings.coupon,Kod Promo
+settings.coupon_title,Kod Promo
+settings.coupon.enter,Gunakan
+settings.coupon.enter_hint,Masukkan kod promosi anda di sini
+settings.coupon.invalid_code,"<font color=""\#e90047"">Kod ini tidak sah. Sila cuba kod lain."
+settings.coupon.missing_code,"<font color=""\#e90047"">Masukkan kod promosi"
+settings.coupon.ok,Kod berjaya diredam!
+settings.credits,Kredit
+settings.eula,Syarat-syarat Perkhidmatan
+settings.fb_hint,Sambungkan ke Facebook untuk bermain dengan kawan-kawan dan segerakan kemajuan anda
+settings.general,UMUM
+settings.generate_key,Buat kod
+settings.invite_friends,Undang Rakan
+settings.language,Bahasa
+settings.language_header,PILIH BAHASA
+settings.move_hints,Petunjuk
+settings.music,Muzik
+settings.networks,Sambungan
+settings.networks_hint,Sambungkan rangkaian sosial untuk bermain dengan kawan-kawan dan segerakan kemajuan anda
+settings.notifications,Pemberitahuan
+settings.notifications.daily,Cabaran Harian
+settings.notifications.disable_all,Lumpuhkan semua
+settings.notifications.disable_night,Nyahaktifkan dari 11 malam hingga 8 pagi
+settings.notifications.gifts,Hadiah
+settings.notifications.others,Peringatan lain
+settings.open_support,Sokongan pemain
+settings.open_vk_group,Kumpulan Permainan
+settings.player_id,Salin ID pemain
+settings.policy,Dasar Privasi
+settings.rate_us,Nilai Kami
+settings.report_problem,Laporkan masalah
+settings.sound,Bunyi
+settings.support,SOKONGAN
+settings.telegram_channel,Ikuti saluran Telegram kami
+settings.telegram_channel_hint,Semua berita terkini tentang Skydom
+settings.telegram_support,Sembang peminat di Telegram
+settings.title,Tetapan
+settings.update,Kemas kini
+settings.y8_hint,Sambungkan ke Y8 untuk segerakkan kemajuan anda secara dalam talian!
+settings.yandex_hint,Sambungkan ke Yandex untuk segerakkan kemajuan anda secara dalam talian!
+shop.gems_restored.accept,Hebat!
+shop.gems_restored.title,Pembelian Gem selesai
+shop.not_available,Tidak tersedia
+shop.remove_ads_remain_time,Tanpa iklan selama #time
+shop.remove_ads_text,"Buang Iklan antara tahap
+dengan sebarang pembelian
+"
+shop.remove_ads_timed,"Buang Iklan antara tahap
+dengan sebarang pembelian selama sebulan
+"
+social_notification.button,Sambung
+social_notification.message,Sambungkan ke rangkaian sosial untuk segerakkan kemajuan anda secara dalam talian!
+social_notification.no_post_hint,Kami tidak akan mengirimkan tanpa kebenaran anda.
+social_notification.title,Simpan kemajuan anda
+social_share.button,Kongsi
+social_share.chooser_hint,Kongsi melalui
+social_share.message,Hei! Sudah lihat permainan Match-3 PvP yang unik ini? Dapatkan di https://PecPoc.com
+social_share.subject,Semak permainan baru yang menyeronokkan - Skydom
+social_share.title,"Kongsi permainan ini dengan orang lain!
+Lebih seronok bermain bersama kawan-kawan!"
+tempkey_login.button,Teruskan
+tempkey_login.empty_key,Anda tidak memasukkan kod
+tempkey_login.input.default_hint,Masukkan kod
+tempkey_login.invalid_key,Kod salah
+tempkey_login.message_top,"Teruskan bermain di sini - dapatkan kod di mana anda bermain sebelumnya di Tetapan di bawah ""Buat kod""
+"
+tempkey_login.no_connection,Tidak dapat menyambung
+tempkey.fail.button,OK
+tempkey.fail.message,Periksa sambungan internet anda atau cuba lagi kemudian
+tempkey.fail.title,Tidak dapat membuat kod
+tempkey.ok.copied,Disalin!
+tempkey.ok.copy,Salin
+tempkey.ok.hint,Kod itu akan tamat tempoh selepas 4 jam.
+tempkey.ok.message,#tempkey
+tempkey.ok.title,Kod anda:
+tickets_shop.boost_text,x2 kelajuan isi semula
+tickets_shop.buy_all,Beli #amount
+tickets_shop.hint,Anda memerlukan Token untuk bermain dalam Cabaran Harian
+tickets_shop.hint_out_of,"<font color=""\#e90047"">Tiada Token Beruntung Lagi</font>"
+tickets_shop.recharge,Token baru akan muncul dalam: #time
+tickets_shop.title,Tiket Gembira
+tickets_shop.watch_ad_button,Tonton
+tickets_shop.watch_ad_text,Dapatkan 1 percuma
+time.days_hours,"#days<font size=""-15""> </font><font size=""-10"">h</font> #hours<font size=""-15""> </font><font size=""-10"">j</font>"
+time.hours,"#hours<font size=""-15""> </font><font size=""-10"">j</font>"
+time.hours_minutes,"#hours<font size=""-15""> </font><font size=""-10"">j</font> #minutes<font size=""-15""> </font><font size=""-10"">minit</font>"
+time.hours_minutes_seconds,"#hours<font size=""-15""> </font><font size=""-10"">j</font> #minutes<font size=""-15""> </font><font size=""-10"">minit</font> #seconds<font size=""-15""> </font><font size=""-10"">saat</font>"
+time.hours_seconds,"#hours<font size=""-15""> </font><font size=""-10"">j</font> #seconds<font size=""-15""> </font><font size=""-10"">saat</font>"
+time.less_than_minute,"1<font size=""-15""> </font><font size=""-10"">minit</font>"
+time.minutes,"#minutes<font size=""-15""> </font><font size=""-10"">min</font>"
+time.minutes_seconds,"#minutes<font size=""-15""> </font><font size=""-10"">minit</font> #seconds<font size=""-15""> </font><font size=""-10"">saat</font>"
+time.seconds,"#seconds<font size=""-15""> </font><font size=""-10"">saat</font>"
+tutorial_home.play,Bermain
+tutorial.001.dialog_tutorial,"Padankan <font color=""\#5885b8"">3 keping yang sama warna dalam satu baris</font> untuk membuangnya"
+tutorial.001.hint,"Tujuan
+Kumpulkan 12 kepingan hijau!"
+tutorial.001.turn_1,Padankan 3 keping yang sama warna dengan menukar yang bersebelahan!
+tutorial.002.hint,Kumpulkan lebih banyak kepingan kuning daripada lawan anda!
+tutorial.skip,Lewati
+undo_shop.buy_undos,Dapatkan #count
+undo_shop.hint,Undo boleh membatalkan langkah terakhir anda
+undo_shop.recharge,Undo berikutnya dalam: #time
+undo_shop.title,Undo
+undo_shop.watch_ad_button,Tonton
+undo_shop.watch_ad_text,Dapatkan 1 percuma
+undo_shop.you_have,Anda mempunyai #amount undos
+update.button,Kemas kini
+update.new_version,Versi terkini telah tersedia!
+update.new_version_value,"<font color=""\#5885b8"">#version"
+update.old_version,Anda menggunakan versi lama
+update.old_version_value,"<font color=""\#a5a7aa"">#version"
+update.text,"Anda menggunakan versi lama.
+Sila kemaskini ke versi terkini!"
+update.title,Versi baru tersedia!
+update.web.button,Muat semula
+update.web.message,Sila muat semula halaman.
+update.web.title,Versi baru tersedia!
+vk_login_failed.message,Tidak dapat menyambung ke VK. Cuba lagi?
+vk_promo.title,Hadiah dari VK!
+vk.share_tick,Kongsi
+watch_for_gems.button,Tonton
+watch_for_gems.text,+#amount
+web.webg_context_lost,"Konteks WebGL hilang, memulihkan..."
+welcome_bonus.speech_1,"Hai, #PlayerName!
+Saya ada hadiah untukmu.
+Pilih salah satu!
+"
+welcome_bonus.speech_2,"Pemikiran sedang menjadi kenyataan... Ohmmm!
+Saya sedang berfikir tentang beberapa hadiah dan lihatlah apa yang terjadi =)"
+welcome_bonus.speech_3,Saya jumpa dua peti ketika kamu tak ada! Buka salah satu!
+welcome_bonus.speech_4,"Selamat datang kembali, #PlayerName!
+Lihat apa yang jatuh dari awan!"
+welcome_bonus.speech_5,Bangau telah terbang lewat... Rupanya mereka tidak hanya membawa anak-anak! ;)
+welcome_bonus.speech_6,"Gembira melihatmu kembali, #PlayerName!
+Pilih peti!"
+welcome_bonus.speech_7,"Aku sangat merindui kamu, #PlayerName, jadi aku sediakan hadiah kecil untukmu!"
+welcome_bonus.speech_8,"Hal yang aneh berlaku. Diam, bersantai dan tiba-tiba dua peti muncul dari langit!"
+welcome_pack.open,Buka
+welcome_pack.play,Bermain
+welcome_pack.speech_1,"Lama tak jumpa, #PlayerName! Saya ada hadiah untukmu!"
+welcome_pack.speech_2,"Oh, #PlayerName, Aku merindui kamu! Mari kita buka hadiah dan bermain!"
+welcome_pack.speech_3,"#PlayerName, senang bertemu lagi! Cepat buka peti itu."
+welcome_pack.speech_gift,"#PlayerName, kami ada hadiah istimewa untukmu =) Buka segera!"
+welcome_pack.speech_reforged,"#PlayerName, kami ada hadiah istimewa untukmu =) Buka segera!"
+y8_login_failed.message,Tidak dapat menyambung ke Y8. Cuba lagi?
+yandex_login_failed.message,Tidak dapat menyambung ke Yandex. Cuba lagi?
+yandex_notification.button,Sambung
+yandex_notification.message,Sambungkan ke Yandex untuk segerakkan kemajuan anda secara dalam talian!
+yandex_notification.title,Simpan kemajuan anda
+gamemode.capital.leaf,Daun
+yandex_login_has_attachment.message,Akaun Yandex lain telah dipautkan ke profil permainan ini.
+fb_login_has_attachment.message,Akaun Facebook lain telah dihubungkan ke profil permainan ini.
+ok_login_has_attachment.message,Akaun OK lain telah dipautkan ke profil permainan ini.
+vk_login_has_attachment.message,Akaun VK lain telah dihubungkan ke profil permainan ini.
+y8_login_has_attachment.message,Akaun Y8 lain telah dihubungkan ke profil permainan ini.
+android_app.text.beta,Sahabat-sahabat! Kami gembira untuk memberitahu bahawa kami melancarkan ujian Beta permainan kami di Android. Semua dialu-alukan!
+bookmark.play,Bermain
+bookmark.quest,Pencarian
+chest_opening.bronze,Gangsa
+chest_opening.continue,Mudah
+chest_opening.division,III Divisyen
+chest_opening.golden,Emas
+chest_opening.silver,Perak
+chest_opening.togoldenleague,"Bolehkah anda mencapai
+Liga Emas?"
+chest_opening.welcome,"Selamat datang ke
+Liga Arena Padanan!"
+chest_opening.yourebronze,"Anda telah mencapai
+Liga Gangsa III"
+chest.open,Buka
+chest.opens_now,Hebat! Peti itu milikmu untuk dibuka!
+chest.wins_left_1,Satu lagi menang!
+chest.wins_left_2,Hanya 2 kemenangan dan ia milikmu!
+chest.wins_left_3,Bagus! Lagi 3 kemenangan!
+chest.wins_left_4,4 kemenangan untuk membuka peti!
+chest.wins_to_open,#num kemenangan untuk membuka
+forge_help.block_1,Menang duel untuk mendapatkan syiling.
+forge_help.block_2,Gunakan syiling untuk memulakan Forges dan mendapatkan batang emas.
+forge_help.block_3,Kumpulkan batang emas untuk naik ke liga yang lebih tinggi.
+forge_help.block_4,Liga baru - tahap baru!
+forge_help.continue,Dapatnya
+forge_help.title,Liga dan Forges
+forge.add,Tambah
+forge.boost,Meningkatkan
+forge.boost_free,"Mari kuatkan Forge ini!
+
+Kali pertama ia percuma!"
+forge.boost_free_ok,Meningkatkan
+forge.buy_1,Membeli Kuil Gangsa
+forge.buy_2,Forj Perak
+forge.buy_3,Forj Emas
+forge.buy_4,Kuasai Forj Rubi
+forge.buy_now,Tambah
+forge.cheat_boost,CHEAT? CHEAT!
+forge.name_1,Kilang Gangsa
+forge.name_2,Kebun Perak
+forge.name_3,Kebun Emas
+forge.name_4,Kilang Rubi
+forge.not_enough_coins,Tidak cukup syiling untuk memulakan
+forge.ok,OK
+forge.open,Buka
+forge.open_now,Buka sekarang
+forge.other_in_progress,Satu lagi Forge sedang dalam proses!
+forge.popup_boost,Meningkatkan -30 min
+forge.popup_boost_speedup,Meningkatkan -15 min
+forge.progress,#bars dalam: #time
+forge.speedup_no,Tidak
+forge.speedup_offer,"<font color=""\#5885b8"">Meningkatkan</font> kelajuan Forge <font color=""\#5885b8"">sebanyak 2x?</font>"
+forge.speedup_ok,OK
+forge.speedup_success,Pembuatan telah ditingkatkan!
+forge.speedup_yes,Ya
+forge.start,Mulakan
+forge.time_1,3 jam
+forge.time_2,6 jam
+forge.time_3,12 jam
+forge.time_4,24 jam
+forge.tutorial.collect_coins,Dapatkan 1000 syiling untuk memulakan Forge
+forge.tutorial.open_now,"Hebat! Pemadatan selesai!
+Kita boleh buka Forge!"
+forge.tutorial.smelt_more,Teruskan membuat bar emas untuk sampai ke divisyen berikutnya
+forge.tutorial.start_forge,"Baiklah, anda mendapat 1000 syiling!
+Sekarang kita boleh mula Forge!"
+forge.tutorial.wait_ready,"Semasa Forge anda berfungsi, anda boleh menang lebih banyak syiling."
+forge.watch_ad,Tonton
+gamemode.chocolate,Lava
+gamemode.diamonds,Berlian
+gamemode.energycube,Jeli
+gamemode.fishes,Lobak
+gamemode.food,Kacang Pinus
+gamemode.fossils,Oseanak
+gamemode.grass,Rumput
+gamemode.honeybee,Beruang
+gamemode.ice,Ais
+gamemode.jam,Tenaga
+gamemode.road,Babi
+gamemode.stone,Batu-batu
+gamemode.tasks,Pesanan
+gamemode.tiles,Rumput
+home.bars_need_more,Anda perlu #more
+home.bars_progress,#current / #total
+home.bet,Berjudi #count wang
+home.coins,#count
+home.gems,#count
+home.hint_quest_book,Quest baru tersedia!
+home.hint_quest_book.claim,Yay! Seseorang akan diberi hadiah!
+home.hint_quest_book.new,Wow! Quest baru!
+home.league_indev,Liga seterusnya akan datang segera!
+home.rematch.asks_for_rematch_draw,#name ingin mencuba lagi
+home.rematch.asks_for_rematch_player_lose,#name menawarkan permainan semula
+home.rematch.asks_for_rematch_player_won,#name meminta permainan semula!
+home.xp,#count
+ingame_booster_shop.buy,Dapatkan #count
+ingame_booster_shop.hint.cross,Gunakan Tongkat Ajaib untuk membuang satu baris dan satu lajur cebisan!
+ingame_booster_shop.hint.hammer,Buang papan dengan menghancurkannya menggunakan Palu!
+ingame_booster_shop.hint.hand,Gunakan Sarung Tangan untuk tukar mana-mana keping berdekatan!
+ingame_booster_shop.title.cross,Tongkat Sihir
+ingame_booster_shop.title.hammer,Palu
+ingame_booster_shop.title.hand,Sarung Tangan
+league.Bronze,Liga Gangsa
+league.div_1,Divisyen I
+league.div_2,Divisyen II
+league.div_3,Divisyen III
+league.div_4,Divisyen IV
+league.div_5,Divisyen V
+league.E001,Gangsa III
+league.E002,Gangsa II
+league.E003,Gangsa I
+league.E004,IV Perak
+league.E005,Perak III
+league.E006,Perak II
+league.E007,Perak I
+league.E008,V Emas
+league.E009,Emas IV
+league.E010,Emas III
+league.E011,Emas II
+league.E012,Emas I
+league.E013,Platinum V
+league.E014,Platina IV
+league.E015,Platina III
+league.E016,Platinum II
+league.E017,Platinum I
+league.E018,Mestari 1
+league.Gold,Liga Emas
+league.Master,Liga Master
+league.MasterN,Meister #div
+league.GrandMaster,Grandmaster
+league.GrandMasterN,Grandmaster #div
+league.Platinum,Liga Platinum
+league.Silver,Liga Perak
+levelup.continue,Hebat!
+levelup.reward,Hadiah
+levelup.title_division,"Tahniah!
+Bahagian baru!"
+levelup.title_league,"Tahniah!!
+Liga baru!"
+ma2transfer.install,Pasang
+ma2transfer.message,"Arena Perlawanan telah berpindah ke Aplikasi baru!
+
+Penting! Gunakan kod di bawah untuk mentransfer progres anda."
+nickname.tutorial_004,Sensei Michael
+nickname.tutorial_005,Profesor Frank
+nickname.tutorial_006,Ratu Matcha
+nickname.tutorial_007,Guru Leo
+nickname.tutorial_008,Kaunselor Carl
+nickname.tutorial_009,Tutor Berbulu
+nickname.tutorial_010,Guru Vicky
+placeholder.hint_friends,"Cabar rakan-rakan anda
+dan tunjukkan apa yang anda mampu!"
+placeholder.hint_quests,"Capai Liga Gangsa I
+untuk menemui!"
+placeholder.hint_settings,Akan siap sebentar lagi :)
+placeholder.title_friends,"Bermain dengan kawan-kawan
+akan datang segera"
+placeholder.title_quests,"Quest Menakjubkan
+Terkunci
+"
+placeholder.title_settings,Tetapan dalam pembangunan
+quest_help.block_1,Selesaikan misi untuk menerima hadiah!
+quest_help.block_2,Lengkapkan semua Quest untuk membuka peti.
+quest_help.block_3,"Lengkapkan semua Quest sebelum pindah ke Divisyen lain, jika tidak, anda akan kehilangan peti!"
+quest_help.continue,Dapatnya
+quest_help.title,Buku Quest
+quest.aquarium,Kumpulkan #amount ikan
+quest.bar,#progress / #amount
+quest.bar_completed,Quest selesai!
+quest.bar_last_try,Cubaan sebelumnya: #progress daripada #amount
+quest.bar_special_not_tried,#progress / #amount
+quest.best_so_far,Hasil terbaik: #progress
+quest.butterfly,Kumpulkan #amount kupu-kupu
+quest.buy_now,Dapatkan sekarang #amount
+quest.cat,Kumpulkan #amount Kucing Kecil
+quest.chip_destroy,Kumpulkan #amount cebisan mana-mana
+quest.chip_destroy_bird,Kumpulkan #amount burung
+quest.chip_destroy_blue,Kumpulkan #amount keping biru
+quest.chip_destroy_diamond,Kumpulkan #amount Berlian
+quest.chip_destroy_fish,Kumpulkan #amount Lobak
+quest.chip_destroy_fish_blue,Kumpulkan #amount Lobak Biru
+quest.chip_destroy_fish_green,Kumpulkan #amount Lobak Hijau
+quest.chip_destroy_fish_orange,Kumpulkan #amount Lobak Oren
+quest.chip_destroy_fish_purple,Kumpulkan #amount Lobak Ungu
+quest.chip_destroy_fish_red,Kumpulkan #amount Lobak Merah
+quest.chip_destroy_fish_yellow,Kumpulkan #amount Lobak Kuning
+quest.chip_destroy_food,Kecualikan #amount Kacang Ekor
+quest.chip_destroy_frog,Kumpulkan #amount Katak
+quest.chip_destroy_green,Kumpulkan #amount kepingan hijau
+quest.chip_destroy_orange,Kumpulkan #amount keping oren
+quest.chip_destroy_purple,Kumpulkan #amount kepingan ungu
+quest.chip_destroy_red,Kumpulkan #amount keping merah
+quest.chip_destroy_snail,Kumpulkan #amount siput
+quest.chip_destroy_super,Kumpulkan #amount cebisan super
+quest.chip_destroy_wafer,Kumpulkan #amount Bijih Emas
+quest.chip_destroy_with_bomb,Kumpulkan #amount keping dengan menggunakan Bom
+quest.chip_destroy_with_line,Kumpulkan #amount keping dengan Bonus Garisan
+quest.chip_destroy_with_mine,Kumpulkan #amount keping dengan bonus Firefly
+quest.chip_destroy_with_omni,Kumpulkan #amount keping dengan Bonus Petir
+quest.chip_destroy_yellow,Kumpulkan #amount kepingan kuning
+quest.chip_destroy_waterfish,Kumpulkan #amount ikan air
+quest.chip_recolor,Warnakan #amount keping dengan Bonus Cat
+quest.claim,Ambil Hadiah
+quest.complete_chest,Semua misi selesai
+quest.cover_destroy_bee,Kumpulkan #amount Beruang
+quest.cover_destroy_bound,Buka #amount keping
+quest.cover_destroy_chocolate,Kecualikan #amount keping dengan Lava
+quest.cover_destroy_fizzblue,Kumpulkan #amount fizz
+quest.cover_destroy_fizzpurple,Kumpulkan #amount fizz
+quest.cover_destroy_frozen,Buang #amount kaca dari cebisan
+quest.cover_destroy_honey,Kitar #amount tile dengan Madu
+quest.cover_destroy_hotlava,Kecualikan #amount keping Lava Panas
+quest.cover_destroy_receiver_energycube,Kumpulkan #amount Kristal Jelly
+quest.cover_destroy_receiver_jam,Kumpulkan #amount Kristal Tenaga
+quest.cover_destroy_statue,Kumpulkan #amount anjing
+quest.cover_destroy_stone,Kecualikan #amount Potongan Batu
+quest.cover_destroy_leaf,Buang #amount Daun
+quest.division_done_card,Cabaran baru di divisyen seterusnya!
+quest.duck,Kumpulkan #amount itik
+quest.energy_flow,Tarik Tenaga melalui #amount tiling
+quest.energycube_flow,Isi #amount tiling dengan Jelly
+quest.fossil,Kumpulkan #amount Puluhan
+quest.gum,Kumpulkan #amount keping gula-gula
+quest.new_quest,Quest baru!
+quest.new_quest_in,Quest seterusnya:
+quest.on_arena_splash_score,Skor #amount dalam Arena Boom!
+quest.on_arena_splash_use_bonus,Simpan #amount bonus untuk Arena Boom!
+quest.plate_destroy,Buang #amount Pemisahan
+quest.play,Bermain
+quest.pvp_score,Skor #amount dalam duel
+quest.reward,Hadiah:
+quest.snakes,Kumpulkan #amount Ular
+quest.tile_destroy_gold,Kumpulkan #amount tile dengan Rumput
+quest.tile_destroy_grass,Kumpulkan #amount tile dengan Rumput
+quest.title,Buku Quest
+quest.use_bonus,Gunakan #amount bonus
+quest.use_bonus_bomb,Gunakan #amount bonus Bom
+quest.use_bonus_line,Gunakan #amount bonus Garis
+quest.use_bonus_mine,Gunakan #amount bonus Luci-luci
+quest.use_bonus_omni,Gunakan bonus Petir #amount kali
+quest.use_bonus_tint,Gunakan #amount bonus Cat
+quest.use_combo_bomb_bomb,Buat kombo-bonus Bom+Bom #amount kali
+quest.use_combo_bomb_omni,Buat kombo-bonus Petir+Bomb #amount kali
+quest.use_combo_bomb_tint,Buat kombo-bonus Cat+Bomb #amount kali
+quest.use_combo_line_bomb,Buat kombo-bonus Bom+Baris #amount kali
+quest.use_combo_line_line,Buat kombo-bonus Garis+Garis #amount kali
+quest.use_combo_line_omni,Buat kombo-bonus Petir+Baris #amount kali
+quest.use_combo_line_tint,Buat kombo-bonus Cat+Garis #amount kali
+quest.use_combo_mine_bomb,Buat kombo-bonus Bomb+Firefly #amount kali
+quest.use_combo_mine_line,Buat kombo-bonus Firefly+Line #amount kali
+quest.use_combo_mine_mine,Buat kombo-bonus Kepunyaan+Kepunyaan #amount kali
+quest.use_combo_mine_omni,Buat kombo-bonus Kilat+Kunang-kunang #amount kali
+quest.use_combo_mine_tint,Buat kombo-bonus Cat+Kunang-kunang #amount kali
+quest.use_combo_omni_omni,Buat kombo-bonus Petir+Petir #amount kali
+quest.use_combo_omni_tint,Buat kombo-bonus Cat+Petir #amount kali
+quest.use_combo_tint_tint,Buat bonus kombo Cat+Cat #amount kali
+quest.walk,Berjalan #amount langkah dengan Piggy
+quest.watch_for_new,- #time
+quest.win,Menang #amount duel
+quest.win_coins,Dapatkan #amount syiling dalam duel
+quest.win_hard_level,Lengkapkan aras sukar
+quest.win_rematch,Menang #amount ulangi
+quest.win_streak,Menang #amount duel berturut-turut
+quest.chip_destroy_clam,Kumpulkan #amount mutiara
+quest.chip_destroy_egg,Kumpulkan #amount telur
+quest.gardenflower,Kumpulkan #amount Bunga
+quest.sausages,Kumpulkan #amount sosis
+rematch.asks_for_rematch_draw,"#name mahu cuba lagi
+Berjudi #bet"
+rematch.asks_for_rematch_player_lose,"#name menawarkan cabaran semula
+Berjudi #bet
+"
+rematch.asks_for_rematch_player_won,"#name mahu cabaran semula!
+Berjudi #bet"
+rematch.rematch_bet,Taruhan #bet
+report.body,
+report.subject,Masalah dengan MatchArena
+reward.bars,Batang emas
+reward.coins_amt,+#amount
+reward.gems_amt,+#amount
+reward.levels,Tahap baru
+reward.levels_amt,+#amount
+reward.levelup,"Tahniah!
+Tahap baru!"
+reward.new_levels,Tahap baru!
+reward.talisman,Talisman
+reward.xp_amt,+#amount
+search.prize_fund,Wang Hadiah
+settings.friends_and_partners,Rakan dan Rangkaian
+settings.language.help_us_translate,"Jika anda boleh membantu menerjemahkan permainan ini kepada bahasa ibunda anda, sila hubungi kami di <font color=""\#0000EE"">support@matcharenagame.com."
+settings.notifications.duels,Cabaran untuk duel
+shop.indev,Akan datang segera!
+splash.hint_chocolate,Buang sebanyak yang boleh Lava
+splash.hint_diamonds,Kumpulkan sebanyak yang mungkin berlian
+splash.hint_energycube,Isi sebanyak mungkin sel dengan Jelly
+splash.hint_fishes,Kumpulkan sebanyak mungkin Lobak
+splash.hint_food,Buang sebanyak yang boleh kacang gajus
+splash.hint_fossils,Simpan sebanyak mungkin Octopus
+splash.hint_honeybee,Kumpulkan sebanyak yang anda boleh Beruang
+splash.hint_ice,Buang sebanyak yang boleh ais
+splash.hint_jam,Isi sebanyak mungkin tiling dengan Tenaga
+splash.hint_road,Jalan Piggy sejauh yang mungkin
+splash.hint_stone,Buang sebanyak batu yang anda boleh
+splash.hint_tasks,Lengkapkan sebanyak yang anda boleh
+splash.hint_tiles,Kumpulkan sebanyak mungkin Rumput
+splash.mode_chocolate,Tujuan - Lava
+splash.mode_diamonds,Tujuan - Berlian
+splash.mode_fishes,Tujuan - Lobak
+splash.mode_food,Tujuan - Kacang Pinus
+splash.mode_jam,Tujuan - Tenaga
+splash.mode_road,Tujuan - Babi
+splash.mode_tasks,Tujuan - Pesanan
+splash.mode_tiles,Tujuan - Rumput
+talismans_shop.ask_button,Facebook
+talismans_shop.ask_text,Minta rakan
+talismans_shop.boost_text,x2 kelajuan isi semula
+talismans_shop.buy_all,Dapatkan #amount
+talismans_shop.hint,Wang syiling dua kali ganda yang dimenangi
+talismans_shop.recharge,Talisman seterusnya dalam: #time
+talismans_shop.title,Talisman
+talismans_shop.watch_ad_button,Tonton
+talismans_shop.watch_ad_text,Dapatkan 1 percuma
+tickets_shop.ask_button,Facebook
+tickets_shop.ask_text,Minta rakan
+tutorial.001.collect_more_fishes,"Kumpulkan sebanyak <font color=""\#5885b8"">Lobak</font> yang anda boleh!"
+tutorial.001.continue_to_collect_fishes,Teruskan mengumpul Lobak!
+tutorial.001.first_swap_red_down,"Pindahkan biji merah ke bawah
+untuk padankan <font color=""\#5885b8"">tiga dalam satu baris</font>"
+tutorial.001.remind_collect_three_in_a_row,"Kumpulkan <font color=""\#5885b8"">tiga keping</font> satu warna <font color=""\#5885b8"">dalam satu baris</font>"
+tutorial.001.second_swap_green_left,"Pindahkan biji hijau ke kiri
+untuk mencocokkan <font color=""\#5885b8"">tiga dalam satu baris</font>"
+tutorial.001.third_swap_fish,"<font color=""\#5885b8"">Lobak</font> juga boleh disusun tiga dalam satu baris"
+tutorial.001.you_are_doing_well,Kamu berjaya!
+tutorial.002.get_bonus_line,"...untuk mendapatkan <font color=""\#5885b8"">bonus - Garis!</font>"
+tutorial.002.try_four_in_a_row,"Cuba untuk padankan <font color=""\#5885b8"">4 dalam satu baris!</font>"
+tutorial.002.use_line_bonus,"Padankan <font color=""\#5885b8"">tiga dalam satu baris dengan bonus</font> untuk melihat kuasa Garisan!"
+tutorial.003.hint,Kumpulkan lebih banyak Lobak daripada lawan anda!
+tutorial.003.try_l_or_t,"Padankan keping <font color=""\#5885b8"">dalam bentuk T atau L!</font>"
+tutorial.003.use_bomb_bonus,"...untuk mendapat <font color=""\#5885b8"">bonus - Bom!</font>
+Mari kita meledakkannya!"
+tutorial.004.clear_gold_tiles,"Buat padanan di atas <font color=""\#5885b8"">Rumput</font> untuk mengumpulkannya!"
+tutorial.004.combine_omni_with_blue,"Tukar <font color=""\#5885b8"">Keping Petir</font> dengan keping biru untuk membuang semua keping biru dari papan!"
+tutorial.004.try_five_in_a_row,"Cuba untuk mendapatkan <font color=""\#5885b8"">5 berurutan!</font>"
+tutorial.005.two_bonus_can_combine,"Apa-apa <font color=""\#5885b8"">dua bonus boleh digabungkan</font> untuk mendapatkan bonus yang lebih besar!"
+tutorial.007.collect_food,"Buat padanan bersebelahan dengan <font color=""\#5885b8"">Ketam</font>"
+tutorial.007.move_character,"Kumpulkan kacang untuk <font color=""\#5885b8"">majukan Piggy!</font>"
+tutorial.008.make_mine_bonus,"Padankan <font color=""\#5885b8"">empat keping dalam segi empat</font> dan dapatkan bonus - Kepulan Lilin!"
+tutorial.008.use_mine_bonus,"Padankan tiga dalam barisan dengan <font color=""\#5885b8"">Kunang-kunang</font> untuk menggunakannya!"
+tutorial.009.make_tint_bonus,"Buat <font color=""\#5885b8"">bentuk T yang besar</font> dan dapatkan bonus - Cat!"
+tutorial.009.use_tint_bonus,"<font color=""\#5885b8"">Cat</font> boleh ditukar dengan mana-mana keping!"
+level_popup.adventure.title,Tahap
+lives_shop.ma_hint,"Anda memerlukan nyawa untuk
+terus bermain Petualangan"

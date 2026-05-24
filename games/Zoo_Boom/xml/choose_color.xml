@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+<templates>
+
+</templates>
+
+<screen name="uiScreenChooseColor" template="tPopUpJenny" label="SID_CHOOSE_COLOR">	
+	<element name="uiContent" marginLeft="30" marginRight="30" marginTop="120" >				
+		<image name="uiImgColors" image="dynamic/colormap.png" ratio="1.0" width="650" halign="center" clickable="true" y="10" />
+		
+		<image name="uiColor" width="500" height="100" halign="center" valign="bottom" template="tBlock" y="-200" clickable="true" >
+			<image template="tElement,tFrame" marginBottom="-5" marginRight="-5" />
+		</image>
+		
+		<button name="uiBtOk" label="SID_OK" template="tButton" halign="center" valign="bottom"/>	
+	</element>	
+</screen>

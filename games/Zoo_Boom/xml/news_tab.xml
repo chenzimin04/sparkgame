@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+
+<screen name="uiNewsTab" template="tTabScreen" label="SID_NEWS" >
+	<newsList name="uiNewsList" template="tList" marginTop="70" gap="15" >
+		<state state="landscape" gap="15" marginTop="70" />
+		<state state="portrait" gap="15" marginTop="70"  />
+	</newsList>
+	<!--image name="uiImgJenny" image="dynamic/Jenny_Presenting.png" ratio="0.5470588235" /-->
+</screen>

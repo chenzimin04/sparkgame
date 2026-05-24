@@ -1,0 +1,13 @@
+{
+  "resolution": "standard",
+  "image1": "fair_a.jpg",
+  "image2": "fair_b.jpg",
+  "differences":
+  [
+    {
+      "x": 762.0,
+      "y": 82.0,
+      "size": 100.0
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "dragon_with_frame_a.jpg",
+  "image2": "dragon_with_frame_b.jpg",
+  "differences":
+  [
+    {
+      "x": 163.0,
+      "y": 394.0,
+      "size": 120.0
+    },
+    {
+      "x": 420.0,
+      "y": 394.0,
+      "size": 80.0
+    },
+    {
+      "x": 598.0,
+      "y": 298.0,
+      "size": 80.0
+    },
+    {
+      "x": 542.0,
+      "y": 159.0,
+      "size": 90.0
+    },
+    {
+      "x": 743.0,
+      "y": 460.0,
+      "size": 60.0
+    }
+  ]
+}

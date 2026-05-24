@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "green_yellow_a.jpg",
+  "image2": "green_yellow_b.jpg",
+  "differences":
+  [
+    {
+      "x": 76.0,
+      "y": 420.0,
+      "size": 180.0
+    },
+    {
+      "x": 366.0,
+      "y": 444.0,
+      "size": 170.0
+    },
+    {
+      "x": 462.0,
+      "y": 210.0,
+      "size": 90.0
+    },
+    {
+      "x": 641.0,
+      "y": 430.0,
+      "size": 200.0
+    },
+    {
+      "x": 909.0,
+      "y": 379.0,
+      "size": 220.0
+    }
+  ]
+}

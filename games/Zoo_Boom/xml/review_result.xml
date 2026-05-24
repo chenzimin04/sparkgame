@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+
+<templates>
+</templates>
+
+<screen name="uiLogin" template="tElement" >	
+	<image name="uiMiddleBlock" relativeHeight="0.7" ratio="1" halign="center" valign="center" template="tBG" padding="70" >
+		<button name="uiBtClose" width="50" height="50" halign="right" x="60" y="-60" image="ui/close.png" />
+		<text name="uiTxtMessage" text="Check In" relativeWidth="1" height="90" size="90.0" halignText="center" valignText="center" halign="center" valign="top" template="tFontWhite" />
+		
+		<image y="-100" width="700" height="400" halign="center" valign="center"  template="tBox" padding="10" >
+			<input name="uiInputComment" template="tElement" clickable="true" size="50" multiLine="true" />
+			<text text="Comment" y="-20" relativeWidth="1" height="50" size="50.0" halignText="left" valignText="center" halign="center" valign="topOf" template="tFontWhite" />
+		</image>
+		
+		<text name="uiTxtHint" relativeWidth="1" height="360" size="50.0" halignText="left" valignText="top" halign="center" valign="bottom" template="tFontWhite" marginBottom="100" marginLeft="40" marginRight="40" />
+		
+		<button name="uiBtOk" halign="center" valign="bottom" template="tButton" label="CheckIn" />
+	</image>
+</screen>

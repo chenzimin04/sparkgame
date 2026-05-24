@@ -1,0 +1,49 @@
+#adLoadFail {
+    position: fixed;
+    z-index: 99999;
+    top: 50px;
+    left: 50%;
+    width: 80%;
+    height: 20px;
+    padding: 15px;
+    display: none;
+    transform: translate(-50%, 0px);
+    background-color: #000;
+}
+
+#adText {
+    color: azure;
+    margin: 0%;
+}
+
+#WhiteBlock {
+    background-color: #000;
+    width: 100%;
+    height: 60px;
+    position: absolute;
+    z-index: 99998;
+    bottom: 0px;
+    left: 50%;
+    transform: translate(-50%, 0px);
+}
+
+#splashAD {
+    display: inline-block;
+    width: 320px;
+    height: 50px;
+    position: absolute;
+    z-index: 99999;
+    bottom: 0px;
+    left: 50%;
+    transform: translate(-50%, 0px);
+}
+
+#rotate-tip {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 9999;
+    display: none;
+}

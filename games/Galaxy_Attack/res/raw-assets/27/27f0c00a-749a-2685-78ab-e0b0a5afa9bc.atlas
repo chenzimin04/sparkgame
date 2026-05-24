@@ -1,0 +1,27 @@
+
+skel_battlePass_precious.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ddd1
+  rotate: false
+  xy: 1, 1
+  size: 159, 179
+  orig: 159, 179
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 1, 181
+  size: 295, 297
+  orig: 295, 297
+  offset: 0, 0
+  index: -1
+tttt1
+  rotate: false
+  xy: 297, 306
+  size: 40, 172
+  orig: 40, 172
+  offset: 0, 0
+  index: -1

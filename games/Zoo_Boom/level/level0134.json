@@ -1,0 +1,21 @@
+ {
+	"size":8,
+	"moves":35,
+	"tasks":[
+		{ "type":"COIN", "count":30 }
+	],
+	"add":[			
+		{ "x":0, "y":0, "dx":1, "dy":5, "type":"COINS" },
+		{ "x":1, "y":0, "dx":1, "dy":8, "type":"COLOR_EGG", "count":true }
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_RED","GEM_GREEN","GEM_YELLOW"],
+	"field":[ 		
+		"oxooooooo",
+		"oxooooooo",
+		"oxooooooo",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx"]
+ }

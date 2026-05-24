@@ -1,0 +1,349 @@
+
+Cyborg.webp
+size: 1080,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cybog-Plam-L
+  rotate: true
+  xy: 1011, 25
+  size: 72, 67
+  orig: 72, 67
+  offset: 0, 0
+  index: -1
+Cybog-Plam-R
+  rotate: true
+  xy: 999, 195
+  size: 72, 66
+  orig: 72, 66
+  offset: 0, 0
+  index: -1
+Cybog-Shadow
+  rotate: false
+  xy: 669, 67
+  size: 326, 98
+  orig: 326, 98
+  offset: 0, 0
+  index: -1
+Cyborg-Arm-L
+  rotate: false
+  xy: 675, 169
+  size: 81, 98
+  orig: 81, 98
+  offset: 0, 0
+  index: -1
+Cyborg-Arm-R
+  rotate: false
+  xy: 758, 170
+  size: 81, 97
+  orig: 81, 97
+  offset: 0, 0
+  index: -1
+Cyborg-Body-in
+  rotate: true
+  xy: 574, 154
+  size: 113, 52
+  orig: 113, 52
+  offset: 0, 0
+  index: -1
+Cyborg-Eye-L
+  rotate: false
+  xy: 534, 2
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+Cyborg-Eye-R
+  rotate: false
+  xy: 349, 4
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+Cyborg-Eye-close-L
+  rotate: false
+  xy: 841, 167
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+Cyborg-Eye-close-R
+  rotate: true
+  xy: 568, 2
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+Cyborg-Eyeballl-L
+  rotate: false
+  xy: 129, 45
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+Cyborg-Eyebrow-L
+  rotate: true
+  xy: 595, 5
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+Cyborg-Eyebrow-R
+  rotate: false
+  xy: 99, 45
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+Cyborg-Eyebrow-Sad-L
+  rotate: true
+  xy: 993, 44
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+Cyborg-Eyebrow-Sad-R
+  rotate: true
+  xy: 993, 21
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+Cyborg-Hand-Close1-L
+  rotate: false
+  xy: 162, 2
+  size: 64, 57
+  orig: 64, 57
+  offset: 0, 0
+  index: -1
+Cyborg-Hand-L
+  rotate: false
+  xy: 389, 7
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+Cyborg-Hand-R
+  rotate: false
+  xy: 431, 139
+  size: 63, 128
+  orig: 63, 128
+  offset: 0, 0
+  index: -1
+Cyborg-Hand-close-L
+  rotate: false
+  xy: 678, 3
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1
+Cyborg-Hand-close-R
+  rotate: false
+  xy: 314, 62
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+Cyborg-Hand-hold-R
+  rotate: true
+  xy: 750, 4
+  size: 61, 69
+  orig: 61, 69
+  offset: 0, 0
+  index: -1
+Cyborg-Hand-open--L
+  rotate: false
+  xy: 997, 99
+  size: 69, 80
+  orig: 69, 80
+  offset: 0, 0
+  index: -1
+Cyborg-Hand-open-R
+  rotate: false
+  xy: 997, 99
+  size: 69, 80
+  orig: 69, 80
+  offset: 0, 0
+  index: -1
+Cyborg-Hand-open1-L
+  rotate: true
+  xy: 628, 167
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+Cyborg-Hand-open1-R
+  rotate: true
+  xy: 628, 167
+  size: 100, 45
+  orig: 100, 45
+  offset: 0, 0
+  index: -1
+Cyborg-Head
+  rotate: true
+  xy: 314, 137
+  size: 130, 115
+  orig: 130, 115
+  offset: 0, 0
+  index: -1
+Cyborg-Hip
+  rotate: true
+  xy: 607, 42
+  size: 110, 60
+  orig: 110, 63
+  offset: 0, 3
+  index: -1
+Cyborg-Hip-Light-R
+  rotate: true
+  xy: 349, 33
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Cyborg-Mouth-AA
+  rotate: true
+  xy: 290, 5
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+Cyborg-Mouth-EE
+  rotate: true
+  xy: 266, 3
+  size: 57, 22
+  orig: 57, 22
+  offset: 0, 0
+  index: -1
+Cyborg-Mouth-N
+  rotate: true
+  xy: 960, 5
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+Cyborg-Mouth-Sad
+  rotate: true
+  xy: 327, 5
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1
+Cyborg-Mouth-normal
+  rotate: false
+  xy: 993, 4
+  size: 64, 15
+  orig: 64, 15
+  offset: 0, 0
+  index: -1
+Cyborg-Mouth-sad-open
+  rotate: false
+  xy: 257, 62
+  size: 55, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+Cyborg-Neck
+  rotate: true
+  xy: 534, 34
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+Cyborg-Shoes-L
+  rotate: false
+  xy: 455, 15
+  size: 77, 122
+  orig: 81, 122
+  offset: 0, 0
+  index: -1
+Cyborg-Shoes-R
+  rotate: false
+  xy: 496, 149
+  size: 76, 118
+  orig: 78, 120
+  offset: 0, 2
+  index: -1
+Cyborg-Shorts-L
+  rotate: false
+  xy: 228, 2
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+Cyborg-Shorts-R
+  rotate: true
+  xy: 615, 3
+  size: 37, 61
+  orig: 37, 61
+  offset: 0, 0
+  index: -1
+Cyborg-Socks-L
+  rotate: true
+  xy: 83, 3
+  size: 39, 77
+  orig: 39, 77
+  offset: 0, 0
+  index: -1
+Cyborg-Socks-R
+  rotate: true
+  xy: 2, 2
+  size: 40, 79
+  orig: 40, 79
+  offset: 0, 0
+  index: -1
+Cyborg-Toe-L
+  rotate: false
+  xy: 891, 5
+  size: 67, 60
+  orig: 67, 60
+  offset: 0, 0
+  index: -1
+Cyborg-Toe-R
+  rotate: false
+  xy: 821, 5
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+Effect-Base
+  rotate: true
+  xy: 2, 44
+  size: 223, 95
+  orig: 223, 95
+  offset: 0, 0
+  index: -1
+Effect-Particle
+  rotate: false
+  xy: 142, 47
+  size: 8, 12
+  orig: 10, 14
+  offset: 1, 1
+  index: -1
+Effect-White
+  rotate: true
+  xy: 257, 92
+  size: 175, 55
+  orig: 175, 55
+  offset: 0, 0
+  index: -1
+tint-Cyborg-Body
+  rotate: true
+  xy: 99, 61
+  size: 206, 156
+  orig: 211, 156
+  offset: 0, 0
+  index: -1
+tint-Cyborg-Shoulder-L
+  rotate: false
+  xy: 841, 181
+  size: 77, 86
+  orig: 77, 86
+  offset: 0, 0
+  index: -1
+tint-Cyborg-Shoulder-R
+  rotate: false
+  xy: 920, 181
+  size: 77, 86
+  orig: 77, 86
+  offset: 0, 0
+  index: -1

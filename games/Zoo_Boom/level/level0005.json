@@ -1,0 +1,23 @@
+ {
+	"size":8,
+	"moves":35,
+	"stars":{"avg":3, "top":6 },
+	"tasks":[
+		{ "type":"GEM_RED", "count":15 },
+		{ "type":"GEM_YELLOW", "count":15 },
+		{ "type":"GEM_BLUE", "count":15 }
+	],
+	"add":[
+		{ "x":3, "y":4, "type":"BREAKER" }, 
+		{ "x":4, "y":4, "type":"SKUNK" }
+	],
+	"field":[ 
+		"ooxxxxoo",
+		"ooxxxxoo",
+		"xxxxxxxx",
+		"xxxxxxxx",
+		"xxxxxxxx",
+		"xxxxxxxx",
+		"ooxxxxoo",
+		"ooxxxxoo"]
+ }

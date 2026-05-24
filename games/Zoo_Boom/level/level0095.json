@@ -1,0 +1,23 @@
+ {
+	"size":9,
+	"stars":{"avg":6, "top":15 },
+	"moves":40,
+	"fill":"up",
+	"add":[
+		{ "x":0, "y":5, "dx":9, "dy":2, "type":"BOX", "params":{ "count": 2 }, "count":true },
+		
+		{ "x":0, "y":0, "dx":9, "dy":4, "type":"COIN", "count":true }
+		
+	],
+	"allowedGemTypes":["GEM_YELLOW","GEM_GREEN","GEM_RED","GEM_BLUE"],
+	"field":[ 
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"ooooooooo",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx"]
+ }

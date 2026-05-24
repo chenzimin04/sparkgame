@@ -1,0 +1,136 @@
+{
+	"type": "View",
+	"props": {
+		"width": 650,
+		"height": 120
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 61,
+				"x": 60,
+				"width": 100,
+				"var": "weaponIcon0",
+				"skin": "images/dev/img_btn_blue.png",
+				"sizeGrid": "44,22,51,24",
+				"rotation": 0,
+				"height": 100,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 6
+		},
+		{
+			"type": "Image",
+			"props": {
+				"y": 61,
+				"x": 167,
+				"width": 100,
+				"var": "weaponIcon1",
+				"skin": "images/dev/img_btn_blue.png",
+				"sizeGrid": "44,22,51,24",
+				"rotation": 0,
+				"height": 100,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 7
+		},
+		{
+			"type": "Image",
+			"props": {
+				"y": 61,
+				"x": 274,
+				"width": 100,
+				"var": "weaponIcon2",
+				"skin": "images/dev/img_btn_blue.png",
+				"sizeGrid": "44,22,51,24",
+				"rotation": 0,
+				"height": 100,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 8
+		},
+		{
+			"type": "Image",
+			"props": {
+				"y": 11,
+				"x": 352,
+				"width": 100,
+				"var": "upToIcon",
+				"skin": "images/dev/img_btn_yellow.png",
+				"sizeGrid": "44,22,51,24",
+				"rotation": 0,
+				"height": 100
+			},
+			"compId": 9
+		},
+		{
+			"type": "Image",
+			"props": {
+				"y": 42,
+				"x": 235,
+				"width": 34,
+				"var": "iconGoldCost",
+				"skin": "images/dev/img_btn_gb.png",
+				"height": 34
+			},
+			"compId": 11,
+			"child": [
+				{
+					"type": "Label",
+					"props": {
+						"y": 6,
+						"x": 40,
+						"var": "labGoldCost",
+						"text": "500",
+						"fontSize": 26,
+						"color": "#ffffff",
+						"bold": true
+					},
+					"compId": 12
+				}
+			]
+		},
+		{
+			"type": "Image",
+			"props": {
+				"y": 62,
+				"x": 583,
+				"width": 120,
+				"var": "btnUp",
+				"skin": "images/dev/img_btn_yellow.png",
+				"sizeGrid": "44,22,51,24",
+				"rotation": 0,
+				"height": 94,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 13,
+			"child": [
+				{
+					"type": "Label",
+					"props": {
+						"y": 30,
+						"x": 25,
+						"var": "labUp",
+						"text": "合成",
+						"fontSize": 34,
+						"color": "#ffffff",
+						"bold": true
+					},
+					"compId": 14
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/dev/img_btn_blue.png",
+		"images/dev/img_btn_yellow.png",
+		"images/dev/img_btn_gb.png"
+	],
+	"loadList3D": []
+}

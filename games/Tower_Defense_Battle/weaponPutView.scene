@@ -1,0 +1,434 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 10,
+				"x": 10,
+				"var": "pngBg",
+				"top": 0,
+				"skin": "images/grid/maskGray.png",
+				"sizeGrid": "2,2,2,2",
+				"right": 0,
+				"left": 0,
+				"bottom": 0
+			},
+			"compId": 40
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 220,
+				"x": 0,
+				"width": 750,
+				"var": "centerBox",
+				"height": 900
+			},
+			"compId": 41,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 0,
+						"x": 5,
+						"width": 370,
+						"skin": "images/heroBanner/icon_tc_bg.png",
+						"height": 900
+					},
+					"compId": 86
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 0,
+						"x": 745,
+						"width": 370,
+						"skin": "images/heroBanner/icon_tc_bg.png",
+						"scaleX": -1,
+						"height": 900
+					},
+					"compId": 85
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 91,
+						"x": -2,
+						"width": 320,
+						"skin": "images/heroBanner/icon_gx.png",
+						"height": 288
+					},
+					"compId": 90,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 74,
+								"x": 90,
+								"width": 140,
+								"var": "iconWeapon",
+								"skin": "images/dev/img_btn_yellow.png",
+								"sizeGrid": "44,22,51,24",
+								"rotation": 0,
+								"height": 140
+							},
+							"compId": 44
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 0,
+						"x": 11,
+						"width": 729,
+						"var": "imgTopBanner",
+						"skin": "images/heroBanner/icon_tc_pzbg_1.png",
+						"sizeGrid": "0,21,0,22"
+					},
+					"compId": 87,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 23,
+								"x": 15,
+								"var": "imgIconQuality",
+								"skin": "images/heroBanner/icon_tc_pzword_5.png"
+							},
+							"compId": 92
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 49,
+						"x": 699,
+						"var": "btnClose",
+						"skin": "images/heroBanner/button_gb.png",
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 42
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 30,
+						"x": 175,
+						"width": 400,
+						"var": "labName",
+						"text": "振奋铠甲.传说",
+						"fontSize": 42,
+						"color": "#ffffff",
+						"bold": true,
+						"align": "center"
+					},
+					"compId": 43
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 115,
+						"x": 34,
+						"var": "iconOn",
+						"skin": "images/heroBanner/icon_yzb1.png"
+					},
+					"compId": 89
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 135,
+						"x": 333,
+						"var": "labNum",
+						"text": "数量：0",
+						"fontSize": 32,
+						"color": "#ffffff"
+					},
+					"compId": 45
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 183,
+						"x": 333,
+						"var": "labLv",
+						"text": "等级：1/40",
+						"fontSize": 32,
+						"color": "#ffffff"
+					},
+					"compId": 46
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 232,
+						"x": 333,
+						"var": "labAtk",
+						"text": "攻击力：+359",
+						"fontSize": 32,
+						"color": "#ffffff"
+					},
+					"compId": 47
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 280,
+						"x": 333,
+						"var": "labOther",
+						"text": "暴击率：+3.2%",
+						"fontSize": 32,
+						"color": "#ffffff"
+					},
+					"compId": 48
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 361,
+						"x": 301,
+						"wordWrap": true,
+						"width": 420,
+						"var": "labDesc",
+						"text": "来自阿姆斯特丹的头盔，传说是一件失传已久的宝物，但它充满了诅咒之力。",
+						"leading": 10,
+						"height": 136,
+						"fontSize": 30,
+						"color": "#ececec",
+						"bold": true
+					},
+					"compId": 52
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 330,
+						"x": 305,
+						"width": 370,
+						"skin": "images/heroBanner/icon_fgx.png",
+						"sizeGrid": "0,2,0,1"
+					},
+					"compId": 91
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 409,
+						"x": 159,
+						"width": 170,
+						"var": "btnPut",
+						"skin": "images/heroBanner/button_nd_1.png",
+						"rotation": 0,
+						"height": 92,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 49,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 19,
+								"x": 51,
+								"var": "imgPut",
+								"skin": "images/heroBanner/button_word_zb.png",
+								"label": "label"
+							},
+							"compId": 88
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "Image",
+			"props": {
+				"y": 696,
+				"x": 16,
+				"width": 719,
+				"skin": "images/heroBanner/icon_bb_bg.png",
+				"sizeGrid": "7,7,7,7",
+				"height": 404
+			},
+			"compId": 63,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 55,
+						"x": 885,
+						"width": 110,
+						"var": "btnQt1",
+						"skin": "images/dev/img_btn_blue.png",
+						"sizeGrid": "44,22,51,24",
+						"height": 80,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 64,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 23,
+								"x": 21,
+								"text": "普通",
+								"fontSize": 34,
+								"color": "#ffffff"
+							},
+							"compId": 65
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 55,
+						"x": 990,
+						"width": 110,
+						"var": "btnQt2",
+						"skin": "images/dev/img_btn_blue.png",
+						"sizeGrid": "44,22,51,24",
+						"height": 80,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 66,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 23,
+								"x": 21,
+								"text": "稀有",
+								"fontSize": 34,
+								"color": "#ffffff"
+							},
+							"compId": 67
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 55,
+						"x": 1095,
+						"width": 110,
+						"var": "btnQt3",
+						"skin": "images/dev/img_btn_blue.png",
+						"sizeGrid": "44,22,51,24",
+						"height": 80,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 68,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 23,
+								"x": 21,
+								"text": "精英",
+								"fontSize": 34,
+								"color": "#ffffff"
+							},
+							"compId": 69
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 55,
+						"x": 1200,
+						"width": 110,
+						"var": "btnQt4",
+						"skin": "images/dev/img_btn_blue.png",
+						"sizeGrid": "44,22,51,24",
+						"height": 80,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 70,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 23,
+								"x": 21,
+								"text": "史诗",
+								"fontSize": 34,
+								"color": "#ffffff"
+							},
+							"compId": 71
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 55,
+						"x": 1305,
+						"width": 110,
+						"var": "btnQt5",
+						"skin": "images/dev/img_btn_blue.png",
+						"sizeGrid": "44,22,51,24",
+						"height": 80,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 72,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 23,
+								"x": 21,
+								"text": "传说",
+								"fontSize": 34,
+								"color": "#ffffff"
+							},
+							"compId": 73
+						}
+					]
+				},
+				{
+					"type": "List",
+					"props": {
+						"y": 18,
+						"x": 17,
+						"width": 690,
+						"var": "weaponList",
+						"height": 339
+					},
+					"compId": 84
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/grid/maskGray.png",
+		"images/heroBanner/icon_tc_bg.png",
+		"images/heroBanner/icon_gx.png",
+		"images/dev/img_btn_yellow.png",
+		"images/heroBanner/icon_tc_pzbg_1.png",
+		"images/heroBanner/icon_tc_pzword_5.png",
+		"images/heroBanner/button_gb.png",
+		"images/heroBanner/icon_yzb1.png",
+		"images/heroBanner/icon_fgx.png",
+		"images/heroBanner/button_nd_1.png",
+		"images/heroBanner/button_word_zb.png",
+		"images/heroBanner/icon_bb_bg.png",
+		"images/dev/img_btn_blue.png"
+	],
+	"loadList3D": []
+}

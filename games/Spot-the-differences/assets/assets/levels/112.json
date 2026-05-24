@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "monkey_hammoc_a.jpg",
+  "image2": "monkey_hammoc_b.jpg",
+  "differences":
+  [
+    {
+      "x": 604.0,
+      "y": 43.0,
+      "size": 100.0
+    },
+    {
+      "x": 238.0,
+      "y": 365.0,
+      "size": 150.0
+    },
+    {
+      "x": 521.0,
+      "y": 426.0,
+      "size": 70.0
+    },
+    {
+      "x": 948.0,
+      "y": 62.0,
+      "size": 150.0
+    },
+    {
+      "x": 841.0,
+      "y": 535.0,
+      "size": 70.0
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+ {
+	"size":9,
+	"moves":40,
+	"fill":"up",
+	"add":[			
+		{ "x":0, "y":0, "dx":9, "dy":3, "type":"BOX", "softCage":true, "count":true },
+		{ "x":0, "y":3, "dx":3, "dy":3, "type":"BOX", "softCage":true, "count":true },
+		{ "x":6, "y":3, "dx":3, "dy":3, "type":"BOX", "softCage":true, "count":true },
+		{ "x":0, "y":6, "dx":9, "dy":2, "type":"BOX", "softCage":true, "count":true },
+		{ "x":0, "y":8, "dx":3, "dy":1, "type":"BOX", "softCage":true, "count":true },
+		{ "x":6, "y":8, "dx":3, "dy":1, "type":"BOX", "softCage":true, "count":true },
+		{ "x":3, "y":8, "dx":3, "dy":1, "type":"GEM_BLUE" }
+		
+	],
+	"allowedGemTypes":["GEM_BLUE","GEM_RED","GEM_PURPLE","GEM_YELLOW"],
+	"field":[
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxoooxxx",
+		"xxxoooxxx",
+		"xxxoooxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx",
+		"xxxxxxxxx"]
+ }

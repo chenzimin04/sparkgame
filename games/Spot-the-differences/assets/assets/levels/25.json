@@ -1,0 +1,23 @@
+{
+  "resolution": "standard",
+  "image1": "Underwater_ancient_temple_a.jpg",
+  "image2": "Underwater_ancient_temple_b.jpg",
+  "differences":
+  [
+    {
+    "x": 163.0,
+    "y": 439.0,
+    "size": 220.0
+    },
+    {
+    "x": 218.0,
+    "y": 629.0,
+    "size": 90.0
+    },
+    {
+    "x": 527.0,
+    "y": 474.0,
+    "size": 80.0
+    }
+  ]
+}

@@ -1,0 +1,596 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 677,
+				"x": 385,
+				"var": "pngBg",
+				"top": 0,
+				"skin": "images/solider/icon_bg.png",
+				"right": 0,
+				"left": 0,
+				"bottom": 0,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 3
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 101,
+				"x": 0,
+				"width": 750,
+				"var": "centerBox",
+				"mouseThrough": true,
+				"height": 1132
+			},
+			"compId": 4,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 8,
+						"x": 15,
+						"width": 720,
+						"skin": "images/solider/icon_bd_bg.png",
+						"sizeGrid": "0,46,0,46",
+						"height": 334
+					},
+					"compId": 175,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 277,
+								"x": 160,
+								"skin": "images/solider/icon_bd_tips.png"
+							},
+							"compId": 192
+						}
+					]
+				},
+				{
+					"type": "Box",
+					"props": {
+						"y": 95,
+						"x": 16,
+						"width": 717,
+						"var": "upGuideBox",
+						"rotation": 0,
+						"height": 242,
+						"alpha": 0.5
+					},
+					"compId": 146
+				},
+				{
+					"type": "Box",
+					"props": {
+						"y": 444,
+						"x": 102,
+						"width": 140,
+						"visible": false,
+						"var": "downGuideBox",
+						"rotation": 0,
+						"height": 188,
+						"anchorY": 0.5,
+						"anchorX": 0.5,
+						"alpha": 0.5
+					},
+					"compId": 147
+				},
+				{
+					"type": "Box",
+					"props": {
+						"y": 7,
+						"x": 53,
+						"width": 643,
+						"var": "heroTapBox",
+						"rotation": 0,
+						"height": 1093
+					},
+					"compId": 76,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 23,
+								"x": 81,
+								"width": 480,
+								"skin": "images/solider/icon_bd_bqbg.png",
+								"sizeGrid": "0,24,0,23",
+								"height": 44
+							},
+							"compId": 176,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 25,
+										"x": 61,
+										"var": "iconTeam0",
+										"skin": "images/solider/button_bd_bq1.png",
+										"label": "label",
+										"anchorY": 0.5,
+										"anchorX": 0.5
+									},
+									"compId": 177,
+									"child": [
+										{
+											"type": "Image",
+											"props": {
+												"y": 13,
+												"x": 17,
+												"var": "iconLock0",
+												"skin": "images/solider/icon_lock.png"
+											},
+											"compId": 187
+										},
+										{
+											"type": "Image",
+											"props": {
+												"y": 16,
+												"x": 22,
+												"var": "iconNum0",
+												"skin": "images/solider/icon_word_1.png"
+											},
+											"compId": 182
+										}
+									]
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 25,
+										"x": 151,
+										"var": "iconTeam1",
+										"skin": "images/solider/button_bd_bq2.png",
+										"label": "label",
+										"anchorY": 0.5,
+										"anchorX": 0.5
+									},
+									"compId": 178,
+									"child": [
+										{
+											"type": "Image",
+											"props": {
+												"y": 13,
+												"x": 17,
+												"var": "iconLock1",
+												"skin": "images/solider/icon_lock.png"
+											},
+											"compId": 188
+										},
+										{
+											"type": "Image",
+											"props": {
+												"y": 15,
+												"x": 21,
+												"var": "iconNum1",
+												"skin": "images/solider/icon_word_2.png"
+											},
+											"compId": 183
+										}
+									]
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 25,
+										"x": 241,
+										"var": "iconTeam2",
+										"skin": "images/solider/button_bd_bq2.png",
+										"label": "label",
+										"anchorY": 0.5,
+										"anchorX": 0.5
+									},
+									"compId": 179,
+									"child": [
+										{
+											"type": "Image",
+											"props": {
+												"y": 13,
+												"x": 17,
+												"var": "iconLock2",
+												"skin": "images/solider/icon_lock.png"
+											},
+											"compId": 189
+										},
+										{
+											"type": "Image",
+											"props": {
+												"y": 15,
+												"x": 19,
+												"var": "iconNum2",
+												"skin": "images/solider/icon_word_3.png"
+											},
+											"compId": 184
+										}
+									]
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 25,
+										"x": 331,
+										"var": "iconTeam3",
+										"skin": "images/solider/button_bd_bq2.png",
+										"label": "label",
+										"anchorY": 0.5,
+										"anchorX": 0.5
+									},
+									"compId": 180,
+									"child": [
+										{
+											"type": "Image",
+											"props": {
+												"y": 13,
+												"x": 17,
+												"var": "iconLock3",
+												"skin": "images/solider/icon_lock.png"
+											},
+											"compId": 190
+										},
+										{
+											"type": "Image",
+											"props": {
+												"y": 16,
+												"x": 21,
+												"var": "iconNum3",
+												"skin": "images/solider/icon_word_4.png"
+											},
+											"compId": 185
+										}
+									]
+								},
+								{
+									"type": "Image",
+									"props": {
+										"y": 25,
+										"x": 421,
+										"var": "iconTeam4",
+										"skin": "images/solider/button_bd_bq2.png",
+										"label": "label",
+										"anchorY": 0.5,
+										"anchorX": 0.5
+									},
+									"compId": 181,
+									"child": [
+										{
+											"type": "Image",
+											"props": {
+												"y": 13,
+												"x": 17,
+												"var": "iconLock4",
+												"skin": "images/solider/icon_lock.png"
+											},
+											"compId": 191
+										},
+										{
+											"type": "Image",
+											"props": {
+												"y": 15,
+												"x": 21,
+												"var": "iconNum4",
+												"skin": "images/solider/icon_word_5.png"
+											},
+											"compId": 186
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 128,
+								"x": 9,
+								"var": "imgSiteBox0",
+								"skin": "images/main/icon_sb_jz_db.png"
+							},
+							"compId": 67
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 128,
+								"x": 146,
+								"var": "imgSiteBox1",
+								"skin": "images/main/icon_sb_jz_db.png"
+							},
+							"compId": 72
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 128,
+								"x": 282,
+								"width": 74,
+								"var": "imgSiteBox2",
+								"skin": "images/main/icon_sb_jz_db.png",
+								"height": 74
+							},
+							"compId": 73
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 128,
+								"x": 419,
+								"var": "imgSiteBox3",
+								"skin": "images/main/icon_sb_jz_db.png"
+							},
+							"compId": 74
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 128,
+								"x": 555,
+								"var": "imgSiteBox4",
+								"skin": "images/main/icon_sb_jz_db.png"
+							},
+							"compId": 75
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 313,
+								"x": -54,
+								"width": 750,
+								"var": "siteLine",
+								"rotation": 0,
+								"height": 10
+							},
+							"compId": 139
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 194,
+								"x": 46,
+								"width": 0,
+								"var": "boxOn0",
+								"height": 0
+							},
+							"compId": 77
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 194,
+								"x": 183,
+								"width": 0,
+								"var": "boxOn1",
+								"height": 0
+							},
+							"compId": 78
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 193,
+								"x": 319,
+								"width": 0,
+								"var": "boxOn2",
+								"height": 0
+							},
+							"compId": 79
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 194,
+								"x": 455,
+								"width": 0,
+								"var": "boxOn3",
+								"height": 0
+							},
+							"compId": 80
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 195,
+								"x": 591,
+								"width": 0,
+								"var": "boxOn4",
+								"height": 0
+							},
+							"compId": 81
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 446,
+								"x": 57,
+								"var": "boxOff0"
+							},
+							"compId": 124
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 446,
+								"x": 234,
+								"var": "boxOff1"
+							},
+							"compId": 123
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 446,
+								"x": 412,
+								"var": "boxOff2"
+							},
+							"compId": 122
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 446,
+								"x": 589,
+								"var": "boxOff3"
+							},
+							"compId": 125
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 658,
+								"x": 57,
+								"width": 0,
+								"var": "boxOff4",
+								"rotation": 0,
+								"height": 0
+							},
+							"compId": 128
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 658,
+								"x": 234,
+								"var": "boxOff5"
+							},
+							"compId": 127
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 658,
+								"x": 412,
+								"var": "boxOff6"
+							},
+							"compId": 126
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 658,
+								"x": 589,
+								"var": "boxOff7"
+							},
+							"compId": 129
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 871,
+								"x": 57,
+								"var": "boxOff8"
+							},
+							"compId": 132
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 871,
+								"x": 234,
+								"var": "boxOff9"
+							},
+							"compId": 131
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 871,
+								"x": 412,
+								"var": "boxOff10"
+							},
+							"compId": 130
+						},
+						{
+							"type": "Box",
+							"props": {
+								"y": 871,
+								"x": 589,
+								"var": "boxOff11"
+							},
+							"compId": 133
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 751,
+						"x": 31,
+						"width": 62,
+						"var": "btnHeroLeft",
+						"skin": "images/solider/toLeft.png",
+						"height": 82,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 115
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 751,
+						"x": 717,
+						"var": "btnHeroRight",
+						"skin": "images/solider/toRight.png",
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 116
+				},
+				{
+					"type": "Box",
+					"props": {
+						"y": 1011,
+						"x": 0,
+						"width": 750,
+						"var": "pageBox",
+						"height": 40
+					},
+					"compId": 193
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 1057,
+						"x": 370,
+						"var": "labWarring",
+						"text": "High-end soldiers are available for purchase in boutiques~",
+						"stroke": 1,
+						"fontSize": 24,
+						"color": "#ffffff",
+						"bold": true,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 195
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/solider/icon_bg.png",
+		"images/solider/icon_bd_bg.png",
+		"images/solider/icon_bd_tips.png",
+		"images/solider/icon_bd_bqbg.png",
+		"images/solider/button_bd_bq1.png",
+		"images/solider/icon_lock.png",
+		"images/solider/icon_word_1.png",
+		"images/solider/button_bd_bq2.png",
+		"images/solider/icon_word_2.png",
+		"images/solider/icon_word_3.png",
+		"images/solider/icon_word_4.png",
+		"images/solider/icon_word_5.png",
+		"images/main/icon_sb_jz_db.png",
+		"images/solider/toLeft.png",
+		"images/solider/toRight.png"
+	],
+	"loadList3D": []
+}

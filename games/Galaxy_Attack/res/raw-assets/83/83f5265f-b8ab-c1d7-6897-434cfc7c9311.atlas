@@ -1,0 +1,104 @@
+
+skel_boss_train.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images1/001
+  rotate: false
+  xy: 1, 177
+  size: 470, 334
+  orig: 470, 334
+  offset: 0, 0
+  index: -1
+images2/001
+  rotate: false
+  xy: 1, 177
+  size: 470, 334
+  orig: 470, 334
+  offset: 0, 0
+  index: -1
+images1/tu1
+  rotate: true
+  xy: 472, 194
+  size: 37, 57
+  orig: 37, 57
+  offset: 0, 0
+  index: -1
+images2/tu1
+  rotate: true
+  xy: 472, 194
+  size: 37, 57
+  orig: 37, 57
+  offset: 0, 0
+  index: -1
+images1/tu3
+  rotate: false
+  xy: 852, 443
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+images2/tu3
+  rotate: false
+  xy: 852, 443
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+images1/zhucang
+  rotate: false
+  xy: 472, 232
+  size: 116, 279
+  orig: 116, 279
+  offset: 0, 0
+  index: -1
+images1/zuopao
+  rotate: false
+  xy: 706, 242
+  size: 57, 107
+  orig: 57, 107
+  offset: 0, 0
+  index: -1
+images2/zuopao
+  rotate: false
+  xy: 706, 242
+  size: 57, 107
+  orig: 57, 107
+  offset: 0, 0
+  index: -1
+images1/zuoyi1
+  rotate: false
+  xy: 706, 350
+  size: 72, 161
+  orig: 72, 161
+  offset: 0, 0
+  index: -1
+images1/zuoyi2
+  rotate: true
+  xy: 1, 1
+  size: 175, 238
+  orig: 175, 238
+  offset: 0, 0
+  index: -1
+images2/zhucang
+  rotate: false
+  xy: 589, 232
+  size: 116, 279
+  orig: 116, 279
+  offset: 0, 0
+  index: -1
+images2/zuoyi1
+  rotate: false
+  xy: 779, 350
+  size: 72, 161
+  orig: 72, 161
+  offset: 0, 0
+  index: -1
+images2/zuoyi2
+  rotate: true
+  xy: 240, 1
+  size: 175, 238
+  orig: 175, 238
+  offset: 0, 0
+  index: -1

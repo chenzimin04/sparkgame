@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "grapes_and_wine_a.jpg",
+  "image2": "grapes_and_wine_b.jpg",
+  "differences":
+  [
+    {
+      "x": 72.0,
+      "y": 508.0,
+      "size": 80.0
+    },
+    {
+      "x": 424.0,
+      "y": 448.0,
+      "size": 60.0
+    },
+    {
+      "x": 512.0,
+      "y": 474.0,
+      "size": 60.0
+    },
+    {
+      "x": 779.0,
+      "y": 527.0,
+      "size": 100.0
+    },
+    {
+      "x": 664.0,
+      "y": 510.0,
+      "size": 80.0
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+
+<screen relativeWidth="1.0" relativeHeight="1.0" >	
+</screen>

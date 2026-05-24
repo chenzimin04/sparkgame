@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#284b55"/>
+      <stop offset="0.6" stop-color="#415a9d"/>
+      <stop offset="1" stop-color="#7d47d8"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" fill="url(#bg)"/>
+  <path d="M0 288c59-39 130-48 188-25 57 23 111 29 171 7 73-27 138-24 281 8V420H0Z" fill="#37436f"/>
+  <path d="M75 297h72v87H75zM191 266h67v118h-67zM283 221h88v163h-88zM406 242h65v142h-65z" fill="#283253" opacity="0.8"/>
+  <g transform="translate(120 132)">
+    <circle cx="0" cy="98" r="38" fill="#ffb34e"/>
+    <circle cx="117" cy="53" r="34" fill="#5ee7c5"/>
+    <circle cx="252" cy="118" r="42" fill="#a56cff"/>
+    <rect x="353" y="26" width="66" height="66" rx="14" fill="#ff615d"/>
+  </g>
+  <rect x="73" y="62" width="252" height="68" rx="18" fill="#5b4225" opacity="0.88"/>
+  <text x="98" y="109" fill="#7df0d9" font-size="50" font-family="Segoe UI, Arial, sans-serif" font-weight="800">IDLE</text>
+  <text x="189" y="109" fill="#ffcf6b" font-size="50" font-family="Segoe UI, Arial, sans-serif" font-weight="800">WARRIORS</text>
+</svg>

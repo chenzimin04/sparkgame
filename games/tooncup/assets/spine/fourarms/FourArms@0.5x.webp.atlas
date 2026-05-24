@@ -1,0 +1,412 @@
+
+FourArms@0.5x.webp
+size: 984,102
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect-Base
+  rotate: false
+  xy: 519, 1
+  size: 111, 47
+  orig: 111, 47
+  offset: 0, 0
+  index: -1
+Effect-Particle
+  rotate: false
+  xy: 752, 1
+  size: 4, 6
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+Effect-White
+  rotate: true
+  xy: 105, 14
+  size: 87, 27
+  orig: 87, 27
+  offset: 0, 0
+  index: -1
+Fourarm-2nd-Elbow-L
+  rotate: false
+  xy: 580, 50
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+Fourarm-2nd-Elbow-R
+  rotate: false
+  xy: 297, 43
+  size: 39, 58
+  orig: 39, 58
+  offset: 0, 0
+  index: -1
+Fourarm-2nd-Hand-Spike-1-R
+  rotate: true
+  xy: 821, 2
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+Fourarm-2nd-Hand-Spike-2-L
+  rotate: true
+  xy: 921, 1
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+Fourarm-2nd-Hand-Spike-2-R
+  rotate: true
+  xy: 124, 2
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+Fourarm-2nd-Hand-Spike-3-L
+  rotate: true
+  xy: 804, 1
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+Fourarm-2nd-Hand-Spike-3-R
+  rotate: false
+  xy: 968, 82
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+Fourarm-2nd-Hand-Spike-4-L
+  rotate: true
+  xy: 105, 1
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+Fourarm-2nd-Hand-Spike-4-R
+  rotate: true
+  xy: 843, 2
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+Fourarm-2nd-Palm-L-Fold
+  rotate: false
+  xy: 905, 68
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Fourarm-2nd-Palm-L-Open
+  rotate: true
+  xy: 284, 1
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+Fourarm-2nd-Palm-R-Fold
+  rotate: true
+  xy: 146, 1
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Fourarm-2nd-Palm-R-Fold-1
+  rotate: true
+  xy: 183, 2
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+Fourarm-2nd-Palm-R-Open
+  rotate: true
+  xy: 444, 48
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+Fourarm-2nd-Up-Hand-L
+  rotate: false
+  xy: 673, 2
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+Fourarm-2nd-Up-Hand-R
+  rotate: false
+  xy: 431, 1
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+Fourarm-2ndHand-Spike-1-L
+  rotate: true
+  xy: 940, 40
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+Fourarm-Elbow-L
+  rotate: true
+  xy: 227, 1
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+Fourarm-Elbow-R
+  rotate: false
+  xy: 134, 37
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+Fourarm-Face
+  rotate: false
+  xy: 887, 1
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+Fourarm-Hand-Spike-1-L
+  rotate: false
+  xy: 134, 14
+  size: 9, 22
+  orig: 9, 22
+  offset: 0, 0
+  index: -1
+Fourarm-Hand-Spike-1-R
+  rotate: true
+  xy: 865, 1
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+Fourarm-Hand-Spike-2-L
+  rotate: true
+  xy: 935, 68
+  size: 9, 22
+  orig: 9, 22
+  offset: 0, 0
+  index: -1
+Fourarm-Hand-Spike-2-R
+  rotate: false
+  xy: 935, 79
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+Fourarm-Hand-Spike-3-L
+  rotate: false
+  xy: 940, 50
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+Fourarm-Hand-Spike-3-R
+  rotate: false
+  xy: 961, 39
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Fourarm-Hand-Spike-4-L
+  rotate: false
+  xy: 944, 21
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+Fourarm-Hand-Spike-4-R
+  rotate: false
+  xy: 950, 80
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+Fourarm-Hip-Patch
+  rotate: false
+  xy: 752, 8
+  size: 18, 43
+  orig: 18, 43
+  offset: 0, 0
+  index: -1
+Fourarm-Knee-L
+  rotate: false
+  xy: 909, 34
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+Fourarm-Knee-R
+  rotate: false
+  xy: 876, 29
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+Fourarm-Mouth-A
+  rotate: true
+  xy: 840, 60
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+Fourarm-Mouth-B
+  rotate: true
+  xy: 846, 19
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+Fourarm-Mouth-C
+  rotate: true
+  xy: 808, 60
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+Fourarm-Neck
+  rotate: false
+  xy: 383, 2
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+Fourarm-Palm-L-Fold
+  rotate: false
+  xy: 871, 64
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+Fourarm-Palm-L-Open
+  rotate: true
+  xy: 471, 3
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+Fourarm-Palm-R-Fold
+  rotate: false
+  xy: 804, 16
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+Fourarm-Palm-R-Fold-1
+  rotate: false
+  xy: 710, 3
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+Fourarm-Palm-R-Open
+  rotate: true
+  xy: 207, 42
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+Fourarm-Shadow
+  rotate: false
+  xy: 615, 52
+  size: 163, 49
+  orig: 163, 49
+  offset: 0, 0
+  index: -1
+Fourarm-Shoe-L
+  rotate: true
+  xy: 414, 48
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+Fourarm-Shoe-R
+  rotate: true
+  xy: 337, 44
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+Fourarm-Shorts-L
+  rotate: false
+  xy: 180, 40
+  size: 26, 61
+  orig: 26, 61
+  offset: 0, 0
+  index: -1
+Fourarm-Shorts-R
+  rotate: false
+  xy: 264, 42
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+Fourarm-Thigh-L
+  rotate: false
+  xy: 958, 59
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Fourarm-Thigh-R
+  rotate: true
+  xy: 921, 10
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Fourarm-Up-Hand-L
+  rotate: true
+  xy: 328, 1
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+Fourarm-Up-Hand-R
+  rotate: false
+  xy: 495, 49
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+tint-Fourarm-Body
+  rotate: false
+  xy: 1, 1
+  size: 103, 100
+  orig: 103, 100
+  offset: 0, 0
+  index: -1
+tint-Fourarm-Chest
+  rotate: true
+  xy: 632, 2
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+tint-Fourarm-Shoulder-L
+  rotate: false
+  xy: 369, 47
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+tint-Fourarm-Shoulder-R
+  rotate: false
+  xy: 537, 50
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+tint-Fourarm-Socks-L
+  rotate: false
+  xy: 779, 59
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+tint-Fourarm-Socks-R
+  rotate: false
+  xy: 772, 8
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+
+<templates>
+</templates>
+
+<screen name="uiMoreMovesPopUp" template="tPopUpJennySad" label="SID_OH_NO">
+	<element name="uiContent" >	
+		<element name="uiContinue" template="tElement">
+			<text text="SID_NO_MOVES" relativeWidth="1" height="120" halignText="center" valignText="center" halign="center" valign="top" template="tFontWhite,tFontMedium" />
+			<rewardedAd name="uiBtRewardedAd" y="220" halign="center" valign="top" template="tRewardedAd" event="more_moves" visible="false" height="330" paddingTop="60" >
+				<text text="SID_WIN_MOVES" y="-60" width="100%" height="60" halignText="center" valignText="center" halign="center" valign="top" template="tFontWhite,tFontMedium" />
+				<image name="uiImgAd" >
+					<image name="uiImgRewardConti" >
+						<image name="uiImgRewardIcon" image="dynamic/wheeloffortune_icon.png" width="130" ratio="1" halign="center" >
+							<animation animation="rotation" speed="350.0" />
+						</image>
+					</image>
+				</image>
+			</rewardedAd>		
+		</element>	
+		<element name="uiQuit" template="tElement" visible="false">
+			<text text="SID_REPEAT_WARNING" relativeWidth="1" height="160" halignText="center" valignText="center" halign="center" valign="top" template="tFontWhite,tFontMedium" >
+				<state state="unlimited" visible="false"/>
+			</text>
+			<image image="ui/life.png" width="300" ratio="1.0" halign="center" valign="center" y="-50" >
+				<text text="-1" halignText="center" valignText="center" template="tFontWhite,tElement,tFontUltra" y="-10" />
+				<state state="unlimited" visible="false" />
+				<state state="streak" y="-150" x="-150" width="250" />
+				<state state="noStreak" y="-50" x="0" width="300" />			
+			</image>
+			<image name="uiImgStreak" image="dynamic/streak.png" width="250" ratio="1.0" halign="center" valign="center" y="-160" x="150" >
+				<state state="streak" visible="true" />
+				<state state="noStreak" visible="false" />			
+				<state state="unlimited" x="0"/>
+				<text name="uiTxtStreak" halignText="center" valignText="bottom" halign="center" valign="center" template="tFontSpecial,tFontLarge,tElement" margin="40" marginBottom="35" />					
+				<text text="SID_LOSE_STREAK" width="800" height="120" halignText="center" valignText="center" halign="center" valign="bottomOf" template="tFontWhite,tFontMedium" x="-150" >
+					<state state="landscape" width="800" />
+					<state state="portrait" width="600" />
+					<state state="unlimited" x="0"/>
+				</text>
+			</image>
+		</element>
+		<image width="660" height="320" padding="30" halign="center" valign="bottom" template="tBox" >
+			<text text="SID_BUY_MORE_MOVES" relativeWidth="1" height="60" halignText="center" valignText="center" halign="center" valign="top" template="tFontWhite,tFontMedium" if="locaSupported" />				
+			<button name="uiBtContinue" template="tBtMTX" halign="center" valign="bottom" label="SID_CONTINUE" >
+				<image x="-45" width="140" y="-5" ratio="1.0" halign="right" valign="center" image="ui/moves.png" >
+					<text name="uiTxtNumMoves" y="0" text="+5" halignText="center" valignText="center" template="tFontWhite,tElement,tFontLarge" color="0xFF0000" />
+				</image>
+			</button>	
+		</image>
+	</element>
+	<image name="uiImgJennyFront" template="tJennySad" >
+		<state state="landscape" visible="true" height="2500" x="250" y="-940" />
+		<state state="portrait" visible="true" x="330" y="-650" />
+	</image>
+</screen>

@@ -1,0 +1,1021 @@
+ID,fil-PH
+ad_failed.button,OK
+ad_failed.message,"Walang Video na magagamit ngayon, subukan muli mamaya."
+ad_failed.title,Ops...
+ad_magic.button,Tingnan
+ad_magic.message,Tingnan ang isang maikling clip para makakuha ng gantimpala.
+ad_magic.title,Matamis na Piggy-Magic
+android_app.button,I-install
+android_app.text.release,Mga kaibigan! Masaya kaming ibahagi sa inyo na ang aming laro ay ngayon ay magagamit sa Android. Mag-download na ng app!
+android_app.title,Ngayon sa Android!
+android_update.restart.no,Mamaya
+android_update.restart.text,I-install na ba?
+android_update.restart.title,Update na!
+android_update.restart.yes,Oo.
+avatar_already_changed.button,OK
+avatar_already_changed.message,Ang iyong larawan ng profile ay nai-change na. Maaari ka lamang mag-change ng larawan ng profile MO LANG ISANG BESES.
+bookmark.daily,Hamon.
+bookmark.friends,Mga Kaibigan
+bookmark.settings,Mga Setting
+booster_hint.cross,%booster_shop.hint.ingame.cross%
+booster_hint.hammer,%booster_shop.hint.ingame.hammer%
+booster_hint.hand,%booster_shop.hint.ingame.hand%
+booster_shop.buy,Kumuha ng #count para sa
+booster_shop.hint.ingame.cross,Gamitin ang Magic Wand para alisin ang isang hanay at isang kolum ng mga piraso.
+booster_shop.hint.ingame.hammer,Tanggalin ang mga tile sa pamamagitan ng pag-smasn sa kanila gamit ang Hammer!
+booster_shop.hint.ingame.hand,Gamitin ang Glove para palitan ang anumang magkakatabi na pieces.
+booster_shop.hint.prelevel.add_bomb,Simulan ang anumang antas na may Bomb na nakalagay na sa board!
+booster_shop.hint.prelevel.add_line,Simulan ang anumang antas na may linya na nasa board na!
+booster_shop.hint.prelevel.add_omni,Simulan ang anumang antas na may Lightning na nasa board na!
+booster_shop.hint.prelevel.add_tint,Simulan ang anumang antas na may Paint na nasa board na!
+booster_shop.hint.prelevel.double_fly,Doblehin ang lahat ng Fireflies na nilikha sa loob ng antas na ito!
+booster_shop.title.ingame.cross,Pambihirang Wando
+booster_shop.title.ingame.hammer,Martilyo
+booster_shop.title.ingame.hand,Guanteng
+booster_shop.title.prelevel.add_bomb,Booster ng Bomba
+booster_shop.title.prelevel.add_line,Linya Booster
+booster_shop.title.prelevel.add_omni,Lightning Booster
+booster_shop.title.prelevel.add_tint,Pintura Booster
+booster_shop.title.prelevel.double_fly,Booster ng Firefly x2
+chest_open.collection_complete,Na-kolekta!
+chest_open.ok,OK
+chest_opening.button,Magaling!
+chest_opening.reward,Gantimpala
+conflict_popup.continue,Magpatuloy
+conflict_popup.hint_syncing,Nag-sinkronisa...
+conflict_popup.skip,Magpatuloy sa Offline
+credits.art,Disenyo ng sining.
+credits.artists,"Maraming pag-ibig sa ating mga kaibigang graphic artists
+para sa magagandang avatar characters!"
+credits.gamedesign,Disenyo ng Laro
+credits.mentions,Salamat sa mga kaibigan natin.
+credits.programming,Paggawa ng programa
+credits.title,Ang aming pangkat!
+daily_help.button,OK
+daily_help.chest,Pangunahing premyo
+daily_help.reward,Isang beses na gantimpala
+daily_help.text,"Araw-araw, mga manlalaro ay ipinapakita ang kanilang kasanayan at naglalaban sa isang antas.
+
+Ang pinakamataas na score na manlalaro ay makakatanggap ng premyo ng araw - Korona at Chest ng Gems!"
+daily_help.title,Pang-araw-araw na Hamon
+daily_reward.button,Magaling!
+daily_reward.reward,Gantimpala
+daily_reward.title.place_1,"Ikaw ang manalo 
+sa Daily Challenge!"
+daily_reward.title.place_generic,"Nakumpleto na ang Daily Challenge
+Ika-\##place ka sa ranking!"
+daily.drag_to_update,I-pull upang i-refresh
+daily.epic_sunday_ribbon,Magandang Hamon.
+daily.finishes_in,Nagtatapos ang hamon sa #time
+daily.finishes_now,Tapos na ang hamon!
+daily.high_score,Bagong pinakamataas na score!
+daily.medal_chest_text,Kumolekta ng #amount ng mga medalya!
+daily.next_time,Susunod na Daily Challenge sa #time
+daily.next_time_now,Bagong Daily Challenge na nagsimula!
+daily.no_yesterday_yet,Hindi ka nakilahok sa nakaraang Daily Challenge
+daily.play,Maglaro
+daily.retry_submit,Muling subukan
+daily.rewards_tab,Mga Gawad ng Pang-araw-araw na Hamon
+daily.rewards.bubble,"Kunin ang mga bituin at medalya
+upang buksan ang mga kaban ng mga yaman!"
+daily.score_not_accepted,Hindi na ito isasama sa leaderboard dahil natapos ka na maglaro pagkatapos ng Daily Challenge.
+daily.star_chest_claim,Buksan
+daily.star_chest_collected_text,Bumalik bukas para sa isa pang kahon!
+daily.star_chest_text,Tapusin ang 7 Daily Challenges sa isang hilera na may 3 stars!
+daily.submit_error,Hindi makapagpadala ng mga resulta.
+daily.today,Pang-araw-araw na Hamon
+daily.today_mark,Ngayon
+daily.update_error,Walang koneksyon sa internet.
+daily.wait_text,
+daily.watch_replay.button,Tingnan
+daily.watch_replay.text,Muling paglalaro ng laro
+daily.welcome_reward_first,%daily_help.text%
+daily.welcome_text,Yay! Bagong Daily Challenge na nagsimula na!
+daily.yesterday,Kabilang Araw na Hagdan
+daily.yesterday_updating,Kumukuha ng mga resulta...
+demo.finished.text,"Maligayang bati, natapos mo na ang trial version! Maglaro ng full version nang libre sa <p class=""ma-link"">PecPoc.com<p class=""demo-hint"">Hindi mawawala ang iyong progreso."
+demo.nag.text,"Libreng bonus ay magagamit lamang sa buong bersyon. Magpatuloy sa paglalaro ng buong bersyon sa <p class=""ma-link""> PecPoc.com <p class=""demo-hint""> Hindi mawawala ang iyong progreso."
+event_ny.next_in_hint,Kumuha ng susunod na kasalukuyan sa: #ime
+event_ny.title,Bagong Taon na Regalo
+fake_ad.reward_in,Magbabayad sa...
+fake_ad.tutorial,"Walang video na magagamit ngayon...
+Huwag mag-alala, magpakasaya tayo sa Piggy-Magic!"
+fake_ad.your_ad_here,Ang iyong ad dito
+fb_login_failed.message,Hindi makakonekta sa Facebook. Subukan muli?
+fb_notification.button,Kumonekta
+fb_notification.message,Kumonekta sa Facebook para isinkronisa ang iyong pag-unlad online!
+fb_notification.no_post_hint,Hindi kami magpapaskil nang hindi mo pinahintulutan.
+fb_notification.title,I-save ang iyong pag-unlad.
+feedback.failed.button,Magpatuloy
+feedback.failed.message,"Hindi makapagpadala ng feedback.
+Suriin ang iyong koneksyon sa internet."
+feedback.failed.title,Ay naku...
+feedback.ok.button,OK
+feedback.ok.message,"Nakatanggap kami ng iyong feedback.
+Salamat sa pagtulong sa amin para mapabuti ang laro."
+feedback.ok.title,Naipadala na ang feedback!
+friends_tab.failed_social.button,Tsek
+friends_tab.failed_social.text,Kailangan nating suriin ang koneksyon para i-update ang listahan ng mga kaibigan.
+friends_tab.has_fb.button,Mag-imbita ng mga Kaibigan
+friends_tab.has_fb.text,"Mas maraming kaibigan, mas maraming regalo ang makukuha mo!"
+friends_tab.no_fb.button,Kumonekta
+friends_tab.no_fb.hint,Hindi kami magpapaskil nang hindi mo pinahintulutan.
+friends_tab.no_fb.text,Kumonekta sa Facebook at tumanggap ng mga regalo mula sa mga kaibigan at sundan ang kanilang mga pag-unlad.
+friends_tab.no_permission.button,Oo.
+friends_tab.no_permission.text,Pahintulutan ang pag-access sa iyong listahan ng mga kaibigan para makatanggap ng mas maraming mga regalo?
+friends_tab.no_social.text,Kumonekta sa mga social network at tumanggap ng mga regalo mula sa mga kaibigan at sundan ang kanilang mga pag-unlad.
+friends_tab.no_y8.button,Kumonekta
+friends_tab.no_y8.text,Kumonekta sa Y8 at tumanggap ng mga regalo mula sa mga kaibigan at sundan ang kanilang progreso.
+friends_tab.ok_invite_button,Mag-imbita ng mga Kaibigan
+friends_tab.ok_invite_gift_text,"Mas maraming mga kaibigan, mas maraming mga regalo!"
+friends_tab.ok_invite_text,"Mas maraming mga kaibigan, mas maraming mga regalo!"
+friends_tab.title,Mga Kaibigan
+friends_tab.vk_friends_permission_button,Oo.
+friends_tab.vk_friends_permission_text,Pahintulutan ang pag-access sa iyong listahan ng mga kaibigan para makatanggap ng mas maraming mga regalo?
+friends_tab.vk_invite_button,Mag-imbita ng mga Kaibigan
+friends_tab.vk_invite_text,"Mas maraming kaibigan, mas maraming regalo!"
+friends.gift.claim,Buksan
+game_results.click_to_continue,I-click upang magpatuloy
+game_results.tap_to_continue,Pindutin para magpatuloy.
+game.click_to_continue,I-click upang magpatuloy
+game.info.ahead,NAKA #fmtnum GALAW KA NA SA UNAHAN!
+game.info.behind,Ikaw ay #fmtnum na galaw sa likod
+game.info.goals,Layunin
+game.info.moves,MGA GALAW
+game.info.pause,ITIGIL
+game.info.undo,I-undo
+game.pause.continue,"<font color=""\#408fda"">Magpatuloy sa laro"
+game.pause.leave_forfeit,"<font color=""\#ff0000"">Tapusin ang laro"
+game.pause.leave_safe,Tapusin ang laro.
+game.pause.title,Tumigil
+game.shoutout.their_game_result,Puntos: #score
+game.shoutout.well_done,Mabuti naman!
+game.shoutout.your_game_result,Ang iyong score: #score
+game.tap_to_continue,Pindutin para magpatuloy.
+game.tutorial.continue,Magpatuloy
+gamemode.capital.aquarium,MGA ISDA
+gamemode.capital.bird,MGA IBON
+gamemode.capital.bubble,Mga Bubbles
+gamemode.capital.cats,MGA KITING
+gamemode.capital.chocolate,LAVA
+gamemode.capital.diamonds,MGA DIAMANTE
+gamemode.capital.ducks,MGA ITIK
+gamemode.capital.energy_cube_reciever,MGA KRISTAL
+gamemode.capital.energycube,JELLY
+gamemode.capital.fishes,Karot
+gamemode.capital.flower,MGA BULAKLAK
+gamemode.capital.food,MGA ACORN
+gamemode.capital.fossils,OCTOPUSES
+gamemode.capital.frog,PAMATAY-BUHAY
+gamemode.capital.grass,GRASSA
+gamemode.capital.gum,GOO
+gamemode.capital.honeybee,MGA UNGGOY
+gamemode.capital.hotlava,LABA
+gamemode.capital.ice,YELO
+gamemode.capital.jam,ENERHIYA
+gamemode.capital.jam_reciever,MGA KRISTAL
+gamemode.capital.pearl,PERLAS
+gamemode.capital.road,PIGGY
+gamemode.capital.sausage,SUSIYAS
+gamemode.capital.statue,ASO
+gamemode.capital.stone,Bato
+gamemode.capital.tasks,UTOS
+gamemode.capital.tiles,GRASSAY
+gamemode.capital.waterfish,MGA ISDA
+gamemode.capital.blooplet,MGA BLOOPLETS
+gameresult.adventure.completed_continue,Magpatuloy
+gameresult.adventure.leave,Lumisan
+gameresult.adventure.play_next,Magpatuloy
+gameresult.adventure.retry,Muling subukan
+gameresult.boosters,Piliin ang mga Booster
+gameresult.complete.line1,Antas
+gameresult.complete.line2,Tapos na!
+gameresult.continue,Magpatuloy
+gameresult.daily.continue,Magpatuloy
+gameresult.daily.leave,Lumabas
+gameresult.daily.retry,Maglaro
+gameresult.dash,-
+gameresult.forfeit,Niminipa ka na!
+gameresult.map.continue,Magpatuloy
+gameresult.map.retry,Muling subukan
+gameresult.pvp.continue,Magpatuloy
+gameresult.pvp.play_another,Magkakaibang Antas
+gameresult.pvp.play_next,Magkakaibang Antas
+gameresult.pvp.rematch_lose,Muling laban.
+gameresult.pvp.rematch_win_draw,Laro Muli
+gameresult.rematch,Muling laban.
+gameresult.rematch_bet,Maglaro #bet
+gameresult.required_ticket,Kinakailangan
+gameresult.retry,Laro Muli
+gameresult.rewards,Gantimpala
+gameresult.title.completed,Tapos na ang antas!
+gameresult.title.draw,"<font color=""\#5885B8"">Ihulog"
+gameresult.title.lose,"<font color=""\#ff5666"">Nawalan ka."
+gameresult.title.win,Natalo ka!
+gameresult.vs,Laban!
+gameresults.inter_ad_in_large,#count mga laro hanggang
+gameresults.inter_ad_in_small,#count mga laro hanggang
+gems_shop.title,Tindahan ng Mga Berdeng Bato
+global.click_to_continue,I-click upang magpatuloy
+global.default_player_name,Manlalaro
+global.tap_to_continue,Pindutin para magpatuloy.
+home.hint_daiy,Subukan ang Daily Challenge.
+home.hint_play_pvp,Maaari ka pa ring maglaro ng mga duelo kahit na wala ka nang mga buhay!
+home.play,Maglaro
+html.loading,Naglo-load
+iap_failed.button,OK
+iap_failed.message,Hindi nagtagumpay ang pagbili
+iap_need_facebook.message,Kumonekta sa Facebook para mag-top up ng Gems.
+iap_pending.button,OK
+iap_pending.message,Ang iyong pagbili ay ina-proseso na
+intro_screen.another_device,Sa Paggamit ng Code
+intro_screen.login_back,Bumalik
+intro_screen.login_button,Mag-login
+intro_screen.login_fb,Facebook
+intro_screen.login_ok,Odnoklassniki
+intro_screen.login_singular,Mag-login
+intro_screen.login_vk,Vkontakte
+intro_screen.login_with,Mag-login sa
+intro_screen.login_y8,Y8
+intro_screen.login_yandex,Yandex
+intro_screen.new_player,Bagong Player
+introprofile.accept_avatar,Piliin
+introprofile.accept_name,Magpatuloy
+introprofile.editavatar,Pumili ng larawan ng profile
+introprofile.editname,Ipasok ang iyong pangalan
+invite_request.message,Maglaro tayo ng pinakamagandang match 3 game!
+invite_request.title,Pumili ng mga Kaibigan para Maglaro ng Skydom Magkasama!
+level_popup.goals,Layunin
+level_popup.play,Maglaro
+level_popup.prelevel_boosters,Piliin ang mga Booster
+level_popup.title,Antas #level
+level_popup.title_hard,Mahirap
+level_popup.title_ultra_hard,Super mahirap.
+level_popup.title_very_hard,Napakahirap.
+link.support,https://Skydom.freshdesk.com/en/support/solutions
+link.support_beta,https://Skydombeta.freshdesk.com/en/support/solutions
+lives_shop.buy_all,Bumili ng 5
+lives_shop.hint,"Kailangan mo ng mga buhay para 
+magpatuloy sa Adventure."
+lives_shop.recharge,Susunod na buhay: #time
+lives_shop.title,Buhay
+lives_shop.watch_ad_button,Tingnan
+lives_shop.watch_ad_text,Libre 1
+load_player.almost_done,Halos tapos na...
+load_player.continue_offline,Magpatuloy sa Offline
+load_player.loading_save,Naglo-load ng data ng player...
+load_player.loading_save_failed,Hindi ma-load ang data ng player.
+load_player.loading_save_failed_in,"Hindi makaload ang data ng player.
+Subukang muli sa #time..."
+load_player.logging_in,Nag-lo-login...
+load_player.logging_in_failed,Hindi nakalagay.
+load_player.logging_in_failed_in,"Hindi nakalagay.
+Subukang muli sa #time..."
+load_player.new_player,Bagong player ako.
+load_player.retry_now,Subukan muli ngayon.
+login_failed.button,Muling subukan
+login_failed.title,Hindi nagawang makakonekta
+magic.click_to_continue,I-click upang magpatuloy
+magic.reward,Gantimpala
+magic.tap_to_continue,Pindutin para magpatuloy.
+map.gates_coming_soon,"Bagong mga antas 
+dumadating na!"
+match3.level_complete.line1,Lahat ng Mga Layunin
+match3.level_complete.line2,Natapos na!
+match3.score_pve,#score / #required
+match3.shoutout.1_move,Huling galaw!
+match3.shoutout.2_moves,2 galaw
+match3.shoutout.5_moves,5 galaw
+match3.shoutout.no_moves,Walang pang ibang galaw.
+match3.shoutout.no_reshuffle,"Hindi muling maiayos
+Walang posibleng mga galaw"
+merge.button.mine,Pumili
+merge.button.their,Pumili
+merge.description.account_merge,"Pareho ka na pala ng naglalaro ng Skydom.
+Pumili ng gusto mong profile!"
+merge.description.ingame_conflict,%merge.description.login_conflict%
+merge.description.login_conflict,"Naglaro ka mula sa maraming mga device.
+Pumili ng gustong i-save."
+merge.hint.mine,Lokal
+merge.hint.their,Mula sa server
+merge.title,Pag-sync ng Progreso
+modal.adblock.button,OK
+modal.adblock.text,"Nalalaman namin na ginagamit mo ang Ad Blocker.<br>Pakiusap, i-disable ang Ad Blocker para mapanood mo ang Video."
+modal.adblock.title,Ad Blocker
+modal.error.button,I-refresh
+modal.error.text,"Pasensya na, may nangyaring error. Paki-refresh po ang page."
+modal.error.title,Ay naku! May nagkamali...
+modal.fb_login_proxy.button,Magpatuloy
+modal.fb_login_proxy.text,Kumonekta sa Facebook
+modal.fb_login_proxy.title,
+modal.fb_purchase_proxy.button,Magpatuloy
+modal.fb_purchase_proxy.gems,Mga Gintong Bato
+modal.first_login_failed.button,Muling subukan
+modal.first_login_failed.text,Hindi makakonekta sa Skydom ngayon. Subukan mong makakonekta muli mamaya.
+modal.first_login_failed.title,Hindi nagawang makakonekta
+modal.gpu_error.button,Higit pang Impormasyon
+modal.gpu_error.text,"Pareho pareho pangangailangan mong paganahin ang GPU-Acceleration 
+sa iyong browser para magamit ang laro."
+modal.gpu_error.title,Hmm..
+modal.maintenance.button,OK
+modal.maintenance.text,Magkakaroon ng maintenance sa<br> <b>#time</b><br> nang 3 oras. Hindi magiging magagamit ang cloud save at pag-sync ng progress.
+modal.maintenance.title,Pagpapanatili
+modal.no_hardware_accel_ff.button,OK
+modal.no_hardware_accel_ff.text,"Ang iyong browser ay nag-uulat ng isang performance issue, maaaring mag-run ang laro ng napakabagal!
+
+Upang ayusin, paki-basa po ang <a target=""_blank""  href=""https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features"">https://wiki.mozilla.org/Blocklisting/Blocked_Graphics_Drivers#How_to_force-enable_blocked_graphics_features</a>"
+modal.no_hardware_accel_ff.title,Mga Isyu sa Pagganap
+modal.no_hardware_accel.button,OK
+modal.no_hardware_accel_vk.button,OK
+modal.no_hardware_accel.text,"Ang iyong browser ay nag-uulat ng isang performance issue, maaaring mag-run ang laro ng napakabagal!
+
+Upang ayusin, paki-basa po ang <a target=""_blank""  href=""https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm"">https://www.fosslinux.com/3053/how-to-force-enable-hardware-acceleration-in-chrome-chromium.htm</a>"
+modal.no_hardware_accel_vk.text,"Ang iyong browser ay nag-uulat ng isyu sa performance, maaaring maging mabagal ang pagtakbo ng laro!
+
+Upang ayusin, paki-basa ang <a target=""_blank""  href=""https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery"">https://vk.com/@skydomgame-pochemu-i-chto-delat-esli-igra-tormozit-i-zavisaet-brauzery</a>"
+modal.no_hardware_accel.title,Mga Isyu sa Pagganap
+modal.no_hardware_accel_vk.title,Mga Isyu sa Pagganap
+modal.nolocalstorage.button,OK
+modal.nolocalstorage.text,"Tingin ko hindi pinapayagan ng iyong browser na i-save ang iyong laro. Maaaring dahil ito sa pag-gamit ng Incognito mode sa iyong browser.
+<p>
+Mangyaring mag-login para maiwasan ang pagkawala ng iyong progress!"
+modal.nolocalstorage.title,Mode ng Incognito
+modal.oom.button,Higit pang Impormasyon
+modal.oom.text,Parang kulang na ang memorya.
+modal.oom.title,Hmm..
+modal.out_of_sync.button,I-refresh
+modal.out_of_sync.text,Parang mayroon kang Skydom na bukas sa ilang mga window ng browser. <br>Pakipreskohan para magpatuloy sa paglalaro sa window na ito.
+modal.out_of_sync.title,Ilang mga bintana na may Skydom?
+modal.vk_inapp_not_allowed.button,Lumipat
+modal.vk_inapp_not_allowed.text,"Mga pagbili ay magagamit lamang sa <a href=""https://m.vk.com/app7409298"" target=""_blank"">m.vk.com</a>"
+modal.vk_inapp_not_allowed.title,
+modal.wasm.button,Higit pang Impormasyon
+modal.wasm.text,Hindi mukhang suportado ng iyong browser ang WebAssembly
+modal.wasm.title,Hmm..
+modal.webgl.button,Higit pang Impormasyon
+modal.webgl.text,Hindi mukhang suportado ng iyong browser ang WebGL
+modal.webgl.title,Hmm..
+modal.yandexsdk.text,"Hindi nag-load ng tama ang Yandex SDK.
+
+Subukan muli?"
+modal.yandexsdk.title,Ay naku
+modal.yandexsdk.button,Okey
+name_already_changed.button,OK
+name_already_changed.message,Ang iyong pangalan ay nai-change na. Maaari ka lamang magpalit ng pangalan ISANG BESES lamang.
+networks.hint,"Tayo ay nag-e-encourage sa iyo na mag-connect sa mga social networks!
+ - Huwag mawala ang iyong progress sa pamamagitan ng pag-store nito sa cloud
+ - Maglaro kasama ang mga kaibigan at tumanggap ng mga regalo
+ - Hindi kami magpo-post nang hindi mo pahintulot"
+nickname.default,Manlalaro
+nickname.default_friend,Bunso
+nickname.trainer,Coach #nickname
+nickname.tutorial_001,Coach Anna
+nickname.tutorial_002,Coach Jonny
+nickname.tutorial_003,Coach Polly
+nickname.you,Ikaw
+notification.daily_lead_1,👑 Si #Name ay naging lider sa Daily Challenge! Gusto mo bang muling makuha ang unang lugar?
+notification.daily_lead_2,👑 #Name ay nag-take over ng pamumuno sa Daily Challenge!
+notification.daily_lead_3,🤩 Mainit sa Daily Challenge ngayon! #Name ang nag-claim ng iyong unang lugar.
+notification.daily_lead_4,👑 Kinuha ni #Name ang pamunuan. Gusto mo bang muling makamit ang liderato sa Challenge?
+notification.daily_lead_5,👑 Parang si #Name lang ang nag-overtake sa'yo sa Daily Challenge.
+notification.daily_lead.meta,"@{""variants"":5}"
+notification.reminder_1,😏 May bagong kalaban na naghihintay sa pinakamalayo na manlalaro! 😎
+notification.reminder_10,Sino ang magiging panalo sa Daily Challenge ngayon? 👸🤴
+notification.reminder_11,🙄 Halos nakalimutan na natin kung paano nahampas si #PlayerName!
+notification.reminder_12,"💆 Magandang araw para maglaro ng Skydom, 'di ba? 💪"
+notification.reminder_13,🙈😬 May ilang lalaki dito na nagpapangarap na mas magaling sa'yo. Iniisip nila na may pagkakataon sila?
+notification.reminder_14,🐰 Nakuha ng Bunny ng regalo para sayo! 🎁
+notification.reminder_15,"😎 #PlayerName, panahon na muli para manalo! 🕹"
+notification.reminder_16,👾👀 Panahon na para magpahinga at magpatuloy sa pagwawagi 🤗
+notification.reminder_17,🌟🌟🌟 Hindi magpapatapos ang mga antas ng sarili nila! Tara na maglaro? 🥇😉
+notification.reminder_18,"#PlayerName, may isang taong gustong talunin ka. Ano ang tingin mo, magagawa nila ito? 😬😬😬"
+notification.reminder_19,👋 ¿Oras na ba para magpahinga at manalo ng ilang beses? 🤔
+notification.reminder_2,Hindi pa lahat nawalan sa #PlayerName! Bigyan sila ng pagkakataon?
+notification.reminder_20,🦄 Nakilala mo na ba ang aming Rainbow Unicorn?
+notification.reminder_3,🐷 May Piggy Magic na naghihintay! 🐽
+notification.reminder_4,🙈 Hindi ko na nakikita ang pinakamagaling na Match3 player sa huling panahon! Nasaan na siya? 👀
+notification.reminder_5,🏆 Nakakuha ka na ba ng panalo ngayon?
+notification.reminder_6,❤️❤️❤️❤️❤️ Lahat ng buhay ay na-recharge na! Panahon na para manalo!
+notification.reminder_7,🖐🎟 May 5 na Token na naghihintay na gastusin!
+notification.reminder_8,🐰😍 May regalo ang Bunny para sayo! 🎁
+notification.reminder_9,👑💎 Simula na ang Daily Challenge! Sino ang makakakuha ng korona at isang baul ng mga brilyante?
+ny.button_claim,Buksan ang Regalo
+ny.button_next_in,Regalo sa: #time
+ok_login_failed.message,Hindi makakonekta sa Odnoklassniki. Subukan muli?
+ok.share_tick,I-share
+out_of_moves.continue_buy_moves,Maglaro na #price
+out_of_moves.continue_watch,Tingnan
+out_of_moves.give_up,Mag-give up
+out_of_moves.press_to_view,"I-tap dito para 
+tingnan ang board"
+out_of_moves.title.almost_there,Nalalapit na...
+out_of_moves.title.regular,Wala nang Galaw
+outofgems.button,Tindahan
+outofgems.message,Wala ka nang Gems. Bisitahin ang Shop para makakuha ng iba pa!
+outofgems.title,Hindi sapat ang mga Gem
+page.loading.hint_1,Naglo-load...
+page.loading.hint_2,Epekto ng pagbibigay-halaga 💎💎💎
+page.loading.hint_3,"'Wag kang mag-alala, 'di nakakabit 'yan! 😜"
+page.loading.hint_4,🚀 Maglalagay ng laro kaagad! 🚀
+page.loading.hint_5,"Unang pag-load, magtatagal ng konti🤗"
+page.loading.hint_6,🔥 Halos tapos na...👾
+page.loading.hint_7,Paunti-unti na lang 😊
+placeholder.hint_daily,Tapusin ang 10 antas para ma-unlock!
+placeholder.timestring,12 oras 34 minuto 56 segundo
+placeholder.title_daily,"Daily Challenge
+Nakakandado"
+popup_name.accept_name,Magpatuloy
+popup_name.not_now,Hindi ngayon
+prelevel_text.002,"Kumolekta ng mas maraming <font color=""\#ff5503"">Dilaw na Mga Piraso</font> kaysa sa iyong kalaban!"
+prelevel_text.004,"Kumolekta ng mas maraming <font color=""\#ff8800"">Carrots</font> kaysa sa iyong kalaban!"
+prelevel_text.006,"Linisin ang higit pa na <font color=""\#4499ff"">Ice</font> kaysa sa iyong kalaban!"
+promo_reforged.button,Magreklamo
+promo_reforged.text,"Hooray! Inilunsad na natin ang bagong mod ng laro - Skydom Reforged! Para ipagdiwang ang paglunsad, ibinibigay natin ang libreng Mega Booster pack! Kukuha ka na?"
+promo_reforged.title,Skydom na Pinagbago!
+rate_us.description,Gaano ka-gusto ang Skydom?
+rate_us.feedback.cancel,Hindi ngayon
+rate_us.feedback.description,Ipasok ang iyong e-mail kung nais mong makatanggap ng tugon.
+rate_us.feedback.email_hint,E-mail
+rate_us.feedback.message_hint,Paano natin mapapabuti ang laro para sa iyo?
+rate_us.feedback.submit,Isumite
+rate_us.star_1,Ayaw ko nito.
+rate_us.star_2,Hindi ito gusto.
+rate_us.star_3,OK lang.
+rate_us.star_4,Gusto ko ito.
+rate_us.star_5,Mahal na ito.
+rate_us.submit,Isumite
+rate_us.write_review.cancel,Hindi ngayon
+rate_us.write_review.google_play,Ibahagi ang iyong mga pananaw tungkol sa laro o i-rate ito sa Google Play!
+rate_us.write_review.submit,Syempre!
+rate_us.write_review.yandex,Ibahagi ang iyong mga pananaw tungkol sa laro o i-rate ito sa Yandex Games!
+rematch_pvp.asks_for_rematch_draw,#name ay gustong magkaroon ng isa pang pagtatangka.
+rematch_pvp.asks_for_rematch_player_lose,#name ay nag-aalok ng isang rematch!
+rematch_pvp.asks_for_rematch_player_won,#name ay gustong magkaroon ng rematch!
+reward.coins,Mga Barya
+reward.gems,Mga Gintong Bato
+reward.lives,Buhay
+reward.prelevel.add_bomb,Booster ng Bomba
+reward.prelevel.add_line,Linya Booster
+reward.prelevel.add_omni,Lightning Booster
+reward.prelevel.add_tint,Pintura Booster
+reward.prelevel.double_fly,Booster ng Firefly x2
+reward.tickets,Mga Token
+reward.undo,I-undo
+search.cannot_connect,Walang koneksyon sa internet.
+search.failed,Ay naku! May nagkamali...
+search.loading,Naglo-load...
+search.playing_with_trainer,Naglalaro kasama ang Coach.
+search.readying,Nakita na ang kalaban!
+search.readying_rematch,Handa na!
+search.rejected,Ang kalaban ay tumakas.
+search.searching,Hinahanap ang kalaban...
+search.vs,Laban!
+search.waiting_opp,Naghihintay ng kalaban...
+settings.change_avatar,Baguhin ang Larawan ng Profile
+settings.change_avatar.connect_fb,Kumonekta
+settings.change_avatar.continue,Magpatuloy
+settings.change_avatar.title,Pumili ng bagong larawan ng profile
+settings.change_avatar.warning,"Paunawa:
+- Maaari mo lamang baguhin ang iyong larawan ng profile ISANG BESES lamang
+- Kumonekta sa Facebook para gamitin ang larawan ng profile ng Facebook"
+settings.change_avatar.warning_no_fb,Paunawa: Maaari ka lamang magpalit ng larawan ng iyong profile ISANG BESES lamang.
+settings.change_name,Palitan ang Pangalan
+settings.change_name.accept_name,Magpatuloy
+settings.change_name.do_not_match,Hindi tumutugma ang mga pangalan. Pakisubukan muli.
+settings.change_name.edit,Ipasok ang bagong pangalan:
+settings.change_name.reenter,I-ulit ang iyong bagong pangalan:
+settings.change_name.same_name,Bagong pangalan ay tumutugma sa umiiral.
+settings.change_name.too_long,Ang pangalan na ito ay napakahaba - limitasyon ng 15 simbolo
+settings.change_name.too_short,Ang pangalan na ito ay masyadong maikli =)
+settings.change_name.warning,Tandaan: Maaari ka lamang baguhin ang iyong pangalan ISANG BESES lamang.
+settings.confirm_avatar.cancel,Kanselahin
+settings.confirm_avatar.change,Baguhin
+settings.confirm_avatar.title,"Sigurado ka bang gusto mong palitan
+ang iyong larawan ng profile?
+Ang iyong bagong larawan ng profile:"
+settings.confirm_avatar.warning,"Paunawa: Maaari ka lamang baguhin ang iyong
+larawan ng profile NG ISANG BESES lamang."
+settings.confirm_name.cancel,Kanselahin
+settings.confirm_name.change,Tiyakin
+settings.confirm_name.title,Sigurado ka bang gusto mong palitan ang iyong pangalan? Ang iyong bagong pangalan ay:
+settings.confirm_name.warning,Tandaan: Maaari ka lamang baguhin ang iyong pangalan ISANG BESES lamang.
+settings.connect_fb,Kumonekta sa Facebook
+settings.connect_ok,Kumonekta sa Odnoklassniki
+settings.connect_vk,Ikonekta ang VK
+settings.connect_y8,I-connect ang Y8
+settings.connect_yandex,I-connect ang Yandex
+settings.connected_fb,Facebook
+settings.connected_ok,Odnoklassniki
+settings.connected_vk,VK
+settings.connected_y8,Y8
+settings.connected_yandex,Yandex
+settings.coupon,Kupon na Promo
+settings.coupon_title,Kupon na Promo
+settings.coupon.enter,Mag-apply
+settings.coupon.enter_hint,Ipasok ang iyong promo code dito
+settings.coupon.invalid_code,#e Ang code na ito ay hindi valid. Paki-subukan ang ibang code.
+settings.coupon.missing_code,#e Ipasok ang iyong promo code.
+settings.coupon.ok,Tagumpay! Na-redeem na ang code!
+settings.credits,Mga Kredito
+settings.eula,Mga Tuntunin ng Serbisyo
+settings.fb_hint,Kumonekta sa Facebook para maglaro kasama ang mga kaibigan at i-sync ang iyong progreso.
+settings.general,PANGKALAHATAN
+settings.generate_key,Lumikha ng code
+settings.invite_friends,Mag-imbita ng mga Kaibigan
+settings.language,Wika
+settings.language_header,PILIIN ANG WIKA
+settings.move_hints,Mga Hint
+settings.music,Musika
+settings.networks,Mga Koneksyon
+settings.networks_hint,I-connect ang mga social network para maglaro kasama ang mga kaibigan at i-sync ang iyong progress!
+settings.notifications,Mga Abiso
+settings.notifications.daily,Pang-araw-araw na Hamon
+settings.notifications.disable_all,Huwag paganahin lahat
+settings.notifications.disable_night,I-deactivate mula 11PM hanggang 8AM
+settings.notifications.gifts,Mga Regalo
+settings.notifications.others,Ibang mga paalala
+settings.open_support,Suporta ng Player
+settings.open_vk_group,Grupo ng Laro
+settings.player_id,Kopyahin ang ID ng manlalaro
+settings.policy,Patakaran sa Paglilihim
+settings.rate_us,Tumanggap ng Rating
+settings.report_problem,Iulat ang isang isyu.
+settings.sound,Tunog
+settings.support,TULONG
+settings.telegram_channel,Sundan ang aming Telegram channel
+settings.telegram_channel_hint,Lahat ng pinakabagong balita tungkol sa Skydom!
+settings.telegram_support,Chat ng mga fan sa Telegram
+settings.title,Mga Setting
+settings.update,I-update
+settings.y8_hint,Kumonekta sa Y8 para isinkronisa ang iyong pag-unlad sa online!
+settings.yandex_hint,Kumonekta sa Yandex para isinkronisa ang iyong pag-unlad sa online!
+shop.gems_restored.accept,Magaling!
+shop.gems_restored.title,Natapos ang pagbili ng mga Gem
+shop.not_available,Hindi magagamit
+shop.remove_ads_remain_time,Ang mga ad ay tinanggal para sa #time
+shop.remove_ads_text,"Alisin ang mga Ad sa pagitan ng mga level
+sa anumang pagbili"
+shop.remove_ads_timed,"Alisin ang mga Ad sa pagitan ng mga level
+sa anumang pagbili para sa isang buwan."
+social_notification.button,Kumonekta
+social_notification.message,Kumonekta sa isang sosyal na network para isinkronisa ang iyong progreso online!
+social_notification.no_post_hint,Hindi kami magpapaskil nang hindi mo pinahintulutan.
+social_notification.title,I-save ang iyong pag-unlad.
+social_share.button,I-share
+social_share.chooser_hint,I-share sa pamamagitan ng
+social_share.message,Hey! Tingnan mo ang natatanging PvP Match-3 game na ito! Kumuha nito sa https://PecPoc.com
+social_share.subject,Tingnan ang bagong kasiyahan na laro - Skydom!
+social_share.title,"Ibahagi ang laro sa iba!
+Mas masaya kapag naglalaro ka kasama ng mga kaibigan!"
+tempkey_login.button,Magpatuloy
+tempkey_login.empty_key,Wala kang naglagay ng anumang code
+tempkey_login.input.default_hint,Ipasok ang code
+tempkey_login.invalid_key,Maling kodigo
+tempkey_login.message_top,"Patuloy na maglaro dito - kunin ang code kung saan ka naglaro bago sa Settings sa ilalim ng ""Create code"""
+tempkey_login.no_connection,Hindi makakonekta
+tempkey.fail.button,OK
+tempkey.fail.message,Tingnan ang iyong koneksyon sa internet o subukan mamaya.
+tempkey.fail.title,Hindi makalikha ng code.
+tempkey.ok.copied,Kinopya!
+tempkey.ok.copy,Kopyahin
+tempkey.ok.hint,Ang code ay mag-expire pagkatapos ng 4 na oras.
+tempkey.ok.message,#tempkey
+tempkey.ok.title,Ang iyong code:
+tickets_shop.boost_text,x2 pagpapanumbalik ng bilis
+tickets_shop.buy_all,Bumili ng #amount
+tickets_shop.hint,Kailangan mo ng mga Token para maglaro sa Daily Challenge.
+tickets_shop.hint_out_of,"<font color=""\#e90047"">Wala nang Mga Lucky Token</font>"
+tickets_shop.recharge,Bagong token sa: #time
+tickets_shop.title,Mga Token
+tickets_shop.watch_ad_button,Tingnan
+tickets_shop.watch_ad_text,Kumuha ng 1 libre
+time.days_hours,"#days<font size=""-15""> </font><font size=""-10"">d</font> #hours<font size=""-15""> </font><font size=""-10"">h</font>"
+time.hours,"#hours<font size=""-15""> </font><font size=""-10"">h</font>"
+time.hours_minutes,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #minutes<font size=""-15""> </font><font size=""-10"">min</font>"
+time.hours_minutes_seconds,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #minutes<font size=""-15""> </font><font size=""-10"">min</font> #seconds<font size=""-15""> </font><font size=""-10"">sec</font>"
+time.hours_seconds,"#hours<font size=""-15""> </font><font size=""-10"">h</font> #seconds<font size=""-15""> </font><font size=""-10"">sec</font>"
+time.less_than_minute,"1<font size=""-15""> </font><font size=""-10"">min</font>"
+time.minutes,"#minutes<font size=""-15""> </font><font size=""-10"">min</font>"
+time.minutes_seconds,"#minutes<font size=""-15""> </font><font size=""-10"">min</font> #seconds<font size=""-15""> </font><font size=""-10"">sec</font>"
+time.seconds,"#seconds<font size=""-15""> </font><font size=""-10"">sec</font>"
+tutorial_home.play,Maglaro
+tutorial.001.dialog_tutorial,"Parehong kulay na <font color=""\#5885b8"">3 piraso sa isang hilera</font> para tanggalin sila."
+tutorial.001.hint,"Layunin
+Kunin ang 12 na berdeng mga piraso!"
+tutorial.001.turn_1,Paresahin ang 3 piraso ng parehong kulay sa pamamagitan ng pagpalit ng katabi nila.
+tutorial.002.hint,Kumolekta ng higit pang mga yellow pieces kaysa sa iyong kalaban!
+tutorial.skip,Lumipat
+undo_shop.buy_undos,Kumuha ng #count para sa
+undo_shop.hint,I-undo ang iyong huling galaw!
+undo_shop.recharge,Susunod na ibalik sa dati sa: #time
+undo_shop.title,I-undo
+undo_shop.watch_ad_button,Tingnan
+undo_shop.watch_ad_text,Kumuha ng 1 libre
+undo_shop.you_have,Mayroon kang #amount mga undo.
+update.button,I-update
+update.new_version,I-update ang pinakabagong bersyon!
+update.new_version_value,"<font color=""\#5885b8"">#version"
+update.old_version,Gamitin mo ang lumang bersyon
+update.old_version_value,"<font color=""\#a5a7aa"">#version"
+update.text,"Gamitin mo ang lumang bersyon.
+Paki-update na sa pinakabagong bersyon!"
+update.title,Bagong bersyon na available!
+update.web.button,I-refresh
+update.web.message,Paki-refresh ang pahina.
+update.web.title,Bagong bersyon na available!
+vk_login_failed.message,Hindi makakonekta sa VK. Subukan muli?
+vk_promo.title,Regalo mula sa VK!
+vk.share_tick,I-share
+watch_for_gems.button,Tingnan
+watch_for_gems.text,+#amount
+web.webg_context_lost,"Natalo ang WebGL context, nagre-restore..."
+welcome_bonus.speech_1,"Kamusta, #PlayerName!
+Mayroon akong ilang regalo para sa iyo.
+Pumili ng isa!"
+welcome_bonus.speech_2,"Pensamento ay materializing ... Ohmmm!
+Naisip ko ang ilang regalo at tingnan kung ano ang nangyari =)"
+welcome_bonus.speech_3,Natagpuan ko ang dalawang kabanata habang wala ka! Buksan mo ang isa!
+welcome_bonus.speech_4,"Nice to see you back, #PlayerName!
+Tingin mo ano ang bumagsak
+mula sa mga ulap!"
+welcome_bonus.speech_5,"Nag-fly by ang mga stork...
+Pero hindi lang bata ang dala nila!"
+welcome_bonus.speech_6,"Mabuti na nakabalik ka, #PlayerName!
+Pumili ng isang kaban!"
+welcome_bonus.speech_7,"Nakalimutan ka na namin, #PlayerName, kaya naghanda ako ng maliit na regalo para sa'yo!"
+welcome_bonus.speech_8,"Mga kakaibang bagay ang nangyayari. Nakaupo, nakakalma at may dalawang kaban na lumalabas sa walang kamuwang-muwang!"
+welcome_pack.open,Buksan
+welcome_pack.play,Maglaro
+welcome_pack.speech_1,"Long Time no See, #PlayerName! May regalo ako para sa iyo!"
+welcome_pack.speech_2,"Oh, #PlayerName, na -miss kita! Buksan natin ang regalo at maglaro!"
+welcome_pack.speech_3,"#PlayerName, magandang makita ka ulit! Magmadali at buksan ang dibdib."
+welcome_pack.speech_gift,"#PlayerName, mayroon kaming isang espesyal na regalo para sa iyo =) Buksan ito nang mabilis!"
+welcome_pack.speech_reforged,"#PlayerName, mayroon kaming espesyal na regalo para sa'yo =) Buksan mo agad ito!"
+y8_login_failed.message,Hindi makakonekta sa Y8. Subukan muli?
+yandex_login_failed.message,Não foi possível conectar ao Yandex. Tente novamente?
+yandex_notification.button,Conectar
+yandex_notification.message,Ligue para o Yandex para sincronizar o seu progresso online!
+yandex_notification.title,Salvar seu progresso
+gamemode.capital.leaf,MGA DAGSA
+yandex_login_has_attachment.message,Isang ibang account ng Yandex ay naka-link sa profile ng laro na ito.
+fb_login_has_attachment.message,Isang iba pang account ng Facebook ay naka-link sa profile ng laro na ito.
+ok_login_has_attachment.message,Isang OK account ang naka-link sa profile ng laro na ito.
+vk_login_has_attachment.message,Isang ibang account ng VK ay naka-link sa profile ng laro na ito.
+y8_login_has_attachment.message,Isang ibang Y8 account ay naka-link sa profile ng laro na ito.
+android_app.text.beta,Mga kaibigan! Masaya kaming ibahagi sa inyo na nag-launch na kami ng Beta testing ng aming laro sa Android. Lahat ay welcome!
+bookmark.play,Bahay
+bookmark.quest,Mga Gawain
+chest_opening.bronze,Tanso
+chest_opening.continue,Madali.
+chest_opening.division,III Division
+chest_opening.golden,Ginto
+chest_opening.silver,Pilak
+chest_opening.togoldenleague,"Puwede mo bang abutin
+ang Golden League?"
+chest_opening.welcome,Maligayang pagdating sa Leagues ng Match Arena!
+chest_opening.yourebronze,"Nakamit mo
+Bronze league III"
+chest.open,Buksan
+chest.opens_now,Magaling! Ang kahon ay sa'yo nang buksan!
+chest.wins_left_1,Isang panalo pa!
+chest.wins_left_2,Pangalawa na lang ang panalo at ikaw na ang may-ari!
+chest.wins_left_3,Mabuti naman! Tatlumpung panalo pa!
+chest.wins_left_4,4 panalo para buksan ang kahon!
+chest.wins_to_open,#num panalo upang buksan
+forge_help.block_1,Manalo sa mga duel upang makakuha ng mga coins.
+forge_help.block_2,Gamitin ang mga coin para magsimula ng Forges at kumita ng gold bars.
+forge_help.block_3,Kumolekta ng mga gintong bar para makapunta sa mas mataas na liga.
+forge_help.block_4,Bagong liga - bagong antas!
+forge_help.continue,Nakakuha na.
+forge_help.title,Mga Liga at Forges
+forge.add,Idagdag
+forge.boost,Palakasin!
+forge.boost_free,"Pataasin natin ang Forge na 'to!
+Unang beses libre 'to!"
+forge.boost_free_ok,Palakasin!
+forge.buy_1,Bronze Forge
+forge.buy_2,Silver Forge
+forge.buy_3,Ginto Forge
+forge.buy_4,Ruby Forge
+forge.buy_now,Idagdag
+forge.cheat_boost,CHEAT? CHEAT NA!
+forge.name_1,Bronze Forge
+forge.name_2,Silver Forge
+forge.name_3,Ginto Forge
+forge.name_4,Ruby Forge
+forge.not_enough_coins,Hindi sapat ang mga coins para magsimula
+forge.ok,OK
+forge.open,Buksan
+forge.open_now,Buksan ngayon.
+forge.other_in_progress,Isang Forge pa ang ginagawa!
+forge.popup_boost,Palakasin -30 min
+forge.popup_boost_speedup,Palakasin -15 min
+forge.progress,#bars sa: #time
+forge.speedup_no,Hindi
+forge.speedup_offer,"<font color=""\#5885b8"">Palakasin</font> ang bilis ng Forge <font color=""\#5885b8"">ng 2x?</font>"
+forge.speedup_ok,OK
+forge.speedup_success,Pinag-boost na ang Forge!
+forge.speedup_yes,Oo.
+forge.start,Simulan!
+forge.time_1,3 oras
+forge.time_2,6 na oras
+forge.time_3,12 oras
+forge.time_4,24 na oras
+forge.tutorial.collect_coins,Magkamit ng 1000 coins para magsimula ang Forge.
+forge.tutorial.open_now,"Magaling! Natapos na ang pagpapalabas!
+Pwede na nating buksan ang Forge!"
+forge.tutorial.smelt_more,Patuloy na gumawa ng mga bar ng ginto upang makarating sa susunod na antas.
+forge.tutorial.start_forge,"Nagawa mo na, nakakuha ka ng 1000 coins!
+Ngayon, pwede na tayong magsimula sa Forge!"
+forge.tutorial.wait_ready,Manalo ng higit pang coins habang ang iyong Forge ay gumagana
+forge.watch_ad,Tingnan
+gamemode.chocolate,Lava
+gamemode.diamonds,Mga Diamonds
+gamemode.energycube,Jelly
+gamemode.fishes,Karot
+gamemode.food,Acorns
+gamemode.fossils,Octopus
+gamemode.grass,Damo
+gamemode.honeybee,Mga Urso
+gamemode.ice,Yelo
+gamemode.jam,Enerhiya
+gamemode.road,Baboy
+gamemode.stone,Mga bato
+gamemode.tasks,Utos.
+gamemode.tiles,Damo
+home.bars_need_more,Kailangan mo pa #more
+home.bars_progress,#current / #total
+home.bet,Maglaro ng #count coins
+home.coins,#count
+home.gems,#count
+home.hint_quest_book,Bagong mga gawain na magagamit!
+home.hint_quest_book.claim,Oo! May magiging nagwawagi!
+home.hint_quest_book.new,Uy! Bagong gawain!
+home.league_indev,Susunod na liga ay darating na!
+home.rematch.asks_for_rematch_draw,#name ay gustong magkaroon ng isa pang pagtatangka.
+home.rematch.asks_for_rematch_player_lose,#name ay nag-aalok ng rematch.
+home.rematch.asks_for_rematch_player_won,#name ay humihingi ng rematch!
+home.xp,#count
+ingame_booster_shop.buy,Kumuha ng #count para sa
+ingame_booster_shop.hint.cross,Gamitin ang Magic Wand para alisin ang isang hanay at isang kolum ng mga piraso.
+ingame_booster_shop.hint.hammer,Tanggalin ang mga tile sa pamamagitan ng pag-smasn sa kanila gamit ang Hammer!
+ingame_booster_shop.hint.hand,Gamitin ang Glove para palitan ang anumang magkakatabi na pieces.
+ingame_booster_shop.title.cross,Pambihirang Wando
+ingame_booster_shop.title.hammer,Martilyo
+ingame_booster_shop.title.hand,Guanteng
+league.Bronze,Ligang Tanso
+league.div_1,Division I
+league.div_2,Division II
+league.div_3,Division III
+league.div_4,Division IV
+league.div_5,Division V
+league.E001,Bronze III
+league.E002,Bronse II
+league.E003,Bronze I
+league.E004,Pilak IV
+league.E005,Pilak III
+league.E006,Pilak II
+league.E007,Pilak I
+league.E008,Ginto V
+league.E009,Ginto IV
+league.E010,Ginto III
+league.E011,Ginto II
+league.E012,Ginto I
+league.E013,Platinum V
+league.E014,Platinum IV
+league.E015,Platinum III
+league.E016,Platinum II
+league.E017,Platinum I
+league.E018,Master 1
+league.Gold,Gintong Liga
+league.Master,Mga Master League
+league.MasterN,Master #div
+league.GrandMaster,Grandmaster
+league.GrandMasterN,Grandmaster #div
+league.Platinum,Plataporma na Ligaya
+league.Silver,Silver League: Liga ng Pilak
+levelup.continue,Super sarap!
+levelup.reward,Gantimpala
+levelup.title_division,"Maligayang pagbati!
+Bagong divisyon!"
+levelup.title_league,"Maligayang pagbati!!
+Bagong liga!"
+ma2transfer.install,I-install
+ma2transfer.message,"Match Arena ay lumipat sa bagong App!
+
+Mahalaga! Gamitin ang code sa ibaba para isalin ang iyong progreso."
+nickname.tutorial_004,Si Guro Michael
+nickname.tutorial_005,Profesor Frank
+nickname.tutorial_006,Reyna Matcha
+nickname.tutorial_007,Guro Leo
+nickname.tutorial_008,Coach Carl
+nickname.tutorial_009,Tutor Beardy
+nickname.tutorial_010,Guru Vicky
+placeholder.hint_friends,"I-challenge ang iyong mga kaibigan
+at ipakita kung ano ang kaya mong gawin!"
+placeholder.hint_quests,"Abutin ang Bronze League I
+upang malaman!"
+placeholder.hint_settings,Magiging handa na agad :)
+placeholder.title_friends,"Maglaro kasama ang mga kaibigan
+Darating na!"
+placeholder.title_quests,"Magagandang Mga Quest
+Nakakandado"
+placeholder.title_settings,Mga Setting sa Pagtatayo
+quest_help.block_1,Taposin ang mga Quest para makatanggap ng mga reward!
+quest_help.block_2,Taposin ang lahat ng Quest para buksan ang chest.
+quest_help.block_3,"Tapusin ang lahat ng Quest bago ang susunod na Division, kundi magiging walang-saysay ang chest!"
+quest_help.continue,Nakakuha na.
+quest_help.title,Libro ng Quest
+quest.aquarium,Kumolekta ng #amount ng isda
+quest.bar,#progress / #amount
+quest.bar_completed,Tapos na ang quest!
+quest.bar_last_try,Ang nakaraang subukan: #progress ng #amount
+quest.bar_special_not_tried,#progress / #amount
+quest.best_so_far,Pinakamabuting resulta: #progress
+quest.butterfly,Kumolekta ng #amount na mga paru-paro
+quest.buy_now,Kumuha ngayon #amount
+quest.cat,Magkolekta ng #amount ng mga Kuting
+quest.chip_destroy,Kolektahin ang #amount ng anumang mga piraso
+quest.chip_destroy_bird,Kumolekta ng #amount ng mga ibon
+quest.chip_destroy_blue,Kumolekta ng #amount na mga piraso na asul
+quest.chip_destroy_diamond,Kumolekta ng #amount ng Mga Diamond
+quest.chip_destroy_fish,Kumolekta ng #amount Carrots
+quest.chip_destroy_fish_blue,Kumolekta ng #amount na mga asul na Karot
+quest.chip_destroy_fish_green,Kumolekta ng #amount na berdeng Karot
+quest.chip_destroy_fish_orange,Kumolekta ng #amount na pula na Karot
+quest.chip_destroy_fish_purple,Kumolekta ng #amount na mga pula na Karot
+quest.chip_destroy_fish_red,Kumolekta ng #amount na mga pula na Karot
+quest.chip_destroy_fish_yellow,Kumolekta ng #amount dilaw na Karot
+quest.chip_destroy_food,Tanggalin ang #amount ng Acorns
+quest.chip_destroy_frog,Magkolekta ng #amount na mga Palaka
+quest.chip_destroy_green,Kumolekta ng #amount mga piraso na berde
+quest.chip_destroy_orange,Kumolekta ng #amount na mga piraso ng pula
+quest.chip_destroy_purple,Kumolekta ng #amount ng mga purple na piraso
+quest.chip_destroy_red,Kumolekta ng #amount ng mga piyesa na pula
+quest.chip_destroy_snail,Kumolekta ng #amount ng mga sipit
+quest.chip_destroy_super,Kumolekta ng #amount ng mga super pieces
+quest.chip_destroy_wafer,Kumolekta ng #amount ng mga Ginto na yero
+quest.chip_destroy_with_bomb,Kumolekta ng #amount mga piraso gamit ang Bomba!
+quest.chip_destroy_with_line,Kumolekta ng #amount na mga piraso gamit ang Line bonus
+quest.chip_destroy_with_mine,Kumolekta ng #amount mga piraso gamit ang Firefly bonus
+quest.chip_destroy_with_omni,Kolektahin ang #amount na mga piraso gamit ang Lightning bonus
+quest.chip_destroy_yellow,Kumolekta ng #amount na mga piraso na dilaw
+quest.chip_destroy_waterfish,Kumolekta ng #amount na isda sa tubig
+quest.chip_recolor,I-recolor #amount ng mga piraso gamit ang Paint bonus
+quest.claim,Magreklamo ng Gantimpala
+quest.complete_chest,Lahat ng mga gawain ay natapos na.
+quest.cover_destroy_bee,Kumolekta ng #amount ng mga Bear
+quest.cover_destroy_bound,Buksan ang #amount na mga piraso
+quest.cover_destroy_chocolate,Tanggalin ang #amount na mga piraso gamit ang Lava
+quest.cover_destroy_fizzblue,Kumolekta ng #amount ng fizz
+quest.cover_destroy_fizzpurple,Kumolekta ng #amount ng fizz
+quest.cover_destroy_frozen,Tanggalin ang Frost mula sa #amount piraso
+quest.cover_destroy_honey,Tanggalin ang #amount tiles gamit ang Honey
+quest.cover_destroy_hotlava,Tanggalin ang #amount piraso ng Mainit na Lava
+quest.cover_destroy_receiver_energycube,Kumolekta ng #amount ng jelly crystals
+quest.cover_destroy_receiver_jam,Kumolekta ng #amount ng mga kristal ng enerhiya
+quest.cover_destroy_statue,Kumolekta ng #amount ng mga aso
+quest.cover_destroy_stone,Tanggalin ang #amount mga piraso ng bato
+quest.cover_destroy_leaf,[GPT4] Alisin ang #amount mga Dahon
+quest.division_done_card,May bagong mga gawain sa susunod na antas!
+quest.duck,Kumolekta ng #amount itik
+quest.energy_flow,Ilagay ang enerhiya sa pamamagitan ng #amount tiles
+quest.energycube_flow,Punuin ang #amount ng mga tile na may Jelly
+quest.fossil,Kumolekta ng #amount ng Octopus
+quest.gum,Kumolekta ng #amount piraso ng goma
+quest.new_quest,Bagong gawain!
+quest.new_quest_in,Susunod na gawain sa:
+quest.on_arena_splash_score,Mag-score ng #amount sa Arena Boom!
+quest.on_arena_splash_use_bonus,I-save ang #amount na bonus para sa Arena Boom!
+quest.plate_destroy,Tanggalin ang #amount ng Pagkakahati
+quest.play,Maglaro
+quest.pvp_score,Puntos #amount sa mga duelo
+quest.reward,Gantimpala:
+quest.snakes,Magkolekta ng #amount na mga Ahas
+quest.tile_destroy_gold,Kolektahin ang #amount tiles na may Grass
+quest.tile_destroy_grass,Kolektahin ang #amount tiles na may Grass
+quest.title,Libro ng Quest
+quest.use_bonus,Gamitin ang #amount ng mga bonus.
+quest.use_bonus_bomb,Gamitin ang #amount bonus na Bomba
+quest.use_bonus_line,Gamitin ang #amount ng mga bonus na linya.
+quest.use_bonus_mine,Gamitin ang #amount bonus na Firefly.
+quest.use_bonus_omni,Gamitin ang bonus Lightning #amount beses
+quest.use_bonus_tint,Gamitin ang #amount bonus Pintura
+quest.use_combo_bomb_bomb,Gawin ang combo-bonus Bomb+Bomb #amount beses!
+quest.use_combo_bomb_omni,Gawin ang combo-bonus Lightning+Bomb #amount beses!
+quest.use_combo_bomb_tint,Gawin ang combo-bonus Paint+Bomb #amount beses!
+quest.use_combo_line_bomb,Gawin ang combo-bonus Bomb+Line #amount beses!
+quest.use_combo_line_line,Gawin ang combo-bonus Line+Line #amount beses!
+quest.use_combo_line_omni,Gawin ang combo-bonus Lightning+Line #amount beses!
+quest.use_combo_line_tint,Gawin ang combo-bonus Paint+Line #amount beses!
+quest.use_combo_mine_bomb,Gawin ang combo-bonus Bomb+Firefly #amount beses!
+quest.use_combo_mine_line,Gawin ang combo-bonus Firefly+Line #amount beses!
+quest.use_combo_mine_mine,Gawin ang combo-bonus Firefly+Firefly #amount beses
+quest.use_combo_mine_omni,Gawin ang combo-bonus Lightning+Firefly #amount beses!
+quest.use_combo_mine_tint,Gawin ang combo-bonus Paint+Firefly #amount beses!
+quest.use_combo_omni_omni,Gawin ang combo-bonus Lightning+Lightning #amount beses!
+quest.use_combo_omni_tint,Gawin ang combo-bonus Paint+Lightning #amount beses!
+quest.use_combo_tint_tint,Gawin ang combo-bonus Paint+Paint #amount beses!
+quest.walk,Lumakad ng #amount hakbang si Piggy
+quest.watch_for_new,- #time
+quest.win,Manalo ng #amount na mga duelo
+quest.win_coins,Magkamit ng #amount coins sa mga duelo
+quest.win_hard_level,Tapusin ang mahirap na antas.
+quest.win_rematch,Manalo ng #amount ng mga rematch
+quest.win_streak,Manalo ng #amount na duelo nang magkasunod
+quest.chip_destroy_clam,Kumolekta ng #amount ng mga perlas
+quest.chip_destroy_egg,Kumolekta ng #amount itlog
+quest.gardenflower,Kumolekta ng #amount mga bulaklak
+quest.sausages,Kumolekta ng #amount na sosis
+rematch.asks_for_rematch_draw,"#name ay gustong mag-subok muli
+Mag-bet #bet"
+rematch.asks_for_rematch_player_lose,"#name ay nag-aalok ng isang rematch
+Bet #bet"
+rematch.asks_for_rematch_player_won,"#name ay gusto ng rematch!
+Bet #bet"
+rematch.rematch_bet,Maglaro #bet
+report.body,
+report.subject,May problema sa MatchArena
+reward.bars,Baras ng Ginto
+reward.coins_amt,+#amount
+reward.gems_amt,+#amount
+reward.levels,Bagong antas.
+reward.levels_amt,+#amount
+reward.levelup,"Maligayang pagbati!
+Bagong antas!"
+reward.new_levels,"Bagong
+mga antas!"
+reward.talisman,Talismano.
+reward.xp_amt,+#amount
+search.prize_fund,Pera ng premyo
+settings.friends_and_partners,Mga Kaibigan at Mga Kaalyado
+settings.language.help_us_translate,"Gusto mo bang tulungan kaming isalin ang Match Arena sa mga wika na alam mo? Magpadala ng linya sa <font color=""\#0000EE"">support@matcharenagame.com."
+settings.notifications.duels,Hamunin sa mga laban.
+shop.indev,Magbibigay-daan na!
+splash.hint_chocolate,Tanggalin ang pinakamaraming Lava na maaari mo!
+splash.hint_diamonds,Kolektahin ang pinakamaraming Diamonds na maaari!
+splash.hint_energycube,Punuin ang pinakamaraming mga tile na may Jelly!
+splash.hint_fishes,Kolektahin ang maraming Karot bilang maaari mo!
+splash.hint_food,Tanggalin ang maraming Acorns na maaari mong tanggalin.
+splash.hint_fossils,I-save ang maraming Octopus bilang maaari mo!
+splash.hint_honeybee,Kolektahin ang maraming Bear bilang maaari mo!
+splash.hint_ice,Tanggalin ang pinakamaraming Yelo na maaari mo!
+splash.hint_jam,Punuin ang pinakamaraming tile na may Energy na maaari mo!
+splash.hint_road,Yayakapin mo si Piggy hanggang sa pinakamalayo na posible.
+splash.hint_stone,Tanggalin ang maraming bato na maaari mong tanggalin!
+splash.hint_tasks,Tapusin ang maraming Order na maaari mong gawin!
+splash.hint_tiles,Kolektahin ang pinakamaraming Grass na maaari!
+splash.mode_chocolate,Layunin - Lava
+splash.mode_diamonds,Layunin - Mga Berdeng Bato
+splash.mode_fishes,Layunin - Karot
+splash.mode_food,Layunin - Acorns
+splash.mode_jam,Layunin - Enerhiya
+splash.mode_road,Layunin - Baboy
+splash.mode_tasks,Layunin - Mga Utos
+splash.mode_tiles,Layunin - Damo
+talismans_shop.ask_button,Facebook
+talismans_shop.ask_text,Tanungin ang mga kaibigan
+talismans_shop.boost_text,x2 pagpapanumbalik ng bilis
+talismans_shop.buy_all,Kumuha ng #amount para sa
+talismans_shop.hint,Nagdoble na mga coins na napanalunan
+talismans_shop.recharge,Susunod na talisman sa: #time
+talismans_shop.title,Talismano.
+talismans_shop.watch_ad_button,Tingnan
+talismans_shop.watch_ad_text,Kumuha ng 1 libre
+tickets_shop.ask_button,Facebook
+tickets_shop.ask_text,Tanungin ang mga kaibigan
+tutorial.001.collect_more_fishes,"Kolektahin ang maraming <font color=""\#5885b8"">Carrots</font> na maaari mong makuha."
+tutorial.001.continue_to_collect_fishes,Ituloy ang pagkuha ng mga Carrots!
+tutorial.001.first_swap_red_down,"I-hila ang pula na bahagi pababa
+upang tumugma sa<font color=""\#5885b8""> tatlong magkatabi</font>"
+tutorial.001.remind_collect_three_in_a_row,"Kolektahin ang <font color=""\#5885b8"">tatlong piraso</font> ng isang kulay<font color=""\#5885b8""> sa isang hanay</font>"
+tutorial.001.second_swap_green_left,"Ilipat ang berdeng piraso pakaliwa
+upang magkatugma ng<font color=""\#5885b8""> tatlong magkatabi</font>"
+tutorial.001.third_swap_fish,"<font color=""\#5885b8"">Carrots</font> din pwedeng
+mag-match ng tatlo sa isang hilera"
+tutorial.001.you_are_doing_well,Magaling ka naman!
+tutorial.002.get_bonus_line,"...upang makakuha ng <font color=""\#5885b8"">bonus - Line!</font>"
+tutorial.002.try_four_in_a_row,"Subukan mong mag-match ng <font color=""\#5885b8"">apat sa isang hilera!</font>"
+tutorial.002.use_line_bonus,"Paresuhin ang <font color=""\#5885b8"">tatlong magkatabi para makakuha ng bonus</font> at makita ang lakas ng Line!"
+tutorial.003.hint,Kolektahin ang higit pang mga Carrots kaysa sa iyong kalaban!
+tutorial.003.try_l_or_t,"Paresuhin ang mga piraso <font color=""\#5885b8"">sa hugis T o L!</font>"
+tutorial.003.use_bomb_bonus,"...para makakuha ng <font color=""\#5885b8"">bonus - Bomba!</font>
+Tara, sindihan natin ito!"
+tutorial.004.clear_gold_tiles,"Gumawa ng mga pagtutugma sa <font color=""\#5885b8"">Grass</font>
+upang makolekta ito!"
+tutorial.004.combine_omni_with_blue,"I-swap ang <font color=""\#5885b8"">Lightning-piece</font> sa blue piece para tanggalin lahat ng blue pieces sa board!"
+tutorial.004.try_five_in_a_row,"Subukan mong makuha ng <font color=""\#5885b8"">5 sa isang hilera!</font>"
+tutorial.005.two_bonus_can_combine,"Pwede mong pag-merge ng <font color=""\#5885b8"">dalawang bonus</font> para makakuha ng mas malaking bonus!"
+tutorial.007.collect_food,"Gumawa ng mga pagtutugma sa tabi ng <font color=""\#5885b8"">Acorns</font>"
+tutorial.007.move_character,"Kunin ang mga acorn para
+<font color=""\#5885b8"">ilipat si Piggy palabas!</font>"
+tutorial.008.make_mine_bonus,"Pag-abutin <font color=""\#5885b8"">apat na piraso sa isang parisukat</font> 
+at makukuha mo ang bonus - Firefly!"
+tutorial.008.use_mine_bonus,"Pagtugma ng tatlo sa isang hilera gamit ang <font color=""\#5885b8"">Firefly</font>
+upang gamitin ito!"
+tutorial.009.make_tint_bonus,"Gumawa ng <font color=""\#5885b8"">malaking hugis Т</font> at 
+makakuha ng bonus - Paint!"
+tutorial.009.use_tint_bonus,"<font color=""\#5885b8"">Paint</font> ay maaaring palitan ng anumang piraso!"
+level_popup.adventure.title,Antas
+lives_shop.ma_hint,"Kailangan mo ng mga buhay para 
+magpatuloy sa Adventure."

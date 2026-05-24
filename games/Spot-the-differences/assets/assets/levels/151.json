@@ -1,0 +1,32 @@
+{
+   "resolution":"standard",
+   "image1":"hummingbrids_a.jpg",
+   "image2":"hummingbrids_b.jpg",
+   "differences":[
+      {
+         "x":986.5,
+         "y":674.0,
+         "size":157.0
+      },
+      {
+         "x":433.5,
+         "y":336.0,
+         "size":157.0
+      },
+      {
+         "x":578.5,
+         "y":176.0,
+         "size":127.6
+      },
+      {
+         "x":902.5,
+         "y":46.0,
+         "size":191.3
+      },
+      {
+         "x":842.5,
+         "y":353.0,
+         "size":152.1
+      }
+   ]
+}

@@ -1,0 +1,13 @@
+
+skel_plane_suitLight.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feijik
+  rotate: false
+  xy: 1, 1
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7edcff"/>
+      <stop offset="1" stop-color="#2a9dff"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="380" rx="24" fill="url(#bg)"/>
+  <g opacity="0.16" fill="#ffffff">
+    <circle cx="122" cy="88" r="44"/>
+    <circle cx="514" cy="82" r="38"/>
+    <circle cx="566" cy="138" r="28"/>
+  </g>
+  <text x="44" y="92" fill="#ffffff" font-size="56" font-family="Segoe UI, Arial, sans-serif" font-weight="900">SPORT CHALLENGE</text>
+  <g transform="translate(168 132)">
+    <circle cx="0" cy="84" r="62" fill="#ffffff"/>
+    <path d="M-38 49h76M-56 84h112M-34 119h68" stroke="#1f2d3d" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="86" cy="96" r="54" fill="#f77f2d"/>
+    <path d="M46 70c30 8 64 8 80 0M58 118c24-9 52-9 70 0M78 44c8 34 8 70 0 104" fill="none" stroke="#703117" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="178" cy="78" r="50" fill="#a640ff"/>
+    <circle cx="156" cy="58" r="8" fill="#5f1e95"/>
+    <circle cx="194" cy="58" r="8" fill="#5f1e95"/>
+    <circle cx="175" cy="88" r="8" fill="#5f1e95"/>
+  </g>
+</svg>

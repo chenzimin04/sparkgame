@@ -1,0 +1,237 @@
+
+unicorn.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base/shadow
+  rotate: true
+  xy: 2, 91
+  size: 298, 75
+  orig: 365, 92
+  offset: 33, 9
+  index: -1
+unicorn/arm-l-upper
+  rotate: false
+  xy: 321, 702
+  size: 61, 120
+  orig: 61, 120
+  offset: 0, 0
+  index: -1
+unicorn/arm-lower-l
+  rotate: false
+  xy: 266, 476
+  size: 51, 97
+  orig: 51, 97
+  offset: 0, 0
+  index: -1
+unicorn/arm-r-lower
+  rotate: false
+  xy: 319, 476
+  size: 51, 97
+  orig: 51, 97
+  offset: 0, 0
+  index: -1
+unicorn/arm-r-upper
+  rotate: false
+  xy: 293, 4
+  size: 49, 107
+  orig: 49, 107
+  offset: 0, 0
+  index: -1
+unicorn/body
+  rotate: false
+  xy: 2, 391
+  size: 136, 298
+  orig: 136, 298
+  offset: 0, 0
+  index: -1
+unicorn/ear-l
+  rotate: false
+  xy: 342, 113
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+unicorn/ear-r
+  rotate: false
+  xy: 285, 113
+  size: 55, 76
+  orig: 55, 76
+  offset: 0, 0
+  index: -1
+unicorn/eyes-angry
+  rotate: false
+  xy: 298, 414
+  size: 118, 60
+  orig: 118, 60
+  offset: 0, 0
+  index: -1
+unicorn/eyes-dizzy
+  rotate: true
+  xy: 154, 2
+  size: 93, 45
+  orig: 93, 45
+  offset: 0, 0
+  index: -1
+unicorn/eyes-happy
+  rotate: true
+  xy: 259, 5
+  size: 91, 32
+  orig: 91, 32
+  offset: 0, 0
+  index: -1
+unicorn/eyes-love
+  rotate: true
+  xy: 266, 575
+  size: 122, 62
+  orig: 122, 62
+  offset: 0, 0
+  index: -1
+unicorn/eyes-normal
+  rotate: true
+  xy: 258, 699
+  size: 123, 61
+  orig: 123, 61
+  offset: 0, 0
+  index: -1
+unicorn/eyes-oof
+  rotate: true
+  xy: 201, 3
+  size: 92, 56
+  orig: 92, 56
+  offset: 0, 0
+  index: -1
+unicorn/eyes-sad
+  rotate: true
+  xy: 344, 12
+  size: 99, 51
+  orig: 99, 51
+  offset: 0, 0
+  index: -1
+unicorn/hair-back
+  rotate: false
+  xy: 79, 97
+  size: 122, 292
+  orig: 122, 292
+  offset: 0, 0
+  index: -1
+unicorn/hair-front
+  rotate: true
+  xy: 266, 191
+  size: 199, 105
+  orig: 199, 105
+  offset: 0, 0
+  index: -1
+unicorn/hair-lock-bot
+  rotate: true
+  xy: 330, 604
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+unicorn/hair-lock-mid
+  rotate: true
+  xy: 365, 575
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+unicorn/hair-mid
+  rotate: false
+  xy: 2, 691
+  size: 254, 329
+  orig: 254, 329
+  offset: 0, 0
+  index: -1
+unicorn/head
+  rotate: true
+  xy: 258, 824
+  size: 196, 190
+  orig: 196, 190
+  offset: 0, 0
+  index: -1
+unicorn/horn-1
+  rotate: true
+  xy: 362, 655
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+unicorn/horn-2
+  rotate: true
+  xy: 330, 652
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+unicorn/horn-3
+  rotate: true
+  xy: 365, 611
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+unicorn/horn-4
+  rotate: false
+  xy: 372, 537
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+unicorn/mouth-gasp
+  rotate: true
+  xy: 2, 9
+  size: 80, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1
+unicorn/mouth-happy
+  rotate: true
+  xy: 222, 392
+  size: 79, 74
+  orig: 79, 74
+  offset: 0, 0
+  index: -1
+unicorn/mouth-sad
+  rotate: true
+  xy: 78, 9
+  size: 80, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1
+unicorn/mouth-smile
+  rotate: false
+  xy: 140, 392
+  size: 80, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1
+unicorn/mouth-w
+  rotate: false
+  xy: 203, 98
+  size: 80, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1
+unicorn/tail-1
+  rotate: true
+  xy: 203, 473
+  size: 216, 61
+  orig: 216, 61
+  offset: 0, 0
+  index: -1
+unicorn/tail-2
+  rotate: true
+  xy: 140, 468
+  size: 221, 61
+  orig: 221, 61
+  offset: 0, 0
+  index: -1
+unicorn/tail-3
+  rotate: true
+  xy: 203, 174
+  size: 216, 61
+  orig: 216, 61
+  offset: 0, 0
+  index: -1

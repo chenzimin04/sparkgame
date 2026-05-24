@@ -1,0 +1,69 @@
+
+skel_chapterUnlock.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 1, 55
+  size: 255, 64
+  orig: 255, 64
+  offset: 0, 0
+  index: -1
+00
+  rotate: false
+  xy: 257, 114
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 1, 459
+  size: 289, 362
+  orig: 289, 362
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1, 120
+  size: 265, 338
+  orig: 265, 338
+  offset: 0, 0
+  index: -1
+dd
+  rotate: true
+  xy: 267, 398
+  size: 60, 12
+  orig: 60, 12
+  offset: 0, 0
+  index: -1
+suo1
+  rotate: false
+  xy: 291, 591
+  size: 104, 67
+  orig: 104, 67
+  offset: 0, 0
+  index: -1
+suo3
+  rotate: false
+  xy: 1, 1
+  size: 100, 53
+  orig: 100, 53
+  offset: 0, 0
+  index: -1
+suo4
+  rotate: false
+  xy: 291, 659
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+zou
+  rotate: false
+  xy: 454, 788
+  size: 137, 33
+  orig: 137, 33
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,18 @@
+{
+  "resolution": "standard",
+  "image1": "landscape_a.jpg",
+  "image2": "landscape_b.jpg",
+  "differences":
+  [
+    {
+      "x": 850.0,
+      "y": 544.0,
+      "size": 100.0
+    },
+    {
+      "x": 103.0,
+      "y": 308.0,
+      "size": 100.0
+    }    
+  ]
+}

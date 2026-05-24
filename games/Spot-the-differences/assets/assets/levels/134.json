@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "retro_city_with_car_a.jpg",
+  "image2": "retro_city_with_car_b.jpg",
+  "differences":
+  [
+    {
+      "x": 821.0,
+      "y": 84.0,
+      "size": 100.0
+    },
+    {
+      "x": 895.0,
+      "y": 269.0,
+      "size": 120.0
+    },
+    {
+      "x": 90.0,
+      "y": 533.0,
+      "size": 160.0
+    },
+    {
+      "x": 390.0,
+      "y": 460.0,
+      "size": 100.0
+    },
+    {
+      "x": 513.0,
+      "y": 329.0,
+      "size": 160.0
+    }
+  ]
+}

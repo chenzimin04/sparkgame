@@ -1,0 +1,91 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 0,
+				"x": 0,
+				"var": "pngBg",
+				"top": 0,
+				"right": 0,
+				"left": 0,
+				"bottom": 0
+			},
+			"compId": 31
+		},
+		{
+			"type": "Image",
+			"props": {
+				"y": 167,
+				"x": 0,
+				"width": 750,
+				"skin": "images/dev/img_btn_blue.png",
+				"sizeGrid": "44,22,51,24",
+				"height": 1000
+			},
+			"compId": 3,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 54,
+						"x": 699,
+						"var": "btnClose",
+						"skin": "images/dev/img_btn_gb.png",
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 4
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 30,
+						"x": 289,
+						"text": "快速合成",
+						"fontSize": 42,
+						"color": "#ffffff",
+						"bold": true
+					},
+					"compId": 5
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 114,
+						"x": 23,
+						"width": 703,
+						"skin": "images/dev/img_btn_blue.png",
+						"sizeGrid": "44,22,51,24",
+						"height": 857
+					},
+					"compId": 30,
+					"child": [
+						{
+							"type": "List",
+							"props": {
+								"y": 31,
+								"x": 21,
+								"width": 663,
+								"var": "autoList",
+								"height": 800
+							},
+							"compId": 29
+						}
+					]
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/dev/img_btn_blue.png",
+		"images/dev/img_btn_gb.png"
+	],
+	"loadList3D": []
+}

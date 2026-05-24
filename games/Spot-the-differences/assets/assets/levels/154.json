@@ -1,0 +1,32 @@
+{
+   "resolution":"standard",
+   "image1":"man_flowers_a.jpg",
+   "image2":"man_flowers_b.jpg",
+   "differences":[
+      {
+         "x":135.5,
+         "y":568.0,
+         "size":196.2
+      },
+      {
+         "x":598.5,
+         "y":502.0,
+         "size":132.5
+      },
+      {
+         "x":347.5,
+         "y":206.0,
+         "size":206.0
+      },
+      {
+         "x":156.5,
+         "y":305.0,
+         "size":230.5
+      },
+      {
+         "x":484.5,
+         "y":379.0,
+         "size":132.5
+      }
+   ]
+}

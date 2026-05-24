@@ -1,0 +1,38 @@
+{
+  "resolution": "standard",
+  "image1": "Knights_Templar_a.jpg",
+  "image2": "Knights_Templar_b.jpg",
+  "differences":
+  [
+    {
+    "x": 108.0,
+    "y": 408.0,
+    "size": 200.0
+    },
+    {
+    "x": 424.0,
+    "y": 14.0,
+    "size": 90.0
+    },
+    {
+    "x": 693.0,
+    "y": 47.0,
+    "size": 100.0
+    },
+    {
+    "x": 400.0,
+    "y": 357.0,
+    "size": 100.0
+    },
+    {
+    "x": 876.0,
+    "y": 274.0,
+    "size": 100.0
+    },
+    {
+    "x": 1011.0,
+    "y": 237.0,
+    "size": 80.0
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+   "resolution":"standard",
+   "image1":"cake_strawberry_a.jpg",
+   "image2":"cake_strawberry_b.jpg",
+   "differences":[
+      {
+         "x":316.5,
+         "y":122.0,
+         "size":108.0
+      },
+      {
+         "x":562.5,
+         "y":76.0,
+         "size":112.89999999999999
+      },
+      {
+         "x":681.5,
+         "y":180.0,
+         "size":117.8
+      },
+      {
+         "x":585.5,
+         "y":311.0,
+         "size":100.0
+      },
+      {
+         "x":358.5,
+         "y":288.0,
+         "size":117.8
+      }
+   ]
+}

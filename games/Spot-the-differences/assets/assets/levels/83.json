@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "caterpillar_flower_a.jpg",
+  "image2": "caterpillar_flower_b.jpg",
+  "differences":
+  [
+    {
+      "x": 150.0,
+      "y": 263.0,
+      "size": 110.0
+    },
+    {
+      "x": 305.0,
+      "y": 478.0,
+      "size": 160.0
+    },
+    {
+      "x": 557.0,
+      "y": 392.0,
+      "size": 120.0
+    },
+    {
+      "x": 937.0,
+      "y": 276.0,
+      "size": 90.0
+    },
+    {
+      "x": 623.0,
+      "y": 154.0,
+      "size": 90.0
+    }
+  ]
+}

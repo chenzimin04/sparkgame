@@ -1,0 +1,223 @@
+
+Darwin@0.5x.webp
+size: 166,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Darwin-Effect-Base
+  rotate: false
+  xy: 1, 237
+  size: 111, 47
+  orig: 111, 47
+  offset: 0, 0
+  index: -1
+Darwin-Effect-Particle
+  rotate: false
+  xy: 84, 201
+  size: 4, 6
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+Darwin-Effect-White
+  rotate: false
+  xy: 1, 208
+  size: 87, 27
+  orig: 87, 27
+  offset: 0, 0
+  index: -1
+Darwin-Eye-White-L
+  rotate: true
+  xy: 112, 171
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Darwin-Eye-White-R
+  rotate: true
+  xy: 113, 224
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+Darwin-Eyeball-L
+  rotate: false
+  xy: 77, 80
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Darwin-Eyeball-R
+  rotate: true
+  xy: 144, 46
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Darwin-Eyeblink-R
+  rotate: true
+  xy: 149, 65
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+Darwin-Eyebrow-L
+  rotate: false
+  xy: 49, 66
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+Darwin-Eyebrow-R
+  rotate: true
+  xy: 149, 104
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+Darwin-Eyebrow-R-Sad
+  rotate: false
+  xy: 89, 224
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+Darwin-Face
+  rotate: true
+  xy: 1, 285
+  size: 178, 130
+  orig: 178, 130
+  offset: 0, 0
+  index: -1
+Darwin-Hair
+  rotate: true
+  xy: 99, 29
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+Darwin-Hip-Patch
+  rotate: true
+  xy: 1, 69
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+Darwin-L-Hand
+  rotate: false
+  xy: 132, 281
+  size: 29, 54
+  orig: 29, 58
+  offset: 0, 0
+  index: -1
+Darwin-L-Leg
+  rotate: true
+  xy: 99, 73
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+Darwin-L-Shoe
+  rotate: true
+  xy: 1, 1
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+Darwin-L-Shorts
+  rotate: false
+  xy: 132, 400
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+Darwin-Mouth-Excited
+  rotate: true
+  xy: 132, 336
+  size: 63, 29
+  orig: 63, 29
+  offset: 0, 0
+  index: -1
+Darwin-Mouth-Happy
+  rotate: false
+  xy: 1, 125
+  size: 76, 43
+  orig: 76, 43
+  offset: 0, 0
+  index: -1
+Darwin-Mouth-Sad
+  rotate: false
+  xy: 1, 169
+  size: 82, 38
+  orig: 82, 38
+  offset: 0, 0
+  index: -1
+Darwin-Mouth-Smile
+  rotate: false
+  xy: 1, 464
+  size: 134, 47
+  orig: 134, 47
+  offset: 0, 0
+  index: -1
+Darwin-R-Hand
+  rotate: false
+  xy: 136, 455
+  size: 28, 56
+  orig: 28, 56
+  offset: 0, 0
+  index: -1
+Darwin-R-Leg
+  rotate: false
+  xy: 50, 80
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+Darwin-R-Shoe
+  rotate: true
+  xy: 50, 1
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+Darwin-R-Shorts
+  rotate: false
+  xy: 132, 428
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+Darwin-Shadow
+  rotate: false
+  xy: 84, 152
+  size: 80, 18
+  orig: 80, 18
+  offset: 0, 0
+  index: -1
+tint-Darwin-L-Band
+  rotate: false
+  xy: 84, 171
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+tint-Darwin-L-Socks
+  rotate: true
+  xy: 78, 99
+  size: 25, 70
+  orig: 25, 70
+  offset: 0, 0
+  index: -1
+tint-Darwin-R-Band
+  rotate: true
+  xy: 89, 196
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+tint-Darwin-R-Socks
+  rotate: true
+  xy: 78, 125
+  size: 25, 76
+  orig: 25, 76
+  offset: 0, 0
+  index: -1

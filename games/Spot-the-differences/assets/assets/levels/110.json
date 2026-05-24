@@ -1,0 +1,33 @@
+{
+  "resolution": "standard",
+  "image1": "guitar_strings_a.jpg",
+  "image2": "guitar_strings_b.jpg",
+  "differences":
+  [
+    {
+      "x": 192.0,
+      "y": 310.0,
+      "size": 90.0
+    },
+    {
+      "x": 295.0,
+      "y": 275.0,
+      "size": 90.0
+    },
+    {
+      "x": 194.0,
+      "y": 557.0,
+      "size": 90.0
+    },
+    {
+      "x": 608.0,
+      "y": 501.0,
+      "size": 100.0
+    },
+    {
+      "x": 643.0,
+      "y": 367.0,
+      "size": 60.0
+    }
+  ]
+}

@@ -1,0 +1,533 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"y": 687,
+				"x": 395,
+				"var": "pngBg",
+				"top": 0,
+				"skin": "images/grid/maskGray.png",
+				"sizeGrid": "2,3,4,3",
+				"right": 0,
+				"left": 0,
+				"bottom": 0,
+				"anchorY": 0.5,
+				"anchorX": 0.5
+			},
+			"compId": 3
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 267,
+				"x": 25,
+				"width": 700,
+				"var": "centerBox",
+				"mouseThrough": true,
+				"height": 800
+			},
+			"compId": 4,
+			"child": [
+				{
+					"type": "Image",
+					"props": {
+						"y": 0,
+						"x": 0,
+						"width": 700,
+						"skin": "images/award/online_bg.png",
+						"rotation": 0,
+						"mouseThrough": false,
+						"mouseEnabled": true,
+						"height": 572
+					},
+					"compId": 20
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 53,
+						"x": 643,
+						"var": "btnClose",
+						"skin": "images/main/icon_sb_cc.png",
+						"label": "label",
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 27
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 427,
+						"x": 98,
+						"width": 481,
+						"var": "timeImgBg",
+						"skin": "images/main/bloodBlack.png",
+						"sizeGrid": "6,18,6,18",
+						"height": 18
+					},
+					"compId": 33,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 0,
+								"x": 0,
+								"width": 234,
+								"var": "timeImgVal",
+								"skin": "images/main/bloodG.png",
+								"sizeGrid": "6,21,7,18",
+								"height": 19
+							},
+							"compId": 34
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": -24,
+								"x": -63,
+								"skin": "images/main/icon_sj.png"
+							},
+							"compId": 40
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 340,
+						"x": 180,
+						"var": "giftBox1",
+						"skin": "images/main/icon_jl_bg.png",
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 35,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 31,
+								"x": 35,
+								"width": 76,
+								"skin": "images/main/obj4.png",
+								"rotation": 0,
+								"height": 84
+							},
+							"compId": 63
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 73,
+								"x": 75,
+								"var": "iconReady1",
+								"skin": "images/main/icon_jl_xz.png",
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 38
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 4,
+								"x": 4,
+								"var": "iconYes1",
+								"skin": "images/main/icon_jl_zz.png"
+							},
+							"compId": 36,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 42,
+										"x": 40,
+										"skin": "images/main/icon_jl_gou.png"
+									},
+									"compId": 37
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 118,
+								"x": 29,
+								"width": 94,
+								"skin": "images/main/icon_jl_mz_bg.png",
+								"sizeGrid": "13,16,13,17",
+								"height": 29
+							},
+							"compId": 66,
+							"child": [
+								{
+									"type": "Label",
+									"props": {
+										"y": 5,
+										"x": 7,
+										"width": 80,
+										"var": "labTitle1",
+										"text": "Soldiers fragments",
+										"fontSize": 20,
+										"align": "center"
+									},
+									"compId": 67
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 477,
+						"x": 179,
+						"width": 89,
+						"skin": "images/main/icon_sj_bg.png",
+						"sizeGrid": "9,7,8,7",
+						"height": 22,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 60,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": -36,
+								"x": 39,
+								"width": 12,
+								"skin": "images/main/icon_sj_kd.png",
+								"height": 35
+							},
+							"compId": 61
+						},
+						{
+							"type": "Label",
+							"props": {
+								"y": 1,
+								"x": 5,
+								"var": "labTimer1",
+								"text": "00:15:00",
+								"fontSize": 20,
+								"color": "#ffffff"
+							},
+							"compId": 62
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 340,
+						"x": 378,
+						"var": "giftBox2",
+						"skin": "images/main/icon_jl_bg.png",
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 43,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 13,
+								"x": 18,
+								"width": 112,
+								"skin": "images/main/icon_jp_dh_jb1.png",
+								"rotation": 0,
+								"height": 113
+							},
+							"compId": 64
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 73,
+								"x": 75,
+								"var": "iconReady2",
+								"skin": "images/main/icon_jl_xz.png",
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 45
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 4,
+								"x": 4,
+								"var": "iconYes2",
+								"skin": "images/main/icon_jl_zz.png"
+							},
+							"compId": 44,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 42,
+										"x": 40,
+										"skin": "images/main/icon_jl_gou.png"
+									},
+									"compId": 46
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 118,
+								"x": 29,
+								"width": 94,
+								"skin": "images/main/icon_jl_mz_bg.png",
+								"sizeGrid": "13,16,13,17",
+								"height": 29
+							},
+							"compId": 69,
+							"child": [
+								{
+									"type": "Label",
+									"props": {
+										"y": 5,
+										"x": 7,
+										"width": 80,
+										"var": "labTitle2",
+										"text": "Golds",
+										"fontSize": 20,
+										"align": "center"
+									},
+									"compId": 70
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 477,
+						"x": 377,
+						"width": 89,
+						"skin": "images/main/icon_sj_bg.png",
+						"sizeGrid": "9,7,8,7",
+						"height": 22,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 57,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": -36,
+								"x": 39,
+								"width": 12,
+								"skin": "images/main/icon_sj_kd.png",
+								"height": 35
+							},
+							"compId": 58
+						},
+						{
+							"type": "Label",
+							"props": {
+								"y": 1,
+								"x": 5,
+								"var": "labTimer2",
+								"text": "00:15:00",
+								"fontSize": 20,
+								"color": "#ffffff"
+							},
+							"compId": 59
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 340,
+						"x": 575,
+						"var": "giftBox3",
+						"skin": "images/main/icon_jl_bg.png",
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 50,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 11,
+								"x": 18,
+								"width": 112,
+								"skin": "images/main/icon_jp_dh_tf1.png",
+								"rotation": 0,
+								"height": 113
+							},
+							"compId": 65
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 73,
+								"x": 75,
+								"var": "iconReady3",
+								"skin": "images/main/icon_jl_xz.png",
+								"anchorY": 0.5,
+								"anchorX": 0.5
+							},
+							"compId": 52
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 4,
+								"x": 4,
+								"var": "iconYes3",
+								"skin": "images/main/icon_jl_zz.png"
+							},
+							"compId": 51,
+							"child": [
+								{
+									"type": "Image",
+									"props": {
+										"y": 42,
+										"x": 40,
+										"skin": "images/main/icon_jl_gou.png"
+									},
+									"compId": 53
+								}
+							]
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 118,
+								"x": 29,
+								"width": 94,
+								"skin": "images/main/icon_jl_mz_bg.png",
+								"sizeGrid": "13,16,13,17",
+								"height": 29
+							},
+							"compId": 71,
+							"child": [
+								{
+									"type": "Label",
+									"props": {
+										"y": 5,
+										"x": 7,
+										"width": 80,
+										"var": "labTitle3",
+										"text": "Talentx3",
+										"fontSize": 20,
+										"align": "center"
+									},
+									"compId": 72
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 477,
+						"x": 574,
+						"width": 89,
+						"skin": "images/main/icon_sj_bg.png",
+						"sizeGrid": "9,7,8,7",
+						"height": 22,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 54,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": -36,
+								"x": 39,
+								"width": 12,
+								"skin": "images/main/icon_sj_kd.png",
+								"height": 35
+							},
+							"compId": 55
+						},
+						{
+							"type": "Label",
+							"props": {
+								"y": 1,
+								"x": 5,
+								"var": "labTimer3",
+								"text": "00:15:00",
+								"fontSize": 20,
+								"color": "#ffffff"
+							},
+							"compId": 56
+						}
+					]
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 517,
+						"x": 150,
+						"width": 400,
+						"text": "Reset every day at 5 a.m",
+						"strokeColor": "#868484",
+						"stroke": 1,
+						"fontSize": 24,
+						"color": "#ffffff",
+						"bold": true,
+						"align": "center"
+					},
+					"compId": 73
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 579,
+						"x": 36,
+						"width": 300,
+						"visible": false,
+						"var": "labQQ",
+						"text": "qq群:22222222",
+						"strokeColor": "#868484",
+						"stroke": 1,
+						"fontSize": 22,
+						"color": "#ffffff",
+						"bold": true,
+						"align": "left"
+					},
+					"compId": 74
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/grid/maskGray.png",
+		"images/award/online_bg.png",
+		"images/main/icon_sb_cc.png",
+		"images/main/bloodBlack.png",
+		"images/main/bloodG.png",
+		"images/main/icon_sj.png",
+		"images/main/icon_jl_bg.png",
+		"images/main/obj4.png",
+		"images/main/icon_jl_xz.png",
+		"images/main/icon_jl_zz.png",
+		"images/main/icon_jl_gou.png",
+		"images/main/icon_jl_mz_bg.png",
+		"images/main/icon_sj_bg.png",
+		"images/main/icon_sj_kd.png",
+		"images/main/icon_jp_dh_jb1.png",
+		"images/main/icon_jp_dh_tf1.png"
+	],
+	"loadList3D": []
+}

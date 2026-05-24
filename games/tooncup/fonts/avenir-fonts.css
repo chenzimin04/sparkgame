@@ -1,0 +1,7 @@
+@font-face {
+  font-family:'avenir';
+  src:url('../assets/fonts/avenir.woff2') format('woff2');
+  src:url('../assets/fonts/avenir.woff') format('woff');
+  font-style: normal;
+  font-stretch: normal;
+}

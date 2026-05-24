@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+<templates>
+	<button id="tSmallStatBox" width="330" height="70" padding="15" template="tBox">
+		<text y="-9" name="uiTxtTitle" valign="topOf" template="tElement,tFontWhite,tFontSmall" width="200%" halignText="left" valignText="center" />				
+		<image name="uiImgIcon" relativeHeight="1.0" ratio="1.0" margin="-10" halign="left" valign="center" x="15" />
+		<text name="uiTxtAmount" template="tElement,tFontWhite,tFontMedium" halignText="center" valignText="center" />
+	</button>
+</templates>
+
+<screen name="uiScreenPlayerDetails" template="tPopUpJennyTab">	
+	<state state="blocked" red="0.5" green="0.5" blue="0.5" />
+	<state state="unblocked" red="1.0" green="1.0" blue="1.0" />
+	
+	<image name="uiImgBg" >		
+		<state state="self"  />
+		<state state="default" template="tBG" />
+		<image name="uiTabBar" >
+			<state state="self" visible="true" />
+			<state state="default" visible="false" />
+			<image name="uiBGTab0" >
+				<button name="uiBtTab">
+					<image name="uiImgTabIcon" image="dynamic/avatar.png" />
+				</button>
+			</image>
+			<image name="uiBGTab1">	
+				<button name="uiBtTab">
+					<image name="uiImgTabIcon" image="dynamic/mail_big.png" >
+						<element name="uiUnread" width="50" ratio="1" halign="right" valign="bottom" x="10" y="10" >
+							<animation name="mailWobble" animation="wobble" speed="0" angle="2.0" size="1.0" />
+							<image name="uiImgNumUnread" image="ui/barbutton_01.png" width="50" height="100%" halign="center" nss="45,35,11,3" nssScale="0.6" />
+							<text name="uiTxtGlobalNumUnread" template="tFontMedium,tElement" valignText="center" halignText="center" />
+						</element>						
+					</image>
+				</button>
+			</image>
+			<image name="uiBGTab2" visible="true" >
+				<button name="uiBtTab">
+					<image name="uiImgTabIcon" image="dynamic/team.png" />
+				</button>
+			</image>
+		</image>
+	</image>
+		
+	<element name="uiContent" marginLeft="50" marginRight="50" >		
+		<state state="self"  marginTop="130" marginBottom="30" />
+		<state state="default" marginTop="100" marginBottom="25" />
+		<element name="uiTabHook" template="tElement" />		
+		<element name="uiDetails" template="tElement">
+			<element width="85%" height="250" halign="center">
+				<text name="uiTxtIgnored" halign="center" valign="topOf" width="600" height="80" template="tFontLarge" halignText="center" valignText="center" text="SID_IGNORED"  red="2.0" green="2.0" blue="2.0" visible="false">
+					<state state="blocked" visible="true" />
+					<state state="unblocked" visible="false" />
+				</text>
+				<player name="uiPlayer" big="true" width="250" ratio="1" halign="center" >
+					<state state="init" halign="center" />
+					<state state="desc" halign="left" />
+					<image name="uiImgFlag" width="30%" >
+						<state state="self" visible="false" />
+					</image>
+					<button name="uiBtFlag" x="-35" y="35" height="120" ratio="1" image="ui/SquareButton.png" before="uiImgFlag" valign="bottom" visible="false" >
+						<state state="self" visible="true" />
+						<image name="uiImgBtnFlag" y="-4" width="65%" ratio="1.25" halign="center" valign="center" />
+					</button>					
+					<button name="uiBtChat" height="120" ratio="1" x="-100" halign="leftOf" valign="center" image="ui/SquareButton.png" >
+						<state state="self" visible="false" />
+						<state state="default" visible="true" />
+						<state state="desc" x="-8" />
+						<state state="invite" y="-65" />
+						<state state="noInvite" y="0" />
+					
+						<image width="70" ratio="1" halign="center" valign="center" image="ui/mail.png" />
+						<state state="blocked" visible="false" />
+						<state state="unblocked" visible="true" />
+						<button name="uiBtTeamInvite" width="120" halign="center" valign="bottomOf" template="tSquareButton" y="30" visible="false">							
+							<state state="invite" visible="true" />
+							<state state="noInvite" visible="false" />
+							<image name="uiImgIcon" image="dynamic/team.png" margin="15" >
+								<image image="dynamic/plus.png" width="60" ratio="1" halign="right" valign="bottom" x="10" y="10" />
+							</image>
+						</button>
+					</button>
+					<imageSpecial width="80" height="80" halign="rightOf" valign="top" padding="15" image="ui/dark.png" visible="false" pX='[{"left":0,"u":20}, {"right":30,"u":20}, {"right":0,"u":43}]' pY='[{"top":0, "v":0}, {"top":30,"v":20}, {"bottom":30,"v":30}, {"bottom":0,"v":50}]'>						
+						<state state="init" visible="false" />
+						<state state="self" visible="true" />
+						<state state="desc" visible="false" />
+						<button name="uiBtEditDesc" template="tElement" clickable="false">
+							<state state="self" clickable="true" />
+							<text halignText="center" valignText="center" template="tElement,tFontMedium" text="i" marginRight="10" />
+						</button>
+					</imageSpecial>
+					<imageSpecial name="uiImgPlayerDesc" width="430" height="240" halign="rightOf" valign="center" padding="15" image="ui/dark.png" visible="false" pX='[{"left":0,"u":20}, {"right":30,"u":20}, {"right":0,"u":43}]' pY='[{"top":0, "v":0}, {"top":30,"v":20}, {"bottom":30,"v":30}, {"bottom":0,"v":50}]'>						
+						<state state="init" visible="false" />
+						<state state="desc" visible="true" />
+						<button name="uiBtEditDesc" template="tElement" clickable="false">
+							<state state="self" clickable="true" />
+							<text name="uiTxtPlayerDesc" halignText="left" valignText="top" template="tElement,tFontSmall" />
+						</button>	
+					</imageSpecial>
+					<team name="uiAvatarTeam" height="120" ratio="1" halign="right" valign="bottom" clickable="true" />
+				</player>	
+				<text name="uiTxtPlayerName" y="50" width="730" height="70" halignText="center" valignText="center" halign="center" valign="bottomOf" template="tFontSpecial,tFontUltra" />	
+				<text name="uiTxtLastOnline" width="630" height="40" template="tFontWhite,tFontSmall" halignText="center" valignText="center" halign="center" valign="bottomOf" y="120" />										
+			</element>
+		
+			<element name="uiStats" template="tElement" marginTop="420">
+				<state state="blocked" visible="false" />
+				<state state="unblocked" visible="true" />
+				<image name="uiImgBest" template="tSmallStatBox" y="70">
+					<text name="uiTxtTitle" text="SID_BEST_LEVEL" />
+				</image>
+				<image name="uiImgStars" template="tSmallStatBox" y="70" halign="right">
+					<text name="uiTxtTitle" text="SID_STARS" />
+					<image name="uiImgIcon" image="ui/star_on.png" />
+				</image>
+				
+				<image name="uiImgWon" template="tSmallStatBox" y="210">
+					<text name="uiTxtTitle" text="SID_NUM_GAMES_WON" />
+				</image>		
+				<image name="uiImgRatio" template="tSmallStatBox" y="210" halign="right">
+					<text name="uiTxtTitle" text="SID_WIN_RATIO" />
+				</image>
+				
+				<image name="uiImgScore" template="tSmallStatBox" y="350">
+					<text name="uiTxtTitle" text="SID_SCORE" />
+				</image>
+				
+				<image name="uiImgTournamentsWon" template="tSmallStatBox" y="350" halign="right">
+					<text name="uiTxtTitle" text="SID_TOURNAMENTS_WON" />
+					<image name="uiImgIcon" image="ui/trophy_small.png" />
+				</image>
+			</element>
+			<element width="100%" height="150" valign="bottom">				
+				<element template="tElement">
+					<state state="default" visible="true" />
+					<state state="self" visible="false" />
+					<button name="uiBtBlock" height="120" ratio="1" halign="right" valign="center" image="dynamic/btn_block.png" >
+						<state state="blocked" visible="false" />
+						<state state="unblocked" visible="true" />
+						<text template="tFontWhite,tFontMedium" text="SID_IGNORE" width="600" height="60" halign="leftOf" valign="center" halignText="right" valignText="center" x="-10" />
+					</button>
+					<button name="uiBtUnblock" height="120" ratio="1" halign="right" valign="center" image="dynamic/btn_unblock.png" red="2.0" green="2.0" blue="2.0">
+						<state state="blocked" visible="true" />
+						<state state="unblocked" visible="false" />
+					</button>				
+				</element>
+				
+				<button name="uiBtLogOut" width="100" height="100" image="dynamic/quit.png" halign="right" valign="center" >
+					<state state="default" visible="false" />
+					<state state="self" visible="true" />
+					<text template="tFontWhite,tFontMedium" text="SID_LOGOUT" width="300" height="60" halign="leftOf" valign="center" halignText="right" valignText="center" x="-10" />
+				</button>
+			</element>
+		</element>
+	</element>	
+	<button name="uiBtClose" >
+		<state state="self" x="-23" y="40" />
+		<state state="default" x="-21" y="21" />
+		<state state="blocked" red="2.0" green="2.0" blue="2.0" />
+		<state state="unblocked" red="1.0" green="1.0" blue="1.0" />
+	</button>	
+	<image name="uiImgJennyBack" >
+		<state state="blocked" red="2.0" green="2.0" blue="2.0" />
+		<state state="unblocked" red="1.0" green="1.0" blue="1.0" />
+	</image>
+	<image name="uiImgJennyFront" >
+		<state state="blocked" red="2.0" green="2.0" blue="2.0" />
+		<state state="unblocked" red="1.0" green="1.0" blue="1.0" />
+	</image>
+</screen>

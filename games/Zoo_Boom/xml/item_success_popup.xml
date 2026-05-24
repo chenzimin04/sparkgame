@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+</libraries>
+
+<screen name="uiScreenPopUp" template="tPopUpJennyHappy" label="SID_BOUGHT">
+	<element name="uiContent">
+		<element y="-100" ratio="1.0" height="300" halign="center" valign="center" padding="20">
+			<image template="tRays" halign="center" valign="center" scale="6" />
+			<image name="uiImgRewardConti" template="tElement" >
+				<emitter template="tEmitter" />
+			</image>
+		</element>
+		
+		<button name="uiBtOk" label="SID_OK" icon="ui/ok.png" template="tButton" halign="center" valign="bottom" />		
+	</element>
+</screen>

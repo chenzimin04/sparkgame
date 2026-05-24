@@ -1,0 +1,10 @@
+{
+	"name": "Onet World",
+	"short_name": "Onet World",
+	"description": "onet game",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"background_color": "#ffffff",
+	"icons": []
+}

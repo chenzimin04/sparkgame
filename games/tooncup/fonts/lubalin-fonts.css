@@ -1,0 +1,7 @@
+@font-face {
+  font-family:'lubalin';
+  src:url('../assets/fonts/lubalin.woff2') format('woff2');
+  src:url('../assets/fonts/lubalin.woff') format('woff');
+  font-style: normal;
+  font-stretch: normal;
+}

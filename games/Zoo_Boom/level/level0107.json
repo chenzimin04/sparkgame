@@ -1,0 +1,23 @@
+ {
+	"size":9,
+	"moves":35,
+	"fill":"up",
+	"add":[		
+		{ "x":0, "y":0, "dx":1, "dy":9, "type":"COIN", "softCage":true, "count":true },
+		{ "x":8, "y":0, "dx":1, "dy":9, "type":"COIN", "softCage":true, "count":true },
+		{ "x":4, "y":0, "dx":1, "dy":4, "type":"COIN", "softCage":true, "count":true },
+		{ "x":4, "y":5, "dx":1, "dy":4, "type":"COIN", "softCage":true, "count":true }
+		
+	],
+	"allowedGemTypes":["GEM_YELLOW","GEM_GREEN","GEM_RED","GEM_BLUE"],
+	"field":[ 
+		"xxxxxoxxx",
+		"xxxxxoxxx",
+		"xxxxxoxxx",
+		"xxxxxoxxx",
+		"xxxoooxxx",
+		"xxxoxxxxx",
+		"xxxoxxxxx",
+		"xxxoxxxxx",
+		"xxxoxxxxx"]
+ }

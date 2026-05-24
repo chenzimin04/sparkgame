@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#103a7d"/>
+      <stop offset="0.58" stop-color="#1f6bd4"/>
+      <stop offset="1" stop-color="#83d7ff"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.2" r="0.9">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="640" height="380" rx="26" fill="url(#bg)"/>
+  <rect width="640" height="380" rx="26" fill="url(#glow)" opacity="0.55"/>
+  <g opacity="0.95">
+    <circle cx="78" cy="92" r="32" fill="#ff7aa2"/>
+    <circle cx="134" cy="70" r="24" fill="#7fe7ff"/>
+    <circle cx="170" cy="108" r="28" fill="#ffd964"/>
+    <circle cx="532" cy="86" r="28" fill="#85f581"/>
+    <circle cx="572" cy="122" r="34" fill="#ff90d6"/>
+    <circle cx="510" cy="128" r="20" fill="#6aa7ff"/>
+  </g>
+  <g opacity="0.32" fill="#ffffff">
+    <circle cx="108" cy="230" r="14"/>
+    <circle cx="180" cy="258" r="18"/>
+    <circle cx="494" cy="236" r="16"/>
+    <circle cx="560" cy="270" r="13"/>
+  </g>
+  <path d="M0 294c89-29 160-31 234-6 58 20 105 18 179-8 76-26 140-28 227 8v92H0Z" fill="#d9f4ff" opacity="0.72"/>
+  <image href="../../games/Amazing-bubble-breaker/assets/logo.png" x="130" y="58" width="382" height="246" preserveAspectRatio="xMidYMid meet"/>
+</svg>

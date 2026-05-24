@@ -1,0 +1,5 @@
+[
+    { "type": "swap", "tile1": { "x": 1, "y": 5 } , "tile2": { "x": 2, "y": 5 }, "dialog": "tutorial-lineclear-1", "index": 0 },
+    { "type": "waitForCascade" },
+    { "type": "swap", "tile1": { "x": 2, "y": 4 } , "tile2": { "x": 2, "y": 3 }, "dialog": "tutorial-lineclear-2", "index": 0 }
+]

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<libraries>
+	<library file="xml/library.xml" />
+	<library file="xml/library_news.xml" />
+</libraries>
+
+<templates>			
+	<image id="tNewsFeedConti" template="tNewsFeedConti" data='{"height":140}' paddingRight="5">
+		<element name="uiContent" template="tElement" >
+			<text name="uiTxtNews" >
+				<state state="landscape" template="tFontMedium" />
+				<state state="portrait" template="tFontMedium"  />
+			</text>
+		</element>
+	</image>	
+	<image id="tPlayerContainerTournamentHighscore" template="tPlayerContainerLong" height="150">
+		<image width="120" height="60" halign="right" valign="center" template="tBox" x="-10" >
+			<image x="40" width="70" ratio="1" halign="leftOf" valign="center" image="ui/trophy.png" />
+			<text y="-0" name="uiTxtScore" halignText="center" valignText="center" template="tElement,tFontWhite,tFontMedium" marginLeft="10"/>		
+		</image>	
+	</image>
+	<screen id="tTabScreen" template="tElement">
+		<state state="landscape" width="100%" />
+		<state state="portrait" width="100%" />
+		<text name="uiTxtHeadText" template="tFontWhite,tFontLarge" width="100%" height="60" halignText="center" valignText="center" />
+		<list name="uiList" template="tList" marginTop="70" gap="15"/>
+		<text name="uiTxtHelp" y="15" template="tFontWhite,tFontSmall" width="100%" height="100" halignText="center" valignText="bottom" valign="bottom" >
+			<state state="landscape" marginLeft="0" />
+			<state state="portrait" marginLeft="50" />
+		</text>
+	</screen>			
+</templates>
+
+<screen name="uiSocialHub" template="tPopUpJennyTab">		
+	<image name="uiImgBg" >		
+		<image name="uiTabBar" >			
+			<image name="uiBGTab0" >
+				<button name="uiBtTab">
+					<image name="uiImgTabIcon" image="dynamic/news.png" />
+				</button>
+			</image>
+			<image name="uiBGTab1">	
+				<button name="uiBtTab">
+					<image name="uiImgTabIcon" image="dynamic/week.png" />
+				</button>
+			</image>
+			<image name="uiBGTab2" visible="true">
+				<button name="uiBtTab" >
+					<image name="uiImgTabIcon" image="ui/trophy.png" ratio="1.2" />
+				</button>					
+			</image>
+			<image name="uiBGTab3" visible="true">
+				<button name="uiBtTab">
+					<image name="uiImgTabIcon" image="dynamic/trophy_multi.png" ratio="1.9" scale="1.3" />
+				</button>					
+			</image>
+		</image>
+	</image>
+		
+	<element name="uiContent" marginTop="130" marginBottom="30">
+		<state state="landscape" />
+	</element>	
+</screen>

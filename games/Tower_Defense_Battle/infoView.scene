@@ -1,0 +1,138 @@
+{
+	"type": "View",
+	"props": {
+		"width": 750,
+		"height": 1334
+	},
+	"compId": 2,
+	"child": [
+		{
+			"type": "Image",
+			"props": {
+				"var": "pngBg",
+				"top": 0,
+				"skin": "images/grid/maskLight.png",
+				"sizeGrid": "1,2,2,1",
+				"right": 0,
+				"left": 0,
+				"bottom": 0
+			},
+			"compId": 3
+		},
+		{
+			"type": "Box",
+			"props": {
+				"y": 217,
+				"x": 25,
+				"width": 700,
+				"var": "centerBox",
+				"mouseThrough": true,
+				"height": 900
+			},
+			"compId": 4,
+			"child": [
+				{
+					"type": "Box",
+					"props": {
+						"y": 0,
+						"x": 39,
+						"width": 622,
+						"rotation": 0,
+						"height": 705
+					},
+					"compId": 14,
+					"child": [
+						{
+							"type": "Image",
+							"props": {
+								"y": 0,
+								"x": 0,
+								"width": 622,
+								"skin": "images/grid/icon_tc_di.png",
+								"sizeGrid": "98,76,20,79",
+								"height": 705
+							},
+							"compId": 15
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 16,
+								"x": 466,
+								"width": 310,
+								"skin": "images/grid/icon_tc_btd.png",
+								"sizeGrid": "0,40,0,37",
+								"anchorX": 1
+							},
+							"compId": 17
+						},
+						{
+							"type": "Image",
+							"props": {
+								"y": 28,
+								"x": 273,
+								"skin": "images/grid/title_word_lq.png"
+							},
+							"compId": 19
+						}
+					]
+				},
+				{
+					"type": "Image",
+					"props": {
+						"y": 588,
+						"x": 350,
+						"width": 224,
+						"var": "btnClose",
+						"skin": "images/grid/button_blue.png",
+						"sizeGrid": "21,22,42,20",
+						"rotation": 0,
+						"height": 100,
+						"anchorY": 0.5,
+						"anchorX": 0.5
+					},
+					"compId": 7,
+					"child": [
+						{
+							"type": "Label",
+							"props": {
+								"y": 28,
+								"x": 55,
+								"text": "确定",
+								"stroke": 1,
+								"fontSize": 44,
+								"color": "#ffffff"
+							},
+							"compId": 8
+						}
+					]
+				},
+				{
+					"type": "Label",
+					"props": {
+						"y": 130,
+						"x": 80,
+						"wordWrap": true,
+						"width": 540,
+						"var": "labMsg",
+						"text": "提示文字信息",
+						"leading": 18,
+						"height": 340,
+						"fontSize": 32,
+						"color": "#ffffff",
+						"bold": true
+					},
+					"compId": 6
+				}
+			]
+		}
+	],
+	"loadList": [
+		"images/grid/maskLight.png",
+		"images/grid/icon_tc_di.png",
+		"images/grid/icon_tc_btd.png",
+		"images/grid/title_word_lq.png",
+		"images/grid/button_blue.png"
+	],
+	"loadList3D": []
+}
