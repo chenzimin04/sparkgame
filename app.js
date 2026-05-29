@@ -24,19 +24,14 @@ function normalizeCoverEntries(data) {
 
 async function loadCoverSystem() {
   if (!window.__coverSystemCache) {
-    const [coverMapData, assetMapData, coverSourcesData, coverRulesData] = await Promise.all([
+    const [coverMapData, assetMapData] = await Promise.all([
       loadJsonOrDefault("data/cover-map.json", {}),
-      loadJsonOrDefault("data/asset-map.json", {}),
-      loadJsonOrDefault("data/cover-sources.json", {}),
-      loadJsonOrDefault("data/cover-rules.json", {})
+      loadJsonOrDefault("data/asset-map.json", {})
     ]);
 
     window.__coverSystemCache = {
       coverMap: normalizeCoverEntries(coverMapData),
-      assetMap: normalizeCoverEntries(assetMapData),
-      coverSources: coverSourcesData.games || {},
-      reviewQueue: Array.isArray(coverSourcesData.reviewQueue) ? coverSourcesData.reviewQueue : [],
-      coverRules: coverRulesData || {}
+      assetMap: normalizeCoverEntries(assetMapData)
     };
   }
   return window.__coverSystemCache;
@@ -75,6 +70,54 @@ function isRealArtwork(path) {
 
 function qs(name) {
   return new URLSearchParams(window.location.search).get(name);
+}
+
+function initMobileNav() {
+  const sidebar = document.querySelector(".sidebar");
+  const topbar = document.querySelector(".topbar");
+  if (!sidebar || !topbar) return;
+
+  document.body.classList.add("has-mobile-sidebar");
+
+  let toggle = topbar.querySelector(".mobile-nav-toggle");
+  if (!toggle) {
+    toggle = document.createElement("button");
+    toggle.type = "button";
+    toggle.className = "mobile-nav-toggle";
+    toggle.setAttribute("aria-label", "Open navigation");
+    toggle.setAttribute("aria-expanded", "false");
+    toggle.innerHTML = "<span></span>";
+    topbar.insertBefore(toggle, topbar.firstChild);
+  }
+
+  const closeNav = () => {
+    document.body.classList.remove("mobile-nav-open");
+    toggle.setAttribute("aria-expanded", "false");
+  };
+
+  const openNav = () => {
+    document.body.classList.add("mobile-nav-open");
+    toggle.setAttribute("aria-expanded", "true");
+  };
+
+  toggle.addEventListener("click", () => {
+    if (document.body.classList.contains("mobile-nav-open")) closeNav();
+    else openNav();
+  });
+
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") closeNav();
+  });
+
+  sidebar.querySelectorAll("a").forEach((link) => {
+    link.addEventListener("click", () => {
+      if (window.innerWidth <= 980) closeNav();
+    });
+  });
+
+  window.addEventListener("resize", () => {
+    if (window.innerWidth > 980) closeNav();
+  });
 }
 
 function escapeHtml(value) {
@@ -575,6 +618,7 @@ function renderGameCard(game, tag = "") {
         <div class="card-copy">
           <h3 class="card-title">${escapeHtml(game.title)}</h3>
           <p class="card-desc">${escapeHtml(game.description)}</p>
+          <p class="card-players">${escapeHtml(formatPlayers(game.players))}</p>
         </div>
         <div class="card-actions">
           <img class="card-icon" src="${escapeHtml(game.icon)}" alt="">
@@ -611,7 +655,15 @@ function renderRandomIconTile(game) {
   `;
 }
 
-function renderRandomStrip(games) {
+function renderRandomStrip(games, mobile = false) {
+  if (mobile) {
+    return `
+      <div class="random-icon-grid">
+        ${games.slice(0, 12).map(renderRandomIconTile).join("")}
+      </div>
+    `;
+  }
+
   const rowA = games.slice(0, Math.ceil(games.length / 2));
   const rowB = games.slice(Math.ceil(games.length / 2));
   const minRepeats = 4;
@@ -678,44 +730,18 @@ function safeText(value, fallback = "") {
   return value == null || value === "" ? fallback : String(value);
 }
 
-function cloneEntry(entry = {}) {
-  return JSON.parse(JSON.stringify(entry || {}));
-}
-
-function pruneEntry(entry) {
-  const next = {};
-  const keys = ["featuredCover", "shelfCover", "randomIcon", "icon", "fit", "quality", "mode"];
-  for (const key of keys) {
-    const value = safeText(entry[key]).trim();
-    if (value) next[key] = value;
-  }
-  return next;
-}
-
-function copyText(value) {
-  if (navigator.clipboard?.writeText) {
-    return navigator.clipboard.writeText(value);
-  }
-  const input = document.createElement("textarea");
-  input.value = value;
-  document.body.appendChild(input);
-  input.select();
-  document.execCommand("copy");
-  input.remove();
-  return Promise.resolve();
-}
-
 async function renderHomePage() {
   const [games, coverSystem] = await Promise.all([loadGames(), loadCoverSystem()]);
+  const isMobileHome = window.matchMedia("(max-width: 980px)").matches;
   const searchTerm = (qs("search") || "").trim().toLowerCase();
-  const featuredSource = games.filter((game) => game.featured).slice(0, 5);
+  const featuredSource = games.filter((game) => game.featured).slice(0, isMobileHome ? 2 : 5);
   const continueIcons = games.slice(0, 4).map((game) => applyAssetProfile(game, coverSystem, "icon"));
   const featured = featuredSource.map((game) => applyAssetProfile(game, coverSystem, "featured"));
   const shelfGames = games.map((game) => applyAssetProfile(game, coverSystem, "shelf"));
-  const newest = shelfGames.slice(0, 9);
-  const hot = shelfGames.slice(9, 18);
+  const newest = shelfGames.slice(0, isMobileHome ? 7 : 9);
+  const hot = shelfGames.slice(9, isMobileHome ? 17 : 18);
   const random = pickRandomStripGames(games, coverSystem);
-  const sports = shelfGames.filter((game) => ["Sports", "Action", "Racing"].includes(game.category)).slice(0, 9);
+  const sports = shelfGames.filter((game) => ["Sports", "Action", "Racing"].includes(game.category)).slice(0, isMobileHome ? 6 : 9);
   const puzzle = shelfGames.filter((game) => game.category === "Puzzle").slice(0, 9);
 
   document.getElementById("gameCount").textContent = "Redact";
@@ -723,7 +749,7 @@ async function renderHomePage() {
   setSectionHtml("featuredRow", featured.map(renderFeatureCard).join(""));
   setSectionHtml("newGrid", newest.map((game) => renderGameCard(game, "New")).join(""));
   setSectionHtml("hotGrid", hot.map((game) => renderGameCard(game, "Hot")).join(""));
-  setSectionHtml("randomStrip", renderRandomStrip(random), "No games found.");
+  setSectionHtml("randomStrip", renderRandomStrip(random, isMobileHome), "No games found.");
   setSectionHtml("sportsGrid", sports.map((game) => renderGameCard(game)).join(""));
   setSectionHtml("puzzleGrid", puzzle.map((game) => renderGameCard(game)).join(""));
 
@@ -754,6 +780,7 @@ async function renderDetailPage() {
   const gameId = qs("id") || games[0]?.id;
   const rawGame = games.find((item) => item.id === gameId) || games[0];
   const game = applyAssetProfile(rawGame, coverSystem, "featured");
+  const continueIcons = games.slice(0, 4).map((item) => applyAssetProfile(item, coverSystem, "icon"));
   const related = games
     .filter((item) => item.id !== game.id && item.category === game.category)
     .slice(0, 6)
@@ -778,6 +805,11 @@ async function renderDetailPage() {
   document.getElementById("summaryTitle").textContent = game.title;
   document.getElementById("summaryRating").textContent = `${game.rating.toFixed(1)} rating`;
   document.getElementById("summaryPlayers").textContent = formatPlayers(game.players);
+  document.getElementById("mobileDetailThumb").src = game.thumb;
+  document.getElementById("mobileDetailTitle").textContent = game.title;
+  document.getElementById("mobileDetailRating").textContent = `★ ${game.rating.toFixed(1)}`;
+  document.getElementById("mobileDetailCategory").textContent = game.category;
+  document.getElementById("mobileDetailPlayButton").href = game.gamePath;
   document.getElementById("playNowButton").href = "#detailPlayerSection";
   document.getElementById("openSourceButton").href = game.gamePath;
   document.getElementById("detailInlineRawLink").href = game.gamePath;
@@ -785,6 +817,7 @@ async function renderDetailPage() {
   const detailFrameWrapper = document.getElementById("detailPlayerFrame");
   await setupEmbeddedGamePlayer(detailFrame, detailFrameWrapper, game.gamePath, { bodyDatasetKey: "detailPlayMode" });
 
+  setSectionHtml("mobileDetailContinueRow", continueIcons.map(renderContinueIcon).join(""), "No games found.");
   setSectionHtml("sideSuggestions", related.map((item) => renderMiniCard(item)).join(""), "No related games in this category yet.");
   setSectionHtml("recommendGrid", more.map(renderRecommendCard).join(""));
 
@@ -843,468 +876,12 @@ async function renderPlayPage() {
   });
 }
 
-async function renderCoverAdminPage() {
-  const [games, coverSystem] = await Promise.all([loadGames(), loadCoverSystem()]);
-  const categoryFilter = document.getElementById("adminCategoryFilter");
-  const statusFilter = document.getElementById("adminStatusFilter");
-  const searchInput = document.getElementById("adminSearchInput");
-  const searchButton = document.getElementById("adminSearchButton");
-  const listNode = document.getElementById("adminGameList");
-  const queueCount = document.getElementById("queueCount");
-  const adminStats = document.getElementById("adminStats");
-  const output = document.getElementById("adminJsonOutput");
-  const serverStatus = document.getElementById("adminServerStatus");
-  const uploadInput = document.getElementById("uploadScreenshotInput");
-  const uploadPreviewImage = document.getElementById("uploadPreviewImage");
-  const uploadPreviewName = document.getElementById("uploadPreviewName");
-  const uploadZone = document.getElementById("uploadZone");
-
-  const draftKey = "playspark-cover-draft-v1";
-  const baseMap = coverSystem.coverMap || {};
-  const sourceMap = cloneEntry(coverSystem.coverSources || {});
-  const savedDraft = JSON.parse(localStorage.getItem(draftKey) || "{}");
-  const draftMap = { ...savedDraft };
-  const queueSet = new Set(coverSystem.reviewQueue || []);
-
-  const categoryOptions = Array.from(new Set(games.map((game) => game.category))).sort((a, b) => a.localeCompare(b));
-  categoryFilter.insertAdjacentHTML("beforeend", categoryOptions.map((category) => `<option value="${escapeHtml(category)}">${escapeHtml(category)}</option>`).join(""));
-
-  let searchTerm = "";
-  let selectedSlug = games[0]?.slug || "";
-  let pendingUpload = null;
-
-  function getCurrentEntry(slug) {
-    return pruneEntry(draftMap[slug] || baseMap[slug] || {});
-  }
-
-  function hasDraft(slug) {
-    return JSON.stringify(pruneEntry(draftMap[slug] || {})) !== JSON.stringify(pruneEntry(baseMap[slug] || {}));
-  }
-
-  function getStatus(slug) {
-    if (hasDraft(slug)) return "draft";
-    if (baseMap[slug] && Object.keys(pruneEntry(baseMap[slug])).length) return "mapped";
-    if (queueSet.has(slug)) return "queue";
-    return "empty";
-  }
-
-  function getGameBySlug(slug) {
-    return games.find((game) => game.slug === slug) || games[0];
-  }
-
-  function setAdminStatus(message, tone = "") {
-    serverStatus.textContent = message;
-    serverStatus.className = `admin-server-status ${tone}`.trim();
-  }
-
-  async function postAdminApi(path, payload) {
-    const response = await fetch(path, {
-      method: "POST",
-      headers: { "content-type": "application/json" },
-      body: JSON.stringify(payload)
-    });
-    const data = await response.json().catch(() => ({}));
-    if (!response.ok || data.ok === false) {
-      throw new Error(data.error || `Request failed: ${response.status}`);
-    }
-    return data;
-  }
-
-  function setPendingUpload(fileLike) {
-    pendingUpload = fileLike;
-    uploadPreviewImage.src = fileLike?.previewUrl || "";
-    uploadPreviewName.textContent = fileLike ? `${fileLike.name} · ${Math.round((fileLike.size || 0) / 1024)} KB` : "No uploaded screenshot yet.";
-  }
-
-  function fileToDataUrl(file) {
-    return new Promise((resolve, reject) => {
-      const reader = new FileReader();
-      reader.onload = () => resolve(reader.result);
-      reader.onerror = () => reject(new Error("Failed to read screenshot file."));
-      reader.readAsDataURL(file);
-    });
-  }
-
-  async function handleScreenshotFile(file) {
-    if (!file) return;
-    const previewUrl = URL.createObjectURL(file);
-    const dataUrl = await fileToDataUrl(file);
-    setPendingUpload({
-      name: file.name,
-      size: file.size,
-      type: file.type,
-      previewUrl,
-      dataUrl
-    });
-    setAdminStatus(`Loaded screenshot ${file.name}. Choose where to use it, or upload and save.`, "success");
-  }
-
-  function assignUploadedPath(pathValue, target) {
-    if (target === "shelf") {
-      document.getElementById("fieldShelfCover").value = pathValue;
-    }
-    if (target === "featured") {
-      document.getElementById("fieldFeaturedCover").value = pathValue;
-    }
-    if (target === "icon") {
-      document.getElementById("fieldRandomIcon").value = pathValue;
-      document.getElementById("fieldIcon").value = pathValue;
-    }
-    updatePreview(getGameBySlug(selectedSlug));
-  }
-
-  async function uploadScreenshotAndAssign(target = "shelf") {
-    if (!pendingUpload?.dataUrl) {
-      setAdminStatus("Choose a screenshot first.", "error");
-      return;
-    }
-    const game = getGameBySlug(selectedSlug);
-    setAdminStatus(`Uploading screenshot for ${game.title}...`);
-    const data = await postAdminApi("/api/cover/upload", {
-      slug: selectedSlug,
-      name: pendingUpload.name,
-      dataUrl: pendingUpload.dataUrl
-    });
-    sourceMap[selectedSlug] = data.source;
-    assignUploadedPath(data.path, target);
-    applyDraftFromForm();
-    setAdminStatus(`Screenshot uploaded and assigned to ${target}.`, "success");
-  }
-
-  function buildCandidateCards(game) {
-    const sourceEntry = sourceMap[game.slug] || {};
-    const currentEntry = getCurrentEntry(game.slug);
-    const candidates = Array.isArray(sourceEntry.candidates) ? sourceEntry.candidates : [];
-    const candidateCount = document.getElementById("candidateCount");
-    candidateCount.textContent = `${candidates.length} candidate(s)`;
-
-    if (!candidates.length) {
-      setSectionHtml("candidateGrid", "", "No candidate assets recorded yet.");
-      return;
-    }
-
-    setSectionHtml("candidateGrid", candidates.map((candidate, index) => {
-      const path = safeText(candidate.path);
-      const usage = Array.isArray(candidate.usage) ? candidate.usage.join(", ") : safeText(candidate.usage, "-");
-      const isSelected = currentEntry.shelfCover === path || currentEntry.featuredCover === path || currentEntry.icon === path || currentEntry.randomIcon === path;
-      return `
-        <article class="candidate-card ${isSelected ? "active" : ""}" data-candidate-index="${index}">
-          <div class="candidate-media">
-            <img src="${escapeHtml(path)}" alt="${escapeHtml(game.title)}">
-          </div>
-          <div class="candidate-body">
-            <div class="candidate-head">
-              <strong>${escapeHtml(safeText(candidate.type, "candidate"))}</strong>
-              <span class="candidate-status">${escapeHtml(safeText(candidate.status, "review"))}</span>
-            </div>
-            <div class="candidate-usage">${escapeHtml(usage)}</div>
-            <div class="candidate-path">${escapeHtml(path)}</div>
-            <div class="candidate-actions">
-              <button class="mini-action" type="button" data-action="shelf" data-candidate-index="${index}">Use As Shelf</button>
-              <button class="mini-action" type="button" data-action="featured" data-candidate-index="${index}">Use As Featured</button>
-              <button class="mini-action" type="button" data-action="icon" data-candidate-index="${index}">Use As Icon</button>
-            </div>
-          </div>
-        </article>
-      `;
-    }).join(""));
-
-    listNode.querySelectorAll(".candidate-card");
-  }
-
-  function updatePreview(game) {
-    const entry = getCurrentEntry(game.slug);
-    const shelf = safeText(entry.shelfCover || game.thumb);
-    const featured = safeText(entry.featuredCover || entry.shelfCover || game.thumb);
-    const icon = safeText(entry.icon || entry.randomIcon || entry.shelfCover || game.icon);
-
-    const previewShelf = document.getElementById("previewShelf");
-    const previewFeatured = document.getElementById("previewFeatured");
-    const previewIcon = document.getElementById("previewIcon");
-    previewShelf.src = shelf;
-    previewFeatured.src = featured;
-    previewIcon.src = icon;
-    previewShelf.className = entry.fit === "contain" ? "contain" : "";
-    previewFeatured.className = entry.fit === "contain" ? "contain" : "";
-    previewIcon.className = entry.fit === "contain" ? "contain" : "";
-
-    document.getElementById("previewShelfPath").textContent = shelf || "-";
-    document.getElementById("previewFeaturedPath").textContent = featured || "-";
-    document.getElementById("previewIconPath").textContent = icon || "-";
-  }
-
-  function fillForm(game) {
-    const entry = getCurrentEntry(game.slug);
-    document.getElementById("editorTitle").textContent = game.title;
-    document.getElementById("editorMeta").textContent = `${game.slug} · ${game.category} · ${getStatus(game.slug)}`;
-    document.getElementById("editorOpenGame").href = detailUrl(game);
-    document.getElementById("fieldShelfCover").value = safeText(entry.shelfCover);
-    document.getElementById("fieldFeaturedCover").value = safeText(entry.featuredCover);
-    document.getElementById("fieldRandomIcon").value = safeText(entry.randomIcon);
-    document.getElementById("fieldIcon").value = safeText(entry.icon);
-    document.getElementById("fieldFit").value = safeText(entry.fit);
-    document.getElementById("fieldQuality").value = safeText(entry.quality, "manual");
-    document.getElementById("fieldMode").value = safeText(entry.mode, "real-art");
-    updatePreview(game);
-    buildCandidateCards(game);
-    updateOutput(game.slug);
-  }
-
-  function readForm() {
-    return pruneEntry({
-      shelfCover: document.getElementById("fieldShelfCover").value,
-      featuredCover: document.getElementById("fieldFeaturedCover").value,
-      randomIcon: document.getElementById("fieldRandomIcon").value,
-      icon: document.getElementById("fieldIcon").value,
-      fit: document.getElementById("fieldFit").value,
-      quality: document.getElementById("fieldQuality").value,
-      mode: document.getElementById("fieldMode").value
-    });
-  }
-
-  function persistDraft() {
-    localStorage.setItem(draftKey, JSON.stringify(draftMap, null, 2));
-  }
-
-  function updateOutput(slug) {
-    const currentEntry = getCurrentEntry(slug);
-    output.value = JSON.stringify({
-      slug,
-      entry: currentEntry,
-      draftMap
-    }, null, 2);
-  }
-
-  function renderGameList() {
-    const categoryValue = categoryFilter.value;
-    const statusValue = statusFilter.value;
-    const filtered = games.filter((game) => {
-      const text = `${game.title} ${game.slug} ${game.category}`.toLowerCase();
-      const matchesSearch = !searchTerm || text.includes(searchTerm);
-      const matchesCategory = categoryValue === "All" || game.category === categoryValue;
-      const status = getStatus(game.slug);
-      const matchesStatus =
-        statusValue === "all" ||
-        (statusValue === "queue" && queueSet.has(game.slug)) ||
-        (statusValue === "mapped" && status === "mapped") ||
-        (statusValue === "draft" && status === "draft");
-      return matchesSearch && matchesCategory && matchesStatus;
-    });
-
-    queueCount.textContent = `${filtered.length} visible`;
-    adminStats.textContent = `${games.length} games · ${Object.keys(baseMap).length} mapped · ${Object.keys(draftMap).filter((slug) => hasDraft(slug)).length} draft changed`;
-
-    if (!filtered.length) {
-      setSectionHtml("adminGameList", "", "No games match this filter.");
-      return;
-    }
-
-    listNode.innerHTML = filtered.map((game) => {
-      const active = game.slug === selectedSlug ? "active" : "";
-      const status = getStatus(game.slug);
-      const entry = getCurrentEntry(game.slug);
-      const thumb = entry.shelfCover || entry.featuredCover || game.thumb;
-      return `
-        <button class="admin-game-row ${active}" type="button" data-slug="${escapeHtml(game.slug)}">
-          <img class="admin-game-thumb" src="${escapeHtml(thumb)}" alt="${escapeHtml(game.title)}">
-          <span class="admin-game-copy">
-            <strong>${escapeHtml(game.title)}</strong>
-            <small>${escapeHtml(game.slug)} · ${escapeHtml(game.category)}</small>
-          </span>
-          <span class="admin-game-badge ${escapeHtml(status)}">${escapeHtml(status)}</span>
-        </button>
-      `;
-    }).join("");
-
-    listNode.querySelectorAll("[data-slug]").forEach((button) => {
-      button.addEventListener("click", () => {
-        selectedSlug = button.dataset.slug;
-        renderGameList();
-        fillForm(getGameBySlug(selectedSlug));
-      });
-    });
-  }
-
-  function applyDraftFromForm() {
-    const game = getGameBySlug(selectedSlug);
-    draftMap[selectedSlug] = readForm();
-    persistDraft();
-    renderGameList();
-    fillForm(game);
-  }
-
-  function downloadDraft() {
-    const payload = JSON.stringify({
-      meta: {
-        exportedAt: new Date().toISOString(),
-        source: "cover-admin"
-      },
-      games: draftMap
-    }, null, 2);
-    const blob = new Blob([payload], { type: "application/json" });
-    const url = URL.createObjectURL(blob);
-    const link = document.createElement("a");
-    link.href = url;
-    link.download = "cover-map-draft.json";
-    link.click();
-    URL.revokeObjectURL(url);
-  }
-
-  function bindCandidateActions() {
-    document.getElementById("candidateGrid").addEventListener("click", (event) => {
-      const button = event.target.closest("[data-action]");
-      if (!button) return;
-      const game = getGameBySlug(selectedSlug);
-      const sourceEntry = sourceMap[game.slug] || {};
-      const candidates = Array.isArray(sourceEntry.candidates) ? sourceEntry.candidates : [];
-      const candidate = candidates[Number(button.dataset.candidateIndex)];
-      if (!candidate) return;
-      const path = safeText(candidate.path);
-      if (!path) return;
-
-      if (button.dataset.action === "shelf") {
-        document.getElementById("fieldShelfCover").value = path;
-      }
-      if (button.dataset.action === "featured") {
-        document.getElementById("fieldFeaturedCover").value = path;
-      }
-      if (button.dataset.action === "icon") {
-        document.getElementById("fieldRandomIcon").value = path;
-        document.getElementById("fieldIcon").value = path;
-      }
-      if (candidate.fit) {
-        document.getElementById("fieldFit").value = candidate.fit;
-      }
-      updatePreview(game);
-    });
-  }
-
-  searchButton.addEventListener("click", () => {
-    searchTerm = searchInput.value.trim().toLowerCase();
-    renderGameList();
-  });
-  searchInput.addEventListener("input", () => {
-    searchTerm = searchInput.value.trim().toLowerCase();
-    renderGameList();
-  });
-  categoryFilter.addEventListener("change", renderGameList);
-  statusFilter.addEventListener("change", renderGameList);
-  document.getElementById("applyFormButton").addEventListener("click", applyDraftFromForm);
-  document.getElementById("mirrorIconButton").addEventListener("click", () => {
-    const shelfValue = document.getElementById("fieldShelfCover").value;
-    document.getElementById("fieldRandomIcon").value = shelfValue;
-    document.getElementById("fieldIcon").value = shelfValue;
-    updatePreview(getGameBySlug(selectedSlug));
-  });
-  document.getElementById("copySelectionButton").addEventListener("click", async () => {
-    await copyText(JSON.stringify({ [selectedSlug]: getCurrentEntry(selectedSlug) }, null, 2));
-  });
-  document.getElementById("copyDraftButton").addEventListener("click", async () => {
-    await copyText(JSON.stringify(draftMap, null, 2));
-  });
-  document.getElementById("downloadDraftButton").addEventListener("click", downloadDraft);
-  document.getElementById("chooseScreenshotButton").addEventListener("click", () => uploadInput.click());
-  uploadInput.addEventListener("change", async () => {
-    const [file] = Array.from(uploadInput.files || []);
-    if (file) await handleScreenshotFile(file);
-  });
-  document.getElementById("pasteScreenshotButton").addEventListener("click", async () => {
-    try {
-      const items = await navigator.clipboard.read();
-      for (const item of items) {
-        const imageType = item.types.find((type) => type.startsWith("image/"));
-        if (!imageType) continue;
-        const blob = await item.getType(imageType);
-        const file = new File([blob], `clipboard-${Date.now()}.png`, { type: imageType });
-        await handleScreenshotFile(file);
-        return;
-      }
-      setAdminStatus("Clipboard does not contain an image.", "error");
-    } catch (error) {
-      setAdminStatus(`Paste failed: ${error.message}`, "error");
-    }
-  });
-  ["dragenter", "dragover"].forEach((eventName) => {
-    uploadZone.addEventListener(eventName, (event) => {
-      event.preventDefault();
-      uploadZone.classList.add("dragging");
-    });
-  });
-  ["dragleave", "drop"].forEach((eventName) => {
-    uploadZone.addEventListener(eventName, (event) => {
-      event.preventDefault();
-      if (eventName === "drop") {
-        const [file] = Array.from(event.dataTransfer?.files || []);
-        if (file) handleScreenshotFile(file);
-      }
-      uploadZone.classList.remove("dragging");
-    });
-  });
-  document.getElementById("uploadAsShelfButton").addEventListener("click", async () => {
-    await uploadScreenshotAndAssign("shelf");
-  });
-  document.getElementById("uploadAsFeaturedButton").addEventListener("click", async () => {
-    await uploadScreenshotAndAssign("featured");
-  });
-  document.getElementById("uploadAsIconButton").addEventListener("click", async () => {
-    await uploadScreenshotAndAssign("icon");
-  });
-  document.getElementById("saveUploadButton").addEventListener("click", async () => {
-    await uploadScreenshotAndAssign("shelf");
-    await postAdminApi("/api/cover/save", { games: draftMap });
-    setAdminStatus("Uploaded screenshot saved to cover-map.json.", "success");
-  });
-  document.getElementById("scanFolderButton").addEventListener("click", async () => {
-    const game = getGameBySlug(selectedSlug);
-    setAdminStatus(`Scanning ${game.title}...`);
-    try {
-      const data = await postAdminApi("/api/cover/scan", { slug: selectedSlug });
-      sourceMap[selectedSlug] = data.source;
-      fillForm(game);
-      setAdminStatus(`Scan complete: ${(data.source.candidates || []).length} candidates found.`, "success");
-    } catch (error) {
-      setAdminStatus(`Scan failed: ${error.message}. Open this page through the admin server on port 8010.`, "error");
-    }
-  });
-  document.getElementById("writeBackButton").addEventListener("click", async () => {
-    applyDraftFromForm();
-    setAdminStatus("Writing draft back to data/cover-map.json...");
-    try {
-      const data = await postAdminApi("/api/cover/save", { games: draftMap });
-      window.__coverSystemCache = null;
-      setAdminStatus(`Write back complete: ${data.count} entrie(s) saved. Refresh the homepage to see it.`, "success");
-    } catch (error) {
-      setAdminStatus(`Write back failed: ${error.message}. Open this page through the admin server on port 8010.`, "error");
-    }
-  });
-  document.getElementById("resetDraftButton").addEventListener("click", () => {
-    localStorage.removeItem(draftKey);
-    window.location.reload();
-  });
-
-  ["fieldShelfCover", "fieldFeaturedCover", "fieldRandomIcon", "fieldIcon", "fieldFit"].forEach((id) => {
-    document.getElementById(id).addEventListener("input", () => updatePreview(getGameBySlug(selectedSlug)));
-    document.getElementById(id).addEventListener("change", () => updatePreview(getGameBySlug(selectedSlug)));
-  });
-
-  bindCandidateActions();
-  fetch("/api/cover/status")
-    .then((response) => response.ok ? response.json() : null)
-    .then((data) => {
-      if (data?.ok) setAdminStatus(`Admin server ready on port ${data.port}.`, "success");
-      else setAdminStatus("Static preview mode. Start the admin server to scan folders and write files.");
-    })
-    .catch(() => setAdminStatus("Static preview mode. Start the admin server to scan folders and write files."));
-  renderGameList();
-  fillForm(getGameBySlug(selectedSlug));
-}
-
 async function boot() {
+  initMobileNav();
   const page = document.body.dataset.page;
   if (page === "home") await renderHomePage();
   if (page === "detail") await renderDetailPage();
   if (page === "play") await renderPlayPage();
-  if (page === "cover-admin") await renderCoverAdminPage();
 }
 
 boot().catch((error) => {

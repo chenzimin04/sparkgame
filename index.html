@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>PlaySpark</title>
-  <link rel="stylesheet" href="styles.css?v=20260524">
+  <link rel="stylesheet" href="styles.css?v=20260529">
 </head>
 <body data-page="home">
   <div class="layout">
@@ -47,6 +47,10 @@
 
     <main class="main">
       <header class="topbar">
+        <a class="mobile-home-brand" href="index.html" aria-label="PlaySpark Home">
+          <div class="logo-mark"><b>Play</b><b>Spark</b><b>Go</b><b>!</b></div>
+          <div class="logo-sub">casual games portal</div>
+        </a>
         <div class="search-shell">
           <span class="search-icon" aria-hidden="true"></span>
           <input id="searchInput" class="search-input" type="search" placeholder="Search Games">
@@ -57,6 +61,14 @@
           <span>Install App</span>
         </div>
       </header>
+
+      <nav class="mobile-home-nav" aria-label="Quick categories">
+        <a class="mobile-home-chip active" href="index.html"><i class="nav-icon orange"></i><span>All</span></a>
+        <a class="mobile-home-chip" href="#new"><i class="nav-icon red"></i><span>New Games</span></a>
+        <a class="mobile-home-chip" href="#hot"><i class="nav-icon orange"></i><span>Hot Games</span></a>
+        <a class="mobile-home-chip" href="#random"><i class="nav-icon green"></i><span>Random Games</span></a>
+        <a class="mobile-home-chip" href="#sports"><i class="nav-icon blue"></i><span>Recommended</span></a>
+      </nav>
 
       <div class="content home-content">
         <section id="continue" class="section">
@@ -130,10 +142,28 @@
           </div>
           <div id="catalogGrid" class="card-grid catalog-grid"></div>
         </section>
+
+        <section class="mobile-home-footer" aria-label="Site information">
+          <h2 class="mobile-home-footer-title">Our Game Selection</h2>
+          <p class="mobile-home-footer-copy">
+            PlaySpark brings together quick browser games for short breaks and easy discovery.
+            Browse new picks, replay favorites, and jump into arcade, puzzle, sports, and casual titles
+            designed for fast mobile play.
+          </p>
+          <div class="mobile-home-footer-links">
+            <a href="#">About</a>
+            <a href="#">Privacy</a>
+            <a href="#">Terms</a>
+          </div>
+          <a class="mobile-home-footer-brand" href="index.html" aria-label="PlaySpark Home">
+            <div class="logo-mark"><b>Play</b><b>Spark</b><b>Go</b><b>!</b></div>
+          </a>
+          <div class="mobile-home-footer-copyline">© 2026 PlaySpark</div>
+        </section>
       </div>
     </main>
   </div>
 
-  <script src="app.js?v=20260524"></script>
+  <script src="app.js?v=20260529"></script>
 </body>
 </html>

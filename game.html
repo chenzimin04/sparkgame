@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Game Detail - PlaySpark</title>
-  <link rel="stylesheet" href="styles.css?v=20260524">
+  <link rel="stylesheet" href="styles.css?v=20260529">
 </head>
 <body data-page="detail">
   <div class="layout">
@@ -46,6 +46,8 @@
         </div>
       </header>
 
+      <a class="mobile-detail-home menu-button" href="index.html" aria-label="Back to home"><span></span></a>
+
       <div class="content">
         <div class="game-layout">
           <aside>
@@ -56,6 +58,21 @@
           </aside>
 
           <section class="stage-card">
+            <section class="mobile-detail-hero">
+              <div class="mobile-detail-art-shell">
+                <img id="mobileDetailThumb" class="mobile-detail-thumb" alt="">
+              </div>
+              <div class="mobile-detail-copy">
+                <h1 id="mobileDetailTitle" class="mobile-detail-title"></h1>
+                <div class="mobile-detail-meta">
+                  <span id="mobileDetailRating" class="mobile-detail-rating"></span>
+                  <span id="mobileDetailCategory" class="mobile-detail-category"></span>
+                </div>
+                <a id="mobileDetailPlayButton" class="mobile-detail-play" href="play.html">Play Now</a>
+              </div>
+              <div class="mobile-detail-ad">Ad</div>
+            </section>
+
             <section id="detailPlayerSection" class="detail-player-shell">
               <div class="detail-player-head">
                 <h3 class="panel-title">Play Now</h3>
@@ -83,6 +100,14 @@
           </section>
 
           <aside class="detail-side">
+            <div class="panel mobile-detail-continue-panel">
+              <div class="section-head compact">
+                <h3 class="panel-title">Continue Playing</h3>
+                <span class="section-note">Redact</span>
+              </div>
+              <div id="mobileDetailContinueRow" class="continue-icon-row"></div>
+            </div>
+
             <div class="panel summary-panel">
               <img id="summaryThumb" class="summary-thumb" alt="">
               <h2 id="summaryTitle" class="summary-title"></h2>
@@ -102,6 +127,6 @@
     </main>
   </div>
 
-  <script src="app.js?v=20260524"></script>
+  <script src="app.js?v=20260529"></script>
 </body>
 </html>
