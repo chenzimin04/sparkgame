@@ -730,12 +730,52 @@ function safeText(value, fallback = "") {
   return value == null || value === "" ? fallback : String(value);
 }
 
+const RECENT_GAMES_KEY = "playspark-recent-games-v1";
+
+function normalizeGamePath(path) {
+  return safeText(path).replace(/^\/+/, "");
+}
+
+function readRecentGamePaths() {
+  try {
+    const raw = JSON.parse(localStorage.getItem(RECENT_GAMES_KEY) || "[]");
+    return Array.isArray(raw) ? raw.map(normalizeGamePath).filter(Boolean) : [];
+  } catch (error) {
+    return [];
+  }
+}
+
+function writeRecentGamePath(gamePath) {
+  const nextPath = normalizeGamePath(gamePath);
+  if (!nextPath) return;
+
+  try {
+    const paths = readRecentGamePaths().filter((path) => path !== nextPath);
+    paths.unshift(nextPath);
+    localStorage.setItem(RECENT_GAMES_KEY, JSON.stringify(paths.slice(0, 8)));
+  } catch (error) {
+    // ignore storage failures
+  }
+}
+
+function getRecentGames(games, fallbackCount = 4) {
+  const recentPaths = readRecentGamePaths();
+  const recent = recentPaths
+    .map((path) => games.find((game) => normalizeGamePath(game.gamePath) === path))
+    .filter(Boolean);
+
+  if (recent.length >= fallbackCount) return recent.slice(0, fallbackCount);
+
+  const fallback = games.filter((game) => !recent.some((item) => item.id === game.id)).slice(0, Math.max(0, fallbackCount - recent.length));
+  return [...recent, ...fallback].slice(0, fallbackCount);
+}
+
 async function renderHomePage() {
   const [games, coverSystem] = await Promise.all([loadGames(), loadCoverSystem()]);
   const isMobileHome = window.matchMedia("(max-width: 980px)").matches;
   const searchTerm = (qs("search") || "").trim().toLowerCase();
   const featuredSource = games.filter((game) => game.featured).slice(0, isMobileHome ? 2 : 5);
-  const continueIcons = games.slice(0, 4).map((game) => applyAssetProfile(game, coverSystem, "icon"));
+  const continueIcons = getRecentGames(games, 4).map((game) => applyAssetProfile(game, coverSystem, "icon"));
   const featured = featuredSource.map((game) => applyAssetProfile(game, coverSystem, "featured"));
   const shelfGames = games.map((game) => applyAssetProfile(game, coverSystem, "shelf"));
   const newest = shelfGames.slice(0, isMobileHome ? 7 : 9);
@@ -780,7 +820,7 @@ async function renderDetailPage() {
   const gameId = qs("id") || games[0]?.id;
   const rawGame = games.find((item) => item.id === gameId) || games[0];
   const game = applyAssetProfile(rawGame, coverSystem, "featured");
-  const continueIcons = games.slice(0, 4).map((item) => applyAssetProfile(item, coverSystem, "icon"));
+  const continueIcons = getRecentGames(games, 4).map((item) => applyAssetProfile(item, coverSystem, "icon"));
   const related = games
     .filter((item) => item.id !== game.id && item.category === game.category)
     .slice(0, 6)

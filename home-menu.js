@@ -2,6 +2,23 @@
   if (!location.pathname.includes("/games/")) return;
   if (document.getElementById("playspark-home-menu")) return;
 
+  const RECENT_GAMES_KEY = "playspark-recent-games-v1";
+  const normalizeGamePath = (path) => String(path || "").replace(/^\/+/, "");
+  const currentGamePath = normalizeGamePath(location.pathname);
+
+  try {
+    const recentPaths = JSON.parse(localStorage.getItem(RECENT_GAMES_KEY) || "[]");
+    const nextPaths = (Array.isArray(recentPaths) ? recentPaths : [])
+      .map(normalizeGamePath)
+      .filter(Boolean)
+      .filter((path) => path !== currentGamePath);
+
+    nextPaths.unshift(currentGamePath);
+    localStorage.setItem(RECENT_GAMES_KEY, JSON.stringify(nextPaths.slice(0, 8)));
+  } catch (error) {
+    // ignore storage failures
+  }
+
   const css = `
     .playspark-home-menu {
       position: fixed;
@@ -74,7 +91,7 @@
   button.rel = "noreferrer";
   button.setAttribute("aria-label", "Back to home");
   button.title = "Back to home";
-  button.innerHTML = '<span class="playspark-home-menu__arrow">‹</span><span class="playspark-home-menu__badge" aria-hidden="true"></span>';
+  button.innerHTML = '<span class="playspark-home-menu__arrow">&larr;</span><span class="playspark-home-menu__badge" aria-hidden="true"></span>';
 
   const mount = () => document.body.appendChild(button);
   if (document.readyState === "loading") {
